@@ -1044,3 +1044,24 @@ CodingFleet	CodingFleet	Proprietary	https://codingfleet.com		No (proprietary)	AI
 Tembo	Tembo	Proprietary	https://www.tembo.io		No (proprietary)	Background coding agent orchestration platform running agents in cloud	Web;CLI						alternatives_search
 Intellicode	Microsoft	Proprietary	https://visualstudio.microsoft.com/services/intellicode/		No (proprietary)	Microsoft AI coding assistant in Visual Studio and VS Code	IDE						alternatives_search
 InsiderLLM	InsiderLLM	Proprietary	https://insiderllm.com		No (proprietary)	Local LLM platform for local coding agent setups	CLI						alternatives_search
+Blink	Blink	Proprietary	https://blink.new		No (proprietary)	Browser-based AI code editor and app builder	Web						alternatives_search
+Magic Patterns	Magic Patterns	Proprietary	https://magicpatterns.com		No (proprietary)	AI UI generator for React components and full pages, v0 alternative	Web						alternatives_search
+Flowstep	Flowstep	Proprietary	https://flowstep.ai		No (proprietary)	AI tool for UI design and frontend development	Web						alternatives_search
+OnSpace	OnSpace	Proprietary	https://onspace.ai		No (proprietary)	AI app builder for mobile and web	Web						alternatives_search
+AIDesigner	AIDesigner	Proprietary	https://aidesigner.ai		No (proprietary)	AI UI generator and full-stack app builder	Web						alternatives_search
+Seeles	Seeles	Proprietary	https://seeles.ai		No (proprietary)	AI web development platform for building web apps	Web						alternatives_search
+Atoms	Atoms	Proprietary	https://atoms.app		No (proprietary)	Coordinated team of AI agents covering full product lifecycle with Race Mode	Web						alternatives_search
+Thesys	Thesys	Proprietary	https://thesys.dev		No (proprietary)	AI agent builder platform with visual canvas for agent creation	Web						alternatives_search
+looperators	looperators	Proprietary	https://looperators.com		No (proprietary)	Multi-agent review loop coding tool for orchestrating agents that review and debate	CLI						alternatives_search
+RunCell	Kanaries	Proprietary	https://docs.kanaries.net		No (proprietary)	Notebook agent for data science inside JupyterLab with cells and variables	Web						alternatives_search
+IBM Bob	IBM	Proprietary	https://terminaltrove.com/compare/ai-coding-agents/ibm-bob/		No (proprietary)	IBM's Bob CLI coding agent	CLI						alternatives_search
+Droid CLI	Factory AI	Proprietary	https://terminaltrove.com/compare/ai-coding-agents/droid/		No (proprietary)	Droid CLI coding agent, terminal-based AI coding tool	CLI						alternatives_search
+Toad	Toad	Proprietary	https://terminaltrove.com/compare/ai-coding-agents/toad/		No (proprietary)	Toad AI coding agent, terminal-based	CLI						alternatives_search
+Tonkotsu	Independent	Proprietary	https://verdent.ai		No (proprietary)	AI coding agent for autonomous development	CLI						alternatives_search
+fx (Vercel)	Vercel	MIT	https://terminaltrove.com/compare/ai-coding-agents/fx-coding-agent/		No (proprietary)	Vercel's fx CLI coding agent	CLI						alternatives_search
+Rovo Dev CLI	Atlassian	Proprietary	https://terminaltrove.com/compare/ai-coding-agents/rovodev/		No (proprietary)	Atlassian's Rovo Dev CLI coding agent	CLI						alternatives_search
+OpenBlock	OpenBlock	Proprietary	https://terminaltrove.com/compare/ai-coding-agents/openblock/		No (proprietary)	OpenBlock AI coding agent, terminal-based	CLI						alternatives_search
+Ralph TUI	Ralph TUI	MIT	https://terminaltrove.com/compare/ai-coding-agents/ralph-tui/		No (proprietary)	Ralph TUI AI coding agent with TUI interface	CLI						alternatives_search
+Poolside Agent CLI	Poolside AI	Proprietary	https://terminaltrove.com/compare/ai-coding-agents/poolside-agent-cli/		No (proprietary)	Poolside AI's CLI coding agent	CLI						alternatives_search
+Qoder CLI	Qoder	Proprietary	https://terminaltrove.com/compare/ai-coding-agents/qoder-cli/		No (proprietary)	Qoder CLI coding agent, terminal-based	CLI						alternatives_search
+Auggie CLI	Augment Code	Proprietary	https://terminaltrove.com/compare/ai-coding-agents/auggie-cli/		No (proprietary)	Augment Code's CLI coding agent	CLI						alternatives_search

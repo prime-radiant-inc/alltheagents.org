@@ -1,6 +1,6 @@
 # Coding Agent Harnesses — Comprehensive List
 
-**Total entries: 1045**
+**Total entries: 1066**
 
 This table catalogs coding agent harnesses — systems that let an LLM autonomously write, modify, debug, or run code. Sources: e2b-dev/awesome-ai-agents, jqueryscript/awesome-coding-agent, bradAGI/awesome-cli-coding-agents, flatlogic/awesome-ai-software-development-agents, and GitHub topic searches (coding-agent, ai-coding-agent, code-agent, etc.). GitHub metadata enriched via GitHub API.
 
@@ -8,13 +8,13 @@ This table catalogs coding agent harnesses — systems that let an LLM autonomou
 
 | Field | Filled | Coverage |
 |-------|--------|----------|
-| Name | 1045 | 100% |
-| Maker | 952 | 91% |
-| License | 766 | 73% |
-| URL | 1045 | 100% |
-| Source code URL | 871 | 83% |
-| First released | 910 | 87% |
-| Stars | 823 | 78% |
+| Name | 1066 | 100% |
+| Maker | 973 | 91% |
+| License | 787 | 73% |
+| URL | 1066 | 100% |
+| Source code URL | 871 | 81% |
+| First released | 910 | 85% |
+| Stars | 823 | 77% |
 
 ## Full Table
 
@@ -1065,3 +1065,24 @@ This table catalogs coding agent harnesses — systems that let an LLM autonomou
 | 1043 | Tembo | Tembo | Proprietary | https://www.tembo.io | — | Background coding agent orchestration platform running agents in cloud | Web;CLI | — | — | — |
 | 1044 | Intellicode | Microsoft | Proprietary | https://visualstudio.microsoft.com/services/intellicode/ | — | Microsoft AI coding assistant in Visual Studio and VS Code | IDE | — | — | — |
 | 1045 | InsiderLLM | InsiderLLM | Proprietary | https://insiderllm.com | — | Local LLM platform for local coding agent setups | CLI | — | — | — |
+| 1046 | Blink | Blink | Proprietary | https://blink.new | — | Browser-based AI code editor and app builder | Web | — | — | — |
+| 1047 | Magic Patterns | Magic Patterns | Proprietary | https://magicpatterns.com | — | AI UI generator for React components and full pages, v0 alternative | Web | — | — | — |
+| 1048 | Flowstep | Flowstep | Proprietary | https://flowstep.ai | — | AI tool for UI design and frontend development | Web | — | — | — |
+| 1049 | OnSpace | OnSpace | Proprietary | https://onspace.ai | — | AI app builder for mobile and web | Web | — | — | — |
+| 1050 | AIDesigner | AIDesigner | Proprietary | https://aidesigner.ai | — | AI UI generator and full-stack app builder | Web | — | — | — |
+| 1051 | Seeles | Seeles | Proprietary | https://seeles.ai | — | AI web development platform for building web apps | Web | — | — | — |
+| 1052 | Atoms | Atoms | Proprietary | https://atoms.app | — | Coordinated team of AI agents covering full product lifecycle with Race Mode | Web | — | — | — |
+| 1053 | Thesys | Thesys | Proprietary | https://thesys.dev | — | AI agent builder platform with visual canvas for agent creation | Web | — | — | — |
+| 1054 | looperators | looperators | Proprietary | https://looperators.com | — | Multi-agent review loop coding tool for orchestrating agents that review and debate | CLI | — | — | — |
+| 1055 | RunCell | Kanaries | Proprietary | https://docs.kanaries.net | — | Notebook agent for data science inside JupyterLab with cells and variables | Web | — | — | — |
+| 1056 | IBM Bob | IBM | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/ibm-bob/ | — | IBM's Bob CLI coding agent | CLI | — | — | — |
+| 1057 | Droid CLI | Factory AI | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/droid/ | — | Droid CLI coding agent, terminal-based AI coding tool | CLI | — | — | — |
+| 1058 | Toad | Toad | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/toad/ | — | Toad AI coding agent, terminal-based | CLI | — | — | — |
+| 1059 | Tonkotsu | Independent | Proprietary | https://verdent.ai | — | AI coding agent for autonomous development | CLI | — | — | — |
+| 1060 | fx (Vercel) | Vercel | MIT | https://terminaltrove.com/compare/ai-coding-agents/fx-coding-agent/ | — | Vercel's fx CLI coding agent | CLI | — | — | — |
+| 1061 | Rovo Dev CLI | Atlassian | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/rovodev/ | — | Atlassian's Rovo Dev CLI coding agent | CLI | — | — | — |
+| 1062 | OpenBlock | OpenBlock | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/openblock/ | — | OpenBlock AI coding agent, terminal-based | CLI | — | — | — |
+| 1063 | Ralph TUI | Ralph TUI | MIT | https://terminaltrove.com/compare/ai-coding-agents/ralph-tui/ | — | Ralph TUI AI coding agent with TUI interface | CLI | — | — | — |
+| 1064 | Poolside Agent CLI | Poolside AI | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/poolside-agent-cli/ | — | Poolside AI's CLI coding agent | CLI | — | — | — |
+| 1065 | Qoder CLI | Qoder | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/qoder-cli/ | — | Qoder CLI coding agent, terminal-based | CLI | — | — | — |
+| 1066 | Auggie CLI | Augment Code | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/auggie-cli/ | — | Augment Code's CLI coding agent | CLI | — | — | — |
