@@ -28,9 +28,9 @@ install_method: null
 # --- classification ---
 platforms: []                 # CLI, IDE, Web, Desktop, Autonomous (multi-select)
 autonomy_level: []            # multi-select: list every mode the product supports
-                              # autocomplete | pair-programmer | agentic | autonomous-background
-                              # open question (from review): one-shot generative tools (e.g.
-                              # GPT-Engineer) fit none of these — fifth value, or leave empty?
+                              # autocomplete | pair-programmer | agentic | autonomous-background |
+                              # one-shot-generative (generates a codebase/app from a single prompt
+                              # with no interactive loop, e.g. GPT-Engineer, many app builders)
 specialization: "general"     # CLOSED enum — use a canonical value, extend the list via PR:
                               # general | ui-generation | sql-data | evals | code-review |
                               # testing | security | migration | documentation | devops | mobile
