@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "codex-cli",
+    "name": "Codex CLI",
+    "url": "https://github.com/openai/codex",
+    "source_code_url": "https://github.com/openai/codex",
+    "maker": "openai"
+  },
+  {
+    "slug": "openhands",
+    "name": "OpenHands",
+    "url": "https://github.com/OpenHands/OpenHands",
+    "source_code_url": "https://github.com/OpenHands/OpenHands",
+    "maker": "OpenHands"
+  },
+  {
+    "slug": "pi",
+    "name": "Pi",
+    "url": "https://github.com/earendil-works/pi",
+    "source_code_url": "https://github.com/earendil-works/pi",
+    "maker": "earendil-works"
+  },
+  {
+    "slug": "open-interpreter",
+    "name": "Open Interpreter",
+    "url": "https://github.com/openinterpreter/openinterpreter",
+    "source_code_url": "https://github.com/openinterpreter/openinterpreter",
+    "maker": "openinterpreter"
+  },
+  {
+    "slug": "cline",
+    "name": "Cline",
+    "url": "https://github.com/cline/cline",
+    "source_code_url": "https://github.com/cline/cline",
+    "maker": "cline"
+  },
+  {
+    "slug": "warp",
+    "name": "Warp",
+    "url": "https://github.com/warpdotdev/warp",
+    "source_code_url": "https://github.com/warpdotdev/warp",
+    "maker": "warpdotdev"
+  },
+  {
+    "slug": "goose",
+    "name": "Goose",
+    "url": "https://github.com/aaif-goose/goose",
+    "source_code_url": "https://github.com/aaif-goose/goose",
+    "maker": "aaif-goose"
+  },
+  {
+    "slug": "aider",
+    "name": "Aider",
+    "url": "https://github.com/Aider-AI/aider",
+    "source_code_url": "https://github.com/Aider-AI/aider",
+    "maker": "Aider-AI"
+  },
+  {
+    "slug": "continue",
+    "name": "Continue",
+    "url": "https://github.com/continuedev/continue",
+    "source_code_url": "https://github.com/continuedev/continue",
+    "maker": "continuedev"
+  },
+  {
+    "slug": "gpt-pilot",
+    "name": "GPT Pilot",
+    "url": "https://github.com/Pythagora-io/gpt-pilot",
+    "source_code_url": "https://github.com/Pythagora-io/gpt-pilot",
+    "maker": "Pythagora-io"
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "url": "https://github.com/cursor/cursor",
+    "source_code_url": "https://github.com/cursor/cursor",
+    "maker": "cursor"
+  },
+  {
+    "slug": "deepseek-reasonix",
+    "name": "DeepSeek Reasonix",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "source_code_url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "maker": "esengine"
+  },
+  {
+    "slug": "deep-agents-code",
+    "name": "Deep Agents Code",
+    "url": "https://github.com/langchain-ai/deepagents",
+    "source_code_url": "https://github.com/langchain-ai/deepagents",
+    "maker": "langchain-ai"
+  },
+  {
+    "slug": "crush",
+    "name": "Crush",
+    "url": "https://github.com/charmbracelet/crush",
+    "source_code_url": "https://github.com/charmbracelet/crush",
+    "maker": "charmbracelet"
+  },
+  {
+    "slug": "kilo-code",
+    "name": "Kilo Code",
+    "url": "https://github.com/Kilo-Org/kilocode",
+    "source_code_url": "https://github.com/Kilo-Org/kilocode",
+    "maker": "Kilo-Org"
+  },
+  {
+    "slug": "qwen-code",
+    "name": "Qwen Code",
+    "url": "https://github.com/QwenLM/qwen-code",
+    "source_code_url": "https://github.com/QwenLM/qwen-code",
+    "maker": "QwenLM"
+  },
+  {
+    "slug": "grok-build",
+    "name": "Grok Build",
+    "url": "https://github.com/xai-org/grok-build",
+    "source_code_url": "https://github.com/xai-org/grok-build",
+    "maker": "xai-org"
+  },
+  {
+    "slug": "oh-my-pi",
+    "name": "OH-MY-PI",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "source_code_url": "https://github.com/can1357/oh-my-pi",
+    "maker": "can1357"
+  },
+  {
+    "slug": "dyad",
+    "name": "Dyad",
+    "url": "https://github.com/dyad-sh/dyad",
+    "source_code_url": "https://github.com/dyad-sh/dyad",
+    "maker": "dyad-sh"
+  },
+  {
+    "slug": "swe-agent",
+    "name": "SWE-agent",
+    "url": "https://github.com/SWE-agent/SWE-agent",
+    "source_code_url": "https://github.com/SWE-agent/SWE-agent",
+    "maker": "SWE-agent"
+  }
+]

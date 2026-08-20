@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "dux",
+    "name": "dux",
+    "url": "https://github.com/patrickdappollonio/dux",
+    "source_code_url": "https://github.com/patrickdappollonio/dux",
+    "maker": "patrickdappollonio"
+  },
+  {
+    "slug": "sinew",
+    "name": "sinew",
+    "url": "https://github.com/Paseru/sinew",
+    "source_code_url": "https://github.com/Paseru/sinew",
+    "maker": "Paseru"
+  },
+  {
+    "slug": "swe-dev",
+    "name": "SWE-Dev",
+    "url": "https://github.com/THUDM/SWE-Dev",
+    "source_code_url": "https://github.com/THUDM/SWE-Dev",
+    "maker": "THUDM"
+  },
+  {
+    "slug": "cursor-in-browser",
+    "name": "cursor-in-browser",
+    "url": "https://github.com/Arfo-du-blo/cursor-in-browser",
+    "source_code_url": "https://github.com/Arfo-du-blo/cursor-in-browser",
+    "maker": "Arfo-du-blo"
+  },
+  {
+    "slug": "agent-orchestrator",
+    "name": "agent-orchestrator",
+    "url": "https://github.com/willynikes2/agent-orchestrator",
+    "source_code_url": "https://github.com/willynikes2/agent-orchestrator",
+    "maker": "willynikes2"
+  },
+  {
+    "slug": "untether",
+    "name": "Untether",
+    "url": "https://github.com/littlebearapps/untether",
+    "source_code_url": "https://github.com/littlebearapps/untether",
+    "maker": "littlebearapps"
+  },
+  {
+    "slug": "llmcode",
+    "name": "LLMCode",
+    "url": "https://github.com/syscalldev/LLMCode",
+    "source_code_url": "https://github.com/syscalldev/LLMCode",
+    "maker": "syscalldev"
+  },
+  {
+    "slug": "cornmcp",
+    "name": "CornMCP",
+    "url": "https://github.com/yuki-20/CornMCP",
+    "source_code_url": "https://github.com/yuki-20/CornMCP",
+    "maker": "yuki-20"
+  },
+  {
+    "slug": "marg-reviewer",
+    "name": "marg-reviewer",
+    "url": "https://github.com/allenai/marg-reviewer",
+    "source_code_url": "https://github.com/allenai/marg-reviewer",
+    "maker": "allenai"
+  },
+  {
+    "slug": "ai-game-base-analysis-cli-mcp-tool",
+    "name": "ai_game_base_analysis_cli_mcp_tool",
+    "url": "https://github.com/pirua-game/ai_game_base_analysis_cli_mcp_tool",
+    "source_code_url": "https://github.com/pirua-game/ai_game_base_analysis_cli_mcp_tool",
+    "maker": "pirua-game"
+  },
+  {
+    "slug": "thrush-swe-agent",
+    "name": "thrush-swe-agent",
+    "url": "https://github.com/shoyann/thrush-swe-agent",
+    "source_code_url": "https://github.com/shoyann/thrush-swe-agent",
+    "maker": "shoyann"
+  },
+  {
+    "slug": "pi-coding-agent-action",
+    "name": "pi-coding-agent-action",
+    "url": "https://github.com/shaftoe/pi-coding-agent-action",
+    "source_code_url": "https://github.com/shaftoe/pi-coding-agent-action",
+    "maker": "shaftoe"
+  },
+  {
+    "slug": "infcode",
+    "name": "InfCode",
+    "url": "https://github.com/Tokfinity/InfCode",
+    "source_code_url": "https://github.com/Tokfinity/InfCode",
+    "maker": "Tokfinity"
+  },
+  {
+    "slug": "edge-pi",
+    "name": "edge-pi",
+    "url": "https://github.com/marcusschiesser/edge-pi",
+    "source_code_url": "https://github.com/marcusschiesser/edge-pi",
+    "maker": "marcusschiesser"
+  },
+  {
+    "slug": "opencastle",
+    "name": "OpenCastle",
+    "url": "https://github.com/monkilabs/opencastle",
+    "source_code_url": "https://github.com/monkilabs/opencastle",
+    "maker": "monkilabs"
+  },
+  {
+    "slug": "the-factory",
+    "name": "The Factory",
+    "url": "https://github.com/akashgit/remote-factory",
+    "source_code_url": "https://github.com/akashgit/remote-factory",
+    "maker": "akashgit"
+  },
+  {
+    "slug": "autospec",
+    "name": "Autospec",
+    "url": "https://github.com/zachblume/autospec",
+    "source_code_url": "https://github.com/zachblume/autospec",
+    "maker": "zachblume"
+  },
+  {
+    "slug": "blueprints",
+    "name": "Blueprints",
+    "url": "https://github.com/sublayerapp/blueprints",
+    "source_code_url": "https://github.com/sublayerapp/blueprints",
+    "maker": "sublayerapp"
+  },
+  {
+    "slug": "qwen-cli-coder",
+    "name": "qwen_cli_coder",
+    "url": "https://github.com/dinoanderson/qwen_cli_coder",
+    "source_code_url": "https://github.com/dinoanderson/qwen_cli_coder",
+    "maker": "dinoanderson"
+  },
+  {
+    "slug": "beehive",
+    "name": "beehive",
+    "url": "https://github.com/storozhenko98/beehive",
+    "source_code_url": "https://github.com/storozhenko98/beehive",
+    "maker": "storozhenko98"
+  }
+]

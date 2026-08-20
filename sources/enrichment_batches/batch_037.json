@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "winx-code-agent",
+    "name": "winx-code-agent",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent",
+    "source_code_url": "https://github.com/gabrielmaialva33/winx-code-agent",
+    "maker": "gabrielmaialva33"
+  },
+  {
+    "slug": "swe-debate",
+    "name": "SWE-Debate",
+    "url": "https://github.com/YerbaPage/SWE-Debate",
+    "source_code_url": "https://github.com/YerbaPage/SWE-Debate",
+    "maker": "YerbaPage"
+  },
+  {
+    "slug": "plugins-coding-agents",
+    "name": "plugins-coding-agents",
+    "url": "https://github.com/UI5/plugins-coding-agents",
+    "source_code_url": "https://github.com/UI5/plugins-coding-agents",
+    "maker": "UI5"
+  },
+  {
+    "slug": "build-your-own-coding-agent",
+    "name": "build-your-own-coding-agent",
+    "url": "https://github.com/yanhua1010/build-your-own-coding-agent",
+    "source_code_url": "https://github.com/yanhua1010/build-your-own-coding-agent",
+    "maker": "yanhua1010"
+  },
+  {
+    "slug": "mle-star-open",
+    "name": "MLE-STAR-Open",
+    "url": "https://github.com/WalkingDevFlag/MLE-STAR-Open",
+    "source_code_url": "https://github.com/WalkingDevFlag/MLE-STAR-Open",
+    "maker": "WalkingDevFlag"
+  },
+  {
+    "slug": "terminal",
+    "name": "terminal",
+    "url": "https://github.com/bbarit/terminal",
+    "source_code_url": "https://github.com/bbarit/terminal",
+    "maker": "bbarit"
+  },
+  {
+    "slug": "vibe-replay",
+    "name": "vibe-replay",
+    "url": "https://github.com/tuo-lei/vibe-replay",
+    "source_code_url": "https://github.com/tuo-lei/vibe-replay",
+    "maker": "tuo-lei"
+  },
+  {
+    "slug": "zap",
+    "name": "Zap",
+    "url": "https://github.com/zap-coding-agent/zap-coding-agent",
+    "source_code_url": "https://github.com/zap-coding-agent/zap-coding-agent",
+    "maker": "zap-coding-agent"
+  },
+  {
+    "slug": "swe-chat",
+    "name": "SWE-chat",
+    "url": "https://github.com/SALT-NLP/SWE-chat",
+    "source_code_url": "https://github.com/SALT-NLP/SWE-chat",
+    "maker": "SALT-NLP"
+  },
+  {
+    "slug": "bim-llm-code-agent",
+    "name": "BIM_LLM_code_agent",
+    "url": "https://github.com/mac999/BIM_LLM_code_agent",
+    "source_code_url": "https://github.com/mac999/BIM_LLM_code_agent",
+    "maker": "mac999"
+  },
+  {
+    "slug": "viberaven",
+    "name": "VibeRaven",
+    "url": "https://github.com/ohad6k/VibeRaven",
+    "source_code_url": "https://github.com/ohad6k/VibeRaven",
+    "maker": "ohad6k"
+  },
+  {
+    "slug": "stemcode",
+    "name": "StemCode",
+    "url": "https://github.com/rizwan3d/StemCode",
+    "source_code_url": "https://github.com/rizwan3d/StemCode",
+    "maker": "rizwan3d"
+  },
+  {
+    "slug": "small-opencode-orchestrator",
+    "name": "small-opencode-orchestrator",
+    "url": "https://github.com/tempont/small-opencode-orchestrator",
+    "source_code_url": "https://github.com/tempont/small-opencode-orchestrator",
+    "maker": "tempont"
+  },
+  {
+    "slug": "dunk",
+    "name": "dunk",
+    "url": "https://github.com/amix/dunk",
+    "source_code_url": "https://github.com/amix/dunk",
+    "maker": "amix"
+  },
+  {
+    "slug": "grinta",
+    "name": "Grinta",
+    "url": "https://github.com/josephsenior/Grinta-Coding-Agent",
+    "source_code_url": "https://github.com/josephsenior/Grinta-Coding-Agent",
+    "maker": "josephsenior"
+  },
+  {
+    "slug": "fab-kit",
+    "name": "fab-kit",
+    "url": "https://github.com/sahil87/fab-kit",
+    "source_code_url": "https://github.com/sahil87/fab-kit",
+    "maker": "sahil87"
+  },
+  {
+    "slug": "coding-agents-workshop",
+    "name": "coding-agents-workshop",
+    "url": "https://github.com/sshh12/coding-agents-workshop",
+    "source_code_url": "https://github.com/sshh12/coding-agents-workshop",
+    "maker": "sshh12"
+  },
+  {
+    "slug": "miii-cli",
+    "name": "miii-cli",
+    "url": "https://github.com/maruakshay/miii-cli",
+    "source_code_url": "https://github.com/maruakshay/miii-cli",
+    "maker": "maruakshay"
+  },
+  {
+    "slug": "echocoding",
+    "name": "EchoCoding",
+    "url": "https://github.com/launsion-boop/EchoCoding",
+    "source_code_url": "https://github.com/launsion-boop/EchoCoding",
+    "maker": "launsion-boop"
+  },
+  {
+    "slug": "agx",
+    "name": "agx",
+    "url": "https://github.com/ramarlina/agx",
+    "source_code_url": "https://github.com/ramarlina/agx",
+    "maker": "ramarlina"
+  }
+]

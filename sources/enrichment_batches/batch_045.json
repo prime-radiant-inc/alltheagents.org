@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "vannaai",
+    "name": "Vanna.AI",
+    "url": "https://vanna.ai/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "westworld-simulation",
+    "name": "\u201cWestworld\u201d simulation",
+    "url": "https://theolvs.github.io/westworld/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "bardeen",
+    "name": "Bardeen",
+    "url": "https://www.bardeen.ai/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "cykel",
+    "name": "Cykel",
+    "url": "https://www.cykel.ai/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "github-copilot",
+    "name": "GitHub Copilot",
+    "url": "https://github.com/features/preview/copilot-x",
+    "source_code_url": "https://github.com/features/preview",
+    "maker": ""
+  },
+  {
+    "slug": "gitlab-duo",
+    "name": "GitLab Duo",
+    "url": "https://about.gitlab.com/gitlab-duo/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "kusho",
+    "name": "Kusho",
+    "url": "https://kusho.ai/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "phind",
+    "name": "Phind",
+    "url": "https://www.phind.com/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "powerdrill-ai",
+    "name": "Powerdrill AI",
+    "url": "https://powerdrill.ai/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "promptly",
+    "name": "Promptly",
+    "url": "https://www.trypromptly.com/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "talktodata",
+    "name": "TalktoData",
+    "url": "https://talktodata.ai/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "taskade",
+    "name": "Taskade",
+    "url": "https://www.taskade.com/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "v0-vercel",
+    "name": "v0 (Vercel)",
+    "url": "https://v0.dev/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "amp",
+    "name": "Amp",
+    "url": "https://sourcegraph.com/amp",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "junie-cli",
+    "name": "Junie CLI",
+    "url": "https://junie.jetbrains.com",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "cortex-code-cli",
+    "name": "Cortex Code CLI",
+    "url": "https://www.snowflake.com/en/product/cortex-code/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "mentat",
+    "name": "Mentat",
+    "url": "https://mentat.ai/docs/cli",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "catnip",
+    "name": "Catnip",
+    "url": "https://github.com/wandb/catnip",
+    "source_code_url": "https://github.com/wandb/catnip",
+    "maker": ""
+  },
+  {
+    "slug": "multi-agent-workflow-kit",
+    "name": "multi-agent-workflow-kit",
+    "url": "https://github.com/laris-co/multi-agent-workflow-kit",
+    "source_code_url": "https://github.com/laris-co/multi-agent-workflow-kit",
+    "maker": ""
+  },
+  {
+    "slug": "patapim",
+    "name": "PATAPIM",
+    "url": "https://patapim.ai",
+    "source_code_url": "",
+    "maker": ""
+  }
+]

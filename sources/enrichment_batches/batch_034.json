@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "agentic-code",
+    "name": "agentic-code",
+    "url": "https://github.com/shinpr/agentic-code",
+    "source_code_url": "https://github.com/shinpr/agentic-code",
+    "maker": "shinpr"
+  },
+  {
+    "slug": "codingagentexplorer",
+    "name": "CodingAgentExplorer",
+    "url": "https://github.com/tndata/CodingAgentExplorer",
+    "source_code_url": "https://github.com/tndata/CodingAgentExplorer",
+    "maker": "tndata"
+  },
+  {
+    "slug": "instrumentation",
+    "name": "instrumentation",
+    "url": "https://github.com/brutusin/instrumentation",
+    "source_code_url": "https://github.com/brutusin/instrumentation",
+    "maker": "brutusin"
+  },
+  {
+    "slug": "opencode-ui",
+    "name": "OpenCode_UI",
+    "url": "https://github.com/LaiZhou/OpenCode_UI",
+    "source_code_url": "https://github.com/LaiZhou/OpenCode_UI",
+    "maker": "LaiZhou"
+  },
+  {
+    "slug": "ai-builders-bootcamp-2",
+    "name": "AI-Builders-Bootcamp-2",
+    "url": "https://github.com/ShawhinT/AI-Builders-Bootcamp-2",
+    "source_code_url": "https://github.com/ShawhinT/AI-Builders-Bootcamp-2",
+    "maker": "ShawhinT"
+  },
+  {
+    "slug": "ai-testing-agent",
+    "name": "Ai-Testing-Agent",
+    "url": "https://github.com/furudo-erika/ai-testing-agent",
+    "source_code_url": "https://github.com/furudo-erika/ai-testing-agent",
+    "maker": "furudo-erika"
+  },
+  {
+    "slug": "httpclientcodegenerator",
+    "name": "HttpClientCodeGenerator",
+    "url": "https://github.com/Jalalx/HttpClientCodeGenerator",
+    "source_code_url": "https://github.com/Jalalx/HttpClientCodeGenerator",
+    "maker": "Jalalx"
+  },
+  {
+    "slug": "multi-agent-ai-sdr-flink-orchestrator",
+    "name": "multi-agent-ai-sdr-flink-orchestrator",
+    "url": "https://github.com/thefalc/multi-agent-ai-sdr-flink-orchestrator",
+    "source_code_url": "https://github.com/thefalc/multi-agent-ai-sdr-flink-orchestrator",
+    "maker": "thefalc"
+  },
+  {
+    "slug": "fireconnect",
+    "name": "FireConnect",
+    "url": "https://github.com/fw-ai/fireconnect",
+    "source_code_url": "https://github.com/fw-ai/fireconnect",
+    "maker": "fw-ai"
+  },
+  {
+    "slug": "llm4mol",
+    "name": "Llm4Mol",
+    "url": "https://github.com/HHW-zhou/LLM4Mol",
+    "source_code_url": "https://github.com/HHW-zhou/LLM4Mol",
+    "maker": "HHW-zhou"
+  },
+  {
+    "slug": "create-actionsprs",
+    "name": "Create-Actionsprs",
+    "url": "https://github.com/jhutchings1/Create-ActionsPRs",
+    "source_code_url": "https://github.com/jhutchings1/Create-ActionsPRs",
+    "maker": "jhutchings1"
+  },
+  {
+    "slug": "gadfly",
+    "name": "Gadfly",
+    "url": "https://github.com/Touchpoint-Labs/Gadfly",
+    "source_code_url": "https://github.com/Touchpoint-Labs/Gadfly",
+    "maker": "Touchpoint-Labs"
+  },
+  {
+    "slug": "cycode",
+    "name": "CyCode",
+    "url": "https://github.com/vibe-cy/CyCode",
+    "source_code_url": "https://github.com/vibe-cy/CyCode",
+    "maker": "vibe-cy"
+  },
+  {
+    "slug": "neocode",
+    "name": "NeoCode",
+    "url": "https://github.com/Hardik180704/NeoCode",
+    "source_code_url": "https://github.com/Hardik180704/NeoCode",
+    "maker": "Hardik180704"
+  },
+  {
+    "slug": "openclaw-code-agent",
+    "name": "openclaw-code-agent",
+    "url": "https://github.com/goldmar/openclaw-code-agent",
+    "source_code_url": "https://github.com/goldmar/openclaw-code-agent",
+    "maker": "goldmar"
+  },
+  {
+    "slug": "msn-flocking-formation-control",
+    "name": "MSN-Flocking-Formation-Control",
+    "url": "https://github.com/arjunhw97/MSN-Flocking-Formation-Control",
+    "source_code_url": "https://github.com/arjunhw97/MSN-Flocking-Formation-Control",
+    "maker": "arjunhw97"
+  },
+  {
+    "slug": "carrycode",
+    "name": "carrycode",
+    "url": "https://github.com/zhangliang605/carrycode",
+    "source_code_url": "https://github.com/zhangliang605/carrycode",
+    "maker": "zhangliang605"
+  },
+  {
+    "slug": "vercel-doctor",
+    "name": "vercel-doctor",
+    "url": "https://github.com/Aniket-508/vercel-doctor",
+    "source_code_url": "https://github.com/Aniket-508/vercel-doctor",
+    "maker": "Aniket-508"
+  },
+  {
+    "slug": "pi-reflect",
+    "name": "pi-reflect",
+    "url": "https://github.com/jo-inc/pi-reflect",
+    "source_code_url": "https://github.com/jo-inc/pi-reflect",
+    "maker": "jo-inc"
+  },
+  {
+    "slug": "zorow",
+    "name": "Zorow",
+    "url": "https://github.com/openmainframeproject/zorow",
+    "source_code_url": "https://github.com/openmainframeproject/zorow",
+    "maker": "openmainframeproject"
+  }
+]

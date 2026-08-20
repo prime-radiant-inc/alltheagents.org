@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "continous-ai",
+    "name": "Continous AI",
+    "url": "https://github.com/continous-ai/continous",
+    "source_code_url": "https://github.com/continous-ai/continous",
+    "maker": "Independent"
+  },
+  {
+    "slug": "qoder-cli",
+    "name": "qoder-cli",
+    "url": "https://github.com/qoder-cli/qoder-cli",
+    "source_code_url": "https://github.com/qoder-cli/qoder-cli",
+    "maker": "Qoder"
+  },
+  {
+    "slug": "a0dev",
+    "name": "a0.dev",
+    "url": "https://a0.dev",
+    "source_code_url": "",
+    "maker": "a0.dev"
+  },
+  {
+    "slug": "micro-agent",
+    "name": "Micro Agent",
+    "url": "https://github.com/micro-agent/micro-agent",
+    "source_code_url": "https://github.com/micro-agent/micro-agent",
+    "maker": "Independent"
+  },
+  {
+    "slug": "potpie-ai",
+    "name": "Potpie AI",
+    "url": "https://potpie.ai",
+    "source_code_url": "",
+    "maker": "Potpie"
+  },
+  {
+    "slug": "devra",
+    "name": "Devra",
+    "url": "https://devra.ai",
+    "source_code_url": "",
+    "maker": "Devra"
+  },
+  {
+    "slug": "appacella",
+    "name": "Appacella",
+    "url": "https://appacella.com",
+    "source_code_url": "",
+    "maker": "Appacella"
+  },
+  {
+    "slug": "codev",
+    "name": "Codev",
+    "url": "https://codev.ai",
+    "source_code_url": "",
+    "maker": "Codev"
+  },
+  {
+    "slug": "deepsite",
+    "name": "DeepSite",
+    "url": "https://deepsite.dev",
+    "source_code_url": "",
+    "maker": "DeepSite"
+  },
+  {
+    "slug": "zugabot",
+    "name": "Zugabot",
+    "url": "https://zugabot.com",
+    "source_code_url": "",
+    "maker": "Zugabot"
+  },
+  {
+    "slug": "gemini-code-assist",
+    "name": "Gemini Code Assist",
+    "url": "https://codeassist.google",
+    "source_code_url": "",
+    "maker": "Google"
+  },
+  {
+    "slug": "jetbrains-ai",
+    "name": "JetBrains AI",
+    "url": "https://www.jetbrains.com/ai",
+    "source_code_url": "",
+    "maker": "JetBrains"
+  },
+  {
+    "slug": "rocket",
+    "name": "Rocket",
+    "url": "https://www.rocketai.app",
+    "source_code_url": "",
+    "maker": "Rocket"
+  },
+  {
+    "slug": "emergent",
+    "name": "Emergent",
+    "url": "https://www.emergent.sh",
+    "source_code_url": "",
+    "maker": "Emergent"
+  },
+  {
+    "slug": "tempo",
+    "name": "Tempo",
+    "url": "https://www.tempolabs.ai",
+    "source_code_url": "",
+    "maker": "Tempo Labs"
+  },
+  {
+    "slug": "softgen",
+    "name": "Softgen",
+    "url": "https://www.softgen.ai",
+    "source_code_url": "",
+    "maker": "Softgen"
+  },
+  {
+    "slug": "databutton",
+    "name": "Databutton",
+    "url": "https://www.databutton.com",
+    "source_code_url": "",
+    "maker": "Databutton"
+  },
+  {
+    "slug": "marblism",
+    "name": "Marblism",
+    "url": "https://www.marblism.com",
+    "source_code_url": "",
+    "maker": "Marblism"
+  },
+  {
+    "slug": "figma-make",
+    "name": "Figma Make",
+    "url": "https://www.figma.com/make",
+    "source_code_url": "",
+    "maker": "Figma"
+  },
+  {
+    "slug": "base-44",
+    "name": "Base 44",
+    "url": "https://base44.com",
+    "source_code_url": "",
+    "maker": "Base44"
+  }
+]

@@ -15,6 +15,20 @@ current_release: "2026-02-25"
 stars: 2512
 language: "TypeScript"
 homepage: "https://codemachine.co/"
+mcp_support: null
+plugin_support: null
+claude_code_plugin: null
+subagents: null
+hooks: null
+plan_mode: null
+model_providers: null
+pricing: null
+install_method: null
+docs_url: null
+plugin_docs_url: null
+config_docs_url: null
+download_url: null
+maintained: null
 sources:
   - "brad"
   - "ishandutta"

@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "arcgentic",
+    "name": "Arcgentic",
+    "url": "https://github.com/Arch1eSUN/Arcgentic",
+    "source_code_url": "https://github.com/Arch1eSUN/Arcgentic",
+    "maker": "Arch1eSUN"
+  },
+  {
+    "slug": "claude-code-multi-agent",
+    "name": "Claude-Code-Multi-Agent",
+    "url": "https://github.com/Prorise-cool/Claude-Code-Multi-Agent",
+    "source_code_url": "https://github.com/Prorise-cool/Claude-Code-Multi-Agent",
+    "maker": "Prorise-cool"
+  },
+  {
+    "slug": "harness-terminal",
+    "name": "harness-terminal",
+    "url": "https://github.com/robzilla1738/harness-terminal",
+    "source_code_url": "https://github.com/robzilla1738/harness-terminal",
+    "maker": "robzilla1738"
+  },
+  {
+    "slug": "mutahunterai",
+    "name": "MutahunterAI",
+    "url": "https://github.com/codeintegrity-ai/mutahunter",
+    "source_code_url": "https://github.com/codeintegrity-ai/mutahunter",
+    "maker": "codeintegrity-ai"
+  },
+  {
+    "slug": "prarena",
+    "name": "PRarena",
+    "url": "https://github.com/aavetis/PRarena",
+    "source_code_url": "https://github.com/aavetis/PRarena",
+    "maker": "aavetis"
+  },
+  {
+    "slug": "deepseek-cli",
+    "name": "deepseek-cli",
+    "url": "https://github.com/holasoymalva/deepseek-cli",
+    "source_code_url": "https://github.com/holasoymalva/deepseek-cli",
+    "maker": "holasoymalva"
+  },
+  {
+    "slug": "pi-boomerang",
+    "name": "pi-boomerang",
+    "url": "https://github.com/nicobailon/pi-boomerang",
+    "source_code_url": "https://github.com/nicobailon/pi-boomerang",
+    "maker": "nicobailon"
+  },
+  {
+    "slug": "sudocode",
+    "name": "sudocode",
+    "url": "https://github.com/sudoprivacy/sudocode",
+    "source_code_url": "https://github.com/sudoprivacy/sudocode",
+    "maker": "sudoprivacy"
+  },
+  {
+    "slug": "calyx",
+    "name": "Calyx",
+    "url": "https://github.com/yuuichieguchi/Calyx",
+    "source_code_url": "https://github.com/yuuichieguchi/Calyx",
+    "maker": "yuuichieguchi"
+  },
+  {
+    "slug": "llmchat",
+    "name": "Llmchat",
+    "url": "https://github.com/c0sogi/LLMChat",
+    "source_code_url": "https://github.com/c0sogi/LLMChat",
+    "maker": "c0sogi"
+  },
+  {
+    "slug": "ultragamestudio",
+    "name": "UltraGameStudio",
+    "url": "https://github.com/wellingfeng/UltraGameStudio",
+    "source_code_url": "https://github.com/wellingfeng/UltraGameStudio",
+    "maker": "wellingfeng"
+  },
+  {
+    "slug": "ralph-wiggum",
+    "name": "ralph-wiggum",
+    "url": "https://github.com/fstandhartinger/ralph-wiggum",
+    "source_code_url": "https://github.com/fstandhartinger/ralph-wiggum",
+    "maker": "fstandhartinger"
+  },
+  {
+    "slug": "clawdstrike",
+    "name": "clawdstrike",
+    "url": "https://github.com/backbay-labs/clawdstrike",
+    "source_code_url": "https://github.com/backbay-labs/clawdstrike",
+    "maker": "backbay-labs"
+  },
+  {
+    "slug": "vim-codex",
+    "name": "vim_codex",
+    "url": "https://github.com/tom-doerr/vim_codex",
+    "source_code_url": "https://github.com/tom-doerr/vim_codex",
+    "maker": "tom-doerr"
+  },
+  {
+    "slug": "webcode",
+    "name": "WebCode",
+    "url": "https://github.com/shuyu-labs/WebCode",
+    "source_code_url": "https://github.com/shuyu-labs/WebCode",
+    "maker": "shuyu-labs"
+  },
+  {
+    "slug": "vs-code-agents",
+    "name": "vs-code-agents",
+    "url": "https://github.com/groupzer0/vs-code-agents",
+    "source_code_url": "https://github.com/groupzer0/vs-code-agents",
+    "maker": "groupzer0"
+  },
+  {
+    "slug": "code-interpreter",
+    "name": "Code-Interpreter",
+    "url": "https://github.com/haseeb-heaven/code-interpreter",
+    "source_code_url": "https://github.com/haseeb-heaven/code-interpreter",
+    "maker": "haseeb-heaven"
+  },
+  {
+    "slug": "codeium-react-code-editor",
+    "name": "codeium-react-code-editor",
+    "url": "https://github.com/Exafunction/codeium-react-code-editor",
+    "source_code_url": "https://github.com/Exafunction/codeium-react-code-editor",
+    "maker": "Exafunction"
+  },
+  {
+    "slug": "super-dev",
+    "name": "super-dev",
+    "url": "https://github.com/shangyankeji/super-dev",
+    "source_code_url": "https://github.com/shangyankeji/super-dev",
+    "maker": "shangyankeji"
+  },
+  {
+    "slug": "auggie",
+    "name": "Auggie",
+    "url": "https://github.com/augmentcode/auggie",
+    "source_code_url": "https://github.com/augmentcode/auggie",
+    "maker": "augmentcode"
+  }
+]

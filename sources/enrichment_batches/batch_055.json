@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "spark-d2c-agent",
+    "name": "Spark D2C Agent",
+    "url": "https://iflytek.com",
+    "source_code_url": "",
+    "maker": "iFlytek"
+  },
+  {
+    "slug": "ai-expert-for-codebases",
+    "name": "AI expert for codebases",
+    "url": "https://storia.ai",
+    "source_code_url": "",
+    "maker": "Storia AI"
+  },
+  {
+    "slug": "no-fate-ai",
+    "name": "No Fate AI",
+    "url": "https://nofateai.com",
+    "source_code_url": "",
+    "maker": "No Fate AI"
+  },
+  {
+    "slug": "mutableai",
+    "name": "mutable.ai",
+    "url": "https://mutable.ai",
+    "source_code_url": "",
+    "maker": "MutableAI"
+  },
+  {
+    "slug": "crystl",
+    "name": "crystl",
+    "url": "https://crystl.dev",
+    "source_code_url": "",
+    "maker": "crystl"
+  },
+  {
+    "slug": "exponent",
+    "name": "Exponent",
+    "url": "https://www.exponent.run",
+    "source_code_url": "",
+    "maker": "Exponent"
+  },
+  {
+    "slug": "superlog",
+    "name": "Superlog",
+    "url": "https://superlog.sh",
+    "source_code_url": "https://github.com/superloglabs/superlog",
+    "maker": "superloglabs"
+  },
+  {
+    "slug": "ade",
+    "name": "ADE",
+    "url": "https://ade-app.dev",
+    "source_code_url": "https://github.com/arul28/ADE",
+    "maker": "arul28"
+  },
+  {
+    "slug": "vibekit",
+    "name": "VibeKit",
+    "url": "https://www.vibekit.sh",
+    "source_code_url": "https://github.com/superagent-ai/vibekit",
+    "maker": "superagent-ai"
+  },
+  {
+    "slug": "line0",
+    "name": "Line0",
+    "url": "https://www.line0.dev",
+    "source_code_url": "",
+    "maker": "Line0"
+  },
+  {
+    "slug": "crew44",
+    "name": "Crew44",
+    "url": "https://crew44.io",
+    "source_code_url": "",
+    "maker": "Crew44"
+  },
+  {
+    "slug": "plusb",
+    "name": "PlusB",
+    "url": "https://www.plusb.in",
+    "source_code_url": "",
+    "maker": "PlusB"
+  },
+  {
+    "slug": "punk",
+    "name": "PUNK",
+    "url": "https://punkcode.rocks",
+    "source_code_url": "",
+    "maker": "PUNK"
+  },
+  {
+    "slug": "tonkotsu",
+    "name": "Tonkotsu",
+    "url": "https://tonkotsu.ai",
+    "source_code_url": "",
+    "maker": "Tonkotsu"
+  },
+  {
+    "slug": "nora",
+    "name": "Nora",
+    "url": "https://www.mynora.ai",
+    "source_code_url": "",
+    "maker": "Nora"
+  },
+  {
+    "slug": "jacob",
+    "name": "JACoB",
+    "url": "https://jacb.ai",
+    "source_code_url": "https://github.com/Renaissance-Innovation-Labs/jacob-ai",
+    "maker": "Renaissance-Innovation-Labs"
+  },
+  {
+    "slug": "kane-ai",
+    "name": "Kane AI",
+    "url": "https://www.testmuai.com/kane-ai",
+    "source_code_url": "",
+    "maker": "LambdaTest (TestMu AI)"
+  },
+  {
+    "slug": "t3-code",
+    "name": "T3 Code",
+    "url": "https://t3.codes",
+    "source_code_url": "https://github.com/pingdotgg/t3code",
+    "maker": "pingdotgg"
+  },
+  {
+    "slug": "pineify",
+    "name": "Pineify",
+    "url": "https://pineify.app",
+    "source_code_url": "",
+    "maker": "Pineify"
+  },
+  {
+    "slug": "clacky",
+    "name": "Clacky",
+    "url": "https://clacky.ai",
+    "source_code_url": "",
+    "maker": "Clacky"
+  }
+]

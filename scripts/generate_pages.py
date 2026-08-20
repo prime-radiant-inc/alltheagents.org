@@ -29,39 +29,38 @@ def main():
     if os.path.exists(overrides_path):
         with open(overrides_path, encoding="utf-8") as f:
             slug_overrides = json.load(f)
-        print(f"Loaded {len(slug_overrides)} slug overrides from {overrides_path}")
+        print(f"Loaded {len(slug_overrides)} slug overrides")
     
     field_overrides_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "field_overrides.json")
     field_overrides = {}
     if os.path.exists(field_overrides_path):
         with open(field_overrides_path, encoding="utf-8") as f:
             field_overrides = json.load(f)
-        print(f"Loaded {len(field_overrides)} field overrides from {field_overrides_path}")
+        print(f"Loaded {len(field_overrides)} field overrides")
     
     source_urls_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "source_urls.json")
     source_urls = {}
     if os.path.exists(source_urls_path):
         with open(source_urls_path, encoding="utf-8") as f:
             source_urls = json.load(f)
-        print(f"Loaded {len(source_urls)} source URLs from {source_urls_path}")
-
+        print(f"Loaded {len(source_urls)} source URLs")
+    
     multiplexer_slugs_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "multiplexer_slugs.json")
     multiplexer_slugs = set()
     if os.path.exists(multiplexer_slugs_path):
         with open(multiplexer_slugs_path, encoding="utf-8") as f:
             multiplexer_slugs = set(json.load(f))
-        print(f"Loaded {len(multiplexer_slugs)} multiplexer slugs from {multiplexer_slugs_path}")
-
+        print(f"Loaded {len(multiplexer_slugs)} multiplexer slugs")
+    
     rows = list(csv.DictReader(open(TSV, encoding="utf-8"), delimiter="\t"))
     print(f"Read {len(rows)} entries from TSV")
     
-    used_slugs = {}  # slug -> (name, maker, url, row_num)
+    used_slugs = {}
     agents_data = []
     
-    for row_num, r in enumerate(rows, start=2):  # TSV line 1 is header
+    for row_num, r in enumerate(rows, start=2):
         name = r.get("name", "").strip()
         url = r.get("url", "").strip()
-        # Use manual override if present: try name first, then URL
         slug = slug_overrides.get(name) or slug_overrides.get(url) or slugify(name)
         
         if slug in used_slugs:
@@ -75,9 +74,8 @@ def main():
             used_slugs[slug] = (name, r.get("maker", "").strip(), r.get("url", "").strip(), row_num)
         
         platforms = [p.strip() for p in (r.get("platforms", "") or "").split(";") if p.strip()]
-        sources = list(dict.fromkeys(s.strip() for s in (r.get("source_list", "") or "").split(",") if s.strip()))  # deduplicated, order preserved
+        sources = list(dict.fromkeys(s.strip() for s in (r.get("source_list", "") or "").split(",") if s.strip()))
         
-        # Apply field overrides (e.g. correct wrong language from GitHub API)
         if url in field_overrides:
             for field, value in field_overrides[url].items():
                 if value is None:
@@ -87,12 +85,13 @@ def main():
                     r[field] = str(value)
                     print(f"  Override: set '{field}' to '{value}' for {name} ({url})")
         
-        # Build frontmatter manually (no PyYAML dependency)
+        category = "multiplexer" if slug in multiplexer_slugs else "agent"
+        
+        # Build frontmatter
         fm_lines = ["---"]
         fm_lines.append(f"name: {yaml_escape(name)}")
         fm_lines.append(f"slug: {yaml_escape(slug)}")
         fm_lines.append("layout: agent.njk")
-        category = "multiplexer" if slug in multiplexer_slugs else "agent"
         fm_lines.append(f"category: {category}")
         fm_lines.append(f"maker: {yaml_escape(r.get('maker','').strip() or None)}")
         fm_lines.append(f"license: {yaml_escape(r.get('license','').strip() or None)}")
@@ -111,6 +110,21 @@ def main():
         fm_lines.append(f"stars: {int(stars) if stars.isdigit() else 'null'}")
         fm_lines.append(f"language: {yaml_escape(r.get('language','').strip() or None)}")
         fm_lines.append(f"homepage: {yaml_escape(r.get('homepage','').strip() or None)}")
+        # New enrichment fields (empty until enriched)
+        fm_lines.append(f"mcp_support: null")
+        fm_lines.append(f"plugin_support: null")
+        fm_lines.append(f"claude_code_plugin: null")
+        fm_lines.append(f"subagents: null")
+        fm_lines.append(f"hooks: null")
+        fm_lines.append(f"plan_mode: null")
+        fm_lines.append(f"model_providers: null")
+        fm_lines.append(f"pricing: null")
+        fm_lines.append(f"install_method: null")
+        fm_lines.append(f"docs_url: null")
+        fm_lines.append(f"plugin_docs_url: null")
+        fm_lines.append(f"config_docs_url: null")
+        fm_lines.append(f"download_url: null")
+        fm_lines.append(f"maintained: null")
         if sources:
             fm_lines.append("sources:")
             for s in sources:
@@ -128,6 +142,7 @@ def main():
         agents_data.append({
             "name": name,
             "slug": slug,
+            "category": category,
             "maker": r.get("maker","").strip() or None,
             "license": r.get("license","").strip() or None,
             "url": r.get("url","").strip() or None,

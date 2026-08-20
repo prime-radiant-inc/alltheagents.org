@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "poke",
+    "name": "Poke",
+    "url": "https://poke.ai",
+    "source_code_url": "",
+    "maker": "Poke AI"
+  },
+  {
+    "slug": "zai-code",
+    "name": "Z.ai Code",
+    "url": "https://z.ai/code",
+    "source_code_url": "",
+    "maker": "Z.ai"
+  },
+  {
+    "slug": "samedev",
+    "name": "Same.dev",
+    "url": "https://same.dev",
+    "source_code_url": "",
+    "maker": "Same"
+  },
+  {
+    "slug": "traycer-ai",
+    "name": "Traycer AI",
+    "url": "https://traycer.ai",
+    "source_code_url": "",
+    "maker": "Traycer"
+  },
+  {
+    "slug": "vscode-agent",
+    "name": "VSCode Agent",
+    "url": "https://code.visualstudio.com/agent",
+    "source_code_url": "",
+    "maker": "Microsoft"
+  },
+  {
+    "slug": "dia",
+    "name": "Dia",
+    "url": "https://dia.ai",
+    "source_code_url": "",
+    "maker": "Dia"
+  },
+  {
+    "slug": "orchidsapp",
+    "name": "Orchids.app",
+    "url": "https://orchids.app",
+    "source_code_url": "",
+    "maker": "Orchids"
+  },
+  {
+    "slug": "notionai",
+    "name": "NotionAI",
+    "url": "https://notion.so/ai",
+    "source_code_url": "",
+    "maker": "Notion"
+  },
+  {
+    "slug": "cluely",
+    "name": "Cluely",
+    "url": "https://cluely.ai",
+    "source_code_url": "",
+    "maker": "Cluely"
+  },
+  {
+    "slug": "manus",
+    "name": "Manus",
+    "url": "https://manus.im",
+    "source_code_url": "",
+    "maker": "Manus AI"
+  },
+  {
+    "slug": "baidu-miaoda",
+    "name": "Baidu Miaoda",
+    "url": "https://cloud.baidu.com/product/miaoda",
+    "source_code_url": "",
+    "maker": "Baidu"
+  },
+  {
+    "slug": "netease-youdao-lobster",
+    "name": "NetEase Youdao Lobster",
+    "url": "https://youdao.com",
+    "source_code_url": "",
+    "maker": "NetEase"
+  },
+  {
+    "slug": "huawei-codearts",
+    "name": "Huawei CodeArts",
+    "url": "https://www.huaweicloud.com/product-codearts.html",
+    "source_code_url": "",
+    "maker": "Huawei Cloud"
+  },
+  {
+    "slug": "iflycode",
+    "name": "iFlyCode",
+    "url": "https://iflycode.com",
+    "source_code_url": "",
+    "maker": "iFlytek"
+  },
+  {
+    "slug": "moonbit-pilot",
+    "name": "MoonBit Pilot",
+    "url": "https://www.moonbitlang.com",
+    "source_code_url": "https://github.com/moonbitlang/moonbit-doc",
+    "maker": "IDEA Research Institute"
+  },
+  {
+    "slug": "workbuddy",
+    "name": "WorkBuddy",
+    "url": "https://workbuddy.tencent.com",
+    "source_code_url": "",
+    "maker": "Tencent"
+  },
+  {
+    "slug": "linkai",
+    "name": "LinkAI",
+    "url": "https://linkai.cn",
+    "source_code_url": "",
+    "maker": "LinkAI"
+  },
+  {
+    "slug": "sharpclawcode",
+    "name": "SharpClawCode",
+    "url": "https://github.com/sharpclaw/sharpclawcode",
+    "source_code_url": "https://github.com/sharpclaw/sharpclawcode",
+    "maker": "Independent"
+  },
+  {
+    "slug": "yoyo",
+    "name": "yoyo",
+    "url": "https://github.com/yoyolab/yoyo",
+    "source_code_url": "https://github.com/yoyolab/yoyo",
+    "maker": "Independent"
+  },
+  {
+    "slug": "deepseek-tui",
+    "name": "DeepSeek-TUI",
+    "url": "https://github.com/deepseek-tui/deepseek-tui",
+    "source_code_url": "https://github.com/deepseek-tui/deepseek-tui",
+    "maker": "Independent"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "the-pair",
+    "name": "the-pair",
+    "url": "https://github.com/timwuhaotian/the-pair",
+    "source_code_url": "https://github.com/timwuhaotian/the-pair",
+    "maker": "timwuhaotian"
+  },
+  {
+    "slug": "harnss",
+    "name": "harnss",
+    "url": "https://github.com/OpenSource03/harnss",
+    "source_code_url": "https://github.com/OpenSource03/harnss",
+    "maker": "OpenSource03"
+  },
+  {
+    "slug": "camelai",
+    "name": "camelAI",
+    "url": "https://github.com/qaml-ai/camelAI",
+    "source_code_url": "https://github.com/qaml-ai/camelAI",
+    "maker": "qaml-ai"
+  },
+  {
+    "slug": "pi-hermes-memory",
+    "name": "pi-hermes-memory",
+    "url": "https://github.com/chandra447/pi-hermes-memory",
+    "source_code_url": "https://github.com/chandra447/pi-hermes-memory",
+    "maker": "chandra447"
+  },
+  {
+    "slug": "am-i-vibing",
+    "name": "am-i-vibing",
+    "url": "https://github.com/ascorbic/am-i-vibing",
+    "source_code_url": "https://github.com/ascorbic/am-i-vibing",
+    "maker": "ascorbic"
+  },
+  {
+    "slug": "2024-swe-new-grad",
+    "name": "2024-SWE-New-Grad",
+    "url": "https://github.com/AlanChen4/2024-SWE-New-Grad",
+    "source_code_url": "https://github.com/AlanChen4/2024-SWE-New-Grad",
+    "maker": "AlanChen4"
+  },
+  {
+    "slug": "syncode",
+    "name": "Syncode",
+    "url": "https://github.com/uiuc-focal-lab/syncode",
+    "source_code_url": "https://github.com/uiuc-focal-lab/syncode",
+    "maker": "structuredllm"
+  },
+  {
+    "slug": "rosetta",
+    "name": "rosetta",
+    "url": "https://github.com/griddynamics/rosetta",
+    "source_code_url": "https://github.com/griddynamics/rosetta",
+    "maker": "griddynamics"
+  },
+  {
+    "slug": "flounder",
+    "name": "flounder",
+    "url": "https://github.com/adshao/flounder",
+    "source_code_url": "https://github.com/adshao/flounder",
+    "maker": "adshao"
+  },
+  {
+    "slug": "swival",
+    "name": "swival",
+    "url": "https://github.com/Swival/swival",
+    "source_code_url": "https://github.com/Swival/swival",
+    "maker": "Swival"
+  },
+  {
+    "slug": "claude-swarm",
+    "name": "claude-swarm",
+    "url": "https://github.com/affaan-m/claude-swarm",
+    "source_code_url": "https://github.com/affaan-m/claude-swarm",
+    "maker": "affaan-m"
+  },
+  {
+    "slug": "streamship",
+    "name": "Streamship",
+    "url": "https://github.com/steamship-core/python-client",
+    "source_code_url": "https://github.com/steamship-core/python-client",
+    "maker": "steamship-core"
+  },
+  {
+    "slug": "r2e-gym",
+    "name": "R2E-Gym",
+    "url": "https://github.com/R2E-Gym/R2E-Gym",
+    "source_code_url": "https://github.com/R2E-Gym/R2E-Gym",
+    "maker": "R2E-Gym"
+  },
+  {
+    "slug": "agentrove",
+    "name": "agentrove",
+    "url": "https://github.com/Mng-dev-ai/agentrove",
+    "source_code_url": "https://github.com/Mng-dev-ai/agentrove",
+    "maker": "Mng-dev-ai"
+  },
+  {
+    "slug": "tokentelemetry",
+    "name": "tokentelemetry",
+    "url": "https://github.com/VasiHemanth/tokentelemetry",
+    "source_code_url": "https://github.com/VasiHemanth/tokentelemetry",
+    "maker": "VasiHemanth"
+  },
+  {
+    "slug": "project-codeguard",
+    "name": "project-codeguard",
+    "url": "https://github.com/cosai-oasis/project-codeguard",
+    "source_code_url": "https://github.com/cosai-oasis/project-codeguard",
+    "maker": "cosai-oasis"
+  },
+  {
+    "slug": "momo-code",
+    "name": "momo-code",
+    "url": "https://github.com/momozi1996/momo-code",
+    "source_code_url": "https://github.com/momozi1996/momo-code",
+    "maker": "momozi1996"
+  },
+  {
+    "slug": "delphi-ai-developer",
+    "name": "Delphi-AI-Developer",
+    "url": "https://github.com/Code4Delphi/Delphi-AI-Developer",
+    "source_code_url": "https://github.com/Code4Delphi/Delphi-AI-Developer",
+    "maker": "Code4Delphi"
+  },
+  {
+    "slug": "mini-kode",
+    "name": "Mini-Kode",
+    "url": "https://github.com/minmaxflow/mini-kode",
+    "source_code_url": "https://github.com/minmaxflow/mini-kode",
+    "maker": "minmaxflow"
+  },
+  {
+    "slug": "nehemiah",
+    "name": "nehemiah",
+    "url": "https://github.com/boringcomputers/nehemiah",
+    "source_code_url": "https://github.com/boringcomputers/nehemiah",
+    "maker": "boringcomputers"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "codey",
+    "name": "Codey",
+    "url": "https://www.codeyai.space",
+    "source_code_url": "",
+    "maker": "Codey"
+  },
+  {
+    "slug": "mantlecore-ai",
+    "name": "Mantlecore AI",
+    "url": "https://mantlecore.ai",
+    "source_code_url": "",
+    "maker": "Mantlecore"
+  },
+  {
+    "slug": "cli-manager",
+    "name": "CLI Manager",
+    "url": "https://www.solhun.com",
+    "source_code_url": "",
+    "maker": "Solhun"
+  },
+  {
+    "slug": "devle",
+    "name": "Devle",
+    "url": "https://devle.ai",
+    "source_code_url": "",
+    "maker": "Devle"
+  },
+  {
+    "slug": "scape",
+    "name": "Scape",
+    "url": "https://www.scape.work",
+    "source_code_url": "",
+    "maker": "Scape"
+  },
+  {
+    "slug": "ovren",
+    "name": "Ovren",
+    "url": "https://www.ovren.ai",
+    "source_code_url": "",
+    "maker": "Ovren"
+  },
+  {
+    "slug": "trycase",
+    "name": "TryCase",
+    "url": "https://trycase.dev",
+    "source_code_url": "",
+    "maker": "TryCase"
+  },
+  {
+    "slug": "crewargo",
+    "name": "CrewArgo",
+    "url": "https://www.crewargo.com",
+    "source_code_url": "",
+    "maker": "Crewargo"
+  },
+  {
+    "slug": "blackboxai",
+    "name": "BLACKBOX.AI",
+    "url": "https://www.blackbox.ai",
+    "source_code_url": "",
+    "maker": "BLACKBOX.AI"
+  },
+  {
+    "slug": "ctonew",
+    "name": "cto.new",
+    "url": "https://cto.new",
+    "source_code_url": "",
+    "maker": "cto.new"
+  },
+  {
+    "slug": "palmier",
+    "name": "Palmier",
+    "url": "https://www.palmier.me",
+    "source_code_url": "",
+    "maker": "Palmier"
+  },
+  {
+    "slug": "ara-ai",
+    "name": "Ara AI",
+    "url": "https://ara.so",
+    "source_code_url": "",
+    "maker": "Ara"
+  },
+  {
+    "slug": "pearai",
+    "name": "PearAI",
+    "url": "https://trypear.ai",
+    "source_code_url": "https://github.com/trypear/pearai-app",
+    "maker": "trypear"
+  },
+  {
+    "slug": "replicas",
+    "name": "Replicas",
+    "url": "https://tryreplicas.com",
+    "source_code_url": "",
+    "maker": "Replicas"
+  },
+  {
+    "slug": "contral",
+    "name": "Contral",
+    "url": "https://contral.ai",
+    "source_code_url": "",
+    "maker": "Contral"
+  },
+  {
+    "slug": "athena-by-luckeysystems",
+    "name": "Athena by LuckeySystems",
+    "url": "https://github.com/luckeyfaraday/Athena",
+    "source_code_url": "https://github.com/luckeyfaraday/Athena",
+    "maker": "luckeyfaraday"
+  },
+  {
+    "slug": "vibeworkspace",
+    "name": "VibeWorkspace",
+    "url": "https://www.vibe-workspace.cloud",
+    "source_code_url": "",
+    "maker": "VibeWorkspace"
+  },
+  {
+    "slug": "sonarly",
+    "name": "Sonarly",
+    "url": "https://sonarly.com",
+    "source_code_url": "",
+    "maker": "Sonarly"
+  },
+  {
+    "slug": "devstral2",
+    "name": "devstral2",
+    "url": "https://mistral.ai/news/devstral-2-vibe-cli/",
+    "source_code_url": "",
+    "maker": "Mistral AI"
+  },
+  {
+    "slug": "codenextai",
+    "name": "CodeNext.ai",
+    "url": "https://codenext.ai",
+    "source_code_url": "",
+    "maker": "CodeNext"
+  }
+]

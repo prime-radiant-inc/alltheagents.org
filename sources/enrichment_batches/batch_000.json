@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "claw-code",
+    "name": "Claw Code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "source_code_url": "https://github.com/ultraworkers/claw-code",
+    "maker": "ultraworkers"
+  },
+  {
+    "slug": "deerflow",
+    "name": "DeerFlow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "source_code_url": "https://github.com/bytedance/deer-flow",
+    "maker": "bytedance"
+  },
+  {
+    "slug": "metagpt",
+    "name": "MetaGPT",
+    "url": "https://github.com/geekan/MetaGPT",
+    "source_code_url": "https://github.com/geekan/MetaGPT",
+    "maker": "FoundationAgents"
+  },
+  {
+    "slug": "claude-flow",
+    "name": "claude-flow",
+    "url": "https://github.com/ruvnet/claude-flow",
+    "source_code_url": "https://github.com/ruvnet/claude-flow",
+    "maker": "ruvnet"
+  },
+  {
+    "slug": "openspec",
+    "name": "OpenSpec",
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "source_code_url": "https://github.com/Fission-AI/OpenSpec",
+    "maker": "Fission-AI"
+  },
+  {
+    "slug": "autogen",
+    "name": "AutoGen",
+    "url": "https://github.com/microsoft/autogen",
+    "source_code_url": "https://github.com/microsoft/autogen",
+    "maker": "microsoft"
+  },
+  {
+    "slug": "crewai",
+    "name": "CrewAI",
+    "url": "https://github.com/joaomdmoura/crewai",
+    "source_code_url": "https://github.com/joaomdmoura/crewai",
+    "maker": "crewAIInc"
+  },
+  {
+    "slug": "gpt-engineer",
+    "name": "GPT Engineer",
+    "url": "https://github.com/AntonOsika/gpt-engineer",
+    "source_code_url": "https://github.com/AntonOsika/gpt-engineer",
+    "maker": "AntonOsika"
+  },
+  {
+    "slug": "bmad-method",
+    "name": "BMAD-METHOD",
+    "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+    "source_code_url": "https://github.com/bmad-code-org/BMAD-METHOD",
+    "maker": "bmad-code-org"
+  },
+  {
+    "slug": "orca",
+    "name": "Orca",
+    "url": "https://github.com/stablyai/orca",
+    "source_code_url": "https://github.com/stablyai/orca",
+    "maker": "stablyai"
+  },
+  {
+    "slug": "oh-my-claudecode",
+    "name": "oh-my-claudecode",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+    "source_code_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+    "maker": "Yeachan-Heo"
+  },
+  {
+    "slug": "chatdev",
+    "name": "ChatDev",
+    "url": "https://github.com/OpenBMB/ChatDev",
+    "source_code_url": "https://github.com/OpenBMB/ChatDev",
+    "maker": "OpenBMB"
+  },
+  {
+    "slug": "ai-website-cloner-template",
+    "name": "ai-website-cloner-template",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "source_code_url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "maker": "JCodesMore"
+  },
+  {
+    "slug": "agentscope",
+    "name": "AgentScope",
+    "url": "https://github.com/modelscope/agentscope",
+    "source_code_url": "https://github.com/modelscope/agentscope",
+    "maker": "agentscope-ai"
+  },
+  {
+    "slug": "cmux",
+    "name": "cmux",
+    "url": "https://github.com/manaflow-ai/cmux",
+    "source_code_url": "https://github.com/manaflow-ai/cmux",
+    "maker": "manaflow-ai"
+  },
+  {
+    "slug": "roo-code-cli",
+    "name": "Roo Code CLI",
+    "url": "https://github.com/RooCodeInc/Roo-Code",
+    "source_code_url": "https://github.com/RooCodeInc/Roo-Code",
+    "maker": "RooCodeInc"
+  },
+  {
+    "slug": "agentsmd",
+    "name": "agents.md",
+    "url": "https://github.com/agentsmd/agents.md",
+    "source_code_url": "https://github.com/agentsmd/agents.md",
+    "maker": "agentsmd"
+  },
+  {
+    "slug": "archon",
+    "name": "Archon",
+    "url": "https://github.com/coleam00/Archon",
+    "source_code_url": "https://github.com/coleam00/Archon",
+    "maker": "coleam00"
+  },
+  {
+    "slug": "opcode",
+    "name": "opcode",
+    "url": "https://github.com/winfunc/opcode",
+    "source_code_url": "https://github.com/winfunc/opcode",
+    "maker": "winfunc"
+  },
+  {
+    "slug": "ralph",
+    "name": "ralph",
+    "url": "https://github.com/snarktank/ralph",
+    "source_code_url": "https://github.com/snarktank/ralph",
+    "maker": "snarktank"
+  }
+]

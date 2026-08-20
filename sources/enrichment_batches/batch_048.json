@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "public-agent-framwork",
+    "name": "Public-Agent-Framwork",
+    "url": "https://github.com/aurasgit/public-agent-framwork",
+    "source_code_url": "https://github.com/aurasgit/public-agent-framwork",
+    "maker": "aurasgit"
+  },
+  {
+    "slug": "python-agents",
+    "name": "Python-Agents",
+    "url": "https://github.com/clarisseIO/python-agents",
+    "source_code_url": "https://github.com/clarisseIO/python-agents",
+    "maker": "clarisseIO"
+  },
+  {
+    "slug": "sc-helm-app",
+    "name": "Sc-Helm-App",
+    "url": "https://github.com/amsilf/sc-helm-app",
+    "source_code_url": "https://github.com/amsilf/sc-helm-app",
+    "maker": "amsilf"
+  },
+  {
+    "slug": "synnex-symphony",
+    "name": "Synnex_Symphony",
+    "url": "https://github.com/Styro13/Synnex_Symphony",
+    "source_code_url": "https://github.com/Styro13/Synnex_Symphony",
+    "maker": ""
+  },
+  {
+    "slug": "tiny-agent",
+    "name": "Tiny-Agent",
+    "url": "https://github.com/bombap/tiny-agent",
+    "source_code_url": "https://github.com/bombap/tiny-agent",
+    "maker": "bombap"
+  },
+  {
+    "slug": "paper",
+    "name": "paper",
+    "url": "https://huggingface.co/papers/2510.05592",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "microsoft-agent-framework",
+    "name": "Microsoft Agent Framework",
+    "url": "https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "microsoft-magentic-one",
+    "name": "Microsoft Magentic-One",
+    "url": "https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "ai-agent-playground",
+    "name": "Ai-Agent-Playground",
+    "url": "https://github.com/Wei1024/AI-Agent-Playground",
+    "source_code_url": "https://github.com/Wei1024/AI-Agent-Playground",
+    "maker": "Wei1024"
+  },
+  {
+    "slug": "ai-agent-test",
+    "name": "Ai-Agent-Test",
+    "url": "https://github.com/sfelkner/ai-agent-test",
+    "source_code_url": "https://github.com/sfelkner/ai-agent-test",
+    "maker": "sfelkner"
+  },
+  {
+    "slug": "ai-agents-tool-dev",
+    "name": "Ai-Agents-Tool-Dev",
+    "url": "https://github.com/aydinfer/ai-agents-tool-dev",
+    "source_code_url": "https://github.com/aydinfer/ai-agents-tool-dev",
+    "maker": ""
+  },
+  {
+    "slug": "ai-code-gen",
+    "name": "Ai-Code-Gen",
+    "url": "https://github.com/Farelart/Ai-code-gen",
+    "source_code_url": "https://github.com/Farelart/Ai-code-gen",
+    "maker": "Farelart"
+  },
+  {
+    "slug": "ai-dev-agent-test",
+    "name": "Ai-Dev-Agent-Test",
+    "url": "https://github.com/eventstubsol/ai-dev-agent-test",
+    "source_code_url": "https://github.com/eventstubsol/ai-dev-agent-test",
+    "maker": "eventstubsol"
+  },
+  {
+    "slug": "aimultiagents",
+    "name": "Aimultiagents",
+    "url": "https://github.com/hesamjafarian/AiMultiAgents",
+    "source_code_url": "https://github.com/hesamjafarian/AiMultiAgents",
+    "maker": "hesamjafarian"
+  },
+  {
+    "slug": "claude-html-test",
+    "name": "Claude-Html-Test",
+    "url": "https://github.com/SivaramAdi/claude-html-test",
+    "source_code_url": "https://github.com/SivaramAdi/claude-html-test",
+    "maker": "SivaramAdi"
+  },
+  {
+    "slug": "crewai-101",
+    "name": "Crewai-101",
+    "url": "https://github.com/Reyzenello/CrewAI-101",
+    "source_code_url": "https://github.com/Reyzenello/CrewAI-101",
+    "maker": "Reyzenello"
+  },
+  {
+    "slug": "debugai",
+    "name": "Debugai",
+    "url": "https://github.com/Open-IDE/DebugAI",
+    "source_code_url": "https://github.com/Open-IDE/DebugAI",
+    "maker": "UniIDE"
+  },
+  {
+    "slug": "java-ai-sbus-test",
+    "name": "Java-Ai-Sbus-Test",
+    "url": "https://github.com/abhikt48/java-ai-sbus-test",
+    "source_code_url": "https://github.com/abhikt48/java-ai-sbus-test",
+    "maker": "abhikt48"
+  },
+  {
+    "slug": "multiagentworkflow",
+    "name": "Multiagentworkflow",
+    "url": "https://github.com/zachnoel/multiAgentWorkflow",
+    "source_code_url": "https://github.com/zachnoel/multiAgentWorkflow",
+    "maker": "zachnoel"
+  },
+  {
+    "slug": "o1-agent-test",
+    "name": "O1_Agent_Test",
+    "url": "https://github.com/alexmoses/o1_Agent_Test",
+    "source_code_url": "https://github.com/alexmoses/o1_Agent_Test",
+    "maker": "alexmoses"
+  }
+]

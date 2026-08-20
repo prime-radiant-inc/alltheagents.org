@@ -105,5 +105,8 @@
   "tmux",
   "zellij",
   "herdr",
-  "fantastty"
+  "fantastty",
+  "hoplite",
+  "twill",
+  "loopsy"
 ]

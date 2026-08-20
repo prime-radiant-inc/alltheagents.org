@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "pr-agent",
+    "name": "PR-Agent",
+    "url": "https://github.com/Codium-ai/pr-agent",
+    "source_code_url": "https://github.com/Codium-ai/pr-agent",
+    "maker": "The-PR-Agent"
+  },
+  {
+    "slug": "learn-coding-agent",
+    "name": "learn-coding-agent",
+    "url": "https://github.com/sanbuphy/learn-coding-agent",
+    "source_code_url": "https://github.com/sanbuphy/learn-coding-agent",
+    "maker": "sanbuphy"
+  },
+  {
+    "slug": "smol-developer",
+    "name": "Smol Developer",
+    "url": "https://github.com/smol-ai/developer",
+    "source_code_url": "https://github.com/smol-ai/developer",
+    "maker": "smol-ai"
+  },
+  {
+    "slug": "opencodex",
+    "name": "OpenCodex",
+    "url": "https://github.com/lidge-jun/opencodex",
+    "source_code_url": "https://github.com/lidge-jun/opencodex",
+    "maker": "lidge-jun"
+  },
+  {
+    "slug": "humanlayer",
+    "name": "humanlayer",
+    "url": "https://github.com/humanlayer/humanlayer",
+    "source_code_url": "https://github.com/humanlayer/humanlayer",
+    "maker": "humanlayer"
+  },
+  {
+    "slug": "valuecell",
+    "name": "valuecell",
+    "url": "https://github.com/ValueCell-ai/valuecell",
+    "source_code_url": "https://github.com/ValueCell-ai/valuecell",
+    "maker": "ValueCell-ai"
+  },
+  {
+    "slug": "electric",
+    "name": "electric",
+    "url": "https://github.com/electric-sql/electric",
+    "source_code_url": "https://github.com/electric-sql/electric",
+    "maker": "electric-sql"
+  },
+  {
+    "slug": "claurst",
+    "name": "Claurst",
+    "url": "https://github.com/Kuberwastaken/claurst",
+    "source_code_url": "https://github.com/Kuberwastaken/claurst",
+    "maker": "Kuberwastaken"
+  },
+  {
+    "slug": "yeoman",
+    "name": "Yeoman",
+    "url": "https://github.com/yeoman/yeoman",
+    "source_code_url": "https://github.com/yeoman/yeoman",
+    "maker": "yeoman"
+  },
+  {
+    "slug": "codex-security",
+    "name": "Codex Security",
+    "url": "https://github.com/openai/codex-security",
+    "source_code_url": "https://github.com/openai/codex-security",
+    "maker": "openai"
+  },
+  {
+    "slug": "agent-orchestrator-ao",
+    "name": "Agent Orchestrator (AO)",
+    "url": "https://github.com/Untrivial-ai/agent-orchestrator",
+    "source_code_url": "https://github.com/Untrivial-ai/agent-orchestrator",
+    "maker": "Untrivial-ai"
+  },
+  {
+    "slug": "inkos",
+    "name": "InkOS",
+    "url": "https://github.com/Narcooo/inkos",
+    "source_code_url": "https://github.com/Narcooo/inkos",
+    "maker": "Narcooo"
+  },
+  {
+    "slug": "omnigent",
+    "name": "Omnigent",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "source_code_url": "https://github.com/omnigent-ai/omnigent",
+    "maker": "omnigent-ai"
+  },
+  {
+    "slug": "praisonai",
+    "name": "PraisonAI",
+    "url": "https://github.com/MervinPraison/PraisonAI/",
+    "source_code_url": "https://github.com/MervinPraison/PraisonAI",
+    "maker": "MervinPraison"
+  },
+  {
+    "slug": "graphql-playground",
+    "name": "Graphql-Playground",
+    "url": "https://github.com/graphql/graphql-playground",
+    "source_code_url": "https://github.com/graphql/graphql-playground",
+    "maker": "graphql"
+  },
+  {
+    "slug": "typechat",
+    "name": "TypeChat",
+    "url": "https://github.com/microsoft/TypeChat",
+    "source_code_url": "https://github.com/microsoft/TypeChat",
+    "maker": "microsoft"
+  },
+  {
+    "slug": "claude-squad",
+    "name": "Claude Squad",
+    "url": "https://github.com/smtg-ai/claude-squad",
+    "source_code_url": "https://github.com/smtg-ai/claude-squad",
+    "maker": "smtg-ai"
+  },
+  {
+    "slug": "flue",
+    "name": "Flue",
+    "url": "https://github.com/withastro/flue",
+    "source_code_url": "https://github.com/withastro/flue",
+    "maker": "withastro"
+  },
+  {
+    "slug": "claude-agent-sdk-python",
+    "name": "Claude Agent SDK (Python)",
+    "url": "https://github.com/anthropics/claude-agent-sdk-python",
+    "source_code_url": "https://github.com/anthropics/claude-agent-sdk-python",
+    "maker": "anthropics"
+  },
+  {
+    "slug": "finrobot",
+    "name": "FinRobot",
+    "url": "https://github.com/AI4Finance-Foundation/FinRobot",
+    "source_code_url": "https://github.com/AI4Finance-Foundation/FinRobot",
+    "maker": "AI4Finance-Foundation"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "code-agent",
+    "name": "code-agent",
+    "url": "https://github.com/potproject/code-agent",
+    "source_code_url": "https://github.com/potproject/code-agent",
+    "maker": "potproject"
+  },
+  {
+    "slug": "sonagent",
+    "name": "SonAgent",
+    "url": "https://github.com/sonnhfit/SonAgent",
+    "source_code_url": "https://github.com/sonnhfit/SonAgent",
+    "maker": "sonnhfit"
+  },
+  {
+    "slug": "multiplayer",
+    "name": "multiplayer",
+    "url": "https://github.com/multiplayer-app/multiplayer",
+    "source_code_url": "https://github.com/multiplayer-app/multiplayer",
+    "maker": "multiplayer-app"
+  },
+  {
+    "slug": "awel",
+    "name": "Awel",
+    "url": "https://github.com/MarsZ42/Awel",
+    "source_code_url": "https://github.com/MarsZ42/Awel",
+    "maker": "MarsZ42"
+  },
+  {
+    "slug": "claudecode-orchestrator",
+    "name": "claudecode-orchestrator",
+    "url": "https://github.com/darrenapfel/claudecode-orchestrator",
+    "source_code_url": "https://github.com/darrenapfel/claudecode-orchestrator",
+    "maker": "darrenapfel"
+  },
+  {
+    "slug": "wolfpack",
+    "name": "Wolfpack",
+    "url": "https://github.com/almogdepaz/wolfpack",
+    "source_code_url": "https://github.com/almogdepaz/wolfpack",
+    "maker": "almogdepaz"
+  },
+  {
+    "slug": "codereview-ai-agent",
+    "name": "CodeReview-AI-Agent",
+    "url": "https://github.com/smirk-dev/CodeReview-AI-Agent",
+    "source_code_url": "https://github.com/smirk-dev/CodeReview-AI-Agent",
+    "maker": "smirk-dev"
+  },
+  {
+    "slug": "mbti-coding-agents",
+    "name": "mbti-coding-agents",
+    "url": "https://github.com/weiyangzen/mbti-coding-agents",
+    "source_code_url": "https://github.com/weiyangzen/mbti-coding-agents",
+    "maker": "weiyangzen"
+  },
+  {
+    "slug": "scenegenagent",
+    "name": "SceneGenAgent",
+    "url": "https://github.com/THUDM/SceneGenAgent",
+    "source_code_url": "https://github.com/THUDM/SceneGenAgent",
+    "maker": "THUDM"
+  },
+  {
+    "slug": "entwinellm",
+    "name": "EntwineLLM",
+    "url": "https://github.com/EmilianoMusso/EntwineLLM",
+    "source_code_url": "https://github.com/EmilianoMusso/EntwineLLM",
+    "maker": "EmilianoMusso"
+  },
+  {
+    "slug": "forgeo",
+    "name": "forgeo",
+    "url": "https://github.com/lucaGazzola/forgeo",
+    "source_code_url": "https://github.com/lucaGazzola/forgeo",
+    "maker": "lucaGazzola"
+  },
+  {
+    "slug": "codeclinicr",
+    "name": "CodeClinicR",
+    "url": "https://github.com/mnr/CodeClinicR",
+    "source_code_url": "https://github.com/mnr/CodeClinicR",
+    "maker": "mnr"
+  },
+  {
+    "slug": "codex-multi-agents",
+    "name": "codex-multi-agents",
+    "url": "https://github.com/violetDelia/codex-multi-agents",
+    "source_code_url": "https://github.com/violetDelia/codex-multi-agents",
+    "maker": "violetDelia"
+  },
+  {
+    "slug": "rayu-cli",
+    "name": "rayu-cli",
+    "url": "https://github.com/Choeng-Rayu/rayu-cli",
+    "source_code_url": "https://github.com/Choeng-Rayu/rayu-cli",
+    "maker": "Choeng-Rayu"
+  },
+  {
+    "slug": "privatecode",
+    "name": "PrivateCode",
+    "url": "https://github.com/Legorobotdude/PrivateCode",
+    "source_code_url": "https://github.com/Legorobotdude/PrivateCode",
+    "maker": "Legorobotdude"
+  },
+  {
+    "slug": "teamhero",
+    "name": "TeamHero",
+    "url": "https://github.com/sagiyaacoby/TeamHero",
+    "source_code_url": "https://github.com/sagiyaacoby/TeamHero",
+    "maker": "sagiyaacoby"
+  },
+  {
+    "slug": "llm-coding-agent",
+    "name": "llm-coding-agent",
+    "url": "https://github.com/simonw/llm-coding-agent",
+    "source_code_url": "https://github.com/simonw/llm-coding-agent",
+    "maker": "simonw"
+  },
+  {
+    "slug": "incredibledev",
+    "name": "Incredible.Dev",
+    "url": "https://github.com/IncredibleDevHQ/Incredible.dev",
+    "source_code_url": "https://github.com/IncredibleDevHQ/Incredible.dev",
+    "maker": "IncredibleDevHQ"
+  },
+  {
+    "slug": "conch",
+    "name": "conch",
+    "url": "https://github.com/Crustocean/conch",
+    "source_code_url": "https://github.com/Crustocean/conch",
+    "maker": "Crustocean"
+  },
+  {
+    "slug": "crewplane",
+    "name": "Crewplane",
+    "url": "https://github.com/crewplaneai/crewplane",
+    "source_code_url": "https://github.com/crewplaneai/crewplane",
+    "maker": "crewplaneai"
+  }
+]

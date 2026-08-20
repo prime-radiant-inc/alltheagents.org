@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "openmonoagentai",
+    "name": "OpenMonoAgent.ai",
+    "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
+    "source_code_url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
+    "maker": "StartupHakk"
+  },
+  {
+    "slug": "dmux",
+    "name": "dmux",
+    "url": "https://github.com/standardagents/dmux",
+    "source_code_url": "https://github.com/standardagents/dmux",
+    "maker": "standardagents"
+  },
+  {
+    "slug": "gpteam",
+    "name": "GPTeam",
+    "url": "https://github.com/101dotxyz/GPTeam",
+    "source_code_url": "https://github.com/101dotxyz/GPTeam",
+    "maker": "101dotxyz"
+  },
+  {
+    "slug": "claude-agent-sdk-typescript",
+    "name": "Claude Agent SDK (TypeScript)",
+    "url": "https://github.com/anthropics/claude-agent-sdk-typescript",
+    "source_code_url": "https://github.com/anthropics/claude-agent-sdk-typescript",
+    "maker": "anthropics"
+  },
+  {
+    "slug": "zeroshot",
+    "name": "zeroshot",
+    "url": "https://github.com/the-open-engine/zeroshot",
+    "source_code_url": "https://github.com/the-open-engine/zeroshot",
+    "maker": "the-open-engine"
+  },
+  {
+    "slug": "codeactagent",
+    "name": "CodeActAgent",
+    "url": "https://github.com/xingyaoww/code-act",
+    "source_code_url": "https://github.com/xingyaoww/code-act",
+    "maker": "xingyaoww"
+  },
+  {
+    "slug": "zoo-code",
+    "name": "Zoo-Code",
+    "url": "https://github.com/Zoo-Code-Org/Zoo-Code",
+    "source_code_url": "https://github.com/Zoo-Code-Org/Zoo-Code",
+    "maker": "Zoo-Code-Org"
+  },
+  {
+    "slug": "corecoder",
+    "name": "CoreCoder",
+    "url": "https://github.com/he-yufeng/CoreCoder",
+    "source_code_url": "https://github.com/he-yufeng/CoreCoder",
+    "maker": "he-yufeng"
+  },
+  {
+    "slug": "wordpressify",
+    "name": "Wordpressify",
+    "url": "https://github.com/luangjokaj/wordpressify",
+    "source_code_url": "https://github.com/luangjokaj/wordpressify",
+    "maker": "luangjokaj"
+  },
+  {
+    "slug": "yt-channels-ds-ai-ml-cs",
+    "name": "yt-channels-DS-AI-ML-CS",
+    "url": "https://github.com/benthecoder/yt-channels-DS-AI-ML-CS",
+    "source_code_url": "https://github.com/benthecoder/yt-channels-DS-AI-ML-CS",
+    "maker": "benthecoder"
+  },
+  {
+    "slug": "zero",
+    "name": "zero",
+    "url": "https://github.com/Gitlawb/zero",
+    "source_code_url": "https://github.com/Gitlawb/zero",
+    "maker": "Gitlawb"
+  },
+  {
+    "slug": "ai-devkit",
+    "name": "ai-devkit",
+    "url": "https://github.com/codeaholicguy/ai-devkit",
+    "source_code_url": "https://github.com/codeaholicguy/ai-devkit",
+    "maker": "codeaholicguy"
+  },
+  {
+    "slug": "zerostack",
+    "name": "zerostack",
+    "url": "https://github.com/gi-dellav/zerostack",
+    "source_code_url": "https://github.com/gi-dellav/zerostack",
+    "maker": "gi-dellav"
+  },
+  {
+    "slug": "sandbox-agent",
+    "name": "sandbox-agent",
+    "url": "https://github.com/rivet-dev/sandbox-agent",
+    "source_code_url": "https://github.com/rivet-dev/sandbox-agent",
+    "maker": "rivet-dev"
+  },
+  {
+    "slug": "nimbalyst",
+    "name": "Nimbalyst",
+    "url": "https://github.com/nimbalyst/nimbalyst",
+    "source_code_url": "https://github.com/nimbalyst/nimbalyst",
+    "maker": "nimbalyst"
+  },
+  {
+    "slug": "harness-engineering-from-cc-to-ai-coding",
+    "name": "harness-engineering-from-cc-to-ai-coding",
+    "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+    "source_code_url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+    "maker": "ZhangHanDong"
+  },
+  {
+    "slug": "cs146s-cn",
+    "name": "CS146S_CN",
+    "url": "https://github.com/ShouZhengAI/CS146S_CN",
+    "source_code_url": "https://github.com/ShouZhengAI/CS146S_CN",
+    "maker": "ShouZhengAI"
+  },
+  {
+    "slug": "lime",
+    "name": "lime",
+    "url": "https://github.com/limecloud/lime",
+    "source_code_url": "https://github.com/limecloud/lime",
+    "maker": "limecloud"
+  },
+  {
+    "slug": "deep-swe",
+    "name": "deep-swe",
+    "url": "https://github.com/datacurve-ai/deep-swe",
+    "source_code_url": "https://github.com/datacurve-ai/deep-swe",
+    "maker": "datacurve-ai"
+  },
+  {
+    "slug": "aider-desk",
+    "name": "aider-desk",
+    "url": "https://github.com/hotovo/aider-desk",
+    "source_code_url": "https://github.com/hotovo/aider-desk",
+    "maker": "hotovo"
+  }
+]

@@ -14,6 +14,20 @@ current_release: "2024-08-08"
 stars: 181
 language: null
 homepage: "https://huggingface.co/LGAI-EXAONE/EXAONE-3.0-7.8B-Instruct"
+mcp_support: null
+plugin_support: null
+claude_code_plugin: null
+subagents: null
+hooks: null
+plan_mode: null
+model_providers: null
+pricing: null
+install_method: null
+docs_url: null
+plugin_docs_url: null
+config_docs_url: null
+download_url: null
+maintained: null
 sources:
   - "jim"
 ---

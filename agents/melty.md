@@ -16,6 +16,20 @@ current_release: "2024-11-14"
 stars: null
 language: "TypeScript"
 homepage: "https://docs.google.com/forms/d/e/1FAIpQLSc6uBe0ea26q7Iq0Co_q5fjW2nypUl8G_Is5M_6t8n7wZHuPA/viewform"
+mcp_support: null
+plugin_support: null
+claude_code_plugin: null
+subagents: null
+hooks: null
+plan_mode: null
+model_providers: null
+pricing: null
+install_method: null
+docs_url: null
+plugin_docs_url: null
+config_docs_url: null
+download_url: null
+maintained: null
 sources:
   - "jqueryscript"
 ---

@@ -14,6 +14,20 @@ current_release: "2024-09-28"
 stars: 567
 language: "TypeScript"
 homepage: "https://JoinTakeoff.com"
+mcp_support: null
+plugin_support: null
+claude_code_plugin: null
+subagents: null
+hooks: null
+plan_mode: null
+model_providers: null
+pricing: null
+install_method: null
+docs_url: null
+plugin_docs_url: null
+config_docs_url: null
+download_url: null
+maintained: null
 sources:
   - "github_topic5"
 ---

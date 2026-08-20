@@ -14,6 +14,20 @@ current_release: "2026-02-09"
 stars: 57
 language: "Jupyter Notebook"
 homepage: "https://medium.com/@fareedkhandev/building-modern-ai-agentic-systemagentic-system-optimization-for-effective-planning-and-tool-f698e831d730"
+mcp_support: null
+plugin_support: null
+claude_code_plugin: null
+subagents: null
+hooks: null
+plan_mode: null
+model_providers: null
+pricing: null
+install_method: null
+docs_url: null
+plugin_docs_url: null
+config_docs_url: null
+download_url: null
+maintained: null
 sources:
   - "github_topic3"
 ---

@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "openblock-agent-ob-1",
+    "name": "OpenBlock Agent (OB-1)",
+    "url": "https://www.openblocklabs.com/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "antigravity-cli",
+    "name": "Antigravity CLI",
+    "url": "https://antigravity.google",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "kimi-cli",
+    "name": "Kimi CLI",
+    "url": "https://kimi.ai",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "qoder",
+    "name": "Qoder",
+    "url": "https://qoder.com",
+    "source_code_url": "",
+    "maker": "Qoder"
+  },
+  {
+    "slug": "augment-code",
+    "name": "Augment Code",
+    "url": "https://www.augmentcode.com",
+    "source_code_url": "",
+    "maker": "Augment Code"
+  },
+  {
+    "slug": "tongyi-lingma",
+    "name": "Tongyi Lingma",
+    "url": "https://lingma.aliyun.com",
+    "source_code_url": "",
+    "maker": "Alibaba Cloud"
+  },
+  {
+    "slug": "fitten-code",
+    "name": "Fitten Code",
+    "url": "https://code.fittentech.com",
+    "source_code_url": "",
+    "maker": "Fitten Tech"
+  },
+  {
+    "slug": "jules",
+    "name": "Jules",
+    "url": "https://jules.google",
+    "source_code_url": "",
+    "maker": "Google"
+  },
+  {
+    "slug": "genspark-ai-developer",
+    "name": "Genspark AI Developer",
+    "url": "https://www.genspark.ai",
+    "source_code_url": "",
+    "maker": "Genspark"
+  },
+  {
+    "slug": "eigent-ai",
+    "name": "Eigent AI",
+    "url": "https://eigent.ai",
+    "source_code_url": "https://github.com/eigent-ai/eigent",
+    "maker": "Eigent"
+  },
+  {
+    "slug": "mcplato",
+    "name": "MCPlato",
+    "url": "https://mcplato.com",
+    "source_code_url": "",
+    "maker": "MCPlato"
+  },
+  {
+    "slug": "factory",
+    "name": "Factory",
+    "url": "https://www.factory.ai",
+    "source_code_url": "",
+    "maker": "Factory AI"
+  },
+  {
+    "slug": "engine",
+    "name": "Engine",
+    "url": "https://enginelabs.ai",
+    "source_code_url": "",
+    "maker": "Engine Labs"
+  },
+  {
+    "slug": "nvidia-nemo-agent-toolkit",
+    "name": "NVIDIA NeMo Agent Toolkit",
+    "url": "https://developer.nvidia.com/nemo-agent-toolkit",
+    "source_code_url": "https://github.com/NVIDIA/NeMo",
+    "maker": "NVIDIA"
+  },
+  {
+    "slug": "canva-ai-coding",
+    "name": "Canva AI Coding",
+    "url": "https://www.canva.com/ai-coding/",
+    "source_code_url": "",
+    "maker": "Canva"
+  },
+  {
+    "slug": "codeagi",
+    "name": "CodeAGI",
+    "url": "https://soppradx.com",
+    "source_code_url": "",
+    "maker": "SOPPRA DX"
+  },
+  {
+    "slug": "otto",
+    "name": "Otto",
+    "url": "https://github.com/otto-ai/otto",
+    "source_code_url": "https://github.com/otto-ai/otto",
+    "maker": "Otto"
+  },
+  {
+    "slug": "intent",
+    "name": "Intent",
+    "url": "https://www.augmentcode.com/tools/intent",
+    "source_code_url": "",
+    "maker": "Augment Code"
+  },
+  {
+    "slug": "muse-code",
+    "name": "Muse Code",
+    "url": "https://github.com/meta-ai/muse-code",
+    "source_code_url": "",
+    "maker": "Meta"
+  },
+  {
+    "slug": "comet",
+    "name": "Comet",
+    "url": "https://comet.com",
+    "source_code_url": "",
+    "maker": "Comet"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "devika",
+    "name": "Devika",
+    "url": "https://github.com/stitionai/devika",
+    "source_code_url": "https://github.com/stitionai/devika",
+    "maker": "stitionai"
+  },
+  {
+    "slug": "deepcode",
+    "name": "DeepCode",
+    "url": "https://github.com/HKUDS/DeepCode",
+    "source_code_url": "https://github.com/HKUDS/DeepCode",
+    "maker": "HKUDS"
+  },
+  {
+    "slug": "plandex",
+    "name": "Plandex",
+    "url": "https://github.com/plandex-ai/plandex",
+    "source_code_url": "https://github.com/plandex-ai/plandex",
+    "maker": "plandex-ai"
+  },
+  {
+    "slug": "jcode",
+    "name": "JCode",
+    "url": "https://github.com/1jehuang/jcode",
+    "source_code_url": "https://github.com/1jehuang/jcode",
+    "maker": "1jehuang"
+  },
+  {
+    "slug": "mimo-code",
+    "name": "MiMo Code",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "source_code_url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "maker": "XiaomiMiMo"
+  },
+  {
+    "slug": "trae-agent",
+    "name": "Trae Agent",
+    "url": "https://github.com/bytedance/trae-agent",
+    "source_code_url": "https://github.com/bytedance/trae-agent",
+    "maker": "bytedance"
+  },
+  {
+    "slug": "claude-engineer",
+    "name": "Claude Engineer",
+    "url": "https://github.com/Doriandarko/claude-engineer",
+    "source_code_url": "https://github.com/Doriandarko/claude-engineer",
+    "maker": "Doriandarko"
+  },
+  {
+    "slug": "kimi-code-cli",
+    "name": "Kimi Code CLI",
+    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "source_code_url": "https://github.com/MoonshotAI/kimi-cli",
+    "maker": "MoonshotAI"
+  },
+  {
+    "slug": "github-copilot-cli",
+    "name": "GitHub Copilot CLI",
+    "url": "https://github.com/github/copilot-cli",
+    "source_code_url": "https://github.com/github/copilot-cli",
+    "maker": "github"
+  },
+  {
+    "slug": "open-swe",
+    "name": "Open SWE",
+    "url": "https://github.com/langchain-ai/open-swe",
+    "source_code_url": "https://github.com/langchain-ai/open-swe",
+    "maker": "langchain-ai"
+  },
+  {
+    "slug": "codebuff",
+    "name": "Codebuff",
+    "url": "https://github.com/CodebuffAI/codebuff",
+    "source_code_url": "https://github.com/CodebuffAI/codebuff",
+    "maker": "CodebuffAI"
+  },
+  {
+    "slug": "forgecode",
+    "name": "ForgeCode",
+    "url": "https://github.com/tailcallhq/forgecode",
+    "source_code_url": "https://github.com/tailcallhq/forgecode",
+    "maker": "tailcallhq"
+  },
+  {
+    "slug": "stagewise",
+    "name": "Stagewise",
+    "url": "https://github.com/stagewise-io/stagewise",
+    "source_code_url": "https://github.com/stagewise-io/stagewise",
+    "maker": "stagewise-io"
+  },
+  {
+    "slug": "opencursor",
+    "name": "OpenCursor",
+    "url": "https://github.com/PawanOsman/OpenCursor",
+    "source_code_url": "https://github.com/PawanOsman/OpenCursor",
+    "maker": "PawanOsman"
+  },
+  {
+    "slug": "melty",
+    "name": "Melty",
+    "url": "https://github.com/meltylabs/melty",
+    "source_code_url": "https://github.com/meltylabs/melty",
+    "maker": "meltylabs"
+  },
+  {
+    "slug": "kodu",
+    "name": "Kodu",
+    "url": "https://github.com/kodu-ai/claude-coder",
+    "source_code_url": "https://github.com/kodu-ai/claude-coder",
+    "maker": "kodu-ai"
+  },
+  {
+    "slug": "mistral-vibe",
+    "name": "Mistral Vibe",
+    "url": "https://github.com/mistralai/mistral-vibe",
+    "source_code_url": "https://github.com/mistralai/mistral-vibe",
+    "maker": "mistralai"
+  },
+  {
+    "slug": "command-code",
+    "name": "Command Code",
+    "url": "https://github.com/CommandCodeAI/command-code",
+    "source_code_url": "https://github.com/CommandCodeAI/command-code",
+    "maker": "CommandCodeAI"
+  },
+  {
+    "slug": "devon",
+    "name": "Devon",
+    "url": "https://github.com/entropy-research/Devon",
+    "source_code_url": "https://github.com/entropy-research/Devon",
+    "maker": "entropy-research"
+  },
+  {
+    "slug": "grok-cli",
+    "name": "Grok CLI",
+    "url": "https://github.com/superagent-ai/grok-cli",
+    "source_code_url": "https://github.com/superagent-ai/grok-cli",
+    "maker": "superagent-ai"
+  }
+]

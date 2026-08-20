@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "repo-to-text",
+    "name": "Repo-To-Text",
+    "url": "https://github.com/kirill-markin/repo-to-text",
+    "source_code_url": "https://github.com/kirill-markin/repo-to-text",
+    "maker": "kirill-markin"
+  },
+  {
+    "slug": "agentnotch",
+    "name": "agentnotch",
+    "url": "https://github.com/AppGram/agentnotch",
+    "source_code_url": "https://github.com/AppGram/agentnotch",
+    "maker": "AppGram"
+  },
+  {
+    "slug": "self-improving-agents",
+    "name": "self-improving-agents",
+    "url": "https://github.com/BetterForAll/self-improving-agents",
+    "source_code_url": "https://github.com/BetterForAll/self-improving-agents",
+    "maker": "BetterForAll"
+  },
+  {
+    "slug": "mobilevc",
+    "name": "MobileVC",
+    "url": "https://github.com/JayCRL/MobileVC",
+    "source_code_url": "https://github.com/JayCRL/MobileVC",
+    "maker": "JayCRL"
+  },
+  {
+    "slug": "gpt-code-assistant",
+    "name": "Gpt-Code-Assistant",
+    "url": "https://github.com/narenmanoharan/gpt-code-assistant",
+    "source_code_url": "https://github.com/narenmanoharan/gpt-code-assistant",
+    "maker": "narenmanoharan"
+  },
+  {
+    "slug": "symdex",
+    "name": "SymDex",
+    "url": "https://github.com/husnainpk/SymDex",
+    "source_code_url": "https://github.com/husnainpk/SymDex",
+    "maker": "husnainpk"
+  },
+  {
+    "slug": "codehamr",
+    "name": "codehamr",
+    "url": "https://github.com/codehamr/codehamr",
+    "source_code_url": "https://github.com/codehamr/codehamr",
+    "maker": "codehamr"
+  },
+  {
+    "slug": "whitebox-code-gpt",
+    "name": "Whitebox-Code-Gpt",
+    "url": "https://github.com/Decron/Whitebox-Code-GPT",
+    "source_code_url": "https://github.com/Decron/Whitebox-Code-GPT",
+    "maker": "Decron"
+  },
+  {
+    "slug": "codellmsurvey",
+    "name": "CodeLLMSurvey",
+    "url": "https://github.com/juyongjiang/CodeLLMSurvey",
+    "source_code_url": "https://github.com/juyongjiang/CodeLLMSurvey",
+    "maker": "juyongjiang"
+  },
+  {
+    "slug": "agent-sandbox",
+    "name": "agent-sandbox",
+    "url": "https://github.com/mattolson/agent-sandbox",
+    "source_code_url": "https://github.com/mattolson/agent-sandbox",
+    "maker": "mattolson"
+  },
+  {
+    "slug": "miniagent",
+    "name": "MiniAgent",
+    "url": "https://github.com/ZhuLinsen/MiniAgent",
+    "source_code_url": "https://github.com/ZhuLinsen/MiniAgent",
+    "maker": "ZhuLinsen"
+  },
+  {
+    "slug": "mapcoder",
+    "name": "MapCoder",
+    "url": "https://github.com/Md-Ashraful-Pramanik/MapCoder",
+    "source_code_url": "https://github.com/Md-Ashraful-Pramanik/MapCoder",
+    "maker": "Md-Ashraful-Pramanik"
+  },
+  {
+    "slug": "supercli",
+    "name": "supercli",
+    "url": "https://github.com/yashdev9274/supercli",
+    "source_code_url": "https://github.com/yashdev9274/supercli",
+    "maker": "yashdev9274"
+  },
+  {
+    "slug": "oi",
+    "name": "oi",
+    "url": "https://github.com/oi-overide/oi",
+    "source_code_url": "https://github.com/oi-overide/oi",
+    "maker": "oi-overide"
+  },
+  {
+    "slug": "lsp-mcp",
+    "name": "lsp-mcp",
+    "url": "https://github.com/jonrad/lsp-mcp",
+    "source_code_url": "https://github.com/jonrad/lsp-mcp",
+    "maker": "jonrad"
+  },
+  {
+    "slug": "codemini-cli",
+    "name": "Codemini-CLI",
+    "url": "https://github.com/havingautism/Codemini-CLI",
+    "source_code_url": "https://github.com/havingautism/Codemini-CLI",
+    "maker": "havingautism"
+  },
+  {
+    "slug": "formax",
+    "name": "formax",
+    "url": "https://github.com/yusifeng/formax",
+    "source_code_url": "https://github.com/yusifeng/formax",
+    "maker": "yusifeng"
+  },
+  {
+    "slug": "software-dev-prompt-library",
+    "name": "Software-Dev-Prompt-Library",
+    "url": "https://github.com/codingthefuturewithai/software-dev-prompt-library",
+    "source_code_url": "https://github.com/codingthefuturewithai/software-dev-prompt-library",
+    "maker": "codingthefuturewithai"
+  },
+  {
+    "slug": "atomcode",
+    "name": "atomcode",
+    "url": "https://github.com/atomgit-atomcode/atomcode",
+    "source_code_url": "https://github.com/atomgit-atomcode/atomcode",
+    "maker": "atomgit-atomcode"
+  },
+  {
+    "slug": "pagecast",
+    "name": "pagecast",
+    "url": "https://github.com/Amal-David/pagecast",
+    "source_code_url": "https://github.com/Amal-David/pagecast",
+    "maker": "Amal-David"
+  }
+]

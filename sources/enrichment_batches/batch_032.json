@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "autostartup",
+    "name": "AutoStartup",
+    "url": "https://github.com/jawerty/AutoStartup",
+    "source_code_url": "https://github.com/jawerty/AutoStartup",
+    "maker": "jawerty"
+  },
+  {
+    "slug": "synthtraces",
+    "name": "synthtraces",
+    "url": "https://github.com/julien-c/synthtraces",
+    "source_code_url": "https://github.com/julien-c/synthtraces",
+    "maker": "julien-c"
+  },
+  {
+    "slug": "codebase-index-cli",
+    "name": "codebase-index-cli",
+    "url": "https://github.com/dudufcb1/codebase-index-cli",
+    "source_code_url": "https://github.com/dudufcb1/codebase-index-cli",
+    "maker": "dudufcb1"
+  },
+  {
+    "slug": "agentic-coding-basic",
+    "name": "agentic-coding-basic",
+    "url": "https://github.com/thixpin/agentic-coding-basic",
+    "source_code_url": "https://github.com/thixpin/agentic-coding-basic",
+    "maker": "thixpin"
+  },
+  {
+    "slug": "verbalcodeai",
+    "name": "VerbalCodeAi",
+    "url": "https://github.com/vibheksoni/VerbalCodeAi",
+    "source_code_url": "https://github.com/vibheksoni/VerbalCodeAi",
+    "maker": "vibheksoni"
+  },
+  {
+    "slug": "picocode",
+    "name": "picocode",
+    "url": "https://github.com/jondot/picocode",
+    "source_code_url": "https://github.com/jondot/picocode",
+    "maker": "jondot"
+  },
+  {
+    "slug": "garcon",
+    "name": "Garcon",
+    "url": "https://github.com/cfal/garcon",
+    "source_code_url": "https://github.com/cfal/garcon",
+    "maker": "cfal"
+  },
+  {
+    "slug": "brood-box",
+    "name": "brood-box",
+    "url": "https://github.com/stacklok/brood-box",
+    "source_code_url": "https://github.com/stacklok/brood-box",
+    "maker": "stacklok"
+  },
+  {
+    "slug": "explorer",
+    "name": "Explorer",
+    "url": "https://github.com/invariantlabs-ai/explorer",
+    "source_code_url": "https://github.com/invariantlabs-ai/explorer",
+    "maker": "invariantlabs-ai"
+  },
+  {
+    "slug": "codebase-argus",
+    "name": "codebase-argus",
+    "url": "https://github.com/AaronZ345/codebase-argus",
+    "source_code_url": "https://github.com/AaronZ345/codebase-argus",
+    "maker": "AaronZ345"
+  },
+  {
+    "slug": "coding-agent",
+    "name": "coding-agent",
+    "url": "https://github.com/embabel/coding-agent",
+    "source_code_url": "https://github.com/embabel/coding-agent",
+    "maker": "embabel"
+  },
+  {
+    "slug": "hass-ai-orchestrator",
+    "name": "HASS-AI-Orchestrator",
+    "url": "https://github.com/ITSpecialist111/HASS-AI-Orchestrator",
+    "source_code_url": "https://github.com/ITSpecialist111/HASS-AI-Orchestrator",
+    "maker": "ITSpecialist111"
+  },
+  {
+    "slug": "multi-agent-training-grpo",
+    "name": "multi-agent-training-grpo",
+    "url": "https://github.com/FareedKhan-dev/multi-agent-training-grpo",
+    "source_code_url": "https://github.com/FareedKhan-dev/multi-agent-training-grpo",
+    "maker": "FareedKhan-dev"
+  },
+  {
+    "slug": "easy-coding-agents",
+    "name": "easy-coding-agents",
+    "url": "https://github.com/yushui2022/easy-coding-agents",
+    "source_code_url": "https://github.com/yushui2022/easy-coding-agents",
+    "maker": "yushui2022"
+  },
+  {
+    "slug": "orbiteditor",
+    "name": "orbiteditor",
+    "url": "https://github.com/ashish200729/orbiteditor",
+    "source_code_url": "https://github.com/ashish200729/orbiteditor",
+    "maker": "ashish200729"
+  },
+  {
+    "slug": "hcf",
+    "name": "hcf",
+    "url": "https://github.com/markshust/hcf",
+    "source_code_url": "https://github.com/markshust/hcf",
+    "maker": "markshust"
+  },
+  {
+    "slug": "run-kit",
+    "name": "run-kit",
+    "url": "https://github.com/sahil87/run-kit",
+    "source_code_url": "https://github.com/sahil87/run-kit",
+    "maker": "sahil87"
+  },
+  {
+    "slug": "better-agent",
+    "name": "Better Agent",
+    "url": "https://github.com/ofekron/better-agent",
+    "source_code_url": "https://github.com/ofekron/better-agent",
+    "maker": "ofekron"
+  },
+  {
+    "slug": "intellegix-code-agent-toolkit",
+    "name": "intellegix-code-agent-toolkit",
+    "url": "https://github.com/intellegix/intellegix-code-agent-toolkit",
+    "source_code_url": "https://github.com/intellegix/intellegix-code-agent-toolkit",
+    "maker": "intellegix"
+  },
+  {
+    "slug": "forge",
+    "name": "Forge",
+    "url": "https://github.com/LucasDuys/forge",
+    "source_code_url": "https://github.com/LucasDuys/forge",
+    "maker": "LucasDuys"
+  }
+]

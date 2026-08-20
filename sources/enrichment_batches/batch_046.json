@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "bwee",
+    "name": "Bwee",
+    "url": "https://bwee.app",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "even",
+    "name": "Even",
+    "url": "https://even.dev",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "unpeel",
+    "name": "Unpeel",
+    "url": "https://unpeel.com",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "demo",
+    "name": "demo",
+    "url": "https://twitter.com/OpenInterpreter/status/1770821439458840846",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "website",
+    "name": "website",
+    "url": "http://openinterpreter.com/01",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "docs",
+    "name": "docs",
+    "url": "https://01.openinterpreter.com/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "github-profile",
+    "name": "github profile",
+    "url": "https://github.com/aiwaves-cn",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "agents-by-hugging-face",
+    "name": "Agents by Hugging Face",
+    "url": "https://huggingface.co/docs/transformers/main_classes/agent",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "context-engine-ai",
+    "name": "context-engine-ai",
+    "url": "https://github.com/Quinnod345/context-engine",
+    "source_code_url": "https://github.com/Quinnod345/context-engine",
+    "maker": "Quinnod345"
+  },
+  {
+    "slug": "npm",
+    "name": "npm",
+    "url": "https://www.npmjs.com/package/context-engine-ai",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "landing-page",
+    "name": "landing page",
+    "url": "https://www.microsoft.com/en-us/research/project/autogen/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "research-paper",
+    "name": "research paper",
+    "url": "https://www.microsoft.com/en-us/research/publication/autogen-enabling-next-gen-llm-applications-via-multi-agent-conversation-framework/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "video",
+    "name": "video",
+    "url": "https://www.youtube.com/watch?v=DXhqhpHWRuM",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "axflow",
+    "name": "Axflow",
+    "url": "https://axflow.dev/",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "discord",
+    "name": "discord",
+    "url": "https://discord.gg/VmEEUrc7dg",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "twitter",
+    "name": "twitter",
+    "url": "https://twitter.com/Nurgo",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "browserbase",
+    "name": "Browserbase",
+    "url": "https://twitter.com/browserbasehq",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "chartgpt",
+    "name": "ChartGPT",
+    "url": "https://chartgpt.io",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "cody-sourcegraph",
+    "name": "Cody (Sourcegraph)",
+    "url": "https://sourcegraph.com/cody",
+    "source_code_url": "",
+    "maker": ""
+  },
+  {
+    "slug": "cosmo",
+    "name": "Cosmo",
+    "url": "https://meetcosmo.ai/",
+    "source_code_url": "",
+    "maker": ""
+  }
+]

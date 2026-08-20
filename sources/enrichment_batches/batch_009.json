@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "halo",
+    "name": "HALO",
+    "url": "https://github.com/context-labs/HALO",
+    "source_code_url": "https://github.com/context-labs/HALO",
+    "maker": "context-labs"
+  },
+  {
+    "slug": "prometheus",
+    "name": "Prometheus",
+    "url": "https://github.com/EuniAI/Prometheus",
+    "source_code_url": "https://github.com/EuniAI/Prometheus",
+    "maker": "EuniAI"
+  },
+  {
+    "slug": "github",
+    "name": "github",
+    "url": "https://github.com/axflow/axflow",
+    "source_code_url": "https://github.com/axflow/axflow",
+    "maker": "axflow"
+  },
+  {
+    "slug": "callmd",
+    "name": "call.md",
+    "url": "https://github.com/video-db/call.md",
+    "source_code_url": "https://github.com/video-db/call.md",
+    "maker": "video-db"
+  },
+  {
+    "slug": "mini-coding-agent",
+    "name": "mini-coding-agent",
+    "url": "https://github.com/rasbt/mini-coding-agent",
+    "source_code_url": "https://github.com/rasbt/mini-coding-agent",
+    "maker": "rasbt"
+  },
+  {
+    "slug": "deeptide",
+    "name": "deeptide",
+    "url": "https://github.com/paean-ai/deeptide",
+    "source_code_url": "https://github.com/paean-ai/deeptide",
+    "maker": "paean-ai"
+  },
+  {
+    "slug": "cli-agent-orchestrator-cao",
+    "name": "CLI Agent Orchestrator (CAO)",
+    "url": "https://github.com/awslabs/cli-agent-orchestrator",
+    "source_code_url": "https://github.com/awslabs/cli-agent-orchestrator",
+    "maker": "awslabs"
+  },
+  {
+    "slug": "coding-agent-session-search",
+    "name": "coding_agent_session_search",
+    "url": "https://github.com/Dicklesworthstone/coding_agent_session_search",
+    "source_code_url": "https://github.com/Dicklesworthstone/coding_agent_session_search",
+    "maker": "Dicklesworthstone"
+  },
+  {
+    "slug": "minicode",
+    "name": "MiniCode",
+    "url": "https://github.com/LiuMengxuan04/MiniCode",
+    "source_code_url": "https://github.com/LiuMengxuan04/MiniCode",
+    "maker": "LiuMengxuan04"
+  },
+  {
+    "slug": "openalpha-evolve",
+    "name": "OpenAlpha_Evolve",
+    "url": "https://github.com/shyamsaktawat/OpenAlpha_Evolve",
+    "source_code_url": "https://github.com/shyamsaktawat/OpenAlpha_Evolve",
+    "maker": "shyamsaktawat"
+  },
+  {
+    "slug": "ix",
+    "name": "IX",
+    "url": "https://github.com/kreneskyp/ix",
+    "source_code_url": "https://github.com/kreneskyp/ix",
+    "maker": "kreneskyp"
+  },
+  {
+    "slug": "anima",
+    "name": "Anima",
+    "url": "https://github.com/Fullive-AI/Anima",
+    "source_code_url": "https://github.com/Fullive-AI/Anima",
+    "maker": "Fullive-AI"
+  },
+  {
+    "slug": "ai-engineering-roadmap",
+    "name": "Ai-Engineering-Roadmap",
+    "url": "https://github.com/AgenticAiLabs/Ai-Engineering-Roadmap",
+    "source_code_url": "https://github.com/AgenticAiLabs/Ai-Engineering-Roadmap",
+    "maker": "AgenticAiLabs"
+  },
+  {
+    "slug": "repoagent",
+    "name": "RepoAgent",
+    "url": "https://github.com/OpenBMB/RepoAgent",
+    "source_code_url": "https://github.com/OpenBMB/RepoAgent",
+    "maker": "OpenBMB"
+  },
+  {
+    "slug": "graperoot",
+    "name": "GrapeRoot",
+    "url": "https://github.com/kunal12203/GrapeRoot",
+    "source_code_url": "https://github.com/kunal12203/GrapeRoot",
+    "maker": "kunal12203"
+  },
+  {
+    "slug": "fanbox",
+    "name": "fanbox",
+    "url": "https://github.com/alchaincyf/fanbox",
+    "source_code_url": "https://github.com/alchaincyf/fanbox",
+    "maker": "alchaincyf"
+  },
+  {
+    "slug": "parallel-code",
+    "name": "Parallel Code",
+    "url": "https://github.com/johannesjo/parallel-code",
+    "source_code_url": "https://github.com/johannesjo/parallel-code",
+    "maker": "johannesjo"
+  },
+  {
+    "slug": "swe-af",
+    "name": "SWE-AF",
+    "url": "https://github.com/Agent-Field/SWE-AF",
+    "source_code_url": "https://github.com/Agent-Field/SWE-AF",
+    "maker": "Agent-Field"
+  },
+  {
+    "slug": "fireproof",
+    "name": "fireproof",
+    "url": "https://github.com/fireproof-storage/fireproof",
+    "source_code_url": "https://github.com/fireproof-storage/fireproof",
+    "maker": "fireproof-storage"
+  },
+  {
+    "slug": "empryo",
+    "name": "Empryo",
+    "url": "https://github.com/proxysoul/Empryo",
+    "source_code_url": "https://github.com/proxysoul/Empryo",
+    "maker": "proxysoul"
+  }
+]

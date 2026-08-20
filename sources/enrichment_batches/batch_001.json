@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "coze-studio",
+    "name": "coze-studio",
+    "url": "https://github.com/coze-dev/coze-studio",
+    "source_code_url": "https://github.com/coze-dev/coze-studio",
+    "maker": "coze-dev"
+  },
+  {
+    "slug": "video-use",
+    "name": "video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "source_code_url": "https://github.com/browser-use/video-use",
+    "maker": "browser-use"
+  },
+  {
+    "slug": "opencodereview",
+    "name": "OpenCodeReview",
+    "url": "https://github.com/alibaba/open-code-review",
+    "source_code_url": "https://github.com/alibaba/open-code-review",
+    "maker": "alibaba"
+  },
+  {
+    "slug": "hindsight",
+    "name": "Hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "source_code_url": "https://github.com/vectorize-io/hindsight",
+    "maker": "vectorize-io"
+  },
+  {
+    "slug": "agency-agents-zh",
+    "name": "agency-agents-zh",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "source_code_url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "maker": "jnMetaCode"
+  },
+  {
+    "slug": "sealos",
+    "name": "sealos",
+    "url": "https://github.com/labring/sealos",
+    "source_code_url": "https://github.com/labring/sealos",
+    "maker": "labring"
+  },
+  {
+    "slug": "langchain-js-tools",
+    "name": "LangChain JS Tools",
+    "url": "https://github.com/langchain-ai/langchainjs",
+    "source_code_url": "https://github.com/langchain-ai/langchainjs",
+    "maker": "langchain-ai"
+  },
+  {
+    "slug": "gastown",
+    "name": "gastown",
+    "url": "https://github.com/steveyegge/gastown",
+    "source_code_url": "https://github.com/steveyegge/gastown",
+    "maker": "gastownhall"
+  },
+  {
+    "slug": "prime-agent",
+    "name": "Prime Agent",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "source_code_url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "maker": "PrimeIntellect-ai"
+  },
+  {
+    "slug": "qwen-agent",
+    "name": "Qwen-Agent",
+    "url": "https://github.com/QwenLM/Qwen-Agent",
+    "source_code_url": "https://github.com/QwenLM/Qwen-Agent",
+    "maker": "QwenLM"
+  },
+  {
+    "slug": "dagger",
+    "name": "Dagger",
+    "url": "https://github.com/dagger/dagger",
+    "source_code_url": "https://github.com/dagger/dagger",
+    "maker": "dagger"
+  },
+  {
+    "slug": "openwiki",
+    "name": "OpenWiki",
+    "url": "https://github.com/langchain-ai/openwiki",
+    "source_code_url": "https://github.com/langchain-ai/openwiki",
+    "maker": "langchain-ai"
+  },
+  {
+    "slug": "gitingest",
+    "name": "GitIngest",
+    "url": "https://github.com/coderamp-labs/gitingest",
+    "source_code_url": "https://github.com/coderamp-labs/gitingest",
+    "maker": "coderamp-labs"
+  },
+  {
+    "slug": "pentestgpt",
+    "name": "Pentestgpt",
+    "url": "https://github.com/GreyDGL/PentestGPT",
+    "source_code_url": "https://github.com/GreyDGL/PentestGPT",
+    "maker": "GreyDGL"
+  },
+  {
+    "slug": "aperant",
+    "name": "Aperant",
+    "url": "https://github.com/AndyMik90/Aperant",
+    "source_code_url": "https://github.com/AndyMik90/Aperant",
+    "maker": "AndyMik90"
+  },
+  {
+    "slug": "paseo",
+    "name": "Paseo",
+    "url": "https://github.com/getpaseo/paseo",
+    "source_code_url": "https://github.com/getpaseo/paseo",
+    "maker": "getpaseo"
+  },
+  {
+    "slug": "context-hub",
+    "name": "context-hub",
+    "url": "https://github.com/andrewyng/context-hub",
+    "source_code_url": "https://github.com/andrewyng/context-hub",
+    "maker": "andrewyng"
+  },
+  {
+    "slug": "context-engineering-intro",
+    "name": "context-engineering-intro",
+    "url": "https://github.com/coleam00/context-engineering-intro",
+    "source_code_url": "https://github.com/coleam00/context-engineering-intro",
+    "maker": "coleam00"
+  },
+  {
+    "slug": "superset",
+    "name": "Superset",
+    "url": "https://github.com/superset-sh/superset",
+    "source_code_url": "https://github.com/superset-sh/superset",
+    "maker": "superset-sh"
+  },
+  {
+    "slug": "insforge",
+    "name": "InsForge",
+    "url": "https://github.com/InsForge/InsForge",
+    "source_code_url": "https://github.com/InsForge/InsForge",
+    "maker": "InsForge"
+  }
+]

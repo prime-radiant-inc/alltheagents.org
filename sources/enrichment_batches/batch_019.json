@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "web-code-agent",
+    "name": "web-code-agent",
+    "url": "https://github.com/oldjs/web-code-agent",
+    "source_code_url": "https://github.com/oldjs/web-code-agent",
+    "maker": "oldjs"
+  },
+  {
+    "slug": "vibe-tree",
+    "name": "vibe-tree",
+    "url": "https://github.com/sahithvibudhi/vibe-tree",
+    "source_code_url": "https://github.com/sahithvibudhi/vibe-tree",
+    "maker": "sahithvibudhi"
+  },
+  {
+    "slug": "vix",
+    "name": "vix",
+    "url": "https://github.com/get-vix/vix",
+    "source_code_url": "https://github.com/get-vix/vix",
+    "maker": "get-vix"
+  },
+  {
+    "slug": "biscuit",
+    "name": "biscuit",
+    "url": "https://github.com/tomlin7/biscuit",
+    "source_code_url": "https://github.com/tomlin7/biscuit",
+    "maker": "tomlin7"
+  },
+  {
+    "slug": "hax",
+    "name": "hax",
+    "url": "https://github.com/OleksandrChekhovskyi/hax",
+    "source_code_url": "https://github.com/OleksandrChekhovskyi/hax",
+    "maker": "OleksandrChekhovskyi"
+  },
+  {
+    "slug": "codinit-dev",
+    "name": "codinit-dev",
+    "url": "https://github.com/codinit-dev/codinit-dev",
+    "source_code_url": "https://github.com/codinit-dev/codinit-dev",
+    "maker": "codinit-dev"
+  },
+  {
+    "slug": "pi-coding-agent",
+    "name": "pi-coding-agent",
+    "url": "https://github.com/dnouri/pi-coding-agent",
+    "source_code_url": "https://github.com/dnouri/pi-coding-agent",
+    "maker": "dnouri"
+  },
+  {
+    "slug": "terragon-oss",
+    "name": "terragon-oss",
+    "url": "https://github.com/terragon-labs/terragon-oss",
+    "source_code_url": "https://github.com/terragon-labs/terragon-oss",
+    "maker": "terragon-labs"
+  },
+  {
+    "slug": "codevibes",
+    "name": "codevibes",
+    "url": "https://github.com/danish296/codevibes",
+    "source_code_url": "https://github.com/danish296/codevibes",
+    "maker": "danish296"
+  },
+  {
+    "slug": "aft",
+    "name": "aft",
+    "url": "https://github.com/cortexkit/aft",
+    "source_code_url": "https://github.com/cortexkit/aft",
+    "maker": "cortexkit"
+  },
+  {
+    "slug": "hyperagent",
+    "name": "HyperAgent",
+    "url": "https://github.com/FSoft-AI4Code/HyperAgent",
+    "source_code_url": "https://github.com/FSoft-AI4Code/HyperAgent",
+    "maker": "FSoft-AI4Code"
+  },
+  {
+    "slug": "umadev",
+    "name": "umadev",
+    "url": "https://github.com/umacloud/umadev",
+    "source_code_url": "https://github.com/umacloud/umadev",
+    "maker": "umacloud"
+  },
+  {
+    "slug": "codeflash",
+    "name": "codeflash",
+    "url": "https://github.com/codeflash-ai/codeflash",
+    "source_code_url": "https://github.com/codeflash-ai/codeflash",
+    "maker": "codeflash-ai"
+  },
+  {
+    "slug": "dev-30",
+    "name": "dev-3.0",
+    "url": "https://github.com/h0x91b/dev-3.0",
+    "source_code_url": "https://github.com/h0x91b/dev-3.0",
+    "maker": "h0x91b"
+  },
+  {
+    "slug": "oli",
+    "name": "oli",
+    "url": "https://github.com/amrit110/oli",
+    "source_code_url": "https://github.com/amrit110/oli",
+    "maker": "amrit110"
+  },
+  {
+    "slug": "vibe-coding-template",
+    "name": "vibe-coding-template",
+    "url": "https://github.com/humanstack/vibe-coding-template",
+    "source_code_url": "https://github.com/humanstack/vibe-coding-template",
+    "maker": "humanstack"
+  },
+  {
+    "slug": "remote-swe-agents",
+    "name": "remote-swe-agents",
+    "url": "https://github.com/aws-samples/remote-swe-agents",
+    "source_code_url": "https://github.com/aws-samples/remote-swe-agents",
+    "maker": "aws-samples"
+  },
+  {
+    "slug": "pinvim",
+    "name": "pi.nvim",
+    "url": "https://github.com/pablopunk/pi.nvim",
+    "source_code_url": "https://github.com/pablopunk/pi.nvim",
+    "maker": "pablopunk"
+  },
+  {
+    "slug": "gpt-all-star",
+    "name": "gpt-all-star",
+    "url": "https://github.com/kyaukyuai/gpt-all-star",
+    "source_code_url": "https://github.com/kyaukyuai/gpt-all-star",
+    "maker": "kyaukyuai"
+  },
+  {
+    "slug": "wrongstack",
+    "name": "WrongStack",
+    "url": "https://github.com/WrongStack/WrongStack",
+    "source_code_url": "https://github.com/WrongStack/WrongStack",
+    "maker": "WrongStack"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "lunaroute",
+    "name": "lunaroute",
+    "url": "https://github.com/erans/lunaroute",
+    "source_code_url": "https://github.com/erans/lunaroute",
+    "maker": "erans"
+  },
+  {
+    "slug": "pycodeagi",
+    "name": "PyCodeAGI",
+    "url": "https://github.com/chakkaradeep/pyCodeAGI",
+    "source_code_url": "https://github.com/chakkaradeep/pyCodeAGI",
+    "maker": "chakkaradeep"
+  },
+  {
+    "slug": "codeany",
+    "name": "codeany",
+    "url": "https://github.com/codeany-ai/codeany",
+    "source_code_url": "https://github.com/codeany-ai/codeany",
+    "maker": "codeany-ai"
+  },
+  {
+    "slug": "auto-company",
+    "name": "auto-company",
+    "url": "https://github.com/nicepkg/auto-company",
+    "source_code_url": "https://github.com/nicepkg/auto-company",
+    "maker": "nicepkg"
+  },
+  {
+    "slug": "clio",
+    "name": "clio",
+    "url": "https://github.com/icebear0828/clio",
+    "source_code_url": "https://github.com/icebear0828/clio",
+    "maker": "icebear0828"
+  },
+  {
+    "slug": "debroid",
+    "name": "debroid",
+    "url": "https://github.com/PatilShreyas/debroid",
+    "source_code_url": "https://github.com/PatilShreyas/debroid",
+    "maker": "PatilShreyas"
+  },
+  {
+    "slug": "oc-plugin-vault-tec",
+    "name": "oc-plugin-vault-tec",
+    "url": "https://github.com/kommander/oc-plugin-vault-tec",
+    "source_code_url": "https://github.com/kommander/oc-plugin-vault-tec",
+    "maker": "kommander"
+  },
+  {
+    "slug": "exaone-30",
+    "name": "Exaone-3.0",
+    "url": "https://github.com/LG-AI-EXAONE/EXAONE-3.0",
+    "source_code_url": "https://github.com/LG-AI-EXAONE/EXAONE-3.0",
+    "maker": "LG-AI-EXAONE"
+  },
+  {
+    "slug": "vogte",
+    "name": "vogte",
+    "url": "https://github.com/piqoni/vogte",
+    "source_code_url": "https://github.com/piqoni/vogte",
+    "maker": "piqoni"
+  },
+  {
+    "slug": "agentic-coding-with-claude-code",
+    "name": "Agentic-Coding-with-Claude-Code",
+    "url": "https://github.com/PacktPublishing/Agentic-Coding-with-Claude-Code",
+    "source_code_url": "https://github.com/PacktPublishing/Agentic-Coding-with-Claude-Code",
+    "maker": "PacktPublishing"
+  },
+  {
+    "slug": "code-assistant",
+    "name": "code-assistant",
+    "url": "https://github.com/stippi/code-assistant",
+    "source_code_url": "https://github.com/stippi/code-assistant",
+    "maker": "stippi"
+  },
+  {
+    "slug": "autohand-code-cli",
+    "name": "Autohand Code CLI",
+    "url": "https://github.com/autohandai/code-cli",
+    "source_code_url": "https://github.com/autohandai/code-cli",
+    "maker": "autohandai"
+  },
+  {
+    "slug": "swift-coding-agent",
+    "name": "swift-coding-agent",
+    "url": "https://github.com/ivan-magda/swift-coding-agent",
+    "source_code_url": "https://github.com/ivan-magda/swift-coding-agent",
+    "maker": "ivan-magda"
+  },
+  {
+    "slug": "claudemacs",
+    "name": "claudemacs",
+    "url": "https://github.com/cpoile/claudemacs",
+    "source_code_url": "https://github.com/cpoile/claudemacs",
+    "maker": "cpoile"
+  },
+  {
+    "slug": "hitch",
+    "name": "hitch",
+    "url": "https://github.com/maxktz/hitch",
+    "source_code_url": "https://github.com/maxktz/hitch",
+    "maker": "maxktz"
+  },
+  {
+    "slug": "blade-code",
+    "name": "blade-code",
+    "url": "https://github.com/echoVic/blade-code",
+    "source_code_url": "https://github.com/echoVic/blade-code",
+    "maker": "echoVic"
+  },
+  {
+    "slug": "vibe-coding-penetration-tester",
+    "name": "vibe-coding-penetration-tester",
+    "url": "https://github.com/firetix/vibe-coding-penetration-tester",
+    "source_code_url": "https://github.com/firetix/vibe-coding-penetration-tester",
+    "maker": "firetix"
+  },
+  {
+    "slug": "stoneforge",
+    "name": "stoneforge",
+    "url": "https://github.com/stoneforge-ai/stoneforge",
+    "source_code_url": "https://github.com/stoneforge-ai/stoneforge",
+    "maker": "stoneforge-ai"
+  },
+  {
+    "slug": "perles",
+    "name": "perles",
+    "url": "https://github.com/zjrosen/perles",
+    "source_code_url": "https://github.com/zjrosen/perles",
+    "maker": "zjrosen"
+  },
+  {
+    "slug": "supaterm",
+    "name": "supaterm",
+    "url": "https://github.com/supabitapp/supaterm",
+    "source_code_url": "https://github.com/supabitapp/supaterm",
+    "maker": "supabitapp"
+  }
+]

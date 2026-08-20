@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "emdash",
+    "name": "Emdash",
+    "url": "https://github.com/generalaction/emdash",
+    "source_code_url": "https://github.com/generalaction/emdash",
+    "maker": "generalaction"
+  },
+  {
+    "slug": "agentteams",
+    "name": "AgentTeams",
+    "url": "https://github.com/agentscope-ai/AgentTeams",
+    "source_code_url": "https://github.com/agentscope-ai/AgentTeams",
+    "maker": "agentscope-ai"
+  },
+  {
+    "slug": "vibesdk",
+    "name": "vibesdk",
+    "url": "https://github.com/cloudflare/vibesdk",
+    "source_code_url": "https://github.com/cloudflare/vibesdk",
+    "maker": "cloudflare"
+  },
+  {
+    "slug": "agentsview",
+    "name": "AgentsView",
+    "url": "https://github.com/kenn-io/agentsview",
+    "source_code_url": "https://github.com/kenn-io/agentsview",
+    "maker": "kenn-io"
+  },
+  {
+    "slug": "perplexity-inspired-llm-answer-engine",
+    "name": "Perplexity-Inspired LLM Answer Engine",
+    "url": "https://github.com/developersdigest/llm-answer-engine",
+    "source_code_url": "https://github.com/developersdigest/llm-answer-engine",
+    "maker": "developersdigest"
+  },
+  {
+    "slug": "nasiko",
+    "name": "nasiko",
+    "url": "https://github.com/Nasiko-Labs/nasiko",
+    "source_code_url": "https://github.com/Nasiko-Labs/nasiko",
+    "maker": "Nasiko-Labs"
+  },
+  {
+    "slug": "hapi",
+    "name": "hapi",
+    "url": "https://github.com/tiann/hapi",
+    "source_code_url": "https://github.com/tiann/hapi",
+    "maker": "tiann"
+  },
+  {
+    "slug": "chef",
+    "name": "chef",
+    "url": "https://github.com/get-convex/chef",
+    "source_code_url": "https://github.com/get-convex/chef",
+    "maker": "get-convex"
+  },
+  {
+    "slug": "autodev",
+    "name": "AutoDev",
+    "url": "https://github.com/unit-mesh/auto-dev",
+    "source_code_url": "https://github.com/unit-mesh/auto-dev",
+    "maker": "phodal"
+  },
+  {
+    "slug": "auto-dev",
+    "name": "auto-dev",
+    "url": "https://github.com/phodal/auto-dev",
+    "source_code_url": "https://github.com/phodal/auto-dev",
+    "maker": "phodal"
+  },
+  {
+    "slug": "monkeycode",
+    "name": "MonkeyCode",
+    "url": "https://github.com/chaitin/MonkeyCode",
+    "source_code_url": "https://github.com/chaitin/MonkeyCode",
+    "maker": "chaitin"
+  },
+  {
+    "slug": "gptme",
+    "name": "gptme",
+    "url": "https://github.com/gptme/gptme",
+    "source_code_url": "https://github.com/gptme/gptme",
+    "maker": "gptme"
+  },
+  {
+    "slug": "oracle-ai-developer-hub",
+    "name": "oracle-ai-developer-hub",
+    "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+    "source_code_url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+    "maker": "oracle-devrel"
+  },
+  {
+    "slug": "kiro",
+    "name": "Kiro",
+    "url": "https://github.com/kirodotdev/Kiro",
+    "source_code_url": "https://github.com/kirodotdev/Kiro",
+    "maker": "kirodotdev"
+  },
+  {
+    "slug": "langroid",
+    "name": "Langroid",
+    "url": "https://github.com/langroid/langroid",
+    "source_code_url": "https://github.com/langroid/langroid",
+    "maker": "langroid"
+  },
+  {
+    "slug": "cascadeflow",
+    "name": "cascadeflow",
+    "url": "https://github.com/lemony-ai/cascadeflow",
+    "source_code_url": "https://github.com/lemony-ai/cascadeflow",
+    "maker": "lemony-ai"
+  },
+  {
+    "slug": "claude-code-skeleton",
+    "name": "claude-code",
+    "url": "https://github.com/yasasbanukaofficial/claude-code",
+    "source_code_url": "https://github.com/yasasbanukaofficial/claude-code",
+    "maker": "yasasbanukaofficial"
+  },
+  {
+    "slug": "pilotdeck",
+    "name": "PilotDeck",
+    "url": "https://github.com/OpenBMB/PilotDeck",
+    "source_code_url": "https://github.com/OpenBMB/PilotDeck",
+    "maker": "OpenBMB"
+  },
+  {
+    "slug": "sourcebot",
+    "name": "sourcebot",
+    "url": "https://github.com/sourcebot-dev/sourcebot",
+    "source_code_url": "https://github.com/sourcebot-dev/sourcebot",
+    "maker": "sourcebot-dev"
+  },
+  {
+    "slug": "golutra",
+    "name": "golutra",
+    "url": "https://github.com/golutra/golutra",
+    "source_code_url": "https://github.com/golutra/golutra",
+    "maker": "golutra"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "autopr",
+    "name": "AutoPR",
+    "url": "https://github.com/irgolic/AutoPR",
+    "source_code_url": "https://github.com/irgolic/AutoPR",
+    "maker": "irgolic"
+  },
+  {
+    "slug": "summer-2024-swe-internships",
+    "name": "Summer-2024-SWE-Internships",
+    "url": "https://github.com/AlanChen4/Summer-2024-SWE-Internships",
+    "source_code_url": "https://github.com/AlanChen4/Summer-2024-SWE-Internships",
+    "maker": "AlanChen4"
+  },
+  {
+    "slug": "ai-for-software-engineers",
+    "name": "ai-for-software-engineers",
+    "url": "https://github.com/loganthorneloe/ai-for-software-engineers",
+    "source_code_url": "https://github.com/loganthorneloe/ai-for-software-engineers",
+    "maker": "loganthorneloe"
+  },
+  {
+    "slug": "10x",
+    "name": "10x",
+    "url": "https://github.com/ntegrals/10x",
+    "source_code_url": "https://github.com/ntegrals/10x",
+    "maker": "ntegrals"
+  },
+  {
+    "slug": "vibeyard",
+    "name": "vibeyard",
+    "url": "https://github.com/elirantutia/vibeyard",
+    "source_code_url": "https://github.com/elirantutia/vibeyard",
+    "maker": "elirantutia"
+  },
+  {
+    "slug": "codefuse-chatbot",
+    "name": "CodeFuse-ChatBot",
+    "url": "https://github.com/codefuse-ai/codefuse-chatbot",
+    "source_code_url": "https://github.com/codefuse-ai/codefuse-chatbot",
+    "maker": "codefuse-ai"
+  },
+  {
+    "slug": "sre",
+    "name": "sre",
+    "url": "https://github.com/SmythOS/sre",
+    "source_code_url": "https://github.com/SmythOS/sre",
+    "maker": "SmythOS"
+  },
+  {
+    "slug": "aipexbase",
+    "name": "aipexbase",
+    "url": "https://github.com/kuafuai/aipexbase",
+    "source_code_url": "https://github.com/kuafuai/aipexbase",
+    "maker": "kuafuai"
+  },
+  {
+    "slug": "claude-memory-compiler",
+    "name": "claude-memory-compiler",
+    "url": "https://github.com/coleam00/claude-memory-compiler",
+    "source_code_url": "https://github.com/coleam00/claude-memory-compiler",
+    "maker": "coleam00"
+  },
+  {
+    "slug": "chatgpt-vscode",
+    "name": "chatgpt-vscode",
+    "url": "https://github.com/ai-genie/chatgpt-vscode",
+    "source_code_url": "https://github.com/ai-genie/chatgpt-vscode",
+    "maker": "ai-genie"
+  },
+  {
+    "slug": "claude-code-viewer",
+    "name": "claude-code-viewer",
+    "url": "https://github.com/d-kimuson/claude-code-viewer",
+    "source_code_url": "https://github.com/d-kimuson/claude-code-viewer",
+    "maker": "d-kimuson"
+  },
+  {
+    "slug": "mindwalk",
+    "name": "mindwalk",
+    "url": "https://github.com/cosmtrek/mindwalk",
+    "source_code_url": "https://github.com/cosmtrek/mindwalk",
+    "maker": "cosmtrek"
+  },
+  {
+    "slug": "fuxi",
+    "name": "Fuxi",
+    "url": "https://github.com/fuxicodex/Fuxi",
+    "source_code_url": "https://github.com/fuxicodex/Fuxi",
+    "maker": "fuxicodex"
+  },
+  {
+    "slug": "traycer",
+    "name": "Traycer",
+    "url": "https://github.com/traycerai/traycer",
+    "source_code_url": "https://github.com/traycerai/traycer",
+    "maker": "traycerai"
+  },
+  {
+    "slug": "nous",
+    "name": "Nous",
+    "url": "https://github.com/TrafficGuard/nous",
+    "source_code_url": "https://github.com/TrafficGuard/nous",
+    "maker": "TrafficGuard"
+  },
+  {
+    "slug": "loushang",
+    "name": "loushang",
+    "url": "https://github.com/zhnt/loushang",
+    "source_code_url": "https://github.com/zhnt/loushang",
+    "maker": "zhnt"
+  },
+  {
+    "slug": "failproofai",
+    "name": "failproofai",
+    "url": "https://github.com/FailproofAI/failproofai",
+    "source_code_url": "https://github.com/FailproofAI/failproofai",
+    "maker": "FailproofAI"
+  },
+  {
+    "slug": "maestro",
+    "name": "maestro",
+    "url": "https://github.com/its-maestro-baby/maestro",
+    "source_code_url": "https://github.com/its-maestro-baby/maestro",
+    "maker": "its-maestro-baby"
+  },
+  {
+    "slug": "agentlas-os",
+    "name": "Agentlas OS",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS",
+    "source_code_url": "https://github.com/agentlas-ai/Agentlas-OS",
+    "maker": "agentlas-ai"
+  },
+  {
+    "slug": "ref-tools-mcp",
+    "name": "ref-tools-mcp",
+    "url": "https://github.com/ref-tools/ref-tools-mcp",
+    "source_code_url": "https://github.com/ref-tools/ref-tools-mcp",
+    "maker": "ref-tools"
+  }
+]

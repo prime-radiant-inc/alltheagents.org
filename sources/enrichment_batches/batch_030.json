@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "alifullstack",
+    "name": "AliFullStack",
+    "url": "https://github.com/SFARPak/AliFullStack",
+    "source_code_url": "https://github.com/SFARPak/AliFullStack",
+    "maker": "SFARPak"
+  },
+  {
+    "slug": "damocles",
+    "name": "damocles",
+    "url": "https://github.com/AizenvoltPrime/damocles",
+    "source_code_url": "https://github.com/AizenvoltPrime/damocles",
+    "maker": "AizenvoltPrime"
+  },
+  {
+    "slug": "refakts",
+    "name": "refakts",
+    "url": "https://github.com/devill/refakts",
+    "source_code_url": "https://github.com/devill/refakts",
+    "maker": "devill"
+  },
+  {
+    "slug": "agent-blackbox",
+    "name": "Agent-Blackbox",
+    "url": "https://github.com/TaewoooPark/Agent-Blackbox",
+    "source_code_url": "https://github.com/TaewoooPark/Agent-Blackbox",
+    "maker": "TaewoooPark"
+  },
+  {
+    "slug": "vibe-coding-guide",
+    "name": "vibe-coding-guide",
+    "url": "https://github.com/wendy7756/vibe-coding-guide",
+    "source_code_url": "https://github.com/wendy7756/vibe-coding-guide",
+    "maker": "wendy7756"
+  },
+  {
+    "slug": "ai-builders-bootcamp-1",
+    "name": "AI-Builders-Bootcamp-1",
+    "url": "https://github.com/ShawhinT/AI-Builders-Bootcamp-1",
+    "source_code_url": "https://github.com/ShawhinT/AI-Builders-Bootcamp-1",
+    "maker": "ShawhinT"
+  },
+  {
+    "slug": "stock-analysis-with-llm",
+    "name": "Stock-Analysis-With-Llm",
+    "url": "https://github.com/bauer-jan/stock-analysis-with-llm",
+    "source_code_url": "https://github.com/bauer-jan/stock-analysis-with-llm",
+    "maker": "bauer-jan"
+  },
+  {
+    "slug": "indxr",
+    "name": "indxr",
+    "url": "https://github.com/bahdotsh/indxr",
+    "source_code_url": "https://github.com/bahdotsh/indxr",
+    "maker": "bahdotsh"
+  },
+  {
+    "slug": "agentbridge",
+    "name": "agentbridge",
+    "url": "https://github.com/catatafishen/agentbridge",
+    "source_code_url": "https://github.com/catatafishen/agentbridge",
+    "maker": "catatafishen"
+  },
+  {
+    "slug": "guidance-for-multi-agent-orchestration-on-aws",
+    "name": "guidance-for-multi-agent-orchestration-on-aws",
+    "url": "https://github.com/aws-solutions-library-samples/guidance-for-multi-agent-orchestration-on-aws",
+    "source_code_url": "https://github.com/aws-solutions-library-samples/guidance-for-multi-agent-orchestration-on-aws",
+    "maker": "aws-solutions-library-samples"
+  },
+  {
+    "slug": "squarebox",
+    "name": "squarebox",
+    "url": "https://github.com/SquareWaveSystems/squarebox",
+    "source_code_url": "https://github.com/SquareWaveSystems/squarebox",
+    "maker": "SquareWaveSystems"
+  },
+  {
+    "slug": "dspy-compounding-engineering",
+    "name": "dspy-compounding-engineering",
+    "url": "https://github.com/Strategic-Automation/dspy-compounding-engineering",
+    "source_code_url": "https://github.com/Strategic-Automation/dspy-compounding-engineering",
+    "maker": "Strategic-Automation"
+  },
+  {
+    "slug": "jrdev",
+    "name": "jrdev",
+    "url": "https://github.com/presstab/jrdev",
+    "source_code_url": "https://github.com/presstab/jrdev",
+    "maker": "presstab"
+  },
+  {
+    "slug": "codereviewagent",
+    "name": "CodeReviewAgent",
+    "url": "https://github.com/gitbito/CodeReviewAgent",
+    "source_code_url": "https://github.com/gitbito/CodeReviewAgent",
+    "maker": "gitbito"
+  },
+  {
+    "slug": "par",
+    "name": "par",
+    "url": "https://github.com/jcz2020/par",
+    "source_code_url": "https://github.com/jcz2020/par",
+    "maker": "jcz2020"
+  },
+  {
+    "slug": "agent-sh",
+    "name": "agent-sh",
+    "url": "https://github.com/guanyilun/agent-sh",
+    "source_code_url": "https://github.com/guanyilun/agent-sh",
+    "maker": "guanyilun"
+  },
+  {
+    "slug": "ai-powered-vulnerability-impact-analyzer",
+    "name": "AI-Powered-Vulnerability-Impact-Analyzer",
+    "url": "https://github.com/alexdevassy/AI-Powered-Vulnerability-Impact-Analyzer",
+    "source_code_url": "https://github.com/alexdevassy/AI-Powered-Vulnerability-Impact-Analyzer",
+    "maker": "alexdevassy"
+  },
+  {
+    "slug": "nefi",
+    "name": "nefi",
+    "url": "https://github.com/Blazity/nefi",
+    "source_code_url": "https://github.com/Blazity/nefi",
+    "maker": "Blazity"
+  },
+  {
+    "slug": "vibe-coding",
+    "name": "vibe-coding",
+    "url": "https://github.com/thelinkapi/vibe-coding",
+    "source_code_url": "https://github.com/thelinkapi/vibe-coding",
+    "maker": "thelinkapi"
+  },
+  {
+    "slug": "eloquent",
+    "name": "Eloquent",
+    "url": "https://github.com/boneylizard/Eloquent",
+    "source_code_url": "https://github.com/boneylizard/Eloquent",
+    "maker": "boneylizard"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "hivemoot",
+    "name": "Hivemoot",
+    "url": "https://github.com/hivemoot/hivemoot",
+    "source_code_url": "https://github.com/hivemoot/hivemoot",
+    "maker": "hivemoot"
+  },
+  {
+    "slug": "construct",
+    "name": "construct",
+    "url": "https://github.com/construct-worlds/construct",
+    "source_code_url": "https://github.com/construct-worlds/construct",
+    "maker": "construct-worlds"
+  },
+  {
+    "slug": "aip-identity",
+    "name": "Aip-Identity",
+    "url": "https://github.com/the-nexus-guard/aip",
+    "source_code_url": "https://github.com/the-nexus-guard/aip",
+    "maker": "The-Nexus-Guard"
+  },
+  {
+    "slug": "agents-cli",
+    "name": "agents-cli",
+    "url": "https://github.com/phnx-labs/agents-cli",
+    "source_code_url": "https://github.com/phnx-labs/agents-cli",
+    "maker": "phnx-labs"
+  },
+  {
+    "slug": "repomon",
+    "name": "repomon",
+    "url": "https://github.com/AliHamzaAzam/repomon",
+    "source_code_url": "https://github.com/AliHamzaAzam/repomon",
+    "maker": "AliHamzaAzam"
+  },
+  {
+    "slug": "clitrigger",
+    "name": "CLITrigger",
+    "url": "https://github.com/HyperAITeam/CLITrigger",
+    "source_code_url": "https://github.com/HyperAITeam/CLITrigger",
+    "maker": "HyperAITeam"
+  },
+  {
+    "slug": "agentic-engineering-framework",
+    "name": "Agentic Engineering Framework",
+    "url": "https://github.com/DimitriGeelen/agentic-engineering-framework",
+    "source_code_url": "https://github.com/DimitriGeelen/agentic-engineering-framework",
+    "maker": "DimitriGeelen"
+  },
+  {
+    "slug": "cowork-to-code-bridge",
+    "name": "cowork-to-code-bridge",
+    "url": "https://github.com/abhinaykrupa/cowork-to-code-bridge",
+    "source_code_url": "https://github.com/abhinaykrupa/cowork-to-code-bridge",
+    "maker": "abhinaykrupa"
+  },
+  {
+    "slug": "letta-deepseek",
+    "name": "Letta-Deepseek",
+    "url": "https://github.com/mahawi1992/letta-deepseek",
+    "source_code_url": "https://github.com/mahawi1992/letta-deepseek",
+    "maker": "mahawi1992"
+  },
+  {
+    "slug": "autonoma",
+    "name": "Autonoma",
+    "url": "https://github.com/Sebasbo/Autonoma",
+    "source_code_url": "https://github.com/Sebasbo/Autonoma",
+    "maker": "Sebasbo"
+  },
+  {
+    "slug": "multi-agent-secops-llm",
+    "name": "Multi-Agent-Secops-Llm",
+    "url": "https://github.com/tegridydev/multi-agent-secops-llm",
+    "source_code_url": "https://github.com/tegridydev/multi-agent-secops-llm",
+    "maker": "tegridydev"
+  },
+  {
+    "slug": "workstation",
+    "name": "workstation",
+    "url": "https://github.com/varie-ai/workstation",
+    "source_code_url": "https://github.com/varie-ai/workstation",
+    "maker": "varie-ai"
+  },
+  {
+    "slug": "darce",
+    "name": "Darce",
+    "url": "https://github.com/AmerSarhan/darce-cli",
+    "source_code_url": "https://github.com/AmerSarhan/darce-cli",
+    "maker": "AmerSarhan"
+  },
+  {
+    "slug": "llm-rag",
+    "name": "Llm_Rag",
+    "url": "https://github.com/dongdongunique/LLM_RAG",
+    "source_code_url": "https://github.com/dongdongunique/LLM_RAG",
+    "maker": "dongdongunique"
+  },
+  {
+    "slug": "kimi-k27",
+    "name": "kimi-K2.7",
+    "url": "https://github.com/Kimi-K2-7/kimi-K2.7",
+    "source_code_url": "https://github.com/Kimi-K2-7/kimi-K2.7",
+    "maker": "Kimi-K2-7"
+  },
+  {
+    "slug": "clu",
+    "name": "clu",
+    "url": "https://github.com/arjia-labs/clu",
+    "source_code_url": "https://github.com/arjia-labs/clu",
+    "maker": "Arjia-Labs"
+  },
+  {
+    "slug": "stan",
+    "name": "Stan",
+    "url": "https://github.com/kaifcoder/Stan",
+    "source_code_url": "https://github.com/kaifcoder/Stan",
+    "maker": "kaifcoder"
+  },
+  {
+    "slug": "cliclaw",
+    "name": "cliclaw",
+    "url": "https://github.com/choiyounggi/cliclaw",
+    "source_code_url": "https://github.com/choiyounggi/cliclaw",
+    "maker": "choiyounggi"
+  },
+  {
+    "slug": "nano-bots",
+    "name": "Nano-Bots",
+    "url": "https://github.com/icebaker/nano-bots",
+    "source_code_url": "https://github.com/icebaker/nano-bots",
+    "maker": "icebaker"
+  },
+  {
+    "slug": "amplifier-agent",
+    "name": "Amplifier Agent",
+    "url": "https://github.com/microsoft/amplifier-agent",
+    "source_code_url": "https://github.com/microsoft/amplifier-agent",
+    "maker": "microsoft"
+  }
+]

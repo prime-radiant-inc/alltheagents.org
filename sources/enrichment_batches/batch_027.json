@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "oh-my-cursor",
+    "name": "oh-my-cursor",
+    "url": "https://github.com/tmcfarlane/oh-my-cursor",
+    "source_code_url": "https://github.com/tmcfarlane/oh-my-cursor",
+    "maker": "tmcfarlane"
+  },
+  {
+    "slug": "looper",
+    "name": "looper",
+    "url": "https://github.com/nexu-io/looper",
+    "source_code_url": "https://github.com/nexu-io/looper",
+    "maker": "nexu-io"
+  },
+  {
+    "slug": "opengiraffe",
+    "name": "OpenGiraffe",
+    "url": "https://github.com/zclllyybb/OpenGiraffe",
+    "source_code_url": "https://github.com/zclllyybb/OpenGiraffe",
+    "maker": "zclllyybb"
+  },
+  {
+    "slug": "postal",
+    "name": "postal",
+    "url": "https://github.com/andrefetch/postal",
+    "source_code_url": "https://github.com/andrefetch/postal",
+    "maker": "andrefetch"
+  },
+  {
+    "slug": "codirigent",
+    "name": "Codirigent",
+    "url": "https://github.com/oso95/Codirigent",
+    "source_code_url": "https://github.com/oso95/Codirigent",
+    "maker": "oso95"
+  },
+  {
+    "slug": "ore-code",
+    "name": "ore-code",
+    "url": "https://github.com/233i/ore-code",
+    "source_code_url": "https://github.com/233i/ore-code",
+    "maker": "233i"
+  },
+  {
+    "slug": "cre-acquisition-orchestrator",
+    "name": "cre-acquisition-orchestrator",
+    "url": "https://github.com/ahacker-1/cre-acquisition-orchestrator",
+    "source_code_url": "https://github.com/ahacker-1/cre-acquisition-orchestrator",
+    "maker": "ahacker-1"
+  },
+  {
+    "slug": "evener",
+    "name": "Evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "source_code_url": "https://github.com/prime-radiant-inc/evener",
+    "maker": "prime-radiant-inc"
+  },
+  {
+    "slug": "tlbx",
+    "name": "tlbx",
+    "url": "https://github.com/tlbx-ai/tlbx",
+    "source_code_url": "https://github.com/tlbx-ai/tlbx",
+    "maker": "tlbx-ai"
+  },
+  {
+    "slug": "stacklit",
+    "name": "stacklit",
+    "url": "https://github.com/glincker/stacklit",
+    "source_code_url": "https://github.com/glincker/stacklit",
+    "maker": "glincker"
+  },
+  {
+    "slug": "llms-learning",
+    "name": "Llms-Learning",
+    "url": "https://github.com/Strivin0311/llms-learning",
+    "source_code_url": "https://github.com/Strivin0311/llms-learning",
+    "maker": "Strivin0311"
+  },
+  {
+    "slug": "appclipcodegenerator",
+    "name": "AppClipCodeGenerator",
+    "url": "https://github.com/alfianlosari/AppClipCodeGenerator",
+    "source_code_url": "https://github.com/alfianlosari/AppClipCodeGenerator",
+    "maker": "alfianlosari"
+  },
+  {
+    "slug": "project-os-for-codex",
+    "name": "project-os-for-codex",
+    "url": "https://github.com/herry2059/project-os-for-codex",
+    "source_code_url": "https://github.com/herry2059/project-os-for-codex",
+    "maker": "herry2059"
+  },
+  {
+    "slug": "ai-orchestrator",
+    "name": "ai-orchestrator",
+    "url": "https://github.com/Mybono/ai-orchestrator",
+    "source_code_url": "https://github.com/Mybono/ai-orchestrator",
+    "maker": "Mybono"
+  },
+  {
+    "slug": "kota",
+    "name": "kota",
+    "url": "https://github.com/StepfenShawn/kota",
+    "source_code_url": "https://github.com/StepfenShawn/kota",
+    "maker": "StepfenShawn"
+  },
+  {
+    "slug": "tartarusai-cli",
+    "name": "tartarusai-cli",
+    "url": "https://github.com/Tartarus-AI/tartarusai-cli",
+    "source_code_url": "https://github.com/Tartarus-AI/tartarusai-cli",
+    "maker": "Tartarus-AI"
+  },
+  {
+    "slug": "gpt-rag-orchestrator",
+    "name": "gpt-rag-orchestrator",
+    "url": "https://github.com/Azure/gpt-rag-orchestrator",
+    "source_code_url": "https://github.com/Azure/gpt-rag-orchestrator",
+    "maker": "Azure"
+  },
+  {
+    "slug": "ifai",
+    "name": "ifai",
+    "url": "https://github.com/peterfei/ifai",
+    "source_code_url": "https://github.com/peterfei/ifai",
+    "maker": "peterfei"
+  },
+  {
+    "slug": "obby-dev",
+    "name": "obby-dev",
+    "url": "https://github.com/obbylabs/obby-dev",
+    "source_code_url": "https://github.com/obbylabs/obby-dev",
+    "maker": "obbylabs"
+  },
+  {
+    "slug": "ai-vibe-coding-notes-form-threads",
+    "name": "ai-vibe-coding-notes-form-threads",
+    "url": "https://github.com/nadinelipeiyu-jpg/ai-vibe-coding-notes-form-threads",
+    "source_code_url": "https://github.com/nadinelipeiyu-jpg/ai-vibe-coding-notes-form-threads",
+    "maker": "nadinelipeiyu-jpg"
+  }
+]
