@@ -1,0 +1,50 @@
+earendil-works/pi	93849	AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+snarktank/ralph	21543	Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+HKUDS/DeepCode	16377	"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
+wanshuiyin/Auto-claude-code-research-in-sleep	14911	ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
+cobusgreyling/loop-engineering	10480	Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
+ModelEngine-Group/nexent	5830	Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.
+coze-dev/coze-loop	5697	Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.  
+Q00/ouroboros	5581	Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make it into the success contract we hand it. Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 13 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+the-open-agent/openagent	5537	⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
+agentscope-ai/AgentTeams	5443	An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
+huangruiteng/loopx	4961	Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+lemony-ai/cascadeflow	3996	Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop.
+Windy3f3f3f3f/how-claude-code-works	3480	Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等
+FireRedTeam/FireRed-OpenStoryline	3236	FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool orchestration. It facilitates transparent, human-in-the-loop creation with reusable Style Skills for consistent, professional storytelling.
+Forward-Future/loopy	3035	A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.
+michaelshimeles/ralphy	2956	My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
+sentrux/sentrux	2884	Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
+MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials	2876	Multi-agent systems, memory, planning, reasoning loops
+wquguru/harness-books	2781	📚 Two books on harness engineering — the design philosophies behind Claude Code & Codex: constraints, query loops, context governance, multi-agent verification. harness-books.agentway.dev
+langchain-ai/social-media-agent	2739	📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
+compozy/compozy	2627	An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.
+webfuse-com/awesome-autoresearch	2483	A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.
+aattaran/deepclaude	2250	Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
+langchain-ai/agents-from-scratch	2121	Build an email assistant with human-in-the-loop and memory
+durable-streams/durable-streams	1663	The data primitive for the agent loop.
+ShenSeanChen/waku-agent	1482	Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.
+ray-r-ren/agent-apprenticeship	1339	The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents.
+FailproofAI/failproofai	1179	Runtime failure resolution for coding agents. Hooks into Claude Code, Codex & your favourite harnesses. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally.
+context-labs/HALO	1151	Hierarchal Agent Loop Optimizer
+video-db/call.md	1121	Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls.
+withkynam/vibecode-pro-max-kit	1082	Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 15 agents, 33 skills working with /goal, agent-team, & workflow on autopilot loops with 0 need for human gate. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack
+agentrq/agentrq	1081	AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness.
+langchain-ai/agent-inbox	1074	📥 An inbox UX for interacting with human-in-the-loop agents.
+bradAGI/awesome-cli-coding-agents	1032	Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. 
+iannuttall/ralph	952	A minimal, file‑based agent loop for autonomous coding.
+sipyourdrink-ltd/bernstein	936	Deterministic orchestrator for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). No model in the coordination loop, so parallel runs in per-task git worktrees replay byte-identically. Signed lineage plus an opt-in HMAC audit chain a reviewer checks offline. Cluster mode, air-gap deploy. Status: beta. https://bernstein.run
+huytieu/COG-second-brain	926	Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.
+tomasz-tomczyk/crit	922	Your feedback loop with the agent
+snwfdhmp/awesome-ralph	917	A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.
+vercel-labs/ralph-loop-agent	826	Continuous Autonomy for the AI SDK
+valkor-ai/loom	825	Loop engineering for agentic software delivery.
+H-mmer/pentest-agents	803	Bug bounty agent framework for Claude Code, Codex, Gemini, Cursor, Windsurf, Copilot, and OpenClaw — 48 agents, 26 commands, 19 CLI tools, 2 MCP servers, autonomous hunt loops, exploit chain builder.
+jonigl/mcp-client-for-ollama	802	Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, human-in-the-loop, thinking mode, model params config, system prompts, and saved preferences.
+Haohao-end/openagent	792	What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation. 
+LvcidPsyche/auto-browser	772	Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent.
+Archive228/loopkit	749	33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).
+ksimback/looper	705	Design visual, review-gated agent loops for Claude Code before you run them.
+plasma-ai/fractal	693	Hierarchical agent loops with recursive self-organization.
+aeonfun/aeon	675	The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.
+FerroxLabs/agents-md	657	Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern. Kills sycophancy, stops drive-by refactors, forces verification loops. Synthesizes Karpathy's four principles and Boris Cherny's Claude Code workflow. Works with Claude Code, Codex, Gemini CLI, Cursor, and the open standard.

@@ -1,0 +1,161 @@
+1Panel-dev/MaxKB	22544	🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。	dev
+233i/ore-code	104	DeepSeek-first desktop coding agent workbench	coding
+abundantbeing/hermes-browser-extension	1269	Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.	ide
+AbuZar-Ansarii/OpenClaw-Ollama	69	OpenClaw with Ollama is a lightweight, high-performance integration designed to run sophisticated AI agents locally on Android devices. By leveraging the power of Termux and the flexibility of Ollama, this project enables a completely private, free, and offline-capable AI workstation in your pocket. 	dev
+agentcontrol/agent-control	295	Centralized agent control plane for governing runtime agent behavior at scale. Configurable, extensible, and production-ready. 	agent control
+agentoven/agentoven	88	AgentOven is a **framework-agnostic agent control plane** that standardizes how AI agents are built, deployed, observed, and orchestrated across an enterprise.  Think of it as a **clay oven** 🏺 — you put in raw ingredients (models, tools, data, prompts) and **production-ready agents come out the chimney**.	agent control
+agentscope-ai/agentscope-runtime	857	A production-ready runtime framework for agent apps with secure tool sandboxing, Agent-as-a-Service APIs, scalable deployment, full-stack observability, and broad framework compatibility.	deploy
+agentscope-ai/AgentTeams	5443	An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.	agent os
+agnusdei1207/opencode-orchestrator	225	Opencode Plugin for AI-Agent Orchestration	code
+ahacker-1/cre-acquisition-orchestrator	104	The first comprehensive open-source AI-native framework for CRE acquisitions, turning diligence, underwriting, financing, legal, and closing into executable agent workflows.	hacker
+AI4Finance-Foundation/FinRobot	7812	FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀 	agent platform
+AirtestProject/iOS-Tagent	723	iOS support agent for automation	test
+AkaraChen/2code	25	The Vibe Coding Workstation — A desktop workspace where terminal, AI agents, and git live together for uninterrupted flow state	coding
+amantus-ai/vibetunnel	4632	Turn any browser into your terminal & command your agents on the go.	terminal
+ambient-xyz/AmbientDesktop	7	A local-first developer workstation for durable, inspectable agentic work.	dev
+arc53/DocsGPT	18221	Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.	build
+armpro24-blip/cad-cae-copilot	47	CAD/CAE Copilot — an AI-native CAD/CAE/CAX workbench for AI agents. Text-to-CAD, text-to-CAE, real build123d/OpenCASCADE geometry, editable parameters, stable topology pointers, deterministic critique, and MCP server tools.	edit
+Arvincreator/project-golem	637	OS-level autonomous AI agent with long-term memory, multi-agent coordination, Titan Chronos scheduler & Moltbot Social Core	autonomous
+AstrBotDevs/AstrBot	39399	AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨	dev
+Atmosphere/atmosphere	3794	Portable AI agent runtime for the JVM. One @Agent class runs on Spring AI, LangChain4j, Anthropic, or 9 more behind one SPI. Token streaming, tool calls, human approvals, and governance over WebSocket, SSE, gRPC, or WebTransport/HTTP3. Speaks MCP, A2A, and AG-UI.	agent runtime
+aws-samples/sample-multi-agent-orchestration-chat-on-agentcore	123	Build & Share AI agents with your team. Full AgentCore, Full Serverless, Full TypeScript Sample	build
+aws-solutions-library-samples/guidance-for-multi-agent-orchestration-on-aws	71	Enables developers to build, deploy, and manage multiple specialized agents that work together to tackle complex workflows. Each agent focuses on a specific task, breaks down processes into manageable steps, assigns tasks to the appropriate agents, and ensures accurate, and reliable outcomes.	dev
+aws-solutions-library-samples/guidance-for-multi-agent-orchestration-using-bedrock-agentcore-on-aws	41	This Guidance demonstrates how to build and deploy multi-agent systems using Amazon Bedrock AgentCore and Strands Agents SDK. 	build
+Azure-Samples/adaptive-rag-workbench	53	Sample for context-aware Agentic RaG, Q&A with multi-source verification, and self-curating knowledge base. Powered by Azure AI Foundry Agent Service, Azure AI Search with agentic retrieval and query rewrite, Semantic Kernel and LangGraph agents running in Azure Container Apps, and ready for Copilot Studio	write
+Azure/gpt-rag-orchestrator	100	The GPT-RAG Orchestrator service is an agentic orchestration layer built on Microsoft Foundry Agent Service and the Microsoft Agent framework. It enables agent-based RAG workflows by coordinating multiple specialized agents to collaboratively generate accurate, context-aware responses for complex user queries.	agentic
+BAI-LAB/MemoryOS	1556	[EMNLP 2025 Oral] MemoryOS is designed to provide a memory operating system for personalized AI agents.	ide
+bastani-inc/atomic	648	The verifiable coding agent runtime. Define your coding agent's process in natural language with stages, checks, and approval gates instead of hoping it follows your instructions.	coding
+BetterForAll/self-improving-agents	210	Self-Improving Agents -- A Progression Four levels of self-improving code agents, from the simplest loop to a full adversarial arena with self-modifying agents. Each level adds one key idea.	code
+blackzhanzhan/novel_agent	87	Git-native AI novel writing workbench with Dify agents	git
+browseros-ai/BrowserOS	13259	🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.	agentic
+bubbuild/bub	1587	Bub it. Build it. A hook-first runtime for agents that live alongside people.	ide
+buildermethods/agent-os	5303	Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.	code
+builderz-labs/mission-control	6034	Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.	code
+capsulerun/capsule	294	Secure runtime to sandbox AI agent tasks. Run untrusted code in isolated WebAssembly environments.	code
+chandra447/pi-hermes-memory	347	Hermes-style persistent memory and learning loop for Pi coding agent	coding
+chaterm/Chaterm	3017	Open source AI terminal for cloud and infrastructure management, enabling you to deploy, troubleshoot, and automate services using natural language and intelligent agents.	terminal
+clawbench-dev/clawbench	190	Mobile-first AI workstation — full integration of mainstream AI agents on phone & tablet. Single binary, zero dependencies, one-click deploy.	dev
+cloudflare/cloudflare-os	8622	Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.	agent workspace
+ComposioHQ/composio	29787	Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.	build
+context-labs/HALO	1151	Hierarchal Agent Loop Optimizer	agent loop
+coze-dev/coze-studio	21475	An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.	dev
+daggerhashimoto/openclaw-nerve	863	Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.	file
+darrenapfel/claudecode-orchestrator	38	DEPRECATED: NEW *REAL* SOLUTION COMING VERY, VERY SOON... Complete Multi-Agent Orchestration for Claude Code Enables 24 hour Autonomous Coding	coding
+DeadWaveWave/opencove	1565	Your infinite canvas workspace for agents, tasks, knowledge, and research. An infinite canvas for Claude Code, Codex, terminals, tasks, and notes.	code
+DingTalk-Real-AI/dingtalk-workspace-cli	2743	DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.	cli
+disler/infinite-agentic-loop	611	An experimental project demonstrating Infinite Agentic Loop in a two prompt system using Claude Code.	code
+dohooo/helmor	1289	Open-source local workbench for multi-agent software development.	dev
+electric-sql/electric	10329	The agent platform built on sync.	agent platform
+elpsykongloo/PaperBanana-Pro	95	Production-ready multi-agent academic illustration system with Chinese GUI, background generation, plot workbench, and portable result bundles. Extended from PaperBanana.	multi-agent
+Enderfga/claw-orchestrator	548	Run Claude Code, Codex, Antigravity, Cursor Agent and OpenCode as one runtime — persistent sessions, multi-agent councils, an OpenAI-compatible endpoint, an MCP server, and an ACP agent any editor can drive.	code
+EthanYoQ/agent-xiaohongshu-workbench	92	小红书图文内容工作台：用 Codex Agent 完成热点研究、内容拆解、原创文稿、去 AI 味、品牌配图与人工确认发布。	code
+exqqstar/ExAgent	54	ExAgent monorepo: Rust agent runtime and Tauri desktop workbench.	repo
+freestylefly/wesight	885	Open-source desktop AI agent workspace with one-click Claude Code, Codex, OpenClaw, Hermes Agent setup and custom LLM model routing.	code
+Fullive-AI/Anima	1038	Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence	agent os
+gastownhall/gastown	17672	Gas Town - multi-agent workspace manager	agent workspace
+GCWing/BitFun	1798	BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.	code
+Giskard-AI/giskard-oss	5758	🐢 Open-Source Evaluation & Testing library for LLM Agents	test
+golf-mcp/golf	837	Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents 	debug
+HaochengLu/contextvc	143	Git-native context control plane for AI coding agents	coding
+herry2059/project-os-for-codex	101	Open-source control plane for Codex projects: Git-backed context, visible agent progress, scoped MCP access, resumable work, and safe handoffs.	code
+heyhuynhgiabuu/openpi	202	OpenPi is a desktop workbench for the Pi coding agent.	coding
+hhyqhh/inno-agent	835	An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversation recall), a proactive scheduler, personal IM channels, and a workspace-scoped Practice Lab — built on the Pi SDK.	file
+holaboss-ai/holaOS	10175	Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.	code
+humanlayer/agentcontrolplane	460	ACP is the Agent Control Plane - a distributed agent scheduler optimized for simplicity, clarity, and control. It is designed for outer-loop agents that run without supervision, and make asynchronous tool calls like requesting human feedback on key operations. Full MCP support.	agent control
+IBM/ibm-watsonx-orchestrate-adk	174	The command line client for watsonx Orchestrate's agent builder experience.	cli
+its-maestro-baby/maestro	1167	The Bloomberg Terminal for CLI Agents, its Maestro Baby! 	terminal
+ITSpecialist111/HASS-AI-Orchestrator	58	An autonomous multi-agent orchestration system for Home Assistant. Features local LLM control (Ollama/DeepSeek), & RAG-powered technical knowledge,	autonomous
+jesson-hh/financial-analyst	50	觀瀾 · A-share research workstation with 24 AI sub-agents — one command, deep-dive report in ~10 min.	repo
+josipjelic/orchestrated-project-template	94	A Claude Code project template with pre-configured specialist agents, living documentation, Conventional Commits conventions, and placeholder-based structure — copy, fill, ship.	code
+jpicklyk/task-orchestrator	200	Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the server blocks the call if they don't. Works with any MCP-compatible client.	cli
+jsgrrchg/NeverWrite	765	Your ultimate agentic markdown workspace	write
+kimi-2-ai/kimi-2.6	6	Kimi-2.6 Swarm Workstation is the ultimate desktop solution that transforms your computer into a distributed analytical center. Using the latest Agent Swarm architecture from Moonshot AI, the application coordinates up to 300 sub-agents simultaneously, completing in 2 minutes tasks that take GPT-5 or Claude 4.6 hours of sequential "reasoning."	test
+Kimi-K2-7/kimi-K2.7	9	Kimi K2.7 Swarm Workstation — 300-agent parallel AI hive. Beats Claude Opus 4.8 on tool use (81.1% MCPMark), 5× cheaper. Win/Mac, one-click.	cli
+kingbootoshi/codex-orchestrator	346	Delegate tasks to OpenAI Codex agents via tmux sessions. Designed for Claude Code orchestration.	code
+ksimback/looper	705	Design visual, review-gated agent loops for Claude Code before you run them.	code
+KunAgent/Kun	6141	Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.	coding
+landing-ai/ade-cli	2404	The official CLI for Agentic Document Extraction (ADE) by LandingAI — parse documents and extract schema-shaped data from your terminal	terminal
+langchain-ai/agents-from-scratch	2121	Build an email assistant with human-in-the-loop and memory	build
+lemony-ai/cascadeflow	3996	Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop.	ide
+lidge-jun/ima2-gen	703	Local-first visual generation runtime and studio for people and coding agents, with reproducible image and video workflows across multiple providers.	coding
+LnYo-Cly/ai4j	423	Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent Runtime, and a built-in Coding Agent CLI/TUI/ACP.	coding
+lowtidebuild/legal-agent-orchestrator	41		ide
+MaxFreedomPollard/Compartment	594	Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval.	cli
+mbruhler/claude-orchestration	218	Multi-agent workflow orchestration plugin for Claude Code	code
+medusajs/medusa	35914	The world's most flexible commerce platform for agents and developers	dev
+MemTensor/MemRL	169	Paper: “MEMRL: SELF-EVOLVING AGENTS VIA RUNTIME REINFORCEMENT LEARNING ON EPISODIC MEMORY” Open-Source Code	code
+michaelshimeles/ralphy	2956	My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.	code
+mind-protocol/terminal-velocity	1114	A novel created autonomously by a team of 10 AI agents	terminal
+minghinmatthewlam/pi-gui	854	Electron GUI app for the pi coding agent runtime	coding
+msimerson/ssh-agent	20	A shell script that loads ssh-agent and keys into each terminal session of a workstation	terminal
+mvanhorn/agentcookie	769	Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.	agent runtime
+nam271212/strategic-advisor-orchestrator	116	AI Coding Agent Orchestrator 2026: Pro-Level Strategy & Review Framework	coding
+Nasiko-Labs/nasiko	4959	Developer Control Plane for your AI Agents	dev
+nebulae/trudi	29	Autonomous DFIR agent — SANS SIFT Workstation MCP server for incident response	ide
+nicepkg/auto-company	185	🤖 A fully autonomous AI company that runs 24/7. 14 AI agents (Bezos, Munger, DHH...) brainstorm ideas, write code, deploy products & make money — no human in the loop. Powered by Claude Code.	code
+NoKV-Lab/NoKV	466	Durable agent workspace and ai4s research workbench	agent workspace
+nrwl/nx	29237	The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.	dev
+NVIDIA/OpenShell	8280	OpenShell is the safe, private runtime for autonomous AI agents.	autonomous
+NVIDIA/workbench-example-agentic-rag	166	An NVIDIA AI Workbench example project for an Agentic Retrieval Augmented Generation (RAG) 	agentic
+olaxbt/ai-market-maker	2056	Agentic AI Hedge Fund OS (AIMM)	agentic
+omnimind-ai/OmniBot	1912	Your on-phone / mobile AI Agent / Claw, capable of operating terminals and performing a wide range of tasks in the Android world || 你的手机 AI 代理，她可以操作终端，也可以完成 Android 世界的广泛任务 	terminal
+open-multi-agent/open-multi-agent	6795	TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepSeek, or local models).	agent orchestrat
+OS-Copilot/OS-Copilot	1796	An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks. 	copilot
+PatilShreyas/debroid	184	Autonomous, headless Android debugger designed for AI coding agents. Inspect runtime memory, set breakpoints, and debug live apps.	coding
+Peiiii/nextclaw	251	An open-source, extensible, self-hosted agent workspace with multi-runtime support for Codex, Claude Code, and more, plus reusable local apps for custom interfaces and services.	code
+PeonPing/peon-ping	4997	Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.	code
+phodal/routa	1796	Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.	dev
+PhyAgentOS/PhyAgentOS-core	1735	PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.	agentic
+poco-ai/poco-claw	1351	A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, a sandboxed runtime and channel-based team collaboration. Under the hood, it is powered by a Claude Code–based agent.	code
+Q00/ouroboros	5581	Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make it into the success contract we hand it. Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 13 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.	code
+qawolf/cli	3441	QA Wolf from anywhere — your terminal, your CI, your AI agent.	terminal
+qingni/AgentCrew	56	A universal orchestration workbench for macOS. Seamlessly mix AI models (Codex, Claude) with traditional CLI tools (git, npm) via static DAG pipelines or dynamic self-healing agents, creating a fully automated closed-loop for development and ops.	code
+Qredence/fleet-rlm	51	Agentic RLM workbench on DSPy 3.3: sandboxed code execution, live operator streaming over SSE, durable sessions & artifacts, terminal-first client	code
+raroque/boop-agent	1333	iMessage personal agent: choose Claude Agent SDK (Claude Code) or Codex app-server runtime (Codex/ChatGPT), with memory, sub-agents, automations, integrations.	code
+Rath-Team/OpenRath	930	An open-source, PyTorch-like runtime for dynamic multi-agent and multi-session workflows.	multi-agent
+reticlehq/reticle	323	AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perception of web applications.	code
+risingwavelabs/risingwave	9273	Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.	agentic
+Ryan-yang125/ChatLLM-Web	629	Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM.	agent workspace
+ryanlab/bivor	206	Bivor — a macOS desktop workbench for the pi coding agent	coding
+Rylaa/fable5-opus5-orchestrator	49	Keep Claude Fable 5 in the chair all day without draining your usage limit — token-frugal multi-agent orchestration plugin for Claude Code: tier routing (Sonnet 5 does the work), Requirements Ledger, enforced guard hooks, automatic teammate reaping	code
+Scarmonit/antigravity-jules-orchestration	41	Autonomous AI orchestration architecture combining Google Antigravity with Jules API for hands-free development workflows. MCP integration for seamless agent coordination.	dev
+selwin/django-user_agents	647	A django package that allows easy identification of visitor's browser, OS and device information,  including whether the visitor uses a mobile phone, tablet or a touch capable device.	dev
+shareAI-lab/kode-agent-sdk	395	Open runtime for building Claude Code & Manus like Agent Product	code
+ShawnPana/smux	1512	tmux config with built-in terminal automation and agent-to-agent communication.	terminal
+shintaro-sprech/agent-orchestrator-template	124	A self-evolving subagent system for Claude Code	code
+sideseat/sideseat	44	Unified workbench for building and debugging AI Agents	ide
+SmythOS/smythos-studio	292	SmythOS Studio: Open-Source Visual AI Agent Builder and deployable runtime stack from SmythOS. Start with an intuitive drag-and-drop workspace, extend with custom code, and deploy your agents anywhere — local, cloud, or edge — with full governance and control.	code
+SmythOS/sre	1291	The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across local, cloud, and edge environments.	dev
+snarktank/ralph	21543	Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 	autonomous
+Snowflake-Labs/orchestration-framework	74	A multi-agent framework with native support for Snowflake services	multi-agent
+solo-agent/solo	531	Solo Agent — an open-source, local-first workspace where humans and AI coding agents collaborate through channels, tasks, teams, and persistent memory.	coding
+sonicfieldlabs/oram	30	Real-time agentic looper and generative-performance workstation for macOS.	agentic
+stoneforge-ai/stoneforge	175	A web dashboard and runtime for orchestrating AI coding agents	coding
+superagentxai/superagentx	203	Move from idea to production in hours with policy-driven autonomous AI agents. Unified Control Plane: Centralised tools, MCPs, models, data, and policies with consistent observability and governance.	ide
+svd-ai-lab/sim-cli	209	CLI-first runtime for Codex, Claude Code, and AI agents to operate CAE solvers via plugins: COMSOL, Abaqus, Ansys.	code
+systempromptio/systemprompt-code-orchestrator	142	[DEPRECATED] Superseded by systempromptio/systemprompt-template and systempromptio/systemprompt-core. MCP server for orchestrating AI coding agents (Claude Code CLI & Gemini CLI).	coding
+tarunms7/forge-orchestrator	42	Forge is a self-evolving multi-agent orchestrator -- that plans, runs parallel agents, orchestrates them, reviews the code, resolves merge-conflicts and gives one PR that you can safely merge to production.	code
+Tencent/WeKnora	20079	Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.	autonomous
+tensorlakeai/tensorlake	989	Tensorlake is a serverless runtime for sandboxes and deploying background agentic applications	agentic
+thedaviddias/Front-End-Checklist	73575	🗂 The essential checklist for modern web development, for humans and AI agents	dev
+thefalc/multi-agent-ai-sdr-flink-orchestrator	46	Demo application for an event-driven multi-agent system for handling lead processing using an orchestrator built in Flink	multi-agent
+tutti-os/tutti	3311	Where people and agents build in tune.	build
+u-ichi/reviewable-html-workbench	287	Claude Code / Codex CLI plugin for generating reviewable HTML documents with preview, inline review comments, and agent feedback ingestion.	code
+unicity-aos/capsule-identity	8518	System prompt builder. Assembles agent identity from workspace config and spark.toml. Part of Unicity AOS.	ide
+ValueCell-ai/ClawX	7597	ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.	terminal
+ValueCell-ai/valuecell	11003	ValueCell is a community-driven, multi-agent platform for financial applications.	agent platform
+varie-ai/workstation	10	Control Claude Code from your phone. An agentic coding orchestrator with AI agent integration, voice control, and multi-session management. 	coding
+video-db/call.md	1121	Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls.	ide
+vivekchand/clawmetry	398	See your agent think. Zero-config observability & governance for 20+ AI agent runtimes: OpenClaw, Claude Code, OpenAI Codex, Cursor, Aider, Goose, NVIDIA NemoClaw, NanoClaw & more. Live token costs, sessions, tool calls, crons.	code
+Weilin0723/PurrCode	168	A judgment-first coding agent runtime	coding
+willynikes2/agent-orchestrator	65	Three AI agents. One brain. Zero downtime. Multi-agent CLI orchestrator with next-man-up failover for Claude, Codex, and Gemini.	code
+wso2/agent-manager	70	WSO2 AI Agent Manager is an open control plane designed for enterprises to deploy, manage, and govern AI agents at scale.	deploy
+xiaotianfotos/homerail	890	Voice-first local agent orchestration runtime for auditable DAG workflows.	agent orchestrat
+xpander-ai/xpander.ai	870	xpander.ai is the runtime and control plane to build, run, and ship reliable AI agents fast and anywhere	build
+YaoApp/yao	7723	✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.	dev
+yuting0624/ge-claude-a2a	6	Run Anthropic's Claude Code as a multi-surface A2A custom agent inside Gemini Enterprise App. One conversation across mobile, web chat, and Cloud Workstation terminal.	code
+yv1ing/Z3r0	626	AI-native red-team workbench for authorized penetration testing and vulnerability research, with specialist agents, sandboxed tooling, evidence records, and replayable timelines.	ide
+zawatton/anvil.el	86	An MCP server written in Elisp — a token-efficient workbench for AI agents. Drives files, org-mode, Elisp & SQLite from any MCP client   (Claude, GPT, local LLMs) through Emacs primitives instead of sed/grep round-trips.	file
+ZhiweiWei-NAMI/AeroAgentSim	58	AeroAgentSim is a discrete-event simulation toolkit and developer workbench for low-altitude autonomous systems. 	dev
+zjrosen/perles	175	A BQL (Beads Query Language) search, dependency and multi-view kanban board Terminal UI for Beads issue tracking and multi-agent orchestration control plane workflow runner.	terminal
+zxerai/novelix	48	novelix— Autonomous novel writing AI agent. 10-agent pipeline for fiction writing with Studio web workbench, TUI, and CLI.	cli

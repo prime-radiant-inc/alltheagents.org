@@ -1,0 +1,50 @@
+langgenius/dify	152937	Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+siyuan-note/siyuan	45895	An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+googleworkspace/cli	30465	Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+simstudioai/sim	29437	Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
+gastownhall/gastown	17672	Gas Town - multi-agent workspace manager
+casdoor/casdoor	14227	An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
+NanmiCoder/cc-haha	14166	Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.
+holaboss-ai/holaOS	10175	Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
+cloudflare/cloudflare-os	8622	Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
+unicity-aos/capsule-identity	8518	System prompt builder. Assembles agent identity from workspace config and spark.toml. Part of Unicity AOS.
+YaoApp/yao	7723	✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
+outsourc-e/hermes-workspace	6466	Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
+KunAgent/Kun	6141	Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.
+Agenta-AI/agenta	4496	Agenta is a workspace where you and your team build agents and automations.
+Devin-AXIS/iPolloWork	4286	A next-generation, source-available AI workspace with a self-evolving agent runtime for editable code, design, presentations, websites, and video—a Codex alternative that integrates DeepSeek Harness for subagent delegation, combining iPolloWork’s complete AI workbench with DSH’s specialized agents and both plugin ecosystems in one workflow.
+ArcReel/ArcReel	4077	AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
+golutra/golutra	3825	Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
+macro-inc/macro	3782	Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+SeemSeam/claude_codex_bridge	3429	Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents
+kite-org/kite	3075	🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.
+xintaofei/codeg	2851	Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.
+DingTalk-Real-AI/dingtalk-workspace-cli	2743	DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.
+zarazhangrui/lark-coding-agent-bridge	2296	Bot that bridges Feishu/Lark messenger with a local Claude Code or Codex CLI. Streaming cards, per-chat sessions, multiple workspaces
+YTwsy/OpenSurge-for-Mac	2092	Surge-style whole-home gateway and control plane for macOS with IPv4/IPv6 support— mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.
+team9ai/team9	1990	Team9 is a collaborative workspace for AI agents, currently built on OpenClaw and its ecosystem.
+phodal/routa	1796	Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.
+u14app/neo-chat	1781	A local-first AI chat workspace for models, agents, skills, plugins, search, RAG, voice, memory, and artifacts.
+zhu1090093659/deepseek-pp	1633	DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automation, web search, and conversation export.
+DeadWaveWave/opencove	1565	Your infinite canvas workspace for agents, tasks, knowledge, and research. An infinite canvas for Claude Code, Codex, terminals, tasks, and notes.
+nimbalyst/nimbalyst	1526	Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually in markdown, mockups, and diagrams, and track tasks. Free, MIT-licensed desktop app for macOS, Windows, Linux, with mobile companion for iOS and Android.
+krusemediallc/arcads-claude-code	1353	Arcads external API: agent skills, prompting library, and Cursor/Claude workspace
+hoangnb24/repository-harness	1179	Turn any repo into an agent-ready workspace for Claude Code, Codex, Cursor, and other coding agents.
+keinsaasforever/better-chatbot	1167	Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
+RinDig/icm-architect	1120	Claude skill: design any process, idea, or problem into an ICM workspace (folder structure as agent architecture), or restructure an existing folder into one
+HKUDS/AgentSpace	939	"AgentSpace: Human + Agents. One Team. One Workspace"
+freestylefly/wesight	885	Open-source desktop AI agent workspace with one-click Claude Code, Codex, OpenClaw, Hermes Agent setup and custom LLM model routing.
+daggerhashimoto/openclaw-nerve	863	Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.
+hhyqhh/inno-agent	835	An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversation recall), a proactive scheduler, personal IM channels, and a workspace-scoped Practice Lab — built on the Pi SDK.
+context-machine-lab/sleepless-agent	828	🤖 24/7 AI agent that maximizes Claude Code Pro usage via Slack. Auto-processes tasks, manages isolated workspaces, creates Git commits/PRs, and optimizes day/night usage thresholds.
+stacklok/codegate	790	CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
+meitarbe/cognetivy	780	The open-source state layer for AI coding agents. Turn chaotic agent sessions into structured, traceable workflows with a local workspace for runs, events, and collections.
+jsgrrchg/NeverWrite	765	Your ultimate agentic markdown workspace
+datagallery-lab/datafoundry	721	DataFoundry is an open-source AI workbench for data analysis, unifying data sources, knowledge, tools, and agent runtime into a governed workspace for interactive analytics.
+LeoYeAI/openclaw-backup	660	One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai
+Ryan-yang125/ChatLLM-Web	629	Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM.
+iAmCorey/kooky	615	A minimal modern terminal for AI coding experience — Sidebar workspaces; horizontal / vertical split panes; one-click agent launch; per-agent activity readout; live workspace state with one-click Node and branch switching.
+jmfederico/pi-web	572	Web UI for Pi Coding Agent that keeps sessions alive in real workspaces.
+kdcokenny/opencode-workspace	570	Bundled multi-agent orchestration harness for OpenCode. One install, complete control.
+h5i-dev/h5i	536	Auditable sandbox for coding agents. Browser, dependencies, dev server, and workspace in one disposable environment. Local-first. No hosted sandbox. No SaaS account required.
+solo-agent/solo	531	Solo Agent — an open-source, local-first workspace where humans and AI coding agents collaborate through channels, tasks, teams, and persistent memory.

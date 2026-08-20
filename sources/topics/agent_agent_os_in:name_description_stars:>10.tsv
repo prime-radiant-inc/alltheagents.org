@@ -1,0 +1,50 @@
+browseros-ai/BrowserOS	13259	🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+nearai/ironclaw	12604	IronClaw is an Agent OS focused on privacy, security and extensibility
+EverMind-AI/EverOS	12213	One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
+MemTensor/MemOS	10811	Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
+faisalman/ua-parser-js	10178	UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).
+holaboss-ai/holaOS	10175	Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
+cloudflare/cloudflare-os	8622	Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
+osaurus-ai/osaurus	7643	Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
+craft-ai-agents/craft-agents-oss	7082	
+Giskard-AI/giskard-oss	5758	🐢 Open-Source Evaluation & Testing library for LLM Agents
+memovai/mimiclaw	5709	MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
+Q00/ouroboros	5581	Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make it into the success contract we hand it. Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 13 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+agentscope-ai/AgentTeams	5443	An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
+buildermethods/agent-os	5303	Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
+beclab/Olares	5230	Open-Source Personal Cloud OS for Always-On Agents
+tutti-os/tutti	3311	Where people and agents build in tune.
+xlang-ai/OSWorld	3099	[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+lioensky/VCPToolBox	2257	VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。
+olaxbt/ai-market-maker	2056	Agentic AI Hedge Fund OS (AIMM)
+browser-use/macOS-use	1971	Make Mac apps accessible for AI agents
+OS-Copilot/OS-Copilot	1796	An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks. 
+PhyAgentOS/PhyAgentOS-core	1735	PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.
+tinyfish-io/bigset-oss	1676	Open-source BigSet — self-hostable live datasets populated by TinyFish web agents
+ghostwright/ghost-os	1640	Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required.
+BAI-LAB/MemoryOS	1556	[EMNLP 2025 Oral] MemoryOS is designed to provide a memory operating system for personalized AI agents.
+OpenOSINT/OpenOSINT	1429	AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 19 tools. Works with Claude, GPT-4, or local models. For authorized security research only.
+ClaudioDrews/memory-os	1330	A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
+agentlas-ai/Agentlas-OS	1159	Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.
+Ryandonofrio3/osgrep	1139	Open Source Semantic Search for your AI Agent
+akitaonrails/ai-jail	1103	Multi-OS sandbox to run AI agents with better constraints (it is not 100% secure, but enough)
+Fullive-AI/Anima	1038	Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence
+lahfir/agent-desktop	1019	Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs.
+HazAT/glimpse	953	Native micro Web UI for scripts and agents — super fast OS native webview with bidirectional JSON communication for agents
+microsoft/WindowsAgentArena	887	Windows Agent Arena (WAA) 🪟 is a scalable OS platform for testing and benchmarking of multi-modal AI agents.
+EmpireProject/EmPyre	872	A post-exploitation OS X/Linux agent written in Python 2.7
+nuwax-ai/nuwax	871	Nuwax Agent OS - An enterprise-grade AI Agent Development and Operation Platform - Providing a complete solution for agent creation and distribution, knowledge base management, model proxy, memory system, and plugin ecosystem.
+yayasoumah/pocket-server	838	An OS for your agents, built for your pocket.
+vinhnx/VTCode	811	VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-provider support.
+23blocks-OS/ai-maestro	749	AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Codex or any AI Agent from one dashboard. Move Agents between computers and locations
+AirtestProject/iOS-Tagent	723	iOS support agent for automation
+dongshuyan/compass-skills	699	司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents
+GeminiLight/MindOS	661	MindOS is a Human-AI Collaborative Mind System, where human thinks and agents act. Globally sync your mind for all agents: transparent, controllable, and evolving symbiotically.
+selwin/django-user_agents	647	A django package that allows easy identification of visitor's browser, OS and device information,  including whether the visitor uses a mobile phone, tablet or a touch capable device.
+Arvincreator/project-golem	637	OS-level autonomous AI agent with long-term memory, multi-agent coordination, Titan Chronos scheduler & Moltbot Social Core
+ynulihao/AgentSkillOS	603	Build your agent from 200,000+ skills via skill RETRIEVAL & ORCHESTRATION
+Bennettxai/FounderOS-DEMO	603	An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.
+openxlings/xlings	602	Universal package infrastructure with OS-like SubOS isolation - Multi-version · Rootless · Decentralized Index · Agent-ready.
+MaxFreedomPollard/Compartment	594	Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creation, storage and retrieval.
+melgarafael/DeskcommCRM	578	Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+amanaiproduct/personal-os	558	Framework for a local AI agent powered task management system 

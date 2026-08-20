@@ -1,0 +1,50 @@
+langchain-ai/langchain	144583	The agent engineering platform.
+farion1231/cc-switch	128322	A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+OpenBB-finance/OpenBB	72057	Open Data Platform for analysts, quants and AI agents.
+ansible/ansible	70388	Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+run-llama/llama_index	51747	LlamaIndex is the leading document agent and OCR platform
+microsoft/qlib	47763	Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+agno-agi/agno	41791	Build, run, and manage agent platforms.
+ToolJet/ToolJet	40523	ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+AstrBotDevs/AstrBot	39399	AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+PostHog/posthog	37788	:hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
+medusajs/medusa	35914	The world's most flexible commerce platform for agents and developers
+SigNoz/signoz	31889	SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.
+topoteretes/cognee	30133	Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
+mukul975/Anthropic-Cybersecurity-Skills	29884	817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+nrwl/nx	29237	The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
+mlflow/mlflow	27588	The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.
+Kilo-Org/kilocode	26938	Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
+letta-ai/letta	24308	Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
+1Panel-dev/MaxKB	22544	🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
+coze-dev/coze-studio	21475	An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
+Tencent/WeKnora	20079	Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+mksglu/context-mode	19992	Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
+arc53/DocsGPT	18221	Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
+langchain-ai/langchainjs	18118	The agent engineering platform
+GoogleCloudPlatform/generative-ai	17600	Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
+langbot-app/LangBot	17497	Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow
+chenhg5/cc-connect	15052	Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
+open-metadata/OpenMetadata	14915	The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
+prowler-cloud/prowler	14625	Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. Connect your agents now and build on the Agentic Cloud Defender.
+NanmiCoder/cc-haha	14166	Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.
+greensock/gsap-skills	13856	Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
+waooAI/waoowaoo	13694	首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
+InsForge/InsForge	12753	The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
+dataelement/bisheng	11895	BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
+wangrongding/wechat-bot	11274	🤖 Multi-platform IM AI Agent for Telegram, WhatsApp, Lark, and WeChat. Connects ChatGPT / Claude / Kimi / DeepSeek / Ollama / Pi for auto-replies, community analysis, contact management, and inactive-friend detection.
+ValueCell-ai/valuecell	11003	ValueCell is a community-driven, multi-agent platform for financial applications.
+OpenByteInc/QuantDinger	10851	AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
+EKKOLearnAI/hermes-studio	10440	Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics 
+github/copilot-sdk	10420	Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+VoltAgent/voltagent	10383	AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
+electric-sql/electric	10329	The agent platform built on sync.
+unicity-sphere/sphere	9737	A Web3 wallet and agent platform for the Unicity network - crypto wallet, DMs, group chat, and marketplace.
+risingwavelabs/risingwave	9273	Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
+iflytek/astron-agent	8962	Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
+firerpa/lamda	8203	Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed for multi-device clusters and engineered deployments.
+AI4Finance-Foundation/FinRobot	7812	FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀 
+google-deepmind/lab	7373	A customisable 3D platform for agent-based AI research
+xerrors/Yuxi	6510	可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.
+ModelEngine-Group/nexent	5830	Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.
+Klavis-AI/klavis	5791	Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale
