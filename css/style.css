@@ -160,3 +160,8 @@ a:hover { color: var(--accent-hover); text-decoration: underline; }
 
 /* Footer */
 .footer { text-align: center; padding: 2rem; border-top: 1px solid var(--border); color: var(--text-muted); }
+
+/* Agent edit footer */
+.agent-edit-footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); }
+.agent-edit-footer p { color: var(--text-muted); font-size: 0.875rem; margin: 0; }
+.agent-edit-footer a { color: var(--accent); }
