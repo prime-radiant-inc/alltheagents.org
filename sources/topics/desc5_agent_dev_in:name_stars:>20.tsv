@@ -1,0 +1,100 @@
+e2b-dev/awesome-ai-agents	29568	A list of AI autonomous agents
+rivet-dev/agentos	4402	Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
+callstack/agent-device	4136	Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
+FareedKhan-dev/all-agentic-architectures	4136	35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard.
+steel-dev/awesome-web-agents	1539	🔥 A list of tools, frameworks, and resources for building AI web agents
+rivet-dev/sandbox-agent	1538	Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
+FareedKhan-dev/production-grade-agentic-system	929	Core 7 layers of production grade agentic system
+bhancockio/agent-development-kit-crash-course	894	
+data-goblin/power-bi-agentic-development	865	Power BI AI skills and Power BI agents for Claude Code and GitHub Copilot: a plugin marketplace of Power BI skills, subagents, and hooks for semantic models, DAX, TMDL, reports, and AI dashboards. Includes Microsoft Fabric skills and Fabric agents. Weekly updates.
+parca-dev/parca-agent	742	eBPF based always-on CPU/GPU profiler auto-discovering targets in Kubernetes and systemd, zero code changes or restarts needed!
+sightflow-dev/sightflow-desktop-agent	655	
+agentlabs-dev/agentlabs	556	Universal AI Agent Frontend. Build your backend we handle the rest.
+agentregistry-dev/agentregistry	463	Fast-track AI innovation with a centralized, trusted, curated registry
+yuyou-dev/Vibe-Agent	434	手搓Agent系列，香蕉Pro邪修应用和gemini本地化部署
+Sean-V-Dev/HMLR-Agentic-AI-Memory-System	383	Living memory for AI
+FareedKhan-dev/Multi-Agent-AI-System	373	Building a Multi-Agent AI System with LangGraph and LangSmith
+FareedKhan-dev/optimize-ai-agent-memory	342	9 Different Ways to Optimize AI Agent Memories
+Mng-dev-ai/agentrove	316	Self-hosted AI coding workspace to run and orchestrate Claude Code, Codex, Copilot, Cursor, Grok and OpenCode agents — multi-agent workflows, personas, and ACP-powered sandboxes
+RunanywhereAI/on-device-browser-agent	299	On-device AI browser automation using WebLLM. No cloud, no API keys, fully private.
+bdfinst/agentic-dev-team	272	
+agent-era/devteam	264	Run a team of local coding agents in your terminal. Launch multiple Claude Code, Codex or Gemini agents, switch between them, review their changes and add comments, and push PRs  all from one streamlined terminal UI. An exercise to push how fast development can happen with multiple parallel agents. Mostly vibe-coded
+summerjava/Awesome_Agent_Dev	258	AI 大模型应用/Agent工程师学习面试大全（Agent Dev Roadmap）
+callstackincubator/agent-react-devtools	239	Gives AI agents access to React DevTools ⚛️🤖
+daydy-dev/moon-dev-ai-agents-for-trading	235	ai agents for trading
+FareedKhan-dev/agentic-rag	234	Agentic RAG to achieve human like reasoning
+FareedKhan-dev/autonomous-agentic-rag	225	Self improving agentic rag pipeline
+flatlogic/awesome-ai-software-development-agents	180	Awesome List of AI Software Development Agents (Engineers)
+marcelsud/spec-driven-agentic-development	173	
+biheto/DevAgent-Studio	171	DevAgent Studio is a multi-agent workbench for software project understanding and engineering governance. It helps teams review pull request risks, onboard new developers, understand unfamiliar systems, and continuously identify architecture drift and technical debt.无论是新人接手陌生代码、开发者提交 PR，还是团队进行架构巡检，都可以通过多 Agent 协作生成可追踪、可审核、可沉淀的项目治理结果。
+agentevals-dev/agentevals	154	agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces
+SmartSunruiyang/Agent-development-specification	152	一个通用、不绑定技术栈的 Claude Code 技能：在写第一行代码之前，先为项目铺好 Agent 规则、文档与架构，并在项目演进中持续把它们当作"源真相"。
+little51/agent-dev	142	《大模型项目实战：Agent开发与应用》配套资源
+agentgg-dev/agentgg	126	Open source agentic SAST. The engine behind hundreds of disclosed zero-days. 100+ AI security agents, any repo or PR diff, bring your own model.
+yolojewjitsu/moon-dev-ai-agents	119	autonomous ai agents in python for trading
+Atrayee-dev/secure-ai-agent-boundary	115	Secure AI Engineering Framework 2026: Data-Boundary Security for Frontier Models
+FareedKhan-dev/multi-agent-trading-system	114	Implementation of Deep Thinking Trading System
+CurvedLightGroup/MoonDev-Trading-Ai-Agents	109	
+day50-dev/tmux-ai-agent-helper	104	Share your TMUX screen with ai chat
+Azure/terraform-azurerm-aci-devops-agent	103	Terraform Module to deploy a Azure DevOps self-hosted agents on Azure Container Instance
+brucetoo/visual-agentic-dev	102	an immersive browser dev environment with a seamless click-to-locate + agent edit loop.
+mesa-dot-dev/agentblame	101	AI code attribution for git. Track which lines were written by AI vs humans.
+FareedKhan-dev/agentic-parallelism	99	Core concepts - where to apply parallelism in agentic solution
+wangdefou-dev/defou-workflow-agent	98	
+21st-dev/agent-elements	94	
+FareedKhan-dev/temporal-ai-agent-pipeline	93	Optimizing Dynamic Knowledge Base Using AI Agent
+SleeeepyZhou/LiveDevAgents	90	Multi-Agent danmaku game engine. 2024.12 CAMEL-AI Hackathon 一等奖项目.
+shangxiang0907/HeiMa-AI-LLM-RAG-Agent-Dev	90	
+ssxxbaba133133-dev/Minnan-Taiwan-Recognition-Agent	90	针对闽台一带的宫庙建筑立面图像要素的科研助手Agent工具
+SteelMorgan/1c-agent-based-dev-framework	89	Фреймворк агентной разработки на 1С
+DharminJoshi/Awesome-Agentic-AI-Learning-Resource-By-DevKay	83	Awesome Agentic AI Learning Resource by DevKay is a curated roadmap for mastering Agentic AI—from ML foundations to production-ready agents. Features a 0–12+ month path, hands-on projects, top resources, agent architectures, and tools like LangChain and AutoGen.
+kubesphere/devops-agent	82	Agents for Kubesphere DevOps
+meshy-dev/meshy-3d-agent	79	AI agent skills for Meshy AI 3D generation platform
+DevOpsAIguru123/awesome-agentic-devops	75	Curated + scored map of official MCP servers and agents for DevOps, Cloud, SRE, and Platform Engineering — every entry rated on production access, approval gates, and audit evidence.
+epam/ai-applications-development-from-api-to-agents	74	Python tasks from AI Applications Development Course: From API To Agents
+FareedKhan-dev/training-ai-agents	73	Training architecture for self-improving AI agents.
+Caph-dev/agents-progressive-disclosure	73	A skill to refactor bloated AGENTS.md, CLAUDE.md, or similar agent instruction files into a compact routing entrypoint plus focused docs/ reference files.
+holny/Agent-Harness-Develop-Book	70	Agent Harness完整架构和核心模块开发指导手册 - 参考生产级Agent源码：Claude Code，OpenCode，OpenClaw和Hermess
+LinkedInLearning/agentic-ai-for-developers-concepts-and-applications-for-enterprises-3913172	69	This repo is for the Linkedin Learning course: Agentic AI for Developers: Concepts and Applications for Enterprises
+fvadicamo/dev-agent-skills	69	Claude Code skills plugin for Git, GitHub, and skill authoring workflows
+Teraflop-Inc/dev-agent-lens	68	Proxy Claude Code Requests through LiteLLM to Arize
+ideaweaver-ai/devops-open-agent	65	
+AashiDutt/Google-Agent-Development-Kit-Demo	65	ADK powered travel planner
+RobertoPrevato/AzureDevOps-agents	64	Images for self-hosted DevOps agents
+jerry-ai-dev/smart-appointment-ai-agent	64	
+microsoft/aitour26-BRK442-github-copilot-as-an-ai-agent-in-the-developer-workflow	64	Practical session demonstrating GitHub Copilot's agent-like behaviors, integrating deeply into engineering processes
+workleap/ansible-role-azure-devops-agent	63	An Ansible role that installs and configures a Linux machine to be used as an Azure DevOps build or deployment agent.
+omdsh-dev/dsh-data-agent	62	Connect DSH to your database for conversational data analysis and actionable business insights.
+MegaWiz-Dev-Team/agentic_rag_workshop	60	
+microsoft/Agent365-devTools	59	The Microsoft Agent 365 DevTools CLI is a command-line interface tool designed to streamline the development, deployment, and management of Microsoft Agent 365 applications.
+FareedKhan-dev/production-grade-mcp-agentic-system	59	Building a Production-Grade MCP Server Architecture with a Multi-Agent System
+iam-veeramalla/AI-DevOps-Kubernetes-Agent	57	
+FareedKhan-dev/multi-agent-training-grpo	57	A multi-agent system trained with GRPO for reliable long-horizon task planning and execution.
+btungut/azure-devops-agent-on-kubernetes	56	The easiest and most effective method for creating and managing Azure DevOps agents on Kubernetes
+M1n9X/llm_agents_devtools	54	A curated list of autonomous agents and developer tools powered by LLM.
+Mastercard/developers-agent-toolkit	53	The Mastercard Developers Agent Toolkit allows popular agent frameworks to integrate with Mastercard Developers Platform for service discovery and integration guides.
+FareedKhan-dev/deep-research-agent	53	Deep research agentic system using Time Test Diffusion
+Quakedudone94/r19-iannuttall-claude-agents-devops	53	☁️ DevOps & Cloud Infrastructure skill suite derived from iannuttall/claude-agents.
+ganrad/Az-DevOps-Agent-On-AKS	51	Build and deploy Azure DevOps Pipeline agent in a container on Azure Kubernetes Service.  Elastically scale the DevOps build infrastructure.
+BagelHole/DevOps-Security-Agent-Skills	50	Agent-ready DevOps, security, infrastructure, and compliance knowledge base with 80+ skills across Kubernetes, Terraform, AWS/Azure/GCP, AI platform operations, container hardening, SOC2/ISO27001, and incident response—plus ready-to-run scripts, templates, and playbooks for SRE, platform, and security teams.
+aws-neuron/neuron-agentic-development	50	
+ruvnet/agentic-devops	49	Agentic DevOps is a powerful, interactive Command-Line Interface (CLI) designed to streamline and automate the development, deployment, and management of applications on various Cloud Providers.
+AIGeniusInstitute/Building-AI-Agent-from-Scratch-LLM-based-Application-Development-Practice	49	从零构建 AI Agent：LLM 大模型应用开发实践
+callstackincubator/eas-agent-device	48	EAS Workflow with QA agent using agent-device and AI SDK
+rehan-dev/ai-call-agent	47	AI-powered voice calling agent using OpenAI's Realtime API and Twilio
+FareedKhan-dev/ai-agents-eval-techniques	47	Implementation of 12 AI agents evaluation techniques
+mythicnoteshed/r16-voltagent-awesome-agent-skills-devops	47	☁️ DevOps & Cloud Infrastructure skill suite derived from VoltAgent/awesome-agent-skills.
+FareedKhan-dev/agentic-guardrails	46	Layered guardrails to make agentic AI safer and more reliable.
+teabranch/agentic-developer-mcp	45	An MCP server that scales development into controllable agentic, recursive flows, and build a feature from bottom-up
+FareedKhan-dev/agentic-loop-engineering-course	45	An 18 notebook course that isolates and measures each component of agentic loop engineering on real, industry standard software datasets.
+awslabs/agent-dev-toolkit	44	
+AIGeniusInstitute/Large-Language-Model-Application-Development-Hands-On-with-AI-Agents	43	大模型应用开发：动手做AI Agent GPT大语言模型应用 智能代理 LangChain 开发实战
+KevinKE93/Dev_Agent_OPC	43	A automatic dev agent from idea → spec → design → plan → build → test → review → ship and included many roly and responsibility. Add many feature and modified for OPC or small business team. Based on @addyosmani agent-skills 
+subzone/balkan-devops-agent	42	
+FareedKhan-dev/long-running-agent	42	A step by step implementation to build an agent that runs for week to complete a task and self improve.
+TrainWithShubham/agentic-ai-for-devops	40	
+OpenSourceAGI/dev-tools-starter-agent	38	💻⚒️ NPM dev tools and core parts for Full Stack Starter App & Docs   🚀DEMO  
+web-infra-dev/agent-browser-sdk	37	Agent browser SDK.
+smirk-dev/CodeReview-AI-Agent	37	Multi-agent AI system for automated code review using Google's ADK - Kaggle Agents Intensive Capstone Project 2025
+aws/tools-for-devops-agent	35	Open-source tools for AWS DevOps Agent - extend DevOps Agent with ready-to-use skills, custom agents, and other tools, for incident response, root cause analysis, and operational troubleshooting
+automateyournetwork/Multi_Device_AI_Agent	35	Trying to extend AI Agents to a full topology of devices using CML

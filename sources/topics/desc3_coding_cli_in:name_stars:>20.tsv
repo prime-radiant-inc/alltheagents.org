@@ -1,0 +1,10 @@
+bradAGI/awesome-cli-coding-agents	1030	Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. 
+Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-CLI	504	
+vanna-ai/Awesome-Vibe-Coding-CLI	52	Awesome Vibe Coding CLI
+Coding-Bunker/unofficial-discord-client	50	Unofficial client for discord build in C++ with Qt.
+omarabid/cli-llm-coding	48	A concise list of CLI coding tools similar to Claude Code
+cyl19970726/cli-coding-ananlyze	43	
+Kamilahsantos/Client-Angular-Live-Coding-Dio	43	
+anand-subu/automated-clinical-coding-llm	29	
+hoangsonww/Forge-Agentic-Coding-CLI	22	🦄 Forge - a local-first, multi-agent software-engineering runtime that runs Claude Code / Codex-style agentic workflows entirely on your own machine via Ollama, llama.cpp, vLLM, and LM Studio (cloud models optional). Ships 18 sandboxed tools, 6 model providers, and a full REPL + UI dashboard in a single Node CLI - no telemetry, no lock-in.
+koala-coding/create-bff-service-cli	22	快速搭建一个基于 egg 的,规范的 bff-service

@@ -1,0 +1,100 @@
+anthropics/claude-code	142026	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+shareAI-lab/learn-claude-code	74684	Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+shanraisshan/claude-code-best-practice	64745	from vibe coding to agentic engineering - practice makes claude perfect
+hesreallyhim/awesome-claude-code	52655	A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
+Alishahryar1/free-claude-code	46130	Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+musistudio/claude-code-router	36735	One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
+davila7/claude-code-templates	30296	CLI tool for configuring and monitoring Claude Code
+VoltAgent/awesome-claude-code-subagents	24471	A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
+Donchitos/Claude-Code-Game-Studios	24211	Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+claude-code-best/claude-code	22129	原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复
+wanshuiyin/Auto-claude-code-research-in-sleep	14910	ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
+Piebald-AI/claude-code-system-prompts	12382	All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
+diet103/claude-code-infrastructure-showcase	10003	Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
+ykdojo/claude-code-tips	9811	40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.
+ChinaSiro/claude-code-sourcemap	9621	
+frankbria/ralph-claude-code	9604	Autonomous AI development loop for Claude Code with intelligent exit detection
+anthropics/claude-code-action	8671	
+Maciek-roboblog/Claude-Code-Usage-Monitor	8645	Real-time Claude Code usage monitor with predictions and warnings
+ChrisWiles/claude-code-showcase	6028	Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
+anthropics/claude-code-security-review	5921	An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+FlorianBruniaux/claude-code-ultimate-guide	5763	The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.
+kodu-ai/claude-coder	5233	Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding agents 
+zebbern/claude-code-guide	4583	Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
+lintsinghua/claude-code-book	4119	《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：
+yasasbanukaofficial/claude-code	3963	🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
+disler/claude-code-hooks-mastery	3896	Master Claude Code Hooks
+OneRedOak/claude-code-workflows	3885	The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.
+Pimzino/claude-code-spec-workflow	3848	Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Report → Analyze → Fix → Verify).
+liuup/claude-code-analysis	3825	🤖 The analysis of Claude Code
+1rgs/claude-code-proxy	3731	Run Claude Code on OpenAI models
+Windy3f3f3f3f/how-claude-code-works	3480	Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等
+SeemSeam/claude_codex_bridge	3429	Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents
+ding113/claude-code-hub	3325	一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
+oboard/claude-code-rev	3280	Runnable ClaudeCode source code
+codeaashu/claude-code	3246	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+nicedreamzapp/claude-code-local	3222	Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server. 6 fighters incl. Muse-Glimmer 30B (now multimodal — reads images, abliterated), Gemma 4 31B, Qwen 3.5 122B (65 tok/s), DeepSeek V4 Flash (1M ctx). Private, offline, airgap-ready. Built for NDA / legal / healthcare workflows.
+Chachamaru127/claude-code-harness	3063	Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
+zLanqing/codex-claude-academic-skills	3026	本仓库包含三个面向学术科研人员的Skills，覆盖从文献阅读、论文写作到科学计算的完整研究工作流。office-academic-skill 负责论文阅读报告与学术 PPT/Word 文档生成；research-writing-skill 提供论文写作、润色与审稿回复辅助；scientific-toolkit-skill 整合 MATLAB/Python 科学计算与期刊级图表生成。三个 Skill 专为中文科研用户设计，可在 Claude Code 和 codex 中一键调用。
+Cranot/claude-code-guide	2865	The Complete Claude Code CLI Guide - Live & Auto-Updated Every 2 Days
+chauncygu/collection-claude-code-source-code	2806	🔥 A collection of the Claude Code open source
+fuergaosi233/claude-code-proxy	2773	Claude Code to OpenAI API Proxy
+RichardAtCT/claude-code-telegram	2759	A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
+alejandrobalderas/claude-code-from-source	2758	Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps
+wesammustafa/Claude-Code-Everything-You-Need-to-Know	2670	A practical Claude Code guide with clear mental models and copy-paste examples — setup, prompt engineering, slash commands, skills, hooks, subagents, agent teams, and MCP servers. Beginner path to power-user depth. Featured in Awesome Claude Code.
+jeremylongshore/claude-code-plugins-plus-skills	2655	471 plugins, 3,069 skills, 347 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.
+centminmod/my-claude-code-setup	2590	Shared starter template configuration and CLAUDE.md memory bank system for Claude Code
+Windy3f3f3f3f/claude-code-from-scratch	2582	Build your own Claude Code from scratch.  🔍 Claude Code 开源了 50 万行代码，读不动？用 ~5000 行 TypeScript / Python 从零复现核心架构，11 章分步教程带你理解 coding agent 精髓
+rohitg00/awesome-claude-code-toolkit	2530	The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.
+Yuyz0112/claude-code-reverse	2427	A Tool to Visualize Claude Code's LLM Interactions
+ponponon/claude_code_src	2330	2026.3.31 claude code 意外把包含源码的文件上传到 npm 仓库，版本号是 2.1.88，其中 cli.js.map 文件有 57MB 的体积，claude code 的源码在该文件的 sourcesContent 字段里面，解压还原后有 70w 行代码
+jarmuine/claude-code	2277	Fork of instructkr/claude-code
+tanbiralam/claude-code	2165	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic.
+catlog22/Claude-Code-Workflow	2137	 JSON-driven multi-agent  cadence-team development framework with   intelligent CLI orchestration (Gemini/Qwen/Codex),   context-first architecture, and automated workflow   execution
+greggh/claude-code.nvim	2090	Seamless integration between Claude Code AI assistant and Neovim
+jhlee0409/claude-code-history-viewer	2074	desktop app to browse and analyze your Claude Code conversation history
+trailofbits/claude-code-config	2072	Opinionated defaults, documentation, and workflows for Claude Code at Trail of Bits
+VILA-Lab/Dive-into-Claude-Code	2064	A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems
+pchalasani/claude-code-tools	1979	Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
+digitalsamba/claude-code-video-toolkit	1953	AI-native video production toolkit for Claude Code
+severity1/claude-code-prompt-improver	1912	Intelligent prompt improver hook for Claude Code. Type vibes, ship precision.
+Njengah/claude-code-cheat-sheet	1904	Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes
+xu-xiang/everything-claude-code-zh	1888	everything-claude-code 中文翻译项目：完整的 Claude Code 配置集合（agents, skills, hooks, commands, rules, MCPs）。源自 Anthropic 黑客松获胜者的实战配置，助力中文工程师高效理解与使用 Claude Code。
+rizethereum/claude-code-requirements-builder	1764	
+pengchengneo/Claude-Code	1753	可运行的Claude Code源码
+luyao618/Claude-Code-Source-Study	1670	Deep dive into Claude Code's source code— learn from the best agent implementation out there.
+simonw/claude-code-transcripts	1669	Tools for publishing transcripts for Claude Code sessions
+lst97/claude-code-sub-agents	1669	Collection of specialized AI subagents for Claude Code for personal use (full-stack development).
+lorryjovens-hub/claude-code-rust	1667	🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary
+manzaltu/claude-code-ide.el	1644	Claude Code IDE integration for Emacs
+feiskyer/claude-code-settings	1631	Curated skills, sub-agents, and config templates that supercharge Claude Code — research, image gen, GitHub automation & more.
+disler/pi-vs-claude-code	1613	Comparison between open source PI agent and closed source Claude Code agent
+disler/claude-code-hooks-multi-agent-observability	1521	Real-time monitoring for Claude Code agents through simple hook event tracking.
+pedrohcgs/claude-code-my-workflow	1516	A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.
+edmund-io/edmunds-claude-code	1498	
+WorldFlowAI/everything-claude-code	1399	Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
+peterkrueck/Claude-Code-Development-Kit	1380	Claude Code Workflow for beginners & intermediate users. Tutorial and Installer included
+krusemediallc/arcads-claude-code	1351	Arcads external API: agent skills, prompting library, and Cursor/Claude workspace
+daymade/claude-code-skills	1344	Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.
+hesreallyhim/a-list-of-claude-code-agents	1342	A list of Claude Code Sub-Agents submitted by the community.
+steipete/claude-code-mcp	1316	Claude Code as one-shot MCP server to have an agent in your agent.
+JessyTsui/Claude-Code-Remote	1285	Control Claude Code remotely via email、discord、telegram. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails.
+d-kimuson/claude-code-viewer	1272	A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
+daaain/claude-code-log	1196	A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML / Markdown format.
+repowise-dev/claude-code-prompts	1189	Independently authored prompt templates for AI coding agents — system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.
+sugyan/claude-code-webui	1140	Web-based interface for Claude CLI with streaming chat responses
+wasabeef/claude-code-cookbook	1131	A collection of settings to make Claude Code more useful.
+fcakyon/claude-codex-settings	1086	Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API support.
+andrepimenta/claude-code-chat	1077	Beautiful Claude Code Chat Interface for VS Code
+huangjia2019/claude-code-engineering	1075	This repository demonstrates how to use Claude Code to do real engineering work, not just writing code.  本项目是极客时间专栏 《Claude Code 工程化实战》 的官方配套示例仓库，目标就是： 👉 把 Claude Code 从“对话式编码工具”，变成 可设计、可复用、可治理的工程系统。
+jarrodwatts/claude-code-config	1059	My personal Claude Code configuration - rules, hooks, agents, skills, and commands
+ghuntley/claude-code-source-code-deobfuscation	990	This is a cleanroom deobfuscation of the official Claude Code npm package.
+0xfurai/claude-code-subagents	986	A comprehensive collection of 100+ production-ready development subagents for Claude Code
+ericbuess/claude-code-docs	974	
+anthropics/claude-code-base-action	949	This repo is a mirror of the contents of base-action in https://github.com/anthropics/claude-code-action.
+LING71671/Open-ClaudeCode	944	Research archive of Claude Code source and runtime artifacts reconstructed from published npm source maps.
+lucasrosati/claude-code-memory-setup	942	Up to 71.5x fewer tokens per session on Claude Code with Obsidian + Graphify. Persistent memory, codebase knowledge graphs, and chat import pipeline. 🇧🇷 PT-BR included.
+777genius/claude-code-source-code	926	Claude code source code
+hoangsonww/Claude-Code-Agent-Monitor	924	🚀 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, & WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, & an interactive web UI/MacOS/Windows native app.
+ccplugins/awesome-claude-code-plugins	921	Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code
+trailofbits/claude-code-devcontainer	917	Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review.

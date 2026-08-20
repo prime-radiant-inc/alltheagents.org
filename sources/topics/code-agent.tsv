@@ -1,0 +1,24 @@
+tensorchord/envd	2223	🏕️ Reproducible development environment for humans and agents
+pchalasani/claude-code-tools	1979	Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
+hAcKlyc/MyAgents	849	MyAgents - 优雅、易用的 Agent 桌面端 ，一站式 Agent 工作台与任务中心
+QuantaAlpha/RepoMaster	543	RepoMaster: The open-source AI agent that masters GitHub. It turns any code repository into a powerful tool, achieving a new level of autonomous task-solving. An open alternative to Claude-Code.
+Blushyes/coro-code	368	Open-source CLI coding agent, a free alternative to Claude Code. Generate, debug, and manage code seamlessly.
+momozi1996/momo-code	309	MOMO CODE — AI coding agent that evolves with you
+JARVIS-Xs/SE-Agent	286	SE-Agent is a self-evolution framework for LLM Code agents. It enables trajectory-level evolution to exchange information across reasoning paths via Revision, Recombination, and Refinement, expanding the search space and escaping local optima. On SWE-bench Verified, it achieves SOTA performance
+RUC-NLPIR/FinSight	258	[ACL 2026 Main, SAC Highlight] FinSight: Towards Real-World Financial Deep Research. 🎯One ticker, one click, one publication-ready report.
+QuantaAlpha/GitTaskBench	257	Repo-level benchmark for real-world Code Agents: from repo understanding → env setup → incremental dev/bug-fixing → task delivery, with cost-aware α metric.
+Staks-sor/ai-free	172	Open-source local AI client and coding agent for DeepSeek, Qwen, ChatGPT and EconomyOS with memory, voice, browser tools, OpenAI/Anthropic-compatible APIs and VS Code.
+dadiaomengmeimei/claude-code-sourcemap-learning-notebook	164	Reverse-engineering Claude Code's 512K+ lines of TypeScript — architecture, design decisions, and 11 transferable patterns for building AI Agents
+hwfengcs/DM-Code-Agent	151	Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by the official harness -- every number reproducible, negative results included.
+QuantaAlpha/EvoControl	131	Official implementation of Controlled Self-Evolution for Algorithmic Code Optimization
+oripress/AlgoTune	116	AlgoTune is a NeurIPS 2025 benchmark made up of 154 math, physics, and computer science problems. The goal is write code that solves each problem, and is faster than existing implementations.
+whut09/opencode-plusplus	109	OpenCode++: a Coding Agent Reliability Harness for OpenCode, adding context, edit boundaries, command evidence, verification gates, impact analysis, and repair loops.OpenCode++：面向 OpenCode 的 AI 编程可靠性增强框架，为其增加上下文管理、编辑边界、命令证据、验证门禁、影响分析与修复闭环能力。
+StepfenShawn/kota	100	A lightweight, highly extensible ai code agent, built in Rust.
+optimalone/build-your-own-coding-agent	90	Source code for the Build Your Own Coding Agent book
+DeepSoftwareAnalytics/Awesome-Issue-Resolution	86	Advances and Frontiers of LLM-based Issue Resolution in Software Engineering A Comprehensive Survey
+intellegix/intellegix-code-agent-toolkit	56	Automated loop driver, slash commands, council automation, MCP browser bridge, and portfolio governance for Claude Code CLI
+agentsdance/agentx	51	AgentX - Agent Extension: MCP Servers, Agent Skills and Plugins Manager
+zhangliang605/carrycode	44	CarryCode is a terminal-native AI coding agent that helps you write, refactor, debug, and understand code — all through natural conversation. It connects to 17+ LLM providers, supports the MCP protocol for extensibility, and delivers a beautiful terminal UI with themes, syntax highlighting, and code diff previews.
+ruc-datalab/CoDA-Bench	43	CoDA-Bench is a benchmark for code agents on data-intensive tasks. 🎈代码智能体能搞定数据密集型任务吗? 
+gabrielmaialva33/winx-code-agent	33	🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic capabilities. 
+runparse/agent-script	33	A simple, observable code-writing agent builder in TypeScript. 

@@ -1,0 +1,5 @@
+aaif-goose/goose	53013	an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+fuxicodex/Fuxi	1218	FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.
+juehang/vscode-mcp-server	389	MCP server to expose VS Code editing features to an LLM for AI coding
+atomgit-atomcode/atomcode	187	An open-source alternative to Claude Code. Connect any LLM, edit code, run commands, and verify changes — autonomously. Built in Rust for speed.  Get Started
+zhenyuw16/GenArtist	169	Code release for our NeurIPS 2024 Spotlight paper "GenArtist: Multimodal LLM as an Agent for Unified  Image Generation and Editing"

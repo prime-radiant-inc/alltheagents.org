@@ -1,0 +1,100 @@
+sanbuphy/learn-coding-agent	12226	Research on Coding Agents
+ghuntley/how-to-build-a-coding-agent	5811	A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
+humanlayer/advanced-context-engineering-for-coding-agents	2514	
+zarazhangrui/lark-coding-agent-bridge	2295	Bot that bridges Feishu/Lark messenger with a local Claude Code or Codex CLI. Streaming cards, per-chat sessions, multiple workspaces
+vercel-labs/coding-agent-template	1766	Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
+Dicklesworthstone/agentic_coding_flywheel_setup	1601	Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: coding agents, session management, safety tools, and coordination infrastructure
+Danau5tin/multi-agent-coding-system	1437	Reached #13 on Stanford's Terminal Bench leaderboard. Orchestrator, explorer & coder agents working together with intelligent context sharing.
+rasbt/mini-coding-agent	1111	Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.
+Dicklesworthstone/coding_agent_session_search	1071	Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
+bradAGI/awesome-cli-coding-agents	1030	Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. 
+SamuelQZQ/auto-coding-agent-demo	1027	一个长达 10 小时的 AI 全自动编程实验
+Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-CLI	504	
+leonvanzyl/agentic-coding-starter-kit	433	
+MaximeRobeyns/self_improving_coding_agent	385	A coding agent framework, that works on its own codebase.
+coleam00/remote-agentic-coding-system	348	Remote Coding Agent for the Dynamous Agentic Coding Course and special Black Friday livestream. Connect Claude Code or Codex to Slack, Telegram, GitHub, etc.
+dnouri/pi-coding-agent	258	Emacs frontend for the Pi coding agent
+Dicklesworthstone/misc_coding_agent_tips_and_scripts	257	Various things I had to figure out recently to make things work better...
+decodingai-magazine/building-a-coding-agent-from-scratch-course	252	From agent user to agent builder: build a Claude Code-style coding agent from scratch in Python: 8 articles, 4 videos, one codebase
+coleam00/Linear-Coding-Agent-Harness	227	Linear Autonomous Coding Agent Harness
+sondera-ai/sondera-coding-agent-hooks	222	Hooking implementations and supporting tools for various coding agents (Claude, Cursor, Gemini, etc)
+PacktPublishing/Agentic-Coding-with-Claude-Code	179	Agentic Coding with Claude Code, published by Packt
+ivan-magda/swift-coding-agent	178	A Swift reimplementation of a Claude Code-style coding agent, built stage by stage to explore what makes coding agents work
+bmdavis419/.better-coding-agents	168	A nice utility for getting better responses from coding agents
+Swfdong/reliable-coding-agent	160	Non‑intrusive enhancements for Coding Agents, applying engineering best practices and a Testing‑Memory‑Documentation (TMD) loop to boost stability and  efficiency on complex projects.
+sammcj/agentic-coding	158	Agentic Coding Rules, Templates etc...
+Dicklesworthstone/coding_agent_account_manager	156	Sub-100ms auth switching for AI coding CLIs (Claude Code, Codex, Gemini): swap subscription accounts instantly when you hit usage limits
+RivaanRanawat/ai-coding-agent	149	Claude Code style AI agent from scratch using Python
+mokevnin/agentic-coding-design-patterns	134	AI SDLC PATTERNS
+betta-tech/byo-coding-agent	131	
+aws-samples/sample-autonomous-cloud-coding-agents	131	Autonomous background coding agents on AWS. Turn tasks into pull requests via isolated runtimes, with built-in orchestration, observability, and governance.
+shawnla90/gtm-coding-agent	130	Build your go-to-market engine with coding agents instead of a $2K/mo tool stack. 21 chapters, nine forkable starters, four installable skills, GTM-OS skeleton, and Python scripts. Includes the Clearbox Reddit buyer-signal engine: find buyers without getting banned.
+AbhinavTheDev/coding-agent	106	Your own Coding Agent 🤖
+shuailishuaiqiYangLiu/Coding-Agent-SFT-Lab	95	
+zencoderai/coding-the-coding-agents	94	Code for the talk on coding the ai coding agents
+optimalone/build-your-own-coding-agent	90	Source code for the Build Your Own Coding Agent book
+nauvalazhar/build-your-own-ai-coding-agent	90	Learn how AI coding agents work by building one from scratch.
+shaftoe/awesome-pi-coding-agent	88	An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily.
+voxmenthe/coding-agent	86	
+coding-by-feng/ai-agent-session-center	82	Real-time dashboard that turns AI coding agent sessions (Claude Code, Gemini CLI, Codex) into animated 3D robots — with live terminals, prompt history, tool logs, and queuing. Runs on any device.
+NVIDIA-AI-IOT/DeepStream_Coding_Agent	81	A project showcasing how to leverage AI coding assistants (Cursor, Claude Code, etc.) for accelerated NVIDIA DeepStream SDK application development using a curated agentic skill and structured prompts.
+Dicklesworthstone/coding_agent_usage_tracker	79	Single CLI to monitor LLM provider usage across Codex, Claude, Gemini, Cursor, and Copilot: remaining quota, rate limits, and cost tracking in one place
+rasbt/local-coding-agent-evals	75	
+Firstp1ck/pi-coding-agent-forge	69	Extensions, skills, prompts, themes, and developer tools for the Pi coding agent.
+anthropics/riv2025-long-horizon-coding-agent-demo	67	
+shaftoe/pi-coding-agent-action	62	GitHub action to integrate https://pi.dev/ coding agent with GitHub-compatible CI/CD, issues and PRs
+radanskoric/coding_agent	60	A prototype coding agent in Ruby, implemented as an exercise accompanying a blog post.
+FairladyZ625/coding-agent-harness	59	No longer maintained — completely rewritten as Harness Anything: a self-evolving harness for durable agent decisions, tasks, facts, and evidence-backed completion.
+thixpin/agentic-coding-basic	59	AGENTIC CODING Basic for Junior Developers
+embabel/coding-agent	58	Embabel Agentic Flow for Software Engineers
+yushui2022/easy-coding-agents	57	One of the early China-built lightweight Claude Code-inspired terminal coding agents, with autonomous execution, tool calling, custom agents, task control, and evidence-gated memory.
+2217173240/Coding-Agent-prompt-best-practice	56	build any software as you wish
+mastra-ai/template-coding-agent	53	Advanced Mastra AI coding agent with secure sandbox execution, comprehensive file management, and multi-language support for Python, JavaScript, and TypeScript development workflows
+HsienW/ai-agent-coding-solution-kit	52	📗Reusable docs, prompts, templates, and engineering practices for AI-agent coding, agent design, OpenSpec/SDD, context engineering, prompt engineering, and agent workflows.
+gni/pi-coding-agent-container	50	pi-coding-agent docker compose
+lyxhnu/multi-coding-agent	49	深度优化多Agent自主执行编码 Harness 框架，支持从自然语言任务出发，完成任务规划、代码生成、自动验证与迭代修复闭环，并成功接入 Terminal-Bench 2.0 评测体系，任务完成率约 40%，榜单排名约 70。
+tndata/CodingAgentExplorer	48	Real-time .NET proxy and dashboard for inspecting AI coding agent API calls (currently supports Claude Code)
+seandavi/agentic-coding-intro	48	A brief introduction to agentic coding principles and practice
+sugarforever/understanding-fantastic-coding-agents	46	
+harooos/awesome-coding-agents-for-robot-learning	44	A curated research map of coding agents for robot learning
+LongNgn204/local-coding-agent	43	Local MCP coding agent for ChatGPT Web: run files/commands on your own machine via the OpenAI Secure Tunnel, with a Windows tray app and metrics dashboard.
+zhouhao1024/Awesome-Self-Evolving-Coding-Agents	43	
+satomic/gitlab-copilot-coding-agent	41	A fully automated coding agent powered by GitHub Copilot CLI and GitLab CI/CD.
+disler/agentic-coding-tool-eval	41	Simple ideas to compare Agentic Coding Tools
+kenjudy/pdca-agentic-coding-framework	41	Human-supervised AI code generation using Plan-Do-Check-Act methodology with TDD and refactoring. Works as Claude Code skill or standalone prompts.
+jjmartres/ai-coding-agents	41	Single source of truth for AI coding agent configuration — skills, commands and rules shared across OpenCode and Pi.
+The-Focus-AI/june-2025-coding-agent-report	40	Comprehensive evaluation of 15 AI coding agents (Cursor, Copilot, Claude, Replit, v0, Warp, etc.) with implementations, screenshots, and professional scoring. Published on Turing Post.
+marlenezw/agentic-coding-talk	39	A Practical Guide to Agentic Coding — slide deck by Marlene Mhangami
+kumo-ai/kumo-coding-agent	39	Kumo Coding Agent — context docs, skills, and self-maintenance for building ML models with the Kumo SDK
+honeydew-ai/honeydew-ai-coding-agents-plugins	39	Honeydew AI plugins for coding agents (Claude Code, Codex, Cursor, Github Copilot, Gemini, etc...)
+databrickslabs/coding-agents-databricks-apps	38	Run coding agents on Databricks Apps 🚀
+mlopscommunity/Coding-Agents-Conference-skills	37	list of skills that folks talked about on the stage at the coding agent conference March 3rd 
+weiyangzen/mbti-coding-agents	37	Precisely define coding agents with different LLM parameters.
+tweag/agentic-coding-handbook	35	
+simonw/llm-coding-agent	35	A coding agent built on LLM
+Extra-Chill/wp-coding-agents	35	Run a personalized AI agent from the WordPress site root. 
+yzyydev/agentic-coding-structure	35	A modern project scaffold for AI-assisted development workflows—providing reusable Claude Code commands (.claude/commands/), structured AI documentation (ai_docs/), and standardized feature specifications (specs/) to streamline collaboration with Claude Code and OpenAI Codex.
+UI5/plugins-coding-agents	33	SAPUI5 / OpenUI5 plugins for Coding Agents
+stvlynn/agentic-coding	33	Language- and framework-agnostic template for agent-driven projects.
+yanhua1010/build-your-own-coding-agent	33	从零写出你自己的 coding agent：对照 pi / codex / grok-build 三个工业级开源实现
+zap-coding-agent/zap-coding-agent	32	ZAP is a terminal-first, local AI coding agent built in Rust. It uses AST-powered codebase indexing and lazy-loaded skills to completely eliminate prompt bloat and minimize context token costs.
+network-tocoder/Claude-Code-NVIDIA-Free-AI-Coding-Agent	30	
+Zenobia000/cursor-agentic-coding-template	30	
+bravekingzhang/agent-coding-playbook	29	AI Coding 工程实践手册：把工程判断写给 Agent 看
+josephsenior/Grinta-Coding-Agent	29	Local-first autonomous coding agent that plans, executes, validates, and finishes software tasks end-to-end.
+sshh12/coding-agents-workshop	29	Workshop: Optimizing Codebases for Agents — Coding Agents Conference, March 3, 2026
+zht043/AgenticCodingTutorial	29	
+VTSTech/pi-coding-agent	28	Extensions I've written for Pi Coding Agent
+adv-andrew/agentic-coding-for-beginners	28	Stop copy-pasting from ChatGPT. A beginner-friendly guide to agentic coding tools (Claude Code, Codex CLI, Gemini CLI) for CS students.
+datasciencemonkey/coding-agents-databricks-apps	27	Run coding agents on Databricks Apps 🚀
+anipotts/coding-agent-tips	27	evidence-backed guidance for coding agents in production software, from individual projects to startups and big tech.
+GSA-TTS/agentic-coding-quickstart	27	This quickstart gets you from zero to running an AI coding agent with USAi in under 5 minutes
+ralfstrobel/agentic-brownfield-coding	26	Claude Code scaffolding and first steps for complex brownfield projects
+chelseatroy/agentic-coding-live	25	
+doggy8088/github-copilot-coding-agent-firewall-switcher-extension	25	
+network-tocoder/Local-AI-Coding-Agent-Gemma4-VS-Code-Ollama-Contine	24	
+tonyd2wild/2Wild-Coding-Agent-Latency-Monitor	24	Live dashboard: fire N parallel streaming coding-agent runs at any OpenAI-compatible endpoint — per-run TTFT/tok-s/E2E, real kill switch, per-GPU metrics, shareable summary. Zero deps.
+phodal/cracked-prompt-of-famous-coding-agent	24	cracked prompt of famous coding agent and autodev
+yinguangyao/coding-agent-runner	23	ACP-friendly Node.js SDK for local coding agents: run Codex, Claude Code, Cursor, OpenCode, and Pi with streaming, abort, and session resume.
+hoangsonww/Forge-Agentic-Coding-CLI	22	🦄 Forge - a local-first, multi-agent software-engineering runtime that runs Claude Code / Codex-style agentic workflows entirely on your own machine via Ollama, llama.cpp, vLLM, and LM Studio (cloud models optional). Ships 18 sandboxed tools, 6 model providers, and a full REPL + UI dashboard in a single Node CLI - no telemetry, no lock-in.
+rawwerks/recursive-coding-agents	22	Recursive Coding Agents — AI Engineer World's Fair 2026 talk + website (SvelteKit, Cloudflare Workers)

@@ -1,0 +1,24 @@
+fauxpilot/fauxpilot	14700	FauxPilot - an open-source alternative to GitHub Copilot server
+Exafunction/windsurf.vim	5109	Free, ultrafast Copilot alternative for Vim and Neovim
+Natively-AI-assistant/natively-cluely-ai-assistant	2298	Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, and Interview Coder. Real-time transcription, AI meeting notes, lecture recording, local RAG, BYOK, and stealth mode. Runs locally. No subscriptions. No data breaches.
+sanjib-sen/WebLaTex	1742	A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
+Blueturboguy07/cue	1181	Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.
+srikanth235/privy	992	An open-source alternative to GitHub copilot that runs locally.
+flexpilot-ai/vscode-extension	814	Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
+Exafunction/codeium.el	636	Free, ultrafast Copilot alternative for Emacs
+xNul/code-llama-for-vscode	569	Use Code Llama with Visual Studio Code and the Continue extension. A local LLM alternative to GitHub Copilot.
+BrowserOperator/browser-operator-core	500	Browser Operator - The AI browser with built in Multi-Agent platform! Open source alternative to ChatGPT Atlas, Perplexity Comet, Dia and Microsoft CoPilot Edge Browser
+aseichter2007/ClipboardConqueror	445	Clipboard Conqueror is a novel copy and paste copilot alternative designed to bring your very own LLM AI assistant to any text field.  
+edouard-claude/snip	416	CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go. 
+badboysm890/clara-copilot	285	A alternative to Github Copilot for vscode until you get the access to github copilot
+quack-ai/companion-vscode	233	VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), served with Ollama.
+fancyboi999/open-tag	163	Open-source, self-hostable alternative to Claude Tag — a Slack-style workspace where your team and its AI agents (Claude Code, Codex, GitHub Copilot, and more) work as teammates in channels, threads, DMs, and shared tasks. Your data stays on your machines.
+shubhamshnd/Open-Cluely	142	Open-source free alternative to Cluely & Parakeet AI — real-time AI interview copilot with live transcription, screen capture, and AI-powered answers. Plug and play desktop app for coding interviews, technical interviews, and meetings. No subscription needed.
+devartifex/copilot-unleashed	105	A mobile first, self-hosted multi-model AI chat powered by the GitHub Copilot SDK. A modern alternative to ChatGPT, Claude, and Gemini.
+Lisoveliy/StarCoderEx	98	Extension for using alternative GitHub Copilot (StarCoder API) in VSCode
+itsjwill/gsd-pro	81	GSD Pro — The most powerful AI coding workflow for Claude Code. Free alternative to Cursor Composer, Copilot Workspace, Devin & Bolt. Multi-model routing, rollback/recovery, adaptive context. Fork of 30K★ original. npx get-shit-done-cc
+teocns/neocursor.nvim	60	Cursor's Tab Tab in Neovim — the only maintained plugin on Cursor's real backend. Next-edit predictions, cursor jumps & ghost text. A Copilot / Supermaven / Codeium alternative.
+slashml/awesome-coding-copilot	59	A collection of freely-available alternatives to github copilot
+quack-ai/companion	53	VSCode coding companion for software teams 🦆 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot & OpenAI GPT powered by OSS LLMs (Phi 3, Llama 3, CodeQwen, Mistral, etc.), made with ❤️ using FastAPI & Ollama.
+xNul/codestral-mamba-for-vscode	31	Use Codestral Mamba with Visual Studio Code and the Continue extension. A local LLM alternative to GitHub Copilot.
+maruakshay/miii-cli	29	Local AI coding agent for your terminal. Open-source, offline alternative to Claude Code, Cursor & Copilot — powered by Ollama and any local LLM. Private by default, free forever.

@@ -1,0 +1,22 @@
+SWE-agent/mini-swe-agent	6617	The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!
+SWE-bench/SWE-bench	5669	SWE-bench: Can Language Models Resolve Real-world Github Issues?
+Kodezi/Chronos	4915	Kodezi Chronos is a debugging-first language model that achieves state-of-the-art results on SWE-bench Lite (80.33%) and 67% real-world fix accuracy, over six times better than GPT-4. Built with Adaptive Graph-Guided Retrieval and Persistent Debug Memory. Model available Q1 2026 via Kodezi OS.
+AutoCodeRoverSG/auto-code-rover	3099	A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7.
+augmentcode/augment-swebench-agent	880	The #1 open-source SWE-bench Verified implementation
+china-qijizhifeng/agentic-harness-engineering	838	Official AHE code — Agentic Harness Engineering: observability-driven automatic evolution of coding-agent harnesses (concurrent w/ meta-harness). NexAU-AHE reaches 84.7% ± 2.1 pass@1 on Terminal-Bench 2 (GPT-5.5). Lifts GPT-5.4 69.7→77.0% over 10 iters, beats Codex/ACE/Training-Free GRPO; frozen harness transfers to SWE-bench-Verified.
+scaleapi/SWE-bench_Pro-os	506	SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?
+multi-swe-bench/multi-swe-bench	357	 Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving
+jd-opensource/joycode-agent	341	Repository-level Repair Agent Based on SWE-Bench—JoyCode Agent
+JARVIS-Xs/SE-Agent	286	SE-Agent is a self-evolution framework for LLM Code agents. It enables trajectory-level evolution to exchange information across reasoning paths via Revision, Recombination, and Refinement, expanding the search space and escaping local optima. On SWE-bench Verified, it achieves SOTA performance
+SWE-bench/experiments	279	Open sourced predictions, execution logs, trajectories, and results from model inference + evaluation runs on the SWE-bench task.
+microsoft/SWE-bench-Live	224	[NeurIPS 2025 D&B] 🚀 SWE-bench Goes Live!
+hwfengcs/DM-Code-Agent	151	Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by the official harness -- every number reproducible, negative results included.
+CognitionAI/devin-swebench-results	124	Cognition's results and methodology on SWE-bench
+RepoUnderstander/RepoUnderstander	97	Official implementation of paper How to Understand Whole Repository? New SOTA on SWE-bench Lite (21.3%)
+opensquilla/claw-swe-bench	93	Unified adapter framework for evaluating agent harnesses (claws) on SWE-bench
+Aider-AI/aider-swe-bench	88	Harness used to benchmark aider against SWE Bench benchmarks
+SWE-bench/sb-cli	79	Run SWE-bench evaluations remotely
+smallcloudai/refact-bench	61	A benchmarking tool for evaluating AI coding assistants on real-world software engineering tasks from the SWE-Bench dataset.
+microsoft/BC-Bench	56	Inspired by SWE-Bench, for Business Central (AL) ecosystem.
+xianyu-sheng/Xenon	54	开源终端 AI 编程 Agent：以在线 Evidence Runtime 验证链（LLM 输出是 Claim、工具结果才是 Evidence）为核心。SWE-bench_Lite 官方评测 40.0% 实例级通过率（同模型 A/B +6.7pp，可复现报告）。7 种推理范式、MCP 工具、落盘补救与验证闭环。Python。
+snorkel-ai/senior-swe-bench-v2026.06	51	Harbor dataset for Senior SWE-Bench (v2026.06)

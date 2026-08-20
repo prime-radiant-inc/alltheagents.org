@@ -1,0 +1,17 @@
+miracodeai/mira	250	Self-hosted AI code reviewer with indexed PR reviews, walkthroughs, vulnerability scanning, dependency graphs, custom rules, and a learning loop.
+liliu-z/magpie	168	Multi-AI adversarial PR review tool
+octopusreview/octopus	87	AI-powered PR review tool — multi-armed code analysis, no bug escapes 🐙
+csy-csy123/pr-review-agent-council	82	学习 learn-claude-code 后的 PR Review Agent 实践项目：构建 Debate Council 多 Agent 审查、Tool Calling、结构化报告与 AI Judge 评估。
+Armur-Ai/vibescan	78	Security scanner for AI-generated ("vibe-coded") code. Runs    SAST, DAST, and sandboxed exploit simulation across 15+   languages using 30+ tools. Catches what LLMs introduce before    it ships — with AI-powered fixes and PR review integration.
+taovc/pr-cockpit	71	Local AI PR workbench — Claude/Codex review in isolated git worktrees, human-gated GitHub comments
+ccsert/opencode-review-gitea	65	AI-powered PR review for Gitea/Forgejo built on OpenCode. Runs in Gitea Actions, fetches PR diffs, and posts structured reviews. Supports Docker or source install with isolated .opencode-review config.
+obra/coderabbit-review-helper	54	Extract CodeRabbit GitHub PR reviews for AI coding agent consumption
+ariso-ai/ivan	51	🤖 Ivan: AI-Powered Development Assistant - Breaks down complex tasks, implements them with Claude Code, creates PRs with smart commits, orchestrates AI code reviews, and automatically addresses PR comments
+electricsheephq/evaos-code-review-bot-neondiff	51	Stop giving away your code. NeonDIFF is your local-first AI PR reviewer for teams that want professional quality code reviews and issue enrichment without handing every diff to a hosted review SaaS.
+yungookim/oh-my-pr	43	Autonomous GitHub PR babysitter — watches your repos, triages review feedback, and dispatches AI agents to fix code.
+cctv1005s/code-reviewer.ai	42	Review your code/PR/MR with AI 
+tothalex/drift	42	Review your working changes like a pull request — in the terminal. Block-scoped live diffs, GitHub/GitLab PR review, and send-to-AI-agent.
+nexpeakcore/deepseek-harness-pr-review	41	AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real code, checks docs against reality, flags requirement impact, human-in-the-loop + auto review poller + web dashboard
+dcellison/kai	35	Kai is a local, Telegram-first personal engineering system: a persistent AI collaborator with repo-aware coding, memory, scheduling, PR review, and multi-backend resilience. Your machine, your data, your rules.
+agent-room-alkl/agent-room	32	Put Claude Code, Cursor, Codex, Gemini & Antigravity in one room — real-time multi-agent AI collaboration over MCP for distributed dev, code review, PR handoff & frontend↔backend integration. Free, self-hostable, MCP-native.
+stone16/harness-engineering-skills	31	Run AI coding agents unattended for hours and ship PRs worth merging. Cybernetics-based multi-agent orchestration + cross-LLM peer review for Claude Code, Codex, and Gemini. Engine-enforced gates, fresh agent per checkpoint, cross-vendor review before every PR.

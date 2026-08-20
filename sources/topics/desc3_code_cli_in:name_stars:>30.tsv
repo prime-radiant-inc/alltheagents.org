@@ -1,0 +1,80 @@
+codesandbox/codesandbox-client	13633	An online IDE for rapid web development
+CodedotAl/gpt-code-clippy	3264	Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
+moazbuilds/CodeMachine-CLI	2512	CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️
+microsoft/Codex-CLI	2411	CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
+github/codeql-cli-binaries	997	Binaries for the CodeQL CLI
+shanraisshan/codex-cli-best-practice	972	from vibe coding to agentic engineering - practice makes codex perfect
+qwen-code-dev-bot/oh-my-cli	781	A minimal autonomous code-agent CLI built with Qwen Code
+build-with-groq/groq-code-cli	740	A highly customizable, lightweight, and open-source coding CLI powered by Groq for instant iteration.
+huangserva/claude-code-cli	621	这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等
+gemini-cli-extensions/code-review	531	Google's Code Review extension for the Gemini CLI that reviews your code changes
+RoggeOhta/awesome-codex-cli	481	Curated list of 150+ tools, skills, subagents & plugins for OpenAI Codex CLI
+Ngxba/claude-code-cli-ui	412	An intuitive interface to create, orchestrate, and monitor Claude-based code agents for automated development workflows.
+codewars/codewars-runner-cli	402	Old CodeRunner project. See https://github.com/codewars/runner instead.
+JasonWei512/code-radio-cli	388	🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
+code-pushup/cli	345	A CLI to run all kinds of code quality measurements to align your team with company goals
+coderwhy/coderwhy-cli	311	CLI to help the front end developer
+code-forge-io/remix-client-cache	247	Utility library to cache your client data in Remix.run
+bozhouDev/14days-build-claude-code-cli	245	网页版教程，看起来会舒服一点
+daviddao/code-against-climate-change	203	🌏 A curated list of tech projects against climate change - hoping to inspire disruptive technological climate action!
+ember-cli-code-coverage/ember-cli-code-coverage	195	Code coverage for ember apps using Istanbul
+walaura/vs-code-clippy	192	It's clippy! on VS Code!
+havingautism/Codemini-CLI	191	Terminal-first AI workspace with coding agents, workflows and built-in web UI.
+autohandai/code-cli	178	Autohand Code CLI - Ultra fast self evolving coding agent that runs in your terminal
+codeninja/oauth-cli-coder	166	Seamlessly interact with CLI coders (Claude, Gemini, Codex) via tmux TUI sessions.
+nordnet/cordova-hot-code-push-cli	146	[DEPRECATED] - This is a command line utility for Cordova Hot Code Push Plugin.
+freeCodeCamp/coderadio-client	146	24/7 music designed for coding - https://coderadio.freecodecamp.org
+sadjow/codex-cli-nix	143	Nix flake for OpenAI Codex CLI - native Rust binary, hourly updates, multi-platform caching
+dotBunny/CLionSourceCodeAccess	136	A CLion Plugin for Unreal Engine
+sunshowers-code/rust-cli-recommendations	132	Rust CLI design tips and best practices
+LegnaOS/LegnaCode-cli	121	基于 ClaudeCode-CLI 源码进行修复完成的项目
+Code-Bullet/Storm-The-House-Auto-Clicker	112	Lets click the shit out of storm the house 
+Code-Bullet/Hill-Climb-Racing-AI	108	Using neat to train an AI to play the classic hill climb racing game
+milisp/awesome-codex-cli	106	A curated list of awesome resources, tools, and tutorials for OpenAI Codex CLI
+TaGoat/claude_code_cli	105	Claude code source code
+alfianlosari/AppClipCodeGenerator	101	App Clip Code Generator macOS App built with SwiftUI
+philsturgeon/codeigniter-cli	97	Work with CodeIgniter over the command line with handy prompts, clear screen, etc. 
+kenjis/codeigniter-cli	94	Cli for CodeIgniter 3.0
+rwjblue/codemod-cli	93	
+codecov/codecov-cli	84	Codecov's Command Line Interface. Used for uploading to Codecov in your CI, Test Labelling, Local Upload, and more
+bashar94/codex-cli-account-switcher	83	Easily switch between multiple OpenAI Codex CLI accounts.
+CodeEditApp/CodeEditCLI	82	A command-line-interface to open files/folders in CodeEdit.app
+code-artisan/hexo-client	81	Hexo 博客系统客户端
+ThomasTartrau/n8n-nodes-claude-code-cli	75	
+opensource-society/CodeClip	71	CodeClip is a comprehensive coding challenge platform built with HTML, CSS, and JavaScript, designed specifically for GSSoC contributors and the broader coding community.
+coder/coder-v1-cli	70	Command line for Coder v1. For Coder v2, go to https://github.com/coder/coder
+shanraisshan/codex-cli-hooks	68	codex cli hooks - adding voice on each hook
+ben-vargas/ai-sdk-provider-codex-cli	68	Vercel AI SDK community provider for Codex CLI - Use Plus/Pro Subscription via spawn of Codex CLI.
+presidio-oss/cline-based-code-generator	66	VS Code extension that streamlines development workflows through AI-powered task execution, intelligent file management, and automated code generation. Built on Cline, it integrates with various LLMs to enhance productivity and code quality while simplifying complex development tasks.
+avenirer/codeigniter-matches-cli	64	Codeigniter Matches is a PHP CLI script that allows you to write controllers, models and views faster.
+funAgent/build-claude-code-cli	61	从零构建企业级 AI Agent CLI — 逐课拆解 Claude Code 源码架构 | Build an enterprise-grade AI Agent CLI from scratch — 49 lessons deconstructing Claude Code's architecture
+dinoanderson/qwen_cli_coder	60	🤖 Community fork of Google's Gemini CLI for Qwen AI models. A powerful command-line tool that uses Alibaba Cloud's Qwen models to understand your code, automate workflows, and accelerate   development. Features multilingual support (EN/CN), model switching, and web search integration.
+dudufcb1/codebase-index-cli	59	
+Haskell-OpenAPI-Code-Generator/Haskell-OpenAPI-Client-Code-Generator	57	Generate Haskell client code from an OpenAPI 3.0 specification
+GewoonJaap/qwen-code-cli-wrapper	57	Qwen Code OpenAI Wrapper with Cloudflare Workers
+victorsteven/Book-app-NodeJS-PostgreSQL-Travis-Coveralls-Code-Climate	51	This is a nodejs application
+sgb-io/codehawk-cli	51	Codehawk is a static analysis tool for JavaScript projects.
+mailchimp/mailchimp-client-lib-codegen	48	This tool is used to auto-generate and publish the Mailchimp Marketing and Transactional client libraries.
+Jalalx/HttpClientCodeGenerator	47	HttpClientGenerator is a tool that uses the Roslyn code generator feature to write boilerplate HttpClient code for you.
+chuvadenovembro/script-to-use-codex-cli-on-remote-server-without-visual-environment	47	- Propósito: Exportar dados de autenticação do Codex CLI de uma máquina com navegador e importar em um servidor remoto/headless. - Motivo: O login do Codex CLI exige navegador local. Este script permite autorizar em um host e transferir as credenciais com segurança para outro.
+woai3c/x-code-cli	45	Open-source, model-agnostic coding agent CLI with subagents, skills, MCP, and plugins.
+Napoleon-x/Client-Source-Code-Collection	45	NOT ALL, THE REST WILL BE UPLOADED WHEN I HAVE A BREA FROMS HIT.
+codefox-lab/CodeFox-CLI	43	A CLI-first AI code review tool for git diffs and CI workflows. Analyze changes with relevant codebase context using local Ollama models or cloud LLMs.
+linsun449/cliper.code	43	This repo is the official pytorch implementation of the paper: CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation
+tobias-walle/advent-of-code-cli	43	A cli tool to automatically download and upload advent of code problems.
+PGBuildFarm/client-code	42	PostgreSQL Build Farm Client
+DeyeCloudDevelopers/deye-openapi-client-sample-code	41	
+TerraAGI/terra-code-cli	40	
+joeauty/Google-API-Client-CodeIgniter-Spark	38	A carbon copy of the Google distributed PHP API Client, made available to the Sparks repository with some integration tips
+sk364/codechef-cli	36	CodeChef Command Line Client.
+mnr/CodeClinicR	36	A version of lynda.com code clinic for the R programming language
+LibreChat-AI/codesandbox-client	36	
+sunilpottumuttu/FiddlerGenerateHttpClientCode	35	This Fiddler extension generates C# HttpClient code to duplicate a Web Request. 
+code-tool/jaeger-client-php	35	OpenTracing API for PHP
+xtnded/codextended-client	34	Call of Duty Extended Client
+compwright/codeigniter-cli-bootstrap	32	A simple bootstrap file that you can use to directly run your CodeIgniter controllers from the command line and redirect the output to a log file.
+fn-code/esp-idf-clion	31	configuration and setup clion with esp-idf
+mondora/code-push-travis-cli	31	code-push automatic deploy with travis-ci
+pyeprog/code-reading-video-clip	31	resource used in video clip on code reading
+Sunne927/Codex-CLI-Bridge-for-Lark-Feishu	31	面向云服务器与 VPS 常驻部署的 Lark（飞书）Codex CLI 桥接器，同时支持本地运行；Lark (Feishu) Codex CLI Bridge for persistent deployment on cloud servers and VPS, with native local execution support.
+protoship/codegen-sketch-client	31	Build complex webapps from Sketch designs by generating elegant HTML & CSS that programmers can easily understand, adapt, and deploy

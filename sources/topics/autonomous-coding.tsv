@@ -1,0 +1,17 @@
+sipyourdrink-ltd/bernstein	936	Deterministic orchestrator for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). No model in the coordination loop, so parallel runs in per-task git worktrees replay byte-identically. Signed lineage plus an opt-in HMAC audit chain a reviewer checks offline. Cluster mode, air-gap deploy. Status: beta. https://bernstein.run
+qf-studio/pilot	645	AI that ships your tickets.
+tzachbon/smart-ralph	515	Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow.
+aigorahub/elves	203	Autonomous multi-batch development skill for Claude Code and Codex. They work while you sleep.
+chaohong-ai/ai-auto-work	131	Automatically completes the full workflow from requirement research → research review → planning → plan review → development →  development review using → test AI large language models. Capable of autonomously handling medium to large-scale engineering projects.
+RapierCraftStudios/ForgeDock	118	ForgeDock — autonomous AI dev pipeline for Claude Code. GitHub as agent memory: issue in, PR out.
+rubenmarcus/ralph-starter	105	Bootstrap projects from Figma, Linear, Notion & GitHub specs. The only AI ralph with source integrations.
+changkun/wallfacer	76	Chat, specs, tasks, and code. An autonomous engineering platform. Full autonomy when you trust it. Full control when you don't.
+LucasDuys/forge	55	Turn a one-line idea into a branch with tested, reviewed, committed code. The brainstorm-to-commit pipeline for Claude Code.
+SamJHudson01/Carmack-Council	51	Multi-agent Claude Code skill for building apps and stuff
+MeherBhaskar/agent-rigor	41	Skill repository to enforce Engineering disclipline in coding assistants
+Kewton/CommandMate	39	Issue-driven AI development IDE for Claude Code and Codex CLI. Run multiple issues in parallel and keep work moving from desktop or mobile.
+DariuszNewecki/CORE	38	CORE is a governance runtime for autonomous AI systems. It enforces constitutional rules during execution, prevents governance bypass, and creates auditable authority chains for agent actions across operational domains.
+EMI-Group/genesis	38	EvoX Genesis is an autonomous system for long-horizon software evolution that recursively builds, continues, and transforms complex software from high-level objectives.
+lucaGazzola/forgeo	36	A scheduled, agent-driven software factory. Keep a plain JSON backlog; Forgeo runs your coding agent (Claude Code, Codex, opencode) on each task and commits to main. Refactors when idle. No branches, no PRs.
+zxkane/autonomous-dev-team	34	Turns issues into merged PRs/MRs with zero human intervention — supports GitHub and GitLab, and Claude Code, Codex CLI, Kiro CLI, Antigravitiy CLI, opencode, and other agent CLIs.
+410979729/proofrail-hermes	31	LoopCraft runtime harness plugin for Hermes with evidence-first execution, verification-first workflows, and self-correcting AI agent behavior. Installs as proofrail for compatibility.

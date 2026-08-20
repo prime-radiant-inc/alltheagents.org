@@ -1,0 +1,35 @@
+Aider-AI/aider	48333	aider is AI pair programming in your terminal
+hotovo/aider-desk	1395	Platform for AI-powered software engineers
+MatthewZMD/aidermacs	922	AI Pair Programming in Emacs with Aider
+tninja/aider.el	681	AI assisted programming in Emacs with Aider
+joshuavial/aider.nvim	558	
+lee88688/aider-composer	450	Aider's VSCode extension, seamlessly integrated into VSCode 
+GeorgesAlkhouri/nvim-aider	376	🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience!
+Aider-AI/grep-ast	362	Grep source code and see useful code context about matching lines
+disler/aider-mcp-server	305	Minimal MCP Server for Aider
+Aider-AI/polyglot-benchmark	223	Coding problems used in aider's polyglot benchmark
+Aider-AI/conventions	203	Community-contributed convention files for use with aider
+MattFlower/vscode-aider-extension	112	
+p-wegner/coding-aider	105	
+nekowasabi/aider.vim	96	Helper aider with neovim
+Aider-AI/aider-swe-bench	88	Harness used to benchmark aider against SWE Bench benchmarks
+Aider-AI/refactor-benchmark	87	Aider's refactoring benchmark exercises based on popular python repos
+ucl-docaider/docAider	63	DocAider is an LLM-powered repository agent designed to support developers in efficiently generating documentation through a multi-agent approach. With its integrated workflows, docAider streamlines the documentation update process, making it both effective and user-friendly.
+mirrajabi/aider-github-action	58	Run Aider AI assistant in your Github Workflows!
+Aider-AI/aider-install	56	A streamlined installer for aider
+aweis89/aider.nvim	47	
+dubaigit/aider_split_install	45	
+sengokudaikon/aider-mcp-server	40	
+mirrajabi/aider-github-workflows	37	Workflows that use aider-github-action
+ZhijianZhou01/BioAider	34	A richly featured desktop platform for data analysis of bioinformatics. Especially, for quick sequence annotation and mutation analysis on large-scale viral (or others) genome-sequencing data.
+cdepillabout/mkAIDerivation	31	Generate a Nix derivation on the fly using an LLM
+CEDARScript/cedarscript-integration-aider	30	Allows Aider to use CEDARScript as an edit format
+Alex1911-Jiang/GenshinBalladsOfBreezeAider	27	原神镜花听世/风物之歌音游辅助程序
+localredhead/ob-aider.el	26	
+ckyrkou/AIDER	21	Aerial Image Database for Emergency Response Applications
+ddzero2c/aider.nvim	16	Aider helpers in neovim
+hotovo/aider-desk-connector-intellij-plugin	15	Intellij Plugin for AiderDesk connector 
+sengokudaikon/vscode-aider	15	
+agileandy/aider-prompt	12	My aider prompt for 'Precision prompting' approach.
+AbhijitKumarJ/Experimental_Aider_Extensions	12	Experiments on Aider Extensions
+wladimiiir/aider-companion-plugin	12	

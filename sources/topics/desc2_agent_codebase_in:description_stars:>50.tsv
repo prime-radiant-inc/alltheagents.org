@@ -1,0 +1,100 @@
+anthropics/claude-code	142025	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+code-yeongyu/oh-my-openagent	68115	omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
+langchain-ai/openwiki	15364	OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+zilliztech/claude-context	12418	Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+humanlayer/humanlayer	11296	The best way to get AI coding agents to solve hard problems in complex codebases.
+vercel-labs/deepsec	7757	Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
+buildermethods/agent-os	5303	Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
+yasasbanukaofficial/claude-code	3963	🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
+sourcebot-dev/sourcebot	3893	Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.
+NanoNets/Graft	3773	Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
+code-yeongyu/lazycodex	3267	The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
+codeaashu/claude-code	3246	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+tanbiralam/claude-code	2165	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic.
+1st1/lat.md	1836	Agent Lattice: a knowledge graph for your codebase, written in markdown.
+coleam00/claude-memory-compiler	1277	Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.
+cosmtrek/mindwalk	1261	A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
+caliber-ai-org/ai-setup	1247	Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex.
+EuniAI/Prometheus	1123	🧠 Prometheus: A Knowledge-Graph-Driven 🤖 AI Agent that maps 🗺, understands 🧩, and repairs 🛠 complex codebases — not by guessing, but by reasoning. ⚡
+langwatch/scenario	952	Agentic testing for agentic codebases
+instadeepai/Mava	927	🦁 A research-friendly codebase for fast experimentation of multi-agent reinforcement learning in JAX
+Mininglamp-OSS/octo-web	808	Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.
+harshkedia177/axon	801	Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.
+AlmanacCode/codealmanac	800	A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas.
+divar-ir/ai-doc-gen	748	AI-powered multi-agent system that automatically analyzes codebases and generates comprehensive documentation. Features GitLab integration, concurrent processing, and multiple LLM support for better code understanding and developer onboarding.
+shotgun-sh/shotgun	684	Spec Driven Development 🤠 Write codebase-aware specs for AI coding agents so they don't derail.
+steveclarke/real-world-rails	537	200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.
+Cranot/roam-code	509	Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 285 commands, 244 MCP tools, change-safety gates, audit evidence, zero API keys.
+WoJiSama/skill-based-architecture	509	A meta-skill that produces skills. Point it at any codebase and it distills the project's rules, workflows, and hard-won lessons into a dedicated skills/<name>/ directory — a project skill that becomes the single source of truth every AI agent (Cursor, Claude Code, Codex, Windsurf, Gemini) consults before every task.
+qodo-ai/open-aware	502	Aware - Deep Code Research Agent for Complex Codebase & Knowledge that “Act As Your Agentic Principal Engineer” 
+GlitterKill/sdl-mcp	469	Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence combined with precision tools.  It turns sprawling codebases into compact, high-signal context that saves tokens, speeds up workflows, and improves agent output.
+facebookresearch/DocAgent	450	DocAgent is a system designed to generate high-quality, context-aware code documentation for Python codebases using a multi-agent approach and hierarchical processing.
+EdanToledo/Stoix	418	🏛️A research-friendly codebase for fast experimentation of single-agent reinforcement learning in JAX • End-to-End JAX RL
+treygrainger/ai-powered-search	403	The codebase for the book "AI-Powered Search" (Manning Publications, 2025) and associated "AI-Powered Search: Modern Retrieval for Humans & Agents" Maven course
+elara-labs/code-context-engine	397	Save 94% on AI coding tokens. Index your codebase, agents search instead of reading files. Works with Claude Code, Codex, Copilot, Cursor, Gemini CLI. Local MCP server, free, open source.
+MaximeRobeyns/self_improving_coding_agent	385	A coding agent framework, that works on its own codebase.
+NO-CHATBOT-REVOLUTION/full-self-coding	369	No prompts, no instructions, no plans, you have 100~1000 AI agent coding in parallel now, solving all possible problems and issues in your codebase.
+UCSB-AI/EvoPresent	347	[ICLR2026] Official codebase for the paper "Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations"
+Lyellr88/marm-memory	334	Local-first 3-in-1 AI memory layer & MCP server for Claude Code, Codex, Grok, Gemini, VS Code and Cursor. Fuses session history, codebase indexing & concept graphs in SQLite. Enables zero-cloud, privacy-first context & instant recall, supports multi-agent swarms.
+hechtcarmel/jetbrains-index-mcp-plugin	322	A Jetbrains IDE IntelliJ plugin aimed to provide coding agents the ability to leverage intelliJ's indexing of the codebase
+JaredStewart/coderlm	299	Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebases through targeted queries instead of loading everything into context.
+Wildcard-Official/deepcontext-mcp	275	DeepContext is an MCP server that adds symbol-aware semantic search to Claude Code, Codex CLI, and other agents for faster, smarter context on large codebases.
+decodingai-magazine/building-a-coding-agent-from-scratch-course	252	From agent user to agent builder: build a Claude Code-style coding agent from scratch in Python: 8 articles, 4 videos, one codebase
+Qwen-Applications/Trace2Skill	251	Official codebase of the paper -- Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills
+FarhanAliRaza/claude-context-local	238	Code search MCP for Claude Code. Make entire codebase the context for any coding agent. Embeddings are created and stored locally. No API cost. 
+fazxes/Claude-code	231	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source.
+aeroxy/ast-bro	220	A fast, AST-based code navigation toolkit that maps file shapes, public APIs, and call graphs across coding languages. Designed to help coding agents and humans explore codebases, analyze blast radius, and generate token-budgeted context with massive token savings.
+rohanchandra30/TrackNPred	211	This is the code base for our ACM CSCS 2019 paper: "RobustTP: End-to-End Trajectory Prediction for Heterogeneous Road-Agents in Dense Traffic with Noisy Sensor Inputs". This codebase contains implementations for several trajectory prediction methods including Social-GAN and TraPHic.
+husnainpk/SymDex	208	Repo-local codebase oracle for AI coding agents. Exact symbol search, semantic search, routes, and call graphs across 16 languages, from Python and Go to Dart and Swift.
+jonrad/lsp-mcp	191	An Model Context Protocol (MCP) server that provides LLMs/AI Agents with the capabilities of a language server protocol (LSP) server. This gives the AI the ability to get language aware context from the codebase.
+piqoni/vogte	180	The Agentic TUI for Go codebases
+enmanuelmag/agent-harness-kit	177	A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase.
+SKYLENAGE-AI/SWE-CI	175	SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration
+GitHpriyanshu23/Clawde_Code	169	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+enola-labs/enola	168	Architecture intelligence for developers, coding agents, and CI - understand codebases, analyze change impact, and catch architectural regressions.
+Yevanchen/reclaim-code-entropy	166	An evidence-first Agent Skill for safely simplifying any codebase.
+shuxueshuxue/SpexFlow	164	Node-based workflow for orchestrating codebase context and specifications for AI agents.
+LocoreMind/LocoOperator	160	Local 4B codebase explorer agent distilled from Qwen3-Coder-Next.
+Lekssays/codebadger	153	🦡 codebadger is a containerized Model Context Protocol (MCP) server that gives AI agents and LLMs deep, queryable access to a codebase's structure and data flow through Joern Code Property Graphs (CPGs).
+Larens94/codedna	144	A lightweight annotation standard that helps AI agents navigate codebases faster, with fewer file reads and tool calls
+oliver-zehentleitner/keep-the-why	143	Keep the Why: a repo-native convention and agent skill that preserves the reasoning behind a codebase as a byproduct of working with your agent — so it stops re-suggesting rejected approaches, gives better answers, speeds up onboarding, and makes legacy projects tractable again.
+prasenjeet-symon/ogcode	136	The token-efficient agentic coding workbench. Built for a future where every token counts — it optimizes token usage at the agent-loop level, saving 70%+ on long sessions, while planning, remembering your codebase, and shipping features in parallel from a single self-hosted binary.
+zhinjs/zhin	135	AI-native TypeScript bot framework — one codebase for 20+ chat platforms (QQ, Discord, Telegram, Slack, WeChat…). Opt-in AI agent with MCP, tools & security policies. <10MB core.
+anvia-hq/lexa	122	Lexa - Fast local code intelligence for humans and AI agents. Lexa turns a codebase into a portable, queryable graph so every tool can work from the same stable view of the project.
+LocoreMind/LocoTrainer	117	MS-SWIFT domain expert agent for codebase analysis and report generation
+fallow-rs/fallow-skills	115	Agent skills for fallow, codebase intelligence for TypeScript and JavaScript. Teaches AI agents how to find unused code, duplication, circular deps, complexity hotspots, architecture drift, design-system drift, and (with Fallow Runtime) hot-path and cold-path evidence. Works with Claude Code, Cursor, Codex, Gemini CLI, and 30+ agents.
+rtk-ai/grit	112	Git for AI agents — zero merge conflicts, any number of parallel agents, same codebase
+butttons/dora	108	CLI built for AI agents to help navigate codebases better. An alternative to grep/find/glob
+RishabhK103/claude-code	106	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+zclllyybb/OpenGiraffe	104	A persistent, daemon-based multi-agent system that leverages opencode to automatically discover, plan, implement, and review code changes across a codebase.
+closedloop-ai/claude-plugins	103	Open-source Claude Code plugins for multi-agent software delivery. Plan-first SDLC workflow, code review, LLM quality judges, and self-learning — grounded in your codebase.  Bootstrap, Plan, & Ship.   
+glincker/stacklit	102	One command gives AI agents instant codebase context. ~250 tokens replaces 50,000+ tokens of exploration. Auto-configures Claude Code, Cursor, Aider.
+obbylabs/obby-dev	98	AI Background Agent - v0 for your codebase (WIP)
+10xChengTu/harness-engineering	96	Set up and improve harness engineering (AGENTS.md, docs/, lint rules, eval systems, project-level prompt engineering) for AI-agent-friendly codebases. Triggers on: new/empty project setup for AI agents, AGENTS.md or CLAUDE.md creation, harness engineering questions, making agents work better on a codebase.
+SylphAI-Inc/adal-cli	96	The self-evolving coding agent that learns from your entire team and codebase. Less syncing. Less waiting. Deliver at the speed of thought.
+unoplat/unoplat-code-confluence	95	Always keep your codebases ready for Agents. Improve any coding workflow by atleast 2x by maintaing a live, pluggable context layer per repo that creates and maintains Agents.md
+agentmd/agent.md	89	This repository defines AGENT.md, a standardized format that lets your codebase speak directly to any agentic coding tool.
+CodeAlive-AI/codealive-mcp	88	Context engine for large codebases, exposed through MCP. Gives AI coding agents precise repository context; benchmarked at frontier-agent quality with ~25x lower model cost and 45% fewer tokens with semantic search.
+GenSI-THUAIR/FLEX	86	The official codebase for our paper, FLEX: Continuous Agent Evolution via Forward Learning from Experience.
+bgreenwell/dotagents	85	A proposed convention for the .agents/ directory to prevent context bloat and improve agent reasoning in complex codebases.
+skilgen/skilgen	72	Turn a codebase, a requirements document, or both into a living skills system for AI coding agents.
+krokozyab/Agent-Fusion	72	 Agent Fusion is a local RAG semantic search engine that gives AI agents instant access to your code, documentation (Markdown, Word, PDF). Query    your codebase from code agents without hallucinations. Runs 100% locally, includes a lightweight embedding model, and optional multi-agent task    orchestration. Deploy with a single JAR
+codegraph-ai/CodeGraph	72	CodeGraph builds a semantic graph of your codebase — functions, classes, imports, call chains — and exposes it through 42 MCP tools, 38 languages, a VS Code extension, and a persistent memory layer. AI agents get structured code understanding instead of grepping through files.
+Junhanliu-dev/espalier-engineering	72	Train your AI coders the way you'd train a vine — discover your codebase's actual patterns, then encode them as Claude Code rules, skills, agents, hooks, and a guided pipeline so generated code lands inside your conventions on the first try, not the fifth.
+bahdotsh/indxr	71	A fast codebase indexer and knowledge wiki for AI agents.
+Strategic-Automation/dspy-compounding-engineering	70	A local-first AI engineering agent that learns from your codebase using DSPy.
+Filip-Podstavec/claude-leverage	68	Make any repo AI-first - write sustainable code from the start, or refactor a legacy codebase to prepare it for agent-driven development.Building blocks for Claude Code: subagents, slash commands, hooks, and workflow patterns. Copy what you need. A working developer's stack for Claude Code.
+ai-builders-group/build-production-ai-agents	67	Official source code for the AI Agent Foundations: Codebase Analyst course. The main branch contains the final solution, starter provides the boilerplate for practice, and lesson-X-complete tags track the code at the end of each lesson. Use the 'Issues' tab for any course-related questions.
+Blazity/nefi	66	🕵🏻‍♂️ AI agent that automates code management and feature integration in Next.js codebases through natural language commands
+alexdevassy/AI-Powered-Vulnerability-Impact-Analyzer	66	Vulnerability impact analyzer that reduces false positives in SCA tools by performing intelligent code analysis. Uses agentic AI with open source models to understand CVEs and verify actual vulnerability impact in your codebase. Keeps your code secure with on-premises execution and human-in-the-loop verification.
+yuki-20/CornMCP	64	CornMCP is an open-source mono repo that gives AI coding agents (Antigravity, Cursor, Claude Code, Codex), token-saving access to your codebase through the Model Context Protocol (MCP).
+syscalldev/LLMCode	64	LLM Code (Open Claude Code) is an agentic coding tool that lives in your terminal, understands your codebase and helps you code faster through natural language commands
+pirua-game/ai_game_base_analysis_cli_mcp_tool	63	Game Codebase Analysis AI Agentic Tool
+ChristopherKahler/aegis	63	Multi-agent codebase audit for Claude Code — 12 specialized personas with epistemic discourse and bias removal for high-fidelity findings
+senoldogann/LLM-Context-Manager	62	Bridge the gap between your codebase and your AI editor. CCM transforms static source code into a dynamic, queryable Knowledge Graph, enabling AI agents to navigate, understand, and reason about your project with surgical precision
+PatrickSys/codebase-context	61	Codebase Context gives AI agents understanding of your codebase through semantic code search, team conventions, patterns, and memory, so they use fewer tokens, spend less time, and produce better, more familiar output.
+jawerty/AutoStartup	60	A LLama agent that builds startup ideas from your intutions (generates react codebases)
+howardpen9/kimi-code-mcp	60	MCP server for Claude Code × Kimi K2.5 (256K context) — delegate bulk codebase analysis to Kimi, save 90% on token costs. Session caching, parallel agents, TypeScript.
+julien-c/synthtraces	59	A minimal codebase to generate synthetic coding agent session traces
+AaronZ345/codebase-argus	58	Multi-agent codebase review for PRs, CI, and downstream fork syncs.
+remorses/agentmap	58	A tree of your codebase at the start of every agent session. Like SKILL spec but for source code files. A frontmatter for source code file

@@ -1,0 +1,100 @@
+AntonOsika/gpt-engineer	55133	CLI platform to experiment with codegen. Precursor to: https://lovable.dev
+hesreallyhim/awesome-claude-code	52655	A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
+TabbyML/tabby	33830	Self-hosted AI coding assistant
+Pythagora-io/gpt-pilot	33694	The first real AI developer
+can1357/oh-my-pi	25881	⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+coleam00/Archon	23230	The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+The-PR-Agent/pr-agent	12623	🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+datawhalechina/vibe-vibe	5929	AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn   ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn
+FlorianBruniaux/claude-code-ultimate-guide	5763	The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.
+campfirein/byterover-cli	4943	ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
+cjo4m06/mcp-shrimp-task-manager	2148	Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent-like developer behavior in reasoning AI systems.
+the-open-engine/zeroshot	1703	Independent executor–verifier orchestration for software changes.
+HexmosTech/git-lrc	1453	Free, Micro AI Code Reviews That Run on Git Commit
+preset-io/agor	1369	Agor - team command center for all things agentic
+kodustech/kodus-ai	1318	AI Code Review with Full Control Over Model Choice and Costs.
+fuxicodex/Fuxi	1217	FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.
+repowise-dev/claude-code-prompts	1189	Independently authored prompt templates for AI coding agents — system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.
+proxysoul/Empryo	971	Empryo issue tracker + SoulForge (v2) archive — Empryo is the graph-powered AI coding agent that edits symbols, not strings: AST surgery, full LSP, a live code genome. Get it at https://empryo.com
+ferrislucas/promptr	950	Promptr is a CLI tool that applies plain language instructions to the filesystem. Instructions can utilize a liquidjs based templating system. Use cases include refactoring, code generation, and experimentation.
+inmve/free-ai-coding	762	AI coding tools that give free Claude Opus/Sonnet, GPT-5, Gemini Pro, and other pro-grade models
+0xsline/awesome-deepseek-harness	750	DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.
+riponcm/projectmem	745	Local-first AI coding memory for AI agents. Records issues, attempts, fixes and decisions, then warns your agent before it repeats an approach that already failed. Native MCP server for Claude Code, Cursor, Antigravity and Codex. 100% local, no cloud, no telemetry. MIT.
+mostafasadeghi97/design2code	682	Convert any web design screenshot to clean HTML/CSS code
+mensfeld/code-on-incus	656	Give each AI agent its own isolated machine with root, Docker, and systemd. Active defense detects and stops threats automatically.
+ovh/shai	615	shai is a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3
+imbue-ai/vet	579	Find issues worth your attention.
+juggler-ai/juggler	568	The Juggler Code Agent
+TheDecipherist/claude-code-mastery	544	The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands
+Th0rgal/sandboxed.sh	486	Safe runtime for autonomous on-chain AI agents: isolated sandboxes, Library skills, encrypted secrets.
+talkcody/talkcody	464	TalkCody - Code is cheap, show me your talk.  🚀 Free Open Source AI Coding Agent.
+bassimeledath/dispatch	411	A Claude Code skill that 10x's your effective context window by dispatching tasks to background AI workers.
+ghuntley/groundhog	403	Groundhog's primary purpose is to teach people how Cursor and all these other coding agents work under the hood. If you understand how these coding assistants work from first principles, then you can drive these tools harder (or perhaps make your own!).
+Anil-matcha/awesome-claude-fable-5	379	Curated Claude Fable 5 use cases, tutorials, integrations, demos, and benchmark evidence with source links. Access Claude Fable 5 exclusively via MuAPI.
+nth5693/gemini-kit	374	🚀 19 AI Agents + 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review & security
+JamesShi96/project-butler	372	Project memory system for AI coding assistants (Claude Code, Cursor, Codex): session logs, project wiki, rules, TODOs, and handoff.
+inmve/awesome-ai-coding-techniques	347	Practical techniques for coding with ai assistants (Claude Code, Codex CLI, Cursor, GitHub Copilot, etc). Available in: English • Español • Deutsch • Français • 日本語
+patriceckhart/zot	319	Yet another coding agent harness, lightweight and written in go.
+wrale/mcp-server-tree-sitter	310	MCP Server for Tree-sitter
+termly-dev/termly-cli	295	Mobile companion for Claude Code, Gemini CLI & OpenCode. Encrypted, remote
+Govcraft/rust-docs-mcp-server	293	🦀 Prevents outdated Rust code suggestions from AI assistants. This MCP server fetches current crate docs, uses embeddings/LLMs, and provides accurate context via a tool call.
+travisvn/gptree	290	A CLI tool to provide LLM context for coding projects by combining project files into a single text file (or clipboard text) with directory tree structure.
+wellingfeng/UltraGameStudio	289	UltraGameStudio - AI coding agent for game development: engine workflows, gameplay code, and asset generation.
+403errors/repomind	276	An open-source, AI-powered application using Agentic CAG to chat with any public GitHub repository or developer profile, offering deep code analysis, visual architecture maps and security audits
+shangyankeji/super-dev	273	Engineering workflow layer for AI coding tools with specs, review, quality gates, and traceability.为 AI 编程工具提供工程化流程、质量门禁与可追溯能力。
+get-vix/vix	264	Sleek, Fast and Token Efficient AI Coding Agent
+OleksandrChekhovskyi/hax	261	A minimalist, terminal-native coding agent written in C.
+FSoft-AI4Code/HyperAgent	252	Generalist Software Agents to Solve Soware Engineering Tasks
+miracodeai/mira	250	Self-hosted AI code reviewer with indexed PR reviews, walkthroughs, vulnerability scanning, dependency graphs, custom rules, and a learning loop.
+kyaukyuai/gpt-all-star	238	🤖 AI-powered code generation tool for scratch development of web applications with a team collaboration of autonomous AI agents.
+fazxes/Claude-code	231	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source.
+BrikerMan/skilless.ai	226	skilless.ai gives your AI Agents real data capabilities - web search, web scraping, video download/subtitle extraction, and media processing. One-line install, works with OpenCode, Cursor, Claude Code, and any AI agent that reads skill files.
+johunsang/semble_rs	213	Fast, AI-agent-native code search in Rust — hybrid BM25 + semantic, Tree-sitter AST chunking, dependency & impact analysis. Drop-in replacement for grep/cat/read/ls in Claude Code, Codex, Cursor, Aider, OpenHands.
+voqal/voqal	193	Voice native AI agent for the builders of tomorrow 
+deepelementlab/clawcode	163	ClawCode is claude code inspired implementation in python and Rust focused on agents and experience-based evolution, and is an Open-source coding-agent CLI for Anthropic, OpenAI, Gemini, DeepSeek, GLM, Kimit, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+The-Creator-AI/The-Creator-AI	158	AI Coding assistant for large and complex codebases.
+codingagentsystem/cas	150	Multi-agent orchestration for Claude Code. Persistent memory, tasks, rules, and skills that make AI agents actually coordinate.
+touwaeriol/claude-code-plus	147	🖥️ GUI Plugin for Claude Code / Codex CLI / Gemini CLI in JetBrains IDEs - Run AI coding assistants with a beautiful visual interface
+olasunkanmi-SE/codebuddy	139	An Autonomous AI Software Engineer
+prasenjeet-symon/ogcode	136	The token-efficient agentic coding workbench. Built for a future where every token counts — it optimizes token usage at the agent-loop level, saving 70%+ on long sessions, while planning, remembering your codebase, and shipping features in parallel from a single self-hosted binary.
+ntorga/agent-starter-kit	135	The scaffold for your multi-model, personalized Natural Language AI Harness (NLAH) .
+thenicolas1894/awesome-claude-fable-5-prompt-vault	130	Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks
+haasonsaas/ocode	128	OCode is a sophisticated terminal-native AI coding assistant that provides deep codebase intelligence and autonomous task execution
+qbit-ai/qbit	127	agentic terminal application
+edgee-ai/edgee	126	Official Edgee CLI to interract with Edgee's Agent Gateway. Route Claude Code, Codex, Cursor, VS Code + Copilot, and more through Edgee's hosted gateway to cut token spend.
+trefeon/freebuff-proxy	122	OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.
+codeking-ai/cligate	121	Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP, tools, channels, tasks,model routing, accounts, keys, logs, dashboard.
+AlaeddineMessadi/opencode-mcp	121	MCP server for OpenCode AI — 70 tools, 10 resources, 5 prompts. Use npx opencode-mcp with Claude Desktop, Claude Code, Cursor, Windsurf, or any MCP client.
+arthurpanhku/dvalincode	112	Approvable, local-first AI coding agent for regulated teams: policy controls, governed MCP, evidence packs, audit trails, secure remediation, and any OpenAI-compatible model.
+jgbrwn/vibebin	105	vibebin: code and host inside Incus containers on your own VPS/server.
+ginkida/gokin	105	A powerful CLI tool that brings AI assistance directly to your terminal. Gokin understands your codebase and helps with file operations, code search, shell commands, git workflows, task management, and more - all through natural language.           
+usetig/sage	105	An LLM council that reviews your coding agent's every move
+fiorastudio/buddy	103	A virtual pet companion for your AI — Designed to provide in-context code review feedback with personality. Grow with your buddy and level up together. Works with Claude Code, Codex, CursorCLI, Github CopilotCLI, OpenClaw, and any MCP compatible clients
+Mybono/ai-orchestrator	100	Portable multi-agent AI developer setup for Claude Code + Ollama. Role-based local LLM orchestration via Bash — plan, code, review, commit. Zero Dependency. Works with any language stack.
+edwluo/vibe-island-updates	95	Vibe Island releases & update feed — download the latest DMG of the macOS notch panel for 25 AI coding agents (Claude Code, Codex, Cursor & more).
+ShipWithAI/claude-code-mastery	91	The most comprehensive free Claude Code course — 16 phases, 55 modules, EN + VI 🚀
+iwangjian/Coding-Tutor	91	[ACL 2025 Findings] Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The Curious Case of LLMs as Your Coding Tutors
+mturac/everything-openai-codex	87	EOC: open-source operating system for OpenAI Codex workflows with agents, skills, hooks, rules, memory, safety gates, and cross-harness adapters.
+bgreenwell/dotagents	85	A proposed convention for the .agents/ directory to prevent context bloat and improve agent reasoning in complex codebases.
+codertesla/ai-coding-deals	79	Money-saving guide to AI coding tools: free tiers, discounts, referral credits & open-source alternatives. 省钱指南。
+deep-copilot/DeepCopilot	78	Copilot-style AI coding agent for VS Code, powered by DeepSeek V4. 
+codiga/code-snippets-manager	76	Codiga Code Snippets Manager
+lingcoder/crab-code	74	🦀 Open-source alternative to Claude Code, built from scratch in Rust. Agentic coding CLI — thinks, plans, and executes with any LLM. Compatible with Claude Code workflows.
+codegraph-ai/CodeGraph	72	CodeGraph builds a semantic graph of your codebase — functions, classes, imports, call chains — and exposes it through 42 MCP tools, 38 languages, a VS Code extension, and a persistent memory layer. AI agents get structured code understanding instead of grepping through files.
+guanyilun/agent-sh	66	A composable agent runtime — pair any frontend with any agent backend.
+Paseru/sinew	65	Agentic IDE with custom harness
+littlebearapps/untether	64	Code from anywhere — Telegram bridge for AI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp). Stream progress, approve actions, and send tasks by voice from your phone.
+iBz-04/Devseeker	62	prompt to app ai coding agent
+terrylica/cc-skills	62	Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, semantic versioning, and productivity workflows
+dinoanderson/qwen_cli_coder	60	🤖 Community fork of Google's Gemini CLI for Qwen AI models. A powerful command-line tool that uses Alibaba Cloud's Qwen models to understand your code, automate workflows, and accelerate   development. Features multilingual support (EN/CN), model switching, and web search integration.
+storozhenko98/beehive	60	Orchestrate coding agents across isolated git workspaces
+mochow13/keen-code	60	A context-aware terminal-based coding agent written in Go. Supports multiple-providers, MCPs, Subagents, Agent Skills, controllable tool output retention, hashline edits, and more.
+dremeika/awesome-coding-assistants	57	Awesome curated list of coding assistants and related resources
+itxaiohanglover/mcp-codestyle-server	55	MCP Codestyle Server 是一个基于 Spring AI 实现的 Model Context Protocol (MCP) 服务器，为 IDE 和 AI 代理提供代码模板搜索和检索工具。该服务从本地缓存查找模板，并在缺失时自动从远程仓库下载元数据和文件进行修复。
+LucasDuys/forge	55	Turn a one-line idea into a branch with tested, reviewed, committed code. The brainstorm-to-commit pipeline for Claude Code.
+Rkcr7/Aura-AI	53	An undetectable AI assistant that lives on your screen. Solves problems, answers questions, analyzes screenshots — invisible to everyone but you.
+deepelementlab/jupyter-studio	53	The AI-native JupyterLab — open-source Cursor for notebooks. Cmd+K inline edit, multi-step agent with cell-level tools (read/edit/run), chat with @cell/@file context, ghost-text completion, one-click traceback fix. BYO model: Anthropic, OpenAI, Gemini, Ollama, vLLM. Local-first, privacy-first, fully open source.
+ZSJ305/angles-cli	53	Angles Code CLI — Terminal-based agentic coding assistant
+DizzyMii/fable-skills	52	Six Claude Code skills that harden Opus 4.8 toward frontier behavior — written by Fable 5, pressure-tested on the target model with transcripts included.
+ericrisco/rsc-harness	52	Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the meta-harness that gives it both — plus the trade to know the job and the reflexes to not break your repo. For Claude Code, Codex and 15 more.
+roampal-ai/roampal-core	50	Outcome-based persistent memory MCP server for Claude Code and OpenCode. Good advice promoted, bad advice demoted. pip install roampal.

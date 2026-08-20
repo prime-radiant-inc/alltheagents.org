@@ -1,0 +1,69 @@
+can1357/oh-my-pi	25881	⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+alirezarezvani/claude-skills	24678	345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+1jehuang/jcode	18016	The most RAM efficient harness
+Q00/ouroboros	5580	Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make it into the success contract we hand it. Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 13 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+graykode/abtop	3457	Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
+wrtnlabs/autobe	1358	AI Vibe Coding Agent of TS backend server, enhanced by compiler skills, generating 100% working code
+repowise-dev/claude-code-prompts	1189	Independently authored prompt templates for AI coding agents — system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.
+amElnagdy/delegate-skills	1186	Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer.
+proxysoul/Empryo	971	Empryo issue tracker + SoulForge (v2) archive — Empryo is the graph-powered AI coding agent that edits symbols, not strings: AST surgery, full LSP, a live code genome. Get it at https://empryo.com
+friuns2/codex-mobile	871	🚀 Run Codex Mobile Anywhere: Linux, Windows, or Termux on Android 🚀
+wecode-ai/RunVSAgent	719	Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment.
+dongshuyan/compass-skills	699	司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents
+ayuayue/PiDeck	648	PiDeck 是一个开源的桌面工作台，用于在本地项目目录中统一管理 pi Agent 会话，并支持导入 Codex、Claude 本地会话以便统一浏览和恢复。支持多项目工作区、会话历史、Git 集成、内置终端、模型配置和插件管理，基于 Electron 构建。
+jmfederico/pi-web	572	Web UI for Pi Coding Agent that keeps sessions alive in real workspaces.
+h5i-dev/h5i	535	Auditable sandbox for coding agents. Browser, dependencies, dev server, and workspace in one disposable environment. Local-first. No hosted sandbox. No SaaS account required.
+saltbo/agent-kanban	449	An agent-first task board, Mission control for your AI workforce.
+JohnCrickett/ai-assisted-engineering	417	A Guide To AI-Assisted Software Engineering
+get-vix/vix	264	Sleek, Fast and Token Efficient AI Coding Agent
+decodingai-magazine/building-a-coding-agent-from-scratch-course	252	From agent user to agent builder: build a Claude Code-style coding agent from scratch in Python: 8 articles, 4 videos, one codebase
+rrezartprebreza/spring-boot-skills	223	Production-grade Claude Code and Codex skills for Spring Boot developers
+morganlinton/Albatross	222	Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box.
+team-telnyx/ai	211	Official one-stop shop for AI Agents and developers building with Telnyx.
+liuxiaopai-ai/ralph-desktop	184	Ralph Desktop -  Start vague. Ralph Loop until perfect.  A visual controller for AI coding agents that helps you brainstorm requirements and execute tasks through persistent iteration.
+autohandai/code-cli	178	Autohand Code CLI - Ultra fast self evolving coding agent that runs in your terminal
+qqzhangyanhua/learn-opencode-agent	160	OpenCode AI Coding Agent 学习与实践教程：从 Agents、Skills、MCP、Context Engineering 到 AI Coding Workflow。
+cjermain/pi-less-yolo	150	Slightly less YOLO version of pi-coding-agent in Docker container sandbox
+borhen68/TokenTamer	128	A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50–80% without losing what the model actually needs to know.
+khankamraan2006-crypto/fabric-router-core	116	Smart Factory LLM Routing & OAuth Gateway Plugin 2026
+jigjoy-ai/baro	111	A CLI that turns a goal into a pull request - and a sandbox for testing concurrent AI coding agents on the Mozaik runtime.
+rubenmarcus/ralph-starter	105	Bootstrap projects from Figma, Linear, Notion & GitHub specs. The only AI ralph with source integrations.
+nablo-io/lerim	97	Compiles AI agent traces and truns them into reusable context.
+y-times-y/y	92	Malleable coding agent app. Use Claude Code and Codex to code and reshape the app itself live.
+aizen-stack/aizen	92	Aizen is an AI coding agent that lives on your PC or VPS. Control it from your phone while it autonomously fixes code, runs tests, and reports the results back to you.
+gary95271/xuanji-landing	86	玄机 XuanJi · Claude 客户端 + Claude Code Agent · 国内直连 Claude Sonnet 4.6 / Opus 4.7 / DeepSeek v4 · Claude 防封不退款, Claude Code 国产替代首选
+shepsci/kaggle-skill	82	Complete Kaggle integration plugin/skill for AI coding agents — competition reports, dataset/model downloads, notebook execution, and badge collection. Works with Claude Code, Gemini CLI, Cursor, Codex, OpenClaw, and 35+ agents via skills.sh.
+samfoy/pi-memory	80	Persistent memory for pi — learns corrections, preferences, and patterns from sessions
+0xfnzero/AI-Code-Tutorials	77	Bilingual AI coding tutorials for Claude Code and OpenAI Codex: setup, CLI, Codex workflows, MCP, agents, code review, prompt engineering, and web projects.
+tathagat22/plumb-mcp	73	Local Figma MCP server with no REST rate limits, no metered tool-call quotas, and a verification loop. Drop-in alternative to Figma's Dev Mode MCP and Framelink for Claude Code, Cursor, Windsurf — works on every plan including Free.
+mrclrchtr/supi	72	SuPi (Super Pi): Pi coding agent extensions with LSP + Tree-sitter AST code intelligence, semantic refactoring, code review, web/Context7 docs, ask-user forms, and observability.
+See-Sol-Lab/private-house-code-v2.5	71	让 Codex 少烧 Token、少造复杂度，同时不降智的代码约束 Skill
+fvadicamo/dev-agent-skills	69	Claude Code skills plugin for Git, GitHub, and skill authoring workflows
+monkilabs/opencastle	61	Multi agens orchestration setup for Github Copilot, Cursor, Claude Code, OpenCode, Windsurf, Codex and Antigravity.
+mochow13/keen-code	60	A context-aware terminal-based coding agent written in Go. Supports multiple-providers, MCPs, Subagents, Agent Skills, controllable tool output retention, hashline edits, and more.
+spacehendrix/clauder	58	> CLAUDER - a safer and supercharged Claude Code
+LucasDuys/forge	55	Turn a one-line idea into a branch with tested, reviewed, committed code. The brainstorm-to-commit pipeline for Claude Code.
+0xmariowu/AgentLint	53	The linter for your agent harness. Works with Claude Code, Codex, and Cursor.
+OutlineDriven/outline-driven-development	52	Outline-Driven Development - opinionated methodology between vibes and specs. AST tooling + context engineering + loop engineering on your hands. Plugins for Claude / Codex / Gemini / Cursor.
+recallium-ai/recallium	50	Recallium is a local, self-hosted universal AI memory system providing a persistent knowledge layer for developer tools (Copilot, Cursor, Claude Desktop). It eliminates "AI amnesia" by automatically capturing, clustering, and surfacing decisions and patterns across all projects. It uses the MCP for universal compatibility and ensures privacy
+aronprins/claude-loop	49	Hand Claude a PRD. Get a working feature back. One story per subagent, fresh context every time.
+samfoy/pi-dashboard	49	Web dashboard for the pi coding agent — multi-session chat, file browser, doc collaboration, terminal, and more
+shubzkothekar/antigravity-acp	46	An Agent Client Protocol (ACP) server for Google Antigravity's `agy` CLI, built on Bun. Connects ACP-compatible editors to drive `agy` with live streaming and history replay.
+xmm/codex-bmad-skills	46	BMAD skills and workflows for OpenAI Codex (App, CLI, Web): intent-based execution, YAML project state, and reusable skill packs for planning, architecture, sprint delivery, development, and code review.
+Touchpoint-Labs/Gadfly	45	A Socratic supervision layer for AI coding agents.
+scgopi/GraphCode	44	Graph Engineering, simplified — with GraphCode. #graphcode
+REMvisual/claude-handoff	43	Claude Code skill for session handoffs — survives context compaction, chain-links across sessions.
+DevExpress/agent-skills	41	DevExpress AI Skills for coding agents (.NET, JS/TS)
+with-geun/alive-analysis	41	Data analysis workflow kit for AI coding agents. Structure your analysis with the ALIVE loop — Ask, Look, Investigate, Voice, Evolve.
+rojim666/SztuCode	40	本地优先的 AI 编程 Agent，支持 TUI/桌面端、工具权限、会话记忆、Skills、Subagents 与 MCPA local-first AI coding agent with TUI and desktop clients, tool permissions, memory, Skills, Subagents, and MCP support.。
+project820/gjc-multivendor-setup-guide	39	GJC(Gajae Code) 5구독 멀티벤더 셋업 — 3대 리서치(Codex/LLM Council/Opus ultracode) + 엔진 ground-truth + red-team 통합 가이드
+tankpkg/tank	38	Security-first package manager for AI agent skills
+MiguelAxcar/ai-rpi-protocol	37	Repo-native protocol for AI-assisted coding that enforces a simple discipline: research first, plan second, code last. Drop it into any repository to reduce wrong implementations, cut rewrite cycles, and improve decisions earlier in the workflow. Works with Cursor, VS Code, Claude Code, and Windsurf across Claude, GPT, Gemini, Grok, and DeepSeek.
+sky-valley/pi	36	A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-coding-agent, native in Go with no Node.js runtime. Anthropic/OpenAI/Google, 999-model catalog.
+transcendr/slopware-skills	34	Free, portable AI agent skills and plugins for Codex, Claude Code, and Agent Skills clients by Slopware Engineer (@aienginerd). Home of the MSW Kernel for Minimum Sufficient Work.
+24601/surreal-skills	34	Expert SurrealDB 3 skill for AI coding agents (Claude, Codex, Amp, Gemini CLI, Copilot, Cursor). SurrealQL, multi-model data modeling, graph queries, vector search, WASM extensions, and full ecosystem.
+OutlineDriven/odin-claude-plugin	34	Outline-Driven Development for Claude Code - 46 agents, 25+ skills, diagram-first methodology, AST-based editing, atomic commits.
+mideco-tech/codex-tg	32	Telegram remote UI and observer for OpenAI Codex App Server. Control Codex threads, tools, Plan Mode, and local coding agents from Telegram.
+zap-coding-agent/zap-coding-agent	32	ZAP is a terminal-first, local AI coding agent built in Rust. It uses AST-powered codebase indexing and lazy-loaded skills to completely eliminate prompt bloat and minimize context token costs.
+ohad6k/VibeRaven	31	The open-source cockpit for AI coding agents. Map your repo, control what your agents can touch, and see what changed before you ship.
+rizwan3d/StemCode	31	Local-first AI coding agent for desktop, terminal, VS Code, Visual Studio, and CI code reviews.
