@@ -59,6 +59,7 @@ last_verified: null           # YYYY-MM-DD a human or agent last confirmed the f
 what_makes_it_special: null   # 1-2 sentences, frontmatter only — never repeated in the body
 ---
 
-Body = narrative text about the harness: its history, design choices, how it is used,
-context in the ecosystem. Do NOT duplicate frontmatter content here — repeating
+Body = a short narrative about the harness: why it exists, what it's meant for, and
+who uses it. Required for every entry. Only as long as it needs to be — usually about
+a paragraph. Do NOT duplicate frontmatter content here — repeating
 what_makes_it_special (or any frontmatter field) in the body is forbidden.
