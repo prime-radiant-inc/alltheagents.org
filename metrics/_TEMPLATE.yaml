@@ -1,0 +1,10 @@
+# Per-agent metric history: metrics/<slug>.yaml (slug matches agents/<slug>.md).
+# Append-only: automation appends one entry per refresh; entries are never edited
+# or overwritten. Kept out of agents/*.md so metric refreshes don't churn the
+# main files. Agent frontmatter keeps only the latest snapshot for site sorting.
+
+github_stars_log:
+  - {value: 12345, as_of: "2026-08-20"}
+
+downloads_log:
+  - {value: 1200000, as_of: "2026-08-20", source: "vscode-marketplace"}

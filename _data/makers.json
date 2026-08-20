@@ -1,0 +1,26 @@
+{
+  "anthropic": {
+    "name": "Anthropic",
+    "maker_type": "company",
+    "country": "US",
+    "makes_models": true,
+    "revenue_model": ["tokens", "subscriptions"],
+    "website": "https://www.anthropic.com"
+  },
+  "microsoft": {
+    "name": "Microsoft",
+    "maker_type": "company",
+    "country": "US",
+    "makes_models": true,
+    "revenue_model": ["subscriptions"],
+    "website": "https://www.microsoft.com"
+  },
+  "saoudrizwan": {
+    "name": "Saoud Rizwan (Cline)",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://cline.bot"
+  }
+}
