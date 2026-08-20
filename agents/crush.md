@@ -16,7 +16,6 @@ language: "Go"
 homepage: null
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
   - "tiennm"

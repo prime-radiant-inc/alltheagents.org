@@ -16,10 +16,8 @@ language: "TypeScript"
 homepage: null
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
-  - "tiennm"
   - "tiennm"
 ---
 

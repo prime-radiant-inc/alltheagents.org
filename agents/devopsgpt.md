@@ -16,7 +16,6 @@ homepage: "https://www.kuafuai.net"
 sources:
   - "e2b"
   - "jim"
-  - "jim"
 ---
 
 Welcome to the AI Driven Software Development Automation Solution, abbreviated as DevOpsGPT. We combine LLM (Large Language Model) with DevOps tools to convert natural language requirements into working software. This innovative feature greatly improves development efficiency, shortens development cycles, and reduces communication costs, resulting in higher-quality software delivery.

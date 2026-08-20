@@ -16,7 +16,6 @@ language: "TypeScript"
 homepage: "https://neovateai.dev/"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
 ---

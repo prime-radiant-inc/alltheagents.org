@@ -16,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [DuetGPT](https://github.com/kristoferlund/duet-gpt) - A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. [github](https://github.com/kristoferlund/duet-gpt)

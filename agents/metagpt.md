@@ -18,7 +18,6 @@ homepage: "https://atoms.dev/"
 sources:
   - "e2b"
   - "jim"
-  - "jim"
   - "caramaschi"
   - "vinkius"
   - "brandonhimpfen"

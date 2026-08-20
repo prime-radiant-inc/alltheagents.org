@@ -16,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [ChartGPT](https://chartgpt.io) - ChartGPT offers AI-driven services like table summarization, charting, and code generation, featuring pay-as-you-go pricing, trusted by major companies, emphasizing data security, ease of use, and 24/7 customer support [website](https://chartgpt.io)

@@ -16,7 +16,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "jim"
-  - "jim"
   - "caramaschi"
 ---
 

@@ -15,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [CodeActAgent](https://github.com/xingyaoww/code-act) - CodeActAgent, trained on CodeActInstruct, showcases superior performance in both in-domain and out-of-domain tasks, enabling dynamic code execution and multi-turn interactions for more effective LLM agents [github](https://github.com/xingyaoww/code-act)

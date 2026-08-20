@@ -16,7 +16,6 @@ language: "Python"
 homepage: "https://aider.chat/"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "flatlogic"
   - "brad"
   - "ishandutta"

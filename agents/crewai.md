@@ -17,7 +17,6 @@ homepage: "https://crewai.com"
 sources:
   - "e2b"
   - "jim"
-  - "jim"
   - "brandonhimpfen"
 ---
 

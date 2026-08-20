@@ -18,7 +18,6 @@ homepage: "https://bernstein.run"
 sources:
   - "brad"
   - "jim"
-  - "jim"
   - "caramaschi"
 ---
 

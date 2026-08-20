@@ -16,7 +16,6 @@ language: "TypeScript"
 homepage: "https://docs.nanocollective.org/nanocoder"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
 ---

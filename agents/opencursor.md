@@ -16,7 +16,6 @@ language: "TypeScript"
 homepage: "https://marketplace.visualstudio.com/items?itemName=pkrd.ocursor"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
 ---
 
 A VS Code coding agent with multi-provider models, agentic chat, semantic repository search, and MCP tools.

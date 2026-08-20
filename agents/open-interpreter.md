@@ -16,7 +16,6 @@ language: "Rust"
 homepage: "http://openinterpreter.com/"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "ishandutta"
 ---
 

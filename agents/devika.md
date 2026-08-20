@@ -17,11 +17,8 @@ language: "Python"
 homepage: "https://winfunc.com"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "flatlogic"
   - "e2b"
-  - "jim"
-  - "jim"
   - "jim"
   - "brandonhimpfen"
 ---

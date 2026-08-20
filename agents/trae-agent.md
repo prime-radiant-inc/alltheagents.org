@@ -17,7 +17,6 @@ language: "Python"
 homepage: "https://www.trae.ai/"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
   - "tiennm"

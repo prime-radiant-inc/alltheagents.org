@@ -16,7 +16,6 @@ language: null
 homepage: "https://commandcode.ai"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
 ---
 

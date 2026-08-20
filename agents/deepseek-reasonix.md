@@ -16,7 +16,6 @@ language: "Go"
 homepage: "http://reasonix.io/"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
 ---
 

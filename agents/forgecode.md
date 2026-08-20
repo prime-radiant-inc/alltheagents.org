@@ -16,7 +16,6 @@ language: "Rust"
 homepage: "https://forgecode.dev"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "ishandutta"
 ---
 

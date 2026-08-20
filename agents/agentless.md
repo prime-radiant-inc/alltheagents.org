@@ -17,7 +17,6 @@ language: "Python"
 homepage: null
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
 ---

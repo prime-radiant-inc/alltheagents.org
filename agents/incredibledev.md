@@ -15,7 +15,6 @@ language: "Rust"
 homepage: null
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [Incredible.Dev](https://github.com/IncredibleDevHQ/Incredible.dev) - Incredible.dev is an AI Coding Co-worker which can code, fix, document, deploy, test your APIs. One agent to rule everything API.

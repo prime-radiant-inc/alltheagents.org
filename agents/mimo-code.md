@@ -16,7 +16,6 @@ language: "TypeScript"
 homepage: "https://mimo.xiaomi.com/mimocode"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
 ---
 

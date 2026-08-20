@@ -16,7 +16,6 @@ language: "Python"
 homepage: "https://moonshotai.github.io/kimi-cli/"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
 ---
 

@@ -17,7 +17,6 @@ language: "TypeScript"
 homepage: "https://docs.google.com/forms/d/e/1FAIpQLSc6uBe0ea26q7Iq0Co_q5fjW2nypUl8G_Is5M_6t8n7wZHuPA/viewform"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
 ---
 
 A chat-first code editor that lets an agent understand repositories, modify files, and present changes for review.

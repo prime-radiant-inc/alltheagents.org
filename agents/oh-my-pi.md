@@ -16,7 +16,6 @@ language: "TypeScript"
 homepage: "https://omp.sh"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
 ---

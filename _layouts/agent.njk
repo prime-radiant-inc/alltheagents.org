@@ -50,7 +50,9 @@ eleventyComputed:
       <tr><th>Platforms</th><td>{{ platforms | join(", ") }}</td></tr>
       {% endif %}
       {% if sources and sources.length > 0 %}
-      <tr><th>Discovered via</th><td>{{ sources | join(", ") }}</td></tr>
+      <tr><th>Discovered via</th><td>
+        {% for s in sources %}{% if source_urls and source_urls[s] %}<a href="{{ source_urls[s] }}" target="_blank" rel="noopener">{{ s }}</a>{% else %}{{ s }}{% endif %}{% if not loop.last %}, {% endif %}{% endfor %}
+      </td></tr>
       {% endif %}
     </table>
   </section>

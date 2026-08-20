@@ -16,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "jqueryscript"
-  - "jqueryscript"
 ---
 
 A terminal coding agent with support for OpenAI-, Gemini-, Claude-, and DeepSeek-based development workflows.

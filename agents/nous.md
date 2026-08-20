@@ -16,7 +16,6 @@ language: "TypeScript"
 homepage: "https://typedai.dev"
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [Nous](https://github.com/TrafficGuard/nous) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more. [github](https://github.com/TrafficGuard/nous)

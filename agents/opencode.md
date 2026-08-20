@@ -16,7 +16,6 @@ language: "TypeScript"
 homepage: "https://opencode.ai"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "tiennm"
 ---

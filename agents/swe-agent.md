@@ -17,7 +17,6 @@ language: "Python"
 homepage: "https://swe-agent.com"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "flatlogic"
   - "brad"
   - "ishandutta"

@@ -17,7 +17,6 @@ language: "TypeScript"
 homepage: "https://stagewise.io"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
 ---
 
 An agentic IDE with code editing, app previews, Git workflows, and support for models from multiple providers.

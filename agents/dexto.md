@@ -17,7 +17,6 @@ language: "TypeScript"
 homepage: "https://dexto.ai"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
 ---

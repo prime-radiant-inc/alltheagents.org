@@ -16,7 +16,6 @@ language: "Rust"
 homepage: "https://github.com/vinhnx/VTCode/wiki"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
 ---

@@ -16,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [Axflow](https://axflow.dev/) - Axflow is a TypeScript framework designed for AI development, offering a modular collection of tools for building natural language applications, and it emphasizes a code-first approach to simplify the integration of LLMs into scalable solutions [website](https://axflow.dev/) | [github](https://github.com/axflow/axflow)

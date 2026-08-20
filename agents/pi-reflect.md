@@ -15,7 +15,6 @@ language: "TypeScript"
 homepage: "https://www.npmjs.com/package/@jo-inc/pi-reflect"
 sources:
   - "brad"
-  - "brad"
 ---
 
 - **[pi-reflect](https://github.com/jo-inc/pi-reflect)** `⭐ 43` — Self-improving behavioral files for coding agents; automated self-reviews that evolve AGENTS.md rules from actual mistakes. MIT.

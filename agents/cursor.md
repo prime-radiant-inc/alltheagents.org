@@ -17,7 +17,6 @@ language: null
 homepage: "https://cursor.com"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
 ---
 
 An AI code editor with an agent that explores repositories, changes files, runs commands, and completes multi-step coding tasks.

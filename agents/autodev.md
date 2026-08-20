@@ -16,8 +16,6 @@ language: "Kotlin"
 homepage: "https://ide.unitmesh.cc/"
 sources:
   - "jim"
-  - "jim"
-  - "jim"
 ---
 
 - [AutoDev](https://github.com/unit-mesh/auto-dev) - AutoDev is an AI-powered coding assistant offering multilingual support, automatic code generation, and debugging assistance, featuring customizable prompts and specialized tools for development, testing, documentation, and the integration of custom AI agents, with a focus on experimenting and building AI agents using its UI framework [github](https://github.com/unit-mesh/auto-dev) | [docs](https://ide.unitmesh.cc)

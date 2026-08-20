@@ -16,7 +16,6 @@ language: "TypeScript"
 homepage: "https://qwenlm.github.io/qwen-code-docs/en/users/overview"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
   - "tiennm"

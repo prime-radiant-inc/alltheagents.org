@@ -16,9 +16,6 @@ language: "TypeScript"
 homepage: "https://www.kodu.ai"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
-  - "quome"
-  - "quome"
   - "quome"
 ---
 

@@ -16,7 +16,6 @@ language: "TypeScript"
 homepage: "https://freebuff.com"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
 ---
 

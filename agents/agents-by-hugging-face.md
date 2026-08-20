@@ -17,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [Agents by Hugging Face](https://huggingface.co/docs/transformers/main_classes/agent) - Hugging Face's Transformers Agents provide three main types: HfAgent for inference with open-source models, LocalAgent for using local models and tokenizers, and OpenAiAgent for access to OpenAI's closed models, enabling code generation and other AI tasks with varying levels of customization and local or remote execution [website](https://huggingface.co/docs/transformers/main_classes/agent)

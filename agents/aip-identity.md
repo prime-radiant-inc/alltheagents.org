@@ -18,7 +18,6 @@ language: "Python"
 homepage: "https://the-nexus-guard.github.io/aip/"
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [Aip-Identity](https://github.com/the-nexus-guard/aip) - Agent Identity Protocol (AIP) provides cryptographic identity (Ed25519/DID), vouch-based trust graphs, and end-to-end encrypted messaging for AI agents. CLI and Python SDK available on PyPI (`pip install aip-identity`) [github](https://github.com/the-nexus-guard/aip) | [website](https://the-nexus-guard.github.io/aip/) | [docs](https://aip-service.fly.dev/docs)

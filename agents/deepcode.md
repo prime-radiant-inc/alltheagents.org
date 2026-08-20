@@ -18,7 +18,6 @@ language: "Python"
 homepage: "http://arxiv.org/abs/2512.07921"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
 ---
 
 An agentic coding system that turns papers or specifications into code, websites, and backend implementations.

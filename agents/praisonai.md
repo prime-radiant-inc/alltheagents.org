@@ -17,7 +17,6 @@ language: "Python"
 homepage: "https://praison.ai/docs"
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI/) - Praison AI is a low-code, centralized framework leveraging AutoGen and CrewAI to simplify creating and orchestrating multi-agent systems for LLM applications, emphasizing customization and ease of human-agent interaction [github](https://github.com/MervinPraison/PraisonAI/) | [demo](https://www.youtube.com/watch?v=Fn1lQjC0GO0) | [website](https://mer.vin/2024/03/praison-ai-agents-yml/)

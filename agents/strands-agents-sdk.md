@@ -16,7 +16,6 @@ language: "Python"
 homepage: "http://strandsagents.com/"
 sources:
   - "jim"
-  - "jim"
   - "caramaschi"
 ---
 

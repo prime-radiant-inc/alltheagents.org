@@ -16,7 +16,6 @@ language: "Rust"
 homepage: null
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "caramaschi"
   - "ishandutta"

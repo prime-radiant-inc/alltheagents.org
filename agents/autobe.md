@@ -17,7 +17,6 @@ language: "TypeScript"
 homepage: "https://autobe.dev"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
 ---
 
 A backend coding agent that uses compiler-guided workflows to generate and validate TypeScript server applications.

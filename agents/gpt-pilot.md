@@ -16,10 +16,8 @@ language: "Python"
 homepage: null
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "flatlogic"
   - "e2b"
-  - "jim"
   - "jim"
   - "tiennm"
 ---

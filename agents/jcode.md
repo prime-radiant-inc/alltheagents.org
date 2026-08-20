@@ -16,7 +16,6 @@ language: "Rust"
 homepage: "https://jcode.sh"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
 ---
 

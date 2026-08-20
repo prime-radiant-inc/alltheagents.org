@@ -15,9 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-  - "jim"
-  - "jim"
-  - "jim"
 ---
 
 - [LLama Cpp Agent](https://github.com/Maximilian-Winter/llama-cpp-agent) - The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models. [github](https://github.com/Maximilian-Winter/llama-cpp-agent)

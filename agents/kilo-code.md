@@ -17,7 +17,6 @@ language: "TypeScript"
 homepage: "https://kilo.ai/"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
   - "tiennm"

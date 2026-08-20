@@ -18,7 +18,6 @@ language: "TypeScript"
 homepage: "https://openhands.dev"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "flatlogic"
   - "ishandutta"
   - "tiennm"

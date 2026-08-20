@@ -30,6 +30,21 @@ def main():
         with open(overrides_path, encoding="utf-8") as f:
             slug_overrides = json.load(f)
         print(f"Loaded {len(slug_overrides)} slug overrides from {overrides_path}")
+    
+    field_overrides_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "field_overrides.json")
+    field_overrides = {}
+    if os.path.exists(field_overrides_path):
+        with open(field_overrides_path, encoding="utf-8") as f:
+            field_overrides = json.load(f)
+        print(f"Loaded {len(field_overrides)} field overrides from {field_overrides_path}")
+    
+    source_urls_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "source_urls.json")
+    source_urls = {}
+    if os.path.exists(source_urls_path):
+        with open(source_urls_path, encoding="utf-8") as f:
+            source_urls = json.load(f)
+        print(f"Loaded {len(source_urls)} source URLs from {source_urls_path}")
+
     rows = list(csv.DictReader(open(TSV, encoding="utf-8"), delimiter="\t"))
     print(f"Read {len(rows)} entries from TSV")
     
@@ -53,7 +68,17 @@ def main():
             used_slugs[slug] = (name, r.get("maker", "").strip(), r.get("url", "").strip(), row_num)
         
         platforms = [p.strip() for p in (r.get("platforms", "") or "").split(";") if p.strip()]
-        sources = [s.strip() for s in (r.get("source_list", "") or "").split(",") if s.strip()]
+        sources = list(dict.fromkeys(s.strip() for s in (r.get("source_list", "") or "").split(",") if s.strip()))  # deduplicated, order preserved
+        
+        # Apply field overrides (e.g. correct wrong language from GitHub API)
+        if url in field_overrides:
+            for field, value in field_overrides[url].items():
+                if value is None:
+                    r[field] = ""
+                    print(f"  Override: cleared '{field}' for {name} ({url})")
+                else:
+                    r[field] = str(value)
+                    print(f"  Override: set '{field}' to '{value}' for {name} ({url})")
         
         # Build frontmatter manually (no PyYAML dependency)
         fm_lines = ["---"]
@@ -103,6 +128,8 @@ def main():
             "first_released": r.get("first_released","").strip() or None,
             "language": r.get("language","").strip() or None,
             "description": description[:200],
+            "sources": sources,
+            "source_urls": {s: source_urls.get(s) for s in sources if s in source_urls},
         })
     
     with open(os.path.join(DATA_DIR, "agents.json"), "w", encoding="utf-8") as f:

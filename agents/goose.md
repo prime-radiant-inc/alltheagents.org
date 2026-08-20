@@ -17,7 +17,6 @@ language: "Rust"
 homepage: "https://goose-docs.ai/"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
   - "tiennm"

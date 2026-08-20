@@ -15,7 +15,6 @@ language: "TypeScript"
 homepage: "https://quinnod345.github.io/context-engine/"
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [context-engine-ai](https://github.com/Quinnod345/context-engine) - A lightweight context engine for AI agents. Ingest events from any source, query with natural language, get ranked results with temporal decay and auto-deduplication. Zero config with SQLite + local TF-IDF embeddings, scales to pgvector + OpenAI. [github](https://github.com/Quinnod345/context-engine) | [npm](https://www.npmjs.com/package/context-engine-ai)

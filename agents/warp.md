@@ -17,7 +17,6 @@ language: "Rust"
 homepage: "https://warp.dev"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
   - "tiennm"

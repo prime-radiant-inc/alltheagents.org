@@ -17,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-  - "jim"
   - "caramaschi"
   - "vinkius"
 ---

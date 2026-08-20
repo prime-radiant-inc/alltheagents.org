@@ -20,7 +20,6 @@ homepage: "https://deerflow.tech"
 sources:
   - "brad"
   - "caramaschi"
-  - "caramaschi"
 ---
 
 - **[DeerFlow](https://github.com/bytedance/deer-flow)** `⭐ 80.1k` `[ByteDance]` — Long-horizon super-agent harness orchestrating sub-agents, skills, memory, and sandboxes; ships a `deerflow` terminal workbench (Textual TUI plus headless `--print`) alongside its web UI and IM channels. Agent work is confined to a per-thread sandbox workspace unless you declare host mounts in config. MIT.

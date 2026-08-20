@@ -16,7 +16,6 @@ language: "TypeScript"
 homepage: "https://www.letta.com/agent"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "ishandutta"
 ---

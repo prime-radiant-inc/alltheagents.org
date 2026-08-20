@@ -16,7 +16,6 @@ language: "TypeScript"
 homepage: "https://dyad.sh"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "caramaschi"
   - "tiennm"
 ---

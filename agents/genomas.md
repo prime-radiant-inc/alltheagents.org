@@ -15,7 +15,6 @@ language: "Python"
 homepage: "https://liu-hy.github.io/GenoMAS/"
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [GenoMAS](https://github.com/Liu-Hy/GenoMAS) - A multi-agent framework for scientific discovery that automates gene expression analysis through code-driven workflows. [github](https://github.com/Liu-Hy/GenoMAS)

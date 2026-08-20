@@ -15,7 +15,6 @@ language: "Python"
 homepage: "https://docs.agentscope.io/"
 sources:
   - "jim"
-  - "jim"
   - "caramaschi"
 ---
 

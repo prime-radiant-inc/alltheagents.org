@@ -16,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [PlayAI](https://play.ai/) - Play.ai offers conversational AI voice solutions, with a mission to enable customizable, natural language-based user interfaces, promoting rapid innovation and a performance-driven culture [website](https://play.ai/)

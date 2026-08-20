@@ -12,10 +12,9 @@ platforms:
 first_released: "2025-02-22"
 current_release: "2026-08-20"
 stars: null
-language: "Python"
+language: null
 homepage: "https://code.claude.com/docs/en/overview"
 sources:
-  - "jqueryscript"
   - "jqueryscript"
   - "brad"
   - "tiennm"

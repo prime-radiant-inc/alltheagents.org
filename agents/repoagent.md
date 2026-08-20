@@ -15,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [RepoAgent](https://github.com/OpenBMB/RepoAgent) - An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly. [github](https://github.com/OpenBMB/RepoAgent)

@@ -16,7 +16,6 @@ language: "Python"
 homepage: "https://docs.langchain.com/deepagents"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
 ---
 

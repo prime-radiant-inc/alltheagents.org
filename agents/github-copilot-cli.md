@@ -16,7 +16,6 @@ language: "Shell"
 homepage: null
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
   - "tiennm"
 ---

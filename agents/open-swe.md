@@ -17,7 +17,6 @@ language: "Python"
 homepage: "https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
 ---
 
 An asynchronous coding agent that works on repository tasks in isolated environments and returns reviewable changes.

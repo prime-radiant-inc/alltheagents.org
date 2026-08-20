@@ -18,9 +18,7 @@ language: "TypeScript"
 homepage: "https://discord.gg/uMaGSHNjzc"
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "brad"
-  - "jim"
   - "jim"
   - "ishandutta"
 ---

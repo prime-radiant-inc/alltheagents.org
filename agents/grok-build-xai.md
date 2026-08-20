@@ -15,8 +15,6 @@ language: null
 homepage: null
 sources:
   - "caramaschi"
-  - "caramaschi"
-  - "caramaschi"
 ---
 
 | [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. Multi-agent "Society of Mind" architecture. | xAI sub |

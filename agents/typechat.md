@@ -15,7 +15,6 @@ language: "TypeScript"
 homepage: "https://microsoft.github.io/TypeChat/"
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that facilitates building natural language interfaces by using schema engineering as an alternative to traditional function calling in LLMs, avoiding JSON schema-based constraints [github](https://github.com/microsoft/TypeChat)

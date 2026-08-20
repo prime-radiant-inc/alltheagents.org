@@ -18,10 +18,8 @@ language: "Python"
 homepage: null
 sources:
   - "jqueryscript"
-  - "jqueryscript"
   - "e2b"
   - "brad"
-  - "jim"
   - "jim"
   - "ishandutta"
 ---

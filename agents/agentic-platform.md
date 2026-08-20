@@ -16,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-  - "jim"
 ---
 
 - [Agentic-Platform](https://github.com/bonk1t/agentic-platform) - AI Agent Automation Platform - Rapidly prototype, test, and deploy Multi-Agent Systems from your browser.
