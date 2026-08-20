@@ -1065,3 +1065,11 @@ Ralph TUI,Ralph TUI,MIT,https://terminaltrove.com/compare/ai-coding-agents/ralph
 Poolside Agent CLI,Poolside AI,Proprietary,https://terminaltrove.com/compare/ai-coding-agents/poolside-agent-cli/,,No (proprietary),Poolside AI's CLI coding agent,CLI,,,,,,alternatives_search
 Qoder CLI,Qoder,Proprietary,https://terminaltrove.com/compare/ai-coding-agents/qoder-cli/,,No (proprietary),"Qoder CLI coding agent, terminal-based",CLI,,,,,,alternatives_search
 Auggie CLI,Augment Code,Proprietary,https://terminaltrove.com/compare/ai-coding-agents/auggie-cli/,,No (proprietary),Augment Code's CLI coding agent,CLI,,,,,,alternatives_search
+Blackbox AI CLI,Blackbox AI,Proprietary,https://terminaltrove.com/compare/ai-coding-agents/blackbox-ai-cli/,,No (proprietary),"Blackbox AI CLI coding agent, terminal-based version",CLI,,,,,,terminaltrove
+Cline CLI,Cline,Apache-2.0,https://terminaltrove.com/compare/ai-coding-agents/cline-cli/,https://github.com/cline/cline,Yes,"Cline CLI coding agent, terminal-based version of Cline",CLI,,,,,,terminaltrove
+Devin for Terminal,Cognition AI,Proprietary,https://terminaltrove.com/compare/ai-coding-agents/devin-for-terminal/,,No (proprietary),Devin terminal-based coding agent,CLI,,,,,,terminaltrove
+Grok Build CLI,xAI,Apache-2.0,https://terminaltrove.com/compare/ai-coding-agents/grok-build-cli/,https://github.com/xai-org/grok-build,Yes,"Grok Build CLI coding agent, terminal-based",CLI,,,,,,terminaltrove
+Jules CLI,Google,Proprietary,https://terminaltrove.com/compare/ai-coding-agents/jules-cli/,,No (proprietary),"Jules CLI coding agent, terminal-based version of Google Jules",CLI,,,,,,terminaltrove
+Kiro CLI,Kiro Inc,Proprietary,https://terminaltrove.com/compare/ai-coding-agents/kiro-cli/,,No (proprietary),"Kiro CLI coding agent, terminal-based version of Kiro IDE",CLI,,,,,,terminaltrove
+OpenHands CLI,OpenHands,MIT,https://terminaltrove.com/compare/ai-coding-agents/openhands-cli/,https://github.com/OpenHands/OpenHands-CLI,Yes,"OpenHands CLI coding agent, terminal-based",CLI,,,,,,terminaltrove
+AutoHand,AutoHand,Apache-2.0,https://terminaltrove.com/compare/ai-coding-agents/autohand/,,No (proprietary),"AutoHand AI coding agent, terminal-based",CLI,,,,,,terminaltrove

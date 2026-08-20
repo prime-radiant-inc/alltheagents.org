@@ -1,6 +1,6 @@
 # Coding Agent Harnesses — Comprehensive List
 
-**Total entries: 1066**
+**Total entries: 1074**
 
 This table catalogs coding agent harnesses — systems that let an LLM autonomously write, modify, debug, or run code. Sources: e2b-dev/awesome-ai-agents, jqueryscript/awesome-coding-agent, bradAGI/awesome-cli-coding-agents, flatlogic/awesome-ai-software-development-agents, and GitHub topic searches (coding-agent, ai-coding-agent, code-agent, etc.). GitHub metadata enriched via GitHub API.
 
@@ -8,13 +8,13 @@ This table catalogs coding agent harnesses — systems that let an LLM autonomou
 
 | Field | Filled | Coverage |
 |-------|--------|----------|
-| Name | 1066 | 100% |
-| Maker | 973 | 91% |
-| License | 787 | 73% |
-| URL | 1066 | 100% |
-| Source code URL | 871 | 81% |
-| First released | 910 | 85% |
-| Stars | 823 | 77% |
+| Name | 1074 | 100% |
+| Maker | 981 | 91% |
+| License | 795 | 74% |
+| URL | 1074 | 100% |
+| Source code URL | 874 | 81% |
+| First released | 910 | 84% |
+| Stars | 823 | 76% |
 
 ## Full Table
 
@@ -1086,3 +1086,11 @@ This table catalogs coding agent harnesses — systems that let an LLM autonomou
 | 1064 | Poolside Agent CLI | Poolside AI | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/poolside-agent-cli/ | — | Poolside AI's CLI coding agent | CLI | — | — | — |
 | 1065 | Qoder CLI | Qoder | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/qoder-cli/ | — | Qoder CLI coding agent, terminal-based | CLI | — | — | — |
 | 1066 | Auggie CLI | Augment Code | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/auggie-cli/ | — | Augment Code's CLI coding agent | CLI | — | — | — |
+| 1067 | Blackbox AI CLI | Blackbox AI | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/blackbox-ai-cli/ | — | Blackbox AI CLI coding agent, terminal-based version | CLI | — | — | — |
+| 1068 | Cline CLI | Cline | Apache-2.0 | https://terminaltrove.com/compare/ai-coding-agents/cline-cli/ | https://github.com/cline/cline | Cline CLI coding agent, terminal-based version of Cline | CLI | — | — | — |
+| 1069 | Devin for Terminal | Cognition AI | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/devin-for-terminal/ | — | Devin terminal-based coding agent | CLI | — | — | — |
+| 1070 | Grok Build CLI | xAI | Apache-2.0 | https://terminaltrove.com/compare/ai-coding-agents/grok-build-cli/ | https://github.com/xai-org/grok-build | Grok Build CLI coding agent, terminal-based | CLI | — | — | — |
+| 1071 | Jules CLI | Google | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/jules-cli/ | — | Jules CLI coding agent, terminal-based version of Google Jules | CLI | — | — | — |
+| 1072 | Kiro CLI | Kiro Inc | Proprietary | https://terminaltrove.com/compare/ai-coding-agents/kiro-cli/ | — | Kiro CLI coding agent, terminal-based version of Kiro IDE | CLI | — | — | — |
+| 1073 | OpenHands CLI | OpenHands | MIT | https://terminaltrove.com/compare/ai-coding-agents/openhands-cli/ | https://github.com/OpenHands/OpenHands-CLI | OpenHands CLI coding agent, terminal-based | CLI | — | — | — |
+| 1074 | AutoHand | AutoHand | Apache-2.0 | https://terminaltrove.com/compare/ai-coding-agents/autohand/ | — | AutoHand AI coding agent, terminal-based | CLI | — | — | — |
