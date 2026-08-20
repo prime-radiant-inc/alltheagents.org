@@ -1,0 +1,35 @@
+upstash/context7	60986	Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+RooCodeInc/Roo-Code	24331	Roo Code gives you a whole dev team of AI agents in your code editor.
+nexu-io/html-anything	8349	✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
+purocean/yn	6734	A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
+21st-dev/magic-mcp	5695	It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st MCP; this package keeps old configs working. Setup: 21st.dev/mcp
+athasdev/athas	3021	A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.
+hanshuaikang/nezha	1872	Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.
+Zoo-Code-Org/Zoo-Code	1661	Zoo Code gives you a whole dev team of AI agents in your code editor.
+editor-code-assistant/eca	968	Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
+we0-dev/we0	925	we0 is an AI code editor for development programmers and product managers. same v0, bolt.new,lovable
+Natfii/UnrealClaude	883	Claude Code CLI integration for Unreal Engine 5.7 - Get AI coding assistance with built-in UE5.7 documentation context directly in the editor.
+zhitongblog/solomd	873	A markdown editor — and the bridge to your LLM. Local-first, MIT, ~15 MB. Bundled MCP server lets Claude Code / Codex / Cursor drive your vault directly. 14 AI providers BYOK.
+DevCoreXOfficial/core-termux	399	Turn Termux into a complete development workstation with AI coding agents, a modern code editor, databases, automation, and developer tools.
+ascorbic/am-i-vibing	346	Detect agentic coding environments and AI editors
+FlamxGames/godot-ai-assistant-hub	298	Embed AI assistants in Godot with the ability to read and write code in Godot's Code Editor.
+tom-doerr/vim_codex	286	Supercharge your Vim editor with AI-powered code completion using OpenAI Codex. Boost productivity and save time with intelligent suggestions.
+nuskey8/UnityAgentClient	275	Provides integration of any AI agent (Gemini CLI, Claude Code, Codex CLI, etc.) with the Unity editor using Agent Client Protocol
+Exafunction/codeium-react-code-editor	274	AI-enabled code editor for React. Unlimited AI autocomplete capabilities with full Typescript support.
+tomlin7/biscuit	264	biscuit is a native, extensible, AI code editor. lightweight <20 mb in size. install and start using in seconds.
+Hainrixz/editor-pro-max	223	AI-powered video editor by @soyenriquerocha — built with Remotion + Claude Code. Describe videos in natural language, get professional MP4s. 25 components, 9 templates, 7 skills.
+risa-labs-inc/BossConsole	222	Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.
+AppGram/agentnotch	211	AgentNotch is a sleek macOS menu bar app that lives in your Mac's notch, providing real-time visibility into your AI coding assistants. Watch as Claude Code and OpenAI Codex think, read files, and execute tools — all without leaving your editor.
+blackboardsh/colab	203	Co(lab) is a hybrid web browser + local code editor with integrated PTY Terminal and AI designed for startup builders who need to move fast.
+softdaddy-o/soft-ue-cli	202	Python CLI + UE plugin that lets Claude Code (AI coding agent) control Unreal Engine in real time. Spawn actors, edit blueprints, call functions, capture screenshots, manage PIE sessions, and more -- all from the terminal. Works with UE5 editor and packaged builds via an in-process HTTP bridge.
+Glade-tool/glade-mcp	196	Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 235+ granular tools, an editor aware system prompt, game design document project context, script semantic search, and skill calibration.
+oi-overide/oi	192	Overide (pronounced over·ide) is a lightweight, yet powerful CLI tool that seamlessly integrates AI-powered code generation into your development workflow. It works platform-agnostically with OpenAI, DeepSeek, and Groq to provide intelligent code updates directly in your preferred code editor - no extensions required.
+sinberCS/switch2ai	173	switch2ai - A JetBrains IDE plugin enabling seamless collaboration between JetBrains IDEs and various AI agents (Cursor, Qoder, Claude code etc.). Key features include instant switching between different AI editors, rapid AI prompt input with AI selection, and fully custom commands with variable support for enhanced AI collaboration workflow.
+tahabasri/snippets	170	Supercharge your Snippets in VS Code — Manage your code snippets & AI prompts without quitting your editor.
+RooCodeInc/Roo-Code-Docs	160	This is the documentation for Roo Code, an AI-powered autonomous coding agent that lives in your editor.
+IsRengel/InstallCursorEditorLinux	160	矢印 | Cursor AI Code Editor, installer and setup in Linux  ➤
+Aestheticsuraj234/vibecode-playground	145	Vibecode Editor is a fullstack, web-based IDE built with Next.js and Monaco Editor. It features real-time code execution using WebContainers, AI-powered code suggestions via locally running Ollama models, multi-stack templates, an integrated terminal, and a developer-focused UI for seamless coding in the browser.
+optimistengineer/remoat	139	Control your AI code editor from anywhere — right from Telegram.
+Cassette-Editor/oh-my-cassette	138	你的随身 AI 剪辑搭档 | Pocket AI co-editor for video montage — AI video editing plugin & MCP server for Claude Code, Codex, Hermes & OpenCode
+trypear/pear-landing-page	117	Landing page for PearAI, the Open Source AI Code Editor
+HelpFreedom/kadr	114	AI-native GPU-accelerated video editor with Claude Code built into the timeline

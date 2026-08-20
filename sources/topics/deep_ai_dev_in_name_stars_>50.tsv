@@ -1,0 +1,100 @@
+e2b-dev/awesome-ai-agents	29568	A list of AI autonomous agents
+smol-ai/developer	12186	the first library to let you embed a developer agent in your own app!
+jomjol/AI-on-the-edge-device	8597	Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
+snarktank/ai-dev-tasks	7790	A simple task management system for managing AI dev agents
+xlite-dev/lite.ai.toolkit	4422	A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion.
+oracle-devrel/oracle-ai-developer-hub	4339	Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services
+jamesmurdza/awesome-ai-devtools	3917	Curated list of AI-powered developer tools.
+Gracker/awesome-android-ai-dev-sources	1893	这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善! 欢迎自荐......
+jina-ai/dev-gpt	1868	Your Virtual Development Team
+databricks-solutions/ai-dev-kit	1856	Databricks Toolkit for Coding Agents provided by Field Engineering
+ai-hero-dev/ai-hero	1773	AI Hero's open-source examples and course material. Learn AI Engineering with a single repo.
+aip-dev/google.aip.dev	1616	API Improvement Proposals. https://aip.dev/
+codeaholicguy/ai-devkit	1584	The control plane for AI coding agents.
+microsoft/ai-dev-gallery	1492	An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
+devv-ai/devv	1484	An AI-powered search engine for developers.
+VersusControl/devops-ai-guidelines	1408	First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines
+mishl-dev/Discord-AI-Chatbot	1363	This Discord chatbot is incredibly versatile. Powered incredibly fast Groq API
+Yuan-ManX/ai-game-devtools	1308	Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
+DataTalksClub/ai-dev-tools-zoomcamp	1229	A free, hands-on course on using AI developer tools to build, test, deploy, extend, and audit software without losing engineering discipline. The 2026 cohort starts August 31.
+e2b-dev/awesome-ai-sdks	1211	A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
+jerry-ai-dev/MODULAR-RAG-MCP-SERVER	1093	A modular RAG (Retrieval-Augmented Generation) system with MCP Server architecture. Using Skill to make AI follow each step of the spec and complete the code 100% by AI.
+simoninithomas/awesome-ai-tools-for-game-dev	1029	A curated list of awesome AI tools for game developers
+TechNomadCode/AI-Product-Development-Toolkit	939	User-Centered Product Development Prompt Templates & Agent Configurations
+iam-veeramalla/ai-assisted-devops	886	Learn how DevOps Engineers can use Gen AI to enhance their productivity in day to day tasks.
+gety-ai/apple-on-device-openai	884	OpenAI-compatible API server for Apple on-device models
+RoseCityRobotics/ai-developer-resources	766	I am Duncan, a cofounder at Rose City Robotics. This public repository is used as an easy to update list of resources for AI developers including technical courses, books, and tutorials on artificial intelligence, deep learning and machine learning. PRs welcome!
+syncora-ai/Synthetic-AI-Developer-Productivity-Dataset	657	High-fidelity synthetic dataset capturing AI developer productivity metrics — including focus hours, task completion rates, and burnout indicators. Privacy-safe, ideal for ML and workflow analytics.
+codefuse-ai/codefuse-devops-eval	656	Industrial-first evaluation benchmark for  LLMs in the DevOps/AIOps domain.
+PaulDuvall/ai-development-patterns	638	A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations patterns with practical examples and anti-patterns.
+AI-Dev-Lex-Kim/Frontend_TIL	564	실력있는 프론트엔드 개발자가 되기 위한 TIL
+eltociear/awesome-AI-driven-development	514	Awesome list of AI-Driven Development.
+codefuse-ai/CodeFuse-DevOps-Model	507	DevOps-Models is a series of industrial-first LLMs for theDevOps domain. Asking it for any question in the DevOps domain to get solution!
+intrinsic-dev/aic	466	Toolkit for the AI for Industry Challenge
+posit-dev/air	442	R formatter and language server
+ai-driven-dev/framework	432	Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC
+Varietyz/Disciplined-AI-Software-Development	404	A disciplined methodology for AI-assisted software development. Covers architectural constraints, validation hooks, session governance, and PAG (Pattern Abstract Grammar) for structured AI collaboration. Copy claude-setup/ into your project to start.
+docker/labs-ai-tools-for-devs	393	Your trusted home for discovering MCP tools – seamlessly integrated into Docker
+devchat-ai/devchat	392	AI workflows generated with natural language
+Sean-V-Dev/HMLR-Agentic-AI-Memory-System	383	Living memory for AI
+e2b-dev/ai-analyst	380	Open source AI analyst powered by E2B. Analyze your CSV files with Llama 3.1 and create interactive charts.
+FareedKhan-dev/Multi-Agent-AI-System	373	Building a Multi-Agent AI System with LangGraph and LangSmith
+zinedkaloc/aipage.dev	353	Open-source AI Landing page generator for everyone!
+FareedKhan-dev/optimize-ai-agent-memory	342	9 Different Ways to Optimize AI Agent Memories
+Galaxies-dev/airbnb-clone-react-native	338	This is a React Native AirBnB clone using Clerk for user authentication.
+Mng-dev-ai/agentrove	316	Self-hosted AI coding workspace to run and orchestrate Claude Code, Codex, Copilot, Cursor, Grok and OpenCode agents — multi-agent workflows, personas, and ACP-powered sandboxes
+Code4Delphi/Delphi-AI-Developer	307	Delphi Ai Developer, this plugin adds AI-powered interaction capabilities to the Delphi IDE
+Qais-Hweidi/ai-assisted-development-guide	300	Practical tips for effective AI-assisted software development
+developersdigest/ai-devices	292	AI Device Template Featuring Whisper, TTS, Groq, Llama3, OpenAI and more
+LIDR-academy/AI4Devs-LTI-extended	274	Repository with several experiments from live sessions
+pavel-molyanov/molyanov-ai-dev	274	Intent-driven AI-First development methodology for Claude Code and Codex — Project Knowledge, user-spec planning, focused execution, and evidence-gated reviews.
+aio-libs/aiohttp-devtools	267	dev tools for aiohttp
+https-deeplearning-ai/sc-spec-driven-development-files	266	All materials needed to follow along with the Spec-Driven Development with Coding Agents course, built in partnership with JetBrains
+ai-hero-dev/ai-sdk-v6-crash-course	266	57 exercises to master Vercel's AI SDK v5, from Matt Pocock
+ai-hero-dev/poland-ai-ts-workshop	260	52 exercises on AI + TypeScript, for Matt's workshop in Poland
+asiff00/On-Device-Speech-to-Speech-Conversational-AI	257	This is an on-CPU real-time conversational system for two-way speech communication with AI models, utilizing a continuous streaming architecture for fluid conversations with immediate responses and natural interruption handling. 
+aiscript-dev/aiscript	242	🔋 A lightweight scripting language runing on JavaScript
+daydy-dev/moon-dev-ai-agents-for-trading	235	ai agents for trading
+npmstudy/indie-dev-with-ai	233	独立开发者的最佳技术栈
+FareedKhan-dev/AI-text-to-video-model-from-scratch	233	In this blog, we will build a small scale text-to-video model from scratch. We will input a text prompt, and our trained model will generate a video based on that prompt.
+williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate	217	DeepLearning.AI TensorFlow Developer Professional Certificate
+ai-driven-dev/prompts	211	
+aichinateam/chinese-ai-developer	209	👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国 AI 开发者项目列表 -- 分享大家都在做什么
+vishakhasadhwani/devops-ai-playbook	198	
+jeho-lee/Awesome-On-Device-AI-Systems	181	
+flatlogic/awesome-ai-software-development-agents	180	Awesome List of AI Software Development Agents (Engineers)
+sunija-dev/aiimages	179	A Unity UI and easy installer for Stable Diffusion.
+ai-driven-dev/ai-driven-dev-community	170	A collection of tools, prompts, snippets and agents for developers that use AI, daily.
+Meridius-Labs/apple-on-device-ai	166	 Apple foundation model bindings for NodeJS (supports Vercel AI SDK)
+AzureCosmosDB/Azure-OpenAI-Python-Developer-Guide	162	Azure Cosmos DB + Azure OpenAI Python Developer Guide
+jp1017/Android-Development-Aircraft-Carrier	157	打造安卓开发航空母舰，Android Studio 使用集锦
+ahmedkhan1/ngx-ai-devtools	155	Floating DevTools panel that intercepts OpenAI, Anthropic, Gemini, Mistral, Groq, and Cohere calls in your Angular app and shows you the prompt, response, tokens, cost, and tool use.
+Arman-Kudaibergenov/1c-ai-development-kit	155	Comprehensive AI agents, skills and rules toolkit for 1C:Enterprise development in Cursor IDE
+jomjol/AI-on-the-edge-device-docs	153	Github for hosting the documentation for the project: https://github.com/jomjol/AI-on-the-edge-device
+AnkitNayak-dev/CrawlAI-RAG	153	CrawlAI RAG is an AI-powered website intelligence platform that allows users to crawl entire websites, index their content, and ask natural-language questions using Retrieval-Augmented Generation (RAG).  It transforms static websites into queryable knowledge bases.
+yuyou-dev/AI-Director	153	AI导演课
+AndreevED/1c-ai-feature-dev-workflow	153	AI-воркфлоу для разработки доработок 1С: анализ, архитектура, код, ревью
+photon-hq/rapid-ai-dev	148	Toolkit for rapid AI and agent prototyping
+ikramhasan/AI-Dev-Scripts	135	Streamline Coding & Speed Up Dev Process. Your Own Personal Senior Engineer For Free!
+jiemobasixiangcai/ai-develop-assistant	133	协助AI初级开发者的mcp
+microsoft/vision-ai-developer-kit	131	Vision AI Developer Kit Preview
+microsoft/ai-developer	130	This repository contains hackathon challenges for Semantic Kernel.
+PolymathWizard/BHIL-AI-First-Development-Toolkit	130	A production-grade methodology repository for building AI-native applications using iterative sprints, where AI coding agents are primary implementors and humans are architects, reviewers, and decision-makers.
+ai-hero-dev/cohort-003-project	128	
+airbadge-dev/airbadge	125	
+CodeAlive-AI/ai-driven-development	124	Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, OpenCode, Cursor, Antigravity, and any agent supporting the Agent Skills standard.
+HeXinjian-dev/AI-Aimbot-Assistant	124	这是一份ai自瞄项目，利用dxgi截图，GPU纹理映射实现低延迟零拷贝，传给yolo模型推理，N卡用户可以用tensorrt加速，全链路延迟可以压缩至4ms以内，支持kmbox及系统两项调用。（仅供学习交流）
+devswarm-ai/devswarm	123	DevSwarm is an AI Development Environment (ADE) for parallel coding with multiple AI assistants. Bring your own LLM. Move fast while building right.
+0xNikoDev/robinhood-ai-dev-sniper	123	🏹 RobinHood — AI Dev Sniper: Go sniper & trading panel for Robinhood Chain (Arbitrum-Orbit L2, id 4663). Boundary-race launch sniping via pre-signed on-chain relay volleys, Uniswap V3, dev-buy-band + storm-gate auto-sniper, trailing exit, multi-wallet pool, one-tx token launch. By TokenLab · t.me/TokenLabPW
+yolojewjitsu/moon-dev-ai-agents	119	autonomous ai agents in python for trading
+sethshoultes/Manual-for-AI-Development-Collaboration	119	A comprehensive manual for collaborating with AI development tools
+NVIDIA-AI-IOT/jetson-device-skills	119	Foundational Agent Skills for NVIDIA Jetson Device
+me-no-dev/OpenAI-ESP32	118	OpenAI Library for ESP32 Arduino
+MaheshBabu11/DeepLearning.AI-TensorFlow-Developer-Course	116	DeepLearning.AI TensorFlow Developer Professional Certificate -Coursera
+0xNikoDev/PumpFun-AI-Dev-Sniper	116	AI deving autopilot for pump.fun on Solana — Twitter-driven auto-deploys, top-dev mirroring, multi-wallet Jito sniping & real-time monitoring
+Atrayee-dev/secure-ai-agent-boundary	115	Secure AI Engineering Framework 2026: Data-Boundary Security for Frontier Models
+xriley/devAid-Theme	114	FREE Bootstrap 5 Template for Developers' Side Perojects
+cohere-ai/cohere-developer-experience	113	Docs, Snippets, Guides
+zhiming-dev/EmoAiV2-PiT	112	
+CurvedLightGroup/MoonDev-Trading-Ai-Agents	109	
+DmitrL-dev/AISecurity	109	AI Security Platform: Defense (61 Rust engines + Micro-Model Swarm) + Offense (39K+ payloads) 

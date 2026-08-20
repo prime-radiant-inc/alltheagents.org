@@ -1,0 +1,116 @@
+Aestheticsuraj234/vibecode-playground	145	Vibecode Editor is a fullstack, web-based IDE built with Next.js and Monaco Editor. It features real-time code execution using WebContainers, AI-powered code suggestions via locally running Ollama models, multi-stack templates, an integrated terminal, and a developer-focused UI for seamless coding in the browser.	code editor
+affaan-m/claude-swarm	322	Multi-agent orchestration for Claude Code — decompose tasks, coordinate agents, visualize everything in a rich terminal UI	multi-agent
+agent-era/devteam	264	Run a team of local coding agents in your terminal. Launch multiple Claude Code, Codex or Gemini agents, switch between them, review their changes and add comments, and push PRs  all from one streamlined terminal UI. An exercise to push how fast development can happen with multiple parallel agents. Mostly vibe-coded	coding agent
+AlgoNoRhythm/Flare	112	The graph based agentic IDE	agentic ide
+Amal-David/pagecast	187	Publish HTML, Markdown and static mini apps to shareable Cloudflare Pages URLs from the terminal or coding agents.	coding agent
+approximatelabs/sketch	2284	AI code-writing assistant that understands data content	ai code
+Atrayee-dev/secure-ai-agent-boundary	115	Secure AI Engineering Framework 2026: Data-Boundary Security for Frontier Models	ai engineer
+bawadou/ai-data-extractor	388	Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.	coding assistant
+bbarit/terminal	33	BBARIT Terminal (빠릿터미널) — free AI vibe coding IDE, terminal & agent in one, built 100% in Rust. Ships ⚡ BBARIT Agent (built-in coding agent with a verify loop) + a 🦌 dev↔review AI pair, runs Claude, Codex, Gemini, Kimi, Qwen & Ollama side by side, and edits Word/Excel/PowerPoint. macOS & Windows. Free.	coding agent
+benthecoder/yt-channels-DS-AI-ML-CS	1619	A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.	software engineer
+catatafishen/agentbridge	71	JetBrains IDE plugin that gives AI coding agents full IDE access	coding agent
+chaitin/MonkeyCode	4481	AI coding platform for teams	ai coding
+ChenChenyaqi/learn-anything	404	Learn Anything is an AI-powered recursive learning system — Socratic deep-dives and TDD-style exercises integrated directly into your coding assistant.	coding assistant
+china-qijizhifeng/agentic-harness-engineering	838	Official AHE code — Agentic Harness Engineering: observability-driven automatic evolution of coding-agent harnesses (concurrent w/ meta-harness). NexAU-AHE reaches 84.7% ± 2.1 pass@1 on Terminal-Bench 2 (GPT-5.5). Lifts GPT-5.4 69.7→77.0% over 10 iters, beats Codex/ACE/Training-Free GRPO; frozen harness transfers to SWE-bench-Verified.	agent harness
+Choeng-Rayu/rayu-cli	36	Open-source AI coding agent CLI with multi-provider support, local models, MCP, and specialized AI agents.	coding agent
+Code4Delphi/Delphi-AI-Developer	307	Delphi Ai Developer, this plugin adds AI-powered interaction capabilities to the Delphi IDE	ai developer
+codeaashu/claude-code	3246	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.	codebase
+codeaholicguy/ai-devkit	1584	The control plane for AI coding agents.	coding agent
+codehamr/codehamr	207	A minimal, local-first coding agent for the terminal.	coding agent
+coleam00/mcp-crawl4ai-rag	2240	Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistants	coding assistant
+cortexkit/aft	254	Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, semantic search, code health, fast grep/glob, bash compression, background tasks, PTY.	coding agent
+cosai-oasis/project-codeguard	313	Project CodeGuard is an open-source, model-agnostic security framework that embeds secure-by-default practices into AI coding agent workflows. It provides comprehensive security rules that guide AI assistants to generate more secure code automatically.	coding agent
+Crustocean/conch	34	🦞 Cloud coding agent built on Crustocean	coding agent
+danilofalcao/jarvis	641	J.A.R.V.I.S. is an intelligent coding assistant that leverages multiple state-of-the-art language models to help you with code generation, modifications, and technical discussions.	coding assistant
+danshapiro/freshell	93	The Agentic IDE (or, the loving child of tmux and claude code)	agentic ide
+dansiegel/CodeGenHelpers	107	The CodeGenHelpers is meant to help anyone who is working on C# CodeGenerator	codegen
+databricks-solutions/ai-dev-kit	1856	Databricks Toolkit for Coding Agents provided by Field Engineering	coding agent
+dog-qiuqiu/invincat	153	A native Python agent CLI built on DeepAgents CLI, featuring an independent memory Agent that captures learnings after each task and delivers efficient AI coding assistance through hierarchical memory management.	ai coding
+Doriandarko/deepseek-engineer	2239	A powerful coding assistant application that integrates with the DeepSeek API to process user conversations and generate structured JSON responses. Through an intuitive command-line interface, it can read local file contents, create new files, and apply diff edits to existing files in real time.	coding assistant
+dreamide/dream	41	Frontier IDE built for AI coding.	ai coding
+echoVic/blade-code	175	AI-powered CLI coding agent with 20+ built-in tools, MCP support, and multi-model providers	coding agent
+editor-code-assistant/eca-emacs	485	Editor Code Assistant (ECA) integration for Emacs	code assistant
+EmilianoMusso/EntwineLLM	37	Local LLM coding assistant extension for Visual Studio	coding assistant
+ezyang/codemcp	1607	Coding assistant MCP for Claude Desktop	coding assistant
+Fission-AI/OpenSpec	65558	Spec-driven development (SDD) for AI coding assistants.	coding assistant
+get-bb/bb	2394	The agent IDE that builds itself	agent ide
+getkimchi/kimchi	2185	Terminal coding agent powered by Kimchi's multi-model orchestration 	coding agent
+GitHpriyanshu23/Clawde_Code	169	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.	codebase
+golutra/golutra	3825	Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.	multi-agent
+griddynamics/rosetta	335	An instruction layer for AI coding agent	coding agent
+Grik-ai/ricochet	55	Ricochet is the first hybrid coding agent that lives in your IDE and your pocket. Code autonomously with a powerful VS Code assistant, then switch to Ether Mode to control your development environment remotely via messenger. Build, debug, and deploy from anywhere.	coding agent
+gszhangwei/open-spdd	727	A SPDD AI Coding Assistant Command Template Manager	coding assistant
+h0x91b/dev-3.0	246	Mission control for the One Person Studio — run a fleet of AI coding agents in parallel without losing your mind. Kanban + git worktrees + tmux for Claude Code, Codex, Gemini CLI, OpenCode and any shell agent. Not an IDE.	coding agent
+Haleclipse/Codex-JetBrains	125	Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment.	coding agent
+Hardik180704/NeoCode	45	NeoCode is a terminal based AI coding agent IDE	coding agent
+Hermes-Lekkas/Kalynt	45	Privacy-First AI IDE - Autonomous Agentic AI, Local LLMs, and Encrypted Real-Time Collaboration	autonomous agent
+hint-lab/deeptrans-studio	177	DeepTrans Studio is a multi-agent intelligent translation platform for professional localization teams. It unifies a translation IDE, terminology and translation memory, AI‑assisted quality evaluation, and workflow automation, delivering end‑to‑end project management from document parsing and segment editing to collaboration and final delivery. 	multi-agent
+inkeep/agents	1377	Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.	multi-agent
+IsRengel/InstallCursorEditorLinux	160	矢印 | Cursor AI Code Editor, installer and setup in Linux  ➤	code editor
+jacopone/antigravity-nix	160	Auto-updating Nix package for Google Antigravity agentic IDE. Updates 3x/week. FHS environment with overlay support for NixOS/Home Manager.	agentic ide
+jbaron/cats	404	Code Assistant for TypeScript	code assistant
+JuliusBrussee/cavemem	674	Frozen — cross-agent persistent memory for coding assistants. Still works; the compressed-memory core now ships inside JuliusBrussee/caveman.	coding assistant
+junkyard22/Orca	39	Multi-role AI orchestration runtime for Windows. Quality-gated pipeline (Brain → Miranda → Pappy → Benson) with MCP support, SQLite persistence, and a self-improving distillation loop. Coding you can trust.	self-improving
+juyongjiang/CodeLLMSurvey	203	[TOSEM'25] The official GitHub page for the survey paper "A Survey on Large Language Models for Code Generation".	code generation
+kirodotdev/Kiro	4201	Kiro is an agentic IDE that works alongside you from prototype to production.	agentic ide
+kommander/oc-plugin-vault-tec	182	A RobCo terminal personality that rewires your coding agent into a cheerful Vault-Tec Overseer -- bugs are containment breaches, deploys are surface excursions, and nuclear optimism is mandatory.	coding agent
+kunal12203/GrapeRoot	1023	Compounding Context for AI Coding Assistants — MCP graph engine for Claude Code, Cursor, Copilot, Gemini, OpenCode	coding assistant
+LaiZhou/OpenCode_UI	48	A JetBrains IDE plugin that integrates OpenCode — the open-source AI coding agent — directly into your development workflow.	coding agent
+LangLang03/LineCodePro	84	An AI coding workstation that fits in your pocket.	ai coding
+Legorobotdude/PrivateCode	36	VibeCoder: A Local LLM powered coding assistant	coding assistant
+leona/helix-gpt	697	Code assistant language server for Helix with support for Copilot/OpenAI/Codeium/Ollama	code assistant
+lostintangent/conduit-release	230	🔌 A terminal-centric workspace manager (a "DIY-DE"), that's built for task parallelization with coding agents	coding agent
+lucianodiisouza/semaphore	42	Floating traffic light for AI coding agents (know when your agent is idle, thinking, or writing)	coding agent
+luckeyfaraday/Athena	30	Athena is a desktop control surface for AI coding agents with shared project context. Built with Electron, React, and FastAPI, it embeds native terminals for Codex, OpenCode, Claude, and Hermes with Hermes memory integration. Features MCP bridge for cross-platform workspace control, embedded PTY terminals, native session discovery, and more.	coding agent
+mac999/BIM_LLM_code_agent	32	BIM LLM Code Agent with Vector and Graph RAG	code agent
+madox2/vim-ai	1186	AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.	code assistant
+MagicCube/helixent	649	Helixent is a small library for building ReAct-style AI agent loops based on the Bun stack.	agent loop
+marcusschiesser/edge-pi	62	A lightweight, Vercel AI SDK based coding agent library.	coding agent
+markshust/hcf	57	Autonomous development plugin for Claude Code. Define requirements with a PM, then let parallel workers implement everything using TDD.	autonomous dev
+math-ai-org/mathcode	706	MathCode: A Frontier Mathematical Coding Agent	coding agent
+maxktz/hitch	176	Share your terminal with coding agent in one command. Lightweight shell proxy, written in Rust.	coding agent
+mereyabdenbekuly-ctrl/clodex-ide	862	Local-first, zero-trust agentic IDE for verifiable autonomous software development.	agentic ide
+microsoft/vision-ai-developer-kit	131	Vision AI Developer Kit Preview	ai developer
+mulkymalikuldhrs/opencode-android	27	Android code editor with AI-powered code completion and analysis | 🤝 Looking for contributors!	code editor
+mustafacagri/ai-quality-gate	32	🚀 Kill the Junior AI Era. 🤖 Level up your AI code to Principal standards. No more sloppy lines or junior mistakes. Automated ESLint ✨ TypeScript 🔧 Prettier 🎨 SonarQube 🛡️ Security 🔒 Complexity 📊 in seconds. High-stakes quality, forced to ship only the best. ⚡🏆 Goodbye, bad code. Hello, Principal Engineer. 🚀✨	ai code
+NeuralInverse/neuralinverse	221	Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development	agentic coding
+oracle-devrel/oracle-ai-developer-hub	4339	Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services	ai developer
+OrionStarAI/EasyCode	423	Easy Code (formerly DeepV Code) — A highly customizable AI coding assistant compatible with all major AI models. The perfect alternative to Claude Code and Codex, offering deep code analysis, intelligent suggestions, version rollback, multi-device sync, and automated testing across multiple languages and platforms.	coding assistant
+ouijit/ouijit	154	Git worktree-based task manager with integrated terminals for CLI coding agents	coding agent
+pablopunk/pi.nvim	240	The most minimal AI coding agent, now in neovim	coding agent
+Palm1r/QodeAssist	435	QodeAssist is an AI-powered coding assistant plugin for Qt Creator	coding assistant
+Pardesco/hypernovum	89	Agent Ops for your second brain - a 3D IDE for Obsidian built on Three.js. Visualize your vault as a code city, dispatch AI coding agents (Claude Code, Codex, Antigravity), post research quests, and watch your agent fleet work in real time.	coding agent
+penso/arbor	802	Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.	agentic coding
+PolymathWizard/BHIL-AI-First-Development-Toolkit	130	A production-grade methodology repository for building AI-native applications using iterative sprints, where AI coding agents are primary implementors and humans are architects, reviewers, and decision-makers.	coding agent
+probelabs/probe	687	AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding.	coding assistant
+qaml-ai/camelAI	352	camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects	coding assistant
+raizamartin/gemini-code	546	Gemini 2.5 Pro code assistant	code assistant
+roberto-mello/lavra	50	A plugin with compound engineering workflows and memory for AI coding agents	coding agent
+robzilla1738/harness-terminal	300	The native macOS terminal that keeps your sessions running and tells you when a coding agent needs you. GPU-rendered, scriptable, agent-aware.	coding agent
+sinameraji/kimiflare	168	Moonshot kimi k3 terminal based coding agent & harness running on your own Cloudflare account. 	coding agent
+sourcegraph/cody-public-snapshot	3806	Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.	codebase
+sudoprivacy/sudocode	294	Rust-native CLI coding agent for hackers — terminal-native, pipe-composable, scrollback-safe. Built because Claude Code chose non-coders.	coding agent
+supabitapp/supaterm	174	a terminal for the coding agents age	coding agent
+swadhinbiswas/Mervelas	52	An independent, high-performance AI coding CLI built with Bun and driven by free resources	ai coding
+swapperfinance/swapper-toolkit	846	DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with Claude Code, Cursor,   Windsurf, OpenClaw, CrewAI, AutoGPT, and other AI agent frameworks.	coding assistant
+Swival/swival	324	A small, powerful, open-source CLI coding agent that works with open models.	coding agent
+syncora-ai/Synthetic-AI-Developer-Productivity-Dataset	657	High-fidelity synthetic dataset capturing AI developer productivity metrics — including focus hours, task completion rates, and burnout indicators. Privacy-safe, ideal for ML and workflow analytics.	ai developer
+tanbiralam/claude-code	2165	Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic.	codebase
+terragon-labs/terragon-oss	257	This is the website formally known as Terragon Labs. It was a remote background agent orchestrator for running Claude Code, Codex, and other coding clis in the cloud.	coding cli
+tmcfarlane/oh-my-cursor	107	Like “oh-my-opencode”, but for Cursor IDE. Multi-agent orchestration, natively, using nothing but a few config files.	multi-agent
+tom-doerr/vim_codex	286	Supercharge your Vim editor with AI-powered code completion using OpenAI Codex. Boost productivity and save time with intelligent suggestions.	ai code
+tractorjuice/arc-kit	2192	The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants	coding assistant
+tuo-lei/vibe-replay	33	Turn AI coding sessions into animated, interactive web replays	ai coding
+TysonLabs/lazyide	89	A full IDE experience anywhere you have a terminal. SSH into a server, run lazyide, and pair with your agentic coding tool.	agentic coding
+urbint/cortex	383	The intelligent coding assistant for Elixir	coding assistant
+Usagi-org/ai-code-review-helper	91	AI Code Review Helper 是一个旨在自动化代码审查流程的工具。它通过集成版本控制系统（如 GitHub 和 GitLab）的 Webhook，利用大型语言模型（LLM）对代码变更进行分析，并将审查意见反馈到相应的 Pull Request 或 Merge Request 中。此外，它还支持将审查结果通知到企业微信等通讯工具。	ai code
+vibheksoni/VerbalCodeAi	59	VerbalCodeAI is a free, open-source AI tool that simplifies codebase navigation in your terminal, using Python 3.11.6 and Ollama. It indexes projects locally and quickly answers questions like “Where’s this function?”, saving developers time on debugging and onboarding.	codebase
+vincentkoc/tokenjuice	503	🧃 Token weight loss. Lean output compaction for terminal-heavy agent workflows. Works as a native CLI tool or as an extension to popular coding and agent frameworks.	agent framework
+wendy7756/vibe-coding-guide	72	Beginner’s Vibe Coding Guide. AI氛围编程指南 Natural Language Programming 自然语言编程	vibe coding
+WisdomShell/codeshell-vscode	575	An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell	coding assistant
+workstream-labs/workstreams	76	IDE for parallel AI coding agents	coding agent
+yuuichieguchi/Calyx	292	A native macOS terminal app built on Ghostty for running and supervising coding agents	coding agent
+Zentar-Ai/Zentara-Code	84	AI debugger and AI coder integrated.  Use AI to code and drives runtime debugger	ai code
+zgsm-ai/costrict	4380	Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion. 	ai code
+zhnt/loushang	1186	AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.	agent harness
+ZYKJShadow/Async	476	IDE, A native-feeling AI coding workspace that blends chat, planning, agent execution, and project navigation into a unified desktop experience.	ai coding

@@ -1,0 +1,31 @@
+zhishile/codex-auth-helper	9079	Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。
+gejun123456/MyBatisCodeHelper-Pro	1954	
+tuchg/ChinesePinyin-CodeCompletionHelper	1825	让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏
+code-gopher/DnfHelper-Python	765	Python-地下城与勇士-dnf工具
+liyupi/ai-code-helper	732	2025 年 AI 编程助手实战项目（作者：程序员鱼皮），基于 Spring Boot 3.5 + Java 21 + LangChain4j + AI 构建智能编程学习与求职辅导机器人，覆盖 AI 大模型接入、LangChain4j 核心特性、流式对话、Prompt 工程、RAG 检索增强、向量数据库、Tool Calling 工具调用、MCP 模型上下文协议、Web 爬虫、安全防护、Vue.js 前端开发、SSE 服务端推送等企业级 AI 应用开发技术。帮助开发者掌握 AI 时代必备技能，熟悉 LangChain 框架，提升编程学习效率和求职竞争力，成为企业需要的 AI 全栈开发人才。
+Philip-Cao-9527/code-note-helper	268	一个专为算法刷题、深度学习和 AI 学习场景打造的浏览器扩展。拒绝机械的复制粘贴，帮你自动化生成高质量复盘笔记、内置遗忘曲线驱动的间隔复习、轻松驾驭超长对话，让刷过的每一道题都成为真正的技术资产！
+StarsTom/mobileCodexHelper	242	这是一个手机远程控制电脑 Codex 的私有网页面板与桌面控制工具
+sansan0/ai-code-context-helper	237	🚀 Desktop tool for extracting code context to enhance AI-assisted development. Visualize project structure, export multiple files with one-click, and get more accurate suggestions from AI assistants while keeping your code private.
+fboldewin/COM-Code-Helper	185	Two IDAPython Scripts help you to reconstruct Microsoft COM (Component Object Model) Code
+code-gopher/DnfHelper-C	157	C++ 地下城与勇士-辅助
+xqnode/codex-helper	149	Windows / macOS 轻量托盘·菜单栏代理，让 Codex Desktop 一键切换 DeepSeek、千问、智谱、Kimi、MiniMax 等国产大模型。本地 Responses↔Chat 转译，开箱即用。
+RikkaW/SmsCodeHelper	115	A simple app copy verification code from SMS automatically.
+dansiegel/CodeGenHelpers	107	The CodeGenHelpers is meant to help anyone who is working on C# CodeGenerator
+code-gopher/DnfHelper-Java	96	Java-地下城与勇士-dnf工具
+Usagi-org/ai-code-review-helper	91	AI Code Review Helper 是一个旨在自动化代码审查流程的工具。它通过集成版本控制系统（如 GitHub 和 GitLab）的 Webhook，利用大型语言模型（LLM）对代码变更进行分析，并将审查意见反馈到相应的 Pull Request 或 Merge Request 中。此外，它还支持将审查结果通知到企业微信等通讯工具。
+zhidao8/SmsCodeHelper	90	自动复制短信中的验证码到剪切板
+xqnode/claude-code-helper	77	Windows tray proxy: route Claude Code desktop (Code + Cowork) to DeepSeek, Qwen, and other domestic LLM APIs.
+pirateksh/codeforces-upsolving-helper	62	A web app developed using Flask that compiles all the Problems on Codeforces that you have attempted (submitted at least once) but could not get Accepted verdict. Recommended Problems are also shown.
+sekati/codeigniter-asset-helper	61	Asset Helper Spark for CodeIgniter
+Latias94/codex-helper	60	
+obra/coderabbit-review-helper	54	Extract CodeRabbit GitHub PR reviews for AI coding agent consumption
+muxe/cakePHP-QR-Code-Helper	43	A simple helper to display QR Codes using the google chart api
+hannesrudolph/llm-code-helper	43	
+gejun123456/easyCode-MybatisCodeHelper	41	
+CodeforcesContestHelper/CodeforcesContestHelper	36	
+elsodev/Codeigniter-SEO-Helper	35	A simple helper for Codeigniter to create meta tags for SEO 
+hcabel/UnrealVsCodeHelper	34	A helper for Unreal Engine, giving you lots of useful tools in a single extensions
+gpedro/CodeIgniter-Assets-Helper	33	Helper to load assets in Codeigniter.
+code-gopher/DnfHelper-YoloV5	33	Python-Yolo-dnf工具
+OsmanKandemir/static-code-analysis-helper	33	Static-Code-Analysis-Helper helps you perform static code analysis.
+KivenCkl/LeetCode_Helper	33	Python 实现的 LeetCode 仓库美化程序。爬取 LeetCode-cn AC 的题目描述和提交的代码，并整理至相应的文件夹，生成相应的 README 文件。

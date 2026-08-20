@@ -1,0 +1,69 @@
+name	url	description
+Bito AI Architect	https://bito.ai	Context layer for coding agents; grounds Cursor/Claude Code/Copilot via MCP; SWE-Bench Pro improvements
+TabNine	https://tabnine.com	AI autocomplete tool running inside VS Code, JetBrains, Atom, Sublime; privacy-focused
+Windsurf	https://windsurf.com	AI-powered IDE now owned by Cognition; Cascade agent for multi-file editing; built on VS Code
+GitHub Copilot	https://github.com/features/copilot	AI pair programmer with model choice (GPT-5, Claude, Gemini); integrated into VS Code, JetBrains, Neovim
+TabbyML	https://tabbyml.com	Open-source self-hosted AI coding assistant; deploy your own completion server
+CodeGeeX	https://codegeex.cn	AI coding assistant built on multilingual model; 20+ languages; inline suggestions
+Intellicode	https://visualstudio.microsoft.com/services/intellicode/	Microsoft AI coding assistant in Visual Studio and VS Code; learns from team codebase
+Zed	https://zed.dev	High-performance open-source editor with AI assistant and agent mode; real-time collaboration
+Void	https://voideditor.com	Open-source AI editor fork of VS Code; BYO any model including local; privacy-focused
+Claude Code	https://anthropic.com/claude-code	Anthropic CLI-first coding agent running Claude Opus; terminal-based multi-step tasks
+Cline	https://cline.bot	Open-source autonomous coding agent VS Code extension; BYO API key; human-in-the-loop approvals
+Continue	https://continue.dev	Open-source AI code assistant for VS Code and JetBrains; BYO model; local via Ollama
+Replit AI	https://replit.com	AI-powered online IDE with coding agent and autocomplete
+Amazon Q Developer	https://aws.amazon.com/q/developer/	AWS AI coding assistant; formerly CodeWhisperer
+JetBrains AI Assistant	https://jetbrains.com/ai/	AI assistant built into JetBrains IDEs
+Aider	https://aider.chat	Free open-source terminal-based AI coding assistant (MIT); 100+ languages; auto-commit; multi-file edits
+Augment Code	https://www.augmentcode.com	AI coding assistant for large codebases; 200K context window; Context Engine; SOC 2 Type II
+Bolt.new	https://bolt.new	Browser-based full-stack development environment; generates web apps from natural language prompts
+Devin	https://devin.ai	Autonomous AI software engineer by Cognition; acquired Windsurf
+Morphllm	https://www.morphllm.com	AI coding comparison platform; cursor alternatives comparisons
+Superblocks	https://www.superblocks.com	AI agent platform for internal tools and workflows
+LogRocket Codegen	https://codegen.com	AI dev tool power rankings and code generation
+Gemini CLI	https://geminicli.com	Terminal-first AI coding assistant using Google Gemini models; shell-aware execution; explicit file context loading
+OpenAI Codex	https://chatgpt.com/features/codex	Agent-based AI coding platform for complex software engineering; CLI, IDE, and web interfaces; multi-file repository changes
+GitHub Spark	https://github.com/features/spark	GitHub's micro-app builder included with Copilot Pro+ and Enterprise
+Cursor Bugbot	https://cursor.com	AI-assisted code review add-on for Cursor; quick Ask queries and automatic fixes
+InsiderLLM	https://insiderllm.com	Local LLM platform with guides on local coding agent alternatives
+Tembo	https://www.tembo.io	Background coding agent orchestration platform; runs Claude Code, Codex, Cursor, Gemini in cloud; triggers from Slack/Linear/GitHub
+Gemini Code Assist	https://codeassist.google	Google's IDE AI coding plugin; free tier ~180K completions/month; VS Code, JetBrains, Android Studio
+JetBrains Junie	https://jetbrains.com/ai/	JetBrains AI coding agent for multi-step tasks inside IntelliJ, PyCharm, GoLand, etc.
+Qodo	https://qodo.ai	AI coding tool focused on code health and quality; testing, code review, PR readiness; formerly Codium; Qodo Gen IDE plugins
+Sourcegraph Cody	https://sourcegraph.com/cody	AI assistant with graph-based cross-repository code analysis; architectural awareness; enterprise-only
+OpenCode	https://opencode.ai	Open-source terminal coding agent; drop-in replacement for Claude Code in terminal workflows
+Supermaven	https://supermaven.com	Fast AI code completion engine; free and pro tiers; low latency autocomplete
+Builder.io	https://builder.io	Visual development platform with AI; GitHub Copilot alternative comparison
+CodingFleet	https://codingfleet.com	AI coding tool and blog; Copilot alternative comparison
+AIComparison	https://aicomparison.ai	AI tool comparison site for copilot alternatives and coding assistants
+AtlasWorkspace	https://atlasworkspace.ai	AI workspace with Copilot alternatives comparison blog
+LLMConfigurator	https://llmconfigurator.com	Guides on local LLM coding agent setups and offline copilot alternatives
+OpenHands	https://openhands.dev	Open-source platform for building and running AI coding agents; MIT licensed; Agent Canvas; 80K+ GitHub stars
+Goose	https://github.com/block/goose	Open-source AI agent from Block (Square); for coding and tool workflows; MCP support; desktop/CLI/API
+Kilo Code	https://kilocode.ai	MIT-licensed open-source agentic coding platform; VS Code, JetBrains, CLI; BYOK 30+ providers; mode-based control
+SWE-agent	https://github.com/SWE-agent/SWE-agent	MIT-licensed open-source agent for research and solving software engineering issues; SWE-bench; LiteLLM routing
+Devika AI	https://github.com/stitionai/devika	Open-source AI software engineer by Stition AI; alternative to Devin; understands natural language instructions
+Taskade	https://taskade.com	AI-powered productivity and task automation platform; Devin alternative comparison blog
+Crevio	https://crevio.co	AI tool comparison blog with Devin alternatives by use case
+UseCarly	https://usecarly.com	AI tool comparison blog for Cursor and Devin alternatives
+BuildBetter	https://buildbetter.ai	AI engineering tools comparison platform; cross-agent context layer
+Kiro	https://kiro.dev	Amazon's AI IDE built on VS Code; spec-driven development with requirements, design, and task list; AWS native
+Roo Code	https://github.com/RooCodeInc/Roo-Code	Open-source VS Code extension forked from Cline; custom agent modes; Boomerang Tasks for recursive sub-task orchestration
+Blink	https://blink.new	Browser-based AI code editor and app builder; Windsurf alternative comparison blog
+Emergent.sh	https://emergent.sh	Full-stack AI development platform; Windsurf alternatives comparison
+BlackBox AI	https://www.blackbox.ai	AI code search and snippet discovery tool; fast code generation
+Verdent.ai	https://verdent.ai	AI tool comparison guides for Windsurf alternatives
+NoCode MBA	https://nocode.mba	No-code and AI tool comparison articles
+Pi	https://pi.dev	Minimalist coding agent harness with primitives-first design; BYOM; 15+ LLM providers; RPC mode for embedding in systems; MIT license
+T3 Code	https://github.com/pingdotgg/t3code	UI wrapper on top of Claude Code and Codex CLI; by Theo (pingdotgg); not a harness itself
+Antigravity	https://antigravity.google	Google's natural language to full-stack app builder; agentic end-to-end app generation; frontend, backend, database from a single prompt
+Lovable	https://lovable.dev	AI-powered app builder (formerly GPT Engineer); React/Next.js with Supabase backend; chat-to-app; visual editing; GitHub sync
+Replit Agent	https://replit.com/ai	Autonomous AI agent in Replit cloud IDE; plans, codes, tests, debugs, and deploys from natural language; any language
+v0	https://v0.dev	Vercel's AI UI component builder; generates React/Tailwind/shadcn UI from prompts or screenshots; full page generation
+GPT Engineer	https://github.com/AntonOsika/gpt-engineer	Open-source codebase CLI tool; generates entire codebases from prompts; rebranded to Lovable
+Magic Patterns	https://magicpatterns.com	AI UI generator for React components and full pages; v0 alternative
+Flowstep	https://flowstep.ai	AI tool for UI design and frontend development; v0 alternative comparison
+Base44	https://base44.com	AI app builder; Bolt.new alternative comparison
+OnSpace	https://onspace.ai	AI app builder for mobile and web; Bolt.new and Lovable comparison
+AIDesigner	https://aidesigner.ai	AI UI generator and full-stack app builder; v0 alternative comparison
+Seeles	https://seeles.ai	AI web development platform for building web apps; v0 alternative comparison

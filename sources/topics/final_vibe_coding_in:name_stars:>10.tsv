@@ -1,0 +1,50 @@
+2025Emma/vibe-coding-cn	22760	
+filipecalegario/awesome-vibe-coding	5136	A curated list of vibe coding references, collaborating with AI to write code.
+EnzeD/vibe-coding	4757	
+KhazP/vibe-coding-prompt-template	2851	Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
+awesome-vibe-coding/awesome-vibe-coding	817	A hand-picked collection of tools and resources for Vibe Coding
+LingyiChen-AI/vibe-coding	700	AI 时代的 Vibe Coding 实践：使用 Claude Code 从零开发 AI 漫剧生成平台的完整记录，涵盖技术选型、AI 驱动开发、UI 优化与功能迭代全流程。             
+cporter202/vibe-coding-for-dummies	619	A beginner-friendly guide to building real software using vibe coding. Learn how to ship apps without traditional coding by using Firebase Studio, GitHub, and Cursor. No gatekeeping. No fluff. Just building.  👉 For daily lessons and real-world builds, join the Vibe Coding with Chris skool community.
+Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-CLI	504	
+PatrickStarVibe/VibeCodingAssistant-Connect-Your-Codex-And-Claude-Code	453	This system can help bridge the gap between Codex and Claude Code, making it simple to refine a plan until it is complete, or to conduct cross-audits on results and plans. You just need to communicate with the system throughout the entire process. 
+analyticalrohit/awesome-vibe-coding-guide	369	Become 10x Vibe Coder. Awesome Vibe Coding guide, best practices, and tips for efficient and controlled AI assisted coding.
+PageAI-Pro/vibe-coding-starter	364	Create great UIs with AI, see the full tutorial
+RiyaParikh0112/vibe-coding-playbook	340	
+majidmanzarpour/vibe-coding-starter-pack-3d-multiplayer	318	A lightweight 3D web-based multiplayer starter kit using Three.js, React, and SpacetimeDB. Build interactive multiplayer experiences with real-time synchronization, character movement, and customizable game mechanics.
+KingLeoJr/awesome-vibe-coding-prompt-templates	273	builder prompts which can be sent to builders like cursor, bolt.diy, bolt.new, trae, project idx, lovable.dev, llmacoder, geminicoder, windsurf, deepseek-artifact, cline, aider etc
+acvnace/awesome-vibe-coding-resources	266	A curated list of awesome resources for vibe coding
+humanstack/vibe-coding-template	245	Ultimate vibe coding full stack template with code context - Build better apps faster with less tokens with AI coding agents
+Lling0000/Vibe_coding_guide	211	中文优先的 Vibe Coding / AI coding engineering workflow guide: specs, agents, worktrees, skills, CI, and review.
+soumatheusgomes/vibe-coding-toolkit	201	A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.
+vibe-coding-labs/JoyCode2Api	200	JoyCode API 代理 — 协议翻译成 Anthropic/OpenAI 兼容格式，让 Claude Code 直接调用 JoyCode支持的模型，比如GLM 5.1等
+SSSYoung/vibe-coding-mobile-engineering	195	以实践为核心，所有文章和案例均为自己工程化实践总结经验
+wasp-lang/vibe-coding-video	193	Vibe Coding Full-stack App Starter Template
+digitalinnovationone/dio-lab-vibe-coding-app-financas	184	
+huangguohui2002/VibeCoding-MealFlow	177	VibeCoding订餐系统产品设计-原型产出-代码实现流程
+firetix/vibe-coding-penetration-tester	175	Vibe Coding? Cool story. But your vibe might be "security breach waiting to happen." Introducing VibePenTester, the AI pen-tester who rolls its eyes at your half-baked code, discovers your vulnerabilities faster than your coworkers discover free pizza, and gently bullies your web app into compliance. Less "vibe check," more "reality check."
+TencentCloudBase/OpenVibeCoding	171	Open vibecoding template with cloudbase.
+Junliu1066/vibe-coding-kit	167	不教你写代码,教你把"用 AI 写代码"彻底想明白 — 给非技术产品人的 vibe coding 规划工具包
+jacksmion/vibe-coding-tutorial	150	VibeCoding入门指南
+microsoft/github-copilot-vibe-coding-workshop	145	Let's build a social media website with GitHub Copilot!
+YuyaoGe/Awesome-Vibe-Coding	122	
+fufankeji/VibeCodingCourse_v1	121	Vibe Coding AI Full Stack Development Practical Training 2026 · The First AI Programming Bootcamp
+xgxgnpu/Physics-informed-vibe-coding	117	The first open-source repository for Scientific Machine Learning (PINNs, PIELM, RFM, Neural Operators) via Vibe Coding. JAX-GPU implementations with Chinese tutorials. 首个采用 Vibe Coding 进行科学机器学习研究的开源仓库。
+ziiyuecheng/vibe-coding-cn	117	
+hacrex/the-vibe-coding-handbook	113	Complete Zero-to-Hero Guide for Vibe Coding, AI-Assisted Development, Local LLMs, Frontend, Backend, DevOps, Cloud, Hosting, Debugging, Deployment, and AI-Native Software Engineering.
+taskade/awesome-vibe-coding	112	🚀 The complete guide to vibe coding — build software with AI through natural language prompts. Tools, frameworks, best practices, and resources curated by Taskade.
+0xWelt/Awesome-Vibe-Coding	105	A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources
+nadinelipeiyu-jpg/ai-vibe-coding-notes-form-threads	98	Claude Code & Vibe Coding 實戰 Tips — 從 Threads 社群整理的 50 條 AI 工具使用技巧，持續更新
+inFaaa/build-your-own-x-vibe-coding	97	Master programming by recreating your favorite technologies from scratch with vibe coding.
+jiji262/awesome-vibe-coding-tools	95	A curated list of vibe coding plugins, IDEs, and development tools that enhance programming productivity through artificial intelligence.
+imranarshad/vibe_coding_template	93	
+kingbootoshi/vibe-coding-prompts	90	
+obviousworks/vibe-coding-ai-rules	86	The Ultimate Agentic Vibe Coding Guide for AI IDEs like Windsurf, Claude Code, Cursor, Codex etc. – AI-optimized rules, best practices, and configuration files for efficient and controlled AI-powered coding.
+vibe-coding-labs/JG-Cursor-cracker	82	极光互联蛙无限Cursor登录器破解器
+legioncodeinc/vibe-coding-tools	80	
+WoodyXu/vibe-coding-standard-workflow	74	这个 skill 把 AI 编程从“边聊边写、越写越乱”，变成“先澄清、再设计、再分步实现”的标准化流程。
+wendy7756/vibe-coding-guide	72	Beginner’s Vibe Coding Guide. AI氛围编程指南 Natural Language Programming 自然语言编程
+Dr-Nanmu/vscode-remote-vibe-coding	68	
+fufankeji/FuFan-VibeCodingCourse	66	赋范空间-《Vibe Coding AI编程实战课》
+thelinkapi/vibe-coding	66	Vibe Coding 零基础教程
+markfulton/VibeCodingSEO	64	Ultimate SEO Guide for Vibe Coding
+llt22/vibe-coding-playbook	61	
