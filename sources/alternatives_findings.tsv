@@ -83,3 +83,36 @@ Google Jules	https://jules.google.com	Proactive AI coding agent by Google; lives
 Trae	https://www.trae.ai	ByteDance's free AI IDE (VS Code fork); Builder Mode for agentic editing; powered by Claude and GPT; no usage limits
 Tabby	https://tabbyml.com	Open-source self-hosted AI coding assistant; runs on own hardware; 10+ IDEs; Pochi agent for multi-step tasks (same as TabbyML)
 Polyfactor	https://polyfactor.io	AI code editor comparison site with 29+ tools compared on pricing, features, and GDPR compliance
+Grok Build	https://x.ai/api	Grok Build 0.1 by xAI; coding agent API at $1/$2 per million tokens; 1M context window; live X data access; 100+ tok/s
+Muse Code	https://codersera.com/blog/muse-code-complete-guide-2026/	Meta's first coding agent (August 2026); Muse Spark 1.2 model; terminal-based; contributor tier at $0.10/$0.20 per million tokens
+Amp	https://ampcode.com	AI coding agent; autonomous agent alternative to Devin and Jules; mentioned in coding agent rankings
+Agentic.ai	https://agentic.ai	AI tool comparison platform with 20 best coding agents ranking
+AIToolsRecap	https://aitoolsrecap.com	AI tools review and ranking site for coding agents
+Codersera	https://codersera.com	AI coding agents guide and comparison blog; Muse Code and Claude Code coverage
+CodeLucky	https://codelucky.com	Autonomous coding agents comparison blog
+AIEngineerInsights	https://aiengineerinsights.com	AI coding agents ranked blog; includes Amp, Jules comparisons
+Presenc	https://presenc.ai	Coding agent benchmarks research site; SWE-Bench, TerminalBench comparisons
+NeuralCoreTech	https://neuralcoretech.com	AI coding agents comparison blog with benchmarks
+OpenAgents	https://openagents.org	AI coding agents comparison blog; 10 best tools ranked
+looperators	https://looperators.com	Multi-agent review loop coding tool; best for orchestrating multiple agents that review and debate in a loop
+RunCell	https://docs.kanaries.net/articles/jupyter-ai-runcell	Notebook agent built for data science; works inside JupyterLab with cells, variables, outputs, and charts
+OpenClaw	https://github.com/openclaw/openclaw	Open-source coding agent; OpenHands vs OpenClaw vs Aider comparison mentioned
+Mini-SWE-Agent	https://github.com/SWE-agent/mini-swe-agent	Minimal SWE-agent implementation in ~100 lines; 74% on SWE-bench; research-oriented
+Hermes Agent	https://github.com/hermes-agent	AI coding agent; mentioned in harness comparison articles
+Codegen	https://codegen.com	Agent orchestration infrastructure and coding agent; AI Dev Tool Power Rankings
+VibeCompare	https://vibecompare.dev	AI tool comparison site with side-by-side comparisons of coding agents
+AgentMarketCap	https://agentmarketcap.ai	AI agent market cap and comparison blog; coding agent showdowns
+AImadeTools	https://aimadetools.com	AI tools ranking blog; best AI coding tools 2026
+DevToolsReview	https://devtoolsreview.com	Developer tools review site; best AI coding tools 2026
+AIToolRanked	https://aitoolranked.com	AI tool ranking site; 15 ranked AI coding tools 2026
+Atoms	https://atoms.app	Coordinated team of AI agents covering full product lifecycle; product management, architecture, engineering, SEO, data; Race Mode across multiple models
+Warp	https://www.warp.dev	Terminal-native AI development environment (ADE); command-line workflows with AI; agentic terminal
+Uizard AI	https://uizard.io	AI prototyping tool for design ideation and user testing; UI mockup generation
+Galileo AI	https://www.galileo.ai/agentic-evaluations	AI evaluation and observability platform; guardrails for agents in production
+ChatDev	https://chatdev.ai	Open-source multi-agent framework; virtual software company with CEO, CTO, programmer, tester, designer roles; 27K+ GitHub stars
+Postman AI Agent Builder	https://www.postman.com	API testing platform with AI Agent Builder and Postbot; visual canvas for wiring up AI agents with LLM tools and guardrails
+AutoGen	https://github.com/microsoft/autogen	Microsoft's open-source multi-agent framework; version 0.5; for serious multi-agent coding work
+CrewAI	https://crewai.com	Multi-agent AI framework; version 1.0; for orchestrating AI agents in software development workflows
+Thesys	https://thesys.dev	AI agent builder platform; visual canvas for AI agent creation
+TheCodeBeast	https://thecodebeast.com	AI coding agents blog covering autonomous AI in software development
+Index.dev	https://index.dev	Developer blog with AI agents for software development rankings

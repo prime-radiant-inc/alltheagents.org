@@ -1,6 +1,6 @@
 # Coding Agent Harnesses — Comprehensive List
 
-**Total entries: 1031**
+**Total entries: 1040**
 
 This table catalogs coding agent harnesses — systems that let an LLM autonomously write, modify, debug, or run code. Sources: e2b-dev/awesome-ai-agents, jqueryscript/awesome-coding-agent, bradAGI/awesome-cli-coding-agents, flatlogic/awesome-ai-software-development-agents, and GitHub topic searches (coding-agent, ai-coding-agent, code-agent, etc.). GitHub metadata enriched via GitHub API.
 
@@ -8,13 +8,13 @@ This table catalogs coding agent harnesses — systems that let an LLM autonomou
 
 | Field | Filled | Coverage |
 |-------|--------|----------|
-| Name | 1031 | 100% |
-| Maker | 938 | 90% |
-| License | 752 | 72% |
-| URL | 1031 | 100% |
-| Source code URL | 865 | 83% |
+| Name | 1040 | 100% |
+| Maker | 947 | 91% |
+| License | 761 | 73% |
+| URL | 1040 | 100% |
+| Source code URL | 866 | 83% |
 | First released | 905 | 87% |
-| Stars | 818 | 79% |
+| Stars | 818 | 78% |
 
 ## Full Table
 
@@ -1051,3 +1051,12 @@ This table catalogs coding agent harnesses — systems that let an LLM autonomou
 | 1029 | Pgrammer | Pgrammer | Proprietary | https://www.pgrammer.com | — | AI-driven platform for coding interview preparation | Web | — | — | — |
 | 1030 | TeamSmart AI | TeamSmart | Proprietary | https://www.teamsmart.ai | — | Customizable AI coding assistants in a Chrome extension | Web | — | — | — |
 | 1031 | Wondershare | Wondershare | Proprietary | https://www.wondershare.com | — | Creative suite with AI-assisted development tools for full-stack projects | Web | — | — | — |
+| 1032 | Void | Void | MIT | https://voideditor.com | https://github.com/voideditor/void | Open-source AI editor fork of VS Code with BYO any model including local, privacy-focused | IDE | — | — | — |
+| 1033 | Superblocks | Superblocks | Proprietary | https://www.superblocks.com | — | AI agent platform for building internal tools and workflows | Web | — | — | — |
+| 1034 | LogRocket Codegen | LogRocket | Proprietary | https://codegen.com | — | AI dev tool with code generation capabilities | Web;IDE | — | — | — |
+| 1035 | GitHub Spark | GitHub | Proprietary | https://github.com/features/spark | — | GitHub's micro-app builder included with Copilot Pro+ and Enterprise | Web | — | — | — |
+| 1036 | Builder.io | Builder.io | Proprietary | https://builder.io | — | Visual development platform with AI code generation capabilities | IDE;Web | — | — | — |
+| 1037 | CodingFleet | CodingFleet | Proprietary | https://codingfleet.com | — | AI coding tool and Copilot alternative | Web | — | — | — |
+| 1038 | Tembo | Tembo | Proprietary | https://www.tembo.io | — | Background coding agent orchestration platform running agents in cloud | Web;CLI | — | — | — |
+| 1039 | Intellicode | Microsoft | Proprietary | https://visualstudio.microsoft.com/services/intellicode/ | — | Microsoft AI coding assistant in Visual Studio and VS Code | IDE | — | — | — |
+| 1040 | InsiderLLM | InsiderLLM | Proprietary | https://insiderllm.com | — | Local LLM platform for local coding agent setups | CLI | — | — | — |

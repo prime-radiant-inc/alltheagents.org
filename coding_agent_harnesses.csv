@@ -1030,3 +1030,12 @@ Nullify AI,Nullify,Proprietary,https://nullify.ai,,No (proprietary),AI-driven vu
 Pgrammer,Pgrammer,Proprietary,https://www.pgrammer.com,,No (proprietary),AI-driven platform for coding interview preparation,Web,,,,,,directory_search
 TeamSmart AI,TeamSmart,Proprietary,https://www.teamsmart.ai,,No (proprietary),Customizable AI coding assistants in a Chrome extension,Web,,,,,,directory_search
 Wondershare,Wondershare,Proprietary,https://www.wondershare.com,,No (proprietary),Creative suite with AI-assisted development tools for full-stack projects,Web,,,,,,directory_search
+Void,Void,MIT,https://voideditor.com,https://github.com/voideditor/void,Yes,"Open-source AI editor fork of VS Code with BYO any model including local, privacy-focused",IDE,,,,,,alternatives_search
+Superblocks,Superblocks,Proprietary,https://www.superblocks.com,,No (proprietary),AI agent platform for building internal tools and workflows,Web,,,,,,alternatives_search
+LogRocket Codegen,LogRocket,Proprietary,https://codegen.com,,No (proprietary),AI dev tool with code generation capabilities,Web;IDE,,,,,,alternatives_search
+GitHub Spark,GitHub,Proprietary,https://github.com/features/spark,,No (proprietary),GitHub's micro-app builder included with Copilot Pro+ and Enterprise,Web,,,,,,alternatives_search
+Builder.io,Builder.io,Proprietary,https://builder.io,,No (proprietary),Visual development platform with AI code generation capabilities,IDE;Web,,,,,,alternatives_search
+CodingFleet,CodingFleet,Proprietary,https://codingfleet.com,,No (proprietary),AI coding tool and Copilot alternative,Web,,,,,,alternatives_search
+Tembo,Tembo,Proprietary,https://www.tembo.io,,No (proprietary),Background coding agent orchestration platform running agents in cloud,Web;CLI,,,,,,alternatives_search
+Intellicode,Microsoft,Proprietary,https://visualstudio.microsoft.com/services/intellicode/,,No (proprietary),Microsoft AI coding assistant in Visual Studio and VS Code,IDE,,,,,,alternatives_search
+InsiderLLM,InsiderLLM,Proprietary,https://insiderllm.com,,No (proprietary),Local LLM platform for local coding agent setups,CLI,,,,,,alternatives_search
