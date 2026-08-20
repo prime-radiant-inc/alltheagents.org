@@ -21538,5 +21538,746 @@
       "bing_ddg_chinese"
     ],
     "source_urls": {}
+  },
+  {
+    "name": "AI expert for codebases",
+    "slug": "ai-expert-for-codebases",
+    "maker": "Storia AI",
+    "license": null,
+    "url": "https://storia.ai",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "AI expert for codebases with chat-oriented programming and codebase search.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "No Fate AI",
+    "slug": "no-fate-ai",
+    "maker": "No Fate AI",
+    "license": null,
+    "url": "https://nofateai.com",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "AI assistant for software engineering tasks with expert support option.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "mutable.ai",
+    "slug": "mutableai",
+    "maker": "MutableAI",
+    "license": null,
+    "url": "https://mutable.ai",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "AI-powered platform for accelerated software development and code generation.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "crystl",
+    "slug": "crystl",
+    "maker": "crystl",
+    "license": null,
+    "url": "https://crystl.dev",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "A multitasking macOS terminal built for AI coding agents.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Exponent",
+    "slug": "exponent",
+    "maker": "Exponent",
+    "license": null,
+    "url": "https://www.exponent.run",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Exponent is an AI agent for collaborative software engineering tasks.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Superlog",
+    "slug": "superlog",
+    "maker": "superloglabs",
+    "license": "Apache-2.0",
+    "url": "https://superlog.sh",
+    "source_code_url": "https://github.com/superloglabs/superlog",
+    "platforms": [],
+    "stars": 1358,
+    "first_released": "2026-06-02",
+    "language": "TypeScript",
+    "description": "Open-source autonomous observability tool that instruments code and automatically fixes bugs.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "ADE",
+    "slug": "ade",
+    "maker": "arul28",
+    "license": "AGPL-3.0",
+    "url": "https://ade-app.dev",
+    "source_code_url": "https://github.com/arul28/ADE",
+    "platforms": [],
+    "stars": 89,
+    "first_released": "2026-02-10",
+    "language": "TypeScript",
+    "description": "Open-source workspace for running and managing AI coding agents",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "VibeKit",
+    "slug": "vibekit",
+    "maker": "superagent-ai",
+    "license": "MIT",
+    "url": "https://www.vibekit.sh",
+    "source_code_url": "https://github.com/superagent-ai/vibekit",
+    "platforms": [],
+    "stars": 1847,
+    "first_released": "2025-05-14",
+    "language": "TypeScript",
+    "description": "Open-source SDK to run coding agents in secure sandboxes.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Line0",
+    "slug": "line0",
+    "maker": "Line0",
+    "license": null,
+    "url": "https://www.line0.dev",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "AI pair programmer for backend development, building Express.js APIs.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Crew44",
+    "slug": "crew44",
+    "maker": "Crew44",
+    "license": null,
+    "url": "https://crew44.io",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Local-first multi-agent workspace orchestrating specialist AI teams.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "PlusB",
+    "slug": "plusb",
+    "maker": "PlusB",
+    "license": null,
+    "url": "https://www.plusb.in",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "A unified AI workspace with 7 expert agents and top-tier model access.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "PUNK",
+    "slug": "punk",
+    "maker": "PUNK",
+    "license": null,
+    "url": "https://punkcode.rocks",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Mobile remote control for local Claude Code AI agents.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Tonkotsu",
+    "slug": "tonkotsu",
+    "maker": "Tonkotsu",
+    "license": null,
+    "url": "https://tonkotsu.ai",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "GUI to manage autonomous AI coding agents using a structured doc workflow.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Nora",
+    "slug": "nora",
+    "maker": "Nora",
+    "license": null,
+    "url": "https://www.mynora.ai",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Deep reasoning AI coding agent for Web3 development, enhancing productivity and code security.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "JACoB",
+    "slug": "jacob",
+    "maker": "Renaissance-Innovation-Labs",
+    "license": "Apache-2.0",
+    "url": "https://jacb.ai",
+    "source_code_url": "https://github.com/Renaissance-Innovation-Labs/jacob-ai",
+    "platforms": [],
+    "stars": 1,
+    "first_released": "2024-09-17",
+    "language": null,
+    "description": "JACoB is an open-source AI coding agent that automates tasks and enhances code quality.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Kane AI",
+    "slug": "kane-ai",
+    "maker": "LambdaTest (TestMu AI)",
+    "license": null,
+    "url": "https://www.testmuai.com/kane-ai",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "No description available.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "T3 Code",
+    "slug": "t3-code",
+    "maker": "pingdotgg",
+    "license": "MIT",
+    "url": "https://t3.codes",
+    "source_code_url": "https://github.com/pingdotgg/t3code",
+    "platforms": [],
+    "stars": 19621,
+    "first_released": "2026-02-08",
+    "language": "TypeScript",
+    "description": "Open-source workspace for managing multiple coding agents",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Pineify",
+    "slug": "pineify",
+    "maker": "Pineify",
+    "license": null,
+    "url": "https://pineify.app",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "No description available.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Clacky",
+    "slug": "clacky",
+    "maker": "Clacky",
+    "license": null,
+    "url": "https://clacky.ai",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "ClackyAI: Your agentic coding studio， prototype, refine, collaborate—and evolve",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Codey",
+    "slug": "codey",
+    "maker": "Codey",
+    "license": null,
+    "url": "https://www.codeyai.space",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Local-first AI Development Operating System for building apps, running agents, and automating workflows.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Mantlecore AI",
+    "slug": "mantlecore-ai",
+    "maker": "Mantlecore",
+    "license": null,
+    "url": "https://mantlecore.ai",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Managed cloud for open-source AI agents",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "CLI Manager",
+    "slug": "cli-manager",
+    "maker": "Solhun",
+    "license": null,
+    "url": "https://www.solhun.com",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Unified dashboard for managing AI CLI agents.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Devle",
+    "slug": "devle",
+    "maker": "Devle",
+    "license": null,
+    "url": "https://devle.ai",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "AI platform to build apps and websites via chat.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Scape",
+    "slug": "scape",
+    "maker": "Scape",
+    "license": null,
+    "url": "https://www.scape.work",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "A macOS workspace for orchestrating parallel AI coding agents and automating development workflows.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Ovren",
+    "slug": "ovren",
+    "maker": "Ovren",
+    "license": null,
+    "url": "https://www.ovren.ai",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "AI engineering platform providing autonomous developers to execute codebase tasks and deliver code updates.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "TryCase",
+    "slug": "trycase",
+    "maker": "TryCase",
+    "license": null,
+    "url": "https://trycase.dev",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Disposable Linux environments for AI agents to test apps end to end",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "CrewArgo",
+    "slug": "crewargo",
+    "maker": "Crewargo",
+    "license": null,
+    "url": "https://www.crewargo.com",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Desktop AI workspace delegating tasks to an orchestrated team of specialized agents.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "BLACKBOX.AI",
+    "slug": "blackboxai",
+    "maker": "BLACKBOX.AI",
+    "license": null,
+    "url": "https://www.blackbox.ai",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "AI agent transforming work and learning with code completion and app building features.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "cto.new",
+    "slug": "ctonew",
+    "maker": "cto.new",
+    "license": null,
+    "url": "https://cto.new",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Free AI code agent using frontier models from Anthropic, OpenAI.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Palmier",
+    "slug": "palmier",
+    "maker": "Palmier",
+    "license": null,
+    "url": "https://www.palmier.me",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Autonomous AI software engineering assistant for development.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Ara AI",
+    "slug": "ara-ai",
+    "maker": "Ara",
+    "license": null,
+    "url": "https://ara.so",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Self-driving AI IDE for proactive, autonomous product development",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "PearAI",
+    "slug": "pearai",
+    "maker": "trypear",
+    "license": "MIT",
+    "url": "https://trypear.ai",
+    "source_code_url": "https://github.com/trypear/pearai-app",
+    "platforms": [],
+    "stars": 706,
+    "first_released": "2024-10-03",
+    "language": "TypeScript",
+    "description": "Open-source AI code editor integrating AI tools for enhanced coding and project development.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Replicas",
+    "slug": "replicas",
+    "maker": "Replicas",
+    "license": null,
+    "url": "https://tryreplicas.com",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Background coding agents running in sandboxed dev environments",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Contral",
+    "slug": "contral",
+    "maker": "Contral",
+    "license": null,
+    "url": "https://contral.ai",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "An AI-powered IDE that teaches programming concepts in real-time as you build software.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Athena by LuckeySystems",
+    "slug": "athena-by-luckeysystems",
+    "maker": "luckeyfaraday",
+    "license": "NOASSERTION",
+    "url": "https://github.com/luckeyfaraday/Athena",
+    "source_code_url": "https://github.com/luckeyfaraday/Athena",
+    "platforms": [],
+    "stars": 30,
+    "first_released": "2026-05-12",
+    "language": "TypeScript",
+    "description": "Local-first desktop control surface and workshop for AI coding agents with persistent memory.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "VibeWorkspace",
+    "slug": "vibeworkspace",
+    "maker": "VibeWorkspace",
+    "license": null,
+    "url": "https://www.vibe-workspace.cloud",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "Local AI coding workspace to run parallel agents and tools.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "Sonarly",
+    "slug": "sonarly",
+    "maker": "Sonarly",
+    "license": null,
+    "url": "https://sonarly.com",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "AI agent that triages alerts and fixes production bugs with full system context.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "devstral2",
+    "slug": "devstral2",
+    "maker": "Mistral AI",
+    "license": null,
+    "url": "https://mistral.ai/news/devstral-2-vibe-cli/",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "State-of-the-art open-source coding models and CLI agent for software engineering.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
+  },
+  {
+    "name": "CodeNext.ai",
+    "slug": "codenextai",
+    "maker": "CodeNext",
+    "license": null,
+    "url": "https://codenext.ai",
+    "source_code_url": null,
+    "platforms": [],
+    "stars": null,
+    "first_released": null,
+    "language": null,
+    "description": "AI-powered Xcode assistant for faster iOS and Mac app development.",
+    "sources": [
+      "toolify"
+    ],
+    "source_urls": {
+      "toolify": "https://www.toolify.ai/category/ai-code-assistant"
+    }
   }
 ]

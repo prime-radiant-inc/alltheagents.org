@@ -1100,3 +1100,42 @@ Tencent Yuanqi	Tencent	Proprietary	https://yuanqi.tencent.com		No (proprietary)	
 Meoo	Meoo	Proprietary	https://meoo.com		No (proprietary)	Chinese AI coding assistant platform	Web						bing_ddg_chinese
 Moore Threads AI Coding	Moore Threads	Proprietary	https://www.mthreads.com		No (proprietary)	Moore Threads AI coding plan for GPU-accelerated development	CLI						bing_ddg_chinese
 Spark D2C Agent	iFlytek	Proprietary	https://iflytek.com		No (proprietary)	iFlytek's design-to-code agent for converting designs to code	Web						bing_ddg_chinese
+AI expert for codebases	Storia AI		https://storia.ai			AI expert for codebases with chat-oriented programming and codebase search.							toolify
+No Fate AI	No Fate AI		https://nofateai.com			AI assistant for software engineering tasks with expert support option.							toolify
+mutable.ai	MutableAI		https://mutable.ai			AI-powered platform for accelerated software development and code generation.							toolify
+crystl	crystl		https://crystl.dev			A multitasking macOS terminal built for AI coding agents.							toolify
+Exponent	Exponent		https://www.exponent.run			Exponent is an AI agent for collaborative software engineering tasks.							toolify
+Superlog	superloglabs	Apache-2.0	https://superlog.sh	https://github.com/superloglabs/superlog	Yes	Open-source autonomous observability tool that instruments code and automatically fixes bugs.		2026-06-02	2026-08-20	1358	TypeScript	https://superlog.sh	toolify
+ADE	arul28	AGPL-3.0	https://ade-app.dev	https://github.com/arul28/ADE	Yes	Open-source workspace for running and managing AI coding agents		2026-02-10	2026-08-20	89	TypeScript	https://www.ade-app.dev	toolify
+VibeKit	superagent-ai	MIT	https://www.vibekit.sh	https://github.com/superagent-ai/vibekit	Yes	Open-source SDK to run coding agents in secure sandboxes.		2025-05-14	2026-01-13	1847	TypeScript	https://vibekit.sh	toolify
+Line0	Line0		https://www.line0.dev			AI pair programmer for backend development, building Express.js APIs.							toolify
+Crew44	Crew44		https://crew44.io			Local-first multi-agent workspace orchestrating specialist AI teams.							toolify
+PlusB	PlusB		https://www.plusb.in			A unified AI workspace with 7 expert agents and top-tier model access.							toolify
+PUNK	PUNK		https://punkcode.rocks			Mobile remote control for local Claude Code AI agents.							toolify
+Tonkotsu	Tonkotsu		https://tonkotsu.ai			GUI to manage autonomous AI coding agents using a structured doc workflow.							toolify
+Nora	Nora		https://www.mynora.ai			Deep reasoning AI coding agent for Web3 development, enhancing productivity and code security.							toolify
+JACoB	Renaissance-Innovation-Labs	Apache-2.0	https://jacb.ai	https://github.com/Renaissance-Innovation-Labs/jacob-ai	Yes	JACoB is an open-source AI coding agent that automates tasks and enhances code quality.		2024-09-17	2024-09-16	1		https://jacb.ai	toolify
+Kane AI	LambdaTest (TestMu AI)		https://www.testmuai.com/kane-ai										toolify
+T3 Code	pingdotgg	MIT	https://t3.codes	https://github.com/pingdotgg/t3code	Yes	Open-source workspace for managing multiple coding agents		2026-02-08	2026-08-20	19621	TypeScript	https://t3.codes	toolify
+Pineify	Pineify		https://pineify.app										toolify
+Clacky	Clacky		https://clacky.ai			ClackyAI: Your agentic coding studio， prototype, refine, collaborate—and evolve							toolify
+Codey	Codey		https://www.codeyai.space			Local-first AI Development Operating System for building apps, running agents, and automating workflows.							toolify
+Mantlecore AI	Mantlecore		https://mantlecore.ai			Managed cloud for open-source AI agents							toolify
+CLI Manager	Solhun		https://www.solhun.com			Unified dashboard for managing AI CLI agents.							toolify
+Devle	Devle		https://devle.ai			AI platform to build apps and websites via chat.							toolify
+Scape	Scape		https://www.scape.work			A macOS workspace for orchestrating parallel AI coding agents and automating development workflows.							toolify
+Ovren	Ovren		https://www.ovren.ai			AI engineering platform providing autonomous developers to execute codebase tasks and deliver code updates.							toolify
+TryCase	TryCase		https://trycase.dev			Disposable Linux environments for AI agents to test apps end to end							toolify
+CrewArgo	Crewargo		https://www.crewargo.com			Desktop AI workspace delegating tasks to an orchestrated team of specialized agents.							toolify
+BLACKBOX.AI	BLACKBOX.AI		https://www.blackbox.ai			AI agent transforming work and learning with code completion and app building features.							toolify
+cto.new	cto.new		https://cto.new			Free AI code agent using frontier models from Anthropic, OpenAI.							toolify
+Palmier	Palmier		https://www.palmier.me			Autonomous AI software engineering assistant for development.							toolify
+Ara AI	Ara		https://ara.so			Self-driving AI IDE for proactive, autonomous product development							toolify
+PearAI	trypear	MIT	https://trypear.ai	https://github.com/trypear/pearai-app	Yes	Open-source AI code editor integrating AI tools for enhanced coding and project development.		2024-10-03	2025-05-20	706	TypeScript	https://trypear.ai	toolify
+Replicas	Replicas		https://tryreplicas.com			Background coding agents running in sandboxed dev environments							toolify
+Contral	Contral		https://contral.ai			An AI-powered IDE that teaches programming concepts in real-time as you build software.							toolify
+Athena by LuckeySystems	luckeyfaraday	NOASSERTION	https://github.com/luckeyfaraday/Athena	https://github.com/luckeyfaraday/Athena	Source-visible (no OSS license)	Local-first desktop control surface and workshop for AI coding agents with persistent memory.		2026-05-12	2026-08-10	30	TypeScript		toolify
+VibeWorkspace	VibeWorkspace		https://www.vibe-workspace.cloud			Local AI coding workspace to run parallel agents and tools.							toolify
+Sonarly	Sonarly		https://sonarly.com			AI agent that triages alerts and fixes production bugs with full system context.							toolify
+devstral2	Mistral AI		https://mistral.ai/news/devstral-2-vibe-cli/			State-of-the-art open-source coding models and CLI agent for software engineering.							toolify
+CodeNext.ai	CodeNext		https://codenext.ai			AI-powered Xcode assistant for faster iOS and Mac app development.							toolify

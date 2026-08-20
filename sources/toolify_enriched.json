@@ -1,0 +1,79 @@
+{
+  "superloglabs/superlog": {
+    "created_at": "2026-06-02T19:13:48Z",
+    "description": "Open-source observability tool that uses AI agents to self-heal your software",
+    "full_name": "superloglabs/superlog",
+    "homepage": "https://superlog.sh",
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "owner": "superloglabs",
+    "pushed_at": "2026-08-20T00:03:53Z",
+    "stargazers_count": 1358
+  },
+  "arul28/ADE": {
+    "created_at": "2026-02-10T17:36:36Z",
+    "description": null,
+    "full_name": "arul28/ADE",
+    "homepage": "https://www.ade-app.dev",
+    "language": "TypeScript",
+    "license": "AGPL-3.0",
+    "owner": "arul28",
+    "pushed_at": "2026-08-20T04:39:43Z",
+    "stargazers_count": 89
+  },
+  "superagent-ai/vibekit": {
+    "created_at": "2025-05-14T21:47:04Z",
+    "description": "Run Claude Code, Gemini, Codex \u2014 or any coding agent \u2014 in a clean, isolated sandbox with sensitive data redaction and observability baked in.",
+    "full_name": "superagent-ai/vibekit",
+    "homepage": "https://vibekit.sh",
+    "language": "TypeScript",
+    "license": "MIT",
+    "owner": "superagent-ai",
+    "pushed_at": "2026-01-13T18:48:57Z",
+    "stargazers_count": 1847
+  },
+  "Renaissance-Innovation-Labs/jacob-ai": {
+    "created_at": "2024-09-17T10:56:03Z",
+    "description": "Just Another Coding Bot",
+    "full_name": "Renaissance-Innovation-Labs/jacob-ai",
+    "homepage": "https://jacb.ai",
+    "language": null,
+    "license": "Apache-2.0",
+    "owner": "Renaissance-Innovation-Labs",
+    "pushed_at": "2024-09-16T22:53:11Z",
+    "stargazers_count": 1
+  },
+  "pingdotgg/t3code": {
+    "created_at": "2026-02-08T23:46:22Z",
+    "description": null,
+    "full_name": "pingdotgg/t3code",
+    "homepage": "https://t3.codes",
+    "language": "TypeScript",
+    "license": "MIT",
+    "owner": "pingdotgg",
+    "pushed_at": "2026-08-20T05:57:18Z",
+    "stargazers_count": 19621
+  },
+  "trypear/pearai-app": {
+    "created_at": "2024-10-03T17:30:05Z",
+    "description": "PearAI: Open Source AI Code Editor (Fork of VSCode). The PearAI Submodule (https://github.com/trypear/pearai-submodule) is a fork of Continue.",
+    "full_name": "trypear/pearai-app",
+    "homepage": "https://trypear.ai",
+    "language": "TypeScript",
+    "license": "MIT",
+    "owner": "trypear",
+    "pushed_at": "2025-05-20T13:40:04Z",
+    "stargazers_count": 706
+  },
+  "luckeyfaraday/Athena": {
+    "created_at": "2026-05-12T11:16:30Z",
+    "description": "Athena is a desktop control surface for AI coding agents with shared project context. Built with Electron, React, and FastAPI, it embeds native terminals for Codex, OpenCode, Claude, and Hermes with Hermes memory integration. Features MCP bridge for cross-platform workspace control, embedded PTY terminals, native session discovery, and more.",
+    "full_name": "luckeyfaraday/Athena",
+    "homepage": "",
+    "language": "TypeScript",
+    "license": null,
+    "owner": "luckeyfaraday",
+    "pushed_at": "2026-08-10T23:09:31Z",
+    "stargazers_count": 30
+  }
+}

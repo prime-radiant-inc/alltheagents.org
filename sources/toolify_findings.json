@@ -1,0 +1,3627 @@
+[
+  {
+    "name": "CodeOpt",
+    "slug": "codeopt-chatgpt-helper-for-jupyter",
+    "desc": "A Chrome extension integrating ChatGPT into Jupyter for AI-powered coding assistance."
+  },
+  {
+    "name": "Leetcode Buddy",
+    "slug": "leetcode-buddy",
+    "desc": "A Chrome extension that enhances Leetcode problem-solving using AI-powered Socratic method."
+  },
+  {
+    "name": "Code Optimizer Assistant",
+    "slug": "code-review-ai",
+    "desc": "Chrome extension for code optimization and refinement."
+  },
+  {
+    "name": "Producta",
+    "slug": "producta",
+    "desc": "AI-powered issue tracker that directly solves tickets and automates code generation."
+  },
+  {
+    "name": "Django Helper",
+    "slug": "django-helper",
+    "desc": "VS Code extension for Django developers with AI-powered assistance."
+  },
+  {
+    "name": "AI expert for codebases",
+    "slug": "storia-ai",
+    "desc": "AI expert for codebases with chat-oriented programming and codebase search."
+  },
+  {
+    "name": "Future4 Coding",
+    "slug": "future4-coding",
+    "desc": "AI coding intel source for developers and tech leaders."
+  },
+  {
+    "name": "No Fate AI",
+    "slug": "no-fate-ai",
+    "desc": "AI assistant for software engineering tasks with expert support option."
+  },
+  {
+    "name": "CodeGuide",
+    "slug": "codeguideai",
+    "desc": "AI-powered browser extension for mastering algorithms with personalized guidance and solutions."
+  },
+  {
+    "name": "AutoCodeWizard",
+    "slug": "autocodewizard",
+    "desc": "AI coding assistant for writing, optimizing, and understanding code."
+  },
+  {
+    "name": "AlgoAdvance Coding Helper",
+    "slug": "algoadvance-coding-helper",
+    "desc": "Chrome extension for coding interview preparation with real-time assistance and problem library."
+  },
+  {
+    "name": "AI Coding Assistant, Smart Contract Deployment, and Theta Network Integration with Cloud Features",
+    "slug": "theta-edge-extension",
+    "desc": "Platform for AI-assisted coding, smart contracts, Theta integration, and cloud features."
+  },
+  {
+    "name": "CommandAI",
+    "slug": "commandai",
+    "desc": "CommandAI: Command line tools for databases, scripts, and AI interactions."
+  },
+  {
+    "name": "AI Debug",
+    "slug": "ai-debug",
+    "desc": "AI-powered website for code debugging and programming solutions."
+  },
+  {
+    "name": "Innic",
+    "slug": "innic-data",
+    "desc": "AI-powered SQL database connection and management tool."
+  },
+  {
+    "name": "KuaFuAI",
+    "slug": "ai-code-analyzer",
+    "desc": "AI code analysis tool for quick code understanding."
+  },
+  {
+    "name": "PlayGoCode",
+    "slug": "gocode-playground",
+    "desc": "Online Go playground with AI support and code sharing."
+  },
+  {
+    "name": "CodeMoss AI",
+    "slug": "codemoss",
+    "desc": "A powerful AI programming assistant for comprehensive coding support and optimization."
+  },
+  {
+    "name": "PyAI",
+    "slug": "pyai",
+    "desc": "PYAI is an AI tool for Python coding, offering error detection, optimization, and debugging."
+  },
+  {
+    "name": "SmartCoder Chrome Extension",
+    "slug": "smartcoder",
+    "desc": "Customize and use your own AI bot in your browser."
+  },
+  {
+    "name": "StructWise",
+    "slug": "structwise",
+    "desc": "AI assistant for structural codes, standards, and guidances."
+  },
+  {
+    "name": "Serenade",
+    "slug": "serenade-for-chrome",
+    "desc": "Voice-controlled coding and web navigation tool."
+  },
+  {
+    "name": "BeeVP",
+    "slug": "beevp-sde-ai-automation",
+    "desc": "AI-powered software development assistant for streamlined coding and enhanced design."
+  },
+  {
+    "name": "RunGPT",
+    "slug": "rungpt-execute-chatgpt-code",
+    "desc": "Run code snippets directly within OpenAI chat for testing, debugging, and building apps."
+  },
+  {
+    "name": "ProjectGPT Project Starter",
+    "slug": "projectgpt",
+    "desc": "A Chrome extension using ChatGPT to generate project ideas and provide guidance."
+  },
+  {
+    "name": "BLACKBOX AI Extension",
+    "slug": "blackboxai",
+    "desc": "Browser extension for real-time coding assistance."
+  },
+  {
+    "name": "ScribeMonster",
+    "slug": "scribemonster",
+    "desc": "OpenAI integration for ServiceNow to improve code development workflow."
+  },
+  {
+    "name": "Leetcoach",
+    "slug": "leetcoach",
+    "desc": "Leetcoach provides feedback on your Leetcode solutions using a ChatGPT session."
+  },
+  {
+    "name": "Leetcode Walkthrough",
+    "slug": "marble-leetcode-tutor",
+    "desc": "AI-powered interactive walkthroughs for Leetcode problems."
+  },
+  {
+    "name": "GPT Code Assistant",
+    "slug": "gpt-code-assistant",
+    "desc": "ChatGPT-powered extension for efficient code development."
+  },
+  {
+    "name": "ChatGPT-powered AI Github Code Understanding Tool",
+    "slug": "codegenie-for-github",
+    "desc": "AI tool to understand GitHub code repositories and boost project development."
+  },
+  {
+    "name": "MicroGPT Extension",
+    "slug": "microgpt",
+    "desc": "Coding extension with AI suggestions, debugging, and documentation support."
+  },
+  {
+    "name": "GPTCodeForge",
+    "slug": "gptcodeforge",
+    "desc": "Transforms ChatGPT code blocks into full-fledged code editors."
+  },
+  {
+    "name": "ezCoders",
+    "slug": "ezcoders-free-chat-with-ai-for-coding-assistance",
+    "desc": "A Chrome extension for coding assistance via AI chat."
+  },
+  {
+    "name": "AppSec Assistant PRO",
+    "slug": "appsec-assistant",
+    "desc": "Jira plugin for AI-powered security recommendations."
+  },
+  {
+    "name": "SamaritanAI",
+    "slug": "samaritanai",
+    "desc": "AI tool visualizing codebases as network graphs, aiding open-source contributions."
+  },
+  {
+    "name": "brAIneous",
+    "slug": "ace-ai-coding-expert",
+    "desc": "brAIneous develops AI-driven web app development tools, including ACE, an AI coding assistant."
+  },
+  {
+    "name": "DeveloperPal",
+    "slug": "code-explainer",
+    "desc": "AI-powered code explainer and translator for developers."
+  },
+  {
+    "name": "Replit GPT Assistant",
+    "slug": "replit-gpt-assistant",
+    "desc": "AI assistant for Replit users, helping with coding, troubleshooting, and deployment."
+  },
+  {
+    "name": "MicroByte",
+    "slug": "microbyte",
+    "desc": "AI-powered code assistant suggesting code insertions and generating code from natural language."
+  },
+  {
+    "name": "CodeMaker AI",
+    "slug": "codemaker-ai",
+    "desc": "AI-powered toolkit for software developers to automate coding, testing, and documentation."
+  },
+  {
+    "name": "McAnswers",
+    "slug": "mcanswers-ai",
+    "desc": "AI-powered coding assistant with debugging, code generation, and learning resources."
+  },
+  {
+    "name": "Zevo.ai",
+    "slug": "zevo-ai",
+    "desc": "Zevo.ai is a dev tool for understanding codebases through code maps and dependency visualization."
+  },
+  {
+    "name": "JustCode",
+    "slug": "justcode",
+    "desc": "JustCode is an AI-powered VSCode tool for automatic JavaScript documentation generation."
+  },
+  {
+    "name": "Chatcody",
+    "slug": "chatcody",
+    "desc": "GPT-4 powered GitHub app for automated tasks and code reviews."
+  },
+  {
+    "name": "Octogen",
+    "slug": "octogen-an-open-source-code-interpreter",
+    "desc": "Open-source code interpreter powered by GPT3.5/4 and CodeLlama for code solutions and local deployment."
+  },
+  {
+    "name": "Kropply",
+    "slug": "kropply",
+    "desc": "VSCode extension for debugging: generates code, action points, and explains bugs."
+  },
+  {
+    "name": "CodeWiz",
+    "slug": "codewiz-ai-coding-companion",
+    "desc": "AI-powered coding solution for instant code insights and faster solutions."
+  },
+  {
+    "name": "AI Coder Buddy",
+    "slug": "ai-coder-buddy",
+    "desc": "AI-powered code assistant with offline support and instant code examples."
+  },
+  {
+    "name": "Repodex",
+    "slug": "repodex",
+    "desc": "Repodex automates code maintenance and bug fixes using AI."
+  },
+  {
+    "name": "CodeStory",
+    "slug": "codestory",
+    "desc": "AI-powered VSCode mod for bug fixing and collaborative AI-human coding."
+  },
+  {
+    "name": "CodeSense AI",
+    "slug": "codesense-ai",
+    "desc": "AI-powered Visual Studio Code extension for code explanation and comment generation."
+  },
+  {
+    "name": "Onboard",
+    "slug": "onboard-ai",
+    "desc": "AI tool to understand and navigate codebases."
+  },
+  {
+    "name": "CodeCompanion.AI",
+    "slug": "codecompanion-ai",
+    "desc": "AI-powered desktop app for coding assistance, project scaffolding, and code improvement."
+  },
+  {
+    "name": "Photocode: AI coding assistant",
+    "slug": "photocode",
+    "desc": "AI tool to analyze, explain, and debug code from photos."
+  },
+  {
+    "name": "PointDrift",
+    "slug": "point-drift",
+    "desc": "AI coding assistant for mindmap-to-code conversion, debugging, and codebase translation."
+  },
+  {
+    "name": "Hackerman.AI",
+    "slug": "hackerman-ai",
+    "desc": "AI-powered platform for practicing coding skills with generated programs and TODOs."
+  },
+  {
+    "name": "ObfusCat",
+    "slug": "obfuscat-ai-code-assistant",
+    "desc": "AI code assistant that protects code privacy when using ChatGPT."
+  },
+  {
+    "name": "Brainlox.AI",
+    "slug": "brainlox-ai",
+    "desc": "AI-powered platform for learning to code with personalized guidance and real-time feedback."
+  },
+  {
+    "name": "AskCodeBuddy.ai",
+    "slug": "askcodebuddy-ai",
+    "desc": "A conversational platform providing accurate coding help using ChatGPT and code context."
+  },
+  {
+    "name": "Lobby Code",
+    "slug": "lobby-code",
+    "desc": "AI programming assistant for rapid code generation and streamlined development."
+  },
+  {
+    "name": "SnippetSage",
+    "slug": "snippetsage",
+    "desc": "AI-powered Chrome extension for code assistance."
+  },
+  {
+    "name": "debugcode.ai",
+    "slug": "debugcode-ai",
+    "desc": "AI-powered tool to help developers debug code quickly and easily."
+  },
+  {
+    "name": "GitterBot.io",
+    "slug": "gitterbot-io",
+    "desc": "AI conversational documentation for SaaS, using LLMs to understand codebase."
+  },
+  {
+    "name": "Debuggr.net",
+    "slug": "debuggr",
+    "desc": "Free AI debugging tool to find and fix code bugs."
+  },
+  {
+    "name": "Flowie",
+    "slug": "flowie",
+    "desc": "Webflow solutions hub with code snippets, tutorials, and an AI code assistant."
+  },
+  {
+    "name": "CodeUtils",
+    "slug": "code-utilities-powered-by-ai",
+    "desc": "AI-powered coding utilities for generating tests, documentation, refactoring, and debugging code."
+  },
+  {
+    "name": "Git Assistant",
+    "slug": "git-assistant",
+    "desc": "A tool for iterative coding with Github and Chat GPT."
+  },
+  {
+    "name": "Devassistant.ai",
+    "slug": "devassistant-ai",
+    "desc": "AI co-programmer with GPT-4 access to a dev workstation for coding and DevOps tasks."
+  },
+  {
+    "name": "OpenAI Study Buddy",
+    "slug": "openai-study-buddy",
+    "desc": "AI-powered Chrome extension for coding hints."
+  },
+  {
+    "name": "Eval",
+    "slug": "eval",
+    "desc": "Eval is an AI coding assistant that provides AI pair programming and documentation."
+  },
+  {
+    "name": "GitGab",
+    "slug": "gitgab",
+    "desc": "GitGab connects AI models to your code for enhanced code assistance."
+  },
+  {
+    "name": "AlgoHack",
+    "slug": "algohack",
+    "desc": "AI tool to solve algorithm challenges and provide solutions in multiple languages."
+  },
+  {
+    "name": "Cursor",
+    "slug": "cursor",
+    "desc": "AI-powered code editor for faster software development and pair-programming."
+  },
+  {
+    "name": "CodeSquire",
+    "slug": "codesquire",
+    "desc": "AI code writing assistant for data scientists, offering code completion and function generation."
+  },
+  {
+    "name": "mutable.ai",
+    "slug": "mutable",
+    "desc": "AI-powered platform for accelerated software development and code generation."
+  },
+  {
+    "name": "Sketch",
+    "slug": "sketch",
+    "desc": "AI code-writing assistant for pandas users that understands data context."
+  },
+  {
+    "name": "Pine Script Wizard AI",
+    "slug": "pine-script-wizard-ai",
+    "desc": "AI-powered Pine Script code generator for TradingView strategies and indicators."
+  },
+  {
+    "name": "Fig",
+    "slug": "fig-ai",
+    "desc": "Fig was a command-line tool, now sunset, users should migrate to Amazon Q."
+  },
+  {
+    "name": "crystl",
+    "slug": "crystl",
+    "desc": "A multitasking macOS terminal built for AI coding agents."
+  },
+  {
+    "name": "Ladderly",
+    "slug": "ladderly-io",
+    "desc": "Coding bootcamp alternative and career accelerator for tech professionals."
+  },
+  {
+    "name": "Relace",
+    "slug": "relace",
+    "desc": "AI models and infrastructure for autonomous code generation."
+  },
+  {
+    "name": "stagewise",
+    "slug": "stagewise",
+    "desc": "Integrates AI dev agents for visual UI editing with prompts."
+  },
+  {
+    "name": "Exponent",
+    "slug": "exponent",
+    "desc": "Exponent is an AI agent for collaborative software engineering tasks."
+  },
+  {
+    "name": "OmniAI",
+    "slug": "omniai-club",
+    "desc": "AI-driven content creation platform with writing, coding, image, voice, and music tools."
+  },
+  {
+    "name": "Superlog",
+    "slug": "superlog",
+    "desc": "Open-source autonomous observability tool that instruments code and automatically fixes bugs."
+  },
+  {
+    "name": "Duino Code Generator",
+    "slug": "duino-code-generator",
+    "desc": "AI-powered Arduino code generator for easy project development."
+  },
+  {
+    "name": "Potpie AI",
+    "slug": "potpie-ai",
+    "desc": "Potpie AI: Custom AI agents for codebases, enhancing engineering tasks."
+  },
+  {
+    "name": "Takeoff AI",
+    "slug": "jointakeoff-com",
+    "desc": "Online platform for learning AI skills through courses and resources."
+  },
+  {
+    "name": "CodePal",
+    "slug": "codepal",
+    "desc": "AI-powered coding tools for code generation, review, simplification, and bug detection."
+  },
+  {
+    "name": "Modly.AI",
+    "slug": "modly",
+    "desc": "AI tool for generating high-quality content and streamlining workflows for various professionals."
+  },
+  {
+    "name": "DevKit",
+    "slug": "devgpt",
+    "desc": "AI assistant for developers with ChatGPT and 30+ mini-devtools."
+  },
+  {
+    "name": "SkillKit",
+    "slug": "skillkit",
+    "desc": "Universal open-source package manager to deploy and manage skills across 32+ AI coding agents."
+  },
+  {
+    "name": "Refraction",
+    "slug": "refraction",
+    "desc": "AI-powered code generation tool for developers."
+  },
+  {
+    "name": "ProMind AI",
+    "slug": "promind-ai",
+    "desc": "ProMind AI: Personalized AI agents for content creation, coding, and task management."
+  },
+  {
+    "name": "ADE",
+    "slug": "ade",
+    "desc": "Open-source workspace for running and managing AI coding agents"
+  },
+  {
+    "name": "Programming Helper",
+    "slug": "programminghelper",
+    "desc": "AI-powered tool for code generation, translation, and debugging."
+  },
+  {
+    "name": "EarlyAI",
+    "slug": "earlyai",
+    "desc": "EarlyAI is an AI agent that automatically generates high-quality unit tests for application code."
+  },
+  {
+    "name": "TurboSQL",
+    "slug": "turbosql",
+    "desc": "AI-powered SQL desktop app for fast and efficient database management and query writing."
+  },
+  {
+    "name": "Goptimise",
+    "slug": "goptimise-beta",
+    "desc": "No-code backend builder with AI assistance for scalable APIs and efficient development."
+  },
+  {
+    "name": "AtozAi",
+    "slug": "atozai",
+    "desc": "AI-powered platform for coding assistance, debugging, and code conversion."
+  },
+  {
+    "name": "GitHub Copilot",
+    "slug": "copilot",
+    "desc": "AI pair programmer for real-time code suggestions and increased developer productivity."
+  },
+  {
+    "name": "CleverAI",
+    "slug": "cleverai",
+    "desc": "All-in-one AI platform for content generation, graphic design, and more."
+  },
+  {
+    "name": "Imandra Inc.",
+    "slug": "imandra-ai",
+    "desc": "Imandra provides a Reasoning as a Service® platform for logical reasoning in AI systems."
+  },
+  {
+    "name": "Phind AI",
+    "slug": "phind-ai-alternative",
+    "desc": "Phind AI: Affordable AI search engine alternative."
+  },
+  {
+    "name": "CodeThreat",
+    "slug": "codethreat",
+    "desc": "AI-powered SAST solution for comprehensive code analysis and security."
+  },
+  {
+    "name": "Kilo Code",
+    "slug": "kilo-ai",
+    "desc": "Open-source AI coding assistant for VS Code, enhancing coding efficiency and automation."
+  },
+  {
+    "name": "SoftSpell",
+    "slug": "softspell",
+    "desc": "AI tool automating the entire SDLC from design to deployment."
+  },
+  {
+    "name": "Stenography",
+    "slug": "stenography",
+    "desc": "Automatic documentation tool for code with API and extensions."
+  },
+  {
+    "name": "Taiga",
+    "slug": "taiga",
+    "desc": "Taiga is an AI coding mentor in Slack, offering real-time feedback and collaborative learning."
+  },
+  {
+    "name": "EZAI",
+    "slug": "ezai-io",
+    "desc": "EZAI: Secure, customizable AI suite for enterprise integration and automation."
+  },
+  {
+    "name": "VibeKit",
+    "slug": "vibekit",
+    "desc": "Open-source SDK to run coding agents in secure sandboxes."
+  },
+  {
+    "name": "What The Diff",
+    "slug": "whatthediff",
+    "desc": "AI-powered code review assistant for automated pull request summaries and code refactoring."
+  },
+  {
+    "name": "Line0",
+    "slug": "line0",
+    "desc": "AI pair programmer for backend development, building Express.js APIs."
+  },
+  {
+    "name": "Devika AI",
+    "slug": "devika-ai",
+    "desc": "Open-source AI software engineer that understands instructions, researches, and generates code."
+  },
+  {
+    "name": "iPrep.Ai",
+    "slug": "iprep-ai",
+    "desc": "iPrep.Ai is an AI-powered platform for interview preparation with mock interview practice sessions."
+  },
+  {
+    "name": "AI Code Translator",
+    "slug": "ai-code-translator",
+    "desc": "AI-powered online tool for seamless code translation between programming languages."
+  },
+  {
+    "name": "Crev",
+    "slug": "crev",
+    "desc": "CLI tool for AI-powered code reviews to improve code quality and catch bugs."
+  },
+  {
+    "name": "Osloq",
+    "slug": "osloq",
+    "desc": "AI tool that reproduces GitHub issues in isolated sandboxes with evidence"
+  },
+  {
+    "name": "MyThinkingCap",
+    "slug": "mythinkingcap-ai",
+    "desc": "AI learning platform for kids aged 5-12, offering curriculum-infused tools and a safe learning environment."
+  },
+  {
+    "name": "CopyCoder",
+    "slug": "copycoder",
+    "desc": "CopyCoder generates AI prompts for coding tools from images to build apps faster."
+  },
+  {
+    "name": "RoboCoder",
+    "slug": "robocoder",
+    "desc": "VS Code extension integrating GPT-4o for AI-assisted coding and file editing."
+  },
+  {
+    "name": "100 Vibe Coding",
+    "slug": "100-vibe-coding",
+    "desc": "Learn to build projects fast with AI using 100 coding challenges."
+  },
+  {
+    "name": "La Terminal",
+    "slug": "la-terminal",
+    "desc": "Native SSH client for iPhone, iPad, and Vision Pro with advanced features."
+  },
+  {
+    "name": "Pixelcode",
+    "slug": "pixelcode",
+    "desc": "Pixelcode extracts editable code from screenshots, videos, images, and PDFs."
+  },
+  {
+    "name": "GPT CLI",
+    "slug": "gptcli",
+    "desc": "A CLI tool to create custom ChatGPT command-line tools."
+  },
+  {
+    "name": "Crew44",
+    "slug": "crew44",
+    "desc": "Local-first multi-agent workspace orchestrating specialist AI teams."
+  },
+  {
+    "name": "Ghost Engineer",
+    "slug": "ghost-engineer",
+    "desc": "AI tool for real-time, undetectable coding help during technical interviews."
+  },
+  {
+    "name": "Avanty",
+    "slug": "avanty",
+    "desc": "AI-powered data query and BI tool for Metabase, automating SQL tasks."
+  },
+  {
+    "name": "CodeSensAI",
+    "slug": "codesensai",
+    "desc": "AI-powered code review tool for intelligent insights and enhanced code quality."
+  },
+  {
+    "name": "GitFluence",
+    "slug": "gitfluence",
+    "desc": "AI-powered tool to quickly find the right Git command."
+  },
+  {
+    "name": "Devlands",
+    "slug": "devlands",
+    "desc": "Gamified Git learning platform turning repositories into 3D worlds for intuitive understanding."
+  },
+  {
+    "name": "Claudebin",
+    "slug": "claudebin",
+    "desc": "Export and share Claude Code terminal sessions as navigable, embeddable web URLs."
+  },
+  {
+    "name": "Design In The Browser",
+    "slug": "design-in-the-browser",
+    "desc": "AI-powered visual frontend development tool using point-and-click browser editing."
+  },
+  {
+    "name": "Zemith AI",
+    "slug": "infobaseai",
+    "desc": "All-in-one AI platform with chat, search, notes, document analysis, and image generation tools."
+  },
+  {
+    "name": "Writebyai",
+    "slug": "writebyai",
+    "desc": "AI content, code, and marketing tool for teams to scale content creation."
+  },
+  {
+    "name": "BashSenpai",
+    "slug": "bashsenpai",
+    "desc": "AI-powered terminal assistant that transforms text into executable commands."
+  },
+  {
+    "name": "CodeWP",
+    "slug": "codewp-ai",
+    "desc": "AI-powered WordPress code generator for snippets, WooCommerce, and popular plugins."
+  },
+  {
+    "name": "SQLAI.ai",
+    "slug": "aihelperbot",
+    "desc": "AI-powered SQL multi-tool for generating, optimizing, and managing SQL and NoSQL queries."
+  },
+  {
+    "name": "Metabob",
+    "slug": "metabob",
+    "desc": "AI code review tool for debugging and reducing code complexity."
+  },
+  {
+    "name": "Code Genius",
+    "slug": "code-genius",
+    "desc": "AI code assistant for code analysis, suggestions, unit tests, and documentation."
+  },
+  {
+    "name": "MCP Playground",
+    "slug": "mcp-playground",
+    "desc": "Web-based developer tool to inspect, test, debug, and develop MCP server integrations."
+  },
+  {
+    "name": "CybeDefend",
+    "slug": "cybedefend",
+    "desc": "AI-powered application security testing solution for real-time vulnerability detection and remediation."
+  },
+  {
+    "name": "DevBooster",
+    "slug": "devbooster",
+    "desc": "AI browser extension for smarter copy-paste coding, validation, optimization, and documentation."
+  },
+  {
+    "name": "Claude & Codex Plugins",
+    "slug": "claude-codex-plugins",
+    "desc": "Curated community registry for Claude Code and OpenAI Codex plugins and agentic skills."
+  },
+  {
+    "name": "CodebaseChat",
+    "slug": "codebasechat",
+    "desc": "Create a GPT chatbot for any GitHub repo."
+  },
+  {
+    "name": "Chat2Code",
+    "slug": "chat2code",
+    "desc": "AI-powered platform for generating and modifying React components interactively."
+  },
+  {
+    "name": "AgentHub",
+    "slug": "agenthub-2-0",
+    "desc": "Native macOS hub for managing Claude Code and Codex CLI sessions."
+  },
+  {
+    "name": "KodHau MCP",
+    "slug": "kodhau-tribal-knowledge-for-ai-agents",
+    "desc": "Injects undocumented team tribal knowledge and PR history into AI coding agents."
+  },
+  {
+    "name": "PlusB",
+    "slug": "plusb",
+    "desc": "A unified AI workspace with 7 expert agents and top-tier model access."
+  },
+  {
+    "name": "Git Pitcher",
+    "slug": "git-pitcher",
+    "desc": "Reverse engineers GitHub repos into actionable build plans and AI agent prompts."
+  },
+  {
+    "name": "Pluto Door",
+    "slug": "pluto-door",
+    "desc": "A modern macOS SSH client with integrated terminal, SFTP, editor, and AI assistant."
+  },
+  {
+    "name": "PUNK",
+    "slug": "punk-remote-control-for-claude-code",
+    "desc": "Mobile remote control for local Claude Code AI agents."
+  },
+  {
+    "name": "SessionCast",
+    "slug": "sessioncast",
+    "desc": "Remote terminal streaming for monitoring AI CLI tools from mobile devices."
+  },
+  {
+    "name": "Codeace",
+    "slug": "codeace-ai",
+    "desc": "Undetectable real-time AI assistant for acing technical and coding interviews."
+  },
+  {
+    "name": "Tonkotsu",
+    "slug": "tonkotsu",
+    "desc": "GUI to manage autonomous AI coding agents using a structured doc workflow."
+  },
+  {
+    "name": "Antigravity",
+    "slug": "antigravity",
+    "desc": "Playful browser Easter eggs and an AI coding platform."
+  },
+  {
+    "name": "Scout0",
+    "slug": "scout0",
+    "desc": "AI code review for learning, analyzing security, performance, quality, and bugs."
+  },
+  {
+    "name": "Nora",
+    "slug": "nora-not-another-copilot-something-deeper",
+    "desc": "Deep reasoning AI coding agent for Web3 development, enhancing productivity and code security."
+  },
+  {
+    "name": "Snapmark",
+    "slug": "snapmark-1",
+    "desc": "Visual UI development tool for precise AI code generation."
+  },
+  {
+    "name": "VibeScan",
+    "slug": "vibescan",
+    "desc": "Scan, find, and fix issues in AI-generated code for confident shipping."
+  },
+  {
+    "name": "LightLayer",
+    "slug": "lightlayer",
+    "desc": "Voice-native AI code review workspace for engineers."
+  },
+  {
+    "name": "Horizon Alpha",
+    "slug": "horizon-alpha",
+    "desc": "Next-gen AI platform for creation, research, and delivery."
+  },
+  {
+    "name": "Gpt 5 Ai",
+    "slug": "gpt-5-ai",
+    "desc": "Advanced AI platform for chat, coding, math, and reasoning."
+  },
+  {
+    "name": "Kimi k2",
+    "slug": "kimi-k2",
+    "desc": "Open-source AI chat platform, outperforms GPT-4, 95% less cost."
+  },
+  {
+    "name": "Phion",
+    "slug": "phion-dev",
+    "desc": "AI coding platform with zero setup, handling dev ops for focused creation."
+  },
+  {
+    "name": "Better AI Code",
+    "slug": "better-ai-code",
+    "desc": "A coding tool to generate and improve AI coding prompts quickly."
+  },
+  {
+    "name": "Smart Keys",
+    "slug": "smart-keys-for-mac",
+    "desc": "Smart Keys enhances writing with keyboard shortcuts for grammar, translation, and coding."
+  },
+  {
+    "name": "Grok Studio",
+    "slug": "grok-studio",
+    "desc": "Collaborative AI workspace for documents, code, reports, and browser games."
+  },
+  {
+    "name": "ReviewForge",
+    "slug": "reviewforge",
+    "desc": "AI-powered code review platform for automated analysis and improved code quality."
+  },
+  {
+    "name": "Interview Code Ace",
+    "slug": "interview-code-ace",
+    "desc": "AI-powered tool for technical interview preparation and coding assistance."
+  },
+  {
+    "name": "CodeBox AI",
+    "slug": "codebox-ai",
+    "desc": "AI-powered coding platform for technical interview preparation and skill improvement."
+  },
+  {
+    "name": "RocketSaas",
+    "slug": "rocketsaas",
+    "desc": "Rapid SaaS MVP development platform with integrated tools and templates."
+  },
+  {
+    "name": "Code Rev.",
+    "slug": "code-rev",
+    "desc": "AI-powered code review platform for improving code quality and collaboration."
+  },
+  {
+    "name": "Allyzio Copilot",
+    "slug": "allyzio-copilot",
+    "desc": "AI-powered programming assistant for code refactoring, testing, and explanation."
+  },
+  {
+    "name": "ZAST.AI",
+    "slug": "zast-ai-helper",
+    "desc": "AI-powered cybersecurity platform for vulnerability detection and remediation."
+  },
+  {
+    "name": "Sensei AI",
+    "slug": "sensei-ai-coding-copilot",
+    "desc": "Real-time AI interview copilot providing coding assistance and explanations."
+  },
+  {
+    "name": "lluminy",
+    "slug": "lluminy",
+    "desc": "AI-powered tool to automate Python documentation with docstring generation."
+  },
+  {
+    "name": "Phi AI for Pega",
+    "slug": "phi-ai-for-low-no-code-pega",
+    "desc": "Chrome extension for Pega developers, analyzing code, suggesting comments, and answering Pega questions."
+  },
+  {
+    "name": "AI Code Preview",
+    "slug": "ai-code-preview",
+    "desc": "Chrome extension for real-time preview of HTML, CSS, JavaScript, React, and Vue code."
+  },
+  {
+    "name": "CR-Mentor",
+    "slug": "cr-mentor",
+    "desc": "AI-powered code review assistant with knowledge base and LLM integration."
+  },
+  {
+    "name": "SnapAI",
+    "slug": "snap-ai",
+    "desc": "A Mac AI assistant for writing, coding, translation, and productivity."
+  },
+  {
+    "name": "GitCase",
+    "slug": "gitcase-dev",
+    "desc": "Secure developer portfolio builder with AI-powered code transformation."
+  },
+  {
+    "name": "InstaSolve AI",
+    "slug": "instasolve-ai",
+    "desc": "AI-powered co-pilot for real-time assessment and live coding interview solutions."
+  },
+  {
+    "name": "Devgen",
+    "slug": "devgen",
+    "desc": "Codebase research assistant for easy code reading and understanding."
+  },
+  {
+    "name": "FirstMate",
+    "slug": "firstmate",
+    "desc": "FirstMate automates code reviews, debugs pipelines, and helps maintain codebase quality."
+  },
+  {
+    "name": "JSON Formatter",
+    "slug": "ai-json-formatter",
+    "desc": "Online tool to format, validate, and beautify JSON data, with AI fixing."
+  },
+  {
+    "name": "SPAICE",
+    "slug": "spaice",
+    "desc": "A dynamic workspace for visually organizing code, thoughts, and files with AI."
+  },
+  {
+    "name": "1MB",
+    "slug": "1mb-v4",
+    "desc": "User-friendly platform for website and blog building with AI assistance."
+  },
+  {
+    "name": "AI Code Guide",
+    "slug": "ai-code-guide",
+    "desc": "AI coding resource hub with tools, tutorials, and project templates for beginners."
+  },
+  {
+    "name": "edCode",
+    "slug": "edcode",
+    "desc": "edCode is an easy and accessible platform for learning to code with gamified lessons."
+  },
+  {
+    "name": "GitHub Repository AI Assistant",
+    "slug": "github-sage",
+    "desc": "An AI assistant in a GitHub side panel to answer questions about the repository."
+  },
+  {
+    "name": "Mergy",
+    "slug": "mergy-by-betalgo",
+    "desc": "Browser extension for simplifying GitHub repository integration with Claude AI."
+  },
+  {
+    "name": "CodeAir",
+    "slug": "codeair",
+    "desc": "Mobile app to control VS Code remotely with file transfer and AI support."
+  },
+  {
+    "name": "gaidme",
+    "slug": "gaidme",
+    "desc": "AI-powered CLI tool to generate terminal commands based on question and history."
+  },
+  {
+    "name": "Trag",
+    "slug": "trag",
+    "desc": "AI code review tool that automates code reviews using plain English rules."
+  },
+  {
+    "name": "MATE: AI Code Review",
+    "slug": "mate-ai-code-review",
+    "desc": "AI-powered code review assistant for faster and better code."
+  },
+  {
+    "name": "Scriptio AI",
+    "slug": "scriptio-ai",
+    "desc": "AI-powered coding solutions for fast and easy code generation in any programming language."
+  },
+  {
+    "name": "Folderer",
+    "slug": "folderer",
+    "desc": "AI-powered code generation and organization integrated with GitHub repositories."
+  },
+  {
+    "name": "MUI VS Code Extension",
+    "slug": "mui-for-vs-code",
+    "desc": "MUI VS Code Extension provides in-editor documentation and AI assistance for MUI development."
+  },
+  {
+    "name": "JACoB",
+    "slug": "jacob-just-another-coding-bot",
+    "desc": "JACoB is an open-source AI coding agent that automates tasks and enhances code quality."
+  },
+  {
+    "name": "GPT中文站",
+    "slug": "gpt%E4%B8%AD%E6%96%87%E7%AB%99",
+    "desc": "A comprehensive AI assistant offering diverse functionalities like dialogue, painting, and programming."
+  },
+  {
+    "name": "Prepfox",
+    "slug": "prepfox",
+    "desc": "AI-powered platform for software engineers to prepare for coding interviews."
+  },
+  {
+    "name": "Dash AI",
+    "slug": "dashworks",
+    "desc": "Intelligent assistant that integrates with work apps to answer questions, generate content, and more."
+  },
+  {
+    "name": "Маша AI",
+    "slug": "mashagpt",
+    "desc": "AI-powered browser extension for knowledge, content generation, and language learning."
+  },
+  {
+    "name": "ChatGPT Chrome Extension",
+    "slug": "gogptgo",
+    "desc": "Use ChatGPT on any tab without copy-pasting for enhanced productivity."
+  },
+  {
+    "name": "文小助",
+    "slug": "%E6%96%87%E5%B0%8F%E5%8A%A9-%E4%B8%AD%E6%96%87%E7%89%88gpt%E6%99%BA%E8%83%BD%E5%8A%A9%E6%89%8B",
+    "desc": "GPT AI-powered browser extension for writing, coding, and answering questions."
+  },
+  {
+    "name": "GPT-Enhancer",
+    "slug": "gptenhancer",
+    "desc": "A browser extension that enhances ChatGPT by integrating files into the conversation context."
+  },
+  {
+    "name": "Metabase - ChatGPT Extension",
+    "slug": "metabase-chatgpt",
+    "desc": "Metabase extension using ChatGPT for query assistance."
+  },
+  {
+    "name": "Abalone.ai",
+    "slug": "abalone-ai-chatgpt-ai-gmail-assistant",
+    "desc": "Abalone.ai is an AI helper for writing articles and code."
+  },
+  {
+    "name": "Sweep",
+    "slug": "sweep-extension",
+    "desc": "AI junior developer automating GitHub tasks with a browser extension for easy issue creation."
+  },
+  {
+    "name": "CodeChatGPT",
+    "slug": "codechatgpt",
+    "desc": "Chrome extension to train ChatGPT on code for code discussions."
+  },
+  {
+    "name": "ChatGPT Coding Tips",
+    "slug": "learn-coding-with-chatgpt",
+    "desc": "Coding tips in every new tab for fast learning."
+  },
+  {
+    "name": "ModifyGPT",
+    "slug": "modifygpt-customize-web-pages-with-chatgpt",
+    "desc": "Modify web pages with simple prompts using ChatGPT."
+  },
+  {
+    "name": "CodeHugo",
+    "slug": "codehugo",
+    "desc": "CodeHugo is an AI-powered coding mentor platform for engineers to improve coding skills."
+  },
+  {
+    "name": "Haechi AI",
+    "slug": "haechi-ai",
+    "desc": "AI platform with Claude 3, Gemini AI, GPT, and Stable Diffusion XL."
+  },
+  {
+    "name": "JetCode",
+    "slug": "jetcode",
+    "desc": "AI platform transforming project requirements into precise coding guides for efficient development."
+  },
+  {
+    "name": "Ramban.AI",
+    "slug": "ramban-ai",
+    "desc": "All-in-one AI platform for content creation, multimedia, and collaboration."
+  },
+  {
+    "name": "Otto Engineer",
+    "slug": "otto-engineer",
+    "desc": "Autonomous AI sidekick that iterates and tests code in a safe environment."
+  },
+  {
+    "name": "Devin AI",
+    "slug": "devinai-dev",
+    "desc": "The first autonomous AI software engineer by Cognition Labs."
+  },
+  {
+    "name": "Swizzle",
+    "slug": "swizzle",
+    "desc": "A platform for building web apps with integrated AI and full-stack capabilities."
+  },
+  {
+    "name": "CodeDefender α",
+    "slug": "codedefender",
+    "desc": "AI sidekick for developers to find coding issues and deliver high-quality code."
+  },
+  {
+    "name": "CodeMate",
+    "slug": "codemate",
+    "desc": "A search engine designed specifically for developers to find coding solutions."
+  },
+  {
+    "name": "ChatterBox",
+    "slug": "chatterbox",
+    "desc": "One-stop solution for AI tools: chatbots, recipes, and content generation."
+  },
+  {
+    "name": "Gemini",
+    "slug": "gemini-apk-for-android-and-ios",
+    "desc": "Gemini is a Google AI chatbot for questions, coding, image generation, and more."
+  },
+  {
+    "name": "Sage AI",
+    "slug": "sage-ai",
+    "desc": "Self-generating, self-maintaining code knowledge base for clarifying complex codebases."
+  },
+  {
+    "name": "Astronuts",
+    "slug": "astronuts",
+    "desc": "AI-powered software engineering co-pilot for faster code shipping and improved metrics."
+  },
+  {
+    "name": "SupaLaunch",
+    "slug": "supalaunch",
+    "desc": "SaaS boilerplate with NextJS, Supabase, and Stripe integration for rapid SaaS development."
+  },
+  {
+    "name": "Copilot Hub",
+    "slug": "copilothub-ai",
+    "desc": "An all-in-one AI toolbox for students and knowledge-based workers."
+  },
+  {
+    "name": "CodeWhizz",
+    "slug": "codewhizz-dev",
+    "desc": "AI-powered Python code generator, debugger, and tutor with a built-in IDE."
+  },
+  {
+    "name": "Oh-heck",
+    "slug": "oh-heck-dev",
+    "desc": "AI-powered command-line tool for generating terminal commands from natural language."
+  },
+  {
+    "name": "DevMind",
+    "slug": "devmind",
+    "desc": "DevMind: AI-driven creativity hub with various AI tools for developers."
+  },
+  {
+    "name": "GPTs For Devs",
+    "slug": "code-gen-gpts-for-ios-devs",
+    "desc": "A resource offering framework-specific code-generation GPTs for iOS developers."
+  },
+  {
+    "name": "Vairflow",
+    "slug": "vairflow",
+    "desc": "AI-driven Cloud IDE for faster and more efficient development."
+  },
+  {
+    "name": "Code Companion",
+    "slug": "code-companion",
+    "desc": "GPT-4 based programming tutor offering real-time help and feedback for programming problems."
+  },
+  {
+    "name": "Mimrr",
+    "slug": "mimrr",
+    "desc": "Mimrr is an AI code documentation solution that automates documentation and repetitive tasks for development teams."
+  },
+  {
+    "name": "Landrific AI",
+    "slug": "landrific-ai",
+    "desc": "All-in-one AI platform for chat, video, photo, audio, and code creation."
+  },
+  {
+    "name": "Code Genie",
+    "slug": "code-genie-ai",
+    "desc": "AI-driven tool for auditing, fixing, and documenting smart contracts across multiple blockchain networks."
+  },
+  {
+    "name": "Pgrammer",
+    "slug": "pgrammer",
+    "desc": "AI-powered coding interview practice platform with personalized learning and hints."
+  },
+  {
+    "name": "Pacely",
+    "slug": "pacely-project-management",
+    "desc": "Project management tool with AI assistant for code understanding and development guidance."
+  },
+  {
+    "name": "JIT.codes",
+    "slug": "jit-codes",
+    "desc": "AI coding assistant for code generation and a community for sharing AI-generated code."
+  },
+  {
+    "name": "Swimm",
+    "slug": "swimm-ai-beta",
+    "desc": "Swimm is a code documentation platform that uses AI to improve team collaboration."
+  },
+  {
+    "name": "SeniorDev",
+    "slug": "seniordev",
+    "desc": "AI-powered web application for efficient development teams."
+  },
+  {
+    "name": "Engine",
+    "slug": "backengine",
+    "desc": "AI software engineer automating pull requests and clearing backlogs."
+  },
+  {
+    "name": "Zazzani AI",
+    "slug": "zazzani-ai",
+    "desc": "Zazzani AI generates text, art, and code to speed up workflows."
+  },
+  {
+    "name": "Pull Request Review Helper",
+    "slug": "pull-request-review-helper",
+    "desc": "Chrome extension automates pull request reviews with AI-driven optimization suggestions."
+  },
+  {
+    "name": "SuperSnippets - Code Organizer",
+    "slug": "supersnippets-code-organizer",
+    "desc": "Code snippet manager with AI, Xcode syncing, and multi-language support."
+  },
+  {
+    "name": "Refiner",
+    "slug": "refiner",
+    "desc": "AI-powered open-source code refactoring and generation service."
+  },
+  {
+    "name": "codefy.ai",
+    "slug": "codefy-ai",
+    "desc": "AI-powered coding toolkit with 15+ tools to speed up developer workflows."
+  },
+  {
+    "name": "MarkDX",
+    "slug": "markdx",
+    "desc": "AI-powered Markdown editor for efficient and standardized document creation."
+  },
+  {
+    "name": "Sveltron",
+    "slug": "sveltron",
+    "desc": "Sveltron is a documentation copilot for Svelte and SvelteKit projects."
+  },
+  {
+    "name": "Regis AI: Coding Interviews Assistant",
+    "slug": "regis-ai-chatbot-with-api-integration",
+    "desc": "Coding interview assistant Chrome extension with AI-powered practice and task management."
+  },
+  {
+    "name": "AutoGPT on Mobile",
+    "slug": "autogpt-on-mobile",
+    "desc": "AutoGPT on mobile: Autonomous AI for tasks, learning, and adaptation."
+  },
+  {
+    "name": "LearnEase",
+    "slug": "learnease",
+    "desc": "LearnEase simplifies learning tech concepts with AI-powered explanations and practical examples."
+  },
+  {
+    "name": "Cosine AI",
+    "slug": "buildt",
+    "desc": "AI developer platform automating software development workflows with an autonomous AI engineer."
+  },
+  {
+    "name": "Refraction",
+    "slug": "airtest",
+    "desc": "AI code generation tool for refactoring, documentation, and unit tests."
+  },
+  {
+    "name": "heyCLI",
+    "slug": "heycli",
+    "desc": "heyCLI translates natural language into Linux terminal commands."
+  },
+  {
+    "name": "Google Colab Copilot",
+    "slug": "google-colab-copilot",
+    "desc": "AI Python coding assistant for Google Colab."
+  },
+  {
+    "name": "ChatGPT",
+    "slug": "chatgpt-4",
+    "desc": "A free-to-use AI system for conversations, insights, and task automation."
+  },
+  {
+    "name": "Replit",
+    "slug": "replit",
+    "desc": "Online IDE for coding, collaboration, and deployment with AI assistance."
+  },
+  {
+    "name": "智谱清言",
+    "slug": "chatglm-cn",
+    "desc": "Chinese dialogue AI model with diverse AI tools."
+  },
+  {
+    "name": "Abacus.AI",
+    "slug": "abacus-ai",
+    "desc": "AI platform for building and embedding AI solutions into applications."
+  },
+  {
+    "name": "Oreate AI",
+    "slug": "oreate-ai",
+    "desc": "All-in-one AI Workspace: Create professional slides, essays, videos, images, podcasts, and deep research in minutes."
+  },
+  {
+    "name": "CodeRabbit",
+    "slug": "coderabbit",
+    "desc": "AI-powered code review tool for enhanced code quality and faster shipping."
+  },
+  {
+    "name": "LabEx",
+    "slug": "labex-io",
+    "desc": "Interactive platform for hands-on coding and tech learning with labs and AI assistance."
+  },
+  {
+    "name": "Emergent",
+    "slug": "emergent",
+    "desc": "AI platform for no-code web, mobile, and custom software development."
+  },
+  {
+    "name": "Impeccable",
+    "slug": "impeccable",
+    "desc": "Professional design skills and anti-pattern detection for AI coding assistants."
+  },
+  {
+    "name": "Hex",
+    "slug": "hex-tech",
+    "desc": "Collaborative AI-powered workspace for data analysis, modeling, and building interactive data apps."
+  },
+  {
+    "name": "Agent Skills Marketplace (SkillsMP)",
+    "slug": "agent-skills-marketplace",
+    "desc": "A marketplace for finding and exploring open-source AI agent skills."
+  },
+  {
+    "name": "Convex",
+    "slug": "convex",
+    "desc": "Full-stack TypeScript platform with realtime database for reactive apps."
+  },
+  {
+    "name": "Zhipu AI Open Platform",
+    "slug": "bigmodel",
+    "desc": "Enterprise AI platform with LLMs, multimodal APIs, and deployment tools."
+  },
+  {
+    "name": "You.com",
+    "slug": "you",
+    "desc": "AI search engine with user control, privacy, and AI tools."
+  },
+  {
+    "name": "ParakeetAI",
+    "slug": "parakeetai",
+    "desc": "Real-time AI interview assistant providing AI-powered answers and interview support."
+  },
+  {
+    "name": "Kane AI By TestMu AI",
+    "slug": "kaneai",
+    "desc": "Kane AI is a GenAI-native testing agent from TestMu AI that lets teams plan, author, and evolve end-to-end tests using plain natural language no coding required. It turns high-level objectives into automated, self-healing tests you can run at scale across 3000+ browsers and devices."
+  },
+  {
+    "name": "Anima",
+    "slug": "anima",
+    "desc": "Anima transforms designs into code, allowing for AI-powered iteration and instant deployment."
+  },
+  {
+    "name": "Zemith.com",
+    "slug": "zemith-com",
+    "desc": "All-in-one AI platform with chat, search, notes, document analysis, and image generation."
+  },
+  {
+    "name": "Raycast",
+    "slug": "raycast",
+    "desc": "Raycast is an extendable launcher for productivity tools and task completion."
+  },
+  {
+    "name": "Coder",
+    "slug": "coder",
+    "desc": "Self-hosted cloud development environment for developers and AI coding agents."
+  },
+  {
+    "name": "T3 Code",
+    "slug": "t3-code",
+    "desc": "Open-source workspace for managing multiple coding agents"
+  },
+  {
+    "name": "Interviews Chat",
+    "slug": "interviews-chat",
+    "desc": "AI interview preparation platform with real-time support and personalized feedback."
+  },
+  {
+    "name": "Featherless.ai",
+    "slug": "featherless-llm",
+    "desc": "Serverless AI inference provider offering a wide range of HuggingFace models with serverless pricing."
+  },
+  {
+    "name": "InsForge",
+    "slug": "insforge",
+    "desc": "Agent-native cloud infrastructure platform built for AI coding agents."
+  },
+  {
+    "name": "Coworker AI",
+    "slug": "coworker-ai",
+    "desc": "Enterprise AI agent platform for cross-functional automation and model routing."
+  },
+  {
+    "name": "Tinybird",
+    "slug": "tinybird",
+    "desc": "Managed ClickHouse for AI-native developers to build real-time analytics APIs."
+  },
+  {
+    "name": "Bito",
+    "slug": "bito",
+    "desc": "Codebase-aware AI Code Reviews in Git and IDE."
+  },
+  {
+    "name": "Pineify - Pine Script AI & Finance AI Agent",
+    "slug": "pineify-pine-script-ai-finance-ai-agent",
+    "desc": "The ultimate AI Pine Script generator and coding agent for TradingView. Create profitable trading indicators and strategies in minutes with zero coding required."
+  },
+  {
+    "name": "CatPaw",
+    "slug": "catpaw",
+    "desc": "AI Agent workbench and development platform for creating, managing, and running AI-powered tasks."
+  },
+  {
+    "name": "RapidNative",
+    "slug": "rapidnative",
+    "desc": "AI to convert prompts into React Native & Expo apps."
+  },
+  {
+    "name": "HARPA AI",
+    "slug": "harpa-ai",
+    "desc": "HARPA AI: Chrome extension for web automation using AI."
+  },
+  {
+    "name": "OfoxAI",
+    "slug": "ofoxai",
+    "desc": "Unified API gateway to access 100+ LLMs like GPT, Claude, and Gemini."
+  },
+  {
+    "name": "Ajelix",
+    "slug": "ajelix-ai-excel-tools",
+    "desc": "AI-powered platform enhancing spreadsheet productivity with tools for automation, analysis, and visualization."
+  },
+  {
+    "name": "Tempo",
+    "slug": "tempo-new",
+    "desc": "AI-powered tool for collaborative React app development."
+  },
+  {
+    "name": "Khanmigo",
+    "slug": "khanmigo-ai",
+    "desc": "AI-powered tutor and teaching assistant by Khan Academy for personalized learning and efficient teaching."
+  },
+  {
+    "name": "Lumi.new",
+    "slug": "lumi-new",
+    "desc": "All in one platform to build your websites."
+  },
+  {
+    "name": "Raccoon AI",
+    "slug": "raccoon-ai",
+    "desc": "The AI Coworker for Apps, Research, Docs & Everything Else. Raccoon AI is a collaborative AI agent and workspace for getting real work done. You describe what you need and build it together with an AI agent that has its own computer, terminal, browser, and internet. You see every thought, every file it creates, every decision it makes. You steer when it drifts. You ship when it's right.  Deploy web apps. Run deep research. Analyze data. Create pitch decks, videos, images, documents and more."
+  },
+  {
+    "name": "accessiBe",
+    "slug": "accessibe-com",
+    "desc": "AI-powered web accessibility solutions for ADA, WCAG compliance."
+  },
+  {
+    "name": "PayForChat",
+    "slug": "payforchat",
+    "desc": "Secure WeChat-based recharge service for ChatGPT Plus and Pro subscriptions."
+  },
+  {
+    "name": "Natively",
+    "slug": "natively-ai",
+    "desc": "Undetectable AI meeting and interview assistant with local or cloud-based processing."
+  },
+  {
+    "name": "RoxyBrowser",
+    "slug": "roxybrowser",
+    "desc": "The First MCP-Native Anti-Detect Browser for AI Agents"
+  },
+  {
+    "name": "Devv AI",
+    "slug": "devv-ai",
+    "desc": "AI search engine for developers with real-time data and code repository integration."
+  },
+  {
+    "name": "Sensei AI",
+    "slug": "sensei-ai",
+    "desc": "AI interview copilot providing real-time answers and personalized interview preparation."
+  },
+  {
+    "name": "Chat100.ai",
+    "slug": "chat100-ai-free-chatgpt-4o-and-claude-3-5-sonnet",
+    "desc": "Free access to GPT-4o and Claude 3.5 Sonnet for AI chat."
+  },
+  {
+    "name": "nele.ai",
+    "slug": "nele-ai",
+    "desc": "Secure AI platform for companies, enabling compliant and managed AI integration."
+  },
+  {
+    "name": "MagickPen",
+    "slug": "magickpen",
+    "desc": "AI-powered writing assistant with text generation, grammar check, and translation features."
+  },
+  {
+    "name": "SurfMind",
+    "slug": "surfmind-1",
+    "desc": "Instant AI on Web"
+  },
+  {
+    "name": "ToolCenter",
+    "slug": "toolcenter",
+    "desc": "A curated directory for discovering 1,500+ AI and productivity tools."
+  },
+  {
+    "name": "Cosine AI",
+    "slug": "cosine",
+    "desc": "AI software engineer for codebase understanding, task execution, and collaboration."
+  },
+  {
+    "name": "Qodo (formerly Codium)",
+    "slug": "codiumai",
+    "desc": "AI-powered platform for code review, testing, and generation to improve code quality."
+  },
+  {
+    "name": "Dualite - AI Frontend Engineer",
+    "slug": "dualite",
+    "desc": "Local-first AI frontend engineer for rapid web/mobile app development."
+  },
+  {
+    "name": "JS2TS",
+    "slug": "js2ts",
+    "desc": "AI-powered tool to convert JavaScript code to TypeScript seamlessly."
+  },
+  {
+    "name": "Layout",
+    "slug": "layout-dev",
+    "desc": "AI platform for instant software prototypes, code, and UI."
+  },
+  {
+    "name": "MeetAssist",
+    "slug": "meetassist",
+    "desc": "Real-time AI interview assistant with phone sync for discrete suggestions and coding help."
+  },
+  {
+    "name": "vly.ai",
+    "slug": "vly-ai",
+    "desc": "No-code platform to build and deploy web applications from English prompts."
+  },
+  {
+    "name": "InterviewFox AI",
+    "slug": "interviewfox-ai",
+    "desc": "InterviewFox AI is a real-time AI interview assistant with dual-device mode, coding interview support, and a WhatsApp/SMS prep agent that connects preparation with live interview answers."
+  },
+  {
+    "name": "AI Tutor",
+    "slug": "ai-tutor",
+    "desc": "AI-powered learning platform with personalized assistance and a wide range of AI models."
+  },
+  {
+    "name": "Fabi.ai",
+    "slug": "fabi-ai",
+    "desc": "AI-powered data analysis platform combining SQL, Python, and AI automation for faster insights."
+  },
+  {
+    "name": "Code to Flow",
+    "slug": "code-to-flow-visualize-your-code",
+    "desc": "AI tool to visualize code as interactive flowcharts, sequence & class diagrams."
+  },
+  {
+    "name": "Mito",
+    "slug": "mito-ai",
+    "desc": "Python data science tool with spreadsheet interface and automatic code generation."
+  },
+  {
+    "name": "Paird.ai",
+    "slug": "paird-ai",
+    "desc": "Paird.ai: AI-powered platform for rapid code generation and real-time developer collaboration."
+  },
+  {
+    "name": "Profound Academy",
+    "slug": "profound-academy",
+    "desc": "Hands-on Computer Science learning platform for teachers with automation and interactive courses."
+  },
+  {
+    "name": "TheToolBus.ai",
+    "slug": "thetoolbus-ai",
+    "desc": "One-stop destination for free online tools, AI directories, and resources."
+  },
+  {
+    "name": "CTRLpotato",
+    "slug": "ctrlpotato",
+    "desc": "Invisible AI interview assistant for real-time answers, context, and undetectable help."
+  },
+  {
+    "name": "NinjaTools",
+    "slug": "ninjatools",
+    "desc": "All-in-one AI platform with models, image, video, PDF tools."
+  },
+  {
+    "name": "KeepClaw",
+    "slug": "keepclaw",
+    "desc": "24/7 personal AI agent hosting with zero setup, multi-model access, and platform integrations."
+  },
+  {
+    "name": "CodeFriends",
+    "slug": "codefriends-learning-platform",
+    "desc": "Interactive online platform for hands-on coding and AI learning."
+  },
+  {
+    "name": "MarsX",
+    "slug": "marsai",
+    "desc": "AI-powered low-code platform for building SaaS tools and micro-apps quickly."
+  },
+  {
+    "name": "Qwiet AI",
+    "slug": "qwiet-ai",
+    "desc": "Qwiet AI provides AI-powered application security solutions for faster, more accurate code protection."
+  },
+  {
+    "name": "Traceroot.AI",
+    "slug": "traceroot-ai",
+    "desc": "AI-native, open-source observability for automated bug fixing and debugging."
+  },
+  {
+    "name": "GitChat by Locale.ai",
+    "slug": "gitchat",
+    "desc": "AI-powered tool for code review and bug detection."
+  },
+  {
+    "name": "RepoNotes",
+    "slug": "reponotes",
+    "desc": "RepoNotes summarizes code changes and sends Slack updates to save time."
+  },
+  {
+    "name": "Smousss",
+    "slug": "smousss",
+    "desc": "AI assistant for Laravel developers to automate tasks and generate code."
+  },
+  {
+    "name": "JSONEditor.io",
+    "slug": "jsoneditor-io",
+    "desc": "Online tool for editing, validating, and converting JSON, YAML, and XML data."
+  },
+  {
+    "name": "Regex.ai",
+    "slug": "regex-ai",
+    "desc": "AI-powered tool for generating regular expressions easily and accurately."
+  },
+  {
+    "name": "PAS Code",
+    "slug": "pas-code",
+    "desc": "Fast, lightweight online code editor with multi-language support and AI tools."
+  },
+  {
+    "name": "Muse code",
+    "slug": "muse-code",
+    "desc": "Independent guide to Meta's terminal coding agent and coding model"
+  },
+  {
+    "name": "Smart Keys",
+    "slug": "smart-keys-for-ios",
+    "desc": "AI-powered keyboard for grammar, translation, and tone adjustment."
+  },
+  {
+    "name": "WP.Chat",
+    "slug": "wp-chat",
+    "desc": "Free AI Chatbot for WordPress with plugin-specific modes and tooling."
+  },
+  {
+    "name": "KauGPT Chrome Extension",
+    "slug": "kaugpt",
+    "desc": "AI-powered Chrome extension with GPT-4, file flexibility, and customizable AI features."
+  },
+  {
+    "name": "Powerful BigQuery IDE powered by AI",
+    "slug": "superquery-bigquery-ai-optimization-engine",
+    "desc": "AI-powered BigQuery IDE for enhanced data analysis."
+  },
+  {
+    "name": "Chippy AI",
+    "slug": "chippy-ai-writer-with-gpt",
+    "desc": "AI browser assistant for writing, searching, and productivity."
+  },
+  {
+    "name": "CodeCopilot AI",
+    "slug": "codecopilot-ai",
+    "desc": "A free, private, in-browser AI code generator that prioritizes user privacy and enhances coding."
+  },
+  {
+    "name": "Replican AI",
+    "slug": "replican-ai-talk-to-ai-in-any-language",
+    "desc": "Multilingual, multimodal AI chatbot acting as a mini-AGI to perform various tasks."
+  },
+  {
+    "name": "WebDB",
+    "slug": "webdb",
+    "desc": "Open-source database IDE with modern features and multi-database support."
+  },
+  {
+    "name": "SafyrusAI",
+    "slug": "safyrusai",
+    "desc": "Multifunctional AI chatbot with voice, coding, and real-time web connectivity."
+  },
+  {
+    "name": "LogicSage",
+    "slug": "logicsage-the-mobile-gpt-workspace",
+    "desc": "Open-source AI code & chat app with GPT integration and Xcode project generation."
+  },
+  {
+    "name": "Third Garden",
+    "slug": "third-garden",
+    "desc": "AI-powered tools platform with chatbot, translator, debugger, and more."
+  },
+  {
+    "name": "Linux Helper",
+    "slug": "linux-helper",
+    "desc": "App to generate Linux commands from natural language and analyze system problems."
+  },
+  {
+    "name": "AICodeConvert",
+    "slug": "aicodeconvert",
+    "desc": "AI-powered code conversion and generation tool supporting multiple programming languages."
+  },
+  {
+    "name": "Pythagora",
+    "slug": "pythagora",
+    "desc": "AI development platform for building full-stack web apps quickly."
+  },
+  {
+    "name": "CodeConverter.com",
+    "slug": "codeconverter-com",
+    "desc": "AI-powered online code converter supporting 120 programming languages."
+  },
+  {
+    "name": "GitStart",
+    "slug": "gitstart-ai-ticket-studio",
+    "desc": "GitStart offers elastic engineering capacity via AI and developers for faster software development."
+  },
+  {
+    "name": "OpenFlowKit",
+    "slug": "openflowkit",
+    "desc": "Free, open-source diagram engine with AI, Mermaid.js support, and Figma vector export."
+  },
+  {
+    "name": "Clacky",
+    "slug": "clacky",
+    "desc": "ClackyAI: Your agentic coding studio， prototype, refine, collaborate—and evolve"
+  },
+  {
+    "name": "Frugal",
+    "slug": "frugal",
+    "desc": "Frugal – AI-powered Application Cost Engineering platform"
+  },
+  {
+    "name": "Aptori",
+    "slug": "aptori",
+    "desc": "AI-powered platform for automated application security and risk remediation."
+  },
+  {
+    "name": "DB Pilot",
+    "slug": "db-pilot",
+    "desc": "AI-native database GUI client and SQL editor with AI assistant."
+  },
+  {
+    "name": "Squire AI",
+    "slug": "squire-ai",
+    "desc": "AI code review tool for automated pull request descriptions and code reviews."
+  },
+  {
+    "name": "RunLLM",
+    "slug": "runllm",
+    "desc": "AI platform for enterprise technical support and issue resolution."
+  },
+  {
+    "name": "Znote",
+    "slug": "znote-ai",
+    "desc": "Znote is a private, local AI-powered note-taking and automation tool for coding and data visualization."
+  },
+  {
+    "name": "CodeReviewBot",
+    "slug": "codereviewbot-ai",
+    "desc": "AI-powered code review service for automated feedback and improvement suggestions."
+  },
+  {
+    "name": "The Grok App",
+    "slug": "the-grok-app",
+    "desc": "AI-powered document search and analysis platform with secure file handling."
+  },
+  {
+    "name": "Klyra AI",
+    "slug": "klyra-ai",
+    "desc": "Your all-in-one creative AI suite for videos, music, voices, avatars, images, and more."
+  },
+  {
+    "name": "JuicyAI",
+    "slug": "juicyai",
+    "desc": "AI companion for writing, speaking, image creation, and more."
+  },
+  {
+    "name": "AllChat",
+    "slug": "allchat",
+    "desc": "AllChat is an AI assistant with advanced features like image generation and code execution."
+  },
+  {
+    "name": "Tech Screen",
+    "slug": "techscreen",
+    "desc": "AI interview assistant providing real-time, undetectable help during technical interviews."
+  },
+  {
+    "name": "FlowLens",
+    "slug": "flowlens",
+    "desc": "Automated bug reporting with full context for AI coding agents."
+  },
+  {
+    "name": "CodeGateway",
+    "slug": "codegateway",
+    "desc": "OpenAI-compatible AI gateway for Claude, GPT & more — swap one base_url."
+  },
+  {
+    "name": "metastory AI",
+    "slug": "metastory-ai",
+    "desc": "AI Product Management for Product Teams, Agencies, and Startups"
+  },
+  {
+    "name": "WebSparks",
+    "slug": "websparks",
+    "desc": "AI-powered platform for rapid website and application development."
+  },
+  {
+    "name": "WindChat",
+    "slug": "windchat",
+    "desc": "Chrome extension for previewing Tailwind CSS HTML in ChatGPT."
+  },
+  {
+    "name": "Matter AI",
+    "slug": "matter-ai",
+    "desc": "Open-source AI Code Reviewer Agent for bug, security, and performance issue detection in code changes."
+  },
+  {
+    "name": "database.build (formerly postgres.new)",
+    "slug": "postgres-sandbox",
+    "desc": "In-browser Postgres sandbox with AI assistance for database creation and management."
+  },
+  {
+    "name": "Codey",
+    "slug": "codey",
+    "desc": "Local-first AI Development Operating System for building apps, running agents, and automating workflows."
+  },
+  {
+    "name": "NotchIA",
+    "slug": "notchia",
+    "desc": "Turns the MacBook notch into an interactive AI and utility control center."
+  },
+  {
+    "name": "ReadyRunner",
+    "slug": "readyrunner",
+    "desc": "AI assistant app powered by ChatGPT for writing, coding, and learning."
+  },
+  {
+    "name": "Tips.io",
+    "slug": "tips-io",
+    "desc": "Tailwind CSS website builder with AI integration for easy HTML website creation."
+  },
+  {
+    "name": "Codespect",
+    "slug": "automate-github-pr-analysis",
+    "desc": "AI-powered code review tool for automated GitHub PR analysis and code quality improvement."
+  },
+  {
+    "name": "Butterfish",
+    "slug": "butterfish-shell",
+    "desc": "AI-powered command-line tool for shell prompting and autocompletion."
+  },
+  {
+    "name": "Codeo",
+    "slug": "codeo",
+    "desc": "AI-powered mobile app for learning to code through gamified, bite-sized lessons."
+  },
+  {
+    "name": "Codimite",
+    "slug": "codimite-com",
+    "desc": "AI-augmented offshore software development for faster, cost-efficient solutions."
+  },
+  {
+    "name": "HOJI AI",
+    "slug": "hoji-ai",
+    "desc": "HOJI AI automates code reviews with AI, providing fast, accurate, and unbiased feedback."
+  },
+  {
+    "name": "GitBrain",
+    "slug": "gitbrain",
+    "desc": "AI-powered Git client for Mac simplifying Git workflows and boosting coding productivity."
+  },
+  {
+    "name": "SnowX",
+    "slug": "snowx-ai",
+    "desc": "AI-powered whiteboard for contracts, brainstorming, and form design."
+  },
+  {
+    "name": "JsRates",
+    "slug": "jsrates-custom-shipping-rates",
+    "desc": "Shopify app for custom shipping rates using JavaScript."
+  },
+  {
+    "name": "Superflex AI",
+    "slug": "superflex",
+    "desc": "Superflex AI: AI assistant converting Figma, images, and text into front-end code."
+  },
+  {
+    "name": "mocktomer",
+    "slug": "mocktomer",
+    "desc": "Human and AI shoppers experience your website and tell you why they'd leave. AI persona shoppers browse your real site like customers and narrate the friction in their own words; AI shoppers reveal how ChatGPT, Claude & Gemini see and recommend you. Experience report + AI Readiness Score in ~10 minutes. Free tier, no card."
+  },
+  {
+    "name": "Mantlecore AI",
+    "slug": "mantlecore-ai",
+    "desc": "Managed cloud for open-source AI agents"
+  },
+  {
+    "name": "Frontpage",
+    "slug": "frontpage",
+    "desc": "The landing page that builds itself."
+  },
+  {
+    "name": "Boxes.dev",
+    "slug": "boxes-dev",
+    "desc": "Cloud development environments designed for running parallel AI coding agents."
+  },
+  {
+    "name": "Replifine",
+    "slug": "replifine-ai",
+    "desc": "AI UI cloner converting screenshots into pixel-perfect frontend code."
+  },
+  {
+    "name": "MyClawn",
+    "slug": "myclawn",
+    "desc": "Your AI agents can now talk to other people's AI agents. A clone of you decides what gets through."
+  },
+  {
+    "name": "Tokeny",
+    "slug": "tokeny",
+    "desc": "Tokeny — 你的AI全能搭子。多模型自由切换、Skill技能一键安装、MCP插件无限扩展，覆盖搜索、设计、数据分析、文档生成全场景。数据本地存储，隐私零收集，安全可控。"
+  },
+  {
+    "name": "Forums by BaseHub",
+    "slug": "forums",
+    "desc": "AI agents explore GitHub source code to provide source-backed answers and remote CLI access."
+  },
+  {
+    "name": "CopilotHub",
+    "slug": "copilothub",
+    "desc": "CopilotHub is a curated directory of AI prompts, agents, tools, and MCP servers for GitHub Copilot. Discover community-driven resources to enhance your AI-powered development workflow."
+  },
+  {
+    "name": "CLI Manager",
+    "slug": "cli-manager",
+    "desc": "Unified dashboard for managing AI CLI agents."
+  },
+  {
+    "name": "Gemini 3 Pro",
+    "slug": "gemini-3-pro",
+    "desc": "Google DeepMind's flagship multimodal AI with 1M context."
+  },
+  {
+    "name": "Bennu AI",
+    "slug": "bennu-agent-screw-prompts-run-infra",
+    "desc": "Autonomous AI agent for DevOps, infrastructure automation, code deployment, and bug fixing."
+  },
+  {
+    "name": "Grok 4 - Next-Generation AI Model by xAI",
+    "slug": "grok-4-next-generation-ai-model-by-xai",
+    "desc": "Next-gen AI model by xAI with advanced reasoning, multimodal, and coding features."
+  },
+  {
+    "name": "Devle",
+    "slug": "devle-ai",
+    "desc": "AI platform to build apps and websites via chat."
+  },
+  {
+    "name": "AI Native Developer Tools Landscape",
+    "slug": "ai-native-dev-landscape",
+    "desc": "A guide to the AI development ecosystem, showcasing 290 tools across various categories."
+  },
+  {
+    "name": "CrackCoder",
+    "slug": "crackcoder",
+    "desc": "Open-source AI tool for solving DSA questions undetectably during tech interviews."
+  },
+  {
+    "name": "Snippfy",
+    "slug": "snippfy",
+    "desc": "AI-powered automation tool that automates dev work and creates PRs."
+  },
+  {
+    "name": "LaravelBot",
+    "slug": "laravelbot",
+    "desc": "LaravelBot provides up-to-date Laravel documentation with smart, predictable searches."
+  },
+  {
+    "name": "AI Assisted Development Tool",
+    "slug": "ai-calculator",
+    "desc": "AI-assisted tool for software development exploration."
+  },
+  {
+    "name": "Small Hours",
+    "slug": "small-hours",
+    "desc": "AI-powered observability platform for faster software issue resolution."
+  },
+  {
+    "name": "Backx.ai",
+    "slug": "backx",
+    "desc": "AI-powered platform simplifying backend development with automated creation, deployment, and maintenance."
+  },
+  {
+    "name": "AI Builder Buddy",
+    "slug": "ai-builder-buddy",
+    "desc": "Expert technical guidance and support for building and scaling software products."
+  },
+  {
+    "name": "GitClear",
+    "slug": "gitclear-s-codecruncher-your-enhanced-code-review-tool",
+    "desc": "Code review tool that reduces review time by analyzing code changes effectively."
+  },
+  {
+    "name": "HumNod - Offline AI Assistant",
+    "slug": "humnod-offline-ai-assistant",
+    "desc": "Offline AI assistant for writing, coding, content creation, and productivity."
+  },
+  {
+    "name": "Interviewforce AI Copilot",
+    "slug": "interviewforce",
+    "desc": "AI assistant for acing FAANG interviews with real-time support and confidence-building features."
+  },
+  {
+    "name": "I18n Code",
+    "slug": "i18n-code",
+    "desc": "AI-powered tool for translating JSON files and Markdown blogs."
+  },
+  {
+    "name": "AI Medical Coding Assistant",
+    "slug": "rapidclaims-ai",
+    "desc": "AI assistant for accurate medical coding (ICD, CPT, ICD-PCS) compatible with any EHR."
+  },
+  {
+    "name": "MindCopilot",
+    "slug": "mindcopilot-a-better-ui-for-chatgpt",
+    "desc": "MindCopilot enhances ChatGPT's UI with improved features and usability."
+  },
+  {
+    "name": "Interview Monster",
+    "slug": "interviewmonster",
+    "desc": "AI-powered coding interview copilot for real-time, undetectable assistance."
+  },
+  {
+    "name": "OnLift",
+    "slug": "ai-business-idea-generator-free",
+    "desc": "AI platform to simplify app and website development with tailored documentation."
+  },
+  {
+    "name": "ChatGPT-AUTO",
+    "slug": "chatgpt-auto-streamlined-coding-assistant",
+    "desc": "Automates coding tasks in ChatGPT, saving time and improving workflow."
+  },
+  {
+    "name": "aiatlas.app",
+    "slug": "aiatlas-app",
+    "desc": "A visual directory to discover and explore AI tools."
+  },
+  {
+    "name": "Ginee X",
+    "slug": "ginee-x",
+    "desc": "AIGC-powered tool for personalized, efficient content generation."
+  },
+  {
+    "name": "Hey, Bro!",
+    "slug": "chat-gpt-1",
+    "desc": "Personal assistant for Windows and Mac with GPT-4 for various tasks."
+  },
+  {
+    "name": "Code2.AI",
+    "slug": "code2-ai",
+    "desc": "Code2.AI transforms codebases into AI-ready knowledge for better team understanding and collaboration."
+  },
+  {
+    "name": "Chat01.ai",
+    "slug": "openai01-net",
+    "desc": "Free OpenAI01 chat interface with advanced AI models and paid plans."
+  },
+  {
+    "name": "Nextoffer",
+    "slug": "nextoffer",
+    "desc": "AI interview assistant for real-time help, mock interviews, and personalized feedback."
+  },
+  {
+    "name": "Vilosia",
+    "slug": "vilosia-inspect",
+    "desc": "Vilosia simplifies legacy software migration using Gen AI for data flow visualization."
+  },
+  {
+    "name": "Lingban AI",
+    "slug": "lingban-ai-free-ai-assistant",
+    "desc": "All-in-one AI assistant for translation, conversation, and writing."
+  },
+  {
+    "name": "LibSwitch",
+    "slug": "libswitch",
+    "desc": "LibSwitch is an AI-powered open-source tool for code conversion between libraries."
+  },
+  {
+    "name": "Code Converter AI",
+    "slug": "converter-next-gen-code-migration",
+    "desc": "Code Converter AI converts code across languages, accelerating migration and modernization."
+  },
+  {
+    "name": "CodeParrot Chrome plugin",
+    "slug": "website-to-react-by-codeparrot-ai",
+    "desc": "A Chrome plugin to generate React code from website components."
+  },
+  {
+    "name": "Wasps",
+    "slug": "wasps",
+    "desc": "AI code review tool in your IDE for context-aware feedback."
+  },
+  {
+    "name": "Signal0ne",
+    "slug": "signal0ne",
+    "desc": "AI-powered debugging for containerized apps, discovering and resolving live issues."
+  },
+  {
+    "name": "InterviewWhisper",
+    "slug": "interview-whisper",
+    "desc": "AI interview copilot for online interviews and coding tests."
+  },
+  {
+    "name": "AI Interview Copilot",
+    "slug": "ai-interview-copilot",
+    "desc": "AI assistant for job interview preparation and real-time support."
+  },
+  {
+    "name": "MajestIQ Master Prompts",
+    "slug": "chatcraft-chatgpt-prompts",
+    "desc": "A tool providing powerful prompts to enhance generative AI user capabilities."
+  },
+  {
+    "name": "ChatGPT API Code Review Extension",
+    "slug": "chatgpt-chrome-extension-1",
+    "desc": "Code review extension using ChatGPT for spelling and grammar checks."
+  },
+  {
+    "name": "GPU Checker",
+    "slug": "blender-assistant",
+    "desc": "A tool to check if a GPU is supported by Blender."
+  },
+  {
+    "name": "Mano",
+    "slug": "mano-your-ai-copilot-powered-by-gpt-4",
+    "desc": "AI tool simplifying tasks with expert agents and one-click actions via Chrome extension."
+  },
+  {
+    "name": "ChatAI(OpenAI)-Translator",
+    "slug": "auto-whatsapp-translator-whatsapp-ai-translator",
+    "desc": "AI translation system based on ChatGPT for fast and accurate translation."
+  },
+  {
+    "name": "ChatGPT 4 for Google Bing, Baidu, DuckDuckGO with Midjourney AI Image Generator",
+    "slug": "chatgpt-4-for-google-chatgpt-everywhere",
+    "desc": "Browser extension integrating ChatGPT with search engines and Midjourney AI for assistance and image generation."
+  },
+  {
+    "name": "chatGPTBox",
+    "slug": "chatgptbox",
+    "desc": "Browser extension for accessing ChatGPT on any webpage."
+  },
+  {
+    "name": "Phind",
+    "slug": "phind-helper",
+    "desc": "AI-powered search engine for developers, providing accurate and relevant coding solutions."
+  },
+  {
+    "name": "Airtable Hint GPT Chrome Extension",
+    "slug": "airtable-hint-gpt",
+    "desc": "AI-powered Chrome extension for efficient Airtable formula creation and rewriting."
+  },
+  {
+    "name": "AI Response Chrome Extension",
+    "slug": "glimzz-chatgpt-powered-ai-tool",
+    "desc": "Chrome extension for AI-powered responses to selected webpage text."
+  },
+  {
+    "name": "Salesforce Formula Editor Extension",
+    "slug": "better-salesforce-formula-editor-and-ai-agent",
+    "desc": "Enhances Salesforce formula editor with optional AI assistance."
+  },
+  {
+    "name": "Office Kube",
+    "slug": "officekube",
+    "desc": "A web-based platform for creating fully configured and automated workspaces."
+  },
+  {
+    "name": "Claude AI",
+    "slug": "templates-chat",
+    "desc": "Anthropic's AI assistant for chatting, saving prompts, and improving text."
+  },
+  {
+    "name": "Penify.dev",
+    "slug": "snorkell-ai",
+    "desc": "Penify automates documentation generation and updates for Git repositories."
+  },
+  {
+    "name": "Codara",
+    "slug": "codara",
+    "desc": "AI-powered code review tool for automated error diagnosis and improved development."
+  },
+  {
+    "name": "ASKWay",
+    "slug": "askway-embrace-gpt-4-s-ai-superpower",
+    "desc": "All-in-one AI assistant browser extension powered by OpenAI."
+  },
+  {
+    "name": "Riki AI",
+    "slug": "rikiai",
+    "desc": "Riki AI integrates ChatGPT across apps and webpages for easy text manipulation."
+  },
+  {
+    "name": "GPTs Gallery",
+    "slug": "gpts-gallery",
+    "desc": "A platform to explore and discover innovative GPTs for various applications."
+  },
+  {
+    "name": "JDoodle Chrome Extension",
+    "slug": "jdoodle-ide-chrome-extension-for-coding",
+    "desc": "A Chrome extension for executing code directly from webpages, supporting 85+ languages."
+  },
+  {
+    "name": "Ethertext",
+    "slug": "ethertext",
+    "desc": "AI-powered clipboard for text transformation and productivity."
+  },
+  {
+    "name": "Zist",
+    "slug": "zist",
+    "desc": "A code snippet manager that integrates with GitHub Gists for streamlined workflows."
+  },
+  {
+    "name": "Archittect",
+    "slug": "archittect",
+    "desc": "A code generation tool to create and reuse dynamic code templates in any language."
+  },
+  {
+    "name": "ChatWizard",
+    "slug": "chatwizard-1-click-chatgpt-prompts",
+    "desc": "AI assistant with 1-click advanced prompts for easy content creation."
+  },
+  {
+    "name": "TwoSlash",
+    "slug": "twoslash",
+    "desc": "TwoSlash is a Chrome extension that integrates ChatGPT AI into any text field."
+  },
+  {
+    "name": "Algo Academy",
+    "slug": "articulum",
+    "desc": "Algo Academy helps ace coding interviews with problem-solving techniques and AI-based articles."
+  },
+  {
+    "name": "RepoAI",
+    "slug": "repoai",
+    "desc": "RepoAI analyzes GitHub repositories with AI for insights and code quality improvements."
+  },
+  {
+    "name": "Turing.School",
+    "slug": "turing-school",
+    "desc": "AI-powered platform for personalized coding challenges and AI tutoring."
+  },
+  {
+    "name": "AskVia",
+    "slug": "askvia",
+    "desc": "AI-powered WhatsApp chatbot for assistance with various tasks using GPT-3.5."
+  },
+  {
+    "name": "xActions",
+    "slug": "xactions-chatgpt-in-a-better-way",
+    "desc": "Browser extension for enhanced ChatGPT functionality with custom actions."
+  },
+  {
+    "name": "Charm",
+    "slug": "mods",
+    "desc": "Charm provides tools and libraries for building glamorous command-line applications."
+  },
+  {
+    "name": "PastaGPT",
+    "slug": "pastagpt",
+    "desc": "AI-powered chat for Italian speakers, offering academic and problem-solving support using GPT-4."
+  },
+  {
+    "name": "GPTDuck",
+    "slug": "gptduck",
+    "desc": "GPTDuck answers questions about a Github repository by creating code embeddings."
+  },
+  {
+    "name": "The Prompt Index",
+    "slug": "the-prompt-index",
+    "desc": "AI prompt database, community, and tools for prompt engineering and sharing."
+  },
+  {
+    "name": "Clusy",
+    "slug": "clusy",
+    "desc": "AI notebook for cloud ML workflow automation"
+  },
+  {
+    "name": "K8Studio",
+    "slug": "k8studio",
+    "desc": "Kubernetes IDE for simplified monitoring and management."
+  },
+  {
+    "name": "Defang",
+    "slug": "defang",
+    "desc": "Defang simplifies cloud app development, deployment, and debugging with AI."
+  },
+  {
+    "name": "OpenGPT",
+    "slug": "open-gpt",
+    "desc": "Platform to create and use ChatGPT applications."
+  },
+  {
+    "name": "AmigoChat",
+    "slug": "amigochat",
+    "desc": "All-in-one AI chat platform with multi-model support for various tasks."
+  },
+  {
+    "name": "kimik3 ai",
+    "slug": "kimik3-ai",
+    "desc": "Unofficial Kimi K3 guide with free chat, API examples, and pricing"
+  },
+  {
+    "name": "ARC Reactor",
+    "slug": "reactor-by-arc",
+    "desc": "AI-powered app with voice assistance, AI research, and energy-efficient performance."
+  },
+  {
+    "name": "Koolay",
+    "slug": "koolay",
+    "desc": "AI-powered CMS for easy website management and intelligent content creation."
+  },
+  {
+    "name": "ChandlerAi",
+    "slug": "chandler",
+    "desc": "Affordable AI assistant with GPT-4, image generation, and data analysis."
+  },
+  {
+    "name": "Reflection 70B",
+    "slug": "reflection-70b",
+    "desc": "Open-source AI model based on Llama 70B, surpassing GPT-4 with self-correction."
+  },
+  {
+    "name": "AllAIs",
+    "slug": "allais",
+    "desc": "AllAIs is an AI hub for productivity, offering various AI tools and features."
+  },
+  {
+    "name": "Espresso Lab",
+    "slug": "autoespressolab",
+    "desc": "AI-powered UI testing tools and online courses for software engineers."
+  },
+  {
+    "name": "Gemini AI - Chrome In-built Offline AI Assistant",
+    "slug": "gemini-ai-chrome-in-built-offline-ai-assistant",
+    "desc": "Offline AI assistant in Chrome using Gemini Nano for tasks like brainstorming and coding."
+  },
+  {
+    "name": "AI Assistant Chrome Extension",
+    "slug": "cremind-gpt-free",
+    "desc": "AI-powered Chrome extension for enhanced browsing and productivity."
+  },
+  {
+    "name": "Gemini AI Chrome Extension",
+    "slug": "gemini-ai",
+    "desc": "Chrome extension for instant chat with Google Gemini AI, integrating with Google services."
+  },
+  {
+    "name": "EnhanceGPT",
+    "slug": "enhancedgpt-macos-client-for-chatgpt",
+    "desc": "Native macOS client enhancing OpenAI GPT models with advanced system integrations."
+  },
+  {
+    "name": "PenParrot",
+    "slug": "penparrot",
+    "desc": "PenParrot integrates ChatGPT into any browser textbox for writing and content creation."
+  },
+  {
+    "name": "AiryChat",
+    "slug": "airychat",
+    "desc": "AiryChat: AI platform integrating LLM, image generation, and custom assistants."
+  },
+  {
+    "name": "Notey.AI",
+    "slug": "notey-ai",
+    "desc": "AI-powered content and image generator for fast, high-quality content creation."
+  },
+  {
+    "name": "KnowItAll AI Chat",
+    "slug": "best-chatgpt-ios-app-knowitall-ai-chat",
+    "desc": "Free AI Chatbot assistant using ChatGPT for various writing and editing tasks."
+  },
+  {
+    "name": "Patched",
+    "slug": "patched",
+    "desc": "Open-source framework for automating development workflows with custom AI workflows."
+  },
+  {
+    "name": "HeyLuna.ai",
+    "slug": "heyluna-ai",
+    "desc": "AI virtual assistant with long-term memory for daily tasks and app integration."
+  },
+  {
+    "name": "AiEditor",
+    "slug": "aieditor",
+    "desc": "Open-source AI-powered rich text editor with Markdown support and private deployment."
+  },
+  {
+    "name": "MemFree",
+    "slug": "memfree",
+    "desc": "Hybrid AI search engine combining knowledge base and internet for faster, accurate answers."
+  },
+  {
+    "name": "Scape",
+    "slug": "scape",
+    "desc": "A macOS workspace for orchestrating parallel AI coding agents and automating development workflows."
+  },
+  {
+    "name": "Interview Monkey AI",
+    "slug": "interview-monkey-ai",
+    "desc": "AI interview preparation tool with mock interviews, copilot, and resume builder."
+  },
+  {
+    "name": "AwanLLM",
+    "slug": "awan-llm",
+    "desc": "AwanLLM: Cost-effective, unlimited token LLM inference via monthly subscription."
+  },
+  {
+    "name": "Ovren",
+    "slug": "ovren",
+    "desc": "AI engineering platform providing autonomous developers to execute codebase tasks and deliver code updates."
+  },
+  {
+    "name": "Fractal",
+    "slug": "fractal",
+    "desc": "An AI platform for rapid building, testing, and deploying ChatGPT and MCP applications."
+  },
+  {
+    "name": "MyPaste",
+    "slug": "mypaste",
+    "desc": "MyPaste is a modern pasting service for quick code sharing with language detection."
+  },
+  {
+    "name": "AI Anywhere",
+    "slug": "ai-anywhere",
+    "desc": "Desktop AI assistant integrating ChatGPT into all apps for enhanced productivity."
+  },
+  {
+    "name": "Claudeai.ai",
+    "slug": "claude-2-ai",
+    "desc": "A platform providing global access to Claude 2 AI via its API."
+  },
+  {
+    "name": "GPTBox",
+    "slug": "gptbox",
+    "desc": "GPTBox integrates ChatGPT and DeepSeek into the Windows taskbar for AI assistance in any application."
+  },
+  {
+    "name": "Checkget AI",
+    "slug": "checkget",
+    "desc": "Intelligent browser assistant using ChatGPT for efficient daily tasks on any website."
+  },
+  {
+    "name": "PaletteBrain",
+    "slug": "palettebrain",
+    "desc": "PaletteBrain is a macOS app that integrates ChatGPT with any application via shortcuts."
+  },
+  {
+    "name": "Ottermind",
+    "slug": "ottermind",
+    "desc": "An agile AI workspace and personal assistant that automates complex tasks and workflows."
+  },
+  {
+    "name": "Smartbot",
+    "slug": "smarbot",
+    "desc": "Multi-AI assistant for productivity, comparing responses from different AI models."
+  },
+  {
+    "name": "GasbyAI",
+    "slug": "gasbyai",
+    "desc": "AI chat platform with copywriting, programming, and image generation capabilities."
+  },
+  {
+    "name": "Struct",
+    "slug": "struct",
+    "desc": "AI on-call agent that automates root-cause analysis for engineering alerts."
+  },
+  {
+    "name": "AiTerm",
+    "slug": "aiterm-beta",
+    "desc": "AiTerm converts natural language to executable commands within the terminal."
+  },
+  {
+    "name": "Query Craft",
+    "slug": "querycraft-ai",
+    "desc": "AI-powered tool to generate JQL queries from natural language descriptions."
+  },
+  {
+    "name": "LLMWizard",
+    "slug": "llmwizard",
+    "desc": "LLMWizard: One platform for multiple AI models and custom AI assistants."
+  },
+  {
+    "name": "DigestDiff",
+    "slug": "digest-diff",
+    "desc": "DigestDiff uses AI to analyze commit history for codebase insights and release notes."
+  },
+  {
+    "name": "2 Weeks AI",
+    "slug": "2-weeks-ai",
+    "desc": "Beginner-friendly AI course with practical, hands-on learning in 14 simple lessons."
+  },
+  {
+    "name": "EchoMates",
+    "slug": "echomates",
+    "desc": "Free AI chatbot assistant integrating multiple AI models for enhanced skills and solutions."
+  },
+  {
+    "name": "TryCase",
+    "slug": "trycase",
+    "desc": "Disposable Linux environments for AI agents to test apps end to end"
+  },
+  {
+    "name": "Solarch",
+    "slug": "solarch",
+    "desc": "Diagram-to-code platform transforming validated backend architectures into deterministic code."
+  },
+  {
+    "name": "Visdiff",
+    "slug": "visdiff",
+    "desc": "AI agent that generates and fixes frontend code to perfectly match Figma designs."
+  },
+  {
+    "name": "Viktor",
+    "slug": "getviktor-com",
+    "desc": "An autonomous AI coworker for Slack that executes tasks, writes code, and automates workflows."
+  },
+  {
+    "name": "MaxClaw",
+    "slug": "maxclaw",
+    "desc": "Official cloud-hosted AI agent by MiniMax with instant deployment and long-term memory."
+  },
+  {
+    "name": "Doclific",
+    "slug": "doclific",
+    "desc": "Open-source internal documentation tool integrating AI, diagrams, and code snippets in your repo."
+  },
+  {
+    "name": "GPT-oss",
+    "slug": "gpt-oss",
+    "desc": "Open-source AI models from OpenAI, free for developers."
+  },
+  {
+    "name": "ailight",
+    "slug": "ailight",
+    "desc": "AI command bar to transform screen content with custom actions."
+  },
+  {
+    "name": "Mendel",
+    "slug": "mendel-lab",
+    "desc": "AI-powered code intelligence platform for automated PR reviews and team insights."
+  },
+  {
+    "name": "DocGen",
+    "slug": "docgen-cli",
+    "desc": "AI-powered documentation generator for any programming language."
+  },
+  {
+    "name": "LLMDog",
+    "slug": "llmdog",
+    "desc": "Command-line tool to share code with AI models like ChatGPT and Claude."
+  },
+  {
+    "name": "Salesforce AI Buddy",
+    "slug": "salesforce-ai-buddy",
+    "desc": "Chrome extension for Salesforce users to automate tasks with AI."
+  },
+  {
+    "name": "AISmartCube",
+    "slug": "aismartcube",
+    "desc": "Low-code AI tool platform for creating AI tools and assistants."
+  },
+  {
+    "name": "CodingInterview.GG",
+    "slug": "codinginterview-gg",
+    "desc": "Coding interview practice and job application platform with AI-powered simulations."
+  },
+  {
+    "name": "ChatGPT Dansk",
+    "slug": "chatgpt-dansk",
+    "desc": "Free Danish chatbot using AI to understand and respond in human language."
+  },
+  {
+    "name": "Codei",
+    "slug": "codei-ai",
+    "desc": "AI platform for software engineers to track applications, practice coding, and improve skills."
+  },
+  {
+    "name": "GitRead",
+    "slug": "gitread",
+    "desc": "GitHub reading assistant for quick repo understanding and interaction."
+  },
+  {
+    "name": "Upsend",
+    "slug": "upsend",
+    "desc": "AI-powered mock coding interviews with personalized feedback for software engineers."
+  },
+  {
+    "name": "AI Prompt Generator",
+    "slug": "ai-prompt-generator",
+    "desc": "A platform for generating AI prompts with tools and templates for various applications."
+  },
+  {
+    "name": "ChatGPT Sidebar by cloudHQ",
+    "slug": "chatgpt-sidebar-by-cloudhq",
+    "desc": "AI assistant providing ChatGPT functionalities within your browser for quick information access."
+  },
+  {
+    "name": "小元智能助手",
+    "slug": "%E5%B0%8F%E5%85%83%E6%99%BA%E8%83%BD%E5%8A%A9%E6%89%8B-%E5%85%8D%E8%B4%B9%E5%A4%9A%E6%A8%A1%E6%80%81ai%E5%8A%A9%E6%89%8B-gtp-4-%E7%BB%98%E5%9B%BE-%E6%96%87%E6%A1%A3%E5%AF%B9%E8%AF%9D",
+    "desc": "A free multimodal AI assistant powered by advanced large language models."
+  },
+  {
+    "name": "ChatGPT for all sites",
+    "slug": "chatgpt-for-all-sites",
+    "desc": "AI assistant plugin for reading, writing, translation, and more on any website."
+  },
+  {
+    "name": "GPT Edit 翻译插件",
+    "slug": "gpt-edit-%E7%BF%BB%E8%AF%91",
+    "desc": "Browser extension for translation, summarization, polishing, analysis, and code explanation."
+  },
+  {
+    "name": "ppword",
+    "slug": "ppword",
+    "desc": "AI platform for text, image, music, and video generation with user exchange."
+  },
+  {
+    "name": "Kimi小助手",
+    "slug": "kimi%E5%B0%8F%E5%8A%A9%E6%89%8B",
+    "desc": "UnionAi's AI plugin with Kimi's core features for efficient information services."
+  },
+  {
+    "name": "SearchGPT",
+    "slug": "searchgpt-chatgpt-for-chrome",
+    "desc": "A browser extension that enhances search engines with chat AI."
+  },
+  {
+    "name": "Wide GPT",
+    "slug": "wide-gpt",
+    "desc": "Chrome extension to maximize ChatGPT screen space and improve readability."
+  },
+  {
+    "name": "GetBotAI",
+    "slug": "getbotai-gpt-3-gpt-4-geminipro-calude-3",
+    "desc": "AI assistant for complex questions, writing, and smart searching."
+  },
+  {
+    "name": "AppReview",
+    "slug": "appreview-for-power-apps",
+    "desc": "Automatic code review tool for Microsoft Power Apps solutions and legacy apps."
+  },
+  {
+    "name": "ChatGPT Chrome Extension",
+    "slug": "slickremix-your-chatgpt-web-assistant",
+    "desc": "A Chrome extension integrating ChatGPT for text modification, translation, and content generation."
+  },
+  {
+    "name": "ChatGPT Prompt Extension",
+    "slug": "chatgpt-prompt-gallery",
+    "desc": "Extension with 80+ ChatGPT prompts that auto-populate, saving time and effort."
+  },
+  {
+    "name": "Google Search with ChatGPT",
+    "slug": "chatgpt-extension-for-google-search",
+    "desc": "Enhances Google search with ChatGPT features."
+  },
+  {
+    "name": "Price Page Website Content",
+    "slug": "filechangecategorizer",
+    "desc": "A structured template for creating effective price pages."
+  },
+  {
+    "name": "Struxe",
+    "slug": "struxe",
+    "desc": "Struxe: Unified platform blending social networking with productivity tools for enhanced teamwork."
+  },
+  {
+    "name": "iAsk",
+    "slug": "iask",
+    "desc": "iAsk is an open-source, private LLM frontend for answering questions about your files and links."
+  },
+  {
+    "name": "Notega",
+    "slug": "notega",
+    "desc": "AI-driven tool for entrepreneurs to streamline content creation and boost digital engagement."
+  },
+  {
+    "name": "DocMonster.ai",
+    "slug": "docmonster",
+    "desc": "AI chatbot for API documentation, providing fast technical support and improving developer experience."
+  },
+  {
+    "name": "ASKWay-AI Chat&Assistants",
+    "slug": "askway",
+    "desc": "AI companion and assistant app powered by ChatGPT & GPT-4."
+  },
+  {
+    "name": "DiffDuo",
+    "slug": "diffduo",
+    "desc": "GPT-powered pull request summaries with customizable modes for enhanced code review."
+  },
+  {
+    "name": "Kastro",
+    "slug": "kastro",
+    "desc": "AI-powered customer support solution using ChatGPT for startups and indie hackers."
+  },
+  {
+    "name": "Beamcast",
+    "slug": "beamcast",
+    "desc": "Beamcast: Run AI commands on any website with ChatGPT power."
+  },
+  {
+    "name": "AiQuickHelp",
+    "slug": "aiquickhelp",
+    "desc": "AI assistant and chat platform for enhanced work efficiency with various AI tools."
+  },
+  {
+    "name": "ConverseAI",
+    "slug": "converseai",
+    "desc": "Secure AI chat app with diverse AI personalities and code support."
+  },
+  {
+    "name": "CodeMorph",
+    "slug": "codemorph",
+    "desc": "AI-powered tool for seamless code translation between programming languages."
+  },
+  {
+    "name": "SaaS Library",
+    "slug": "saas-library",
+    "desc": "A platform with detailed SaaS product descriptions and AI tools to empower entrepreneurs."
+  },
+  {
+    "name": "HuggingChat",
+    "slug": "hugging-chat",
+    "desc": "Open-source AI chat assistant with a friendly, human-like personality."
+  },
+  {
+    "name": "writeGPT",
+    "slug": "writegpt",
+    "desc": "A web extension for effective prompt writing and GPT access on any website."
+  },
+  {
+    "name": "springbrand deepseek harness",
+    "slug": "springbrand-deepseek-harness",
+    "desc": "AI-assisted marketplace for building products with matched plugins and tools"
+  },
+  {
+    "name": "Instyll",
+    "slug": "instyll",
+    "desc": "Markdown note-taking app with features to boost productivity and streamline workflow."
+  },
+  {
+    "name": "Lore Brief",
+    "slug": "lore-com",
+    "desc": "Weekly AI newsletter and podcast for techno-optimists and innovators."
+  },
+  {
+    "name": "GPTPLUS",
+    "slug": "gptplus",
+    "desc": "ChatGPT sidebar extension for writing, translating, and more, powered by GPT-4 and GPT-3.5."
+  },
+  {
+    "name": "Shortest",
+    "slug": "shortest",
+    "desc": "AI-powered testing framework for writing end-to-end tests in plain English."
+  },
+  {
+    "name": "OnVerb",
+    "slug": "onverb",
+    "desc": "AI platform for custom system prompts and personalized AI conversations."
+  },
+  {
+    "name": "AI Love Code",
+    "slug": "ai-love-code",
+    "desc": "AI tool for developers to create websites and generate source code efficiently."
+  },
+  {
+    "name": "Genval AI",
+    "slug": "genval",
+    "desc": "AI-powered platform for code generation, refactoring, and development."
+  },
+  {
+    "name": "Super Amplify",
+    "slug": "super-amplify",
+    "desc": "AI platform for business growth, automation, and data-driven decisions with robust security."
+  },
+  {
+    "name": "Olympia",
+    "slug": "olympia",
+    "desc": "AI-powered virtual staffing platform for entrepreneurs and startups."
+  },
+  {
+    "name": "CrewArgo",
+    "slug": "crewargo",
+    "desc": "Desktop AI workspace delegating tasks to an orchestrated team of specialized agents."
+  },
+  {
+    "name": "Git2Docs",
+    "slug": "git2docs-com-easily-gen-docs-from-code",
+    "desc": "AI documentation platform that auto-generates and syncs docs with code"
+  },
+  {
+    "name": "Agent Sandbox",
+    "slug": "agent-sandbox",
+    "desc": "Secure code execution API providing AI agents with sandboxed compute and storage."
+  },
+  {
+    "name": "Go Agent SDK",
+    "slug": "go-agent-sdk",
+    "desc": "SDK for building intelligent agents in Go."
+  },
+  {
+    "name": "ViewOn.Ai",
+    "slug": "viewon-ai",
+    "desc": "Multi-AI platform offering access to leading AI models and assistants in one place."
+  },
+  {
+    "name": "Query Kitty",
+    "slug": "querykitty-chatgpt-context-on-any-website",
+    "desc": "A ChatGPT-powered Chrome extension for content transformation and productivity enhancement."
+  },
+  {
+    "name": "ChatGPT Assistant",
+    "slug": "chatgpt-assistant-use-ai-everywhere",
+    "desc": "Chrome extension to enhance ChatGPT with search integration and extra features."
+  },
+  {
+    "name": "AI Bing ChatGPT on Chrome New Tab",
+    "slug": "bing-chatgpt",
+    "desc": "Chrome extension for accessing Bing and ChatGPT on a new tab."
+  },
+  {
+    "name": "AI Assistant",
+    "slug": "mogu",
+    "desc": "A powerful, versatile AI assistant with internet access and GPT-4/DALLE integration."
+  },
+  {
+    "name": "Gyani AI Chatbot",
+    "slug": "gyaniai-ai-chat-bot-assistant",
+    "desc": "Cross-compatible AI chatbot powered by ChatGPT & Gemini BARD for AI assistance."
+  },
+  {
+    "name": "Talk2Apis",
+    "slug": "talk2apis",
+    "desc": "Talk2Apis uses natural language to interact with APIs via HTTP using API definitions."
+  },
+  {
+    "name": "PromptBoom",
+    "slug": "powertelegram",
+    "desc": "All-in-one AI platform with tools for writing, translation, and more, accessible via Telegram."
+  },
+  {
+    "name": "Awesome ChatGPT Prompts",
+    "slug": "awesome-chatgpt-prompts",
+    "desc": "A curated collection of ChatGPT prompt examples."
+  },
+  {
+    "name": "Hacker AI",
+    "slug": "hacker-ai",
+    "desc": "AI-powered source code vulnerability detection for cybersecurity professionals and developers."
+  },
+  {
+    "name": "Copilotly",
+    "slug": "copilotly-your-personal-ai-copilot",
+    "desc": "AI-powered personal copilot for enhanced online productivity and task automation."
+  },
+  {
+    "name": "GPT-4 (ChatGPT +) Chrome Extension",
+    "slug": "seenopsi",
+    "desc": "GPT-4 powered Chrome extension for enhanced productivity and information processing."
+  },
+  {
+    "name": "GenieeAI",
+    "slug": "genieeai",
+    "desc": "GenieeAI: ChatGPT-powered browser extension for quick content creation in any textbox."
+  },
+  {
+    "name": "ChatGPT on the App Store",
+    "slug": "openai-official-chatgpt-ios-app",
+    "desc": "Official ChatGPT app by OpenAI for iOS devices, offering AI-powered assistance."
+  },
+  {
+    "name": "Zentask",
+    "slug": "zentask-ai",
+    "desc": "All-in-one AI platform for productivity with multiple AI models under one subscription."
+  },
+  {
+    "name": "Visual Studio Code",
+    "slug": "vs-code",
+    "desc": "Free AI code editor for building, debugging, and managing software projects"
+  },
+  {
+    "name": "Cursor - The AI Code Editor",
+    "slug": "cursor-sh",
+    "desc": "AI-powered code editor for enhanced developer productivity."
+  },
+  {
+    "name": "Kiro",
+    "slug": "kiro",
+    "desc": "AI IDE for structured, spec-driven coding from prototype to production."
+  },
+  {
+    "name": "Qoder",
+    "slug": "qoder",
+    "desc": "Agentic coding platform for real software development with AI agents."
+  },
+  {
+    "name": "Trae",
+    "slug": "trae",
+    "desc": "AI-powered IDE for enhanced developer collaboration and efficiency."
+  },
+  {
+    "name": "ERNIE Comate (Baidu Comate)",
+    "slug": "ernie-comate",
+    "desc": "AI coding assistant for code generation and productivity"
+  },
+  {
+    "name": "DeepWiki",
+    "slug": "deepwiki-by-congnition",
+    "desc": "AI-powered documentation generator for GitHub repos with conversational interface."
+  },
+  {
+    "name": "Warp",
+    "slug": "warp-ai",
+    "desc": "Intelligent terminal with AI, modern UX, and team knowledge integration."
+  },
+  {
+    "name": "Code Arena",
+    "slug": "code-arena",
+    "desc": "A platform to compare AI coding models and generate multi-file apps side-by-side."
+  },
+  {
+    "name": "Windsurf",
+    "slug": "windsurf",
+    "desc": "AI-powered code editor for developers and enterprises, enhancing productivity and workflow."
+  },
+  {
+    "name": "Google Antigravity",
+    "slug": "google-antigravity",
+    "desc": "An AI-powered agentic development platform and IDE."
+  },
+  {
+    "name": "Bitbucket",
+    "slug": "bitbucket",
+    "desc": "Git-based code and CI/CD tool optimized for teams using Jira."
+  },
+  {
+    "name": "Z.ai",
+    "slug": "z-ai",
+    "desc": "Free AI assistant for presentations, writing, and coding."
+  },
+  {
+    "name": "Verdent",
+    "slug": "verdent-deck",
+    "desc": "Build Your Product With Plain Words In Minutes"
+  },
+  {
+    "name": "Coddy",
+    "slug": "coddy-tech",
+    "desc": "Coddy is a coding education platform with courses, practice, and AI assistance."
+  },
+  {
+    "name": "Orca",
+    "slug": "orca",
+    "desc": "Open-source Agent Development Environment for parallel AI coding agents."
+  },
+  {
+    "name": "Command Code",
+    "slug": "command-code",
+    "desc": "AI coding agent that learns your coding taste"
+  },
+  {
+    "name": "BLACKBOX.AI",
+    "slug": "blackbox-ai-1",
+    "desc": "AI agent transforming work and learning with code completion and app building features."
+  },
+  {
+    "name": "Pi Coding Agent",
+    "slug": "pi-coding-agent",
+    "desc": "Minimal, deeply customizable terminal coding agent harness."
+  },
+  {
+    "name": "Continue",
+    "slug": "continue",
+    "desc": "Open-source AI code assistant for customizable autocomplete and chat experiences in IDEs."
+  },
+  {
+    "name": "cto.new",
+    "slug": "cto-new",
+    "desc": "Free AI code agent using frontier models from Anthropic, OpenAI."
+  },
+  {
+    "name": "Morph",
+    "slug": "morph-apply-ai-edits-to-files-fast",
+    "desc": "Morph rapidly applies LLM code edits to files, serving as AI agent's 'write' layer."
+  },
+  {
+    "name": "Aikido",
+    "slug": "aikido-security",
+    "desc": "All-in-one AI security platform for code, cloud, and runtime."
+  },
+  {
+    "name": "Firebase Studio",
+    "slug": "firebase-studio",
+    "desc": "Web-based workspace for full-stack app development with AI and cloud emulators."
+  },
+  {
+    "name": "Gemini Code Assist",
+    "slug": "gemini-code-assist",
+    "desc": "AI coding assistant for code completion, generation, and review in IDEs and GitHub."
+  },
+  {
+    "name": "Augment Code",
+    "slug": "augment-code",
+    "desc": "AI platform for understanding codebases, accelerating coding, and improving team collaboration."
+  },
+  {
+    "name": "LockedIn AI",
+    "slug": "lockedin-ai",
+    "desc": "AI copilot for interview prep & professional meetings with real-time assistance."
+  },
+  {
+    "name": "Aider",
+    "slug": "aider",
+    "desc": "Aider is an AI pair programmer that edits code in your local git repo."
+  },
+  {
+    "name": "Sourcegraph",
+    "slug": "cody",
+    "desc": "AI-powered code search and analysis platform for efficient code understanding and maintenance."
+  },
+  {
+    "name": "YouWare",
+    "slug": "youware",
+    "desc": "First vibe coding community for AI creators to build, share, and explore projects."
+  },
+  {
+    "name": "Palmier",
+    "slug": "palmier",
+    "desc": "Autonomous AI software engineering assistant for development."
+  },
+  {
+    "name": "AGENTS.md",
+    "slug": "agents-md",
+    "desc": "Open format for giving coding agents project instructions"
+  },
+  {
+    "name": "Pieces for Developers",
+    "slug": "pieces-for-developers",
+    "desc": "AI-powered code snippet manager for developers to save, reuse, and share code efficiently."
+  },
+  {
+    "name": "Nimbalyst",
+    "slug": "nimbalyst",
+    "desc": "Visual workspace and session manager for building with Claude Code and Codex agents."
+  },
+  {
+    "name": "Runcell - Jupyter AI Agent",
+    "slug": "runcell-jupyter-ai-agent",
+    "desc": "Best code agent for Jupyter users, alternative to cursor in jupyter. Automate understand data and code in notebook, planning next moves and code for you."
+  },
+  {
+    "name": "Tabnine",
+    "slug": "tabnine",
+    "desc": "AI code assistant for faster, safer coding with code completion and generation."
+  },
+  {
+    "name": "Cursor Directory",
+    "slug": "cursor-directory",
+    "desc": "A community and resource hub for Cursor enthusiasts to enhance their experience."
+  },
+  {
+    "name": "Activepieces",
+    "slug": "activepieces",
+    "desc": "AI-first automation platform; open-source alternative to Zapier and Workato for team workflows."
+  },
+  {
+    "name": "Workik AI",
+    "slug": "workik",
+    "desc": "AI-powered development platform for code generation and team collaboration."
+  },
+  {
+    "name": "CodeGPT",
+    "slug": "code-gpt",
+    "desc": "AI platform for software development teams, offering AI coding assistance and automation."
+  },
+  {
+    "name": "Termdock",
+    "slug": "termdock",
+    "desc": "Terminal-centric AI dev environment unifying workspaces, terminals, and Git."
+  },
+  {
+    "name": "Writingmate.ai",
+    "slug": "writingmate-ai",
+    "desc": "AI writing assistant with multiple AI models for writing, coding, and content creation."
+  },
+  {
+    "name": "Traycer",
+    "slug": "traycer-ai",
+    "desc": "AI coding assistant for spec-driven development, planning, and code verification."
+  },
+  {
+    "name": "Interview Coder",
+    "slug": "interview-coder",
+    "desc": "AI-powered tool for Leetcode interview preparation with real-time coding assistance."
+  },
+  {
+    "name": "Refact.ai",
+    "slug": "refact-ai",
+    "desc": "Refact.ai is an AI coding assistant with completion, refactoring, chat, and privacy features."
+  },
+  {
+    "name": "BlackBox AI",
+    "slug": "blackbox-ai",
+    "desc": "AI coding assistant for faster coding with code generation, extraction, and autocompletion."
+  },
+  {
+    "name": "Trae - Plugin",
+    "slug": "marscode",
+    "desc": "AI-powered IDE plugin for code completion, debugging, and more."
+  },
+  {
+    "name": "PseudoEditor",
+    "slug": "pseudoeditor",
+    "desc": "Online pseudocode editor and compiler with AI conversion to various programming languages."
+  },
+  {
+    "name": "BoltAI",
+    "slug": "boltai-com",
+    "desc": "Native, high-performance AI app for Mac integrating AI into daily tasks."
+  },
+  {
+    "name": "Sourcery",
+    "slug": "sourcery-sentinel",
+    "desc": "AI agent for automated production issue fixing and code quality."
+  },
+  {
+    "name": "Interview Solver",
+    "slug": "interview-solver",
+    "desc": "AI Copilot for acing live coding and system design interviews with instant solutions."
+  },
+  {
+    "name": "AskCodi",
+    "slug": "askcodi",
+    "desc": "AI-powered code assistant for faster, easier, and better coding."
+  },
+  {
+    "name": "Macroscope",
+    "slug": "macroscope",
+    "desc": "AI agent for codebase analysis, summaries, bug detection, and PR review."
+  },
+  {
+    "name": "PureCode AI",
+    "slug": "purecode-ai",
+    "desc": "AI copilot for speeding up UI development with codebase context."
+  },
+  {
+    "name": "Ara AI",
+    "slug": "ara",
+    "desc": "Self-driving AI IDE for proactive, autonomous product development"
+  },
+  {
+    "name": "Emdash",
+    "slug": "emdash",
+    "desc": "Open-source desktop environment for running multiple coding agents in parallel."
+  },
+  {
+    "name": "PearAI",
+    "slug": "pearai",
+    "desc": "Open-source AI code editor integrating AI tools for enhanced coding and project development."
+  },
+  {
+    "name": "Vitara.ai",
+    "slug": "vitara-ai",
+    "desc": "AI-powered platform for building full-stack apps with natural language."
+  },
+  {
+    "name": "ProjectAI",
+    "slug": "projectai",
+    "desc": "ProjectAI: Learn programming through real-world projects with step-by-step guidance."
+  },
+  {
+    "name": "Claw Code",
+    "slug": "claw-code",
+    "desc": "Open-source Python/Rust rewrite of the Claude Code AI agent framework."
+  },
+  {
+    "name": "Nozomio",
+    "slug": "nozomio",
+    "desc": "Nozomio: AI-powered coding education platform for building AI apps with Next.js and Vercel."
+  },
+  {
+    "name": "CodeMate",
+    "slug": "codemate-ai",
+    "desc": "AI-powered coding assistant for faster, smarter, and error-free coding."
+  },
+  {
+    "name": "Clean Agent",
+    "slug": "clean",
+    "desc": "An all-in-one AI coding desktop app for orchestration, QA, and parallel agent delegation."
+  },
+  {
+    "name": "DocuWriter.ai",
+    "slug": "docuwriter-ai",
+    "desc": "AI-powered tool for automated code documentation, testing, and refactoring."
+  },
+  {
+    "name": "Sweep AI",
+    "slug": "sweep-ai",
+    "desc": "AI assistant for automating software tasks and coding in JetBrains IDEs."
+  },
+  {
+    "name": "Sherloq",
+    "slug": "sherloq",
+    "desc": "AI-powered SQL tool for collaborative management, saving, and sharing of SQL code."
+  },
+  {
+    "name": "CodeBanana",
+    "slug": "codebanana",
+    "desc": "Real-time collaborative coding platform with AI, VMs, and team sync."
+  },
+  {
+    "name": "Kodezi",
+    "slug": "kodezi-ai",
+    "desc": "AI-powered tool for auto-correcting code, removing bugs, and boosting developer productivity."
+  },
+  {
+    "name": "Digma AI",
+    "slug": "digma-ai",
+    "desc": "Digma AI provides continuous feedback to developers, identifying code issues early in the SDLC."
+  },
+  {
+    "name": "GitLoop",
+    "slug": "gitloop",
+    "desc": "AI assistant for Git repos: chat with code, generate docs, tests, and review code."
+  },
+  {
+    "name": "Replicas",
+    "slug": "replicas",
+    "desc": "Background coding agents running in sandboxed dev environments"
+  },
+  {
+    "name": "EverSQL",
+    "slug": "eversql-com",
+    "desc": "AI-powered SQL optimizer for PostgreSQL & MySQL databases."
+  },
+  {
+    "name": "Aide",
+    "slug": "aide-dev",
+    "desc": "Aide helps programmers code faster with parallel agents and automated workflows."
+  },
+  {
+    "name": "Code Snippets AI",
+    "slug": "code-snippets-ai",
+    "desc": "AI-powered platform for building and managing code snippets libraries for developers."
+  },
+  {
+    "name": "CodeAI",
+    "slug": "codeai",
+    "desc": "AI coding assistant for code generation, optimization, and documentation."
+  },
+  {
+    "name": "16x Prompt",
+    "slug": "16x-prompt",
+    "desc": "A desktop app for developers to create optimized prompts for LLMs with code context."
+  },
+  {
+    "name": "Pixeebot",
+    "slug": "pixeebot",
+    "desc": "Automated product security engineer improving code security, performance, and quality via AI."
+  },
+  {
+    "name": "Cratecode",
+    "slug": "cratecode",
+    "desc": "Interactive, non-linear programming lessons with AI guidance and user-generated content."
+  },
+  {
+    "name": "Contral",
+    "slug": "contral",
+    "desc": "An AI-powered IDE that teaches programming concepts in real-time as you build software."
+  },
+  {
+    "name": "AdaL",
+    "slug": "adal",
+    "desc": "Multi-agent engineering system and AI coding agent for high-performing developer teams."
+  },
+  {
+    "name": "Goast.ai",
+    "slug": "goastvs",
+    "desc": "AI assistant for automated bug fixing and error resolution."
+  },
+  {
+    "name": "Agent FM",
+    "slug": "agent-fm-for-claude-code-codex",
+    "desc": "Local open-source Mac app providing live audio narration for AI coding agents."
+  },
+  {
+    "name": "AI Code Mentor",
+    "slug": "ai-code-mentor",
+    "desc": "AI-powered tool for code explanation, optimization, refactoring, and review."
+  },
+  {
+    "name": "Latta AI",
+    "slug": "latta-ai",
+    "desc": "AI tool for developers to find and fix bugs, saving time and resources."
+  },
+  {
+    "name": "ghostcoder",
+    "slug": "ghostcoder",
+    "desc": "A stealth AI coding assistant for technical interviews and faster coding."
+  },
+  {
+    "name": "SpellBox",
+    "slug": "spellbox",
+    "desc": "AI programming assistant that generates code from prompts."
+  },
+  {
+    "name": "RightNow AI",
+    "slug": "rightnow-ai",
+    "desc": "RightNow AI optimizes CUDA code and profiles kernels for peak GPU performance using AI."
+  },
+  {
+    "name": "spacecake",
+    "slug": "spacecake",
+    "desc": "Open-source desktop app combining markdown editing and terminal for Claude Code."
+  },
+  {
+    "name": "Lovelace",
+    "slug": "lovelace",
+    "desc": "Browser-based AI IDE with AI code completion and cloud workspace."
+  },
+  {
+    "name": "How2",
+    "slug": "how2",
+    "desc": "AI-powered tool suggesting shell commands for Unix Terminal."
+  },
+  {
+    "name": "Voqal",
+    "slug": "voqal-assistant",
+    "desc": "Voqal is a voice-controlled programming assistant for IntelliJ using OpenAI's GPT4."
+  },
+  {
+    "name": "AI Code Explainer",
+    "slug": "whatdoesthiscodedo-com",
+    "desc": "AI-powered tool to explain code snippets with shareable links."
+  },
+  {
+    "name": "Codebuff",
+    "slug": "manicode",
+    "desc": "AI coding assistant for editing codebases via natural language instructions."
+  },
+  {
+    "name": "PapertLab",
+    "slug": "papertlab-from-papert-in",
+    "desc": "Opensource AI pair programmer for code editing and AI-assisted development."
+  },
+  {
+    "name": "Dynobase",
+    "slug": "dynobase-dev",
+    "desc": "Professional GUI client for DynamoDB, accelerating workflows with a sleek UI and code generation."
+  },
+  {
+    "name": "ModelBound",
+    "slug": "modelbound",
+    "desc": "Platform for versioning, sharing, and optimizing AI coding skills across teams"
+  },
+  {
+    "name": "Adrenaline",
+    "slug": "adrenaline",
+    "desc": "Adrenaline answers questions about your code by analyzing your codebase."
+  },
+  {
+    "name": "UnfoldAI",
+    "slug": "unfold-ai",
+    "desc": "AI coding assistant specializing in real-time bug and error solutions for developers."
+  },
+  {
+    "name": "Checkpoints for Claude Code",
+    "slug": "never-lose-your-work-again",
+    "desc": "Automatic version control and checkpoint management for Claude AI code projects."
+  },
+  {
+    "name": "Editor.do",
+    "slug": "editor-do",
+    "desc": "All-in-one online IDE for creating, coding, hosting, and deploying static websites."
+  },
+  {
+    "name": "Straion",
+    "slug": "straion",
+    "desc": "Centralized rule management and plan validation for AI coding agents like Cursor and Claude."
+  },
+  {
+    "name": "GiteAI",
+    "slug": "giteai",
+    "desc": "GiteAI automates commit message generation, saving developers time and ensuring consistency."
+  },
+  {
+    "name": "Phind",
+    "slug": "phind",
+    "desc": "AI search engine and pair programmer for developers."
+  },
+  {
+    "name": "CodeStack AI",
+    "slug": "codestack-ai",
+    "desc": "Interactive platform to learn coding by doing with AI assistance."
+  },
+  {
+    "name": "Stat.ai (Estima)",
+    "slug": "stat-ai",
+    "desc": "AI-powered Stata tools for faster, more accurate analysis."
+  },
+  {
+    "name": "Prisma Assistant",
+    "slug": "prisma-assistant",
+    "desc": "Prisma Assistant: Interact with your schema conversationally to generate code."
+  },
+  {
+    "name": "CodeComplete",
+    "slug": "codecomplete-ai",
+    "desc": "AI coding assistant for enterprises with self-hosting and fine-tuning capabilities."
+  },
+  {
+    "name": "AICommit",
+    "slug": "aicommit-your-best-commit-generator",
+    "desc": "AICommit is a JetBrains plugin for AI-driven code assistance and commit message generation."
+  },
+  {
+    "name": "Reindeer",
+    "slug": "reindeer",
+    "desc": "AI-powered IDE for databases: generates, autocompletes, and fixes SQL."
+  },
+  {
+    "name": "Greptile",
+    "slug": "learnthisrepo",
+    "desc": "AI expert on any codebase for Q&A and PR reviews."
+  },
+  {
+    "name": "CodeChat",
+    "slug": "codechat",
+    "desc": "CodeChat is a chatbot for understanding GitHub source code, especially Twitter's Recommendation Algorithm."
+  },
+  {
+    "name": "Codeamigo",
+    "slug": "codeamigo",
+    "desc": "AI-powered platform for learning to code with modern tools and tutorials."
+  },
+  {
+    "name": "Code Fundi",
+    "slug": "code-fundi",
+    "desc": "AI coding assistant for faster, better code with debugging, generation, and explanation features."
+  },
+  {
+    "name": "Athena by LuckeySystems",
+    "slug": "athena-desktop",
+    "desc": "Local-first desktop control surface and workshop for AI coding agents with persistent memory."
+  },
+  {
+    "name": "Project Vike",
+    "slug": "project-vike",
+    "desc": "Free AI coding platform funded by optional rewarded ads"
+  },
+  {
+    "name": "VibeWorkspace",
+    "slug": "vibe-workspace",
+    "desc": "Local AI coding workspace to run parallel agents and tools."
+  },
+  {
+    "name": "Pincue",
+    "slug": "pincue",
+    "desc": "Review session tool exporting precise Markdown for AI coding agents."
+  },
+  {
+    "name": "Sonarly",
+    "slug": "sonarly",
+    "desc": "AI agent that triages alerts and fixes production bugs with full system context."
+  },
+  {
+    "name": "devstral2",
+    "slug": "devstral2",
+    "desc": "State-of-the-art open-source coding models and CLI agent for software engineering."
+  },
+  {
+    "name": "GREB",
+    "slug": "greb-by-cheetah-ai",
+    "desc": "Intelligent code search via MCP for AI coding assistants."
+  },
+  {
+    "name": "Codewiki",
+    "slug": "codewiki-1",
+    "desc": "AI-native code documentation with Gemini chat and diagrams."
+  },
+  {
+    "name": "Codewiki",
+    "slug": "codewiki",
+    "desc": "Intelligence hub tracking Google's AI-powered Code Wiki and related entities."
+  },
+  {
+    "name": "kat dev",
+    "slug": "kat-dev",
+    "desc": "AI-driven code intelligence models for software engineering and coding tasks."
+  },
+  {
+    "name": "Dereference AI Codetabs",
+    "slug": "dereference",
+    "desc": "Prompt-first IDE for AI power users with parallel sessions and atomic branching."
+  },
+  {
+    "name": "Kiro AI",
+    "slug": "kiro-ai",
+    "desc": "AI-powered IDE for spec-driven development and intelligent automation."
+  },
+  {
+    "name": "Claude Code Router",
+    "slug": "claude-code-router",
+    "desc": "Enhances AI coding workflow with flexible model routing and cost optimization."
+  },
+  {
+    "name": "GeekBuzz.in",
+    "slug": "geekbuzz",
+    "desc": "Gamified platform for learning Data Structures and Algorithms (DSA)."
+  },
+  {
+    "name": "HTML Editor PRO with AI",
+    "slug": "html-editor-pro-with-ai",
+    "desc": "AI-powered HTML editor with cloud features for real-time collaboration and code assistance."
+  },
+  {
+    "name": "Syntix",
+    "slug": "syntix",
+    "desc": "Syntix is an AI code interpreter with multi-language support and code execution capabilities."
+  },
+  {
+    "name": "BashBuddy",
+    "slug": "bashbuddy",
+    "desc": "AI assistant for generating shell commands from natural language."
+  },
+  {
+    "name": "CodeNext.ai",
+    "slug": "codenext-ai",
+    "desc": "AI-powered Xcode assistant for faster iOS and Mac app development."
+  },
+  {
+    "name": "CodeCraft IDE",
+    "slug": "codecraft-ide-revolutionizing-coding",
+    "desc": "Collaborative online coding platform with AI assistance and support for multiple languages."
+  },
+  {
+    "name": "Sherpa Coder",
+    "slug": "sherpa-coder",
+    "desc": "VS Code extension for chatting with OpenAI assistants while coding."
+  },
+  {
+    "name": "Devnote",
+    "slug": "devnote",
+    "desc": "Devnote helps developers document code with notes and an AI assistant for better collaboration."
+  },
+  {
+    "name": "Codey AI",
+    "slug": "codey-ai",
+    "desc": "Codey AI is an AI assistant specialized in coding, providing images and sources."
+  },
+  {
+    "name": "CodeBetter",
+    "slug": "codebetter",
+    "desc": "AI-powered LeetCode assistant for code analysis and optimization."
+  },
+  {
+    "name": "Alguru",
+    "slug": "alguru",
+    "desc": "AI-powered Chrome Extension chatbot for coding interview preparation."
+  },
+  {
+    "name": "Windsurf",
+    "slug": "the-windsurf-editor",
+    "desc": "AI-powered IDE for collaborative coding and faster product shipping."
+  },
+  {
+    "name": "Devgen",
+    "slug": "devgen-your-github-ai-assistant",
+    "desc": "AI assistant for code analysis, issue tracking, and pull request management."
+  },
+  {
+    "name": "Naboo",
+    "slug": "naboo",
+    "desc": "Ticketing system enhancement with integrated development history insights."
+  }
+]
