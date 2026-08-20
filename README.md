@@ -2,12 +2,41 @@
 
 Comprehensive census of coding agent harnesses — systems that let an LLM autonomously write, modify, debug, or run code.
 
+**1101 agents catalogued.** Browse the live site at [harness-census](https://prime-radiant-inc.github.io/harness-census/).
+
 ## Contents
 
-- `coding_agent_harnesses.tsv` — tab-separated data (827 entries)
-- `coding_agent_harnesses.csv` — comma-separated data (827 entries)
+- `coding_agent_harnesses.tsv` — tab-separated data (1101 entries)
+- `coding_agent_harnesses.csv` — comma-separated data (1101 entries)
 - `coding_agent_harnesses.md` — markdown table with summary
+- `agents/` — individual agent pages (Markdown with YAML frontmatter)
+- `_data/agents.json` — JSON data for client-side search
+- `_layouts/`, `*.njk` — Eleventy templates
+- `css/style.css` — dark theme stylesheet
+- `scripts/generate_pages.py` — TSV-to-markdown page generator
 - `sources/` — raw source data, scripts, and intermediate files
+
+## Website
+
+The site is built with [Eleventy](https://www.11ty.dev/) and deployed to GitHub Pages via GitHub Actions.
+
+### Local development
+
+```bash
+npm install
+npx @11ty/eleventy --serve
+```
+
+This starts a local dev server at `http://localhost:8080`.
+
+### Build
+
+```bash
+npm install
+npx @11ty/eleventy
+```
+
+Output goes to `_site/`.
 
 ## Columns
 
