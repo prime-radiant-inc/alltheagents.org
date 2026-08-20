@@ -1,4 +1,8 @@
 module.exports = function(eleventyConfig) {
+  // The entry template is documentation, not an entry — keep it out of the build
+  // entirely (collections, pages, and the agents.json search index pipeline).
+  eleventyConfig.ignores.add("agents/_TEMPLATE.md");
+
   // Passthrough for static assets
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");

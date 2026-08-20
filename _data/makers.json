@@ -1,5 +1,4 @@
 {
-  "_comment": "Maker registry (maker = creator, one concept). Agents reference makers by key via their frontmatter `maker` field. Country and business-model facts live here, not on agent records, so multi-product makers (Microsoft, Google, Alibaba...) are described once and the site can pivot on them. Seed examples below; backfill is a follow-up PR.",
   "anthropic": {
     "name": "Anthropic",
     "maker_type": "company",
@@ -23,11 +22,5 @@
     "makes_models": false,
     "revenue_model": [],
     "website": "https://cline.bot"
-  },
-  "_schema": {
-    "maker_type": "individual | company | community",
-    "country": "ISO 3166-1 alpha-2, or null if unknown",
-    "makes_models": "does this maker also make models? (true/false)",
-    "revenue_model": "subset of [tokens, subscriptions]; empty list = neither"
   }
 }
