@@ -1,13 +1,13 @@
 ---
 name: "Magic"
 slug: "magic"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Magic AI"
 license: "Proprietary"
 url: "https://magic.dev"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "IDE"
   - "CLI"
@@ -29,9 +29,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "AI research lab building frontier code models (ultra-long context, inference-time compute, domain-specific RL) aimed at automating software engineering and safe AGI. No public coding-agent product or installer is described on the site as of visit."
 ---
 
-AI coding assistant with long context window for large codebases
+AI research lab building frontier code models (ultra-long context, inference-time compute, domain-specific RL) aimed at automating software engineering and safe AGI. No public coding-agent product or installer is described on the site as of visit.

@@ -1,8 +1,8 @@
 ---
 name: "Nora"
 slug: "nora"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Nora"
 license: null
 url: "https://www.mynora.ai"
@@ -27,9 +27,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "toolify"
+what_makes_it_special: "Harness/control layer for AI consumer devices (wearables, companions, health devices, smart toys, edge AI). Turns AI output into structured product behavior and manages reliability/operations across device fleets - state, edge cases, failure recovery, fleet-wide behavior updates/rollbacks. Early access / design partners only."
 ---
 
-Deep reasoning AI coding agent for Web3 development, enhancing productivity and code security.
+Harness/control layer for AI consumer devices (wearables, companions, health devices, smart toys, edge AI). Turns AI output into structured product behavior and manages reliability/operations across device fleets - state, edge cases, failure recovery, fleet-wide behavior updates/rollbacks. Early access / design partners only.

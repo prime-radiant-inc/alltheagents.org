@@ -1,18 +1,18 @@
 ---
 name: "FetchCoder"
 slug: "fetchcoder"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "fetchai"
 license: null
 url: "https://github.com/fetchai/fetchcoder-releases"
 source_code_url: "https://github.com/fetchai/fetchcoder-releases"
-source_available: "Source-visible (no OSS license)"
+source_available: True
 platforms:
   - "CLI"
 first_released: "2025-10-03"
 current_release: "2025-12-29"
-stars: 2
+stars: "2"
 language: null
 homepage: null
 mcp_support: null
@@ -23,14 +23,15 @@ hooks: null
 plan_mode: null
 model_providers: null
 pricing: null
-install_method: null
+install_method: "npm install -g @fetchai/fetchcoder"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/fetchai/fetchcoder-releases/releases"
+maintained: "abandoned"
 sources:
   - "brad"
+what_makes_it_special: "AI Coding Agent for the Terminal by Fetch.ai. Binary releases repo only — no source code, just install script. Only 1 commit, minimal information available."
 ---
 
-- **[FetchCoder](https://github.com/fetchai/fetchcoder-releases)** `⭐ 2` `[Fetch.ai]` — Terminal coding agent powered by ASI1, with interactive TUI, CLI, and API server modes plus MCP integration.
+AI Coding Agent for the Terminal by Fetch.ai. Binary releases repo only — no source code, just install script. Only 1 commit, minimal information available.

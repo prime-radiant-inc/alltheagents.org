@@ -1,8 +1,8 @@
 ---
 name: "demo"
 slug: "demo"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://twitter.com/OpenInterpreter/status/1770821439458840846"
@@ -31,6 +31,7 @@ download_url: null
 maintained: null
 sources:
   - "jim"
+what_makes_it_special: "Associated link: an Open Interpreter demo tweet (twitter.com/OpenInterpreter/status/1770821439458840846); not a standalone agent harness"
 ---
 
-- [01](https://changes.openinterpreter.com/log/introducing-the-01-developer-preview) - The '01 Project' by Open Interpreter is an open-source initiative focused on creating an ecosystem for AI devices, aiming to become the GNU/Linux in this domain, with details on its experimental status, software, hardware, and a speech-to-speech interface based on a code-interpreting language model for dynamic interactions [announcement](https://changes.openinterpreter.com/log/introducing-the-01-developer-preview) | [demo](https://twitter.com/OpenInterpreter/status/1770821439458840846) | [github](https://github.com/OpenInterpreter/01) | [website](http://openinterpreter.com/01) | [docs](https://01.openinterpreter.com/)
+Associated link: an Open Interpreter demo tweet (twitter.com/OpenInterpreter/status/1770821439458840846); not a standalone agent harness

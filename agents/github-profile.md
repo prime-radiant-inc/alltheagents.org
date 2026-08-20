@@ -1,20 +1,20 @@
 ---
 name: "github profile"
 slug: "github-profile"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
-license: null
+license: "Apache-2.0"
 url: "https://github.com/aiwaves-cn"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: True
 platforms:
   - "Web"
   - "Autonomous"
 first_released: null
 current_release: null
 stars: null
-language: null
+language: "Python"
 homepage: null
 mcp_support: null
 plugin_support: null
@@ -23,15 +23,16 @@ subagents: null
 hooks: null
 plan_mode: null
 model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+pricing: "Free / open-source"
+install_method: "pip install git+https://github.com/aiwaves-cn/agents@master"
+docs_url: "https://github.com/aiwaves-cn/agents#readme"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/aiwaves-cn/agents"
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "Associated link: the aiwaves-cn GitHub org, makers of the 'agents' framework - an open-source framework for data-centric, self-evolving autonomous language agents that uses symbolic learning (loss functions, back-propagation, weight optimization) for agent training/evolution"
 ---
 
-- [Agents by AI Waves](https://github.com/aiwaves-cn/agents) - Agents is an open-source framework for building autonomous language agents with features including long-short term memory, tool usage, web navigation, multi-agent communication, human-agent interaction, and symbolic control, allowing customization through natural language config files and deployment in various interfaces [github](https://github.com/aiwaves-cn/agents) | [github profile](https://github.com/aiwaves-cn)
+Associated link: the aiwaves-cn GitHub org, makers of the 'agents' framework - an open-source framework for data-centric, self-evolving autonomous language agents that uses symbolic learning (loss functions, back-propagation, weight optimization) for agent training/evolution

@@ -1,8 +1,8 @@
 ---
 name: "agency-agents-zh"
 slug: "agency-agents-zh"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "jnMetaCode"
 license: "MIT"
 url: "https://github.com/jnMetaCode/agency-agents-zh"
@@ -11,25 +11,26 @@ source_available: "Yes"
 platforms: []
 first_released: "2026-03-06"
 current_release: "2026-08-17"
-stars: 19613
-language: "Shell"
+stars: "19613"
+language: "Markdown, Shell, JavaScript"
 homepage: "https://ao.aiolaola.com/experts"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
+mcp_support: "no (includes an MCP Builder agent for creating MCP servers, but no MCP server itself)"
+plugin_support: "yes (18 AI coding tools via conversion scripts)"
+claude_code_plugin: "yes (direct copy to ~/.claude/agents/)"
+subagents: "yes (multi-agent orchestration; subagent formats for Codex CLI, Qoder, Qwen Code, OpenClaw)"
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
+model_providers: "10 LLM providers via agency-orchestrator (7 free, no key needed)"
+pricing: "open-source (MIT)"
+install_method: "npm"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "github_topic"
+what_makes_it_special: "A library of 268 plug-and-play AI expert agent personas across 20 departments, including 50+ China-specific agents (Xiaohongshu, Douyin, WeChat, Feishu, DingTalk), with one-click installation across 18 AI coding tools and a companion orchestrator for multi-agent DAG-based collaboration."
 ---
 
-🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 52 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。
+A library of 268 plug-and-play AI expert agent personas across 20 departments, including 50+ China-specific agents (Xiaohongshu, Douyin, WeChat, Feishu, DingTalk), with one-click installation across 18 AI coding tools and a companion orchestrator for multi-agent DAG-based collaboration.

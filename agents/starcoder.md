@@ -1,20 +1,20 @@
 ---
 name: "StarCoder"
 slug: "starcoder"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "BigCode"
-license: "MIT"
+license: "Apache-2.0 (code); BigCode OpenRAIL-M (model weights)"
 url: "https://huggingface.co/bigcode/starcoder"
 source_code_url: "https://github.com/bigcode-project/starcoder"
-source_available: "Yes"
+source_available: True
 platforms:
   - "CLI"
   - "API"
 first_released: null
 current_release: null
 stars: null
-language: null
+language: "Python"
 homepage: null
 mcp_support: null
 plugin_support: null
@@ -24,14 +24,15 @@ hooks: null
 plan_mode: null
 model_providers: null
 pricing: null
-install_method: null
+install_method: "pip install -r requirements.txt"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://huggingface.co/bigcode/starcoder"
+maintained: "abandoned"
 sources:
   - "bing_ddg_chinese"
+what_makes_it_special: "A code language model trained on 80+ programming languages plus GitHub issues, commits, and notebooks. Supports 8-bit loading under 20GB RAM and has a C++ implementation (starcoder.cpp). Superseded by StarCoder2; repo inactive since May 2023. A model, not an agent harness."
 ---
 
-Open-source code generation model for programming tasks
+A code language model trained on 80+ programming languages plus GitHub issues, commits, and notebooks. Supports 8-bit loading under 20GB RAM and has a C++ implementation (starcoder.cpp). Superseded by StarCoder2; repo inactive since May 2023. A model, not an agent harness.

@@ -1,13 +1,13 @@
 ---
 name: "Continue"
 slug: "continue"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "continuedev"
 license: "Apache-2.0"
 url: "https://github.com/continuedev/continue"
 source_code_url: "https://github.com/continuedev/continue"
-source_available: "Yes"
+source_available: True
 platforms:
   - "IDE"
   - "CLI"
@@ -16,20 +16,20 @@ current_release: "2026-08-19"
 stars: null
 language: "TypeScript"
 homepage: "https://continue.dev"
-mcp_support: null
-plugin_support: null
+mcp_support: True
+plugin_support: True
 claude_code_plugin: null
 subagents: null
 hooks: null
-plan_mode: null
+plan_mode: True
 model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+pricing: "Free / open source"
+install_method: "VS Code Marketplace, OpenVSX, npm (@continuedev/cli), GitHub Releases (JetBrains)"
+docs_url: "https://docs.continue.dev"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "jqueryscript"
   - "brad"
@@ -37,6 +37,7 @@ sources:
   - "brandonhimpfen"
   - "ishandutta"
   - "tiennm"
+what_makes_it_special: "Pioneering open-source coding agent available as CLI, VS Code extension, and JetBrains plugin. The repository is no longer actively maintained and is read-only; a final 2.0.0 release was published as a foundation for others."
 ---
 
-An open-source coding agent for IDE and terminal use with configurable models, repository context, and development tools.
+Pioneering open-source coding agent available as CLI, VS Code extension, and JetBrains plugin. The repository is no longer actively maintained and is read-only; a final 2.0.0 release was published as a foundation for others.

@@ -1,8 +1,8 @@
 ---
 name: "Browserbase"
 slug: "browserbase"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://twitter.com/browserbasehq"
@@ -32,6 +32,7 @@ download_url: null
 maintained: null
 sources:
   - "jim"
+what_makes_it_special: "Associated link: the Twitter/X account for Browserbase (twitter.com/browserbasehq), a cloud browser infrastructure provider; not a standalone coding agent harness"
 ---
 
-- [Browserbase](https://twitter.com/browserbasehq) - Browserbase offers a managed headless web browser API with robust features like session recording, logging, and debugging, ensuring secure connections to isolated web browsers for efficient issue resolution [twitter](https://twitter.com/browserbasehq) | [website](https://www.browserbase.com/)
+Associated link: the Twitter/X account for Browserbase (twitter.com/browserbasehq), a cloud browser infrastructure provider; not a standalone coding agent harness

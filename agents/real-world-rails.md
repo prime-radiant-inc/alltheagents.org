@@ -1,18 +1,18 @@
 ---
 name: "real-world-rails"
 slug: "real-world-rails"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "steveclarke"
 license: "MIT"
 url: "https://github.com/steveclarke/real-world-rails"
 source_code_url: "https://github.com/steveclarke/real-world-rails"
-source_available: "Yes"
+source_available: True
 platforms: []
 first_released: "2026-02-23"
 current_release: "2026-08-17"
-stars: 537
-language: "Shell"
+stars: "537"
+language: "Ruby"
 homepage: null
 mcp_support: null
 plugin_support: null
@@ -22,14 +22,15 @@ hooks: null
 plan_mode: null
 model_providers: null
 pricing: null
-install_method: null
+install_method: "git clone ... && cd real-world-rails && bin/setup (requires git-lfs); agent skill: npx skills add steveclarke/real-world-rails"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "github_topic2"
+what_makes_it_special: "Aggregates 200+ production open source Rails apps and engines as git submodules in one repo, enabling AI coding agents to search and cross-reference real-world codebases to research architectural patterns (multi-tenancy, auth, background jobs, soft deletes, etc.)."
 ---
 
-200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.
+Aggregates 200+ production open source Rails apps and engines as git submodules in one repo, enabling AI coding agents to search and cross-reference real-world codebases to research architectural patterns (multi-tenancy, auth, background jobs, soft deletes, etc.).

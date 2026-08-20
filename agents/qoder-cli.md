@@ -1,13 +1,13 @@
 ---
 name: "qoder-cli"
 slug: "qoder-cli"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Qoder"
 license: "MIT"
 url: "https://github.com/qoder-cli/qoder-cli"
 source_code_url: "https://github.com/qoder-cli/qoder-cli"
-source_available: "Yes"
+source_available: True
 platforms:
   - "CLI"
 first_released: "2025"
@@ -31,6 +31,8 @@ download_url: null
 maintained: null
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "Next-generation CLI AI coding agent based on Qwen programming large model"
 ---
 
 Next-generation CLI AI coding agent based on Qwen programming large model
+

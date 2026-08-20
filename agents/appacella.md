@@ -1,13 +1,13 @@
 ---
 name: "Appacella"
 slug: "appacella"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Appacella"
 license: "Proprietary"
 url: "https://appacella.com"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "Web"
 first_released: "2025"
@@ -22,15 +22,16 @@ subagents: null
 hooks: null
 plan_mode: null
 model_providers: null
-pricing: null
-install_method: null
+pricing: "Free Plan available (details not provided)"
+install_method: "Web app (no installation required)"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "Builds mobile/web apps from a single sentence description by scaffolding features, data, and UI in minutes; allows one-click publishing to the web"
 ---
 
-AI app builder for creating applications from natural language
+Builds mobile/web apps from a single sentence description by scaffolding features, data, and UI in minutes; allows one-click publishing to the web

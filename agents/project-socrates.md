@@ -1,13 +1,13 @@
 ---
 name: "Project-S.O.C.R.A.T.E.S."
 slug: "project-socrates"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://github.com/Hams-Ollo/Project-S.O.C.R.A.T.E.S."
 source_code_url: "https://github.com/Hams-Ollo/Project-S.O.C.R.A.T.E.S."
-source_available: "Source-visible (no OSS license)"
+source_available: False
 platforms: []
 first_released: null
 current_release: null
@@ -27,9 +27,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "jim"
+what_makes_it_special: "Was described as an advanced multi-agent AI template combining Groq's speed with LangChain's flexibility. GitHub repo (Hams-Ollo/Project-S.O.C.R.A.T.E.S.) is deleted."
 ---
 
-- [Project-S.O.C.R.A.T.E.S.](https://github.com/Hams-Ollo/Project-S.O.C.R.A.T.E.S.) - 🤖 Advanced Multi-Agent AI Template - Production-ready system combining Groq's speed with LangChain's flexibility. Features RAG, document p…
+Was described as an advanced multi-agent AI template combining Groq's speed with LangChain's flexibility. GitHub repo (Hams-Ollo/Project-S.O.C.R.A.T.E.S.) is deleted.

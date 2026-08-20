@@ -1,13 +1,13 @@
 ---
 name: "Micro Agent"
 slug: "micro-agent"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Independent"
-license: "Open-source"
+license: "MIT"
 url: "https://github.com/micro-agent/micro-agent"
 source_code_url: "https://github.com/micro-agent/micro-agent"
-source_available: "Yes"
+source_available: True
 platforms:
   - "CLI"
 first_released: "2025"
@@ -31,6 +31,8 @@ download_url: null
 maintained: null
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "Lightweight AI coding agent for terminal"
 ---
 
 Lightweight AI coding agent for terminal
+

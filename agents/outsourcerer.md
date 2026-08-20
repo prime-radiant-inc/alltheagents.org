@@ -1,36 +1,37 @@
 ---
 name: "outsourcerer"
 slug: "outsourcerer"
-layout: agent.njk
-category: multiplexer
+layout: "agent.njk"
+category: "multiplexer"
 maker: "alexgreensh"
-license: "NOASSERTION"
+license: "PolyForm Noncommercial 1.0.0"
 url: "https://github.com/alexgreensh/outsourcerer"
 source_code_url: "https://github.com/alexgreensh/outsourcerer"
-source_available: "Source-visible (no OSS license)"
+source_available: True
 platforms:
   - "CLI"
 first_released: "2026-07-10"
 current_release: "2026-08-19"
-stars: 135
-language: "Shell"
+stars: "135"
+language: "Bash"
 homepage: null
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
+mcp_support: True
+plugin_support: True
+claude_code_plugin: True
+subagents: True
 hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
+plan_mode: True
+model_providers: "OpenRouter, Claude, Codex, Gemini, Hermes, Ollama, LM Studio"
+pricing: "Free (PolyForm Noncommercial license; commercial use requires separate license)"
+install_method: "Claude Code: /plugin marketplace add alexgreensh/outsourcerer then /plugin install outsourcerer@outsourcerer; Antigravity: agy plugin import claude-code; Codex: outsourcerer parity-codex; Devin: outsourcerer parity; Hermes: outsourcerer parity-hermes"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/alexgreensh/outsourcerer/releases"
+maintained: "active"
 sources:
   - "brad"
+what_makes_it_special: "Delegates work from your main AI coding session to cheaper models; advisor panels with consensus gating; tracks real savings with 'The Tab'; fanout parallel agents across any backend; runs on local models for $0"
 ---
 
-- **[outsourcerer](https://github.com/alexgreensh/outsourcerer)** `⭐ 131` — Delegates coding grunt-work to the cheapest harness or model you already pay for while your main session stays the orchestrator, carrying your skills, plugins, and MCP servers onto whichever engine runs the job. Works across Claude Code, Codex, Cursor, Droid, Hermes, and Cline. Source-available (PolyForm Noncommercial).
+Delegates work from your main AI coding session to cheaper models; advisor panels with consensus gating; tracks real savings with 'The Tab'; fanout parallel agents across any backend; runs on local models for $0

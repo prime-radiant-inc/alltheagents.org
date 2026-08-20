@@ -1,18 +1,18 @@
 ---
 name: "h5i"
 slug: "h5i"
-layout: agent.njk
-category: multiplexer
+layout: "agent.njk"
+category: "multiplexer"
 maker: "h5i-dev"
 license: "Apache-2.0"
 url: "https://github.com/h5i-dev/h5i"
 source_code_url: "https://github.com/h5i-dev/h5i"
-source_available: "Yes"
+source_available: True
 platforms:
   - "Web"
 first_released: "2026-03-11"
 current_release: "2026-08-19"
-stars: 535
+stars: "535"
 language: "Rust"
 homepage: "https://h5i.dev"
 mcp_support: null
@@ -23,14 +23,15 @@ hooks: null
 plan_mode: null
 model_providers: null
 pricing: null
-install_method: null
-docs_url: null
+install_method: "curl -fsSL https://h5i.dev/install.sh | sh  (or cargo install --path .)"
+docs_url: "https://h5i.dev/"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "brad"
+what_makes_it_special: "Auditable sandbox for AI coding agents with multiple isolation tiers (workspace, process, supervised, container via rootless Podman, microvm via microsandbox). Includes isolated browser control, end-to-end encrypted P2P sharing, reviewable patches/logs, eBPF runtime detection, and self-hosted runners. Local-first, no SaaS."
 ---
 
-- **[h5i](https://github.com/h5i-dev/h5i)** `⭐ 531` — Runs several coding agents (Claude Code, Codex) on the same task in isolated sandboxes, has them peer-review each other, then a neutral verifier replays and tests each candidate and merges the one that passes. Run metadata is versioned in the repo under `refs/h5i/*`. Apache-2.0.
+Auditable sandbox for AI coding agents with multiple isolation tiers (workspace, process, supervised, container via rootless Podman, microvm via microsandbox). Includes isolated browser control, end-to-end encrypted P2P sharing, reviewable patches/logs, eBPF runtime detection, and self-hosted runners. Local-first, no SaaS.

@@ -1,36 +1,37 @@
 ---
 name: "open-agent-hub"
 slug: "open-agent-hub"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "guanyang"
 license: "MIT"
 url: "https://github.com/guanyang/open-agent-hub"
 source_code_url: "https://github.com/guanyang/open-agent-hub"
-source_available: "Yes"
+source_available: True
 platforms:
   - "CLI"
 first_released: "2026-01-13"
 current_release: "2026-08-19"
-stars: 952
-language: "TypeScript"
+stars: "952"
+language: "JavaScript"
 homepage: null
 mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
+plugin_support: "yes"
+claude_code_plugin: "yes"
+subagents: "yes — agents directory with Orchestrator, Evaluator, and Optimizer roles with handoff contracts"
+hooks: "no"
 plan_mode: null
 model_providers: null
-pricing: null
-install_method: null
+pricing: "open-source"
+install_method: "npm"
 docs_url: null
-plugin_docs_url: null
+plugin_docs_url: "https://github.com/guanyang/open-agent-hub/blob/main/docs/Skill_Guidelines.md"
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "github_topic2"
+what_makes_it_special: "Zero-dependency, single-command activation of Skills/Agents/Commands across 8+ AI coding assistants (Claude Code, Cursor, Trae, Gemini CLI, Codex, Antigravity, OpenCode, Kiro) with 83+ modular skills and upstream community sync."
 ---
 
-A lightweight, zero-dependency CLI tool to manage and activate capabilities for AI coding assistants (such as Claude Code, Cursor, Trae, etc.).
+Zero-dependency, single-command activation of Skills/Agents/Commands across 8+ AI coding assistants (Claude Code, Cursor, Trae, Gemini CLI, Codex, Antigravity, OpenCode, Kiro) with 83+ modular skills and upstream community sync.

@@ -1,13 +1,13 @@
 ---
 name: "Cluely"
 slug: "cluely"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Cluely"
 license: "Proprietary"
 url: "https://cluely.ai"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "Web"
 first_released: "2025"
@@ -17,10 +17,10 @@ language: null
 homepage: null
 mcp_support: null
 plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
+claude_code_plugin: False
+subagents: False
+hooks: False
+plan_mode: False
 model_providers: null
 pricing: null
 install_method: null
@@ -28,9 +28,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "The URL cluely.ai currently hosts a weekly puzzle email newsletter, not a software product or coding agent. The entry appears to be based on stale or incorrect information."
 ---
 
-AI coding assistant tool
+The URL cluely.ai currently hosts a weekly puzzle email newsletter, not a software product or coding agent. The entry appears to be based on stale or incorrect information.

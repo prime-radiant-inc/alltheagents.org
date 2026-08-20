@@ -1,13 +1,13 @@
 ---
 name: "MCPlato"
 slug: "mcplato"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "MCPlato"
 license: "Proprietary"
 url: "https://mcplato.com"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "Web"
 first_released: "2025"
@@ -31,6 +31,7 @@ download_url: null
 maintained: null
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "Could not verify details from the website (returned empty content)."
 ---
 
-Agent OS and software engineer platform
+Could not verify details from the website (returned empty content).

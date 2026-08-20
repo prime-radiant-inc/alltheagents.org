@@ -1,35 +1,36 @@
 ---
 name: "agent-sandbox"
 slug: "agent-sandbox"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "mattolson"
 license: "MIT"
 url: "https://github.com/mattolson/agent-sandbox"
 source_code_url: "https://github.com/mattolson/agent-sandbox"
-source_available: "Yes"
+source_available: True
 platforms: []
 first_released: "2026-01-17"
 current_release: "2026-08-02"
-stars: 198
-language: "Python"
+stars: "198"
+language: "Go"
 homepage: null
 mcp_support: null
 plugin_support: null
-claude_code_plugin: null
+claude_code_plugin: False
 subagents: null
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+model_providers: "Claude Code, Codex, Gemini, OpenCode, Pi, Factory, Copilot, Hermes (runs agents in sandbox)"
+pricing: "Free / open-source"
+install_method: "curl -fsSL https://github.com/mattolson/agent-sandbox/releases/latest/download/install.sh | sh (or download binary from Releases)"
+docs_url: "https://github.com/mattolson/agent-sandbox/blob/main/docs/"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/mattolson/agent-sandbox/releases/latest"
+maintained: "active"
 sources:
   - "github_topic2"
+what_makes_it_special: "Runs AI coding agents in a locked-down local sandbox with minimal filesystem access, configurable network egress via sidecar proxy (mitmproxy), proxy-side secret injection where the agent container never sees API keys/tokens, iptables firewall preventing direct outbound bypass, hot-reloadable policies, and seamless agent switching with preserved state/credentials."
 ---
 
-Secure local dev environment for collaboration with AI coding agents
+Runs AI coding agents in a locked-down local sandbox with minimal filesystem access, configurable network egress via sidecar proxy (mitmproxy), proxy-side secret injection where the agent container never sees API keys/tokens, iptables firewall preventing direct outbound bypass, hot-reloadable policies, and seamless agent switching with preserved state/credentials.

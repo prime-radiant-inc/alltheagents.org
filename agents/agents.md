@@ -1,39 +1,40 @@
 ---
 name: "Agents"
 slug: "agents"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "aiwaves-cn"
 license: "Apache-2.0"
 url: "https://github.com/aiwaves-cn/agents"
 source_code_url: "https://github.com/aiwaves-cn/agents"
-source_available: "Yes"
+source_available: True
 platforms:
   - "IDE"
   - "Web"
   - "Autonomous"
 first_released: "2023-07-18"
 current_release: "2024-09-26"
-stars: 5954
+stars: "5954"
 language: "Python"
 homepage: null
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
+mcp_support: "no"
+plugin_support: "no"
+claude_code_plugin: "n/a"
+subagents: "yes"
+hooks: "no"
+plan_mode: "no"
 model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+pricing: "open-source"
+install_method: "pip"
+docs_url: "https://agentsv2.readthedocs.io/"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "e2b"
   - "jim"
+what_makes_it_special: "A data-centric, self-evolving autonomous language agent framework (Agents 2.0) that applies the connectionist learning procedure to agent training. Makes an analogy where the agent pipeline is a computational graph, nodes are layers, and prompts/tools are weights — implementing back-propagation and gradient-based weight update using 'language loss', 'language gradients', and 'language weights'. Can optimize multi-agent systems by treating nodes as different agents."
 ---
 
-- **Long-short Term Memory**: Language agents in the library are equipped with both long-term memory implemented via VectorDB + Semantic Search and short-term memory (working memory) maintained and updated by an LLM. - **Tool Usage**: Language agents in the library can use any external tools via [function-calling](https://platform.openai.com/docs/guides/gpt/function-calling) and developers can add customized tools/APIs [here](https://github.com/aiwaves-cn/agents/blob/master/src/agents/Component/ToolComponent.py). - **Web Navigation**: Language agents in the library can use search engines to navigate the web and get useful information. - **Multi-agent Communication**: In addition to single language agents, the library supports building multi-agent systems in which language agents can communicate with other language agents and the environment. Different from most existing frameworks for multi-agent systems that use pre-defined rules to control the order for agents' action, **Agents** includes a _controller_ function that dynamically decides which agent will perform the next action using an LLM by considering the previous actions, the environment, and the target of the current states. This makes multi-agent communication more flexible. - **Human-Agent interaction**: In addition to letting language agents communicate with each other in an environment, our framework seamlessly supports human users to play the role of the agent by himself/herself and input his/her own actions, and interact with other language agents in the environment. - **Symbolic Control**: Different from existing frameworks for language agents that only use a simple task description to control the entire multi-agent system over the whole task completion process, **Agents** allows users to use an **SOP (Standard Operation Process)** that defines subgoals/subtasks for the overall task to customize fine-grained workflows for the language agents.
+A data-centric, self-evolving autonomous language agent framework (Agents 2.0) that applies the connectionist learning procedure to agent training. Makes an analogy where the agent pipeline is a computational graph, nodes are layers, and prompts/tools are weights — implementing back-propagation and gradient-based weight update using 'language loss', 'language gradients', and 'language weights'. Can optimize multi-agent systems by treating nodes as different agents.

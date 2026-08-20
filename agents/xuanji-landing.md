@@ -1,17 +1,17 @@
 ---
 name: "xuanji-landing"
 slug: "xuanji-landing"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "gary95271"
 license: null
 url: "https://github.com/gary95271/xuanji-landing"
 source_code_url: "https://github.com/gary95271/xuanji-landing"
-source_available: "Source-visible (no OSS license)"
+source_available: False
 platforms: []
 first_released: "2026-05-08"
 current_release: "2026-06-14"
-stars: 86
+stars: "86"
 language: "HTML"
 homepage: "https://xuanji.dev"
 mcp_support: null
@@ -30,6 +30,7 @@ download_url: null
 maintained: null
 sources:
   - "github_topic"
+what_makes_it_special: "Static landing/marketing page hosted on GitHub Pages for 'XuanJi', a Chinese-market Claude Code Agent SaaS product. The repo only contains index.html, logo.svg, and promotional images. The actual agent product code is not in this repo."
 ---
 
-玄机 XuanJi · Claude 客户端 + Claude Code Agent · 国内直连 Claude Sonnet 4.6 / Opus 4.7 / DeepSeek v4 · Claude 防封不退款, Claude Code 国产替代首选
+Static landing/marketing page hosted on GitHub Pages for 'XuanJi', a Chinese-market Claude Code Agent SaaS product. The repo only contains index.html, logo.svg, and promotional images. The actual agent product code is not in this repo.

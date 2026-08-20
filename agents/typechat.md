@@ -1,35 +1,36 @@
 ---
 name: "TypeChat"
 slug: "typechat"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "microsoft"
 license: "MIT"
 url: "https://github.com/microsoft/TypeChat"
 source_code_url: "https://github.com/microsoft/TypeChat"
-source_available: "Yes"
+source_available: True
 platforms: []
 first_released: "2023-06-20"
 current_release: "2026-08-19"
-stars: 8680
-language: "TypeScript"
+stars: "8680"
+language: "TypeScript, Python, C#"
 homepage: "https://microsoft.github.io/TypeChat/"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
+mcp_support: "no"
+plugin_support: "no"
+claude_code_plugin: "no"
+subagents: "no"
+hooks: "no"
+plan_mode: "no"
 model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+pricing: "open-source"
+install_method: "npm"
+docs_url: "https://microsoft.github.io/TypeChat"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "Library (not a coding agent) that replaces prompt engineering with schema engineering. Developers define TypeScript types representing application intents; TypeChat constructs prompts using these types, validates LLM responses against the schema, repairs non-conforming outputs, and summarizes results. Eliminates complex decision trees and fragility of traditional prompt engineering. Available in TypeScript, Python, and C#/.NET."
 ---
 
-- [TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that facilitates building natural language interfaces by using schema engineering as an alternative to traditional function calling in LLMs, avoiding JSON schema-based constraints [github](https://github.com/microsoft/TypeChat)
+Library (not a coding agent) that replaces prompt engineering with schema engineering. Developers define TypeScript types representing application intents; TypeChat constructs prompts using these types, validates LLM responses against the schema, repairs non-conforming outputs, and summarizes results. Eliminates complex decision trees and fragility of traditional prompt engineering. Available in TypeScript, Python, and C#/.NET.

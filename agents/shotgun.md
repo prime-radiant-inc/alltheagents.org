@@ -1,35 +1,36 @@
 ---
 name: "shotgun"
 slug: "shotgun"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "shotgun-sh"
 license: "MIT"
 url: "https://github.com/shotgun-sh/shotgun"
 source_code_url: "https://github.com/shotgun-sh/shotgun"
-source_available: "Yes"
+source_available: "yes"
 platforms: []
 first_released: "2025-08-05"
 current_release: "2026-06-02"
-stars: 684
+stars: "684"
 language: "Python"
 homepage: "https://shotgun.sh/"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+mcp_support: "no"
+plugin_support: "no"
+claude_code_plugin: "no"
+subagents: "yes"
+hooks: "no"
+plan_mode: "yes"
+model_providers: "OpenAI, Anthropic, Google Gemini"
+pricing: "freemium"
+install_method: "pip"
+docs_url: "https://shotgun.sh"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "github_topic2"
+what_makes_it_special: "Spec-driven development CLI/TUI that reads your entire codebase (tree-sitter indexing), plans features upfront, and splits them into staged PRs with file-by-file instructions for AI coding agents (Cursor, Claude Code, Codex). Multi-phase structured workflow (Research, Specify, Plan, Tasks, Export) with dedicated sub-agents per phase managed by a Router. Starts with research to discover existing solutions/patterns before writing specs, preventing duplicate work. Exports tool-agnostic AGENTS.md files. Two execution modes: Planning (default, with checkpoints) and Drafting (runs full plan). BYOK or Shotgun credits. Install via uvx/uv."
 ---
 
-Spec Driven Development 🤠 Write codebase-aware specs for AI coding agents so they don't derail.
+Spec-driven development CLI/TUI that reads your entire codebase (tree-sitter indexing), plans features upfront, and splits them into staged PRs with file-by-file instructions for AI coding agents (Cursor, Claude Code, Codex). Multi-phase structured workflow (Research, Specify, Plan, Tasks, Export) with dedicated sub-agents per phase managed by a Router. Starts with research to discover existing solutions/patterns before writing specs, preventing duplicate work. Exports tool-agnostic AGENTS.md files. Two execution modes: Planning (default, with checkpoints) and Drafting (runs full plan). BYOK or Shotgun credits. Install via uvx/uv.

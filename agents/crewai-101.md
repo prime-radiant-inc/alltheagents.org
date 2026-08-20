@@ -1,13 +1,13 @@
 ---
 name: "Crewai-101"
 slug: "crewai-101"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Reyzenello"
 license: null
 url: "https://github.com/Reyzenello/CrewAI-101"
 source_code_url: "https://github.com/Reyzenello/CrewAI-101"
-source_available: "Source-visible (no OSS license)"
+source_available: "Yes"
 platforms: []
 first_released: "2024-05-26"
 current_release: "2024-06-02"
@@ -20,16 +20,17 @@ claude_code_plugin: null
 subagents: null
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
+model_providers: "OpenAI"
+pricing: "open-source"
+install_method: "pip install crewAI, pip install python-dotenv"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/Reyzenello/CrewAI-101"
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "A beginner-level experiment demonstrating multi-agent orchestration using the CrewAI framework. Provides 5 detailed methods for setting the OpenAI API key on Windows (Control Panel, Command Prompt, PowerShell, .env file, Registry), making it a handy guide for Windows users new to CrewAI."
 ---
 
-- [Crewai-101](https://github.com/Reyzenello/CrewAI-101) - Testing around framework using multi-agent
+A beginner-level experiment demonstrating multi-agent orchestration using the CrewAI framework. Provides 5 detailed methods for setting the OpenAI API key on Windows (Control Panel, Command Prompt, PowerShell, .env file, Registry), making it a handy guide for Windows users new to CrewAI.

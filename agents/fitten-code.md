@@ -1,13 +1,13 @@
 ---
 name: "Fitten Code"
 slug: "fitten-code"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Fitten Tech"
 license: "Proprietary"
 url: "https://code.fittentech.com"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "IDE"
 first_released: "2023"
@@ -31,6 +31,7 @@ download_url: null
 maintained: null
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "AI-powered coding assistant plugin by Fitten Tech (Beijing) for VS Code and JetBrains IDEs, focused on code completion and chat. Could not verify details from the website (returned empty content)."
 ---
 
-Chinese AI code completion tool with local model support and free tier
+AI-powered coding assistant plugin by Fitten Tech (Beijing) for VS Code and JetBrains IDEs, focused on code completion and chat. Could not verify details from the website (returned empty content).

@@ -1,13 +1,13 @@
 ---
 name: "Codev"
 slug: "codev"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Codev"
 license: "Proprietary"
 url: "https://codev.ai"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "Web"
 first_released: "2025"
@@ -28,9 +28,11 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "AI code generation and development tool"
 ---
 
 AI code generation and development tool
+

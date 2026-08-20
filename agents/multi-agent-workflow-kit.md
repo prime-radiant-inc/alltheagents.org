@@ -1,8 +1,8 @@
 ---
 name: "multi-agent-workflow-kit"
 slug: "multi-agent-workflow-kit"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://github.com/laris-co/multi-agent-workflow-kit"
@@ -30,6 +30,7 @@ download_url: null
 maintained: null
 sources:
   - "brad"
+what_makes_it_special: "Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility. Could not verify detailed fields — the GitHub repo (laris-co/multi-agent-workflow-kit) returns 404 (deleted, renamed, or made private)."
 ---
 
-- **[multi-agent-workflow-kit](https://github.com/laris-co/multi-agent-workflow-kit)** `⭐ 11` — Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility.
+Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility. Could not verify detailed fields — the GitHub repo (laris-co/multi-agent-workflow-kit) returns 404 (deleted, renamed, or made private).

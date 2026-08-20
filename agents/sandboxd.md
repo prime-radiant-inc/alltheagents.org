@@ -1,35 +1,36 @@
 ---
 name: "sandboxd"
 slug: "sandboxd"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "tastyeffectco"
 license: "MIT"
 url: "https://github.com/tastyeffectco/sandboxd"
 source_code_url: "https://github.com/tastyeffectco/sandboxd"
-source_available: "Yes"
+source_available: True
 platforms: []
 first_released: "2026-06-03"
 current_release: "2026-08-19"
-stars: 910
+stars: "910"
 language: "Go"
 homepage: "https://sandboxd.io/"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+mcp_support: "no"
+plugin_support: "no"
+claude_code_plugin: "no"
+subagents: "no"
+hooks: "no"
+plan_mode: "no"
+model_providers: "OpenCode, Claude Code"
+pricing: "open-source"
+install_method: "docker"
+docs_url: "https://sandboxd.io"
 plugin_docs_url: null
-config_docs_url: null
+config_docs_url: "https://sandboxd.io/reference/configuration"
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "github_final"
+what_makes_it_special: "Self-hosted AI app builder with deliberately minimal architecture (one Go binary + Docker + Traefik + SQLite); sleep/wake sandboxes so idle apps cost nothing; credential isolation via proxy injection (API keys never enter sandboxes); 80+ curated one-click open-source apps."
 ---
 
-Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT.
+Self-hosted AI app builder with deliberately minimal architecture (one Go binary + Docker + Traefik + SQLite); sleep/wake sandboxes so idle apps cost nothing; credential isolation via proxy injection (API keys never enter sandboxes); 80+ curated one-click open-source apps.

@@ -1,36 +1,37 @@
 ---
 name: "OpenCastle"
 slug: "opencastle"
-layout: agent.njk
-category: multiplexer
+layout: "agent.njk"
+category: "multiplexer"
 maker: "monkilabs"
 license: "MIT"
 url: "https://github.com/monkilabs/opencastle"
 source_code_url: "https://github.com/monkilabs/opencastle"
-source_available: "Yes"
+source_available: True
 platforms:
   - "CLI"
 first_released: "2026-02-26"
 current_release: "2026-08-10"
-stars: 61
+stars: "61"
 language: "TypeScript"
 homepage: "http://www.opencastle.dev/"
-mcp_support: null
-plugin_support: null
+mcp_support: True
+plugin_support: True
 claude_code_plugin: null
-subagents: null
+subagents: True
 hooks: null
 plan_mode: null
 model_providers: null
 pricing: null
-install_method: null
-docs_url: null
+install_method: "npx opencastle init"
+docs_url: "https://www.opencastle.dev/docs/"
 plugin_docs_url: null
-config_docs_url: null
-download_url: null
-maintained: null
+config_docs_url: "https://www.opencastle.dev/docs/"
+download_url: "https://www.npmjs.com/package/opencastle"
+maintained: "active"
 sources:
   - "brad"
+what_makes_it_special: "Compiles one source AI assistant config into multiple assistant formats (Claude Code, GitHub Copilot, Cursor, Windsurf, OpenCode, Codex CLI, Antigravity); detects drift and keeps configs in sync across CI; includes 13 role definitions and experimental Convoy Engine that executes multi-step tasks across git worktrees with planning, execution, and quality gates"
 ---
 
-- **[OpenCastle](https://github.com/monkilabs/opencastle)** `⭐ 61` — Multi-agent orchestration framework that turns AI coding assistants (Copilot, Cursor, Claude Code, OpenCode, Windsurf, Codex CLI) into 19 coordinated specialist agents. CLI-driven (`npx opencastle init`), with task decomposition, parallel work, and quality gates. MIT.
+Compiles one source AI assistant config into multiple assistant formats (Claude Code, GitHub Copilot, Cursor, Windsurf, OpenCode, Codex CLI, Antigravity); detects drift and keeps configs in sync across CI; includes 13 role definitions and experimental Convoy Engine that executes multi-step tasks across git worktrees with planning, execution, and quality gates

@@ -1,35 +1,36 @@
 ---
 name: "HMRAG"
 slug: "hmrag"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "ocean-luna"
 license: null
 url: "https://github.com/ocean-luna/HMRAG"
 source_code_url: "https://github.com/ocean-luna/HMRAG"
-source_available: "Source-visible (no OSS license)"
+source_available: True
 platforms: []
 first_released: "2025-04-13"
 current_release: "2025-07-23"
-stars: 112
+stars: "112"
 language: "Python"
 homepage: null
-mcp_support: null
-plugin_support: null
+mcp_support: False
+plugin_support: True
 claude_code_plugin: null
-subagents: null
+subagents: True
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
+model_providers: "Ollama,Hugging Face,OpenAI"
+pricing: "Free/open-source research project"
+install_method: "conda create --name hmrag python=3.10; conda activate hmrag; pip install -r requirements.txt (or conda env create -f environment.yml)"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/ocean-luna/HMRAG"
+maintained: "active"
 sources:
   - "github_topic4"
+what_makes_it_special: "Hierarchical Multi-Agent Multimodal RAG framework with three-tiered architecture (Decomposition Agent -> Multi-source Retrieval Agents -> Decision Agent); plug-and-play retrieval modules for vector/graph/web databases; consistency voting + Expert Model Refinement to resolve discrepancies; accepted at ACM MM 2025; built on LightRAG; demonstrated zero-shot multimodal QA on ScienceQA."
 ---
 
-[ACM MM2025] Official code of " HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation"
+Hierarchical Multi-Agent Multimodal RAG framework with three-tiered architecture (Decomposition Agent -> Multi-source Retrieval Agents -> Decision Agent); plug-and-play retrieval modules for vector/graph/web databases; consistency voting + Expert Model Refinement to resolve discrepancies; accepted at ACM MM 2025; built on LightRAG; demonstrated zero-shot multimodal QA on ScienceQA.

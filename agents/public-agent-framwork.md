@@ -1,8 +1,8 @@
 ---
 name: "Public-Agent-Framwork"
 slug: "public-agent-framwork"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "aurasgit"
 license: "Apache-2.0"
 url: "https://github.com/aurasgit/public-agent-framwork"
@@ -21,16 +21,17 @@ claude_code_plugin: null
 subagents: null
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+model_providers: "Ollama, IBM Granite 3.0, Llama 3.1/3.x"
+pricing: "open-source"
+install_method: "npm install Auralia-agent-framework"
+docs_url: "https://github.com/aurasgit/public-agent-framwork/tree/main/docs"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/aurasgit/public-agent-framwork"
+maintained: "abandoned"
 sources:
   - "jim"
+what_makes_it_special: "Tailored for IBM Granite and Llama 3.x models; offers a sandboxed code interpreter, OpenAI-compatible Assistants API, serialization for pausing/resuming complex workflows, emitter-based instrumentation, and multiple token-optimized memory strategies. IBM has stated it will not maintain this code going forward."
 ---
 
-- [Public-Agent-Framwork](https://github.com/aurasgit/public-agent-framwork) - AI agent that independently creates, deploys, and optimizes autonomous projects.
+Tailored for IBM Granite and Llama 3.x models; offers a sandboxed code interpreter, OpenAI-compatible Assistants API, serialization for pausing/resuming complex workflows, emitter-based instrumentation, and multiple token-optimized memory strategies. IBM has stated it will not maintain this code going forward.

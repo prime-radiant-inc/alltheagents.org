@@ -1,8 +1,8 @@
 ---
 name: "video"
 slug: "video"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://www.youtube.com/watch?v=DXhqhpHWRuM"
@@ -31,6 +31,7 @@ download_url: null
 maintained: null
 sources:
   - "jim"
+what_makes_it_special: "Associated link: a YouTube video about AutoGen (youtube.com/watch?v=DXhqhpHWRuM); not a standalone agent harness"
 ---
 
-- [AutoGen by Microsoft](https://github.com/microsoft/autogen) - AutoGen is a multi-agent conversation framework facilitating the development of next-gen LLM applications, highlighted by various accomplishments and offering enhanced LLM inferences, customizable agents, and comprehensive documentation [github](https://github.com/microsoft/autogen) | [video](https://www.youtube.com/watch?v=DXhqhpHWRuM)
+Associated link: a YouTube video about AutoGen (youtube.com/watch?v=DXhqhpHWRuM); not a standalone agent harness

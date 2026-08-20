@@ -1,36 +1,37 @@
 ---
 name: "klaatcode"
 slug: "klaatcode"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "KlaatAI"
-license: "NOASSERTION"
+license: "Apache-2.0"
 url: "https://github.com/KlaatAI/klaatcode"
 source_code_url: "https://github.com/KlaatAI/klaatcode"
-source_available: "Source-visible (no OSS license)"
+source_available: True
 platforms:
   - "CLI"
 first_released: "2026-07-17"
 current_release: "2026-08-16"
-stars: 357
+stars: "357"
 language: "TypeScript"
 homepage: "https://klaatai.com"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
+mcp_support: True
+plugin_support: True
+claude_code_plugin: False
+subagents: True
+hooks: True
+plan_mode: True
+model_providers: "Klaatu routing, OpenAI-compatible, Claude, GPT, Gemini, DeepSeek, Kimi K3"
 pricing: null
-install_method: null
-docs_url: null
+install_method: "npm install -g klaatcode, or brew install KlaatAI/klaatcode/klaatcode, or curl installer"
+docs_url: "https://klaatai.com/docs"
 plugin_docs_url: null
-config_docs_url: null
-download_url: null
-maintained: null
+config_docs_url: "https://klaatai.com/docs/configuration"
+download_url: "https://klaatai.com/api/install"
+maintained: "active"
 sources:
   - "github_topic3"
+what_makes_it_special: "Terminal-native AI coding agent with per-request smart model routing across 6 cost tiers; real code knowledge graph (call graph, semantic search, blast-radius); no Continue button (free unlimited tool rounds); visible cost caps and burn-rate monitoring; compaction with self-check; reproducible benchmarks."
 ---
 
-Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.
+Terminal-native AI coding agent with per-request smart model routing across 6 cost tiers; real code knowledge graph (call graph, semantic search, blast-radius); no Continue button (free unlimited tool rounds); visible cost caps and burn-rate monitoring; compaction with self-check; reproducible benchmarks.

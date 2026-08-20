@@ -1,8 +1,8 @@
 ---
 name: "Tau"
 slug: "tau"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "huggingface"
 license: "MIT"
 url: "https://github.com/huggingface/tau"
@@ -13,25 +13,26 @@ platforms:
   - "IDE"
 first_released: "2026-06-11"
 current_release: "2026-08-18"
-stars: 2368
+stars: "2368"
 language: "Python"
 homepage: "http://twotimespi.dev/"
 mcp_support: null
 plugin_support: null
-claude_code_plugin: null
+claude_code_plugin: "n/a"
 subagents: null
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+model_providers: "OpenAI, Anthropic, OpenRouter, Hugging Face, local"
+pricing: "open-source"
+install_method: "pip"
+docs_url: "https://twotimespi.dev/"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "brad"
+what_makes_it_special: "Small, readable terminal coding agent — a Python port of Pi's minimalist coding agent — that reads, edits, and runs commands with durable JSONL sessions; also serves as a teaching project for how coding-agent systems are built."
 ---
 
-- **[Tau](https://github.com/huggingface/tau)** `⭐ 2.3k` `[Hugging Face]` — Small, readable Python coding agent in the terminal, inspired by Pi; CLI and Textual TUI over a provider-neutral core (Anthropic, Google, Mistral, OpenAI-compatible, Codex), with file/shell tools, durable JSONL sessions with branching, skills, and MCP-style extensions. Doubles as a teaching codebase for how agent harnesses are built. PyPI `tau-ai`. MIT.
+Small, readable terminal coding agent — a Python port of Pi's minimalist coding agent — that reads, edits, and runs commands with durable JSONL sessions; also serves as a teaching project for how coding-agent systems are built.

@@ -1,13 +1,13 @@
 ---
 name: "CodeAGI"
 slug: "codeagi"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "SOPPRA DX"
 license: "Proprietary"
 url: "https://soppradx.com"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "Web"
 first_released: "2024"
@@ -31,6 +31,7 @@ download_url: null
 maintained: null
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "AI-powered code generation app by SOPPRA DX that analyzes design documents and automatically generates code and test cases using their proprietary 'AIeS' reasoning engine. Claims 70% reduction in man-hours and 70-80% code generation accuracy. Not a traditional coding agent harness — it is a design-document-driven code generator."
 ---
 
-Program auto-generation AI app
+AI-powered code generation app by SOPPRA DX that analyzes design documents and automatically generates code and test cases using their proprietary 'AIeS' reasoning engine. Claims 70% reduction in man-hours and 70-80% code generation accuracy. Not a traditional coding agent harness — it is a design-document-driven code generator.

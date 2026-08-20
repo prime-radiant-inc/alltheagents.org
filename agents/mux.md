@@ -1,8 +1,8 @@
 ---
 name: "mux"
 slug: "mux"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "coder"
 license: "AGPL-3.0"
 url: "https://github.com/coder/mux"
@@ -12,25 +12,26 @@ platforms:
   - "Desktop"
 first_released: "2025-09-17"
 current_release: "2026-08-20"
-stars: 1977
+stars: "1977"
 language: "TypeScript"
 homepage: "https://mux.coder.com"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+mcp_support: "yes (.mcp.json config present)"
+plugin_support: "no"
+claude_code_plugin: "no"
+subagents: "yes"
+hooks: "no"
+plan_mode: "yes"
+model_providers: "Anthropic, OpenAI, xAI, Ollama (local), OpenRouter"
+pricing: "open-source"
+install_method: "binary"
+docs_url: "https://mux.coder.com"
 plugin_docs_url: null
-config_docs_url: null
-download_url: null
-maintained: null
+config_docs_url: "https://mux.coder.com/config/models"
+download_url: "https://github.com/coder/mux/releases"
+maintained: "active"
 sources:
   - "brad"
+what_makes_it_special: "Desktop and browser application for isolated, parallel agentic development with a custom agent loop inspired by Claude Code. Features a central view on git divergence, opportunistic compaction, mode prompts, and execution across local, worktree, or remote SSH environments."
 ---
 
-- **[mux](https://github.com/coder/mux)** `⭐ 2k` — Desktop application for isolated, parallel agentic development.
+Desktop and browser application for isolated, parallel agentic development with a custom agent loop inspired by Claude Code. Features a central view on git divergence, opportunistic compaction, mode prompts, and execution across local, worktree, or remote SSH environments.

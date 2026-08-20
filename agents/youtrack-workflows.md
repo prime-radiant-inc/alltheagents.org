@@ -1,18 +1,18 @@
 ---
 name: "Youtrack-Workflows"
 slug: "youtrack-workflows"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "JetBrains"
 license: "Apache-2.0"
 url: "https://github.com/JetBrains/youtrack-workflows"
 source_code_url: "https://github.com/JetBrains/youtrack-workflows"
-source_available: "Yes"
+source_available: True
 platforms:
   - "IDE"
 first_released: "2012-08-09"
 current_release: "2026-03-02"
-stars: 229
+stars: "229"
 language: "JavaScript"
 homepage: "http://www.jetbrains.com/youtrack/"
 mcp_support: null
@@ -24,13 +24,14 @@ plan_mode: null
 model_providers: null
 pricing: null
 install_method: null
-docs_url: null
+docs_url: "https://www.jetbrains.com/help/youtrack/incloud/?topic=Workflow-Guide"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "Repository of custom workflows for YouTrack (JetBrains issue tracker) written using the JavaScript-based API. Official JetBrains project."
 ---
 
-- [Youtrack-Workflows](https://github.com/JetBrains/youtrack-workflows) - YouTrack Custom Workflow Repository
+Repository of custom workflows for YouTrack (JetBrains issue tracker) written using the JavaScript-based API. Official JetBrains project.

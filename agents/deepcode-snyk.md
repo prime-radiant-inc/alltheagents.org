@@ -1,8 +1,8 @@
 ---
 name: "DeepCode (Snyk)"
 slug: "deepcode-snyk"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Snyk"
 license: "Proprietary"
 url: "https://snyk.io"
@@ -24,14 +24,15 @@ hooks: null
 plan_mode: null
 model_providers: null
 pricing: null
-install_method: null
-docs_url: null
+install_method: "npm package (npmjs.com/package/snyk); CLI"
+docs_url: "https://docs.snyk.io/"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "bing_ddg_chinese"
+what_makes_it_special: "DeepCode AI is the AI analysis engine within the Snyk security platform (Snyk acquired DeepCode); not a standalone coding agent harness. Snyk focuses on security scanning and fixing across the SDLC."
 ---
 
-AI-powered code security analysis tool, formerly DeepCode
+DeepCode AI is the AI analysis engine within the Snyk security platform (Snyk acquired DeepCode); not a standalone coding agent harness. Snyk focuses on security scanning and fixing across the SDLC.

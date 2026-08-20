@@ -1,8 +1,8 @@
 ---
 name: "discord"
 slug: "discord"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://discord.gg/VmEEUrc7dg"
@@ -32,6 +32,7 @@ download_url: null
 maintained: null
 sources:
   - "jim"
+what_makes_it_special: "Associated link: a Discord invite (discord.gg/VmEEUrc7dg); server could not be resolved from the invite page; not a standalone agent harness"
 ---
 
-- [Bazed](https://github.com/bazed-ai/bazed-af) - Bazed Agent Framework, aimed at empowering developers to build autonomous agent swarms without requiring deep Python ML knowledge, is facilitating the creation of sophisticated systems through TypeScript for enhanced autonomy and reliability [github](https://github.com/bazed-ai/bazed-af) | [website](https://bazed.ai/) | [discord](https://discord.gg/VmEEUrc7dg)
+Associated link: a Discord invite (discord.gg/VmEEUrc7dg); server could not be resolved from the invite page; not a standalone agent harness

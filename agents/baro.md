@@ -1,36 +1,37 @@
 ---
 name: "baro"
 slug: "baro"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "jigjoy-ai"
-license: null
+license: "MIT"
 url: "https://github.com/jigjoy-ai/baro"
 source_code_url: "https://github.com/jigjoy-ai/baro"
-source_available: "Source-visible (no OSS license)"
+source_available: True
 platforms:
   - "CLI"
 first_released: "2026-03-22"
 current_release: "2026-08-18"
-stars: 111
-language: "TypeScript"
+stars: "111"
+language: "TypeScript,Rust"
 homepage: "https://baro.rs"
 mcp_support: null
 plugin_support: null
 claude_code_plugin: null
-subagents: null
+subagents: True
 hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+plan_mode: True
+model_providers: "claude,codex,opencode,openai,hybrid,jigjoy"
+pricing: "Free/open-source (MIT); cloud version uses prepaid credits (pay-as-you-go)"
+install_method: "npm install -g baro-ai; or curl -fsSL https://api.baro.jigjoy.ai/install.sh | sh (cloud runner)"
+docs_url: "https://docs.baro.rs"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://www.npmjs.com/package/baro-ai"
+maintained: "active"
 sources:
   - "github_topic"
+what_makes_it_special: "CLI that turns a natural-language goal into a build-verified PR by orchestrating a fleet of parallel AI coding agents; Mozaik event-bus architecture (no central orchestrator bottleneck, every role is a participant reacting to typed events); true parallelism with each story in its own isolated git worktree (demonstrated 2.2x parallel speedup, 33 stories -> PR in 71 min); semantic memory via local ONNX embeddings (no API calls); per-story model tiering (cheap stories to cheaper models, cross-cutting to stronger models); per-phase and per-story provider overrides; auth inherited from existing CLI sessions."
 ---
 
-A CLI that turns a goal into a pull request - and a sandbox for testing concurrent AI coding agents on the Mozaik runtime.
+CLI that turns a natural-language goal into a build-verified PR by orchestrating a fleet of parallel AI coding agents; Mozaik event-bus architecture (no central orchestrator bottleneck, every role is a participant reacting to typed events); true parallelism with each story in its own isolated git worktree (demonstrated 2.2x parallel speedup, 33 stories -> PR in 71 min); semantic memory via local ONNX embeddings (no API calls); per-story model tiering (cheap stories to cheaper models, cross-cutting to stronger models); per-phase and per-story provider overrides; auth inherited from existing CLI sessions.

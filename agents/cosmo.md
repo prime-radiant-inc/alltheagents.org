@@ -1,13 +1,13 @@
 ---
 name: "Cosmo"
 slug: "cosmo"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://meetcosmo.ai/"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "Web"
 first_released: null
@@ -22,15 +22,16 @@ subagents: null
 hooks: null
 plan_mode: null
 model_providers: null
-pricing: null
-install_method: null
+pricing: "Essentials $19/mo (50 contacts); Growth $99/mo (500 contacts); Professional custom; optional Commerce add-on $49/mo; overage $0.45-$0.60 per extra contact"
+install_method: "Web-based SaaS (sign up for free trial or book onboarding; Cosmo team handles channel connection and AI training)"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://www.meetcosmo.ai/"
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "AI customer service platform for ecommerce brands on WhatsApp, Instagram, and Web Chat; resolves up to 95% of inquiries automatically with a unified inbox for live agent takeover, marketing campaigns, and analytics; not a coding agent harness"
 ---
 
-- [Cosmo](https://meetcosmo.ai/) - Cosmo offers an all-inclusive AI agent for merchants on WhatsApp, enabling order placements, customer interaction, automatic question answering, inventory and CRM integration, with features like instant payments, customer insights, dynamic order fulfillment, and a comprehensive merchant web app for online transaction management, aimed at simplifying shopping and boosting sales by 57% [website](https://meetcosmo.ai/) | [demo](https://x.com/AlexReibman/status/1772775416044126608)
+AI customer service platform for ecommerce brands on WhatsApp, Instagram, and Web Chat; resolves up to 95% of inquiries automatically with a unified inbox for live agent takeover, marketing campaigns, and analytics; not a coding agent harness

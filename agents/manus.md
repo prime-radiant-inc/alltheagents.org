@@ -1,13 +1,13 @@
 ---
 name: "Manus"
 slug: "manus"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Manus AI"
 license: "Proprietary"
 url: "https://manus.im"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "Web"
 first_released: "2025"
@@ -17,20 +17,21 @@ language: null
 homepage: null
 mcp_support: null
 plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
+claude_code_plugin: False
+subagents: True
+hooks: False
+plan_mode: False
 model_providers: null
 pricing: null
 install_method: null
-docs_url: null
+docs_url: "https://manus.im"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "General-purpose AI agent platform that can build websites, create slides, design graphics, create games, generate AI images and music, conduct research, and operate browsers. Compares itself to Replit and Lovable for web/app development. Has a Slack integration, API, and browser operator. Team plan available."
 ---
 
-General AI agent that can write and execute code autonomously
+General-purpose AI agent platform that can build websites, create slides, design graphics, create games, generate AI images and music, conduct research, and operate browsers. Compares itself to Replit and Lovable for web/app development. Has a Slack integration, API, and browser operator. Team plan available.

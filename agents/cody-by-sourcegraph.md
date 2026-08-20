@@ -1,8 +1,8 @@
 ---
 name: "Cody by Sourcegraph"
 slug: "cody-by-sourcegraph"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://docs.sourcegraph.com/cody"
@@ -16,20 +16,21 @@ language: null
 homepage: null
 mcp_support: null
 plugin_support: null
-claude_code_plugin: null
+claude_code_plugin: False
 subagents: null
 hooks: null
 plan_mode: null
 model_providers: null
-pricing: null
+pricing: "Sourcegraph Enterprise (contact for pricing)"
 install_method: null
-docs_url: null
+docs_url: "https://docs.sourcegraph.com/cody"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "e2b"
+what_makes_it_special: "AI coding assistant by Sourcegraph that leverages the Sourcegraph Search API to pull deep context from local and remote codebases; available as VS Code, JetBrains, Visual Studio, Web, and CLI clients."
 ---
 
-An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.
+AI coding assistant by Sourcegraph that leverages the Sourcegraph Search API to pull deep context from local and remote codebases; available as VS Code, JetBrains, Visual Studio, Web, and CLI clients.

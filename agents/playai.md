@@ -1,13 +1,13 @@
 ---
 name: "PlayAI"
 slug: "playai"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://play.ai/"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "Web"
 first_released: null
@@ -31,6 +31,7 @@ download_url: null
 maintained: null
 sources:
   - "jim"
+what_makes_it_special: "Conversational AI voice solutions, enabling customizable natural language-based user interfaces"
 ---
 
-- [PlayAI](https://play.ai/) - Play.ai offers conversational AI voice solutions, with a mission to enable customizable, natural language-based user interfaces, promoting rapid innovation and a performance-driven culture [website](https://play.ai/)
+Conversational AI voice solutions, enabling customizable natural language-based user interfaces

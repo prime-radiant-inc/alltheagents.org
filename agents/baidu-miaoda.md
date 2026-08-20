@@ -1,13 +1,13 @@
 ---
 name: "Baidu Miaoda"
 slug: "baidu-miaoda"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Baidu"
 license: "Proprietary"
 url: "https://cloud.baidu.com/product/miaoda"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "Web"
 first_released: "2024"
@@ -17,20 +17,21 @@ language: null
 homepage: null
 mcp_support: null
 plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
+claude_code_plugin: False
+subagents: False
+hooks: False
+plan_mode: False
+model_providers: "Baidu Wenxin AI (文心AI)"
 pricing: null
 install_method: null
-docs_url: null
+docs_url: "https://miaoda.baidu.com"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "Baidu's AI-powered no-code application creation and publishing platform. Hosts 189,000+ user-created apps (web apps, mini-programs, H5 games, tools). Integrates with Baidu's Wenxin AI and built-in database. Includes a 'Dream Building Plan' offering traffic and financing support to creators."
 ---
 
-Baidu's no-code application building agent that generates websites, mini-programs, and H5 from natural language
+Baidu's AI-powered no-code application creation and publishing platform. Hosts 189,000+ user-created apps (web apps, mini-programs, H5 games, tools). Integrates with Baidu's Wenxin AI and built-in database. Includes a 'Dream Building Plan' offering traffic and financing support to creators.

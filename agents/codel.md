@@ -1,13 +1,13 @@
 ---
 name: "Codel"
 slug: "codel"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "semanser"
 license: "AGPL-3.0"
 url: "https://github.com/semanser/codel"
 source_code_url: "https://github.com/semanser/codel"
-source_available: "Yes"
+source_available: True
 platforms:
   - "CLI"
   - "Web"
@@ -15,27 +15,28 @@ platforms:
 first_released: "2024-03-18"
 current_release: "2024-04-29"
 stars: null
-language: "TypeScript"
+language: "Go"
 homepage: "https://discord.gg/uMaGSHNjzc"
 mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
+plugin_support: False
+claude_code_plugin: False
+subagents: False
+hooks: False
+plan_mode: False
+model_providers: "OpenAI,Ollama"
 pricing: null
-install_method: null
+install_method: "Docker (pre-built image from GitHub Container Registry)"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "jqueryscript"
   - "brad"
   - "jim"
   - "ishandutta"
+what_makes_it_special: "Fully autonomous AI agent running in a sandboxed Docker environment with a built-in browser, text editor, automatic Docker-image picker, and PostgreSQL-backed command history."
 ---
 
-An autonomous development agent that uses a terminal, browser, and editor inside isolated environments to complete projects.
+Fully autonomous AI agent running in a sandboxed Docker environment with a built-in browser, text editor, automatic Docker-image picker, and PostgreSQL-backed command history.

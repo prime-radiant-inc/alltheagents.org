@@ -1,36 +1,37 @@
 ---
 name: "Untether"
 slug: "untether"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "littlebearapps"
 license: "MIT"
 url: "https://github.com/littlebearapps/untether"
 source_code_url: "https://github.com/littlebearapps/untether"
-source_available: "Yes"
+source_available: True
 platforms:
   - "CLI"
 first_released: "2026-02-07"
 current_release: "2026-08-17"
-stars: 64
+stars: "64"
 language: "Python"
 homepage: "https://untether.cc"
 mcp_support: null
-plugin_support: null
-claude_code_plugin: null
+plugin_support: True
+claude_code_plugin: True
 subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+hooks: True
+plan_mode: True
+model_providers: "Claude Code (Anthropic), Codex (OpenAI), OpenCode, Pi, Gemini CLI (Google), Amp (Sourcegraph)"
+pricing: "Free / open source; uses existing Claude or ChatGPT subscription"
+install_method: "uv tool install untether (recommended) or pipx install untether"
+docs_url: "https://github.com/littlebearapps/untether/tree/master/docs"
 plugin_docs_url: null
-config_docs_url: null
-download_url: null
-maintained: null
+config_docs_url: "https://github.com/littlebearapps/untether/blob/master/docs/reference/config.md"
+download_url: "https://pypi.org/project/untether/"
+maintained: "active"
 sources:
   - "brad"
+what_makes_it_special: "Telegram bridge for AI coding agents — send tasks by voice/text from your phone, stream progress live, approve changes remotely; supports custom engines, transports, and commands"
 ---
 
-- **[Untether](https://github.com/littlebearapps/untether)** `⭐ 64` — Telegram bridge for 6 CLI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp); remote task control via voice or text, progress streaming, interactive permissions, and cost tracking. MIT.
+Telegram bridge for AI coding agents — send tasks by voice/text from your phone, stream progress live, approve changes remotely; supports custom engines, transports, and commands

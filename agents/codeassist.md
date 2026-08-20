@@ -1,35 +1,36 @@
 ---
 name: "codeassist"
 slug: "codeassist"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "gensyn-ai"
 license: "MIT"
 url: "https://github.com/gensyn-ai/codeassist"
 source_code_url: "https://github.com/gensyn-ai/codeassist"
-source_available: "Yes"
+source_available: "yes"
 platforms: []
 first_released: "2025-10-31"
 current_release: "2026-03-02"
-stars: 702
+stars: "702"
 language: "Python"
 homepage: null
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
+mcp_support: "no"
+plugin_support: "no"
+claude_code_plugin: "no"
+subagents: "no"
+hooks: "no"
+plan_mode: "no"
 model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+pricing: "open-source"
+install_method: "docker"
+docs_url: "https://docs.gensyn.ai/testnet/codeassist"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "github_topic5"
+what_makes_it_special: "Completely private, local AI coding assistant by Gensyn that writes directly in your editor and learns from every keystroke. Continuous learning from interaction (every keystroke, edit, deletion, or untouched output is a training signal). Apprentice model — behaves like a collaborator learning your craft. Trains a personal local model checkpoint per episode and optionally uploads to HuggingFace. NOTE: Project appears sunset — 'As we shift focus to Mainnet, we have stopped tracking new CodeAssist participation on Testnet.'"
 ---
 
-A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
+Completely private, local AI coding assistant by Gensyn that writes directly in your editor and learns from every keystroke. Continuous learning from interaction (every keystroke, edit, deletion, or untouched output is a training signal). Apprentice model — behaves like a collaborator learning your craft. Trains a personal local model checkpoint per episode and optionally uploads to HuggingFace. NOTE: Project appears sunset — 'As we shift focus to Mainnet, we have stopped tracking new CodeAssist participation on Testnet.'

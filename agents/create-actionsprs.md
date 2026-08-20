@@ -1,17 +1,17 @@
 ---
 name: "Create-Actionsprs"
 slug: "create-actionsprs"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "jhutchings1"
 license: "MIT"
 url: "https://github.com/jhutchings1/Create-ActionsPRs"
 source_code_url: "https://github.com/jhutchings1/Create-ActionsPRs"
-source_available: "Yes"
+source_available: True
 platforms: []
 first_released: "2020-04-11"
 current_release: "2023-04-18"
-stars: 45
+stars: "45"
 language: "PowerShell"
 homepage: null
 mcp_support: null
@@ -21,15 +21,16 @@ subagents: null
 hooks: null
 plan_mode: null
 model_providers: null
-pricing: null
-install_method: null
+pricing: "Free / open source"
+install_method: "Clone repo, rename .env-example to .env with GitHub token, run ./Create-ActionsPRs.ps1"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/jhutchings1/Create-ActionsPRs"
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "Automates creation of PRs across many repos to install/update GitHub Actions workflows (e.g., CodeQL). Three targeting modes: all repos in an org via API, custom file list of repos, auto-detect CodeQL-eligible repos. NOTE: This is a GitHub Actions automation script, not an AI coding agent harness."
 ---
 
-- [Create-Actionsprs](https://github.com/jhutchings1/Create-ActionsPRs) - This repository creates pull requests to push a GitHub Actions workflow to a collection of workflows.
+Automates creation of PRs across many repos to install/update GitHub Actions workflows (e.g., CodeQL). Three targeting modes: all repos in an org via API, custom file list of repos, auto-detect CodeQL-eligible repos. NOTE: This is a GitHub Actions automation script, not an AI coding agent harness.

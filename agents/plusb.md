@@ -1,13 +1,13 @@
 ---
 name: "PlusB"
 slug: "plusb"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "PlusB"
 license: null
 url: "https://www.plusb.in"
 source_code_url: null
-source_available: null
+source_available: False
 platforms: []
 first_released: null
 current_release: null
@@ -27,9 +27,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "toolify"
+what_makes_it_special: "Forward-deployed engineering firm that customizes, trains, and deploys LLMs/AI models directly on customer infrastructure (cloud VPC or on-premise). Six deployment systems: Voice AI, Autonomous Agents, Document OCR, Translation, Private Chat, AI Governance. Strict zero data retention, sub-50ms inference latency, 24/7 engineer maintenance. Focus on regulated/data-sensitive industries. Research weights on Hugging Face (https://huggingface.co/PlusBIntelligenceLab)."
 ---
 
-A unified AI workspace with 7 expert agents and top-tier model access.
+Forward-deployed engineering firm that customizes, trains, and deploys LLMs/AI models directly on customer infrastructure (cloud VPC or on-premise). Six deployment systems: Voice AI, Autonomous Agents, Document OCR, Translation, Private Chat, AI Governance. Strict zero data retention, sub-50ms inference latency, 24/7 engineer maintenance. Focus on regulated/data-sensitive industries. Research weights on Hugging Face (https://huggingface.co/PlusBIntelligenceLab).

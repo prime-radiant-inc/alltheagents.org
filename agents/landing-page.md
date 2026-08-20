@@ -1,36 +1,37 @@
 ---
 name: "landing page"
 slug: "landing-page"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
-license: null
+license: "MIT"
 url: "https://www.microsoft.com/en-us/research/project/autogen/"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: True
 platforms:
   - "Web"
 first_released: null
 current_release: null
 stars: null
-language: null
+language: "Python, .NET"
 homepage: null
-mcp_support: null
+mcp_support: True
 plugin_support: null
 claude_code_plugin: null
 subagents: null
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+model_providers: "OpenAI, Azure OpenAI"
+pricing: "Free / open-source"
+install_method: "pip install -U \"autogen-agentchat\" \"autogen-ext[openai]\""
+docs_url: "https://microsoft.github.io/autogen/"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/microsoft/autogen"
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "Associated link: the Microsoft Research project page for AutoGen, an open-source programming framework for building multi-agent AI applications with an asynchronous, event-driven architecture enabling scalable, distributed agentic workflows; supports MCP servers via McpWorkbench"
 ---
 
-- [AutoGen Studio by Microsoft](https://github.com/microsoft/autogen) - AutoGen Studio 2.0 is Microsoft's advanced AI development tool, offering a user-friendly interface, powerful Python API, and comprehensive features for creating and controlling AI agents and workflows [github](https://github.com/microsoft/autogen) | [website](https://autogen-studio.com) | [landing page](https://www.microsoft.com/en-us/research/project/autogen/) | [research paper](https://www.microsoft.com/en-us/research/publication/autogen-enabling-next-gen-llm-applications-via-multi-agent-conversation-framework/)
+Associated link: the Microsoft Research project page for AutoGen, an open-source programming framework for building multi-agent AI applications with an asynchronous, event-driven architecture enabling scalable, distributed agentic workflows; supports MCP servers via McpWorkbench

@@ -1,19 +1,19 @@
 ---
 name: "“Westworld” simulation"
 slug: "westworld-simulation"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
-license: null
+license: "MIT"
 url: "https://theolvs.github.io/westworld/"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: "Yes"
 platforms:
   - "IDE"
 first_released: null
 current_release: null
 stars: null
-language: null
+language: "Python"
 homepage: null
 mcp_support: null
 plugin_support: null
@@ -22,15 +22,16 @@ subagents: null
 hooks: null
 plan_mode: null
 model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+pricing: "open-source"
+install_method: "pip install westworld"
+docs_url: "https://theolvs.github.io/westworld/"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/theolvs/westworld"
+maintained: "abandoned"
 sources:
   - "e2b"
+what_makes_it_special: "Multi-agent simulation library inspired by Unity ML Agents for simulating and optimizing systems with interacting agents (logistics, retail, epidemiology); includes grid/non-grid environments, automatic maze generation, image-to-obstacle layer, simulation visualization with replay and GIF/video export."
 ---
 
-A- multi-agent simulation library, with a goal to simulate and optimize systems and environments with multiple agents interacting - Researchers from Stanford and Google created an interactive sandbox env with 25 Gen AI agents can simulate human behavior - They walk in the park, join for coffee at a cafe, and share news with colleagues. They demonstrated surprisingly good social - Westworld's inspiration is drawn from Unity software and Unity ML Agents, adapted in Python - Languages - The library is available on PyPi via pip install westworld - [Javascript version (being developed)](https://github.com/TheoLvs/westworldjs) - Features - Easy creation of Grid and non-grid environments - Objects (Agents, Obstacles, Collectibles, Triggers) - Subclassing of different objects to create custom objects - Spawner to generate objects randomly in the environment - Basic rigid body system for all objects - Simple agent behaviors (pathfinding, wandering, random walk, fleeing, vision range) - Automatic maze generation - Layer integration to convert image to obstacle and snap it to a grid - Sample simulations and sample agents for classic simulations - Simulation visualization, replay and export (gif or video)
+Multi-agent simulation library inspired by Unity ML Agents for simulating and optimizing systems with interacting agents (logistics, retail, epidemiology); includes grid/non-grid environments, automatic maze generation, image-to-obstacle layer, simulation visualization with replay and GIF/video export.

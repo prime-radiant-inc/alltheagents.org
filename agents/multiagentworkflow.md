@@ -1,13 +1,13 @@
 ---
 name: "Multiagentworkflow"
 slug: "multiagentworkflow"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "zachnoel"
 license: null
 url: "https://github.com/zachnoel/multiAgentWorkflow"
 source_code_url: "https://github.com/zachnoel/multiAgentWorkflow"
-source_available: "Source-visible (no OSS license)"
+source_available: "Yes"
 platforms: []
 first_released: "2025-01-02"
 current_release: "2025-01-02"
@@ -26,10 +26,11 @@ install_method: null
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/zachnoel/multiAgentWorkflow"
+maintained: "abandoned"
 sources:
   - "jim"
+what_makes_it_special: "The repository is empty with no code or documentation, suggesting an abandoned or never-started multi-agent workflow project."
 ---
 
-- [Multiagentworkflow](https://github.com/zachnoel/multiAgentWorkflow) - A sample Multi AI agent workflow for testing out AI agent frameworks
+The repository is empty with no code or documentation, suggesting an abandoned or never-started multi-agent workflow project.

@@ -1,13 +1,13 @@
 ---
 name: "Powerdrill AI"
 slug: "powerdrill-ai"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
-license: null
+license: "Proprietary"
 url: "https://powerdrill.ai/"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: "No"
 platforms: []
 first_released: null
 current_release: null
@@ -23,13 +23,14 @@ plan_mode: null
 model_providers: null
 pricing: null
 install_method: null
-docs_url: null
+docs_url: "https://docs.powerdrill.ai"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "e2b"
+what_makes_it_special: "No-code AI data analysis workspace with memory (agents learn from every analysis); every result traceable to source data (page, row, figure); supports on-premise or private cloud deployment; SOC 2 Type 2, ISO 27001, GDPR compliant. Not a coding agent."
 ---
 
-- Powerdrill is an AI SaaS service centered around personal and enterprise datasets. - Designed to unlock the full potential of your data, Powerdrill enables you to use natural language to effortlessly interact with your datasets for tasks ranging from simple Q&As to insightful BI analysis. - By breaking down barriers to knowledge acquisition and data analysis, Powerdrill boosts data processing efficiency exponentially.
+No-code AI data analysis workspace with memory (agents learn from every analysis); every result traceable to source data (page, row, figure); supports on-premise or private cloud deployment; SOC 2 Type 2, ISO 27001, GDPR compliant. Not a coding agent.

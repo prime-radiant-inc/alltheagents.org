@@ -1,13 +1,13 @@
 ---
 name: "Agentic-Platform"
 slug: "agentic-platform"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://github.com/bonk1t/agentic-platform"
 source_code_url: "https://github.com/bonk1t/agentic-platform"
-source_available: "Source-visible (no OSS license)"
+source_available: False
 platforms:
   - "Web"
 first_released: null
@@ -28,9 +28,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "jim"
+what_makes_it_special: "Was described as an AI Agent Automation Platform for rapidly prototyping, testing, and deploying Multi-Agent Systems from the browser. GitHub repo (bonk1t/agentic-platform) is deleted -- account moved to github.com/nicko-ai."
 ---
 
-- [Agentic-Platform](https://github.com/bonk1t/agentic-platform) - AI Agent Automation Platform - Rapidly prototype, test, and deploy Multi-Agent Systems from your browser.
+Was described as an AI Agent Automation Platform for rapidly prototyping, testing, and deploying Multi-Agent Systems from the browser. GitHub repo (bonk1t/agentic-platform) is deleted -- account moved to github.com/nicko-ai.

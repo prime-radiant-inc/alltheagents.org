@@ -1,35 +1,36 @@
 ---
 name: "Dance-Ai-Research-Project"
 slug: "dance-ai-research-project"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "jzho987"
 license: "MIT"
 url: "https://github.com/jzho987/dance-ai-research-project"
 source_code_url: "https://github.com/jzho987/dance-ai-research-project"
-source_available: "Yes"
+source_available: True
 platforms: []
 first_released: "2024-04-01"
 current_release: "2025-06-08"
-stars: 1
-language: "Jupyter Notebook"
+stars: "1"
+language: "Python"
 homepage: null
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
+mcp_support: False
+plugin_support: False
+claude_code_plugin: False
+subagents: False
 hooks: null
 plan_mode: null
 model_providers: null
-pricing: null
+pricing: "Free / open-source"
 install_method: null
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/jzho987/dance-ai-research-project"
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "NOTE: Not a coding agent harness. Research repository for developing an interactive dance AI agent focused on ML techniques and human movement interaction."
 ---
 
-- [Dance-Ai-Research-Project](https://github.com/jzho987/dance-ai-research-project) - The main repository for managing the research towards developing and deploying an interactive dance AI agent to research ML techniques an…
+NOTE: Not a coding agent harness. Research repository for developing an interactive dance AI agent focused on ML techniques and human movement interaction.

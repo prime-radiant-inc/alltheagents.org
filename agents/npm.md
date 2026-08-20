@@ -1,8 +1,8 @@
 ---
 name: "npm"
 slug: "npm"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://www.npmjs.com/package/context-engine-ai"
@@ -22,14 +22,15 @@ hooks: null
 plan_mode: null
 model_providers: null
 pricing: null
-install_method: null
+install_method: "npm install context-engine-ai"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
+download_url: "https://www.npmjs.com/package/context-engine-ai"
 maintained: null
 sources:
   - "jim"
+what_makes_it_special: "Associated link: the npm package page for context-engine-ai (npmjs.com/package/context-engine-ai); the package itself is the context-engine project by Quinnod345"
 ---
 
-- [context-engine-ai](https://github.com/Quinnod345/context-engine) - A lightweight context engine for AI agents. Ingest events from any source, query with natural language, get ranked results with temporal decay and auto-deduplication. Zero config with SQLite + local TF-IDF embeddings, scales to pgvector + OpenAI. [github](https://github.com/Quinnod345/context-engine) | [npm](https://www.npmjs.com/package/context-engine-ai)
+Associated link: the npm package page for context-engine-ai (npmjs.com/package/context-engine-ai); the package itself is the context-engine project by Quinnod345

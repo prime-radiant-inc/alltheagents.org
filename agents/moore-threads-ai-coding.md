@@ -1,13 +1,13 @@
 ---
 name: "Moore Threads AI Coding"
 slug: "moore-threads-ai-coding"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Moore Threads"
 license: "Proprietary"
 url: "https://www.mthreads.com"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "CLI"
 first_released: null
@@ -24,13 +24,14 @@ plan_mode: null
 model_providers: null
 pricing: null
 install_method: null
-docs_url: null
+docs_url: "https://docs.mthreads.com/"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://developer.mthreads.com/drivers/2077283971481341952"
+maintained: "active"
 sources:
   - "bing_ddg_chinese"
 ---
 
 Moore Threads AI coding plan for GPU-accelerated development
+

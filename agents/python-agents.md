@@ -1,8 +1,8 @@
 ---
 name: "Python-Agents"
 slug: "python-agents"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "clarisseIO"
 license: "Apache-2.0"
 url: "https://github.com/clarisseIO/python-agents"
@@ -21,16 +21,17 @@ claude_code_plugin: null
 subagents: null
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+model_providers: "Ollama, IBM Granite 3.0, Llama 3.1/3.x"
+pricing: "open-source"
+install_method: "npm install Clarisse-agent-framework"
+docs_url: "https://github.com/clarisseIO/python-agents/tree/main/docs"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/clarisseIO/python-agents"
+maintained: "abandoned"
 sources:
   - "jim"
+what_makes_it_special: "Despite the repo name 'python-agents', this is a TypeScript agent framework (Clarisse Agent Framework) optimized for IBM Granite and Llama 3.x models; includes sandboxed code interpreter, serialization for pause/resume workflows, OpenAI-compatible Assistants API, and multiple memory strategies. IBM has stated it will not maintain this code going forward."
 ---
 
-- [Python-Agents](https://github.com/clarisseIO/python-agents) - AI agent that independently creates, deploys, and optimizes autonomous projects.
+Despite the repo name 'python-agents', this is a TypeScript agent framework (Clarisse Agent Framework) optimized for IBM Granite and Llama 3.x models; includes sandboxed code interpreter, serialization for pause/resume workflows, OpenAI-compatible Assistants API, and multiple memory strategies. IBM has stated it will not maintain this code going forward.

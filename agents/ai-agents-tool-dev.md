@@ -1,8 +1,8 @@
 ---
 name: "Ai-Agents-Tool-Dev"
 slug: "ai-agents-tool-dev"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://github.com/aydinfer/ai-agents-tool-dev"
@@ -26,10 +26,11 @@ install_method: null
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/aydinfer/ai-agents-tool-dev"
+maintained: "abandoned"
 sources:
   - "jim"
+what_makes_it_special: "Multi-agent AI development system for automated tool creation and testing. The GitHub repository is no longer accessible (returns 404)."
 ---
 
-- [Ai-Agents-Tool-Dev](https://github.com/aydinfer/ai-agents-tool-dev) - Multi-agent AI development system for automated tool creation and testing
+Multi-agent AI development system for automated tool creation and testing. The GitHub repository is no longer accessible (returns 404).

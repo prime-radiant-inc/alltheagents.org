@@ -1,8 +1,8 @@
 ---
 name: "LangChain JS Tools"
 slug: "langchain-js-tools"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "langchain-ai"
 license: "MIT"
 url: "https://github.com/langchain-ai/langchainjs"
@@ -11,25 +11,26 @@ source_available: "Yes"
 platforms: []
 first_released: "2023-02-06"
 current_release: "2026-08-20"
-stars: 18118
+stars: "18118"
 language: "TypeScript"
 homepage: "https://docs.langchain.com/langchain/"
 mcp_support: null
-plugin_support: null
+plugin_support: "yes (third-party integrations and toolkits)"
 claude_code_plugin: null
-subagents: null
+subagents: "yes (mentioned under Deep Agents capabilities)"
 hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+plan_mode: "yes (mentioned as planning under Deep Agents capabilities)"
+model_providers: "vast library of integrations with model providers"
+pricing: "open-source (MIT)"
+install_method: "npm"
+docs_url: "https://docs.langchain.com/oss/javascript/langchain/overview"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "Framework for building LLM-powered applications that helps developers chain together interoperable components and third-party integrations, simplifying AI application development while future-proofing decisions as the underlying technology evolves."
 ---
 
-- [LangChain JS Tools](https://github.com/langchain-ai/langchainjs) - Langchain features VectorDBQAChain, which integrates LLMs and vector databases into agent tools for enhanced question-answering capabilities by leveraging data ingested into vector stores [github](https://github.com/langchain-ai/langchainjs) | [docs](https://js.langchain.com/v0.2/docs/integrations/tools/)
+Framework for building LLM-powered applications that helps developers chain together interoperable components and third-party integrations, simplifying AI application development while future-proofing decisions as the underlying technology evolves.

@@ -1,39 +1,40 @@
 ---
 name: "AutoGen"
 slug: "autogen"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "microsoft"
-license: "CC-BY-4.0"
+license: "MIT"
 url: "https://github.com/microsoft/autogen"
 source_code_url: "https://github.com/microsoft/autogen"
 source_available: "Yes"
 platforms: []
 first_released: "2023-08-18"
 current_release: "2026-04-15"
-stars: 60525
+stars: "60525"
 language: "Python"
 homepage: "https://microsoft.github.io/autogen/"
-mcp_support: null
-plugin_support: null
+mcp_support: "yes (StdioServerParams, McpWorkbench)"
+plugin_support: "yes (Extensions API)"
 claude_code_plugin: null
-subagents: null
+subagents: "yes"
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+model_providers: "OpenAI, Azure OpenAI"
+pricing: "open-source"
+install_method: "pip"
+docs_url: "https://microsoft.github.io/autogen/"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/microsoft/autogen"
+maintained: "active (maintenance mode; successor is Microsoft Agent Framework)"
 sources:
   - "e2b"
   - "jim"
   - "caramaschi"
   - "brandonhimpfen"
   - "namphuong"
+what_makes_it_special: "Pioneered multi-agent orchestration patterns at Microsoft Research with a layered extensible architecture (Core -> AgentChat -> Extensions), cross-language support (Python + .NET), and a no-code GUI (AutoGen Studio)."
 ---
 
-- A framework for developing LLM (Large Language Model) applications with multiple conversational agents. - These agents can collaborate to solve tasks and can interact seamlessly with humans. - It simplifies complex LLM workflows, enhancing automation and optimization. - It offers a range of working systems across various domains and complexities. - It improves LLM inference with easy performance tuning and utility features like API unification and caching. - It supports advanced usage patterns, including error handling, multi-config inference, and context programming.
+Pioneered multi-agent orchestration patterns at Microsoft Research with a layered extensible architecture (Core -> AgentChat -> Extensions), cross-language support (Python + .NET), and a no-code GUI (AutoGen Studio).

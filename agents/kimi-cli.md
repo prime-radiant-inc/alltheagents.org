@@ -1,37 +1,38 @@
 ---
 name: "Kimi CLI"
 slug: "kimi-cli"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
-license: null
+license: "Apache-2.0"
 url: "https://kimi.ai"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: True
 platforms:
   - "CLI"
   - "IDE"
 first_released: null
 current_release: null
 stars: null
-language: null
+language: "Python"
 homepage: null
-mcp_support: null
-plugin_support: null
+mcp_support: True
+plugin_support: True
 claude_code_plugin: null
 subagents: null
 hooks: null
 plan_mode: null
 model_providers: null
 pricing: null
-install_method: null
-docs_url: null
+install_method: "pip install kimi-cli (PyPI package)"
+docs_url: "https://moonshotai.github.io/kimi-cli/en/"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "ishandutta"
+what_makes_it_special: "Terminal-based AI coding agent and shell by Moonshot AI that can read/edit code, execute shell commands, search/fetch web pages, and autonomously plan actions. Supports MCP (stdio + HTTP with OAuth), zsh and VS Code integrations. Note: evolving into Kimi Code CLI; this project will be gradually wound down."
 ---
 
-| **[Kimi CLI](https://kimi.ai)** | Moonshot AI's CLI coding agent with skills, MCP support, and ACP IDE integration. | Succeeded by Kimi Code CLI; support for MCP and ACP IDE integration. | [![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?style=social&color=white)](https://github.com/MoonshotAI/kimi-cli/stargazers) | BYO API Key (pay-as-you-go) or Kimi Membership (from ~$19/mo) | No Free Tier (Requires paid membership or API credits for coding agent usage) | **$20B** (Moonshot AI) |
+Terminal-based AI coding agent and shell by Moonshot AI that can read/edit code, execute shell commands, search/fetch web pages, and autonomously plan actions. Supports MCP (stdio + HTTP with OAuth), zsh and VS Code integrations. Note: evolving into Kimi Code CLI; this project will be gradually wound down.

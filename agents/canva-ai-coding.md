@@ -1,13 +1,13 @@
 ---
 name: "Canva AI Coding"
 slug: "canva-ai-coding"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Canva"
 license: "Proprietary"
 url: "https://www.canva.com/ai-coding/"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "Web"
 first_released: "2025"
@@ -31,6 +31,7 @@ download_url: null
 maintained: null
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "Could not verify details — the Canva AI coding page returned HTTP 403. Canva is primarily a design platform; AI coding may be a feature within it."
 ---
 
-Free AI coding tool by Canva for generating apps and designs
+Could not verify details — the Canva AI coding page returned HTTP 403. Canva is primarily a design platform; AI coding may be a feature within it.

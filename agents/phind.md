@@ -1,13 +1,13 @@
 ---
 name: "Phind"
 slug: "phind"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
-license: null
+license: "Proprietary"
 url: "https://www.phind.com/"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: "No"
 platforms: []
 first_released: null
 current_release: null
@@ -27,9 +27,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "e2b"
+what_makes_it_special: "AI-powered search engine and answer engine for developers; could not verify detailed fields as the site returned HTTP 403 Forbidden."
 ---
 
-- Phind is an AI search engine and pair programmer
+AI-powered search engine and answer engine for developers; could not verify detailed fields as the site returned HTTP 403 Forbidden.

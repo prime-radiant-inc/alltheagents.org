@@ -1,36 +1,37 @@
 ---
 name: "PaiAgent"
 slug: "paiagent"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "itwanger"
-license: null
+license: "MIT"
 url: "https://github.com/itwanger/PaiAgent"
 source_code_url: "https://github.com/itwanger/PaiAgent"
-source_available: "Source-visible (no OSS license)"
+source_available: True
 platforms:
   - "CLI"
 first_released: "2025-11-25"
 current_release: "2026-06-17"
-stars: 633
-language: "Java"
+stars: "633"
+language: "Java, TypeScript"
 homepage: null
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
+mcp_support: "no"
+plugin_support: "yes"
+claude_code_plugin: "no"
 subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+hooks: "no"
+plan_mode: "no"
+model_providers: "OpenAI, DeepSeek, Tongyi Qwen (DashScope), Zhipu AI (GLM), AIPing"
+pricing: "open-source"
+install_method: "source"
+docs_url: "https://github.com/itwanger/PaiAgent/blob/main/USER_GUIDE.md"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "github_topic3"
+what_makes_it_special: "Dual-engine architecture (self-developed DAG + LangGraph4j state graph), zero-code visual drag-and-drop orchestration, Skills system with 3-level progressive loading to save tokens, Spring AI unified multi-model access"
 ---
 
-🔥轻量级的AI工作流编排系统，类似dify、n8n，全程使用Vibe Coding，AI工具为Qoder+CLI。涉及到的技术栈包括SpringAI、LangGraph4J、SSE、MinIO、DAG自定引擎等。
+Dual-engine architecture (self-developed DAG + LangGraph4j state graph), zero-code visual drag-and-drop orchestration, Skills system with 3-level progressive loading to save tokens, Spring AI unified multi-model access

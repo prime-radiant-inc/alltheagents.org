@@ -1,8 +1,8 @@
 ---
 name: "agent-of-empires"
 slug: "agent-of-empires"
-layout: agent.njk
-category: multiplexer
+layout: "agent.njk"
+category: "multiplexer"
 maker: "agent-of-empires"
 license: "MIT"
 url: "https://github.com/njbrake/agent-of-empires"
@@ -13,25 +13,26 @@ platforms:
   - "Web"
 first_released: "2026-01-09"
 current_release: "2026-08-19"
-stars: 3102
+stars: "3102"
 language: "Rust"
 homepage: "http://www.agent-of-empires.com/"
 mcp_support: null
-plugin_support: null
-claude_code_plugin: null
+plugin_support: "yes"
+claude_code_plugin: "n/a"
 subagents: null
-hooks: null
+hooks: "yes"
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+model_providers: "Anthropic, OpenAI, Google, Mistral, BYOK"
+pricing: "open-source"
+install_method: "brew"
+docs_url: "https://www.agent-of-empires.com/docs/"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "brad"
+what_makes_it_special: "Session manager for AI coding agents (TUI + web dashboard) that runs multiple agents in parallel across git branches in isolated tmux sessions with optional Docker sandboxing, accessible from any browser or phone."
 ---
 
-- **[agent-of-empires](https://github.com/njbrake/agent-of-empires)** `⭐ 3.1k` — Manage multiple Claude Code, OpenCode, Codex CLI, Gemini CLI, Pi, Copilot CLI, Mistral Vibe, and Factory Droid agents from a TUI or web UI (mobile-friendly). Rust, uses tmux + git worktrees. MIT.
+Session manager for AI coding agents (TUI + web dashboard) that runs multiple agents in parallel across git branches in isolated tmux sessions with optional Docker sandboxing, accessible from any browser or phone.

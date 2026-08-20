@@ -1,36 +1,37 @@
 ---
 name: "Ivy Tendril"
 slug: "ivy-tendril"
-layout: agent.njk
-category: multiplexer
+layout: "agent.njk"
+category: "multiplexer"
 maker: "Ivy-Interactive"
-license: "NOASSERTION"
+license: "FSL-1.1-ALv2"
 url: "https://github.com/Ivy-Interactive/Ivy-Tendril"
 source_code_url: "https://github.com/Ivy-Interactive/Ivy-Tendril"
-source_available: "Source-visible (no OSS license)"
+source_available: True
 platforms:
   - "Desktop"
 first_released: "2026-04-15"
 current_release: "2026-08-19"
-stars: 171
+stars: "171"
 language: "C#"
 homepage: "https://tendril.ivy.app"
 mcp_support: null
-plugin_support: null
+plugin_support: True
 claude_code_plugin: null
 subagents: null
-hooks: null
-plan_mode: null
+hooks: True
+plan_mode: True
 model_providers: null
 pricing: null
-install_method: null
-docs_url: null
+install_method: "Download installer from GitHub Releases, or: curl -sSf https://cdn.ivy.app/install-tendril.sh | sh (macOS/Linux), irm https://cdn.ivy.app/install-tendril.ps1 | iex (Windows)"
+docs_url: "https://tendril.ivy.app/docs/gettingstarted/introduction"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/Ivy-Interactive/Ivy-Tendril/releases/latest"
+maintained: "active"
 sources:
   - "namphuong"
+what_makes_it_special: "Desktop orchestrator for parallel AI coding agents using isolated git worktrees; works with any CLI agent (Claude Code, Codex, GitHub Copilot, Gemini, OpenCode); Cloudflare Quick Tunnel remote/mobile coding, Whisper voice input, plan versioning, automated code review gates (build/test/lint/format)."
 ---
 
-- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source desktop app that orchestrates AI coding agents through a plan-based lifecycle.
+Desktop orchestrator for parallel AI coding agents using isolated git worktrees; works with any CLI agent (Claude Code, Codex, GitHub Copilot, Gemini, OpenCode); Cloudflare Quick Tunnel remote/mobile coding, Whisper voice input, plan versioning, automated code review gates (build/test/lint/format).

@@ -1,35 +1,36 @@
 ---
 name: "Yeoman"
 slug: "yeoman"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "yeoman"
-license: null
+license: "BSD"
 url: "https://github.com/yeoman/yeoman"
 source_code_url: "https://github.com/yeoman/yeoman"
-source_available: "Source-visible (no OSS license)"
+source_available: True
 platforms: []
 first_released: "2012-04-13"
 current_release: "2022-10-18"
-stars: 10101
-language: null
+stars: "10101"
+language: "JavaScript"
 homepage: "http://yeoman.io"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
+mcp_support: "no"
+plugin_support: "yes"
+claude_code_plugin: "no"
+subagents: "no"
+hooks: "no"
+plan_mode: "no"
 model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+pricing: "open-source"
+install_method: "npm"
+docs_url: "http://yeoman.io/learning"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "Traditional development workflow and scaffolding tool (not an AI agent). Robust, opinionated workflow with a wide ecosystem of generators to quickly bootstrap and automate web application scaffolding. Supports custom generators across the organization's repositories."
 ---
 
-- [Yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
+Traditional development workflow and scaffolding tool (not an AI agent). Robust, opinionated workflow with a wide ecosystem of generators to quickly bootstrap and automate web application scaffolding. Supports custom generators across the organization's repositories.

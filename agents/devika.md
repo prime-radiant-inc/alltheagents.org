@@ -1,13 +1,13 @@
 ---
 name: "Devika"
 slug: "devika"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "stitionai"
 license: "MIT"
 url: "https://github.com/stitionai/devika"
 source_code_url: "https://github.com/stitionai/devika"
-source_available: "Yes"
+source_available: True
 platforms:
   - "Web"
   - "Autonomous"
@@ -22,20 +22,21 @@ claude_code_plugin: null
 subagents: null
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+model_providers: "Claude 3, GPT-4, Gemini, Mistral, Groq, Ollama"
+pricing: "Free / open-source"
+install_method: "git clone, uv venv, uv pip install -r requirements.txt, python devika.py"
+docs_url: "https://github.com/stitionai/devika/tree/main/docs"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "jqueryscript"
   - "flatlogic"
   - "e2b"
   - "jim"
   - "brandonhimpfen"
+what_makes_it_special: "First open-source implementation of an agentic software engineer; open-source alternative to Devin (Cognition AI). README banner now directs users to its successor, Opcode."
 ---
 
-An autonomous software engineer that plans requested applications, researches requirements, writes code, and tracks execution.
+First open-source implementation of an agentic software engineer; open-source alternative to Devin (Cognition AI). README banner now directs users to its successor, Opcode.

@@ -1,38 +1,39 @@
 ---
 name: "IX"
 slug: "ix"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "kreneskyp"
 license: "MIT"
 url: "https://github.com/kreneskyp/ix"
 source_code_url: "https://github.com/kreneskyp/ix"
-source_available: "Yes"
+source_available: True
 platforms:
   - "IDE"
   - "Autonomous"
 first_released: "2023-04-05"
 current_release: "2026-01-01"
-stars: 1044
+stars: "1044"
 language: "Python"
 homepage: null
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
+mcp_support: "no"
+plugin_support: "no"
+claude_code_plugin: "no"
+subagents: "yes"
+hooks: "no"
+plan_mode: "no"
+model_providers: "OpenAI, Google PaLM, Anthropic, Llama"
+pricing: "open-source"
+install_method: "pip, docker"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "e2b"
   - "jim"
+what_makes_it_special: "Platform for designing and deploying autonomous and semi-autonomous LLM-powered agents and workflows with a no-code visual agent editor for connecting nodes into a cognitive graph. Multi-agent chat interface with smart input auto-completion, where an IX moderator agent delegates tasks to specialized agents. Horizontally scalable message-queue-driven agent workers."
 ---
 
-IX is a platform for building, debugging, and deploying collaborative Agents and cognitive workflows. -IX is a LangChain-based agent platform that includes all the tools to build and deploy fleets of agents that collaborate to complete tasks. IX is both an editor and a runtime. The editor is a no-code graph style editor for the design of agents, chains, tools, retrieval functions, and collaborative workflows. - Intuitive graph style no-code editor. - Horizontally scaling agent worker fleet. - Multi-user, multi-agent chat interface. - Smart input auto-completes `@mentions` and `{file}` references. - Supports Chroma and other vector databases for document search. - Supports OpenAI API, Anthropic, PaLM, and LLama based models. - Component library is easily extended. - Powered by LangChain
+Platform for designing and deploying autonomous and semi-autonomous LLM-powered agents and workflows with a no-code visual agent editor for connecting nodes into a cognitive graph. Multi-agent chat interface with smart input auto-completion, where an IX moderator agent delegates tasks to specialized agents. Horizontally scalable message-queue-driven agent workers.

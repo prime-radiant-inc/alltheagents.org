@@ -1,37 +1,38 @@
 ---
 name: "Traycer"
 slug: "traycer"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "traycerai"
 license: "MIT"
 url: "https://github.com/traycerai/traycer"
 source_code_url: "https://github.com/traycerai/traycer"
-source_available: "Yes"
+source_available: True
 platforms:
   - "CLI"
   - "Desktop"
 first_released: "2024-05-11"
 current_release: "2026-08-20"
-stars: 1207
+stars: "1207"
 language: "TypeScript"
 homepage: "https://traycer.ai"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+mcp_support: "no"
+plugin_support: "no"
+claude_code_plugin: "no"
+subagents: "no"
+hooks: "no"
+plan_mode: "no"
+model_providers: "Anthropic, OpenAI, Cursor, OpenCode"
+pricing: "open-source"
+install_method: "binary"
+docs_url: "https://docs.traycer.ai"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://traycer.ai/download"
+maintained: "active"
 sources:
   - "brad"
+what_makes_it_special: "Open-source AI orchestration app for advanced agent orchestration. Bring Your Own Agent (BYOA) to use existing subscriptions without paying twice. Unified context to instantly switch models within the same agent with seamlessly shared memory. Agent-to-agent communication for tasks like debates or code reviews. Integrated team collaboration features."
 ---
 
-- **[Traycer](https://github.com/traycerai/traycer)** `⭐ 1.2k` — Desktop orchestration app that runs multiple CLI coding agents (Claude Code, Codex, Cursor, OpenCode, and custom CLI agents) in parallel with shared context, agent-to-agent loops, Epic mode, and team collaboration. Apache-2.0.
+Open-source AI orchestration app for advanced agent orchestration. Bring Your Own Agent (BYOA) to use existing subscriptions without paying twice. Unified context to instantly switch models within the same agent with seamlessly shared memory. Agent-to-agent communication for tasks like debates or code reviews. Integrated team collaboration features.

@@ -1,35 +1,36 @@
 ---
 name: "Ducky"
 slug: "ducky"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "ParthSareen"
 license: "MIT"
 url: "https://github.com/ParthSareen/ducky"
 source_code_url: "https://github.com/ParthSareen/ducky"
-source_available: "Yes"
+source_available: True
 platforms: []
 first_released: "2023-12-14"
 current_release: "2026-02-04"
-stars: 26
+stars: "26"
 language: "Python"
 homepage: null
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
+mcp_support: False
+plugin_support: False
+claude_code_plugin: False
+subagents: False
+hooks: False
+plan_mode: False
+model_providers: "Ollama"
+pricing: "Free / open-source"
+install_method: "uv tool install rubber-ducky, or uvx rubber-ducky"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/ParthSareen/ducky"
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "Inline terminal companion that turns natural language into bash commands. Features a 'Crumbs' system for saving and reusing command shortcuts with argument substitution, piped input support, interactive REPL with rich keyboard shortcuts, and clipboard support across macOS/Windows/Linux. Works with both local and cloud Ollama models."
 ---
 
-- [Ducky](https://github.com/ParthSareen/ducky) - Local AI pair programming tool
+Inline terminal companion that turns natural language into bash commands. Features a 'Crumbs' system for saving and reusing command shortcuts with argument substitution, piped input support, interactive REPL with rich keyboard shortcuts, and clipboard support across macOS/Windows/Linux. Works with both local and cloud Ollama models.

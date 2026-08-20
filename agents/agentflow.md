@@ -1,8 +1,8 @@
 ---
 name: "AgentFlow"
 slug: "agentflow"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "lupantech"
 license: "MIT"
 url: "https://github.com/lupantech/AgentFlow"
@@ -12,25 +12,26 @@ platforms:
   - "Web"
 first_released: "2025-09-27"
 current_release: "2026-02-08"
-stars: 2006
+stars: "2006"
 language: "Python"
 homepage: "https://agentflow.stanford.edu"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+mcp_support: "no"
+plugin_support: "no"
+claude_code_plugin: "no"
+subagents: "yes"
+hooks: "no"
+plan_mode: "yes"
+model_providers: "OpenAI, DashScope (Qwen), Gemini, DeepSeek, Together AI, vLLM (local)"
+pricing: "open-source"
+install_method: "pip"
+docs_url: "https://agentflow.stanford.edu"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/lupantech/AgentFlow"
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "A trainable multi-agent framework with four specialized modules (Planner, Executor, Verifier, Generator) coordinated through in-the-flow online optimization via the Flow-GRPO algorithm. A 7B backbone model outperforms GPT-4o on 10 benchmarks. Accepted at ICLR 2026."
 ---
 
-- [AgentFlow](https://github.com/lupantech/AgentFlow) - A trainable multi-agent framework that coordinates four specialized modules (planner, executor, verifier, generator) through in-the-flow optimization, achieving significant performance gains over monolithic approaches by directly training the planner within multi-turn task loops using Flow-GRPO reinforcement learning. Any tools can be smoothly integrated into this framework, math, coding, scientific, search, finance, news, etc. [github](https://github.com/lupantech/AgentFlow) | [website](https://agentflow.stanford.edu/) | [paper](https://huggingface.co/papers/2510.05592)
+A trainable multi-agent framework with four specialized modules (Planner, Executor, Verifier, Generator) coordinated through in-the-flow online optimization via the Flow-GRPO algorithm. A 7B backbone model outperforms GPT-4o on 10 benchmarks. Accepted at ICLR 2026.

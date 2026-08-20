@@ -14,22 +14,22 @@ current_release: "2024-01-18"
 stars: null
 language: "Jupyter Notebook"
 homepage: null
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
+mcp_support: "no"
+plugin_support: "no"
+claude_code_plugin: "no"
+subagents: "no"
+hooks: "no"
+plan_mode: "no"
 model_providers: null
-pricing: null
+pricing: "open-source"
 install_method: null
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "jim"
 ---
 
-- [Llm---Detect-Ai-Generated-Text](https://github.com/pinskyrobin/LLM---Detect-AI-Generated-Text) - Demo code and dataset for offline debugging
+Demo code and dataset for offline debugging of the 'LLM - Detect AI Generated Text' Kaggle competition. Not a coding agent harness.

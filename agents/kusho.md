@@ -1,13 +1,13 @@
 ---
 name: "Kusho"
 slug: "kusho"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
-license: null
+license: "Proprietary"
 url: "https://kusho.ai/"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: "No"
 platforms:
   - "CLI"
 first_released: null
@@ -24,13 +24,14 @@ plan_mode: null
 model_providers: null
 pricing: null
 install_method: null
-docs_url: null
+docs_url: "https://docs.kusho.ai/"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "e2b"
+what_makes_it_special: "AI-powered software reliability and testing platform (not a coding agent); domain-grounded AI orchestration trained on real testing data; self-maintaining reliability infrastructure that auto-updates tests when API contracts drift; release intelligence with AI-computed risk scores."
 ---
 
-- KushoAI instantly generates and runs test suites for your APIs so you can push code effortlessly. - Save hours of manual effort by delegating API testing to KushoAI. Unlock crash-free releases starting today. 1. Add a link to your Postman collection to instantly generate exhaustive test suites for each API and save hours of manual effort. 2. Get AI-analysed test results in a single click. 3. Auto-run relevant test suites at any stage of your CI/CD pipeline." - Works on your Postman collections "At KushoAI, we believe that the job of technology is to empower people. We’re building AI agents trained for specific problems to unlock value at a pace faster than ever before."
+AI-powered software reliability and testing platform (not a coding agent); domain-grounded AI orchestration trained on real testing data; self-maintaining reliability infrastructure that auto-updates tests when API contracts drift; release intelligence with AI-computed risk scores.

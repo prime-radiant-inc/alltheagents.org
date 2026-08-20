@@ -1,13 +1,13 @@
 ---
 name: "Zugabot"
 slug: "zugabot"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Zugabot"
 license: "Proprietary"
 url: "https://zugabot.com"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "Web"
   - "API"
@@ -29,9 +29,11 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "AI coding agent API"
 ---
 
 AI coding agent API
+

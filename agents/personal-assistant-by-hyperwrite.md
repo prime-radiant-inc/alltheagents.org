@@ -1,13 +1,13 @@
 ---
 name: "Personal Assistant by HyperWrite"
 slug: "personal-assistant-by-hyperwrite"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://www.hyperwriteai.com/personal-assistant"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "IDE"
   - "Web"
@@ -32,6 +32,7 @@ download_url: null
 maintained: null
 sources:
   - "jim"
+what_makes_it_special: "Personal Assistant AI agent for everyday tasks, seamlessly integrating into workflows to automate browser-based activities"
 ---
 
-- [Personal Assistant by HyperWrite](https://www.hyperwriteai.com/personal-assistant) - HyperWrite offers a Personal Assistant AI agent for everyday tasks, seamlessly integrating into workflows to automate tedious tasks, optimize planning, and inform decision-making, while also providing personalized suggestions and transforming wishes into commands across various platforms [website](https://www.hyperwriteai.com/personal-assistant) | [github profile](https://github.com/OthersideAI)
+Personal Assistant AI agent for everyday tasks, seamlessly integrating into workflows to automate browser-based activities

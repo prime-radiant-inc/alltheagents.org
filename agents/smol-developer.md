@@ -1,39 +1,40 @@
 ---
 name: "Smol Developer"
 slug: "smol-developer"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "smol-ai"
 license: "MIT"
 url: "https://github.com/smol-ai/developer"
 source_code_url: "https://github.com/smol-ai/developer"
-source_available: "Yes"
+source_available: True
 platforms: []
 first_released: "2023-05-13"
 current_release: "2024-04-07"
-stars: 12186
+stars: "12186"
 language: "Python"
 homepage: "https://twitter.com/SmolModels"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
+mcp_support: "no"
+plugin_support: "no"
+claude_code_plugin: "no"
+subagents: "no"
+hooks: "no"
+plan_mode: "yes"
+model_providers: "OpenAI (GPT-4-0613, GPT-3.5-turbo-0613)"
+pricing: "open-source"
+install_method: "pip"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "flatlogic"
   - "e2b"
   - "brad"
   - "brandonhimpfen"
   - "ishandutta"
+what_makes_it_special: "Human-centric AI scaffolding agent that generates entire codebases from a product spec. Whole-program coherence via an intermediate shared_dependencies.md step where GPT maintains cross-file consistency. First embeddable developer agent library with importable functions (plan, specify_file_paths, generate_code). Markdown-is-all-you-need philosophy. Three usage modes: Git repo (CLI), library (Python import), API (Agent Protocol server)."
 ---
 
-Minimalist agent for rapid code generation and iteration
+Human-centric AI scaffolding agent that generates entire codebases from a product spec. Whole-program coherence via an intermediate shared_dependencies.md step where GPT maintains cross-file consistency. First embeddable developer agent library with importable functions (plan, specify_file_paths, generate_code). Markdown-is-all-you-need philosophy. Three usage modes: Git repo (CLI), library (Python import), API (Agent Protocol server).

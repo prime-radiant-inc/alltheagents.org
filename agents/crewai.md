@@ -1,8 +1,8 @@
 ---
 name: "CrewAI"
 slug: "crewai"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "crewAIInc"
 license: "MIT"
 url: "https://github.com/joaomdmoura/crewai"
@@ -12,27 +12,28 @@ platforms:
   - "Autonomous"
 first_released: "2023-10-27"
 current_release: "2026-08-20"
-stars: 57338
+stars: "57338"
 language: "Python"
 homepage: "https://crewai.com"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+mcp_support: "yes (MCP/A2A support)"
+plugin_support: "yes"
+claude_code_plugin: "yes"
+subagents: "yes"
+hooks: "partial (event-driven Flows with @start/@listen/@router)"
+plan_mode: "partial (hierarchical process with manager agent)"
+model_providers: "OpenAI, Ollama, LM Studio, BYOK"
+pricing: "freemium (open source core; commercial CrewAI AMP Suite)"
+install_method: "pip (uv pip install crewai)"
+docs_url: "https://docs.crewai.com"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://pypi.org/project/crewai/"
+maintained: "active"
 sources:
   - "e2b"
   - "jim"
   - "brandonhimpfen"
+what_makes_it_special: "Combines two complementary paradigms -- autonomous role-based Crews and event-driven deterministic Flows -- letting developers balance agent autonomy with precise control in Python-native code, bridging prototype-to-production."
 ---
 
-- Cutting-edge framework for orchestrating role-playing, autonomous AI agents. - By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. - Crew AI is a multi-agent framework built on LangChain, aiming to empower engineers to harness the collective power of AI agents. In contrast to traditional automation methods, Crew AI introduces a new approach to collaborative decision-making, enhanced creativity, and solving complex problems. - The design philosophy of Crew AI advocates simplicity through modularity. Its main components include agents, tools, tasks, processes, and crews. Each agent is akin to a team member, possessing specific roles, background stories, goals, and memories. Through modular design, we make the intricate world of AI agents accessible, manageable, and more engaging.
+Combines two complementary paradigms -- autonomous role-based Crews and event-driven deterministic Flows -- letting developers balance agent autonomy with precise control in Python-native code, bridging prototype-to-production.

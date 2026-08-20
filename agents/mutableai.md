@@ -1,8 +1,8 @@
 ---
 name: "mutable.ai"
 slug: "mutableai"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "MutableAI"
 license: null
 url: "https://mutable.ai"
@@ -27,9 +27,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "toolify"
 ---
 
 AI-powered platform for accelerated software development and code generation.
+

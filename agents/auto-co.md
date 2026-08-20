@@ -1,37 +1,38 @@
 ---
 name: "auto-co"
 slug: "auto-co"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "NikitaDmitrieff"
 license: "MIT"
 url: "https://github.com/NikitaDmitrieff/auto-co-meta"
 source_code_url: "https://github.com/NikitaDmitrieff/auto-co-meta"
-source_available: "Yes"
+source_available: True
 platforms:
   - "Web"
   - "Autonomous"
 first_released: "2026-03-06"
 current_release: "2026-06-14"
-stars: 41
-language: "TypeScript"
+stars: "41"
+language: "Bash"
 homepage: "https://runautoco.com"
 mcp_support: null
 plugin_support: null
 claude_code_plugin: null
-subagents: null
+subagents: True
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+model_providers: "Anthropic"
+pricing: "~$1.80/cycle (Opus) or ~$0.50/cycle (Sonnet); infra ~$5-7/mo optional"
+install_method: "npx create-auto-co my-company then cd my-company then make start (or git clone + make start)"
+docs_url: "https://runautoco.com"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/NikitaDmitrieff/auto-co-meta"
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "Run an autonomous AI company from a ~50 line bash loop that calls Claude Code every 2 minutes. 14 expert-modeled agents (Jeff Bezos as CEO, Werner Vogels as CTO, Charlie Munger as Critic, etc.) debate, decide, build, and deploy software 24/7. No database, server, or framework — just files, git, and a loop. State carried via a 'relay baton' markdown file. Hard safety limits (no deletion, no force push, no spending without human approval)."
 ---
 
-- [auto-co](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI company OS — give it a mission and 14 expert-persona agents (CEO, CTO, CFO, engineer, marketer, critic) run your startup 24/7 with no human intervention. Built-in convergence rules prevent planning loops; human escalation via Telegram for true blockers only. MIT open source. [github](https://github.com/NikitaDmitrieff/auto-co-meta) | [website](https://auto-co-landing-production.up.railway.app)
+Run an autonomous AI company from a ~50 line bash loop that calls Claude Code every 2 minutes. 14 expert-modeled agents (Jeff Bezos as CEO, Werner Vogels as CTO, Charlie Munger as Critic, etc.) debate, decide, build, and deploy software 24/7. No database, server, or framework — just files, git, and a loop. State carried via a 'relay baton' markdown file. Hard safety limits (no deletion, no force push, no spending without human approval).

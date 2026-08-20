@@ -1,13 +1,13 @@
 ---
 name: "Cline"
 slug: "cline"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "cline"
 license: "Apache-2.0"
 url: "https://github.com/cline/cline"
 source_code_url: "https://github.com/cline/cline"
-source_available: "Yes"
+source_available: True
 platforms:
   - "IDE"
   - "CLI"
@@ -16,20 +16,20 @@ current_release: "2026-08-20"
 stars: null
 language: "TypeScript"
 homepage: "https://cline.bot"
-mcp_support: null
-plugin_support: null
+mcp_support: True
+plugin_support: True
 claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+subagents: True
+hooks: True
+plan_mode: True
+model_providers: "Anthropic, OpenAI, Google, OpenRouter, Vercel AI Gateway, AWS Bedrock, Azure, GCP Vertex, Cerebras, Groq, Ollama, LM Studio, any OpenAI-compatible API"
+pricing: "Free / open source (BYOK to providers)"
+install_method: "npm i -g cline (CLI), VS Code Marketplace, JetBrains Marketplace, npm install @cline/sdk (SDK), npm i -g kanban (Kanban)"
+docs_url: "https://docs.cline.bot"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "jqueryscript"
   - "flatlogic"
@@ -39,6 +39,7 @@ sources:
   - "quome"
   - "ishandutta"
   - "tiennm"
+what_makes_it_special: "Autonomous coding agent available as SDK, IDE extension, or CLI. Features Plan/Act modes, multi-agent teams with coordinator delegating to specialist agents, kanban-style parallel agent task boards, scheduled agents, messaging integrations (Slack, Telegram, Discord), and headless CI/CD mode."
 ---
 
-An autonomous coding agent for IDE and terminal workflows with file editing, command execution, browser tools, and checkpoints.
+Autonomous coding agent available as SDK, IDE extension, or CLI. Features Plan/Act modes, multi-agent teams with coordinator delegating to specialist agents, kanban-style parallel agent task boards, scheduled agents, messaging integrations (Slack, Telegram, Discord), and headless CI/CD mode.

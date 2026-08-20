@@ -1,18 +1,18 @@
 ---
 name: "Raven-Test-Ai"
 slug: "raven-test-ai"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "dhurng"
 license: null
 url: "https://github.com/dhurng/Raven-Test-AI"
 source_code_url: "https://github.com/dhurng/Raven-Test-AI"
-source_available: "Source-visible (no OSS license)"
+source_available: True
 platforms: []
 first_released: "2017-08-25"
 current_release: "2017-09-17"
 stars: null
-language: "HTML"
+language: "Python"
 homepage: null
 mcp_support: null
 plugin_support: null
@@ -27,9 +27,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "jim"
+what_makes_it_special: "AI agent that solves Raven's Progressive Matrices (visual IQ tests), a niche visual reasoning task unlike typical NLP/code agent projects."
 ---
 
-- [Raven-Test-Ai](https://github.com/dhurng/Raven-Test-AI) - An AI agent that can solve Raven Tests, visual iq tests
+AI agent that solves Raven's Progressive Matrices (visual IQ tests), a niche visual reasoning task unlike typical NLP/code agent projects.

@@ -1,8 +1,8 @@
 ---
 name: "Mentat"
 slug: "mentat"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://mentat.ai/docs/cli"
@@ -25,13 +25,14 @@ plan_mode: null
 model_providers: null
 pricing: null
 install_method: null
-docs_url: null
+docs_url: "https://mentat.ai/docs/cli"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
 maintained: null
 sources:
   - "brad"
+what_makes_it_special: "Cloud-native coding agent CLI for managing remote Mentat agents from your terminal; auto-detects repo/branch context. Could not verify detailed fields — mentat.ai DNS does not resolve and the GitHub repo (AbanteAI/mentat) returns 404 (deleted or renamed)."
 ---
 
-- **[Mentat CLI](https://mentat.ai/docs/cli)** `[Mentat]` — Cloud-native coding agent CLI for managing remote Mentat agents from your terminal; auto-detects repo/branch context.
+Cloud-native coding agent CLI for managing remote Mentat agents from your terminal; auto-detects repo/branch context. Could not verify detailed fields — mentat.ai DNS does not resolve and the GitHub repo (AbanteAI/mentat) returns 404 (deleted or renamed).

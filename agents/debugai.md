@@ -1,8 +1,8 @@
 ---
 name: "Debugai"
 slug: "debugai"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "UniIDE"
 license: "GPL-3.0"
 url: "https://github.com/Open-IDE/DebugAI"
@@ -22,15 +22,16 @@ subagents: null
 hooks: null
 plan_mode: null
 model_providers: null
-pricing: null
+pricing: "open-source"
 install_method: null
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/UniIDE/DebugAI"
+maintained: "abandoned"
 sources:
   - "jim"
+what_makes_it_special: "An AI agent specifically focused on software testing and debugging — a relatively niche use case for AI agents. The repository contains only a LICENSE and README with no source code, indicating very early-stage or abandoned development."
 ---
 
-- [Debugai](https://github.com/Open-IDE/DebugAI) - An A.I. Agent that assists in Testing & Debugging!
+An AI agent specifically focused on software testing and debugging — a relatively niche use case for AI agents. The repository contains only a LICENSE and README with no source code, indicating very early-stage or abandoned development.

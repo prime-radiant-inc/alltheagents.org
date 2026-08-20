@@ -1,13 +1,13 @@
 ---
 name: "Melty"
 slug: "melty"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "meltylabs"
 license: "MIT"
 url: "https://github.com/meltylabs/melty"
 source_code_url: "https://github.com/meltylabs/melty"
-source_available: "Yes"
+source_available: True
 platforms:
   - "IDE"
   - "Desktop"
@@ -24,14 +24,15 @@ hooks: null
 plan_mode: null
 model_providers: null
 pricing: null
-install_method: null
+install_method: "Early access waitlist; build from source per CONTRIBUTING.md"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "jqueryscript"
+what_makes_it_special: "Every chat message is automatically a git commit — enabling revert, branch, reset, and squash of AI conversations; watches changes in real-time like a pair programmer; integrates with compiler, terminal, debugger, Linear, and GitHub; first AI editor designed for big multi-file changes."
 ---
 
-A chat-first code editor that lets an agent understand repositories, modify files, and present changes for review.
+Every chat message is automatically a git commit — enabling revert, branch, reset, and squash of AI conversations; watches changes in real-time like a pair programmer; integrates with compiler, terminal, debugger, Linear, and GitHub; first AI editor designed for big multi-file changes.

@@ -1,13 +1,13 @@
 ---
 name: "Claude-Html-Test"
 slug: "claude-html-test"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "SivaramAdi"
 license: null
 url: "https://github.com/SivaramAdi/claude-html-test"
 source_code_url: "https://github.com/SivaramAdi/claude-html-test"
-source_available: "Source-visible (no OSS license)"
+source_available: "Yes"
 platforms: []
 first_released: "2024-11-29"
 current_release: "2024-11-29"
@@ -26,10 +26,11 @@ install_method: null
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/SivaramAdi/claude-html-test"
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "A basic test repository showcasing information about AI Agents, containing a single HTML file."
 ---
 
-- [Claude-Html-Test](https://github.com/SivaramAdi/claude-html-test) - A repository showcasing information about AI Agents
+A basic test repository showcasing information about AI Agents, containing a single HTML file.

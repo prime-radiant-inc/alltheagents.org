@@ -1,37 +1,38 @@
 ---
 name: "kimiflare"
 slug: "kimiflare"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "sinameraji"
 license: "MIT"
 url: "https://github.com/sinameraji/kimiflare"
 source_code_url: "https://github.com/sinameraji/kimiflare"
-source_available: "Yes"
+source_available: True
 platforms:
   - "CLI"
   - "Web"
 first_released: "2026-04-21"
 current_release: "2026-08-19"
-stars: 168
+stars: "168"
 language: "TypeScript"
 homepage: "https://kimiflare.com"
-mcp_support: null
+mcp_support: True
 plugin_support: null
 claude_code_plugin: null
 subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+hooks: True
+plan_mode: True
+model_providers: "Cloudflare Workers AI (Kimi K2.7/K2.6/K2.5, GLM-5.2, Kimi K3); any OpenAI-compatible endpoint via KIMIFLARE_BASE_URL"
+pricing: "Free/self-hosted (pay Cloudflare Workers AI rates on your own account)"
+install_method: "npm install -g kimiflare (or npx kimiflare)"
+docs_url: "https://kimiflare.com"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://www.npmjs.com/package/kimiflare"
+maintained: "active"
 sources:
   - "github_deep"
+what_makes_it_special: "Terminal coding agent running entirely on your own Cloudflare account via Workers AI; 262k context window, AI Gateway-confirmed cost tracking, local SQLite+embeddings memory, image understanding, OS-aware shell (Windows support), headless SDK + RPC mode; 5 hook events (PreToolUse, PostToolUse, UserPromptSubmit, Stop, PreCompact)."
 ---
 
-Moonshot kimi k3 terminal based coding agent & harness running on your own Cloudflare account.
+Terminal coding agent running entirely on your own Cloudflare account via Workers AI; 262k context window, AI Gateway-confirmed cost tracking, local SQLite+embeddings memory, image understanding, OS-aware shell (Windows support), headless SDK + RPC mode; 5 hook events (PreToolUse, PostToolUse, UserPromptSubmit, Stop, PreCompact).

@@ -1,19 +1,19 @@
 ---
 name: "docs"
 slug: "docs"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
-license: null
+license: "AGPL-3.0"
 url: "https://01.openinterpreter.com/"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: True
 platforms:
   - "Web"
 first_released: null
 current_release: null
 stars: null
-language: null
+language: "Python"
 homepage: null
 mcp_support: null
 plugin_support: null
@@ -24,13 +24,14 @@ plan_mode: null
 model_providers: null
 pricing: null
 install_method: null
-docs_url: null
+docs_url: "https://01.openinterpreter.com/"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "Associated link: documentation site for 01, an open-source voice interface platform for intelligent devices (desktop, mobile, ESP32) powered by Open Interpreter; assistants execute code, browse the web, manage files, and control software"
 ---
 
-- [01](https://changes.openinterpreter.com/log/introducing-the-01-developer-preview) - The '01 Project' by Open Interpreter is an open-source initiative focused on creating an ecosystem for AI devices, aiming to become the GNU/Linux in this domain, with details on its experimental status, software, hardware, and a speech-to-speech interface based on a code-interpreting language model for dynamic interactions [announcement](https://changes.openinterpreter.com/log/introducing-the-01-developer-preview) | [demo](https://twitter.com/OpenInterpreter/status/1770821439458840846) | [github](https://github.com/OpenInterpreter/01) | [website](http://openinterpreter.com/01) | [docs](https://01.openinterpreter.com/)
+Associated link: documentation site for 01, an open-source voice interface platform for intelligent devices (desktop, mobile, ESP32) powered by Open Interpreter; assistants execute code, browse the web, manage files, and control software

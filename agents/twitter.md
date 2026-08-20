@@ -1,8 +1,8 @@
 ---
 name: "twitter"
 slug: "twitter"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://twitter.com/Nurgo"
@@ -32,6 +32,7 @@ download_url: null
 maintained: null
 sources:
   - "jim"
+what_makes_it_special: "Associated link: the Twitter/X account for Nurgo Software (twitter.com/Nurgo), a French company making Windows utilities including BrainSoup, an AI/LLM agent application; not a standalone agent harness"
 ---
 
-- [BrainSoup Custom Tools](https://www.nurgo-software.com/products/brainsoup) - BrainSoup is a multi-agent and multi-LLM native client where users can easily create custom tools for their agents, in any programming language, enabling them to interact with the user's system or any other external service [website](https://www.nurgo-software.com/products/brainsoup) | [docs](https://help.nurgo-software.com/collection/148-brainsoup) | [twitter](https://twitter.com/Nurgo) | [discord](https://discord.gg/xt7PyCnH9S)
+Associated link: the Twitter/X account for Nurgo Software (twitter.com/Nurgo), a French company making Windows utilities including BrainSoup, an AI/LLM agent application; not a standalone agent harness

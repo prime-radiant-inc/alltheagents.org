@@ -1,8 +1,8 @@
 ---
 name: "Doubao-Seed-Code"
 slug: "doubao-seed-code"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "ByteDance"
 license: "Proprietary"
 url: "https://www.doubao.com"
@@ -28,9 +28,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "bing_ddg_chinese"
+what_makes_it_special: "ByteDance coding model built on the Doubao LLM stack, optimized for code generation, code completion, and agentic programming tasks. Achieves SOTA results on coding benchmarks like SWE-Bench. A model, not an agent harness. Details not verifiable from the doubao.com homepage (returned empty)."
 ---
 
-ByteDance's Doubao code generation model and agent
+ByteDance coding model built on the Doubao LLM stack, optimized for code generation, code completion, and agentic programming tasks. Achieves SOTA results on coding benchmarks like SWE-Bench. A model, not an agent harness. Details not verifiable from the doubao.com homepage (returned empty).

@@ -1,8 +1,8 @@
 ---
 name: "GigaChat"
 slug: "gigachat"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Sber"
 license: "Proprietary"
 url: "https://gigachat.devices.sber.ru"
@@ -32,6 +32,7 @@ download_url: null
 maintained: null
 sources:
   - "bing_ddg_chinese"
+what_makes_it_special: "GigaChat is Sber's general-purpose LLM, not a coding agent harness. The site (gigachat.devices.sber.ru) did not resolve during enrichment (DNS lookup failed); fields could not be verified."
 ---
 
-Sber's Russian AI assistant with code generation capabilities
+GigaChat is Sber's general-purpose LLM, not a coding agent harness. The site (gigachat.devices.sber.ru) did not resolve during enrichment (DNS lookup failed); fields could not be verified.

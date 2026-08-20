@@ -1,37 +1,38 @@
 ---
 name: "EchoCoding"
 slug: "echocoding"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "launsion-boop"
 license: "MIT"
 url: "https://github.com/launsion-boop/EchoCoding"
 source_code_url: "https://github.com/launsion-boop/EchoCoding"
-source_available: "Yes"
+source_available: True
 platforms:
   - "CLI"
   - "Web"
 first_released: "2026-04-14"
 current_release: "2026-05-11"
-stars: 28
-language: "TypeScript"
+stars: "28"
+language: "TypeScript/JavaScript (Node.js 18+)"
 homepage: null
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
+mcp_support: True
+plugin_support: True
+claude_code_plugin: True
+subagents: True
+hooks: True
+plan_mode: False
+model_providers: "TTS: Volcengine cloud (21 voices), Kokoro 82M local (103 voices), macOS say/Linux espeak (fallback). ASR: Volcengine V3 BigModel (cloud), Paraformer (local), browser MediaRecorder (Studio)"
 pricing: null
-install_method: null
+install_method: "npm i -g echocoding && echocoding install --auto --start && echocoding doctor"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://www.npmjs.com/package/echocoding"
+maintained: "active"
 sources:
   - "brad"
+what_makes_it_special: "Adds an immersive audio layer to AI coding agents — 23 sound effects, ambient soundscapes, TTS speech, and ASR voice Q&A. 'Pipes, not brains' philosophy: the AI agent decides when and what to say; EchoCoding just provides the audio infrastructure (say / ask / sfx). Three audio layers: discrete SFX, continuous ambient soundscapes, and voice interaction. MCP Server (stdio) with 5 tools. Claude Code integration via 9-event hook injection. Multi-turn voice conversation with echo suppression (260ms anti-bleed gate)."
 ---
 
-- **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 28` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.
+Adds an immersive audio layer to AI coding agents — 23 sound effects, ambient soundscapes, TTS speech, and ASR voice Q&A. 'Pipes, not brains' philosophy: the AI agent decides when and what to say; EchoCoding just provides the audio infrastructure (say / ask / sfx). Three audio layers: discrete SFX, continuous ambient soundscapes, and voice interaction. MCP Server (stdio) with 5 tools. Claude Code integration via 9-event hook injection. Multi-turn voice conversation with echo suppression (260ms anti-bleed gate).

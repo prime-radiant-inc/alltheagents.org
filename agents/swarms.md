@@ -1,36 +1,37 @@
 ---
 name: "Swarms"
 slug: "swarms"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "kyegomez"
 license: "Apache-2.0"
 url: "https://github.com/kyegomez/swarms/"
 source_code_url: "https://github.com/kyegomez/swarms"
-source_available: "Yes"
+source_available: True
 platforms:
   - "Web"
 first_released: "2023-05-11"
 current_release: "2026-08-19"
-stars: 7069
+stars: "7069"
 language: "Python"
 homepage: "https://docs.swarms.world"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+mcp_support: "yes"
+plugin_support: "yes"
+claude_code_plugin: "n/a"
+subagents: "yes"
+hooks: "no"
+plan_mode: "no"
+model_providers: "OpenAI, Anthropic, Groq"
+pricing: "open-source"
+install_method: "pip"
+docs_url: "https://docs.swarms.world"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "jim"
+what_makes_it_special: "Enterprise-grade multi-agent orchestration framework with 60+ prebuilt multi-agent architectures (sequential, concurrent, hierarchical). AutoSwarmBuilder auto-generates specialized agents, SwarmRouter is a universal orchestrator, x402 payment protocol support, Agent Orchestration Protocol for distributed deployment. Backwards-compatible with LangChain/AutoGen/CrewAI and MCP-enabled via mcp_url/mcp_urls."
 ---
 
-- [Swarms](https://github.com/kyegomez/swarms/) - Swarms orchestrates multi-agent collaboration for production-grade applications, solving issues like short memory and high costs, with customizable tools for specific needs, currently used by RBC, John Deere, and AI startups [github](https://github.com/kyegomez/swarms/) | [discord](https://discord.gg/DbjBMJTSWD) | [docs](https://swarms.apac.ai/)
+Enterprise-grade multi-agent orchestration framework with 60+ prebuilt multi-agent architectures (sequential, concurrent, hierarchical). AutoSwarmBuilder auto-generates specialized agents, SwarmRouter is a universal orchestrator, x402 payment protocol support, Agent Orchestration Protocol for distributed deployment. Backwards-compatible with LangChain/AutoGen/CrewAI and MCP-enabled via mcp_url/mcp_urls.

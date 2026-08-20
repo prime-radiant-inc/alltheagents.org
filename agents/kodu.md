@@ -1,13 +1,13 @@
 ---
 name: "Kodu"
 slug: "kodu"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "kodu-ai"
-license: "Source Available"
+license: "AGPL-3.0-or-later"
 url: "https://github.com/kodu-ai/claude-coder"
 source_code_url: "https://github.com/kodu-ai/claude-coder"
-source_available: "Yes"
+source_available: True
 platforms:
   - "IDE"
 first_released: "2024-09-01"
@@ -23,15 +23,16 @@ hooks: null
 plan_mode: null
 model_providers: null
 pricing: null
-install_method: null
+install_method: "VS Code Extensions marketplace"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "jqueryscript"
   - "quome"
+what_makes_it_special: "Autonomous coding agent embedded directly in VS Code that adapts to any skill level — from beginners to complex system architecture; converts mockups/wireframes into functional apps, performs web research, assists with deployment/publishing, all within the IDE workflow."
 ---
 
-An autonomous VS Code agent that builds projects through code edits, terminal commands, browser interaction, and iterative feedback.
+Autonomous coding agent embedded directly in VS Code that adapts to any skill level — from beginners to complex system architecture; converts mockups/wireframes into functional apps, performs web research, assists with deployment/publishing, all within the IDE workflow.

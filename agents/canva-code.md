@@ -1,13 +1,13 @@
 ---
 name: "Canva Code"
 slug: "canva-code"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Canva"
 license: "Proprietary"
 url: "https://www.canva.com"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "Web"
 first_released: null
@@ -28,9 +28,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "bing_ddg_chinese"
+what_makes_it_special: "Canva is a design platform. A distinct 'Canva Code' coding-agent product could not be verified (canva.com returned HTTP 403 during enrichment); fields left null. Canva itself remains active."
 ---
 
-Canva's AI code generation feature for building designs and apps
+Canva is a design platform. A distinct 'Canva Code' coding-agent product could not be verified (canva.com returned HTTP 403 during enrichment); fields left null. Canva itself remains active.

@@ -1,13 +1,13 @@
 ---
 name: "Waii"
 slug: "waii"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://x.com/AlexReibman/status/1772777493122163107"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms: []
 first_released: null
 current_release: null
@@ -30,6 +30,7 @@ download_url: null
 maintained: null
 sources:
   - "jim"
+what_makes_it_special: "A swift and straightforward AI agent for converting natural language to SQL queries, seamlessly integrable with your application"
 ---
 
-- [Waii](https://x.com/AlexReibman/status/1772777493122163107) - A swift and straightforward AI agent for converting natural language to SQL queries, seamlessly integrable with your application [demo](https://x.com/AlexReibman/status/1772777493122163107)
+A swift and straightforward AI agent for converting natural language to SQL queries, seamlessly integrable with your application

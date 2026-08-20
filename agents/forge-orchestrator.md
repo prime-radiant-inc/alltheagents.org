@@ -1,35 +1,36 @@
 ---
 name: "forge-orchestrator"
 slug: "forge-orchestrator"
-layout: agent.njk
-category: multiplexer
+layout: "agent.njk"
+category: "multiplexer"
 maker: "tarunms7"
-license: null
+license: "MIT"
 url: "https://github.com/tarunms7/forge-orchestrator"
 source_code_url: "https://github.com/tarunms7/forge-orchestrator"
-source_available: "Source-visible (no OSS license)"
+source_available: True
 platforms: []
 first_released: "2026-02-27"
 current_release: "2026-04-15"
-stars: 42
+stars: "42"
 language: "Python"
 homepage: null
-mcp_support: null
+mcp_support: True
 plugin_support: null
 claude_code_plugin: null
-subagents: null
+subagents: True
 hooks: null
-plan_mode: null
-model_providers: null
+plan_mode: True
+model_providers: "Anthropic, OpenAI"
 pricing: null
-install_method: null
+install_method: "curl -fsSL https://raw.githubusercontent.com/tarunms7/forge-orchestrator/main/install.sh | sh"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/tarunms7/forge-orchestrator"
+maintained: "active"
 sources:
   - "agent_infra"
+what_makes_it_special: "Self-evolving multi-agent orchestrator built on Claude Code. Plans tasks, runs parallel agents in isolated git worktrees, 5-gate review pipeline (build/lint/test/LLM review/contracts), Contract Builder generates binding API specs before coding. Self-evolving learning captures lessons from failures and applies them cross-pipeline. Real-time cost tracking with budget limits, multi-repo workspaces, health monitor for stuck tasks."
 ---
 
-Forge is a self-evolving multi-agent orchestrator -- that plans, runs parallel agents, orchestrates them, reviews the code, resolves merge-conflicts and gives one PR that you can safely merge to production.
+Self-evolving multi-agent orchestrator built on Claude Code. Plans tasks, runs parallel agents in isolated git worktrees, 5-gate review pipeline (build/lint/test/LLM review/contracts), Contract Builder generates binding API specs before coding. Self-evolving learning captures lessons from failures and applies them cross-pipeline. Real-time cost tracking with budget limits, multi-repo workspaces, health monitor for stuck tasks.

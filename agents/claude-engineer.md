@@ -1,13 +1,13 @@
 ---
 name: "Claude Engineer"
 slug: "claude-engineer"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Doriandarko"
-license: "Source Available"
+license: "MIT"
 url: "https://github.com/Doriandarko/claude-engineer"
 source_code_url: "https://github.com/Doriandarko/claude-engineer"
-source_available: "Yes"
+source_available: True
 platforms:
   - "CLI"
   - "Web"
@@ -22,19 +22,20 @@ claude_code_plugin: null
 subagents: null
 hooks: null
 plan_mode: null
-model_providers: null
+model_providers: "Anthropic (Claude 3.5 Sonnet)"
 pricing: null
-install_method: null
+install_method: "git clone, uv venv, uv run app.py (web) or uv run ce3.py (CLI)"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "jqueryscript"
   - "brad"
   - "jim"
   - "ishandutta"
+what_makes_it_special: "Self-improving architecture — Claude can autonomously identify capability gaps, design, and implement new tools during conversations, making the framework more powerful with continued use; available as both CLI and web interface."
 ---
 
-A Claude-based coding agent that manages files, executes commands, creates tools, and works through an interactive CLI or web interface.
+Self-improving architecture — Claude can autonomously identify capability gaps, design, and implement new tools during conversations, making the framework more powerful with continued use; available as both CLI and web interface.

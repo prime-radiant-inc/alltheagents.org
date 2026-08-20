@@ -1,36 +1,37 @@
 ---
 name: "CodeReviewAgent"
 slug: "codereviewagent"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "gitbito"
 license: "MIT"
 url: "https://github.com/gitbito/CodeReviewAgent"
 source_code_url: "https://github.com/gitbito/CodeReviewAgent"
-source_available: "Yes"
+source_available: True
 platforms:
   - "IDE"
 first_released: "2024-01-19"
 current_release: "2025-11-13"
-stars: 67
+stars: "67"
 language: "Shell"
 homepage: null
-mcp_support: null
+mcp_support: False
 plugin_support: null
-claude_code_plugin: null
-subagents: null
+claude_code_plugin: False
+subagents: False
 hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+plan_mode: False
+model_providers: "Anthropic"
+pricing: "Free signup (Bito Cloud); self-hosted options available"
+install_method: "Bito Cloud (no install), self-hosted via CLI/webhooks/GitHub Actions, or IDE plugins (VS Code / JetBrains)"
+docs_url: "https://docs.bito.ai/bito-dev-agents/ai-code-review-agent"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "github_topic3"
+what_makes_it_special: "Bito's AI Code Review Agent provides automated, context-aware code reviews in Git workflows (PR/MR) and IDEs, identifying bugs, code smells, and security vulnerabilities with fix suggestions. First agent built on Bito's AI Agent framework; powered by Anthropic Claude Sonnet 3.5; deep whole-codebase understanding; integrates static analysis tools (fbinfer, OWASP Dependency-Check) out of the box and 3rd-party tools (Snyk, Sonar); does not read/store customer code or use it for model training."
 ---
 
-On-demand, context-aware AI code reviews in your Git workflow or IDE as you code.
+Bito's AI Code Review Agent provides automated, context-aware code reviews in Git workflows (PR/MR) and IDEs, identifying bugs, code smells, and security vulnerabilities with fix suggestions. First agent built on Bito's AI Agent framework; powered by Anthropic Claude Sonnet 3.5; deep whole-codebase understanding; integrates static analysis tools (fbinfer, OWASP Dependency-Check) out of the box and 3rd-party tools (Snyk, Sonar); does not read/store customer code or use it for model training.

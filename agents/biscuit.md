@@ -1,36 +1,37 @@
 ---
 name: "biscuit"
 slug: "biscuit"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "tomlin7"
 license: "MIT"
 url: "https://github.com/tomlin7/biscuit"
 source_code_url: "https://github.com/tomlin7/biscuit"
-source_available: "Yes"
+source_available: True
 platforms:
   - "IDE"
 first_released: "2021-10-04"
 current_release: "2026-08-05"
-stars: 264
+stars: "264"
 language: "Python"
 homepage: "https://biscuit.tomlin7.com"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
-plugin_docs_url: null
+mcp_support: False
+plugin_support: True
+claude_code_plugin: False
+subagents: False
+hooks: False
+plan_mode: False
+model_providers: "Gemini, Anthropic, Ollama (via extension, deprecated)"
+pricing: "Free / open-source (MIT)"
+install_method: "pip install biscuit-editor; or uv tool install biscuit-editor"
+docs_url: "https://tomlin7.github.io/biscuit"
+plugin_docs_url: "https://github.com/tomlin7/biscuit-extensions"
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://pypi.org/project/biscuit-editor/"
+maintained: "active"
 sources:
   - "github_topic4"
+what_makes_it_special: "Lightweight (<20MB), fast native code editor with AI agents, tree-sitter based code intelligence, DAP debugging, extension marketplace, ripgrep-based fast search, vim mode — all in a compact, extensible Python-based editor."
 ---
 
-biscuit is a native, extensible, AI code editor. lightweight <20 mb in size. install and start using in seconds.
+Lightweight (<20MB), fast native code editor with AI agents, tree-sitter based code intelligence, DAP debugging, extension marketplace, ripgrep-based fast search, vim mode — all in a compact, extensible Python-based editor.

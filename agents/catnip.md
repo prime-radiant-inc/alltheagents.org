@@ -1,8 +1,8 @@
 ---
 name: "Catnip"
 slug: "catnip"
-layout: agent.njk
-category: multiplexer
+layout: "agent.njk"
+category: "multiplexer"
 maker: null
 license: null
 url: "https://github.com/wandb/catnip"
@@ -30,6 +30,7 @@ download_url: null
 maintained: null
 sources:
   - "brad"
+what_makes_it_special: "Containerized environment + worktree automation for running multiple coding agents in parallel (optimized for Claude Code). Could not verify detailed fields — the GitHub repo (wandb/catnip) returns 404 (deleted, renamed, or made private)."
 ---
 
-- **[Catnip](https://github.com/wandb/catnip)** `⭐ 491` — Containerized environment + worktree automation for running multiple coding agents in parallel (optimized for Claude Code).
+Containerized environment + worktree automation for running multiple coding agents in parallel (optimized for Claude Code). Could not verify detailed fields — the GitHub repo (wandb/catnip) returns 404 (deleted, renamed, or made private).

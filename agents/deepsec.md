@@ -1,35 +1,36 @@
 ---
 name: "deepsec"
 slug: "deepsec"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "vercel-labs"
 license: "Apache-2.0"
 url: "https://github.com/vercel-labs/deepsec"
 source_code_url: "https://github.com/vercel-labs/deepsec"
-source_available: "Yes"
+source_available: True
 platforms: []
 first_released: "2026-04-30"
 current_release: "2026-08-18"
-stars: 7757
+stars: "7757"
 language: "TypeScript"
 homepage: "https://deepsec.sh/"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+mcp_support: "no"
+plugin_support: "no"
+claude_code_plugin: "n/a"
+subagents: "no"
+hooks: "no"
+plan_mode: "no"
+model_providers: "Vercel AI Gateway, OpenAI, Anthropic, custom HTTPS provider"
+pricing: "BYOK"
+install_method: "npm"
+docs_url: "https://deepsec.sh"
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "brad"
+what_makes_it_special: "Agent-powered vulnerability scanner for on-demand review of large-scale repos. Resumable execution (skips already-analyzed files on re-run), fans out work across Vercel Sandbox microVM worker machines in parallel, tunable AI thinking levels, keeps API keys host-side (injected into sandboxes rather than baked in)."
 ---
 
-- **[deepsec](https://github.com/vercel-labs/deepsec)** `⭐ 7.7k` `[Vercel]` — Agent-powered vulnerability scanner that runs on your own infrastructure. A fast regex matcher pass finds candidate sites, then Claude Agent SDK or Codex agents investigate each one with full shell access to the repo. Resumable runs, cost and duration caps, `--diff` PR mode, and optional fan-out across Vercel Sandbox microVMs. Apache-2.0.
+Agent-powered vulnerability scanner for on-demand review of large-scale repos. Resumable execution (skips already-analyzed files on re-run), fans out work across Vercel Sandbox microVM worker machines in parallel, tunable AI thinking levels, keeps API keys host-side (injected into sandboxes rather than baked in).

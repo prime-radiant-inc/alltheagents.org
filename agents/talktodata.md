@@ -1,8 +1,8 @@
 ---
 name: "TalktoData"
 slug: "talktodata"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: null
 license: null
 url: "https://talktodata.ai/"
@@ -30,6 +30,7 @@ download_url: null
 maintained: null
 sources:
   - "e2b"
+what_makes_it_special: "AI data analyst that works with CSV, Excel, Google Sheets, and SQL databases to generate visualizations and answer follow-up questions. Not a coding agent. Site is currently unavailable (HTTP 404); could not verify fields."
 ---
 
-- AI Data Analyst that works with your CSV, Excel, Goolge Sheets and SQL Databases - AI Agent for all the data analytics needs - Allows users to generate beautiful visualizations, followup question and refine requirements - "ChatGPT for Data Analysis" - A Data Analyst the never sleeps and always available(A chat away)
+AI data analyst that works with CSV, Excel, Google Sheets, and SQL databases to generate visualizations and answer follow-up questions. Not a coding agent. Site is currently unavailable (HTTP 404); could not verify fields.

@@ -1,36 +1,37 @@
 ---
 name: "Codex-JetBrains"
 slug: "codex-jetbrains"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Haleclipse"
 license: "Apache-2.0"
 url: "https://github.com/Haleclipse/Codex-JetBrains"
 source_code_url: "https://github.com/Haleclipse/Codex-JetBrains"
-source_available: "Yes"
+source_available: True
 platforms:
   - "IDE"
 first_released: "2025-12-26"
 current_release: "2025-12-28"
-stars: 125
-language: "Kotlin"
+stars: "125"
+language: "Kotlin, TypeScript"
 homepage: null
 mcp_support: null
-plugin_support: null
-claude_code_plugin: null
+plugin_support: True
+claude_code_plugin: False
 subagents: null
 hooks: null
 plan_mode: null
 model_providers: null
-pricing: null
-install_method: null
+pricing: "Free (Apache-2.0)"
+install_method: "JetBrains Marketplace: search RunVSAgent in Settings -> Plugins -> Marketplace; or download .zip from GitHub Releases and Install Plugin from Disk; or build from source with Node.js 18+, JDK 17+"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://plugins.jetbrains.com/plugin/28068-runvsagent"
+maintained: "active"
 sources:
   - "github_deep"
+what_makes_it_special: "Cross-platform JetBrains plugin (RunVSAgent) that runs VSCode-based coding agents and extensions (Roo Code, Cline, Kilo Code) within JetBrains IDEs via a Kotlin plugin and Node.js extension host communicating over RPC; supports all major JetBrains IDEs (2023.1+)"
 ---
 
-Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment.
+Cross-platform JetBrains plugin (RunVSAgent) that runs VSCode-based coding agents and extensions (Roo Code, Cline, Kilo Code) within JetBrains IDEs via a Kotlin plugin and Node.js extension host communicating over RPC; supports all major JetBrains IDEs (2023.1+)

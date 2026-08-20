@@ -1,36 +1,37 @@
 ---
 name: "PaperBanana-Pro"
 slug: "paperbanana-pro"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "elpsykongloo"
 license: "Apache-2.0"
 url: "https://github.com/elpsykongloo/PaperBanana-Pro"
 source_code_url: "https://github.com/elpsykongloo/PaperBanana-Pro"
-source_available: "Yes"
+source_available: True
 platforms:
   - "Autonomous"
 first_released: "2026-03-11"
 current_release: "2026-05-19"
-stars: 95
+stars: "95"
 language: "Python"
 homepage: null
 mcp_support: null
 plugin_support: null
-claude_code_plugin: null
-subagents: null
+claude_code_plugin: False
+subagents: True
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
+model_providers: "Gemini, OpenAI, OpenRouter, Evolink, custom OpenAI-compatible"
+pricing: "Free / open-source (users supply their own API keys)"
+install_method: "git clone, uv sync --locked, uv tool install --editable . --force"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "agent_infra"
+what_makes_it_special: "Production-grade multi-agent academic illustration engine (full Chinese UI) that generates scientific illustrations and statistical plots from paper method sections; 6 sub-agents (Retriever, Planner, Stylist, Visualizer, Critic, Polish); 21 rounds of engineering polish + 70+ unit tests; Bundle v1 portable format (.bundle.json); 2K/4K refinement with tree-structured version chains and rollback; fault-tolerant retry with Pro-to-Flash model tier degradation; Pipeline Registry for one-line workflow extension. NOTE: Google holds a patent on the multi-agent pipeline methodology; commercial use prohibited."
 ---
 
-Production-ready multi-agent academic illustration system with Chinese GUI, background generation, plot workbench, and portable result bundles. Extended from PaperBanana.
+Production-grade multi-agent academic illustration engine (full Chinese UI) that generates scientific illustrations and statistical plots from paper method sections; 6 sub-agents (Retriever, Planner, Stylist, Visualizer, Critic, Polish); 21 rounds of engineering polish + 70+ unit tests; Bundle v1 portable format (.bundle.json); 2K/4K refinement with tree-structured version chains and rollback; fault-tolerant retry with Pro-to-Flash model tier degradation; Pipeline Registry for one-line workflow extension. NOTE: Google holds a patent on the multi-agent pipeline methodology; commercial use prohibited.

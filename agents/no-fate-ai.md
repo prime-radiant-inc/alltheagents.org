@@ -1,8 +1,8 @@
 ---
 name: "No Fate AI"
 slug: "no-fate-ai"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "No Fate AI"
 license: null
 url: "https://nofateai.com"
@@ -27,9 +27,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "toolify"
 ---
 
 AI assistant for software engineering tasks with expert support option.
+

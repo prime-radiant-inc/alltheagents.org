@@ -1,8 +1,8 @@
 ---
 name: "coze-studio"
 slug: "coze-studio"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "coze-dev"
 license: "Apache-2.0"
 url: "https://github.com/coze-dev/coze-studio"
@@ -11,25 +11,26 @@ source_available: "Yes"
 platforms: []
 first_released: "2025-06-26"
 current_release: "2026-07-29"
-stars: 21475
-language: "TypeScript"
+stars: "21475"
+language: "Go (backend), TypeScript (frontend)"
 homepage: null
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
+mcp_support: "partial (.mcp.json file present; transport not documented)"
+plugin_support: "yes"
+claude_code_plugin: "partial (.claude/agents dir and CLAUDE.md present)"
 subagents: null
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
-plugin_docs_url: null
-config_docs_url: null
+model_providers: "OpenAI, Volcengine (extensible)"
+pricing: "open-source (Apache 2.0); commercial version available"
+install_method: "docker"
+docs_url: "https://www.coze.cn/open/docs"
+plugin_docs_url: "https://github.com/coze-dev/coze-studio/wiki/4.-Plugin-Configuration"
+config_docs_url: "https://github.com/coze-dev/coze-studio/wiki/3.-Model-configuration"
 download_url: null
-maintained: null
+maintained: "active"
 sources:
   - "agent_infra"
+what_makes_it_special: "All-in-one visual AI agent development platform derived from ByteDance's Coze platform, offering no-code/low-code agent building with workflows, plugins, knowledge bases, and RAG in a microservice architecture built with DDD principles."
 ---
 
-An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
+All-in-one visual AI agent development platform derived from ByteDance's Coze platform, offering no-code/low-code agent building with workflows, plugins, knowledge bases, and RAG in a microservice architecture built with DDD principles.

@@ -1,36 +1,37 @@
 ---
 name: "the-pair"
 slug: "the-pair"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "timwuhaotian"
 license: "Apache-2.0"
 url: "https://github.com/timwuhaotian/the-pair"
 source_code_url: "https://github.com/timwuhaotian/the-pair"
-source_available: "Yes"
+source_available: True
 platforms:
   - "Desktop"
 first_released: "2026-03-22"
 current_release: "2026-08-11"
-stars: 354
-language: "TypeScript"
+stars: "354"
+language: "TypeScript, Rust"
 homepage: "https://apps.timwuhaotian.dev/"
 mcp_support: null
-plugin_support: null
+plugin_support: False
 claude_code_plugin: null
-subagents: null
+subagents: True
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
+model_providers: "opencode, Anthropic (Claude Code), OpenAI (Codex), Google (Gemini/Antigravity), Kimi, Ollama"
+pricing: "Free/open-source (user pays own AI provider API costs; zero cost with Ollama local models)"
+install_method: "Download from GitHub Releases (.zip macOS / .exe Windows / .AppImage Linux); or build from source: git clone, npm install, npm run build:mac|win|linux (requires Node.js 22.22+ and Rust)"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/timwuhaotian/the-pair/releases"
+maintained: "active"
 sources:
   - "github_topic2"
+what_makes_it_special: "Dual-agent cross-validation desktop app where a read-only Mentor agent plans and reviews everything a separate Executor agent produces, catching AI hallucinations before they reach the codebase. Model-agnostic: mix and match any providers (e.g., Claude as Mentor + Codex as Executor)."
 ---
 
-Open-source AI pair programming for desktop: a Mentor + Executor agent cross-check each other's code to catch AI hallucinations. Works with Claude Code, Codex, Gemini & opencode. macOS / Windows / Linux.
+Dual-agent cross-validation desktop app where a read-only Mentor agent plans and reviews everything a separate Executor agent produces, catching AI hallucinations before they reach the codebase. Model-agnostic: mix and match any providers (e.g., Claude as Mentor + Codex as Executor).

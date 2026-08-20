@@ -1,8 +1,8 @@
 ---
 name: "ChatDev"
 slug: "chatdev"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "OpenBMB"
 license: "Apache-2.0"
 url: "https://github.com/OpenBMB/ChatDev"
@@ -12,26 +12,27 @@ platforms:
   - "IDE"
 first_released: "2023-08-28"
 current_release: "2026-07-24"
-stars: 34058
+stars: "34058"
 language: "Python"
 homepage: "https://arxiv.org/abs/2307.07924"
-mcp_support: null
-plugin_support: null
+mcp_support: "yes (mcp_example directory, Blender MCP integration)"
+plugin_support: "yes"
 claude_code_plugin: null
-subagents: null
+subagents: "yes"
 hooks: null
 plan_mode: null
-model_providers: null
-pricing: null
-install_method: null
-docs_url: null
+model_providers: "BYOK (any LLM provider via configurable API_KEY and BASE_URL)"
+pricing: "open-source"
+install_method: "pip (uv sync), npm (frontend), docker"
+docs_url: "https://github.com/OpenBMB/ChatDev/blob/main/docs/user_guide/en/index.md"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
-maintained: null
+download_url: "https://github.com/OpenBMB/ChatDev"
+maintained: "active"
 sources:
   - "e2b"
   - "jim"
+what_makes_it_special: "A zero-code multi-agent orchestration platform with visual workflow canvas and drag-and-drop agent orchestration; evolved from a 'Virtual Software Company' into a general-purpose platform for data visualization, 3D generation, game development, and deep research."
 ---
 
-- ChatDev is a virtual software company driven by a multitude of intelligent agents assuming different roles such as CEO, CPO, CTO, programmer, reviewer, tester, and art designer, each represented by unique icons. - These agents collaborate in a structured organizational environment, fulfilling the company's mission to "revolutionize the digital world through programming." They engage in functional seminars focusing on design, coding, testing, and documentation. - ChatDev aims to provide an accessible, modular, and extensible platform based on large language models, facilitating the study of collective intelligence in a controlled setting. - The framework allows for extensive customization, empowering users to tailor the software development process, define phases, and establish specific roles within the virtual company. - ChatDev is committed to open-source principles, encouraging contributions from the community and sharing advancements transparently.
+A zero-code multi-agent orchestration platform with visual workflow canvas and drag-and-drop agent orchestration; evolved from a 'Virtual Software Company' into a general-purpose platform for data visualization, 3D generation, game development, and deep research.

@@ -1,13 +1,13 @@
 ---
 name: "Muse Code"
 slug: "muse-code"
-layout: agent.njk
-category: agent
+layout: "agent.njk"
+category: "agent"
 maker: "Meta"
 license: "Proprietary"
 url: "https://github.com/meta-ai/muse-code"
 source_code_url: null
-source_available: "No (proprietary)"
+source_available: False
 platforms:
   - "CLI"
 first_released: "2026"
@@ -28,9 +28,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "abandoned"
 sources:
   - "web_search_multilingual"
+what_makes_it_special: "The referenced GitHub repo (github.com/meta-ai/muse-code) returns 404 — the repository does not exist or has been deleted. There are community repos related to 'Muse Code' but none officially under the Meta organization."
 ---
 
-Meta's terminal coding agent powered by Muse Spark model
+The referenced GitHub repo (github.com/meta-ai/muse-code) returns 404 — the repository does not exist or has been deleted. There are community repos related to 'Muse Code' but none officially under the Meta organization.
