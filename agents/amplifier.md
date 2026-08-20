@@ -1,6 +1,6 @@
 ---
 name: "Amplifier"
-slug: "amplifier-agent"
+slug: "amplifier"
 layout: "agent.njk"
 category: "agent"
 maker: "microsoft"
