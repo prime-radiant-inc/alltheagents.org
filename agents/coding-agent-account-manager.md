@@ -1,0 +1,21 @@
+---
+name: "coding_agent_account_manager"
+slug: "coding-agent-account-manager"
+maker: "Dicklesworthstone"
+license: "NOASSERTION"
+url: "https://github.com/Dicklesworthstone/coding_agent_account_manager"
+source_code_url: "https://github.com/Dicklesworthstone/coding_agent_account_manager"
+source_available: "Source-visible (no OSS license)"
+platforms:
+  - "CLI"
+first_released: "2025-12-17"
+current_release: "2026-08-17"
+stars: 156
+language: "Go"
+homepage: null
+sources:
+  - "github_topic3"
+layout: agent.njk
+---
+
+Sub-100ms auth switching for AI coding CLIs (Claude Code, Codex, Gemini): swap subscription accounts instantly when you hit usage limits

@@ -1,0 +1,23 @@
+---
+name: "Strands Agents SDK"
+slug: "strands-agents-sdk"
+maker: "strands-agents"
+license: "Apache-2.0"
+url: "https://github.com/strands-agents/sdk-python"
+source_code_url: "https://github.com/strands-agents/sdk-python"
+source_available: "Yes"
+platforms:
+  - "Web"
+first_released: "2025-05-14"
+current_release: "2026-08-19"
+stars: 6956
+language: "Python"
+homepage: "http://strandsagents.com/"
+sources:
+  - "jim"
+  - "jim"
+  - "caramaschi"
+layout: agent.njk
+---
+
+- [Strands Agents SDK](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code. [github](https://github.com/strands-agents/sdk-python)

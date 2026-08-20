@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <nav class="nav">
+    <a href="/" class="nav-logo">Harness Census</a>
+    <a href="/all/" class="nav-link">All Agents</a>
+    <a href="/by-license/" class="nav-link">By License</a>
+    <a href="/by-platform/" class="nav-link">By Platform</a>
+    <a href="/by-maker/" class="nav-link">By Maker</a>
+    <a href="/stars/" class="nav-link">By Stars</a>
+    <a href="/newest/" class="nav-link">Newest</a>
+  </nav>
+  <main class="container">
+    {{ content | safe }}
+  </main>
+  <footer class="footer">
+    <p><a href="https://github.com/prime-radiant-inc/harness-census">Harness Census</a> — {{ collections.agent | size }} agents catalogued.</p>
+  </footer>
+  {{ extraScripts | safe }}
+</body>
+</html>

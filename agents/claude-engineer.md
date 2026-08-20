@@ -1,0 +1,27 @@
+---
+name: "Claude Engineer"
+slug: "claude-engineer"
+maker: "Doriandarko"
+license: "Source Available"
+url: "https://github.com/Doriandarko/claude-engineer"
+source_code_url: "https://github.com/Doriandarko/claude-engineer"
+source_available: "Yes"
+platforms:
+  - "CLI"
+  - "Web"
+first_released: "2024-06-24"
+current_release: "2024-12-12"
+stars: null
+language: "Python"
+homepage: null
+sources:
+  - "jqueryscript"
+  - "jqueryscript"
+  - "brad"
+  - "jim"
+  - "jim"
+  - "ishandutta"
+layout: agent.njk
+---
+
+A Claude-based coding agent that manages files, executes commands, creates tools, and works through an interactive CLI or web interface.

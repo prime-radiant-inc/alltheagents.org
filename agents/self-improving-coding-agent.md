@@ -1,0 +1,20 @@
+---
+name: "self_improving_coding_agent"
+slug: "self-improving-coding-agent"
+maker: "MaximeRobeyns"
+license: "MIT"
+url: "https://github.com/MaximeRobeyns/self_improving_coding_agent"
+source_code_url: "https://github.com/MaximeRobeyns/self_improving_coding_agent"
+source_available: "Yes"
+platforms: []
+first_released: "2025-04-11"
+current_release: "2025-04-23"
+stars: 385
+language: "Python"
+homepage: null
+sources:
+  - "github_topic2"
+layout: agent.njk
+---
+
+A coding agent framework, that works on its own codebase.

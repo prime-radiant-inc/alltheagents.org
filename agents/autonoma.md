@@ -1,0 +1,21 @@
+---
+name: "Autonoma"
+slug: "autonoma"
+maker: "Sebasbo"
+license: "MIT"
+url: "https://github.com/Sebasbo/Autonoma"
+source_code_url: "https://github.com/Sebasbo/Autonoma"
+source_available: "Yes"
+platforms:
+  - "Autonomous"
+first_released: "2024-06-25"
+current_release: "2025-06-09"
+stars: 11
+language: "Python"
+homepage: null
+sources:
+  - "jim"
+layout: agent.njk
+---
+
+- [Autonoma](https://github.com/Sebasbo/Autonoma) - Autonoma: Agentic AI-powered framework for autonomous code modification, analysis, and testing, streamlining software development workflo…

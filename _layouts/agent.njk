@@ -1,0 +1,57 @@
+---
+layout: base.njk
+eleventyComputed:
+  title: "{{ name }} — Harness Census"
+---
+<article class="agent-page">
+  <header class="agent-header">
+    <h1>{{ name }}</h1>
+    <div class="agent-meta">
+      {% if maker and maker != "null" %}<span class="meta-item">Maker: <strong>{{ maker }}</strong></span>{% endif %}
+      {% if license and license != "null" %}<span class="meta-item">License: <strong>{{ license }}</strong></span>{% endif %}
+      {% if stars and stars != "null" %}<span class="meta-item">Stars: <strong>{{ stars | starFmt }}</strong></span>{% endif %}
+      {% if first_released and first_released != "null" %}<span class="meta-item">First released: <strong>{{ first_released | dateFmt }}</strong></span>{% endif %}
+    </div>
+  </header>
+
+  {% if platforms and platforms.length > 0 %}
+  <div class="agent-platforms">
+    {% for p in platforms %}
+    <span class="badge badge-platform">{{ p }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="agent-links">
+    {% if url and url != "null" %}<a href="{{ url }}" class="btn btn-primary" target="_blank" rel="noopener">Website →</a>{% endif %}
+    {% if source_code_url and source_code_url != "null" %}<a href="{{ source_code_url }}" class="btn btn-secondary" target="_blank" rel="noopener">Source Code →</a>{% endif %}
+    {% if homepage and homepage != "null" and homepage != "" %}<a href="{{ homepage }}" class="btn btn-secondary" target="_blank" rel="noopener">Homepage →</a>{% endif %}
+  </div>
+
+  <section class="agent-description">
+    <h2>About</h2>
+    {{ content | safe }}
+  </section>
+
+  <section class="agent-details">
+    <h2>Details</h2>
+    <table class="detail-table">
+      <tr><th>Name</th><td>{{ name }}</td></tr>
+      {% if maker and maker != "null" %}<tr><th>Maker</th><td>{{ maker }}</td></tr>{% endif %}
+      {% if license and license != "null" %}<tr><th>License</th><td>{{ license }}</td></tr>{% endif %}
+      <tr><th>Source Available</th><td>{{ source_available or "—" }}</td></tr>
+      {% if url and url != "null" %}<tr><th>URL</th><td><a href="{{ url }}">{{ url }}</a></td></tr>{% endif %}
+      {% if source_code_url and source_code_url != "null" %}<tr><th>Source Code</th><td><a href="{{ source_code_url }}">{{ source_code_url }}</a></td></tr>{% endif %}
+      {% if stars and stars != "null" %}<tr><th>GitHub Stars</th><td>{{ stars | starFmt }}</td></tr>{% endif %}
+      {% if language and language != "null" %}<tr><th>Language</th><td>{{ language }}</td></tr>{% endif %}
+      {% if first_released and first_released != "null" %}<tr><th>First Released</th><td>{{ first_released }}</td></tr>{% endif %}
+      {% if current_release and current_release != "null" %}<tr><th>Current Release</th><td>{{ current_release }}</td></tr>{% endif %}
+      {% if platforms and platforms.length > 0 %}
+      <tr><th>Platforms</th><td>{{ platforms | join(", ") }}</td></tr>
+      {% endif %}
+      {% if sources and sources.length > 0 %}
+      <tr><th>Discovered via</th><td>{{ sources | join(", ") }}</td></tr>
+      {% endif %}
+    </table>
+  </section>
+</article>

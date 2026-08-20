@@ -1,0 +1,24 @@
+---
+layout: base.njk
+eleventyComputed:
+  title: "By Stars — Harness Census"
+---
+<h1>Coding Agents Ranked by Stars</h1>
+<table class="agent-table">
+  <thead>
+    <tr><th>Rank</th><th>Name</th><th>Maker</th><th>License</th><th>Stars</th><th>Released</th></tr>
+  </thead>
+  <tbody>
+    {% set sorted = collections.agent | sortByStars %}
+    {% for agent in sorted %}
+    <tr>
+      <td>{{ loop.index }}</td>
+      <td><a href="/agents/{{ agent.data.slug }}/">{{ agent.data.name }}</a></td>
+      <td>{{ agent.data.maker or "—" }}</td>
+      <td>{{ agent.data.license or "—" }}</td>
+      <td>{{ agent.data.stars | starFmt }}</td>
+      <td>{{ agent.data.first_released | dateFmt }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

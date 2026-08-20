@@ -1,0 +1,42 @@
+---
+layout: base.njk
+eleventyComputed:
+  title: "All Agents — Harness Census"
+pagination:
+  data: collections.agent
+  size: 100
+  alias: agents
+---
+<h1>All Coding Agent Harnesses</h1>
+<p>{{ collections.agent | size }} agents total. Sorted alphabetically.</p>
+
+<table class="agent-table">
+  <thead>
+    <tr><th>Name</th><th>Maker</th><th>License</th><th>Platform</th><th>Stars</th><th>Released</th></tr>
+  </thead>
+  <tbody>
+    {% set sorted = agents | sortByName %}
+    {% for agent in sorted %}
+    <tr>
+      <td><a href="/agents/{{ agent.data.slug }}/">{{ agent.data.name }}</a></td>
+      <td>{{ agent.data.maker or "—" }}</td>
+      <td>{{ agent.data.license or "—" }}</td>
+      <td>{{ agent.data.platforms | join(", ") }}</td>
+      <td>{{ agent.data.stars | starFmt }}</td>
+      <td>{{ agent.data.first_released | dateFmt }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% if pagination.pages.length > 1 %}
+<div class="pagination">
+  {% for page in pagination.pages %}
+    {% if page.url == pagination.href.current %}
+    <span class="page-current">{{ loop.index }}</span>
+    {% else %}
+    <a href="{{ page.url }}">{{ loop.index }}</a>
+    {% endif %}
+  {% endfor %}
+</div>
+{% endif %}

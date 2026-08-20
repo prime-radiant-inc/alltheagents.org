@@ -1,0 +1,21 @@
+---
+name: "Manus"
+slug: "manus"
+maker: "Manus AI"
+license: "Proprietary"
+url: "https://manus.im"
+source_code_url: null
+source_available: "No (proprietary)"
+platforms:
+  - "Web"
+first_released: "2025"
+current_release: "2026"
+stars: null
+language: null
+homepage: null
+sources:
+  - "web_search_multilingual"
+layout: agent.njk
+---
+
+General AI agent that can write and execute code autonomously

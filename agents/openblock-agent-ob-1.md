@@ -1,0 +1,20 @@
+---
+name: "OpenBlock Agent (OB-1)"
+slug: "openblock-agent-ob-1"
+maker: null
+license: null
+url: "https://www.openblocklabs.com/"
+source_code_url: null
+source_available: "No (proprietary)"
+platforms: []
+first_released: null
+current_release: null
+stars: null
+language: null
+homepage: null
+sources:
+  - "zhouhao"
+layout: agent.njk
+---
+
+- **[OpenBlock Agent (OB-1)](https://www.openblocklabs.com/)** — **Year:** 2026 · **Company:** OpenBlock Labs · **Target:** Agent framework, skill and tool, environment and context · [Waitlist](https://waitlist.openblocklabs.com/)

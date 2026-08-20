@@ -1,0 +1,32 @@
+---
+layout: base.njk
+eleventyComputed:
+  title: "By License — Harness Census"
+---
+<h1>Coding Agents by License</h1>
+{% set groups = collections.agent | groupBy("license") %}
+{% set allKeys = groups | keys %}
+{% for key in allKeys %}
+  {% set agents = groups[key] %}
+  {% if agents and agents.length > 0 %}
+  <section class="license-group">
+    <h2>{{ key }} ({{ agents.length }})</h2>
+    <table class="agent-table">
+      <thead>
+        <tr><th>Name</th><th>Maker</th><th>Stars</th><th>Platform</th></tr>
+      </thead>
+      <tbody>
+        {% set sorted = agents | sortByStars %}
+        {% for agent in sorted %}
+        <tr>
+          <td><a href="/agents/{{ agent.data.slug }}/">{{ agent.data.name }}</a></td>
+          <td>{{ agent.data.maker or "—" }}</td>
+          <td>{{ agent.data.stars | starFmt }}</td>
+          <td>{{ agent.data.platforms | join(", ") }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </section>
+  {% endif %}
+{% endfor %}

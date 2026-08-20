@@ -1,0 +1,21 @@
+---
+name: "Public-Agent-Framwork"
+slug: "public-agent-framwork"
+maker: "aurasgit"
+license: "Apache-2.0"
+url: "https://github.com/aurasgit/public-agent-framwork"
+source_code_url: "https://github.com/aurasgit/public-agent-framwork"
+source_available: "Yes"
+platforms:
+  - "Autonomous"
+first_released: "2024-12-30"
+current_release: "2024-12-31"
+stars: null
+language: "TypeScript"
+homepage: null
+sources:
+  - "jim"
+layout: agent.njk
+---
+
+- [Public-Agent-Framwork](https://github.com/aurasgit/public-agent-framwork) - AI agent that independently creates, deploys, and optimizes autonomous projects.

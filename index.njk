@@ -1,0 +1,93 @@
+---
+layout: base.njk
+eleventyComputed:
+  title: "Harness Census — {{ collections.agent | size }} Coding Agent Harnesses"
+---
+<section class="hero">
+  <h1>Coding Agent Harness Census</h1>
+  <p class="hero-subtitle">The maintained catalog of every coding agent harness.</p>
+  <p class="hero-count"><strong>{{ collections.agent | size }}</strong> agents catalogued and counting.</p>
+</section>
+
+<section class="search-section">
+  <input type="text" id="search" placeholder="Search agents..." class="search-input">
+  <div id="search-results" class="search-results"></div>
+</section>
+
+<section class="featured">
+  <h2>Top Agents by Stars</h2>
+  <table class="agent-table">
+    <thead>
+      <tr><th>Name</th><th>Maker</th><th>License</th><th>Platform</th><th>Stars</th><th>First Released</th></tr>
+    </thead>
+    <tbody id="agent-list">
+      {% set sorted = collections.agent | sortByStars %}
+      {% for agent in sorted.slice(0, 50) %}
+      <tr>
+        <td><a href="/agents/{{ agent.data.slug }}/">{{ agent.data.name }}</a></td>
+        <td>{{ agent.data.maker or "—" }}</td>
+        <td>{{ agent.data.license or "—" }}</td>
+        <td>{{ agent.data.platforms | join(", ") }}</td>
+        <td>{{ agent.data.stars | starFmt }}</td>
+        <td>{{ agent.data.first_released | dateFmt }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <p class="see-all"><a href="/all/">See all {{ collections.agent | size }} agents →</a></p>
+</section>
+
+<section class="stats">
+  <div class="stat-card">
+    <h3>{{ collections.agent | size }}</h3>
+    <p>Total Agents</p>
+  </div>
+  <div class="stat-card">
+    <h3>{{ collections.agent | isOpenSource | size }}</h3>
+    <p>Open Source</p>
+  </div>
+  <div class="stat-card">
+    <h3>{{ collections.agent | isProprietary | size }}</h3>
+    <p>Proprietary</p>
+  </div>
+  <div class="stat-card">
+    <h3>{{ collections.agent | groupBy("maker") | size }}</h3>
+    <p>Unique Makers</p>
+  </div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+<script>
+fetch('/agents.json')
+  .then(r => r.json())
+  .then(data => {
+    const fuse = new Fuse(data, {
+      keys: ['name', 'maker', 'description', 'license', 'language'],
+      threshold: 0.3,
+      includeScore: true,
+    });
+    
+    const input = document.getElementById('search');
+    const results = document.getElementById('search-results');
+    const list = document.getElementById('agent-list');
+    
+    input.addEventListener('input', (e) => {
+      const query = e.target.value.trim();
+      if (!query) {
+        results.innerHTML = '';
+        list.style.display = '';
+        return;
+      }
+      
+      const matches = fuse.search(query).slice(0, 20);
+      list.style.display = 'none';
+      results.innerHTML = matches.map(m => `
+        <div class="search-result">
+          <a href="/agents/${m.item.slug}/"><strong>${m.item.name}</strong></a>
+          <span class="result-meta">${m.item.maker || ''} · ${m.item.license || ''} · ${m.item.stars ? (m.item.stars >= 1000 ? (m.item.stars/1000).toFixed(1)+'k' : m.item.stars) : ''}★</span>
+          <p class="result-desc">${m.item.description || ''}</p>
+        </div>
+      `).join('');
+    });
+  });
+</script>

@@ -1,0 +1,24 @@
+---
+layout: base.njk
+eleventyComputed:
+  title: "Newest Agents — Harness Census"
+---
+<h1>Newest Coding Agent Harnesses</h1>
+<p>Sorted by first release date, newest first.</p>
+<table class="agent-table">
+  <thead>
+    <tr><th>Name</th><th>Maker</th><th>License</th><th>First Released</th><th>Stars</th></tr>
+  </thead>
+  <tbody>
+    {% set sorted = collections.agent | sortByDate %}
+    {% for agent in sorted %}
+    <tr>
+      <td><a href="/agents/{{ agent.data.slug }}/">{{ agent.data.name }}</a></td>
+      <td>{{ agent.data.maker or "—" }}</td>
+      <td>{{ agent.data.license or "—" }}</td>
+      <td>{{ agent.data.first_released | dateFmt }}</td>
+      <td>{{ agent.data.stars | starFmt }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

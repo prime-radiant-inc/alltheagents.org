@@ -1,0 +1,20 @@
+---
+name: "Graft"
+slug: "graft"
+maker: "NanoNets"
+license: "MIT"
+url: "https://github.com/NanoNets/Graft"
+source_code_url: "https://github.com/NanoNets/Graft"
+source_available: "Yes"
+platforms: []
+first_released: "2026-07-03"
+current_release: "2026-08-19"
+stars: 3773
+language: "TypeScript"
+homepage: "https://graft.nanonets.ai"
+sources:
+  - "github_topic2"
+layout: agent.njk
+---
+
+Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.

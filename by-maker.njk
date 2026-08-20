@@ -1,0 +1,21 @@
+---
+layout: base.njk
+eleventyComputed:
+  title: "By Maker — Harness Census"
+---
+<h1>Coding Agents by Maker</h1>
+{% set groups = collections.agent | groupBy("maker") %}
+{% set allKeys = groups | keys %}
+{% for key in allKeys %}
+  {% set agents = groups[key] %}
+  {% if agents and agents.length > 0 %}
+  <section class="maker-group">
+    <h2>{{ key }} ({{ agents.length }})</h2>
+    <ul class="agent-list">
+      {% for agent in agents %}
+      <li><a href="/agents/{{ agent.data.slug }}/">{{ agent.data.name }}</a> — {{ agent.data.license or "Unknown" }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+{% endfor %}

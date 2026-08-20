@@ -1,0 +1,23 @@
+---
+name: "Grok Build"
+slug: "grok-build"
+maker: "xai-org"
+license: "Apache-2.0"
+url: "https://github.com/xai-org/grok-build"
+source_code_url: "https://github.com/xai-org/grok-build"
+source_available: "Yes"
+platforms:
+  - "CLI"
+first_released: "2026-07-14"
+current_release: "2026-08-19"
+stars: null
+language: "Rust"
+homepage: null
+sources:
+  - "jqueryscript"
+  - "jqueryscript"
+  - "brad"
+layout: agent.njk
+---
+
+A terminal coding agent from xAI with a full-screen interface, repository tools, and an extensible execution harness.

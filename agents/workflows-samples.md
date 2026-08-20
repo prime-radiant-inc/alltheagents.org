@@ -1,0 +1,21 @@
+---
+name: "Workflows-Samples"
+slug: "workflows-samples"
+maker: "GoogleCloudPlatform"
+license: "Apache-2.0"
+url: "https://github.com/GoogleCloudPlatform/workflows-samples"
+source_code_url: "https://github.com/GoogleCloudPlatform/workflows-samples"
+source_available: "Yes"
+platforms:
+  - "Web"
+first_released: "2020-11-11"
+current_release: "2026-05-05"
+stars: 88
+language: "Shell"
+homepage: "https://cloud.google.com/workflows"
+sources:
+  - "jim"
+layout: agent.njk
+---
+
+- [Workflows-Samples](https://github.com/GoogleCloudPlatform/workflows-samples) - This repository contains samples for Cloud Workflows.
