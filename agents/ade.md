@@ -2,6 +2,7 @@
 name: "ADE"
 slug: "ade"
 layout: agent.njk
+category: multiplexer
 maker: "arul28"
 license: "AGPL-3.0"
 url: "https://ade-app.dev"

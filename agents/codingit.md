@@ -2,6 +2,7 @@
 name: "CodingIT"
 slug: "codingit"
 layout: agent.njk
+category: agent
 maker: "Gerome-Elassaad"
 license: "Apache-2.0"
 url: "https://github.com/Gerome-Elassaad/CodingIT"

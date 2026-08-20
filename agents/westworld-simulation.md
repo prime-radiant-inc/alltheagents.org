@@ -2,6 +2,7 @@
 name: "“Westworld” simulation"
 slug: "westworld-simulation"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://theolvs.github.io/westworld/"

@@ -2,6 +2,7 @@
 name: "Firebase Studio"
 slug: "firebase-studio"
 layout: agent.njk
+category: agent
 maker: "Google"
 license: "Proprietary"
 url: "https://firebase.google.com/products/studio"

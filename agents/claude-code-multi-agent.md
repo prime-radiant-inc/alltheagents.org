@@ -2,6 +2,7 @@
 name: "Claude-Code-Multi-Agent"
 slug: "claude-code-multi-agent"
 layout: agent.njk
+category: agent
 maker: "Prorise-cool"
 license: null
 url: "https://github.com/Prorise-cool/Claude-Code-Multi-Agent"

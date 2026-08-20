@@ -2,6 +2,7 @@
 name: "Java-Ai-Sbus-Test"
 slug: "java-ai-sbus-test"
 layout: agent.njk
+category: agent
 maker: "abhikt48"
 license: null
 url: "https://github.com/abhikt48/java-ai-sbus-test"

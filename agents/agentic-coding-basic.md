@@ -2,6 +2,7 @@
 name: "agentic-coding-basic"
 slug: "agentic-coding-basic"
 layout: agent.njk
+category: agent
 maker: "thixpin"
 license: "MIT"
 url: "https://github.com/thixpin/agentic-coding-basic"

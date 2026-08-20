@@ -2,6 +2,7 @@
 name: "AI-Coding-Style-Guides"
 slug: "ai-coding-style-guides"
 layout: agent.njk
+category: agent
 maker: "lidangzzz"
 license: "Apache-2.0"
 url: "https://github.com/lidangzzz/AI-Coding-Style-Guides"

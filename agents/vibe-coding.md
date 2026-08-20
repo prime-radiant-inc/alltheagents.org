@@ -2,6 +2,7 @@
 name: "vibe-coding"
 slug: "vibe-coding"
 layout: agent.njk
+category: agent
 maker: "thelinkapi"
 license: null
 url: "https://github.com/thelinkapi/vibe-coding"

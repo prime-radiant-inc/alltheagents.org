@@ -2,6 +2,7 @@
 name: "ralph-wiggum"
 slug: "ralph-wiggum"
 layout: agent.njk
+category: agent
 maker: "fstandhartinger"
 license: "MIT"
 url: "https://github.com/fstandhartinger/ralph-wiggum"

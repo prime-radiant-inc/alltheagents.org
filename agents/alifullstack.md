@@ -2,6 +2,7 @@
 name: "AliFullStack"
 slug: "alifullstack"
 layout: agent.njk
+category: agent
 maker: "SFARPak"
 license: "Apache-2.0"
 url: "https://github.com/SFARPak/AliFullStack"

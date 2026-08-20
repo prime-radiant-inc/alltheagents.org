@@ -2,6 +2,7 @@
 name: "Orca"
 slug: "orca-orchestrator"
 layout: agent.njk
+category: agent
 maker: "junkyard22"
 license: "NOASSERTION"
 url: "https://github.com/junkyard22/Orca"

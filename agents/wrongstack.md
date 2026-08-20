@@ -2,6 +2,7 @@
 name: "WrongStack"
 slug: "wrongstack"
 layout: agent.njk
+category: agent
 maker: "WrongStack"
 license: "MIT"
 url: "https://github.com/WrongStack/WrongStack"

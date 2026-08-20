@@ -2,6 +2,7 @@
 name: "The-Creator-AI"
 slug: "the-creator-ai"
 layout: agent.njk
+category: agent
 maker: "The-Creator-AI"
 license: "MIT"
 url: "https://github.com/The-Creator-AI/The-Creator-AI"

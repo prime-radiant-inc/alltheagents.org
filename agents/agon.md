@@ -2,6 +2,7 @@
 name: "Agon"
 slug: "agon"
 layout: agent.njk
+category: agent
 maker: "AutoResearch-Factory"
 license: "MIT"
 url: "https://github.com/AutoResearch-Factory/Agon"

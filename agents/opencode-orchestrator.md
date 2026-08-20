@@ -2,6 +2,7 @@
 name: "opencode-orchestrator"
 slug: "opencode-orchestrator"
 layout: agent.njk
+category: agent
 maker: "agnusdei1207"
 license: "MIT"
 url: "https://github.com/agnusdei1207/opencode-orchestrator"

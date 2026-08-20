@@ -2,6 +2,7 @@
 name: "DeepSite"
 slug: "deepsite"
 layout: agent.njk
+category: agent
 maker: "DeepSite"
 license: "Proprietary"
 url: "https://deepsite.dev"

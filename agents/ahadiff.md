@@ -2,6 +2,7 @@
 name: "ahadiff"
 slug: "ahadiff"
 layout: agent.njk
+category: agent
 maker: "AGI-is-going-to-arrive"
 license: "MIT"
 url: "https://github.com/AGI-is-going-to-arrive/ahadiff"

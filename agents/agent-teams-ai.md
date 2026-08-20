@@ -2,6 +2,7 @@
 name: "Agent Teams AI"
 slug: "agent-teams-ai"
 layout: agent.njk
+category: multiplexer
 maker: "777genius"
 license: "AGPL-3.0"
 url: "https://github.com/777genius/agent-teams-ai"

@@ -2,6 +2,7 @@
 name: "codai"
 slug: "codai"
 layout: agent.njk
+category: agent
 maker: "meysamhadeli"
 license: "Apache-2.0"
 url: "https://github.com/meysamhadeli/codai"

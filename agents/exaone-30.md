@@ -2,6 +2,7 @@
 name: "Exaone-3.0"
 slug: "exaone-30"
 layout: agent.njk
+category: agent
 maker: "LG-AI-EXAONE"
 license: "NOASSERTION"
 url: "https://github.com/LG-AI-EXAONE/EXAONE-3.0"

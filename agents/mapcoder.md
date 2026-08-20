@@ -2,6 +2,7 @@
 name: "MapCoder"
 slug: "mapcoder"
 layout: agent.njk
+category: agent
 maker: "Md-Ashraful-Pramanik"
 license: "MIT"
 url: "https://github.com/Md-Ashraful-Pramanik/MapCoder"

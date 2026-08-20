@@ -2,6 +2,7 @@
 name: "OpenCode_UI"
 slug: "opencode-ui"
 layout: agent.njk
+category: agent
 maker: "LaiZhou"
 license: "MIT"
 url: "https://github.com/LaiZhou/OpenCode_UI"

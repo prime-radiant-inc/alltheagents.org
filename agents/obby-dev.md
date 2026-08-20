@@ -2,6 +2,7 @@
 name: "obby-dev"
 slug: "obby-dev"
 layout: agent.njk
+category: agent
 maker: "obbylabs"
 license: "MIT"
 url: "https://github.com/obbylabs/obby-dev"

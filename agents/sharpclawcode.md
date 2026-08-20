@@ -2,6 +2,7 @@
 name: "SharpClawCode"
 slug: "sharpclawcode"
 layout: agent.njk
+category: agent
 maker: "Independent"
 license: "MIT"
 url: "https://github.com/sharpclaw/sharpclawcode"

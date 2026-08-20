@@ -2,6 +2,7 @@
 name: "GitLab Duo"
 slug: "gitlab-duo"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://about.gitlab.com/gitlab-duo/"

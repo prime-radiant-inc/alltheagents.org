@@ -2,6 +2,7 @@
 name: "30-Agents-Every-AI-Engineer-Must-Build"
 slug: "30-agents-every-ai-engineer-must-build"
 layout: agent.njk
+category: agent
 maker: "PacktPublishing"
 license: "MIT"
 url: "https://github.com/PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build"

@@ -2,6 +2,7 @@
 name: "Droid"
 slug: "droid"
 layout: agent.njk
+category: agent
 maker: "Factory-AI"
 license: null
 url: "https://github.com/Factory-AI/factory"

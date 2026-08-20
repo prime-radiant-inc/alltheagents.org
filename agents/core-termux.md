@@ -2,6 +2,7 @@
 name: "core-termux"
 slug: "core-termux"
 layout: agent.njk
+category: agent
 maker: "DevCoreXOfficial"
 license: "MIT"
 url: "https://github.com/DevCoreXOfficial/core-termux"

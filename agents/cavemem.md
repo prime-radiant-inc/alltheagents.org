@@ -2,6 +2,7 @@
 name: "cavemem"
 slug: "cavemem"
 layout: agent.njk
+category: agent
 maker: "JuliusBrussee"
 license: "MIT"
 url: "https://github.com/JuliusBrussee/cavemem"

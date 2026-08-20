@@ -2,6 +2,7 @@
 name: "Tabnine"
 slug: "tabnine"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://tabnine.com"

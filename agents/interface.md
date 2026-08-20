@@ -2,6 +2,7 @@
 name: "interface"
 slug: "interface"
 layout: agent.njk
+category: agent
 maker: "arctic-cli"
 license: "MIT"
 url: "https://github.com/arctic-cli/interface"

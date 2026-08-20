@@ -2,6 +2,7 @@
 name: "MobileVC"
 slug: "mobilevc"
 layout: agent.njk
+category: multiplexer
 maker: "JayCRL"
 license: "MIT"
 url: "https://github.com/JayCRL/MobileVC"

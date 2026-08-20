@@ -2,6 +2,7 @@
 name: "Factory"
 slug: "factory"
 layout: agent.njk
+category: agent
 maker: "Factory AI"
 license: "Proprietary"
 url: "https://www.factory.ai"

@@ -2,6 +2,7 @@
 name: "ricochet"
 slug: "ricochet"
 layout: agent.njk
+category: agent
 maker: "Grik-ai"
 license: "Apache-2.0"
 url: "https://github.com/Grik-ai/ricochet"

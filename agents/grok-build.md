@@ -2,6 +2,7 @@
 name: "Grok Build"
 slug: "grok-build"
 layout: agent.njk
+category: agent
 maker: "xai-org"
 license: "Apache-2.0"
 url: "https://github.com/xai-org/grok-build"

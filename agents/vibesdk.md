@@ -2,6 +2,7 @@
 name: "vibesdk"
 slug: "vibesdk"
 layout: agent.njk
+category: agent
 maker: "cloudflare"
 license: "MIT"
 url: "https://github.com/cloudflare/vibesdk"

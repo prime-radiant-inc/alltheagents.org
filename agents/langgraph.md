@@ -2,6 +2,7 @@
 name: "LangGraph"
 slug: "langgraph"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://langchain-ai.github.io/langgraph/"

@@ -2,6 +2,7 @@
 name: "pi-gui"
 slug: "pi-gui"
 layout: agent.njk
+category: agent
 maker: "minghinmatthewlam"
 license: "MIT"
 url: "https://github.com/minghinmatthewlam/pi-gui"

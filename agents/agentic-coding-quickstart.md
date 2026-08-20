@@ -2,6 +2,7 @@
 name: "agentic-coding-quickstart"
 slug: "agentic-coding-quickstart"
 layout: agent.njk
+category: agent
 maker: "GSA-TTS"
 license: "CC0-1.0"
 url: "https://github.com/GSA-TTS/agentic-coding-quickstart"

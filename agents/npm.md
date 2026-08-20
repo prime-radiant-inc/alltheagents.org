@@ -2,6 +2,7 @@
 name: "npm"
 slug: "npm"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.npmjs.com/package/context-engine-ai"

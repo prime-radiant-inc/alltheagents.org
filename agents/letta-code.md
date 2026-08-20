@@ -2,6 +2,7 @@
 name: "Letta Code"
 slug: "letta-code"
 layout: agent.njk
+category: agent
 maker: "letta-ai"
 license: "Apache-2.0"
 url: "https://github.com/letta-ai/letta-code"

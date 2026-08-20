@@ -2,6 +2,7 @@
 name: "coding_agent_account_manager"
 slug: "coding-agent-account-manager"
 layout: agent.njk
+category: agent
 maker: "Dicklesworthstone"
 license: "NOASSERTION"
 url: "https://github.com/Dicklesworthstone/coding_agent_account_manager"

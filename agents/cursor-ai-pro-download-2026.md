@@ -2,6 +2,7 @@
 name: "Cursor-AI-Pro-Download-2026"
 slug: "cursor-ai-pro-download-2026"
 layout: agent.njk
+category: agent
 maker: "hexmammamia74"
 license: "NOASSERTION"
 url: "https://github.com/hexmammamia74/Cursor-AI-Pro-Download-2026"

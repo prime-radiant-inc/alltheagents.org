@@ -2,6 +2,7 @@
 name: "Magic"
 slug: "magic"
 layout: agent.njk
+category: agent
 maker: "Magic AI"
 license: "Proprietary"
 url: "https://magic.dev"

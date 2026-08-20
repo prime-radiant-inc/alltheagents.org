@@ -2,6 +2,7 @@
 name: "squarebox"
 slug: "squarebox"
 layout: agent.njk
+category: agent
 maker: "SquareWaveSystems"
 license: "MIT"
 url: "https://github.com/SquareWaveSystems/squarebox"

@@ -2,6 +2,7 @@
 name: "AgentPlane"
 slug: "agentplane"
 layout: agent.njk
+category: multiplexer
 maker: "basilisk-labs"
 license: "MIT"
 url: "https://github.com/basilisk-labs/agentplane"

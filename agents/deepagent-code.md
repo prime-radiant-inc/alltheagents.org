@@ -2,6 +2,7 @@
 name: "deepagent-code"
 slug: "deepagent-code"
 layout: agent.njk
+category: agent
 maker: "deepagent-ltd"
 license: "NOASSERTION"
 url: "https://github.com/deepagent-ltd/deepagent-code"

@@ -2,6 +2,7 @@
 name: "pi-agent-desktop"
 slug: "pi-agent-desktop"
 layout: agent.njk
+category: agent
 maker: "abcwyc"
 license: "MIT"
 url: "https://github.com/abcwyc/pi-agent-desktop"

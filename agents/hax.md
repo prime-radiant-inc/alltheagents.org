@@ -2,6 +2,7 @@
 name: "hax"
 slug: "hax"
 layout: agent.njk
+category: agent
 maker: "OleksandrChekhovskyi"
 license: "MIT"
 url: "https://github.com/OleksandrChekhovskyi/hax"

@@ -2,6 +2,7 @@
 name: "Bubble"
 slug: "bubble"
 layout: agent.njk
+category: agent
 maker: "Bubble"
 license: "Proprietary"
 url: "https://bubble.io"

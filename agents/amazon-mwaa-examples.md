@@ -2,6 +2,7 @@
 name: "Amazon-Mwaa-Examples"
 slug: "amazon-mwaa-examples"
 layout: agent.njk
+category: agent
 maker: "aws-samples"
 license: "MIT-0"
 url: "https://github.com/aws-samples/amazon-mwaa-examples"

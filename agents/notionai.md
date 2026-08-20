@@ -2,6 +2,7 @@
 name: "NotionAI"
 slug: "notionai"
 layout: agent.njk
+category: agent
 maker: "Notion"
 license: "Proprietary"
 url: "https://notion.so/ai"

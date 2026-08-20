@@ -2,6 +2,7 @@
 name: "GPT Engineer"
 slug: "gpt-engineer"
 layout: agent.njk
+category: agent
 maker: "AntonOsika"
 license: "MIT"
 url: "https://github.com/AntonOsika/gpt-engineer"

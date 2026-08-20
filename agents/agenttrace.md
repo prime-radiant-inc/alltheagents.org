@@ -2,6 +2,7 @@
 name: "agenttrace"
 slug: "agenttrace"
 layout: agent.njk
+category: agent
 maker: "luoyuctl"
 license: "MIT"
 url: "https://github.com/luoyuctl/agenttrace"

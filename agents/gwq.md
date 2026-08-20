@@ -2,6 +2,7 @@
 name: "gwq"
 slug: "gwq"
 layout: agent.njk
+category: agent
 maker: "d-kuro"
 license: "Apache-2.0"
 url: "https://github.com/d-kuro/gwq"

@@ -2,6 +2,7 @@
 name: "vs-code-agents"
 slug: "vs-code-agents"
 layout: agent.njk
+category: agent
 maker: "groupzer0"
 license: "MIT"
 url: "https://github.com/groupzer0/vs-code-agents"

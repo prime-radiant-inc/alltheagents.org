@@ -2,6 +2,7 @@
 name: "druk"
 slug: "druk"
 layout: agent.njk
+category: agent
 maker: "letstri"
 license: "MIT"
 url: "https://github.com/letstri/druk"

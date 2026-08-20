@@ -2,6 +2,7 @@
 name: "Llms-Learning"
 slug: "llms-learning"
 layout: agent.njk
+category: agent
 maker: "Strivin0311"
 license: null
 url: "https://github.com/Strivin0311/llms-learning"

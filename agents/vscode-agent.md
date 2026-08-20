@@ -2,6 +2,7 @@
 name: "VSCode Agent"
 slug: "vscode-agent"
 layout: agent.njk
+category: agent
 maker: "Microsoft"
 license: "Proprietary"
 url: "https://code.visualstudio.com/agent"

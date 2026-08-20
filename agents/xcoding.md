@@ -2,6 +2,7 @@
 name: "XCoding"
 slug: "xcoding"
 layout: agent.njk
+category: agent
 maker: "XCodingLab"
 license: "MIT"
 url: "https://github.com/XCodingLab/XCoding"

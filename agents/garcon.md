@@ -2,6 +2,7 @@
 name: "Garcon"
 slug: "garcon"
 layout: agent.njk
+category: multiplexer
 maker: "cfal"
 license: "NOASSERTION"
 url: "https://github.com/cfal/garcon"

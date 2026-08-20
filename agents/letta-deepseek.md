@@ -2,6 +2,7 @@
 name: "Letta-Deepseek"
 slug: "letta-deepseek"
 layout: agent.njk
+category: agent
 maker: "mahawi1992"
 license: null
 url: "https://github.com/mahawi1992/letta-deepseek"

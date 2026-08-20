@@ -2,6 +2,7 @@
 name: "iFlyCode"
 slug: "iflycode"
 layout: agent.njk
+category: agent
 maker: "iFlytek"
 license: "Proprietary"
 url: "https://iflycode.com"

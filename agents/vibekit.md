@@ -2,6 +2,7 @@
 name: "VibeKit"
 slug: "vibekit"
 layout: agent.njk
+category: agent
 maker: "superagent-ai"
 license: "MIT"
 url: "https://www.vibekit.sh"

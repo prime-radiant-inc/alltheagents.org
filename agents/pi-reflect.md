@@ -2,6 +2,7 @@
 name: "pi-reflect"
 slug: "pi-reflect"
 layout: agent.njk
+category: agent
 maker: "jo-inc"
 license: "MIT"
 url: "https://github.com/jo-inc/pi-reflect"

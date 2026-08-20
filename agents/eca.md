@@ -2,6 +2,7 @@
 name: "eca"
 slug: "eca"
 layout: agent.njk
+category: agent
 maker: "editor-code-assistant"
 license: "Apache-2.0"
 url: "https://github.com/editor-code-assistant/eca"

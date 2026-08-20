@@ -2,6 +2,7 @@
 name: "Dyad"
 slug: "dyad"
 layout: agent.njk
+category: agent
 maker: "dyad-sh"
 license: "Source Available"
 url: "https://github.com/dyad-sh/dyad"

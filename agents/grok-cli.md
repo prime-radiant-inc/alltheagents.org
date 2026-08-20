@@ -2,6 +2,7 @@
 name: "Grok CLI"
 slug: "grok-cli"
 layout: agent.njk
+category: agent
 maker: "superagent-ai"
 license: "MIT"
 url: "https://github.com/superagent-ai/grok-cli"

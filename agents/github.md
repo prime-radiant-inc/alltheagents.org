@@ -2,6 +2,7 @@
 name: "github"
 slug: "github"
 layout: agent.njk
+category: agent
 maker: "axflow"
 license: "MIT"
 url: "https://github.com/axflow/axflow"

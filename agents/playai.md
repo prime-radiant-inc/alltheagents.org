@@ -2,6 +2,7 @@
 name: "PlayAI"
 slug: "playai"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://play.ai/"

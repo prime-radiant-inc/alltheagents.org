@@ -2,6 +2,7 @@
 name: "tbench-agentic-data-pipeline"
 slug: "tbench-agentic-data-pipeline"
 layout: agent.njk
+category: agent
 maker: "Danau5tin"
 license: null
 url: "https://github.com/Danau5tin/tbench-agentic-data-pipeline"

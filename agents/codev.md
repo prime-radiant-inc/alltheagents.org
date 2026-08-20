@@ -2,6 +2,7 @@
 name: "Codev"
 slug: "codev"
 layout: agent.njk
+category: agent
 maker: "Codev"
 license: "Proprietary"
 url: "https://codev.ai"

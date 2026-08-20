@@ -2,6 +2,7 @@
 name: "Rork"
 slug: "rork"
 layout: agent.njk
+category: agent
 maker: "Rork"
 license: "Proprietary"
 url: "https://www.rork.app"

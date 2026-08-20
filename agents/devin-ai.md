@@ -2,6 +2,7 @@
 name: "Devin AI"
 slug: "devin-ai"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://devin.ai/"

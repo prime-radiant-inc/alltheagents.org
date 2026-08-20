@@ -2,6 +2,7 @@
 name: "Coding-Tutor"
 slug: "coding-tutor"
 layout: agent.njk
+category: agent
 maker: "iwangjian"
 license: "Apache-2.0"
 url: "https://github.com/iwangjian/Coding-Tutor"

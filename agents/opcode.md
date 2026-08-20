@@ -2,6 +2,7 @@
 name: "opcode"
 slug: "opcode"
 layout: agent.njk
+category: multiplexer
 maker: "winfunc"
 license: "AGPL-3.0"
 url: "https://github.com/winfunc/opcode"

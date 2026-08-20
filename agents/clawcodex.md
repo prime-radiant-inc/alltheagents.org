@@ -2,6 +2,7 @@
 name: "clawcodex"
 slug: "clawcodex"
 layout: agent.njk
+category: agent
 maker: "agentforce314"
 license: "MIT"
 url: "https://github.com/agentforce314/clawcodex"

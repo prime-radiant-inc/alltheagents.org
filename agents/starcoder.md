@@ -2,6 +2,7 @@
 name: "StarCoder"
 slug: "starcoder"
 layout: agent.njk
+category: agent
 maker: "BigCode"
 license: "MIT"
 url: "https://huggingface.co/bigcode/starcoder"

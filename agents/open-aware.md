@@ -2,6 +2,7 @@
 name: "open-aware"
 slug: "open-aware"
 layout: agent.njk
+category: agent
 maker: "qodo-ai"
 license: "MIT"
 url: "https://github.com/qodo-ai/open-aware"

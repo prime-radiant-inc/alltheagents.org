@@ -2,6 +2,7 @@
 name: "Archon"
 slug: "archon"
 layout: agent.njk
+category: agent
 maker: "coleam00"
 license: "MIT"
 url: "https://github.com/coleam00/Archon"

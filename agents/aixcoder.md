@@ -2,6 +2,7 @@
 name: "aiXcoder"
 slug: "aixcoder"
 layout: agent.njk
+category: agent
 maker: "aiXcoder"
 license: "Proprietary"
 url: "https://www.aixcoder.com"

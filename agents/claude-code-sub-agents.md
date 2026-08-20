@@ -2,6 +2,7 @@
 name: "claude_code_sub_agents"
 slug: "claude-code-sub-agents"
 layout: agent.njk
+category: agent
 maker: "yzyydev"
 license: null
 url: "https://github.com/yzyydev/claude_code_sub_agents"

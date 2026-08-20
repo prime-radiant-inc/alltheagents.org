@@ -2,6 +2,7 @@
 name: "Debugai"
 slug: "debugai"
 layout: agent.njk
+category: agent
 maker: "UniIDE"
 license: "GPL-3.0"
 url: "https://github.com/Open-IDE/DebugAI"

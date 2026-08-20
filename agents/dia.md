@@ -2,6 +2,7 @@
 name: "Dia"
 slug: "dia"
 layout: agent.njk
+category: agent
 maker: "Dia"
 license: "Proprietary"
 url: "https://dia.ai"

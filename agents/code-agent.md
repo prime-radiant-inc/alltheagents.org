@@ -2,6 +2,7 @@
 name: "code-agent"
 slug: "code-agent"
 layout: agent.njk
+category: agent
 maker: "potproject"
 license: "Apache-2.0"
 url: "https://github.com/potproject/code-agent"

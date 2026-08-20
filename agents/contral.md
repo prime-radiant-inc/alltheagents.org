@@ -2,6 +2,7 @@
 name: "Contral"
 slug: "contral"
 layout: agent.njk
+category: agent
 maker: "Contral"
 license: null
 url: "https://contral.ai"

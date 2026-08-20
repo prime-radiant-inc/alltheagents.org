@@ -2,6 +2,7 @@
 name: "Aimultiagents"
 slug: "aimultiagents"
 layout: agent.njk
+category: agent
 maker: "hesamjafarian"
 license: null
 url: "https://github.com/hesamjafarian/AiMultiAgents"

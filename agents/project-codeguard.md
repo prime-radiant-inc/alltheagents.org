@@ -2,6 +2,7 @@
 name: "project-codeguard"
 slug: "project-codeguard"
 layout: agent.njk
+category: agent
 maker: "cosai-oasis"
 license: "NOASSERTION"
 url: "https://github.com/cosai-oasis/project-codeguard"

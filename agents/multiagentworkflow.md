@@ -2,6 +2,7 @@
 name: "Multiagentworkflow"
 slug: "multiagentworkflow"
 layout: agent.njk
+category: agent
 maker: "zachnoel"
 license: null
 url: "https://github.com/zachnoel/multiAgentWorkflow"

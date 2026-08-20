@@ -2,6 +2,7 @@
 name: "ade-cli"
 slug: "ade-cli"
 layout: agent.njk
+category: agent
 maker: "landing-ai"
 license: "Apache-2.0"
 url: "https://github.com/landing-ai/ade-cli"

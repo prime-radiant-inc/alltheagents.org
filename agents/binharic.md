@@ -2,6 +2,7 @@
 name: "Binharic"
 slug: "binharic"
 layout: agent.njk
+category: agent
 maker: "CogitatorTech"
 license: "MIT"
 url: "https://github.com/CogitatorTech/binharic-cli"

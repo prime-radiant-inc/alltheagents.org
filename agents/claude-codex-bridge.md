@@ -2,6 +2,7 @@
 name: "claude_codex_bridge"
 slug: "claude-codex-bridge"
 layout: agent.njk
+category: agent
 maker: "SeemSeam"
 license: "NOASSERTION"
 url: "https://github.com/SeemSeam/claude_codex_bridge"

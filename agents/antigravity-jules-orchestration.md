@@ -2,6 +2,7 @@
 name: "antigravity-jules-orchestration"
 slug: "antigravity-jules-orchestration"
 layout: agent.njk
+category: agent
 maker: "Scarmonit"
 license: null
 url: "https://github.com/Scarmonit/antigravity-jules-orchestration"

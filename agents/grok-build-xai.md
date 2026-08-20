@@ -2,6 +2,7 @@
 name: "Grok Build (xAI)"
 slug: "grok-build-xai"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://x.ai"

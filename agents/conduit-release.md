@@ -2,6 +2,7 @@
 name: "conduit-release"
 slug: "conduit-release"
 layout: agent.njk
+category: agent
 maker: "lostintangent"
 license: null
 url: "https://github.com/lostintangent/conduit-release"

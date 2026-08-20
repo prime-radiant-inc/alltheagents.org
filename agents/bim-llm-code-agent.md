@@ -2,6 +2,7 @@
 name: "BIM_LLM_code_agent"
 slug: "bim-llm-code-agent"
 layout: agent.njk
+category: agent
 maker: "mac999"
 license: null
 url: "https://github.com/mac999/BIM_LLM_code_agent"

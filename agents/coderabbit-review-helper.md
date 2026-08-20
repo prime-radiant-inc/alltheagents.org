@@ -2,6 +2,7 @@
 name: "coderabbit-review-helper"
 slug: "coderabbit-review-helper"
 layout: agent.njk
+category: agent
 maker: "obra"
 license: "MIT"
 url: "https://github.com/obra/coderabbit-review-helper"

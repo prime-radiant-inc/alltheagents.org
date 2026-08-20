@@ -2,6 +2,7 @@
 name: "swapper-toolkit"
 slug: "swapper-toolkit"
 layout: agent.njk
+category: agent
 maker: "swapperfinance"
 license: "MIT"
 url: "https://github.com/swapperfinance/swapper-toolkit"

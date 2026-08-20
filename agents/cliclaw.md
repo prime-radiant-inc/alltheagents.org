@@ -2,6 +2,7 @@
 name: "cliclaw"
 slug: "cliclaw"
 layout: agent.njk
+category: agent
 maker: "choiyounggi"
 license: "MIT"
 url: "https://github.com/choiyounggi/cliclaw"

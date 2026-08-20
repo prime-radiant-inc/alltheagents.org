@@ -2,6 +2,7 @@
 name: "Dify"
 slug: "dify"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://dify.ai"

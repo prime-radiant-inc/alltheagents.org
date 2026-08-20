@@ -2,6 +2,7 @@
 name: "fireproof"
 slug: "fireproof"
 layout: agent.njk
+category: agent
 maker: "fireproof-storage"
 license: "Apache-2.0"
 url: "https://github.com/fireproof-storage/fireproof"

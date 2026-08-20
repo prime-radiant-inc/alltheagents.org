@@ -2,6 +2,7 @@
 name: "vibe-tree"
 slug: "vibe-tree"
 layout: agent.njk
+category: agent
 maker: "sahithvibudhi"
 license: "MIT"
 url: "https://github.com/sahithvibudhi/vibe-tree"

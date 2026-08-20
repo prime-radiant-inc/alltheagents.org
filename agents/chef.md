@@ -2,6 +2,7 @@
 name: "chef"
 slug: "chef"
 layout: agent.njk
+category: agent
 maker: "get-convex"
 license: "Apache-2.0"
 url: "https://github.com/get-convex/chef"

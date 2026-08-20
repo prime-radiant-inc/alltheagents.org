@@ -2,6 +2,7 @@
 name: "Weaver"
 slug: "weaver"
 layout: agent.njk
+category: agent
 maker: "sean35mm"
 license: "MIT"
 url: "https://github.com/sean35mm/weaver"

@@ -2,6 +2,7 @@
 name: "Zugabot"
 slug: "zugabot"
 layout: agent.njk
+category: agent
 maker: "Zugabot"
 license: "Proprietary"
 url: "https://zugabot.com"

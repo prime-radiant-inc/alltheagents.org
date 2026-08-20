@@ -2,6 +2,7 @@
 name: "rosetta"
 slug: "rosetta"
 layout: agent.njk
+category: agent
 maker: "griddynamics"
 license: "Apache-2.0"
 url: "https://github.com/griddynamics/rosetta"

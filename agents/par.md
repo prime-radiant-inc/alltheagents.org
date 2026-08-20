@@ -2,6 +2,7 @@
 name: "par"
 slug: "par"
 layout: agent.njk
+category: agent
 maker: "jcz2020"
 license: "MIT"
 url: "https://github.com/jcz2020/par"

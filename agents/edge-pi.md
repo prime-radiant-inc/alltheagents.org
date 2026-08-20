@@ -2,6 +2,7 @@
 name: "edge-pi"
 slug: "edge-pi"
 layout: agent.njk
+category: agent
 maker: "marcusschiesser"
 license: "MIT"
 url: "https://github.com/marcusschiesser/edge-pi"

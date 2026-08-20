@@ -2,6 +2,7 @@
 name: "outsourcerer"
 slug: "outsourcerer"
 layout: agent.njk
+category: multiplexer
 maker: "alexgreensh"
 license: "NOASSERTION"
 url: "https://github.com/alexgreensh/outsourcerer"

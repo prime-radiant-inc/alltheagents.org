@@ -2,6 +2,7 @@
 name: "dmux"
 slug: "dmux"
 layout: agent.njk
+category: agent
 maker: "standardagents"
 license: "MIT"
 url: "https://github.com/standardagents/dmux"

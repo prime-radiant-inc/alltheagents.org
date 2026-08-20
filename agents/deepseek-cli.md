@@ -2,6 +2,7 @@
 name: "deepseek-cli"
 slug: "deepseek-cli"
 layout: agent.njk
+category: agent
 maker: "holasoymalva"
 license: "MIT"
 url: "https://github.com/holasoymalva/deepseek-cli"

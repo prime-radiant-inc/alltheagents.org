@@ -2,6 +2,7 @@
 name: "JetBrains AI"
 slug: "jetbrains-ai"
 layout: agent.njk
+category: agent
 maker: "JetBrains"
 license: "Proprietary"
 url: "https://www.jetbrains.com/ai"

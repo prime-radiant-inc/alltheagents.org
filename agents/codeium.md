@@ -2,6 +2,7 @@
 name: "Codeium"
 slug: "codeium"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.codeium.com"

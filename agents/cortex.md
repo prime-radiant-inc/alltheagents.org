@@ -2,6 +2,7 @@
 name: "cortex"
 slug: "cortex"
 layout: agent.njk
+category: agent
 maker: "urbint"
 license: "MIT"
 url: "https://github.com/urbint/cortex"

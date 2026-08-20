@@ -2,6 +2,7 @@
 name: "Even"
 slug: "even"
 layout: agent.njk
+category: multiplexer
 maker: null
 license: null
 url: "https://even.dev"

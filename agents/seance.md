@@ -2,6 +2,7 @@
 name: "seance"
 slug: "seance"
 layout: agent.njk
+category: agent
 maker: "no1msd"
 license: "MIT"
 url: "https://github.com/no1msd/seance"

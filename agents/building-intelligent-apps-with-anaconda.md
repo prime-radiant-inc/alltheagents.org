@@ -2,6 +2,7 @@
 name: "building-intelligent-apps-with-anaconda"
 slug: "building-intelligent-apps-with-anaconda"
 layout: agent.njk
+category: agent
 maker: "Anaconda-Labs"
 license: "MIT"
 url: "https://github.com/Anaconda-Labs/building-intelligent-apps-with-anaconda"

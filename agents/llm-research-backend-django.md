@@ -2,6 +2,7 @@
 name: "Llm-Research-Backend-Django"
 slug: "llm-research-backend-django"
 layout: agent.njk
+category: agent
 maker: "muhammadnasif"
 license: null
 url: "https://github.com/muhammadnasif/llm-research-backend-django"

@@ -2,6 +2,7 @@
 name: "Unpeel"
 slug: "unpeel"
 layout: agent.njk
+category: multiplexer
 maker: null
 license: null
 url: "https://unpeel.com"

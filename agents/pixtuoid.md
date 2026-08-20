@@ -2,6 +2,7 @@
 name: "pixtuoid"
 slug: "pixtuoid"
 layout: agent.njk
+category: agent
 maker: "IvanWng97"
 license: "MIT"
 url: "https://github.com/IvanWng97/pixtuoid"

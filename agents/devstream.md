@@ -2,6 +2,7 @@
 name: "Devstream"
 slug: "devstream"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://github.com/RaheesAhmed/devstream"

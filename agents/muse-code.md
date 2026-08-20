@@ -2,6 +2,7 @@
 name: "Muse Code"
 slug: "muse-code"
 layout: agent.njk
+category: agent
 maker: "Meta"
 license: "Proprietary"
 url: "https://github.com/meta-ai/muse-code"

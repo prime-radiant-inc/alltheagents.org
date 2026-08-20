@@ -2,6 +2,7 @@
 name: "carrycode"
 slug: "carrycode"
 layout: agent.njk
+category: agent
 maker: "zhangliang605"
 license: null
 url: "https://github.com/zhangliang605/carrycode"

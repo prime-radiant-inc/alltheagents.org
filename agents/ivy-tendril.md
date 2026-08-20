@@ -2,6 +2,7 @@
 name: "Ivy Tendril"
 slug: "ivy-tendril"
 layout: agent.njk
+category: agent
 maker: "Ivy-Interactive"
 license: "NOASSERTION"
 url: "https://github.com/Ivy-Interactive/Ivy-Tendril"

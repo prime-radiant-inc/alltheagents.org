@@ -2,6 +2,7 @@
 name: "Libraria"
 slug: "libraria"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://libraria.ai/"

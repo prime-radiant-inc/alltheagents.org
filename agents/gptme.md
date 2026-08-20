@@ -2,6 +2,7 @@
 name: "gptme"
 slug: "gptme"
 layout: agent.njk
+category: agent
 maker: "gptme"
 license: "MIT"
 url: "https://github.com/gptme/gptme"

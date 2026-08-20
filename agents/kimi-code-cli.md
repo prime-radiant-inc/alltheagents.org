@@ -2,6 +2,7 @@
 name: "Kimi Code CLI"
 slug: "kimi-code-cli"
 layout: agent.njk
+category: agent
 maker: "MoonshotAI"
 license: "Apache-2.0"
 url: "https://github.com/MoonshotAI/kimi-cli"

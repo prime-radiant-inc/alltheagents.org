@@ -2,6 +2,7 @@
 name: "deep-swe"
 slug: "deep-swe"
 layout: agent.njk
+category: agent
 maker: "datacurve-ai"
 license: "Apache-2.0"
 url: "https://github.com/datacurve-ai/deep-swe"

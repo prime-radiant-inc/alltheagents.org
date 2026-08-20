@@ -2,6 +2,7 @@
 name: "Vocode"
 slug: "vocode"
 layout: agent.njk
+category: agent
 maker: "vocodedev"
 license: "MIT"
 url: "https://github.com/vocodedev/vocode-python"

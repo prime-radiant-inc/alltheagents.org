@@ -2,6 +2,7 @@
 name: "lunaroute"
 slug: "lunaroute"
 layout: agent.njk
+category: agent
 maker: "erans"
 license: "Apache-2.0"
 url: "https://github.com/erans/lunaroute"

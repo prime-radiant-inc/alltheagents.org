@@ -2,6 +2,7 @@
 name: "zhikuncode"
 slug: "zhikuncode"
 layout: agent.njk
+category: agent
 maker: "zhikunqingtao"
 license: "MIT"
 url: "https://github.com/zhikunqingtao/zhikuncode"

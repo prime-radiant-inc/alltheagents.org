@@ -2,6 +2,7 @@
 name: "GLM-5"
 slug: "glm-5"
 layout: agent.njk
+category: agent
 maker: "zai-org"
 license: "Apache-2.0"
 url: "https://github.com/zai-org/GLM-5"

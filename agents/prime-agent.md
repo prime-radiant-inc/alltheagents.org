@@ -2,6 +2,7 @@
 name: "Prime Agent"
 slug: "prime-agent"
 layout: agent.njk
+category: agent
 maker: "PrimeIntellect-ai"
 license: "MIT"
 url: "https://github.com/PrimeIntellect-ai/prime-agent"

@@ -2,6 +2,7 @@
 name: "atomic"
 slug: "atomic"
 layout: agent.njk
+category: agent
 maker: "bastani-inc"
 license: "NOASSERTION"
 url: "https://github.com/bastani-inc/atomic"

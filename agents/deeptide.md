@@ -2,6 +2,7 @@
 name: "deeptide"
 slug: "deeptide"
 layout: agent.njk
+category: agent
 maker: "paean-ai"
 license: "MIT"
 url: "https://github.com/paean-ai/deeptide"

@@ -2,6 +2,7 @@
 name: "AutoGen"
 slug: "autogen"
 layout: agent.njk
+category: agent
 maker: "microsoft"
 license: "CC-BY-4.0"
 url: "https://github.com/microsoft/autogen"

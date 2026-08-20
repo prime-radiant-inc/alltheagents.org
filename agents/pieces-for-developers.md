@@ -2,6 +2,7 @@
 name: "Pieces for Developers"
 slug: "pieces-for-developers"
 layout: agent.njk
+category: agent
 maker: "Pieces"
 license: "Proprietary"
 url: "https://pieces.app"

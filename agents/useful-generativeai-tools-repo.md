@@ -2,6 +2,7 @@
 name: "Useful-Generativeai-Tools-Repo"
 slug: "useful-generativeai-tools-repo"
 layout: agent.njk
+category: agent
 maker: "anishsingh20"
 license: "MIT"
 url: "https://github.com/anishsingh20/Useful-GenerativeAI-Tools-Repo"

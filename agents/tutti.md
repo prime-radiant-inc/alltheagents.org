@@ -2,6 +2,7 @@
 name: "tutti"
 slug: "tutti"
 layout: agent.njk
+category: agent
 maker: "tutti-os"
 license: "Apache-2.0"
 url: "https://github.com/tutti-os/tutti"

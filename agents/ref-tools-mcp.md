@@ -2,6 +2,7 @@
 name: "ref-tools-mcp"
 slug: "ref-tools-mcp"
 layout: agent.njk
+category: agent
 maker: "ref-tools"
 license: "MIT"
 url: "https://github.com/ref-tools/ref-tools-mcp"

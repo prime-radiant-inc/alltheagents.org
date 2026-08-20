@@ -2,6 +2,7 @@
 name: "Agents by Hugging Face"
 slug: "agents-by-hugging-face"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://huggingface.co/docs/transformers/main_classes/agent"

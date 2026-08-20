@@ -2,6 +2,7 @@
 name: "Explorer"
 slug: "explorer"
 layout: agent.njk
+category: agent
 maker: "invariantlabs-ai"
 license: "Apache-2.0"
 url: "https://github.com/invariantlabs-ai/explorer"

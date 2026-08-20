@@ -2,6 +2,7 @@
 name: "ospec"
 slug: "ospec"
 layout: agent.njk
+category: agent
 maker: "clawplays"
 license: "MIT"
 url: "https://github.com/clawplays/ospec"

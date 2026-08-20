@@ -2,6 +2,7 @@
 name: "Mervelas"
 slug: "mervelas"
 layout: agent.njk
+category: agent
 maker: "swadhinbiswas"
 license: null
 url: "https://github.com/swadhinbiswas/Mervelas"

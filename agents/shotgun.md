@@ -2,6 +2,7 @@
 name: "shotgun"
 slug: "shotgun"
 layout: agent.njk
+category: agent
 maker: "shotgun-sh"
 license: "MIT"
 url: "https://github.com/shotgun-sh/shotgun"

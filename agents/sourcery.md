@@ -2,6 +2,7 @@
 name: "Sourcery"
 slug: "sourcery"
 layout: agent.njk
+category: agent
 maker: "Sourcery"
 license: "Proprietary"
 url: "https://sourcery.ai"

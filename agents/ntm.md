@@ -2,6 +2,7 @@
 name: "ntm"
 slug: "ntm"
 layout: agent.njk
+category: multiplexer
 maker: "Dicklesworthstone"
 license: "NOASSERTION"
 url: "https://github.com/Dicklesworthstone/ntm"

@@ -2,6 +2,7 @@
 name: "rgr"
 slug: "rgr"
 layout: agent.njk
+category: agent
 maker: "kingbootoshi"
 license: null
 url: "https://github.com/kingbootoshi/rgr"

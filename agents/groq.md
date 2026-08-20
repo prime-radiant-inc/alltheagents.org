@@ -2,6 +2,7 @@
 name: "Groq"
 slug: "groq"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://groq.com/"

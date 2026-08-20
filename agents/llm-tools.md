@@ -2,6 +2,7 @@
 name: "Llm-Tools"
 slug: "llm-tools"
 layout: agent.njk
+category: agent
 maker: "gkorepanov"
 license: "MIT"
 url: "https://github.com/gkorepanov/llm-tools"

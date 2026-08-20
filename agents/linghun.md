@@ -2,6 +2,7 @@
 name: "Linghun"
 slug: "linghun"
 layout: agent.njk
+category: agent
 maker: "linghungegeg"
 license: "Apache-2.0"
 url: "https://github.com/linghungegeg/Linghun"

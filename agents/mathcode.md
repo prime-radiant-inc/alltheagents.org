@@ -2,6 +2,7 @@
 name: "mathcode"
 slug: "mathcode"
 layout: agent.njk
+category: agent
 maker: "math-ai-org"
 license: "Apache-2.0"
 url: "https://github.com/math-ai-org/mathcode"

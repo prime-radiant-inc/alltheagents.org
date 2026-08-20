@@ -2,6 +2,7 @@
 name: "postal"
 slug: "postal"
 layout: agent.njk
+category: agent
 maker: "andrefetch"
 license: "GPL-3.0"
 url: "https://github.com/andrefetch/postal"

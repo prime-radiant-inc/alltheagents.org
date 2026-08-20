@@ -2,6 +2,7 @@
 name: "Meoo"
 slug: "meoo"
 layout: agent.njk
+category: agent
 maker: "Meoo"
 license: "Proprietary"
 url: "https://meoo.com"

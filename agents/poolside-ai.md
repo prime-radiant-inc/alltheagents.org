@@ -2,6 +2,7 @@
 name: "Poolside AI"
 slug: "poolside-ai"
 layout: agent.njk
+category: agent
 maker: "Poolside AI"
 license: "Proprietary"
 url: "https://poolside.ai"

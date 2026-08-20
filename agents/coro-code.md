@@ -2,6 +2,7 @@
 name: "Coro Code"
 slug: "coro-code"
 layout: agent.njk
+category: agent
 maker: "Blushyes"
 license: null
 url: "https://github.com/Blushyes/coro-code"

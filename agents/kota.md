@@ -2,6 +2,7 @@
 name: "kota"
 slug: "kota"
 layout: agent.njk
+category: agent
 maker: "StepfenShawn"
 license: "MIT"
 url: "https://github.com/StepfenShawn/kota"

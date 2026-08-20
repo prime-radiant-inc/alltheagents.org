@@ -2,6 +2,7 @@
 name: "ifai"
 slug: "ifai"
 layout: agent.njk
+category: agent
 maker: "peterfei"
 license: "NOASSERTION"
 url: "https://github.com/peterfei/ifai"

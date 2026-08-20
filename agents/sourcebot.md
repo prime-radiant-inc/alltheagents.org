@@ -2,6 +2,7 @@
 name: "sourcebot"
 slug: "sourcebot"
 layout: agent.njk
+category: agent
 maker: "sourcebot-dev"
 license: "NOASSERTION"
 url: "https://github.com/sourcebot-dev/sourcebot"

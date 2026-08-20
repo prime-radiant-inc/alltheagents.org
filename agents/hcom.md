@@ -2,6 +2,7 @@
 name: "hcom"
 slug: "hcom"
 layout: agent.njk
+category: multiplexer
 maker: "aannoo"
 license: "MIT"
 url: "https://github.com/aannoo/hcom"

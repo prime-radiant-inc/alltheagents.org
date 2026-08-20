@@ -2,6 +2,7 @@
 name: "freshell"
 slug: "freshell"
 layout: agent.njk
+category: agent
 maker: "danshapiro"
 license: null
 url: "https://github.com/danshapiro/freshell"

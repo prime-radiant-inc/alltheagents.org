@@ -2,6 +2,7 @@
 name: "cmux"
 slug: "cmux"
 layout: agent.njk
+category: agent
 maker: "manaflow-ai"
 license: "NOASSERTION"
 url: "https://github.com/manaflow-ai/cmux"

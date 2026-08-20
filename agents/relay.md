@@ -2,6 +2,7 @@
 name: "Relay"
 slug: "relay"
 layout: agent.njk
+category: multiplexer
 maker: "jcast90"
 license: "MIT"
 url: "https://github.com/jcast90/relay"

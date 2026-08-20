@@ -2,6 +2,7 @@
 name: "crystl"
 slug: "crystl"
 layout: agent.njk
+category: agent
 maker: "crystl"
 license: null
 url: "https://crystl.dev"

@@ -2,6 +2,7 @@
 name: "agents-cli"
 slug: "agents-cli"
 layout: agent.njk
+category: multiplexer
 maker: "phnx-labs"
 license: "Apache-2.0"
 url: "https://github.com/phnx-labs/agents-cli"

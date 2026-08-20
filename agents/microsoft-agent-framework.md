@@ -2,6 +2,7 @@
 name: "Microsoft Agent Framework"
 slug: "microsoft-agent-framework"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview"

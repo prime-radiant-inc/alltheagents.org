@@ -2,6 +2,7 @@
 name: "web-code-agent"
 slug: "web-code-agent"
 layout: agent.njk
+category: agent
 maker: "oldjs"
 license: "MIT"
 url: "https://github.com/oldjs/web-code-agent"

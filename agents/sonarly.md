@@ -2,6 +2,7 @@
 name: "Sonarly"
 slug: "sonarly"
 layout: agent.njk
+category: agent
 maker: "Sonarly"
 license: null
 url: "https://sonarly.com"

@@ -2,6 +2,7 @@
 name: "ggez"
 slug: "ggez"
 layout: agent.njk
+category: agent
 maker: "vibe-stack"
 license: "MIT"
 url: "https://github.com/vibe-stack/ggez"

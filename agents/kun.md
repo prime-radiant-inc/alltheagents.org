@@ -2,6 +2,7 @@
 name: "Kun"
 slug: "kun"
 layout: agent.njk
+category: agent
 maker: "KunAgent"
 license: "NOASSERTION"
 url: "https://github.com/KunAgent/Kun"

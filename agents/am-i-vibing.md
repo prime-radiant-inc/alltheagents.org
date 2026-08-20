@@ -2,6 +2,7 @@
 name: "am-i-vibing"
 slug: "am-i-vibing"
 layout: agent.njk
+category: agent
 maker: "ascorbic"
 license: null
 url: "https://github.com/ascorbic/am-i-vibing"

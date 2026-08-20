@@ -2,6 +2,7 @@
 name: "discord"
 slug: "discord"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://discord.gg/VmEEUrc7dg"

@@ -2,6 +2,7 @@
 name: "Kata"
 slug: "kata"
 layout: agent.njk
+category: agent
 maker: "kenn-io"
 license: "MIT"
 url: "https://github.com/kenn-io/kata"

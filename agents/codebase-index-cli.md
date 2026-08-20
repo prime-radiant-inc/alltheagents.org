@@ -2,6 +2,7 @@
 name: "codebase-index-cli"
 slug: "codebase-index-cli"
 layout: agent.njk
+category: agent
 maker: "dudufcb1"
 license: null
 url: "https://github.com/dudufcb1/codebase-index-cli"

@@ -2,6 +2,7 @@
 name: "Agentlas OS"
 slug: "agentlas-os"
 layout: agent.njk
+category: agent
 maker: "agentlas-ai"
 license: "Apache-2.0"
 url: "https://github.com/agentlas-ai/Agentlas-OS"

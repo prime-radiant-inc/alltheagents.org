@@ -2,6 +2,7 @@
 name: "Ai-Testing-Agent"
 slug: "ai-testing-agent"
 layout: agent.njk
+category: agent
 maker: "furudo-erika"
 license: null
 url: "https://github.com/furudo-erika/ai-testing-agent"

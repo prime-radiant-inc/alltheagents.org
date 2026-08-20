@@ -2,6 +2,7 @@
 name: "Llm-Dataset-Converter-Examples"
 slug: "llm-dataset-converter-examples"
 layout: agent.njk
+category: agent
 maker: "waikato-llm"
 license: "CC-BY-SA-4.0"
 url: "https://github.com/waikato-llm/llm-dataset-converter-examples"

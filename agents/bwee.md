@@ -2,6 +2,7 @@
 name: "Bwee"
 slug: "bwee"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://bwee.app"

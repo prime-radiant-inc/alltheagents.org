@@ -2,6 +2,7 @@
 name: "codebase-argus"
 slug: "codebase-argus"
 layout: agent.njk
+category: agent
 maker: "AaronZ345"
 license: "MIT"
 url: "https://github.com/AaronZ345/codebase-argus"

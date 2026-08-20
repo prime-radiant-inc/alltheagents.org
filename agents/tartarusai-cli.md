@@ -2,6 +2,7 @@
 name: "tartarusai-cli"
 slug: "tartarusai-cli"
 layout: agent.njk
+category: agent
 maker: "Tartarus-AI"
 license: "MIT"
 url: "https://github.com/Tartarus-AI/tartarusai-cli"

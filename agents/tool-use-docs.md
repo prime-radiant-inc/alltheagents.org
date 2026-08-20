@@ -2,6 +2,7 @@
 name: "tool use docs"
 slug: "tool-use-docs"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://console.groq.com/docs/tool-use"

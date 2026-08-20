@@ -2,6 +2,7 @@
 name: "landing page"
 slug: "landing-page"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.microsoft.com/en-us/research/project/autogen/"

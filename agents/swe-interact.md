@@ -2,6 +2,7 @@
 name: "SWE-Interact"
 slug: "swe-interact"
 layout: agent.njk
+category: agent
 maker: "scaleapi"
 license: "Apache-2.0"
 url: "https://github.com/scaleapi/SWE-Interact"

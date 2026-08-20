@@ -2,6 +2,7 @@
 name: "HMRAG"
 slug: "hmrag"
 layout: agent.njk
+category: agent
 maker: "ocean-luna"
 license: null
 url: "https://github.com/ocean-luna/HMRAG"

@@ -2,6 +2,7 @@
 name: "Untether"
 slug: "untether"
 layout: agent.njk
+category: agent
 maker: "littlebearapps"
 license: "MIT"
 url: "https://github.com/littlebearapps/untether"

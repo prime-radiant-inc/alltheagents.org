@@ -2,6 +2,7 @@
 name: "agentnotch"
 slug: "agentnotch"
 layout: agent.njk
+category: agent
 maker: "AppGram"
 license: null
 url: "https://github.com/AppGram/agentnotch"

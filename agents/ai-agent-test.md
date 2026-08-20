@@ -2,6 +2,7 @@
 name: "Ai-Agent-Test"
 slug: "ai-agent-test"
 layout: agent.njk
+category: agent
 maker: "sfelkner"
 license: null
 url: "https://github.com/sfelkner/ai-agent-test"

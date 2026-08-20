@@ -2,6 +2,7 @@
 name: "Agent Orchestrator (AO)"
 slug: "agent-orchestrator-ao"
 layout: agent.njk
+category: multiplexer
 maker: "Untrivial-ai"
 license: "Apache-2.0"
 url: "https://github.com/Untrivial-ai/agent-orchestrator"

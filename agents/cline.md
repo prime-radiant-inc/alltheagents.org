@@ -2,6 +2,7 @@
 name: "Cline"
 slug: "cline"
 layout: agent.njk
+category: agent
 maker: "cline"
 license: "Apache-2.0"
 url: "https://github.com/cline/cline"

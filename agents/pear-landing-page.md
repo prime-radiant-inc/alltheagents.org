@@ -2,6 +2,7 @@
 name: "pear-landing-page"
 slug: "pear-landing-page"
 layout: agent.njk
+category: agent
 maker: "trypear"
 license: "Apache-2.0"
 url: "https://github.com/trypear/pear-landing-page"

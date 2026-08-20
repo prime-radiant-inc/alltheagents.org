@@ -2,6 +2,7 @@
 name: "OpenAlpha_Evolve"
 slug: "openalpha-evolve"
 layout: agent.njk
+category: agent
 maker: "shyamsaktawat"
 license: "MIT"
 url: "https://github.com/shyamsaktawat/OpenAlpha_Evolve"

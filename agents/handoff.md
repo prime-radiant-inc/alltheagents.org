@@ -2,6 +2,7 @@
 name: "handoff"
 slug: "handoff"
 layout: agent.njk
+category: multiplexer
 maker: "dazuiba"
 license: null
 url: "https://github.com/dazuiba/handoff"

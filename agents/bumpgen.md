@@ -2,6 +2,7 @@
 name: "bumpgen"
 slug: "bumpgen"
 layout: agent.njk
+category: agent
 maker: "xeol-io"
 license: "MIT"
 url: "https://github.com/xeol-io/bumpgen"

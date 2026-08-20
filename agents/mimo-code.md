@@ -2,6 +2,7 @@
 name: "MiMo Code"
 slug: "mimo-code"
 layout: agent.njk
+category: agent
 maker: "XiaomiMiMo"
 license: "MIT"
 url: "https://github.com/XiaomiMiMo/MiMo-Code"

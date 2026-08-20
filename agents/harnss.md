@@ -2,6 +2,7 @@
 name: "harnss"
 slug: "harnss"
 layout: agent.njk
+category: multiplexer
 maker: "OpenSource03"
 license: "MIT"
 url: "https://github.com/OpenSource03/harnss"

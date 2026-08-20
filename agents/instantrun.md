@@ -2,6 +2,7 @@
 name: "Instantrun"
 slug: "instantrun"
 layout: agent.njk
+category: agent
 maker: "Talha-Ali-5365"
 license: "MIT"
 url: "https://github.com/Talha-Ali-5365/InstantRun"

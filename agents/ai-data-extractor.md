@@ -2,6 +2,7 @@
 name: "ai-data-extractor"
 slug: "ai-data-extractor"
 layout: agent.njk
+category: agent
 maker: "bawadou"
 license: "MIT"
 url: "https://github.com/bawadou/ai-data-extractor"

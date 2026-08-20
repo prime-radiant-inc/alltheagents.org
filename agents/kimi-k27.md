@@ -2,6 +2,7 @@
 name: "kimi-K2.7"
 slug: "kimi-k27"
 layout: agent.njk
+category: agent
 maker: "Kimi-K2-7"
 license: "MIT"
 url: "https://github.com/Kimi-K2-7/kimi-K2.7"

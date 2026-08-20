@@ -2,6 +2,7 @@
 name: "Setup-Amazon-Bedrock-Agent-For-Text2Sql-Using-Amazon-Redshift-Serverless-With-Streamlit"
 slug: "setup-amazon-bedrock-agent-for-text2sql-using-amazon-redshift-serverless-with-streamlit"
 layout: agent.njk
+category: agent
 maker: "aws-samples"
 license: "MIT-0"
 url: "https://github.com/aws-samples/Setup-Amazon-Bedrock-Agent-for-Text2SQL-Using-Amazon-Redshift-Serverless-with-Streamlit"

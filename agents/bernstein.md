@@ -2,6 +2,7 @@
 name: "Bernstein"
 slug: "bernstein"
 layout: agent.njk
+category: agent
 maker: "sipyourdrink-ltd"
 license: "Apache-2.0"
 url: "https://github.com/chernistry/bernstein"

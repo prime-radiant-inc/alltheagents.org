@@ -2,6 +2,7 @@
 name: "sage"
 slug: "sage"
 layout: agent.njk
+category: multiplexer
 maker: "youwangd"
 license: "MIT"
 url: "https://github.com/youwangd/SageCLI"

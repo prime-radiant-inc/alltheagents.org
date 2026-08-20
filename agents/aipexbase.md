@@ -2,6 +2,7 @@
 name: "aipexbase"
 slug: "aipexbase"
 layout: agent.njk
+category: agent
 maker: "kuafuai"
 license: "NOASSERTION"
 url: "https://github.com/kuafuai/aipexbase"

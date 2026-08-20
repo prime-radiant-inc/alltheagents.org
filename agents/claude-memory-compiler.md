@@ -2,6 +2,7 @@
 name: "claude-memory-compiler"
 slug: "claude-memory-compiler"
 layout: agent.njk
+category: agent
 maker: "coleam00"
 license: null
 url: "https://github.com/coleam00/claude-memory-compiler"

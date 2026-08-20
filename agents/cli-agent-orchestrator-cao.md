@@ -2,6 +2,7 @@
 name: "CLI Agent Orchestrator (CAO)"
 slug: "cli-agent-orchestrator-cao"
 layout: agent.njk
+category: agent
 maker: "awslabs"
 license: "Apache-2.0"
 url: "https://github.com/awslabs/cli-agent-orchestrator"

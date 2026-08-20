@@ -2,6 +2,7 @@
 name: "Automata"
 slug: "automata"
 layout: agent.njk
+category: agent
 maker: "emrgnt-cmplxty"
 license: "Apache-2.0"
 url: "https://github.com/emrgnt-cmplxty/automata"

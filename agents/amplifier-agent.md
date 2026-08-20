@@ -2,6 +2,7 @@
 name: "Amplifier Agent"
 slug: "amplifier-agent"
 layout: agent.njk
+category: agent
 maker: "microsoft"
 license: "MIT"
 url: "https://github.com/microsoft/amplifier-agent"

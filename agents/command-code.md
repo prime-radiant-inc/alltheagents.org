@@ -2,6 +2,7 @@
 name: "Command Code"
 slug: "command-code"
 layout: agent.njk
+category: agent
 maker: "CommandCodeAI"
 license: "Source Available"
 url: "https://github.com/CommandCodeAI/command-code"

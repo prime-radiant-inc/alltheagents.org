@@ -2,6 +2,7 @@
 name: "Cherry Studio"
 slug: "cherry-studio"
 layout: agent.njk
+category: agent
 maker: "Cherry AI"
 license: "MIT"
 url: "https://github.com/CherryHQ/cherry-studio"

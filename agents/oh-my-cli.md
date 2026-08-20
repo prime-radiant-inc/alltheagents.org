@@ -2,6 +2,7 @@
 name: "oh-my-cli"
 slug: "oh-my-cli"
 layout: agent.njk
+category: agent
 maker: "qwen-code-dev-bot"
 license: "Apache-2.0"
 url: "https://github.com/qwen-code-dev-bot/oh-my-cli"

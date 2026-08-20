@@ -2,6 +2,7 @@
 name: "AgentsMesh"
 slug: "agentsmesh"
 layout: agent.njk
+category: multiplexer
 maker: "AgentsMesh"
 license: "NOASSERTION"
 url: "https://github.com/AgentsMesh/AgentsMesh"

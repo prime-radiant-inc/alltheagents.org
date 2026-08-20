@@ -2,6 +2,7 @@
 name: "LLama Cpp Agent"
 slug: "llama-cpp-agent"
 layout: agent.njk
+category: agent
 maker: "Maximilian-Winter"
 license: "NOASSERTION"
 url: "https://github.com/Maximilian-Winter/llama-cpp-agent"

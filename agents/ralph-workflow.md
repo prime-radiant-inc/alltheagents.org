@@ -2,6 +2,7 @@
 name: "Ralph Workflow"
 slug: "ralph-workflow"
 layout: agent.njk
+category: multiplexer
 maker: "Ralph-Workflow"
 license: "AGPL-3.0"
 url: "https://github.com/Ralph-Workflow/Ralph-Workflow"

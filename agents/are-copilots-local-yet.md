@@ -2,6 +2,7 @@
 name: "Are-Copilots-Local-Yet"
 slug: "are-copilots-local-yet"
 layout: agent.njk
+category: agent
 maker: "ErikBjare"
 license: "MIT"
 url: "https://github.com/ErikBjare/are-copilots-local-yet"

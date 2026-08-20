@@ -2,6 +2,7 @@
 name: "vix"
 slug: "vix"
 layout: agent.njk
+category: agent
 maker: "get-vix"
 license: "AGPL-3.0"
 url: "https://github.com/get-vix/vix"

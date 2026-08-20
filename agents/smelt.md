@@ -2,6 +2,7 @@
 name: "Smelt"
 slug: "smelt"
 layout: agent.njk
+category: agent
 maker: "leonardcser"
 license: "MIT"
 url: "https://github.com/leonardcser/smelt"

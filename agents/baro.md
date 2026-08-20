@@ -2,6 +2,7 @@
 name: "baro"
 slug: "baro"
 layout: agent.njk
+category: agent
 maker: "jigjoy-ai"
 license: null
 url: "https://github.com/jigjoy-ai/baro"

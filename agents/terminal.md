@@ -2,6 +2,7 @@
 name: "terminal"
 slug: "terminal"
 layout: agent.njk
+category: agent
 maker: "bbarit"
 license: null
 url: "https://github.com/bbarit/terminal"

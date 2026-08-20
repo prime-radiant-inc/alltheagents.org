@@ -2,6 +2,7 @@
 name: "winx-code-agent"
 slug: "winx-code-agent"
 layout: agent.njk
+category: agent
 maker: "gabrielmaialva33"
 license: "MIT"
 url: "https://github.com/gabrielmaialva33/winx-code-agent"

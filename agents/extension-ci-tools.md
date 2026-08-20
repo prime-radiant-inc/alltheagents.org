@@ -2,6 +2,7 @@
 name: "Extension-Ci-Tools"
 slug: "extension-ci-tools"
 layout: agent.njk
+category: agent
 maker: "duckdb"
 license: null
 url: "https://github.com/duckdb/extension-ci-tools"

@@ -2,6 +2,7 @@
 name: "multi-agent-workflow-kit"
 slug: "multi-agent-workflow-kit"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://github.com/laris-co/multi-agent-workflow-kit"

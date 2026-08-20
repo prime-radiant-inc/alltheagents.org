@@ -2,6 +2,7 @@
 name: "routa"
 slug: "routa"
 layout: agent.njk
+category: agent
 maker: "phodal"
 license: "MIT"
 url: "https://github.com/phodal/routa"

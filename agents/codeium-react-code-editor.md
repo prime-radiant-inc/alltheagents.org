@@ -2,6 +2,7 @@
 name: "codeium-react-code-editor"
 slug: "codeium-react-code-editor"
 layout: agent.njk
+category: agent
 maker: "Exafunction"
 license: "MIT"
 url: "https://github.com/Exafunction/codeium-react-code-editor"

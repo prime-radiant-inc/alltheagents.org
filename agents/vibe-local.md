@@ -2,6 +2,7 @@
 name: "vibe-local"
 slug: "vibe-local"
 layout: agent.njk
+category: agent
 maker: "ochyai"
 license: "MIT"
 url: "https://github.com/ochyai/vibe-local"

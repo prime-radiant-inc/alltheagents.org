@@ -2,6 +2,7 @@
 name: "Qoder"
 slug: "qoder"
 layout: agent.njk
+category: agent
 maker: "Qoder"
 license: "Proprietary"
 url: "https://qoder.com"

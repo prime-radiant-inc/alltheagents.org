@@ -2,6 +2,7 @@
 name: "Slate"
 slug: "slate"
 layout: agent.njk
+category: agent
 maker: "entropy-research"
 license: null
 url: "https://github.com/entropy-research/slate-plan-mode"

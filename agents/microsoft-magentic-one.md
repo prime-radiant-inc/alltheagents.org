@@ -2,6 +2,7 @@
 name: "Microsoft Magentic-One"
 slug: "microsoft-magentic-one"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/"

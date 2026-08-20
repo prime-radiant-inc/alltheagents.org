@@ -2,6 +2,7 @@
 name: "pi-mem"
 slug: "pi-mem"
 layout: agent.njk
+category: agent
 maker: "jo-inc"
 license: "MIT"
 url: "https://github.com/jo-inc/pi-mem"

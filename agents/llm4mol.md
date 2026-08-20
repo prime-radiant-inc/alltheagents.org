@@ -2,6 +2,7 @@
 name: "Llm4Mol"
 slug: "llm4mol"
 layout: agent.njk
+category: agent
 maker: "HHW-zhou"
 license: "MIT"
 url: "https://github.com/HHW-zhou/LLM4Mol"

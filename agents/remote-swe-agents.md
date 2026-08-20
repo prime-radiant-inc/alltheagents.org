@@ -2,6 +2,7 @@
 name: "remote-swe-agents"
 slug: "remote-swe-agents"
 layout: agent.njk
+category: agent
 maker: "aws-samples"
 license: "MIT-0"
 url: "https://github.com/aws-samples/remote-swe-agents"

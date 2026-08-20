@@ -2,6 +2,7 @@
 name: "Codirigent"
 slug: "codirigent"
 layout: agent.njk
+category: agent
 maker: "oso95"
 license: "GPL-3.0"
 url: "https://github.com/oso95/Codirigent"

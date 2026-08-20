@@ -2,6 +2,7 @@
 name: "Create.xyz"
 slug: "createxyz"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://create.xyz/"

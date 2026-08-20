@@ -2,6 +2,7 @@
 name: "HyperAgent"
 slug: "hyperagent"
 layout: agent.njk
+category: agent
 maker: "FSoft-AI4Code"
 license: "Apache-2.0"
 url: "https://github.com/FSoft-AI4Code/HyperAgent"

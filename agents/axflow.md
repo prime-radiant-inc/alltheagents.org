@@ -2,6 +2,7 @@
 name: "Axflow"
 slug: "axflow"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://axflow.dev/"

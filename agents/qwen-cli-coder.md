@@ -2,6 +2,7 @@
 name: "qwen_cli_coder"
 slug: "qwen-cli-coder"
 layout: agent.njk
+category: agent
 maker: "dinoanderson"
 license: "Apache-2.0"
 url: "https://github.com/dinoanderson/qwen_cli_coder"

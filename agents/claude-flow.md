@@ -2,6 +2,7 @@
 name: "claude-flow"
 slug: "claude-flow"
 layout: agent.njk
+category: agent
 maker: "ruvnet"
 license: "MIT"
 url: "https://github.com/ruvnet/claude-flow"

@@ -2,6 +2,7 @@
 name: "BitFun"
 slug: "bitfun"
 layout: agent.njk
+category: agent
 maker: "GCWing"
 license: "MIT"
 url: "https://github.com/GCWing/BitFun"

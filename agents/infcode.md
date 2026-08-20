@@ -2,6 +2,7 @@
 name: "InfCode"
 slug: "infcode"
 layout: agent.njk
+category: agent
 maker: "Tokfinity"
 license: "MIT"
 url: "https://github.com/Tokfinity/InfCode"

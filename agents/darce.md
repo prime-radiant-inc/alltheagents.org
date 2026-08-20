@@ -2,6 +2,7 @@
 name: "Darce"
 slug: "darce"
 layout: agent.njk
+category: agent
 maker: "AmerSarhan"
 license: null
 url: "https://github.com/AmerSarhan/darce-cli"

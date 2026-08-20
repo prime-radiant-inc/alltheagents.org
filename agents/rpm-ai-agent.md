@@ -2,6 +2,7 @@
 name: "Rpm-Ai-Agent"
 slug: "rpm-ai-agent"
 layout: agent.njk
+category: agent
 maker: "teldridge11"
 license: null
 url: "https://github.com/teldridge11/RPM-AI-Agent"

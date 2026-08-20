@@ -2,6 +2,7 @@
 name: "ai-dev-kit"
 slug: "ai-dev-kit"
 layout: agent.njk
+category: agent
 maker: "databricks-solutions"
 license: "NOASSERTION"
 url: "https://github.com/databricks-solutions/ai-dev-kit"

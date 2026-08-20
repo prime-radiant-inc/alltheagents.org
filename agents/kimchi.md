@@ -2,6 +2,7 @@
 name: "kimchi"
 slug: "kimchi"
 layout: agent.njk
+category: agent
 maker: "getkimchi"
 license: "Apache-2.0"
 url: "https://github.com/getkimchi/kimchi"

@@ -2,6 +2,7 @@
 name: "DevEco CodeGenie"
 slug: "deveco-codegenie"
 layout: agent.njk
+category: agent
 maker: "Huawei"
 license: "Proprietary"
 url: "https://developer.huawei.com"

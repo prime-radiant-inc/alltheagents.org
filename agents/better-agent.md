@@ -2,6 +2,7 @@
 name: "Better Agent"
 slug: "better-agent"
 layout: agent.njk
+category: multiplexer
 maker: "ofekron"
 license: "NOASSERTION"
 url: "https://github.com/ofekron/better-agent"

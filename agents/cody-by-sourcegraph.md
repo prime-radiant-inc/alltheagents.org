@@ -2,6 +2,7 @@
 name: "Cody by Sourcegraph"
 slug: "cody-by-sourcegraph"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://docs.sourcegraph.com/cody"

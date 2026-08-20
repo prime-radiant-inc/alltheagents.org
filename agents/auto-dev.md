@@ -2,6 +2,7 @@
 name: "auto-dev"
 slug: "auto-dev"
 layout: agent.njk
+category: agent
 maker: "phodal"
 license: "MPL-2.0"
 url: "https://github.com/phodal/auto-dev"

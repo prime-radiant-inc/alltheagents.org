@@ -2,6 +2,7 @@
 name: "Personal Assistant by HyperWrite"
 slug: "personal-assistant-by-hyperwrite"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.hyperwriteai.com/personal-assistant"

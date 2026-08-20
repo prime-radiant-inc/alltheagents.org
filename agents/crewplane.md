@@ -2,6 +2,7 @@
 name: "Crewplane"
 slug: "crewplane"
 layout: agent.njk
+category: multiplexer
 maker: "crewplaneai"
 license: "Apache-2.0"
 url: "https://github.com/crewplaneai/crewplane"

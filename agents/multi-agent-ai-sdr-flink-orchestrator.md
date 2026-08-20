@@ -2,6 +2,7 @@
 name: "multi-agent-ai-sdr-flink-orchestrator"
 slug: "multi-agent-ai-sdr-flink-orchestrator"
 layout: agent.njk
+category: agent
 maker: "thefalc"
 license: "MIT"
 url: "https://github.com/thefalc/multi-agent-ai-sdr-flink-orchestrator"

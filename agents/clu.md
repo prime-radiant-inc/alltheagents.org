@@ -2,6 +2,7 @@
 name: "clu"
 slug: "clu"
 layout: agent.njk
+category: agent
 maker: "Arjia-Labs"
 license: "MIT"
 url: "https://github.com/arjia-labs/clu"

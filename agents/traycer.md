@@ -2,6 +2,7 @@
 name: "Traycer"
 slug: "traycer"
 layout: agent.njk
+category: agent
 maker: "traycerai"
 license: "MIT"
 url: "https://github.com/traycerai/traycer"

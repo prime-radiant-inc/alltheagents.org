@@ -2,6 +2,7 @@
 name: "AutoPR"
 slug: "autopr"
 layout: agent.njk
+category: agent
 maker: "irgolic"
 license: "MIT"
 url: "https://github.com/irgolic/AutoPR"

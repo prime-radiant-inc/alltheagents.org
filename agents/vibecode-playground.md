@@ -2,6 +2,7 @@
 name: "vibecode-playground"
 slug: "vibecode-playground"
 layout: agent.njk
+category: agent
 maker: "Aestheticsuraj234"
 license: null
 url: "https://github.com/Aestheticsuraj234/vibecode-playground"

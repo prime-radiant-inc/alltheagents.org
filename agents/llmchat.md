@@ -2,6 +2,7 @@
 name: "Llmchat"
 slug: "llmchat"
 layout: agent.njk
+category: agent
 maker: "c0sogi"
 license: "MIT"
 url: "https://github.com/c0sogi/LLMChat"

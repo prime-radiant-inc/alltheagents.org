@@ -2,6 +2,7 @@
 name: "caveman-code"
 slug: "caveman-code"
 layout: agent.njk
+category: agent
 maker: "JuliusBrussee"
 license: "MIT"
 url: "https://github.com/JuliusBrussee/caveman-code"

@@ -2,6 +2,7 @@
 name: "mini-coding-agent"
 slug: "mini-coding-agent"
 layout: agent.njk
+category: agent
 maker: "rasbt"
 license: "Apache-2.0"
 url: "https://github.com/rasbt/mini-coding-agent"

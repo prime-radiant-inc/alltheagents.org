@@ -2,6 +2,7 @@
 name: "wallfacer"
 slug: "wallfacer"
 layout: agent.njk
+category: agent
 maker: "changkun"
 license: "MIT"
 url: "https://github.com/changkun/wallfacer"

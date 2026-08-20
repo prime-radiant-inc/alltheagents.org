@@ -2,6 +2,7 @@
 name: "Claude Engineer"
 slug: "claude-engineer"
 layout: agent.njk
+category: agent
 maker: "Doriandarko"
 license: "Source Available"
 url: "https://github.com/Doriandarko/claude-engineer"

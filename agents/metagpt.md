@@ -2,6 +2,7 @@
 name: "MetaGPT"
 slug: "metagpt"
 layout: agent.njk
+category: agent
 maker: "FoundationAgents"
 license: "MIT"
 url: "https://github.com/geekan/MetaGPT"

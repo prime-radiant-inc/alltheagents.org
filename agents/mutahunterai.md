@@ -2,6 +2,7 @@
 name: "MutahunterAI"
 slug: "mutahunterai"
 layout: agent.njk
+category: agent
 maker: "codeintegrity-ai"
 license: "AGPL-3.0"
 url: "https://github.com/codeintegrity-ai/mutahunter"

@@ -2,6 +2,7 @@
 name: "AutoBE"
 slug: "autobe"
 layout: agent.njk
+category: agent
 maker: "wrtnlabs"
 license: "AGPL-3.0"
 url: "https://github.com/wrtnlabs/autobe"

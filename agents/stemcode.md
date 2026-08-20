@@ -2,6 +2,7 @@
 name: "StemCode"
 slug: "stemcode"
 layout: agent.njk
+category: agent
 maker: "rizwan3d"
 license: "Apache-2.0"
 url: "https://github.com/rizwan3d/StemCode"

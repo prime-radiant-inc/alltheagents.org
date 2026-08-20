@@ -2,6 +2,7 @@
 name: "claude-swarm"
 slug: "claude-swarm"
 layout: agent.njk
+category: agent
 maker: "affaan-m"
 license: "MIT"
 url: "https://github.com/affaan-m/claude-swarm"

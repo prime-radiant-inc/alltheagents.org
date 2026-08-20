@@ -2,6 +2,7 @@
 name: "Tonkotsu"
 slug: "tonkotsu"
 layout: agent.njk
+category: agent
 maker: "Tonkotsu"
 license: null
 url: "https://tonkotsu.ai"

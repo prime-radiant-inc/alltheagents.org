@@ -2,6 +2,7 @@
 name: "clio"
 slug: "clio"
 layout: agent.njk
+category: agent
 maker: "icebear0828"
 license: "MIT"
 url: "https://github.com/icebear0828/clio"

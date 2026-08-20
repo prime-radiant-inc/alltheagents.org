@@ -2,6 +2,7 @@
 name: "failproofai"
 slug: "failproofai"
 layout: agent.njk
+category: multiplexer
 maker: "FailproofAI"
 license: "NOASSERTION"
 url: "https://github.com/FailproofAI/failproofai"

@@ -2,6 +2,7 @@
 name: "Figma Make"
 slug: "figma-make"
 layout: agent.njk
+category: agent
 maker: "Figma"
 license: "Proprietary"
 url: "https://www.figma.com/make"

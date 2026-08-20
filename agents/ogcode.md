@@ -2,6 +2,7 @@
 name: "ogcode"
 slug: "ogcode"
 layout: agent.njk
+category: agent
 maker: "prasenjeet-symon"
 license: "MIT"
 url: "https://github.com/prasenjeet-symon/ogcode"

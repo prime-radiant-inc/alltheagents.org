@@ -2,6 +2,7 @@
 name: "herm"
 slug: "herm"
 layout: agent.njk
+category: agent
 maker: "aduermael"
 license: "MIT"
 url: "https://github.com/aduermael/herm"

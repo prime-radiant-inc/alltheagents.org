@@ -2,6 +2,7 @@
 name: "PurrCode"
 slug: "purrcode"
 layout: agent.njk
+category: agent
 maker: "Weilin0723"
 license: "Apache-2.0"
 url: "https://github.com/Weilin0723/PurrCode"

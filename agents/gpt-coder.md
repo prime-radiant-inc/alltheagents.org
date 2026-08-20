@@ -2,6 +2,7 @@
 name: "gpt-coder"
 slug: "gpt-coder"
 layout: agent.njk
+category: agent
 maker: "alicheg"
 license: "MIT"
 url: "https://github.com/alicheg/gpt-coder"

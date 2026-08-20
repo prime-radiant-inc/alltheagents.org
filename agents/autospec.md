@@ -2,6 +2,7 @@
 name: "Autospec"
 slug: "autospec"
 layout: agent.njk
+category: agent
 maker: "zachblume"
 license: "MIT"
 url: "https://github.com/zachblume/autospec"

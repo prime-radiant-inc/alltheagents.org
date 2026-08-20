@@ -2,6 +2,7 @@
 name: "stacklit"
 slug: "stacklit"
 layout: agent.njk
+category: agent
 maker: "glincker"
 license: "MIT"
 url: "https://github.com/glincker/stacklit"

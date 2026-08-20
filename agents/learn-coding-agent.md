@@ -2,6 +2,7 @@
 name: "learn-coding-agent"
 slug: "learn-coding-agent"
 layout: agent.njk
+category: agent
 maker: "sanbuphy"
 license: null
 url: "https://github.com/sanbuphy/learn-coding-agent"

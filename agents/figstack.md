@@ -2,6 +2,7 @@
 name: "Figstack"
 slug: "figstack"
 layout: agent.njk
+category: agent
 maker: "Figstack"
 license: "Proprietary"
 url: "https://www.figstack.com"

@@ -2,6 +2,7 @@
 name: "lime"
 slug: "lime"
 layout: agent.njk
+category: agent
 maker: "limecloud"
 license: null
 url: "https://github.com/limecloud/lime"

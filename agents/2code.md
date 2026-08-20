@@ -2,6 +2,7 @@
 name: "2code"
 slug: "2code"
 layout: agent.njk
+category: agent
 maker: "AkaraChen"
 license: null
 url: "https://github.com/AkaraChen/2code"

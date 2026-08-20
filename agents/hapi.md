@@ -2,6 +2,7 @@
 name: "hapi"
 slug: "hapi"
 layout: agent.njk
+category: agent
 maker: "tiann"
 license: "AGPL-3.0"
 url: "https://github.com/tiann/hapi"

@@ -2,6 +2,7 @@
 name: "aizen"
 slug: "aizen"
 layout: agent.njk
+category: agent
 maker: "aizen-stack"
 license: "Apache-2.0"
 url: "https://github.com/aizen-stack/aizen"

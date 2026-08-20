@@ -2,6 +2,7 @@
 name: "neuralinverse"
 slug: "neuralinverse"
 layout: agent.njk
+category: agent
 maker: "NeuralInverse"
 license: "Apache-2.0"
 url: "https://github.com/NeuralInverse/neuralinverse"

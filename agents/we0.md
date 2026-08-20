@@ -2,6 +2,7 @@
 name: "we0"
 slug: "we0"
 layout: agent.njk
+category: agent
 maker: "we0-dev"
 license: "MIT"
 url: "https://github.com/we0-dev/we0"

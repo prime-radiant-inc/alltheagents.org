@@ -2,6 +2,7 @@
 name: "Orca"
 slug: "orca"
 layout: agent.njk
+category: multiplexer
 maker: "stablyai"
 license: "MIT"
 url: "https://github.com/stablyai/orca"

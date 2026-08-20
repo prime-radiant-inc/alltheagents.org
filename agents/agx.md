@@ -2,6 +2,7 @@
 name: "agx"
 slug: "agx"
 layout: agent.njk
+category: agent
 maker: "ramarlina"
 license: null
 url: "https://github.com/ramarlina/agx"

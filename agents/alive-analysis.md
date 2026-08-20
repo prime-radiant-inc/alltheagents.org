@@ -2,6 +2,7 @@
 name: "alive-analysis"
 slug: "alive-analysis"
 layout: agent.njk
+category: agent
 maker: "with-geun"
 license: "MIT"
 url: "https://github.com/with-geun/alive-analysis"

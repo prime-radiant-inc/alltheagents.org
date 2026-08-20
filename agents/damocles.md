@@ -2,6 +2,7 @@
 name: "damocles"
 slug: "damocles"
 layout: agent.njk
+category: agent
 maker: "AizenvoltPrime"
 license: "MIT"
 url: "https://github.com/AizenvoltPrime/damocles"

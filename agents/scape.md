@@ -2,6 +2,7 @@
 name: "Scape"
 slug: "scape"
 layout: agent.njk
+category: multiplexer
 maker: "Scape"
 license: null
 url: "https://www.scape.work"

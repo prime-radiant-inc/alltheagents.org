@@ -2,6 +2,7 @@
 name: "supacode"
 slug: "supacode"
 layout: agent.njk
+category: agent
 maker: "supabitapp"
 license: "NOASSERTION"
 url: "https://github.com/supabitapp/supacode"

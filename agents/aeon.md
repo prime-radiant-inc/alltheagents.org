@@ -2,6 +2,7 @@
 name: "Aeon"
 slug: "aeon"
 layout: agent.njk
+category: agent
 maker: "aeonfun"
 license: "MIT"
 url: "https://github.com/aeonfun/aeon"

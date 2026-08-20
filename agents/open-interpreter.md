@@ -2,6 +2,7 @@
 name: "Open Interpreter"
 slug: "open-interpreter"
 layout: agent.njk
+category: agent
 maker: "openinterpreter"
 license: "Apache-2.0"
 url: "https://github.com/openinterpreter/openinterpreter"

@@ -2,6 +2,7 @@
 name: "Multi-Agent-Secops-Llm"
 slug: "multi-agent-secops-llm"
 layout: agent.njk
+category: agent
 maker: "tegridydev"
 license: "MIT"
 url: "https://github.com/tegridydev/multi-agent-secops-llm"

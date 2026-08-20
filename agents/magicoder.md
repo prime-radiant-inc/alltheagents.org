@@ -2,6 +2,7 @@
 name: "Magicoder"
 slug: "magicoder"
 layout: agent.njk
+category: agent
 maker: "ISE-UIUC"
 license: "MIT"
 url: "https://github.com/ise-uiuc/magicoder"

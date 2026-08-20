@@ -2,6 +2,7 @@
 name: "Nlp-With-Llms"
 slug: "nlp-with-llms"
 layout: agent.njk
+category: agent
 maker: "jonkrohn"
 license: "MIT"
 url: "https://github.com/jonkrohn/NLP-with-LLMs"

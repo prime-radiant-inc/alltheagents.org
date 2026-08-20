@@ -2,6 +2,7 @@
 name: "Project-S.O.C.R.A.T.E.S."
 slug: "project-socrates"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://github.com/Hams-Ollo/Project-S.O.C.R.A.T.E.S."

@@ -2,6 +2,7 @@
 name: "Floot"
 slug: "floot"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://floot.com/"

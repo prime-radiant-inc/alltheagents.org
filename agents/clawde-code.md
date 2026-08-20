@@ -2,6 +2,7 @@
 name: "Clawde_Code"
 slug: "clawde-code"
 layout: agent.njk
+category: agent
 maker: "GitHpriyanshu23"
 license: null
 url: "https://github.com/GitHpriyanshu23/Clawde_Code"

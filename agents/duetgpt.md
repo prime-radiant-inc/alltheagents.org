@@ -2,6 +2,7 @@
 name: "DuetGPT"
 slug: "duetgpt"
 layout: agent.njk
+category: agent
 maker: "kristoferlund"
 license: "MIT"
 url: "https://github.com/kristoferlund/duet-gpt"

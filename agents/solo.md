@@ -2,6 +2,7 @@
 name: "solo"
 slug: "solo"
 layout: agent.njk
+category: agent
 maker: "solo-agent"
 license: "MIT"
 url: "https://github.com/solo-agent/solo"

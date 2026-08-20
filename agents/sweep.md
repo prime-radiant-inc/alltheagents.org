@@ -2,6 +2,7 @@
 name: "Sweep"
 slug: "sweep"
 layout: agent.njk
+category: agent
 maker: "sweepai"
 license: "NOASSERTION"
 url: "https://github.com/sweepai/sweep"

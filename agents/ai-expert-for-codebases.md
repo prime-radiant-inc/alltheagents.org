@@ -2,6 +2,7 @@
 name: "AI expert for codebases"
 slug: "ai-expert-for-codebases"
 layout: agent.njk
+category: agent
 maker: "Storia AI"
 license: null
 url: "https://storia.ai"

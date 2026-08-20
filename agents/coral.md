@@ -2,6 +2,7 @@
 name: "CORAL"
 slug: "coral"
 layout: agent.njk
+category: agent
 maker: "Human-Agent-Society"
 license: "Apache-2.0"
 url: "https://github.com/Human-Agent-Society/CORAL"

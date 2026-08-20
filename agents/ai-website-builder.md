@@ -2,6 +2,7 @@
 name: "ai-website-builder"
 slug: "ai-website-builder"
 layout: agent.njk
+category: agent
 maker: "builtbyV"
 license: "MIT"
 url: "https://github.com/builtbyV/ai-website-builder"

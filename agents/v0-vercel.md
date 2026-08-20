@@ -2,6 +2,7 @@
 name: "v0 (Vercel)"
 slug: "v0-vercel"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://v0.dev/"

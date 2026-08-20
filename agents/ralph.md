@@ -2,6 +2,7 @@
 name: "ralph"
 slug: "ralph"
 layout: agent.njk
+category: agent
 maker: "snarktank"
 license: "MIT"
 url: "https://github.com/snarktank/ralph"

@@ -2,6 +2,7 @@
 name: "Cosmo"
 slug: "cosmo"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://meetcosmo.ai/"

@@ -2,6 +2,7 @@
 name: "Greptile"
 slug: "greptile"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://greptile.com"

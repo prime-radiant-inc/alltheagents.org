@@ -2,6 +2,7 @@
 name: "Grok Studio"
 slug: "grok-studio"
 layout: agent.njk
+category: agent
 maker: "xAI"
 license: "Proprietary"
 url: "https://grok.x.ai"

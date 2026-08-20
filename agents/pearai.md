@@ -2,6 +2,7 @@
 name: "PearAI"
 slug: "pearai"
 layout: agent.njk
+category: agent
 maker: "trypear"
 license: "MIT"
 url: "https://trypear.ai"

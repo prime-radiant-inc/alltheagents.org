@@ -2,6 +2,7 @@
 name: "Manus"
 slug: "manus"
 layout: agent.njk
+category: agent
 maker: "Manus AI"
 license: "Proprietary"
 url: "https://manus.im"

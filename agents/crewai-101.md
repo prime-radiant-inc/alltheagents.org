@@ -2,6 +2,7 @@
 name: "Crewai-101"
 slug: "crewai-101"
 layout: agent.njk
+category: agent
 maker: "Reyzenello"
 license: null
 url: "https://github.com/Reyzenello/CrewAI-101"

@@ -2,6 +2,7 @@
 name: "VerbalCodeAi"
 slug: "verbalcodeai"
 layout: agent.njk
+category: agent
 maker: "vibheksoni"
 license: "MIT"
 url: "https://github.com/vibheksoni/VerbalCodeAi"

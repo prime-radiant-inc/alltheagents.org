@@ -2,6 +2,7 @@
 name: "EasyCode"
 slug: "easycode"
 layout: agent.njk
+category: agent
 maker: "OrionStarAI"
 license: "Apache-2.0"
 url: "https://github.com/OrionStarAI/EasyCode"

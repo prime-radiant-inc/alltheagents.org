@@ -2,6 +2,7 @@
 name: "Open-Webui-Tools"
 slug: "open-webui-tools"
 layout: agent.njk
+category: agent
 maker: "Haervwe"
 license: "MIT"
 url: "https://github.com/Haervwe/open-webui-tools"

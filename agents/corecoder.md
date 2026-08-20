@@ -2,6 +2,7 @@
 name: "CoreCoder"
 slug: "corecoder"
 layout: agent.njk
+category: agent
 maker: "he-yufeng"
 license: "MIT"
 url: "https://github.com/he-yufeng/CoreCoder"

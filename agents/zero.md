@@ -2,6 +2,7 @@
 name: "zero"
 slug: "zero"
 layout: agent.njk
+category: agent
 maker: "Gitlawb"
 license: "MIT"
 url: "https://github.com/Gitlawb/zero"

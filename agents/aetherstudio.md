@@ -2,6 +2,7 @@
 name: "AetherStudio"
 slug: "aetherstudio"
 layout: agent.njk
+category: agent
 maker: "aetherstudio-cn"
 license: "MIT"
 url: "https://github.com/aetherstudio-cn/AetherStudio"

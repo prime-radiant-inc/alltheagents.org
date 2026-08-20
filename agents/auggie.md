@@ -2,6 +2,7 @@
 name: "Auggie"
 slug: "auggie"
 layout: agent.njk
+category: agent
 maker: "augmentcode"
 license: "NOASSERTION"
 url: "https://github.com/augmentcode/auggie"

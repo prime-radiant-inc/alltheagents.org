@@ -2,6 +2,7 @@
 name: "Bolt.new"
 slug: "boltnew"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://bolt.new/"

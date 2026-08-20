@@ -2,6 +2,7 @@
 name: "instrumentation"
 slug: "instrumentation"
 layout: agent.njk
+category: agent
 maker: "brutusin"
 license: "Apache-2.0"
 url: "https://github.com/brutusin/instrumentation"

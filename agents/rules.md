@@ -2,6 +2,7 @@
 name: "rules"
 slug: "rules"
 layout: agent.njk
+category: agent
 maker: "project-codeguard"
 license: "NOASSERTION"
 url: "https://github.com/project-codeguard/rules"

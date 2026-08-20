@@ -2,6 +2,7 @@
 name: "blade-code"
 slug: "blade-code"
 layout: agent.njk
+category: agent
 maker: "echoVic"
 license: "MIT"
 url: "https://github.com/echoVic/blade-code"

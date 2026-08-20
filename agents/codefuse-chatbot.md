@@ -2,6 +2,7 @@
 name: "CodeFuse-ChatBot"
 slug: "codefuse-chatbot"
 layout: agent.njk
+category: agent
 maker: "codefuse-ai"
 license: "NOASSERTION"
 url: "https://github.com/codefuse-ai/codefuse-chatbot"

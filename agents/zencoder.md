@@ -2,6 +2,7 @@
 name: "Zencoder"
 slug: "zencoder"
 layout: agent.njk
+category: agent
 maker: "Zencoder"
 license: "Proprietary"
 url: "https://zencoder.ai"

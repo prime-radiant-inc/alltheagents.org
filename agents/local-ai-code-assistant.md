@@ -2,6 +2,7 @@
 name: "local-ai-code-assistant"
 slug: "local-ai-code-assistant"
 layout: agent.njk
+category: agent
 maker: "MIKOTOKAWAII25"
 license: null
 url: "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant"

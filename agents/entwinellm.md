@@ -2,6 +2,7 @@
 name: "EntwineLLM"
 slug: "entwinellm"
 layout: agent.njk
+category: agent
 maker: "EmilianoMusso"
 license: "MIT"
 url: "https://github.com/EmilianoMusso/EntwineLLM"

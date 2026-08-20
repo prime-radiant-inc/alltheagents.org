@@ -2,6 +2,7 @@
 name: "agentcookie"
 slug: "agentcookie"
 layout: agent.njk
+category: agent
 maker: "mvanhorn"
 license: "MIT"
 url: "https://github.com/mvanhorn/agentcookie"

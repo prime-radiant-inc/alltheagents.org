@@ -2,6 +2,7 @@
 name: "Multiagent Debate"
 slug: "multiagent-debate"
 layout: agent.njk
+category: agent
 maker: "composable-models"
 license: null
 url: "https://github.com/composable-models/llm_multiagent_debate"

@@ -2,6 +2,7 @@
 name: "coding_agent_session_search"
 slug: "coding-agent-session-search"
 layout: agent.njk
+category: agent
 maker: "Dicklesworthstone"
 license: "NOASSERTION"
 url: "https://github.com/Dicklesworthstone/coding_agent_session_search"

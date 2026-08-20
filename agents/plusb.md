@@ -2,6 +2,7 @@
 name: "PlusB"
 slug: "plusb"
 layout: agent.njk
+category: agent
 maker: "PlusB"
 license: null
 url: "https://www.plusb.in"

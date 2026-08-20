@@ -2,6 +2,7 @@
 name: "hive"
 slug: "hive"
 layout: agent.njk
+category: agent
 maker: "tt-a1i"
 license: "NOASSERTION"
 url: "https://github.com/tt-a1i/hive"

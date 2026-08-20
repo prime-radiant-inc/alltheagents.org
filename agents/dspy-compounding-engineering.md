@@ -2,6 +2,7 @@
 name: "dspy-compounding-engineering"
 slug: "dspy-compounding-engineering"
 layout: agent.njk
+category: agent
 maker: "Strategic-Automation"
 license: null
 url: "https://github.com/Strategic-Automation/dspy-compounding-engineering"

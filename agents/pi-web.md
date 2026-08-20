@@ -2,6 +2,7 @@
 name: "pi-web"
 slug: "pi-web"
 layout: agent.njk
+category: agent
 maker: "jmfederico"
 license: "MIT"
 url: "https://github.com/jmfederico/pi-web"

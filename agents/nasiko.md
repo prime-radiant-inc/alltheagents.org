@@ -2,6 +2,7 @@
 name: "nasiko"
 slug: "nasiko"
 layout: agent.njk
+category: agent
 maker: "Nasiko-Labs"
 license: "NOASSERTION"
 url: "https://github.com/Nasiko-Labs/nasiko"

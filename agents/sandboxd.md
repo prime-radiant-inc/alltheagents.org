@@ -2,6 +2,7 @@
 name: "sandboxd"
 slug: "sandboxd"
 layout: agent.njk
+category: agent
 maker: "tastyeffectco"
 license: "MIT"
 url: "https://github.com/tastyeffectco/sandboxd"

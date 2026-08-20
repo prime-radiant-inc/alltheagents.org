@@ -2,6 +2,7 @@
 name: "indxr"
 slug: "indxr"
 layout: agent.njk
+category: agent
 maker: "bahdotsh"
 license: "MIT"
 url: "https://github.com/bahdotsh/indxr"

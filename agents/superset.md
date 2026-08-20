@@ -2,6 +2,7 @@
 name: "Superset"
 slug: "superset"
 layout: agent.njk
+category: agent
 maker: "superset-sh"
 license: "NOASSERTION"
 url: "https://github.com/superset-sh/superset"

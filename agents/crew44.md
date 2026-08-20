@@ -2,6 +2,7 @@
 name: "Crew44"
 slug: "crew44"
 layout: agent.njk
+category: agent
 maker: "Crew44"
 license: null
 url: "https://crew44.io"

@@ -2,6 +2,7 @@
 name: "Databutton"
 slug: "databutton"
 layout: agent.njk
+category: agent
 maker: "Databutton"
 license: "Proprietary"
 url: "https://www.databutton.com"

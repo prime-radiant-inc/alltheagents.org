@@ -2,6 +2,7 @@
 name: "PlayCode Agent"
 slug: "playcode-agent"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://playcode.io"

@@ -2,6 +2,7 @@
 name: "codebadger"
 slug: "codebadger"
 layout: agent.njk
+category: agent
 maker: "Lekssays"
 license: "GPL-3.0"
 url: "https://github.com/Lekssays/codebadger"

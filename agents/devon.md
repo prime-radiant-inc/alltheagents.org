@@ -2,6 +2,7 @@
 name: "Devon"
 slug: "devon"
 layout: agent.njk
+category: agent
 maker: "entropy-research"
 license: "AGPL-3.0"
 url: "https://github.com/entropy-research/Devon"

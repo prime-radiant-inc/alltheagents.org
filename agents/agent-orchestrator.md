@@ -2,6 +2,7 @@
 name: "agent-orchestrator"
 slug: "agent-orchestrator"
 layout: agent.njk
+category: multiplexer
 maker: "willynikes2"
 license: "MIT"
 url: "https://github.com/willynikes2/agent-orchestrator"

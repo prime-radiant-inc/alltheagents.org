@@ -2,6 +2,7 @@
 name: "No Fate AI"
 slug: "no-fate-ai"
 layout: agent.njk
+category: agent
 maker: "No Fate AI"
 license: null
 url: "https://nofateai.com"

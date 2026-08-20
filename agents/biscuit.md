@@ -2,6 +2,7 @@
 name: "biscuit"
 slug: "biscuit"
 layout: agent.njk
+category: agent
 maker: "tomlin7"
 license: "MIT"
 url: "https://github.com/tomlin7/biscuit"

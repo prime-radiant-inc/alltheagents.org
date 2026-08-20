@@ -2,6 +2,7 @@
 name: "Strands Agents SDK"
 slug: "strands-agents-sdk"
 layout: agent.njk
+category: agent
 maker: "strands-agents"
 license: "Apache-2.0"
 url: "https://github.com/strands-agents/sdk-python"

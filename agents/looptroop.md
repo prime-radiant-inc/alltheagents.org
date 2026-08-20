@@ -2,6 +2,7 @@
 name: "LoopTroop"
 slug: "looptroop"
 layout: agent.njk
+category: agent
 maker: "looptroop-ai"
 license: "MIT"
 url: "https://github.com/looptroop-ai/LoopTroop"

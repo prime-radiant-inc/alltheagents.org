@@ -2,6 +2,7 @@
 name: "SWE-Gym"
 slug: "swe-gym"
 layout: agent.njk
+category: agent
 maker: "SWE-Gym"
 license: "Apache-2.0"
 url: "https://github.com/SWE-Gym/SWE-Gym"

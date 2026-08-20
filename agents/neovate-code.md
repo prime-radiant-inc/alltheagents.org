@@ -2,6 +2,7 @@
 name: "Neovate Code"
 slug: "neovate-code"
 layout: agent.njk
+category: agent
 maker: "neovateai"
 license: "MIT"
 url: "https://github.com/neovateai/neovate-code"

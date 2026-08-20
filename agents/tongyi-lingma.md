@@ -2,6 +2,7 @@
 name: "Tongyi Lingma"
 slug: "tongyi-lingma"
 layout: agent.njk
+category: agent
 maker: "Alibaba Cloud"
 license: "Proprietary"
 url: "https://lingma.aliyun.com"

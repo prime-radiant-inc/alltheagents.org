@@ -2,6 +2,7 @@
 name: "colony repo"
 slug: "colony-repo"
 layout: agent.njk
+category: agent
 maker: "hivemoot"
 license: "Apache-2.0"
 url: "https://github.com/hivemoot/colony"

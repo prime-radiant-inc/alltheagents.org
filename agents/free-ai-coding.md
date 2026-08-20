@@ -2,6 +2,7 @@
 name: "free-ai-coding"
 slug: "free-ai-coding"
 layout: agent.njk
+category: agent
 maker: "inmve"
 license: null
 url: "https://github.com/inmve/free-ai-coding"

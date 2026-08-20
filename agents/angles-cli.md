@@ -2,6 +2,7 @@
 name: "angles-cli"
 slug: "angles-cli"
 layout: agent.njk
+category: agent
 maker: "ZSJ305"
 license: "MIT"
 url: "https://github.com/ZSJ305/angles-cli"

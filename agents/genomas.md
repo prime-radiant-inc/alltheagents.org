@@ -2,6 +2,7 @@
 name: "GenoMAS"
 slug: "genomas"
 layout: agent.njk
+category: agent
 maker: "Liu-Hy"
 license: "MIT"
 url: "https://github.com/Liu-Hy/GenoMAS"

@@ -2,6 +2,7 @@
 name: "Ai-Code-Gen"
 slug: "ai-code-gen"
 layout: agent.njk
+category: agent
 maker: "Farelart"
 license: null
 url: "https://github.com/Farelart/Ai-code-gen"

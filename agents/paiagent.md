@@ -2,6 +2,7 @@
 name: "PaiAgent"
 slug: "paiagent"
 layout: agent.njk
+category: agent
 maker: "itwanger"
 license: null
 url: "https://github.com/itwanger/PaiAgent"

@@ -2,6 +2,7 @@
 name: "agentic-coding-intro"
 slug: "agentic-coding-intro"
 layout: agent.njk
+category: agent
 maker: "seandavi"
 license: "NOASSERTION"
 url: "https://github.com/seandavi/agentic-coding-intro"

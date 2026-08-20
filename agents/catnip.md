@@ -2,6 +2,7 @@
 name: "Catnip"
 slug: "catnip"
 layout: agent.njk
+category: multiplexer
 maker: null
 license: null
 url: "https://github.com/wandb/catnip"

@@ -2,6 +2,7 @@
 name: "code-review"
 slug: "code-review"
 layout: agent.njk
+category: agent
 maker: "gemini-cli-extensions"
 license: "Apache-2.0"
 url: "https://github.com/gemini-cli-extensions/code-review"

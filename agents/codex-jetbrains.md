@@ -2,6 +2,7 @@
 name: "Codex-JetBrains"
 slug: "codex-jetbrains"
 layout: agent.njk
+category: agent
 maker: "Haleclipse"
 license: "Apache-2.0"
 url: "https://github.com/Haleclipse/Codex-JetBrains"

@@ -2,6 +2,7 @@
 name: "coding-the-coding-agents"
 slug: "coding-the-coding-agents"
 layout: agent.njk
+category: agent
 maker: "zencoderai"
 license: null
 url: "https://github.com/zencoderai/coding-the-coding-agents"

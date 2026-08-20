@@ -2,6 +2,7 @@
 name: "kodo"
 slug: "kodo"
 layout: agent.njk
+category: multiplexer
 maker: "ikamensh"
 license: "MIT"
 url: "https://github.com/ikamensh/kodo"

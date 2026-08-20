@@ -45,6 +45,13 @@ def main():
             source_urls = json.load(f)
         print(f"Loaded {len(source_urls)} source URLs from {source_urls_path}")
 
+    multiplexer_slugs_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "multiplexer_slugs.json")
+    multiplexer_slugs = set()
+    if os.path.exists(multiplexer_slugs_path):
+        with open(multiplexer_slugs_path, encoding="utf-8") as f:
+            multiplexer_slugs = set(json.load(f))
+        print(f"Loaded {len(multiplexer_slugs)} multiplexer slugs from {multiplexer_slugs_path}")
+
     rows = list(csv.DictReader(open(TSV, encoding="utf-8"), delimiter="\t"))
     print(f"Read {len(rows)} entries from TSV")
     
@@ -85,6 +92,8 @@ def main():
         fm_lines.append(f"name: {yaml_escape(name)}")
         fm_lines.append(f"slug: {yaml_escape(slug)}")
         fm_lines.append("layout: agent.njk")
+        category = "multiplexer" if slug in multiplexer_slugs else "agent"
+        fm_lines.append(f"category: {category}")
         fm_lines.append(f"maker: {yaml_escape(r.get('maker','').strip() or None)}")
         fm_lines.append(f"license: {yaml_escape(r.get('license','').strip() or None)}")
         fm_lines.append(f"url: {yaml_escape(r.get('url','').strip() or None)}")

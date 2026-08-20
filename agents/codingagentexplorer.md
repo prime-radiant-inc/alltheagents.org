@@ -2,6 +2,7 @@
 name: "CodingAgentExplorer"
 slug: "codingagentexplorer"
 layout: agent.njk
+category: agent
 maker: "tndata"
 license: "MIT"
 url: "https://github.com/tndata/CodingAgentExplorer"

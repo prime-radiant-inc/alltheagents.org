@@ -2,6 +2,7 @@
 name: "Cluely"
 slug: "cluely"
 layout: agent.njk
+category: agent
 maker: "Cluely"
 license: "Proprietary"
 url: "https://cluely.ai"

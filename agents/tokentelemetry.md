@@ -2,6 +2,7 @@
 name: "tokentelemetry"
 slug: "tokentelemetry"
 layout: agent.njk
+category: agent
 maker: "VasiHemanth"
 license: "MIT"
 url: "https://github.com/VasiHemanth/tokentelemetry"

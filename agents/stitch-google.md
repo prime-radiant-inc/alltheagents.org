@@ -2,6 +2,7 @@
 name: "Stitch (Google)"
 slug: "stitch-google"
 layout: agent.njk
+category: agent
 maker: "Google"
 license: "Proprietary"
 url: "https://stitch.withgoogle.com"

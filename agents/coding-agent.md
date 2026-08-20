@@ -2,6 +2,7 @@
 name: "coding-agent"
 slug: "coding-agent"
 layout: agent.njk
+category: agent
 maker: "embabel"
 license: "Apache-2.0"
 url: "https://github.com/embabel/coding-agent"

@@ -2,6 +2,7 @@
 name: "forgeo"
 slug: "forgeo"
 layout: agent.njk
+category: multiplexer
 maker: "lucaGazzola"
 license: "MIT"
 url: "https://github.com/lucaGazzola/forgeo"

@@ -2,6 +2,7 @@
 name: "OpenHands"
 slug: "openhands"
 layout: agent.njk
+category: agent
 maker: "OpenHands"
 license: "MIT"
 url: "https://github.com/OpenHands/OpenHands"

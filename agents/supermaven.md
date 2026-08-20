@@ -2,6 +2,7 @@
 name: "Supermaven"
 slug: "supermaven"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://supermaven.com"

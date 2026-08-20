@@ -2,6 +2,7 @@
 name: "vercel-doctor"
 slug: "vercel-doctor"
 layout: agent.njk
+category: agent
 maker: "Aniket-508"
 license: "MIT"
 url: "https://github.com/Aniket-508/vercel-doctor"

@@ -2,6 +2,7 @@
 name: "Atlarix"
 slug: "atlarix"
 layout: agent.njk
+category: agent
 maker: "Atlarix"
 license: "Proprietary"
 url: "https://www.atlarix.dev"

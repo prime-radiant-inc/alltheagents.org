@@ -2,6 +2,7 @@
 name: "Llmstack"
 slug: "llmstack"
 layout: agent.njk
+category: agent
 maker: "trypromptly"
 license: "NOASSERTION"
 url: "https://github.com/trypromptly/LLMStack"

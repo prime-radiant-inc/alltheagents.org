@@ -2,6 +2,7 @@
 name: "OpenCursor"
 slug: "opencursor"
 layout: agent.njk
+category: agent
 maker: "PawanOsman"
 license: "MIT"
 url: "https://github.com/PawanOsman/OpenCursor"

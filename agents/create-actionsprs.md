@@ -2,6 +2,7 @@
 name: "Create-Actionsprs"
 slug: "create-actionsprs"
 layout: agent.njk
+category: agent
 maker: "jhutchings1"
 license: "MIT"
 url: "https://github.com/jhutchings1/Create-ActionsPRs"

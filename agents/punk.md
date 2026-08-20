@@ -2,6 +2,7 @@
 name: "PUNK"
 slug: "punk"
 layout: agent.njk
+category: multiplexer
 maker: "PUNK"
 license: null
 url: "https://punkcode.rocks"

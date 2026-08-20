@@ -2,6 +2,7 @@
 name: "Nous"
 slug: "nous"
 layout: agent.njk
+category: agent
 maker: "TrafficGuard"
 license: "MIT"
 url: "https://github.com/TrafficGuard/nous"

@@ -2,6 +2,7 @@
 name: "CLITrigger"
 slug: "clitrigger"
 layout: agent.njk
+category: multiplexer
 maker: "HyperAITeam"
 license: "MIT"
 url: "https://github.com/HyperAITeam/CLITrigger"

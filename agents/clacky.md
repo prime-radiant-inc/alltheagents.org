@@ -2,6 +2,7 @@
 name: "Clacky"
 slug: "clacky"
 layout: agent.njk
+category: agent
 maker: "Clacky"
 license: null
 url: "https://clacky.ai"

@@ -2,6 +2,7 @@
 name: "BMAD-METHOD"
 slug: "bmad-method"
 layout: agent.njk
+category: agent
 maker: "bmad-code-org"
 license: "NOASSERTION"
 url: "https://github.com/bmad-code-org/BMAD-METHOD"

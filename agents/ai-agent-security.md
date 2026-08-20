@@ -2,6 +2,7 @@
 name: "Ai-Agent-Security"
 slug: "ai-agent-security"
 layout: agent.njk
+category: agent
 maker: "SecurityLab-UCD"
 license: null
 url: "https://github.com/SecurityLab-UCD/ai-agent-security"

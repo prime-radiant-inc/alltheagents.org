@@ -2,6 +2,7 @@
 name: "mutable.ai"
 slug: "mutableai"
 layout: agent.njk
+category: agent
 maker: "MutableAI"
 license: null
 url: "https://mutable.ai"

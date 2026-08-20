@@ -2,6 +2,7 @@
 name: "terragon-oss"
 slug: "terragon-oss"
 layout: agent.njk
+category: multiplexer
 maker: "terragon-labs"
 license: "Apache-2.0"
 url: "https://github.com/terragon-labs/terragon-oss"

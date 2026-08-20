@@ -2,6 +2,7 @@
 name: "swift-coding-agent"
 slug: "swift-coding-agent"
 layout: agent.njk
+category: agent
 maker: "ivan-magda"
 license: "MIT"
 url: "https://github.com/ivan-magda/swift-coding-agent"

@@ -2,6 +2,7 @@
 name: "Tools"
 slug: "tools"
 layout: agent.njk
+category: agent
 maker: "buildownai"
 license: "NOASSERTION"
 url: "https://github.com/buildownai/tools"

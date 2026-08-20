@@ -2,6 +2,7 @@
 name: "Jules"
 slug: "jules"
 layout: agent.njk
+category: agent
 maker: "Google"
 license: "Proprietary"
 url: "https://jules.google"

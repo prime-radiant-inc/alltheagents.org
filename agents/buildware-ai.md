@@ -2,6 +2,7 @@
 name: "buildware-ai"
 slug: "buildware-ai"
 layout: agent.njk
+category: agent
 maker: "mckaywrigley"
 license: "MIT"
 url: "https://github.com/mckaywrigley/buildware-ai"

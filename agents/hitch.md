@@ -2,6 +2,7 @@
 name: "hitch"
 slug: "hitch"
 layout: agent.njk
+category: agent
 maker: "maxktz"
 license: "MIT"
 url: "https://github.com/maxktz/hitch"

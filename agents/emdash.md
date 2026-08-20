@@ -2,6 +2,7 @@
 name: "Emdash"
 slug: "emdash"
 layout: agent.njk
+category: multiplexer
 maker: "generalaction"
 license: "Apache-2.0"
 url: "https://github.com/generalaction/emdash"

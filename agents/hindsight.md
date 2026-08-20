@@ -2,6 +2,7 @@
 name: "Hindsight"
 slug: "hindsight"
 layout: agent.njk
+category: agent
 maker: "vectorize-io"
 license: "MIT"
 url: "https://github.com/vectorize-io/hindsight"

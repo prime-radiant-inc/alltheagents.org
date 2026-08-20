@@ -2,6 +2,7 @@
 name: "EvoNinja"
 slug: "evoninja"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://evo.ninja/"

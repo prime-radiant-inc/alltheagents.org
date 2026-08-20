@@ -2,6 +2,7 @@
 name: "vibra-code"
 slug: "vibra-code"
 layout: agent.njk
+category: agent
 maker: "sa4hnd"
 license: "AGPL-3.0"
 url: "https://github.com/sa4hnd/vibra-code"

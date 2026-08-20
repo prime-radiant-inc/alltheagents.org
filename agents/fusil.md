@@ -2,6 +2,7 @@
 name: "fusil"
 slug: "fusil"
 layout: agent.njk
+category: agent
 maker: "devdanzin"
 license: "GPL-2.0"
 url: "https://github.com/devdanzin/fusil"

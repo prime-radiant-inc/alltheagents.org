@@ -2,6 +2,7 @@
 name: "Z.ai Code"
 slug: "zai-code"
 layout: agent.njk
+category: agent
 maker: "Z.ai"
 license: "Proprietary"
 url: "https://z.ai/code"

@@ -2,6 +2,7 @@
 name: "LocoTrainer"
 slug: "locotrainer"
 layout: agent.njk
+category: agent
 maker: "LocoreMind"
 license: "MIT"
 url: "https://github.com/LocoreMind/LocoTrainer"

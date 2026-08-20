@@ -2,6 +2,7 @@
 name: "Copilot Workspace"
 slug: "copilot-workspace"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://githubnext.com/projects/copilot-workspace"

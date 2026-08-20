@@ -2,6 +2,7 @@
 name: "devctx"
 slug: "devctx"
 layout: agent.njk
+category: agent
 maker: "IAmUnbounded"
 license: null
 url: "https://github.com/IAmUnbounded/devctx"

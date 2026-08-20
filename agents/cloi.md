@@ -2,6 +2,7 @@
 name: "cloi"
 slug: "cloi"
 layout: agent.njk
+category: agent
 maker: "gabrielchasukjin"
 license: "MIT"
 url: "https://github.com/gabrielchasukjin/cloi"

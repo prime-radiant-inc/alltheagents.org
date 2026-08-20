@@ -2,6 +2,7 @@
 name: "Speech-To-Code"
 slug: "speech-to-code"
 layout: agent.njk
+category: agent
 maker: "dharllc"
 license: null
 url: "https://github.com/dharllc/speech-to-code"

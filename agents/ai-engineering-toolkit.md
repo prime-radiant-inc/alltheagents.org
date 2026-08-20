@@ -2,6 +2,7 @@
 name: "ai-engineering-toolkit"
 slug: "ai-engineering-toolkit"
 layout: agent.njk
+category: agent
 maker: "Sumanth077"
 license: "MIT"
 url: "https://github.com/Sumanth077/ai-engineering-toolkit"

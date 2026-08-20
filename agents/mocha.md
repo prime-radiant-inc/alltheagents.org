@@ -2,6 +2,7 @@
 name: "Mocha"
 slug: "mocha"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://getmocha.com/"

@@ -2,6 +2,7 @@
 name: "Ai-Agents-Tool-Dev"
 slug: "ai-agents-tool-dev"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://github.com/aydinfer/ai-agents-tool-dev"

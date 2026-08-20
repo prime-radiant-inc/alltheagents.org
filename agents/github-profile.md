@@ -2,6 +2,7 @@
 name: "github profile"
 slug: "github-profile"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://github.com/aiwaves-cn"

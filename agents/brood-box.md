@@ -2,6 +2,7 @@
 name: "brood-box"
 slug: "brood-box"
 layout: agent.njk
+category: multiplexer
 maker: "stacklok"
 license: "Apache-2.0"
 url: "https://github.com/stacklok/brood-box"

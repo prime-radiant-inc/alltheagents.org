@@ -2,6 +2,7 @@
 name: "DeepGame"
 slug: "deepgame"
 layout: agent.njk
+category: agent
 maker: "ismorphism"
 license: "MIT"
 url: "https://github.com/ismorphism/DeepGame"

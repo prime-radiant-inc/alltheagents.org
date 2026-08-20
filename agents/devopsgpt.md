@@ -2,6 +2,7 @@
 name: "DevOpsGPT"
 slug: "devopsgpt"
 layout: agent.njk
+category: agent
 maker: "kuafuai"
 license: "NOASSERTION"
 url: "https://github.com/kuafuai/DevOpsGPT"

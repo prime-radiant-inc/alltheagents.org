@@ -2,6 +2,7 @@
 name: "SWE-AF"
 slug: "swe-af"
 layout: agent.njk
+category: agent
 maker: "Agent-Field"
 license: "Apache-2.0"
 url: "https://github.com/Agent-Field/SWE-AF"

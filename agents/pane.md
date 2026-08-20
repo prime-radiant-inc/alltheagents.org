@@ -2,6 +2,7 @@
 name: "Pane"
 slug: "pane"
 layout: agent.njk
+category: multiplexer
 maker: "dcouple"
 license: "NOASSERTION"
 url: "https://github.com/dcouple/Pane"

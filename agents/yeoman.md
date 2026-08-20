@@ -2,6 +2,7 @@
 name: "Yeoman"
 slug: "yeoman"
 layout: agent.njk
+category: agent
 maker: "yeoman"
 license: null
 url: "https://github.com/yeoman/yeoman"

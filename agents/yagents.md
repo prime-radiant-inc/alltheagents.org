@@ -2,6 +2,7 @@
 name: "yAgents"
 slug: "yagents"
 layout: agent.njk
+category: agent
 maker: "genlayerlabs"
 license: "MIT"
 url: "https://github.com/yeagerai/yeagerai-agent"

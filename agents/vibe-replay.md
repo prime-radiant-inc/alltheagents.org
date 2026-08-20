@@ -2,6 +2,7 @@
 name: "vibe-replay"
 slug: "vibe-replay"
 layout: agent.njk
+category: agent
 maker: "tuo-lei"
 license: "MIT"
 url: "https://github.com/tuo-lei/vibe-replay"

@@ -2,6 +2,7 @@
 name: "open-multi-agent"
 slug: "open-multi-agent"
 layout: agent.njk
+category: agent
 maker: "open-multi-agent"
 license: "MIT"
 url: "https://github.com/open-multi-agent/open-multi-agent"

@@ -2,6 +2,7 @@
 name: "Genie (Cosine)"
 slug: "genie-cosine"
 layout: agent.njk
+category: agent
 maker: "Cosine"
 license: "Proprietary"
 url: "https://cosine.sh"

@@ -2,6 +2,7 @@
 name: "Sc-Helm-App"
 slug: "sc-helm-app"
 layout: agent.njk
+category: agent
 maker: "amsilf"
 license: null
 url: "https://github.com/amsilf/sc-helm-app"

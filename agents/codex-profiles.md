@@ -2,6 +2,7 @@
 name: "codex-profiles"
 slug: "codex-profiles"
 layout: agent.njk
+category: agent
 maker: "Ducksss"
 license: "MIT"
 url: "https://github.com/Ducksss/codex-profiles"

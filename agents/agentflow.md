@@ -2,6 +2,7 @@
 name: "AgentFlow"
 slug: "agentflow"
 layout: agent.njk
+category: agent
 maker: "lupantech"
 license: "MIT"
 url: "https://github.com/lupantech/AgentFlow"

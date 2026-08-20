@@ -2,6 +2,7 @@
 name: "junie"
 slug: "junie"
 layout: agent.njk
+category: agent
 maker: "JetBrains"
 license: "NOASSERTION"
 url: "https://github.com/JetBrains/junie"

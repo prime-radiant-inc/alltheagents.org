@@ -2,6 +2,7 @@
 name: "nodeterm"
 slug: "nodeterm"
 layout: agent.njk
+category: multiplexer
 maker: "eneskirca"
 license: "NOASSERTION"
 url: "https://github.com/eneskirca/nodeterm"

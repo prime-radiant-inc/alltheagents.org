@@ -2,6 +2,7 @@
 name: "Claude Code"
 slug: "claude-code"
 layout: agent.njk
+category: agent
 maker: "anthropics"
 license: "Closed Source"
 url: "https://github.com/anthropics/claude-code"

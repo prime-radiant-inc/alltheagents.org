@@ -2,6 +2,7 @@
 name: "ocode"
 slug: "ocode"
 layout: agent.njk
+category: agent
 maker: "haasonsaas"
 license: "NOASSERTION"
 url: "https://github.com/haasonsaas/ocode"

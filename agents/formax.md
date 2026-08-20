@@ -2,6 +2,7 @@
 name: "formax"
 slug: "formax"
 layout: agent.njk
+category: agent
 maker: "yusifeng"
 license: "MIT"
 url: "https://github.com/yusifeng/formax"

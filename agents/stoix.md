@@ -2,6 +2,7 @@
 name: "Stoix"
 slug: "stoix"
 layout: agent.njk
+category: agent
 maker: "EdanToledo"
 license: "Apache-2.0"
 url: "https://github.com/EdanToledo/Stoix"

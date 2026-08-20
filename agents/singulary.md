@@ -2,6 +2,7 @@
 name: "singulary"
 slug: "singulary"
 layout: agent.njk
+category: agent
 maker: "sammwyy"
 license: "MIT"
 url: "https://github.com/sammwyy/singulary"

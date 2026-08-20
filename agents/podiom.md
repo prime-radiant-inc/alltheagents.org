@@ -2,6 +2,7 @@
 name: "Podiom"
 slug: "podiom"
 layout: agent.njk
+category: multiplexer
 maker: "Podiom"
 license: "MIT"
 url: "https://github.com/Podiom/Podiom"

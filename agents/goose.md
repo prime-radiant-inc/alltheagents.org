@@ -2,6 +2,7 @@
 name: "Goose"
 slug: "goose"
 layout: agent.njk
+category: agent
 maker: "aaif-goose"
 license: "Apache-2.0"
 url: "https://github.com/aaif-goose/goose"

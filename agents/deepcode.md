@@ -2,6 +2,7 @@
 name: "DeepCode"
 slug: "deepcode"
 layout: agent.njk
+category: agent
 maker: "HKUDS"
 license: "MIT"
 url: "https://github.com/HKUDS/DeepCode"

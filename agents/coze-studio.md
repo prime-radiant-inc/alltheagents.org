@@ -2,6 +2,7 @@
 name: "coze-studio"
 slug: "coze-studio"
 layout: agent.njk
+category: agent
 maker: "coze-dev"
 license: "Apache-2.0"
 url: "https://github.com/coze-dev/coze-studio"

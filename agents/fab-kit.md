@@ -2,6 +2,7 @@
 name: "fab-kit"
 slug: "fab-kit"
 layout: agent.njk
+category: agent
 maker: "sahil87"
 license: "MIT"
 url: "https://github.com/sahil87/fab-kit"

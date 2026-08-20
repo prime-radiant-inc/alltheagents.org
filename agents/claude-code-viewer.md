@@ -2,6 +2,7 @@
 name: "claude-code-viewer"
 slug: "claude-code-viewer"
 layout: agent.njk
+category: agent
 maker: "d-kimuson"
 license: "MIT"
 url: "https://github.com/d-kimuson/claude-code-viewer"

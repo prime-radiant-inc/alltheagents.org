@@ -2,6 +2,7 @@
 name: "T3 Code"
 slug: "t3-code"
 layout: agent.njk
+category: multiplexer
 maker: "pingdotgg"
 license: "MIT"
 url: "https://t3.codes"

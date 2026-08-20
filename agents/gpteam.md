@@ -2,6 +2,7 @@
 name: "GPTeam"
 slug: "gpteam"
 layout: agent.njk
+category: agent
 maker: "101dotxyz"
 license: "MIT"
 url: "https://github.com/101dotxyz/GPTeam"

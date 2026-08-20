@@ -2,6 +2,7 @@
 name: "Whitebox-Code-Gpt"
 slug: "whitebox-code-gpt"
 layout: agent.njk
+category: agent
 maker: "Decron"
 license: "MIT"
 url: "https://github.com/Decron/Whitebox-Code-GPT"

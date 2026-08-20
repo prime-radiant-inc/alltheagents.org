@@ -2,6 +2,7 @@
 name: "yoyo"
 slug: "yoyo"
 layout: agent.njk
+category: agent
 maker: "Independent"
 license: "MIT"
 url: "https://github.com/yoyolab/yoyo"

@@ -2,6 +2,7 @@
 name: "vogte"
 slug: "vogte"
 layout: agent.njk
+category: agent
 maker: "piqoni"
 license: "MIT"
 url: "https://github.com/piqoni/vogte"

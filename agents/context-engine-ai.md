@@ -2,6 +2,7 @@
 name: "context-engine-ai"
 slug: "context-engine-ai"
 layout: agent.njk
+category: agent
 maker: "Quinnod345"
 license: "MIT"
 url: "https://github.com/Quinnod345/context-engine"

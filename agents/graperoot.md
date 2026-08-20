@@ -2,6 +2,7 @@
 name: "GrapeRoot"
 slug: "graperoot"
 layout: agent.njk
+category: agent
 maker: "kunal12203"
 license: "Apache-2.0"
 url: "https://github.com/kunal12203/GrapeRoot"

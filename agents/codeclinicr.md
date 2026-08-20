@@ -2,6 +2,7 @@
 name: "CodeClinicR"
 slug: "codeclinicr"
 layout: agent.njk
+category: agent
 maker: "mnr"
 license: null
 url: "https://github.com/mnr/CodeClinicR"

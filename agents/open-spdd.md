@@ -2,6 +2,7 @@
 name: "open-spdd"
 slug: "open-spdd"
 layout: agent.njk
+category: agent
 maker: "gszhangwei"
 license: "MIT"
 url: "https://github.com/gszhangwei/open-spdd"

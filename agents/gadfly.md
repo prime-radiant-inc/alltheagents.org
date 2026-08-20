@@ -2,6 +2,7 @@
 name: "Gadfly"
 slug: "gadfly"
 layout: agent.njk
+category: agent
 maker: "Touchpoint-Labs"
 license: "MIT"
 url: "https://github.com/Touchpoint-Labs/Gadfly"

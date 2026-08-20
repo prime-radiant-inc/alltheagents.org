@@ -2,6 +2,7 @@
 name: "claude.vim"
 slug: "claudevim"
 layout: agent.njk
+category: agent
 maker: "pasky"
 license: "MIT"
 url: "https://github.com/pasky/claude.vim"

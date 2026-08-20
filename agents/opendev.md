@@ -2,6 +2,7 @@
 name: "opendev"
 slug: "opendev"
 layout: agent.njk
+category: agent
 maker: "opendev-to"
 license: "MIT"
 url: "https://github.com/opendev-to/opendev"

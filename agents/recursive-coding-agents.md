@@ -2,6 +2,7 @@
 name: "recursive-coding-agents"
 slug: "recursive-coding-agents"
 layout: agent.njk
+category: agent
 maker: "rawwerks"
 license: "NOASSERTION"
 url: "https://github.com/rawwerks/recursive-coding-agents"

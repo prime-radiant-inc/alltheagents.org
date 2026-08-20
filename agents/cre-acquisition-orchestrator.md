@@ -2,6 +2,7 @@
 name: "cre-acquisition-orchestrator"
 slug: "cre-acquisition-orchestrator"
 layout: agent.njk
+category: agent
 maker: "ahacker-1"
 license: "Apache-2.0"
 url: "https://github.com/ahacker-1/cre-acquisition-orchestrator"

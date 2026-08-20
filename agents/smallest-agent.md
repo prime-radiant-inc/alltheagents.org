@@ -2,6 +2,7 @@
 name: "Smallest Agent"
 slug: "smallest-agent"
 layout: agent.njk
+category: agent
 maker: "obra"
 license: null
 url: "https://github.com/obra/smallest-agent"

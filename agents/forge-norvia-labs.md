@@ -2,6 +2,7 @@
 name: "Forge (Norvia Labs)"
 slug: "forge-norvia-labs"
 layout: agent.njk
+category: agent
 maker: "NorviaLabs"
 license: "MIT"
 url: "https://github.com/NorviaLabs/forge"

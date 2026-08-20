@@ -2,6 +2,7 @@
 name: "InstallCursorEditorLinux"
 slug: "installcursoreditorlinux"
 layout: agent.njk
+category: agent
 maker: "IsRengel"
 license: "Apache-2.0"
 url: "https://github.com/IsRengel/InstallCursorEditorLinux"

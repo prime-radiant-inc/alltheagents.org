@@ -4,9 +4,18 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy({ "_data/agents.json": "agents.json" });
 
-  // Collection: all agents
+  // Collection: all agent harnesses (exclude multiplexers)
   eleventyConfig.addCollection("agent", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("agents/*.md");
+    return collectionApi.getFilteredByGlob("agents/*.md").filter(
+      item => item.data.category !== "multiplexer"
+    );
+  });
+
+  // Collection: multiplexers (tools that orchestrate/run other agent harnesses)
+  eleventyConfig.addCollection("multiplexer", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("agents/*.md").filter(
+      item => item.data.category === "multiplexer"
+    );
   });
 
   // Filter: format date

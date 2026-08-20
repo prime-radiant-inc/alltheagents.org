@@ -2,6 +2,7 @@
 name: "construct"
 slug: "construct"
 layout: agent.njk
+category: multiplexer
 maker: "construct-worlds"
 license: "MIT"
 url: "https://github.com/construct-worlds/construct"

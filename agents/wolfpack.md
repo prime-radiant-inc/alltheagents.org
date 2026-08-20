@@ -2,6 +2,7 @@
 name: "Wolfpack"
 slug: "wolfpack"
 layout: agent.njk
+category: multiplexer
 maker: "almogdepaz"
 license: "MIT"
 url: "https://github.com/almogdepaz/wolfpack"

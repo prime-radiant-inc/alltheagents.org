@@ -2,6 +2,7 @@
 name: "video"
 slug: "video"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.youtube.com/watch?v=DXhqhpHWRuM"

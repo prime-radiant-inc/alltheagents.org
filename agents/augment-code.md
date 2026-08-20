@@ -2,6 +2,7 @@
 name: "Augment Code"
 slug: "augment-code"
 layout: agent.njk
+category: agent
 maker: "Augment Code"
 license: "Proprietary"
 url: "https://www.augmentcode.com"

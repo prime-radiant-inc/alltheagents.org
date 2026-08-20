@@ -2,6 +2,7 @@
 name: "ai_game_base_analysis_cli_mcp_tool"
 slug: "ai-game-base-analysis-cli-mcp-tool"
 layout: agent.njk
+category: agent
 maker: "pirua-game"
 license: "Apache-2.0"
 url: "https://github.com/pirua-game/ai_game_base_analysis_cli_mcp_tool"

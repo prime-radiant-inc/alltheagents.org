@@ -2,6 +2,7 @@
 name: "MonkeyCode"
 slug: "monkeycode"
 layout: agent.njk
+category: agent
 maker: "chaitin"
 license: "AGPL-3.0"
 url: "https://github.com/chaitin/MonkeyCode"

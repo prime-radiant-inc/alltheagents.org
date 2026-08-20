@@ -2,6 +2,7 @@
 name: "CodeReviewAgent"
 slug: "codereviewagent"
 layout: agent.njk
+category: agent
 maker: "gitbito"
 license: "MIT"
 url: "https://github.com/gitbito/CodeReviewAgent"

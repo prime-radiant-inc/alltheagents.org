@@ -2,6 +2,7 @@
 name: "PrivateCode"
 slug: "privatecode"
 layout: agent.njk
+category: agent
 maker: "Legorobotdude"
 license: "MIT"
 url: "https://github.com/Legorobotdude/PrivateCode"

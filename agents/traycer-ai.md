@@ -2,6 +2,7 @@
 name: "Traycer AI"
 slug: "traycer-ai"
 layout: agent.njk
+category: agent
 maker: "Traycer"
 license: "Proprietary"
 url: "https://traycer.ai"

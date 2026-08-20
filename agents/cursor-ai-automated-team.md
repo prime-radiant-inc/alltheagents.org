@@ -2,6 +2,7 @@
 name: "Cursor AI Automated Team"
 slug: "cursor-ai-automated-team"
 layout: agent.njk
+category: agent
 maker: "joinwell52-AI"
 license: "NOASSERTION"
 url: "https://github.com/joinwell52-AI/joinwell52"

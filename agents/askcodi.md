@@ -2,6 +2,7 @@
 name: "AskCodi"
 slug: "askcodi"
 layout: agent.njk
+category: agent
 maker: "AskCodi"
 license: "Proprietary"
 url: "https://www.askcodi.com"

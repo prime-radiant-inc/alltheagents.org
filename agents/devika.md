@@ -2,6 +2,7 @@
 name: "Devika"
 slug: "devika"
 layout: agent.njk
+category: agent
 maker: "stitionai"
 license: "MIT"
 url: "https://github.com/stitionai/devika"

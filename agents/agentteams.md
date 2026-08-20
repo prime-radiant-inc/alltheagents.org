@@ -2,6 +2,7 @@
 name: "AgentTeams"
 slug: "agentteams"
 layout: agent.njk
+category: agent
 maker: "agentscope-ai"
 license: "Apache-2.0"
 url: "https://github.com/agentscope-ai/AgentTeams"

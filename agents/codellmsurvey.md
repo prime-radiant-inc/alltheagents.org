@@ -2,6 +2,7 @@
 name: "CodeLLMSurvey"
 slug: "codellmsurvey"
 layout: agent.njk
+category: agent
 maker: "juyongjiang"
 license: null
 url: "https://github.com/juyongjiang/CodeLLMSurvey"

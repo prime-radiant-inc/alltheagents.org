@@ -2,6 +2,7 @@
 name: "1code"
 slug: "1code"
 layout: agent.njk
+category: multiplexer
 maker: "21st-dev"
 license: "Apache-2.0"
 url: "https://github.com/21st-dev/1code"

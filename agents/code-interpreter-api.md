@@ -2,6 +2,7 @@
 name: "Code-Interpreter-Api"
 slug: "code-interpreter-api"
 layout: agent.njk
+category: agent
 maker: "leezhuuuuu"
 license: "GPL-3.0"
 url: "https://github.com/leezhuuuuu/Code-Interpreter-Api"

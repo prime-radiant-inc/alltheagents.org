@@ -2,6 +2,7 @@
 name: "koder"
 slug: "koder"
 layout: agent.njk
+category: agent
 maker: "feiskyer"
 license: "MIT"
 url: "https://github.com/feiskyer/koder"

@@ -2,6 +2,7 @@
 name: "MCPlato"
 slug: "mcplato"
 layout: agent.njk
+category: agent
 maker: "MCPlato"
 license: "Proprietary"
 url: "https://mcplato.com"

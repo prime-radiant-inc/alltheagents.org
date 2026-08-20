@@ -2,6 +2,7 @@
 name: "Palmier"
 slug: "palmier"
 layout: agent.njk
+category: agent
 maker: "Palmier"
 license: null
 url: "https://www.palmier.me"

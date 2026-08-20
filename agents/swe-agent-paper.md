@@ -2,6 +2,7 @@
 name: "SWE-agent Paper"
 slug: "swe-agent-paper"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://arxiv.org/abs/2405.15793"

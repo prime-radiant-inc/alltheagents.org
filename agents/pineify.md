@@ -2,6 +2,7 @@
 name: "Pineify"
 slug: "pineify"
 layout: agent.njk
+category: agent
 maker: "Pineify"
 license: null
 url: "https://pineify.app"

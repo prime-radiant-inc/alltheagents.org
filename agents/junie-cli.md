@@ -2,6 +2,7 @@
 name: "Junie CLI"
 slug: "junie-cli"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://junie.jetbrains.com"

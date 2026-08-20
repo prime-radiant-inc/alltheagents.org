@@ -2,6 +2,7 @@
 name: "Syncode"
 slug: "syncode"
 layout: agent.njk
+category: agent
 maker: "structuredllm"
 license: "MIT"
 url: "https://github.com/uiuc-focal-lab/syncode"

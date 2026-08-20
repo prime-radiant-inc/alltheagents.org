@@ -2,6 +2,7 @@
 name: "OMK"
 slug: "omk"
 layout: agent.njk
+category: multiplexer
 maker: "dmae97"
 license: "MIT"
 url: "https://github.com/dmae97/open-multi-agent-kit"

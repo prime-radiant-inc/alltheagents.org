@@ -2,6 +2,7 @@
 name: "Claudexor"
 slug: "claudexor"
 layout: agent.njk
+category: multiplexer
 maker: "razzant"
 license: "MIT"
 url: "https://github.com/razzant/claudexor"

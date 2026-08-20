@@ -2,6 +2,7 @@
 name: "docs"
 slug: "docs"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://01.openinterpreter.com/"

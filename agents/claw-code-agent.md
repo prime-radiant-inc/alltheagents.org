@@ -2,6 +2,7 @@
 name: "claw-code-agent"
 slug: "claw-code-agent"
 layout: agent.njk
+category: agent
 maker: "HarnessLab"
 license: null
 url: "https://github.com/HarnessLab/claw-code-agent"

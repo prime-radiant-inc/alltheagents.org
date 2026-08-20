@@ -2,6 +2,7 @@
 name: "Public-Agent-Framwork"
 slug: "public-agent-framwork"
 layout: agent.njk
+category: agent
 maker: "aurasgit"
 license: "Apache-2.0"
 url: "https://github.com/aurasgit/public-agent-framwork"

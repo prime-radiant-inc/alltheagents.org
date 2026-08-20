@@ -2,6 +2,7 @@
 name: "jrdev"
 slug: "jrdev"
 layout: agent.njk
+category: agent
 maker: "presstab"
 license: "MIT"
 url: "https://github.com/presstab/jrdev"

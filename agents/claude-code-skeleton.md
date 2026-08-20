@@ -2,6 +2,7 @@
 name: "claude-code"
 slug: "claude-code-skeleton"
 layout: agent.njk
+category: agent
 maker: "yasasbanukaofficial"
 license: null
 url: "https://github.com/yasasbanukaofficial/claude-code"

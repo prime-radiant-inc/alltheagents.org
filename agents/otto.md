@@ -2,6 +2,7 @@
 name: "Otto"
 slug: "otto"
 layout: agent.njk
+category: agent
 maker: "Otto"
 license: "Open-source"
 url: "https://github.com/otto-ai/otto"

@@ -2,6 +2,7 @@
 name: "sealos"
 slug: "sealos"
 layout: agent.njk
+category: agent
 maker: "labring"
 license: "NOASSERTION"
 url: "https://github.com/labring/sealos"

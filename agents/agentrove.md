@@ -2,6 +2,7 @@
 name: "agentrove"
 slug: "agentrove"
 layout: agent.njk
+category: multiplexer
 maker: "Mng-dev-ai"
 license: "Apache-2.0"
 url: "https://github.com/Mng-dev-ai/agentrove"

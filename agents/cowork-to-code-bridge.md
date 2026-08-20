@@ -2,6 +2,7 @@
 name: "cowork-to-code-bridge"
 slug: "cowork-to-code-bridge"
 layout: agent.njk
+category: agent
 maker: "abhinaykrupa"
 license: "MIT"
 url: "https://github.com/abhinaykrupa/cowork-to-code-bridge"

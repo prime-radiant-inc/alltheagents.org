@@ -2,6 +2,7 @@
 name: "Kane AI"
 slug: "kane-ai"
 layout: agent.njk
+category: agent
 maker: "LambdaTest (TestMu AI)"
 license: null
 url: "https://www.testmuai.com/kane-ai"

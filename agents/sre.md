@@ -2,6 +2,7 @@
 name: "sre"
 slug: "sre"
 layout: agent.njk
+category: agent
 maker: "SmythOS"
 license: "MIT"
 url: "https://github.com/SmythOS/sre"

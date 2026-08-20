@@ -2,6 +2,7 @@
 name: "project-os-for-codex"
 slug: "project-os-for-codex"
 layout: agent.njk
+category: multiplexer
 maker: "herry2059"
 license: "Apache-2.0"
 url: "https://github.com/herry2059/project-os-for-codex"

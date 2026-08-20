@@ -2,6 +2,7 @@
 name: "ExAgent"
 slug: "exagent"
 layout: agent.njk
+category: agent
 maker: "exqqstar"
 license: "Apache-2.0"
 url: "https://github.com/exqqstar/ExAgent"

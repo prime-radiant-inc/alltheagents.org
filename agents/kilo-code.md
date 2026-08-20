@@ -2,6 +2,7 @@
 name: "Kilo Code"
 slug: "kilo-code"
 layout: agent.njk
+category: agent
 maker: "Kilo-Org"
 license: "MIT"
 url: "https://github.com/Kilo-Org/kilocode"

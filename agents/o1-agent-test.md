@@ -2,6 +2,7 @@
 name: "O1_Agent_Test"
 slug: "o1-agent-test"
 layout: agent.njk
+category: agent
 maker: "alexmoses"
 license: null
 url: "https://github.com/alexmoses/o1_Agent_Test"

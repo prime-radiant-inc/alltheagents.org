@@ -2,6 +2,7 @@
 name: "opencode-android"
 slug: "opencode-android"
 layout: agent.njk
+category: agent
 maker: "mulkymalikuldhrs"
 license: "MIT"
 url: "https://github.com/mulkymalikuldhrs/opencode-android"

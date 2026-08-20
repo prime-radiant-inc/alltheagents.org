@@ -2,6 +2,7 @@
 name: "TalktoData"
 slug: "talktodata"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://talktodata.ai/"

@@ -2,6 +2,7 @@
 name: "Gpt-Code-Assistant"
 slug: "gpt-code-assistant"
 layout: agent.njk
+category: agent
 maker: "narenmanoharan"
 license: "Apache-2.0"
 url: "https://github.com/narenmanoharan/gpt-code-assistant"

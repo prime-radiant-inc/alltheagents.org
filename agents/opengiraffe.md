@@ -2,6 +2,7 @@
 name: "OpenGiraffe"
 slug: "opengiraffe"
 layout: agent.njk
+category: agent
 maker: "zclllyybb"
 license: null
 url: "https://github.com/zclllyybb/OpenGiraffe"

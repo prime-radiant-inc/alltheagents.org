@@ -2,6 +2,7 @@
 name: "DeepCopilot"
 slug: "deepcopilot"
 layout: agent.njk
+category: agent
 maker: "deep-copilot"
 license: "MIT"
 url: "https://github.com/deep-copilot/DeepCopilot"

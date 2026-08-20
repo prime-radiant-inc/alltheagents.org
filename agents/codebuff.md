@@ -2,6 +2,7 @@
 name: "Codebuff"
 slug: "codebuff"
 layout: agent.njk
+category: agent
 maker: "CodebuffAI"
 license: "Apache-2.0"
 url: "https://github.com/CodebuffAI/codebuff"

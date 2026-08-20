@@ -2,6 +2,7 @@
 name: "OH-MY-PI"
 slug: "oh-my-pi"
 layout: agent.njk
+category: agent
 maker: "can1357"
 license: "MIT"
 url: "https://github.com/can1357/oh-my-pi"

@@ -2,6 +2,7 @@
 name: "Gaia-Meme-Coin-Generator"
 slug: "gaia-meme-coin-generator"
 layout: agent.njk
+category: agent
 maker: "harishkotra"
 license: "MIT"
 url: "https://github.com/harishkotra/gaia-meme-coin-generator"

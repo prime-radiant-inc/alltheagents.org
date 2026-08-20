@@ -2,6 +2,7 @@
 name: "GigaChat"
 slug: "gigachat"
 layout: agent.njk
+category: agent
 maker: "Sber"
 license: "Proprietary"
 url: "https://gigachat.devices.sber.ru"

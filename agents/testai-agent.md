@@ -2,6 +2,7 @@
 name: "Testai-Agent"
 slug: "testai-agent"
 layout: agent.njk
+category: agent
 maker: "khanzzirfan"
 license: "MIT"
 url: "https://github.com/khanzzirfan/TestAI-Agent"

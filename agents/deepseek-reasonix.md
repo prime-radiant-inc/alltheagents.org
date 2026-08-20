@@ -2,6 +2,7 @@
 name: "DeepSeek Reasonix"
 slug: "deepseek-reasonix"
 layout: agent.njk
+category: agent
 maker: "esengine"
 license: "MIT"
 url: "https://github.com/esengine/DeepSeek-Reasonix"

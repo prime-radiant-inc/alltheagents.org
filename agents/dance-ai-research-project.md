@@ -2,6 +2,7 @@
 name: "Dance-Ai-Research-Project"
 slug: "dance-ai-research-project"
 layout: agent.njk
+category: agent
 maker: "jzho987"
 license: "MIT"
 url: "https://github.com/jzho987/dance-ai-research-project"

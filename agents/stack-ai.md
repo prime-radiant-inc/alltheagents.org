@@ -2,6 +2,7 @@
 name: "Stack AI"
 slug: "stack-ai"
 layout: agent.njk
+category: agent
 maker: "Stack AI"
 license: "Proprietary"
 url: "https://stack-ai.com"

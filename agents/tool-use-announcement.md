@@ -2,6 +2,7 @@
 name: "tool use announcement"
 slug: "tool-use-announcement"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://twitter.com/GroqInc/status/1775634099849322632"

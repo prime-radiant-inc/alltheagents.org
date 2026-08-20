@@ -2,6 +2,7 @@
 name: "Spacecreateai"
 slug: "spacecreateai"
 layout: agent.njk
+category: agent
 maker: "Harbars1234"
 license: "MIT"
 url: "https://github.com/Harbars1234/SpaceCreateAI"

@@ -2,6 +2,7 @@
 name: "secure-ai-agent-boundary"
 slug: "secure-ai-agent-boundary"
 layout: agent.njk
+category: agent
 maker: "Atrayee-dev"
 license: null
 url: "https://github.com/Atrayee-dev/secure-ai-agent-boundary"

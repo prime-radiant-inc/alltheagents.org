@@ -2,6 +2,7 @@
 name: "qwengate"
 slug: "qwengate"
 layout: agent.njk
+category: agent
 maker: "youssefvdel"
 license: "MIT"
 url: "https://github.com/youssefvdel/qwengate"

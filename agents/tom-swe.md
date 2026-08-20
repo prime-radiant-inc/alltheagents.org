@@ -2,6 +2,7 @@
 name: "ToM-SWE"
 slug: "tom-swe"
 layout: agent.njk
+category: agent
 maker: "OpenHands"
 license: null
 url: "https://github.com/OpenHands/ToM-SWE"

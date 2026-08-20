@@ -2,6 +2,7 @@
 name: "Genspark AI Developer"
 slug: "genspark-ai-developer"
 layout: agent.njk
+category: agent
 maker: "Genspark"
 license: "Proprietary"
 url: "https://www.genspark.ai"

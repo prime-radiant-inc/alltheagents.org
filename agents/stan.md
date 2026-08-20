@@ -2,6 +2,7 @@
 name: "Stan"
 slug: "stan"
 layout: agent.njk
+category: agent
 maker: "kaifcoder"
 license: null
 url: "https://github.com/kaifcoder/Stan"

@@ -2,6 +2,7 @@
 name: "Snow CLI"
 slug: "snow-cli"
 layout: agent.njk
+category: agent
 maker: "MayDay-wpf"
 license: "Source Available"
 url: "https://github.com/MayDay-wpf/snow-cli"

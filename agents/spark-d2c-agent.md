@@ -2,6 +2,7 @@
 name: "Spark D2C Agent"
 slug: "spark-d2c-agent"
 layout: agent.njk
+category: agent
 maker: "iFlytek"
 license: "Proprietary"
 url: "https://iflytek.com"

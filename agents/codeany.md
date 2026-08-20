@@ -2,6 +2,7 @@
 name: "codeany"
 slug: "codeany"
 layout: agent.njk
+category: agent
 maker: "codeany-ai"
 license: "MIT"
 url: "https://github.com/codeany-ai/codeany"

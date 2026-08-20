@@ -2,6 +2,7 @@
 name: "CyCode"
 slug: "cycode"
 layout: agent.njk
+category: agent
 maker: "vibe-cy"
 license: null
 url: "https://github.com/vibe-cy/CyCode"

@@ -2,6 +2,7 @@
 name: "Sora 2"
 slug: "sora-2"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://sora.com"

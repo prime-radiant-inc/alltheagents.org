@@ -2,6 +2,7 @@
 name: "dora"
 slug: "dora"
 layout: agent.njk
+category: agent
 maker: "butttons"
 license: "MIT"
 url: "https://github.com/butttons/dora"

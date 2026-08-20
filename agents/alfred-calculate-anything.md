@@ -2,6 +2,7 @@
 name: "Alfred-Calculate-Anything"
 slug: "alfred-calculate-anything"
 layout: agent.njk
+category: agent
 maker: "biati-digital"
 license: "MIT"
 url: "https://github.com/biati-digital/alfred-calculate-anything"

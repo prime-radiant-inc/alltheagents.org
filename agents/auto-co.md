@@ -2,6 +2,7 @@
 name: "auto-co"
 slug: "auto-co"
 layout: agent.njk
+category: agent
 maker: "NikitaDmitrieff"
 license: "MIT"
 url: "https://github.com/NikitaDmitrieff/auto-co-meta"

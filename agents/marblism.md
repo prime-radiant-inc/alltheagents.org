@@ -2,6 +2,7 @@
 name: "Marblism"
 slug: "marblism"
 layout: agent.njk
+category: agent
 maker: "Marblism"
 license: "Proprietary"
 url: "https://www.marblism.com"

@@ -2,6 +2,7 @@
 name: "Ai-Agent-Playground"
 slug: "ai-agent-playground"
 layout: agent.njk
+category: agent
 maker: "Wei1024"
 license: null
 url: "https://github.com/Wei1024/AI-Agent-Playground"

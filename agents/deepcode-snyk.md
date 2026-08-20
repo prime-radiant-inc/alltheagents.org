@@ -2,6 +2,7 @@
 name: "DeepCode (Snyk)"
 slug: "deepcode-snyk"
 layout: agent.njk
+category: agent
 maker: "Snyk"
 license: "Proprietary"
 url: "https://snyk.io"

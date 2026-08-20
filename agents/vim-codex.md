@@ -2,6 +2,7 @@
 name: "vim_codex"
 slug: "vim-codex"
 layout: agent.njk
+category: agent
 maker: "tom-doerr"
 license: "MIT"
 url: "https://github.com/tom-doerr/vim_codex"

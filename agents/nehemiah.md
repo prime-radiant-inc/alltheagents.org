@@ -2,6 +2,7 @@
 name: "nehemiah"
 slug: "nehemiah"
 layout: agent.njk
+category: agent
 maker: "boringcomputers"
 license: "Apache-2.0"
 url: "https://github.com/boringcomputers/nehemiah"

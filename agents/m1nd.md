@@ -2,6 +2,7 @@
 name: "m1nd"
 slug: "m1nd"
 layout: agent.njk
+category: agent
 maker: "maxkle1nz"
 license: "MIT"
 url: "https://github.com/maxkle1nz/m1nd"

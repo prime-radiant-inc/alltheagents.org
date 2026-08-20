@@ -2,6 +2,7 @@
 name: "HolyClaude"
 slug: "holyclaude"
 layout: agent.njk
+category: agent
 maker: "CoderLuii"
 license: "MIT"
 url: "https://github.com/CoderLuii/HolyClaude"

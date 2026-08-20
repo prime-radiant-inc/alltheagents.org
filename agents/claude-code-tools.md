@@ -2,6 +2,7 @@
 name: "Claude Code Tools"
 slug: "claude-code-tools"
 layout: agent.njk
+category: agent
 maker: "pchalasani"
 license: "MIT"
 url: "https://github.com/pchalasani/claude-code-tools"

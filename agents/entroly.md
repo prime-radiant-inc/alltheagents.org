@@ -2,6 +2,7 @@
 name: "Entroly"
 slug: "entroly"
 layout: agent.njk
+category: agent
 maker: "juyterman1000"
 license: "Apache-2.0"
 url: "https://github.com/juyterman1000/entroly"

@@ -2,6 +2,7 @@
 name: "VibeRaven"
 slug: "viberaven"
 layout: agent.njk
+category: agent
 maker: "ohad6k"
 license: "MIT"
 url: "https://github.com/ohad6k/VibeRaven"

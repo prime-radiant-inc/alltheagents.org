@@ -2,6 +2,7 @@
 name: "arbor"
 slug: "arbor"
 layout: agent.njk
+category: agent
 maker: "penso"
 license: "MIT"
 url: "https://github.com/penso/arbor"

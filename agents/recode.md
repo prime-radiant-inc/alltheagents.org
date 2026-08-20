@@ -2,6 +2,7 @@
 name: "ReCode"
 slug: "recode"
 layout: agent.njk
+category: agent
 maker: "FoundationAgents"
 license: "MIT"
 url: "https://github.com/FoundationAgents/ReCode"

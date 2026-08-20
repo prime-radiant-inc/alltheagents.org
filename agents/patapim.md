@@ -2,6 +2,7 @@
 name: "PATAPIM"
 slug: "patapim"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://patapim.ai"

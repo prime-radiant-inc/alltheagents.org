@@ -2,6 +2,7 @@
 name: "hey"
 slug: "hey"
 layout: agent.njk
+category: agent
 maker: "lnxpy"
 license: "MIT"
 url: "https://github.com/lnxpy/hey"

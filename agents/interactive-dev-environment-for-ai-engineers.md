@@ -2,6 +2,7 @@
 name: "Interactive-Dev-Environment-for-AI-Engineers"
 slug: "interactive-dev-environment-for-ai-engineers"
 layout: agent.njk
+category: agent
 maker: "AI-Maker-Space"
 license: "MIT"
 url: "https://github.com/AI-Maker-Space/Interactive-Dev-Environment-for-AI-Engineers"

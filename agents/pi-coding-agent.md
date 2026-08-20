@@ -2,6 +2,7 @@
 name: "pi-coding-agent"
 slug: "pi-coding-agent"
 layout: agent.njk
+category: agent
 maker: "dnouri"
 license: "GPL-3.0"
 url: "https://github.com/dnouri/pi-coding-agent"

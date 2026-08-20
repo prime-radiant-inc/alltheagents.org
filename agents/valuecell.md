@@ -2,6 +2,7 @@
 name: "valuecell"
 slug: "valuecell"
 layout: agent.njk
+category: agent
 maker: "ValueCell-ai"
 license: "Apache-2.0"
 url: "https://github.com/ValueCell-ai/valuecell"

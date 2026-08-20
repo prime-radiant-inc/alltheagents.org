@@ -2,6 +2,7 @@
 name: "Async"
 slug: "async"
 layout: agent.njk
+category: agent
 maker: "ZYKJShadow"
 license: "Apache-2.0"
 url: "https://github.com/ZYKJShadow/Async"

@@ -2,6 +2,7 @@
 name: "ORCH"
 slug: "orch"
 layout: agent.njk
+category: multiplexer
 maker: "oxgeneral"
 license: "MIT"
 url: "https://github.com/oxgeneral/ORCH"

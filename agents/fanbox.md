@@ -2,6 +2,7 @@
 name: "fanbox"
 slug: "fanbox"
 layout: agent.njk
+category: agent
 maker: "alchaincyf"
 license: "MIT"
 url: "https://github.com/alchaincyf/fanbox"

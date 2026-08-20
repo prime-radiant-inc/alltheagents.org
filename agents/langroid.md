@@ -2,6 +2,7 @@
 name: "Langroid"
 slug: "langroid"
 layout: agent.njk
+category: agent
 maker: "langroid"
 license: "MIT"
 url: "https://github.com/langroid/langroid"

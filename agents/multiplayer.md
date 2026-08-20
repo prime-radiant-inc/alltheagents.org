@@ -2,6 +2,7 @@
 name: "multiplayer"
 slug: "multiplayer"
 layout: agent.njk
+category: agent
 maker: "multiplayer-app"
 license: "MIT"
 url: "https://github.com/multiplayer-app/multiplayer"

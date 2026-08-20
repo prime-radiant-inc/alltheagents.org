@@ -2,6 +2,7 @@
 name: "Tempo"
 slug: "tempo"
 layout: agent.njk
+category: agent
 maker: "Tempo Labs"
 license: "Proprietary"
 url: "https://www.tempolabs.ai"

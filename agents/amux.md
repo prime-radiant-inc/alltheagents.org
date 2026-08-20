@@ -2,6 +2,7 @@
 name: "amux"
 slug: "amux"
 layout: agent.njk
+category: multiplexer
 maker: "andyrewlee"
 license: "MIT"
 url: "https://github.com/andyrewlee/amux"

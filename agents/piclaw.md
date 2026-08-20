@@ -2,6 +2,7 @@
 name: "piclaw"
 slug: "piclaw"
 layout: agent.njk
+category: agent
 maker: "rcarmo"
 license: "MIT"
 url: "https://github.com/rcarmo/piclaw"

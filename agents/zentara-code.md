@@ -2,6 +2,7 @@
 name: "Zentara-Code"
 slug: "zentara-code"
 layout: agent.njk
+category: agent
 maker: "Zentar-Ai"
 license: "Apache-2.0"
 url: "https://github.com/Zentar-Ai/Zentara-Code"

@@ -2,6 +2,7 @@
 name: "Nora"
 slug: "nora"
 layout: agent.njk
+category: agent
 maker: "Nora"
 license: null
 url: "https://www.mynora.ai"

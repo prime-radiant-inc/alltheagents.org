@@ -2,6 +2,7 @@
 name: "Taskade"
 slug: "taskade"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.taskade.com/"

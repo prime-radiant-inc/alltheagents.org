@@ -2,6 +2,7 @@
 name: "Cursor"
 slug: "cursor"
 layout: agent.njk
+category: agent
 maker: "cursor"
 license: "Closed Source"
 url: "https://github.com/cursor/cursor"

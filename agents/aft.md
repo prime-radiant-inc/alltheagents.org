@@ -2,6 +2,7 @@
 name: "aft"
 slug: "aft"
 layout: agent.njk
+category: agent
 maker: "cortexkit"
 license: "MIT"
 url: "https://github.com/cortexkit/aft"

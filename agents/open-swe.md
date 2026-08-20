@@ -2,6 +2,7 @@
 name: "Open SWE"
 slug: "open-swe"
 layout: agent.njk
+category: agent
 maker: "langchain-ai"
 license: "MIT"
 url: "https://github.com/langchain-ai/open-swe"

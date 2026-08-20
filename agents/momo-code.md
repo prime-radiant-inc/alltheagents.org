@@ -2,6 +2,7 @@
 name: "momo-code"
 slug: "momo-code"
 layout: agent.njk
+category: agent
 maker: "momozi1996"
 license: "NOASSERTION"
 url: "https://github.com/momozi1996/momo-code"

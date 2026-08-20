@@ -2,6 +2,7 @@
 name: "VT Code"
 slug: "vt-code"
 layout: agent.njk
+category: agent
 maker: "vinhnx"
 license: "Apache-2.0"
 url: "https://github.com/vinhnx/VTCode"

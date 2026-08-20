@@ -2,6 +2,7 @@
 name: "dream"
 slug: "dream"
 layout: agent.njk
+category: agent
 maker: "dreamide"
 license: "MIT"
 url: "https://github.com/dreamide/dream"

@@ -2,6 +2,7 @@
 name: "super-dev"
 slug: "super-dev"
 layout: agent.njk
+category: agent
 maker: "shangyankeji"
 license: "MIT"
 url: "https://github.com/shangyankeji/super-dev"

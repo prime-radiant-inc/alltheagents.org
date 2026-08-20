@@ -2,6 +2,7 @@
 name: "multi-agent-training-grpo"
 slug: "multi-agent-training-grpo"
 layout: agent.njk
+category: agent
 maker: "FareedKhan-dev"
 license: "MIT"
 url: "https://github.com/FareedKhan-dev/multi-agent-training-grpo"

@@ -2,6 +2,7 @@
 name: "sandbox-agent"
 slug: "sandbox-agent"
 layout: agent.njk
+category: multiplexer
 maker: "rivet-dev"
 license: "Apache-2.0"
 url: "https://github.com/rivet-dev/sandbox-agent"

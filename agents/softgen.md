@@ -2,6 +2,7 @@
 name: "Softgen"
 slug: "softgen"
 layout: agent.njk
+category: agent
 maker: "Softgen"
 license: "Proprietary"
 url: "https://www.softgen.ai"

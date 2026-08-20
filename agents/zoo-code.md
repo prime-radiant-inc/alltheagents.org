@@ -2,6 +2,7 @@
 name: "Zoo-Code"
 slug: "zoo-code"
 layout: agent.njk
+category: agent
 maker: "Zoo-Code-Org"
 license: "Apache-2.0"
 url: "https://github.com/Zoo-Code-Org/Zoo-Code"

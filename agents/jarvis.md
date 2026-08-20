@@ -2,6 +2,7 @@
 name: "jarvis"
 slug: "jarvis"
 layout: agent.njk
+category: agent
 maker: "danilofalcao"
 license: "MIT"
 url: "https://github.com/danilofalcao/jarvis"

@@ -2,6 +2,7 @@
 name: "plugins-coding-agents"
 slug: "plugins-coding-agents"
 layout: agent.njk
+category: agent
 maker: "UI5"
 license: "Apache-2.0"
 url: "https://github.com/UI5/plugins-coding-agents"

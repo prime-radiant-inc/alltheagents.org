@@ -2,6 +2,7 @@
 name: "codex-multi-agents"
 slug: "codex-multi-agents"
 layout: agent.njk
+category: agent
 maker: "violetDelia"
 license: null
 url: "https://github.com/violetDelia/codex-multi-agents"

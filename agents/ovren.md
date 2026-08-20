@@ -2,6 +2,7 @@
 name: "Ovren"
 slug: "ovren"
 layout: agent.njk
+category: agent
 maker: "Ovren"
 license: null
 url: "https://www.ovren.ai"

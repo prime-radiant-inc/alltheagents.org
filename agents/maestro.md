@@ -2,6 +2,7 @@
 name: "maestro"
 slug: "maestro"
 layout: agent.njk
+category: agent
 maker: "its-maestro-baby"
 license: "MIT"
 url: "https://github.com/its-maestro-baby/maestro"

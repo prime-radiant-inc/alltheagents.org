@@ -2,6 +2,7 @@
 name: "supercli"
 slug: "supercli"
 layout: agent.njk
+category: agent
 maker: "yashdev9274"
 license: "MIT"
 url: "https://github.com/yashdev9274/supercli"

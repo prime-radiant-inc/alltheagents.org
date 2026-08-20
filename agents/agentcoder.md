@@ -2,6 +2,7 @@
 name: "AgentCoder"
 slug: "agentcoder"
 layout: agent.njk
+category: agent
 maker: "huangd1999"
 license: null
 url: "https://github.com/huangd1999/AgentCoder"

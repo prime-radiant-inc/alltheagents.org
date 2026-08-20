@@ -2,6 +2,7 @@
 name: "Calyx"
 slug: "calyx"
 layout: agent.njk
+category: agent
 maker: "yuuichieguchi"
 license: "MIT"
 url: "https://github.com/yuuichieguchi/Calyx"

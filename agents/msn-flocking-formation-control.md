@@ -2,6 +2,7 @@
 name: "MSN-Flocking-Formation-Control"
 slug: "msn-flocking-formation-control"
 layout: agent.njk
+category: agent
 maker: "arjunhw97"
 license: null
 url: "https://github.com/arjunhw97/MSN-Flocking-Formation-Control"

@@ -2,6 +2,7 @@
 name: "Leap.new"
 slug: "leapnew"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://leap.new/"

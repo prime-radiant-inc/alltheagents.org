@@ -2,6 +2,7 @@
 name: "ChartGPT"
 slug: "chartgpt"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://chartgpt.io"

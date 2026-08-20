@@ -2,6 +2,7 @@
 name: "CodeMachine-CLI"
 slug: "codemachine-cli"
 layout: agent.njk
+category: agent
 maker: "moazbuilds"
 license: "Apache-2.0"
 url: "https://github.com/moazbuilds/CodeMachine-CLI"

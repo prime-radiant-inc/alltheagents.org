@@ -2,6 +2,7 @@
 name: "llm-coding-agent"
 slug: "llm-coding-agent"
 layout: agent.njk
+category: agent
 maker: "simonw"
 license: "Apache-2.0"
 url: "https://github.com/simonw/llm-coding-agent"

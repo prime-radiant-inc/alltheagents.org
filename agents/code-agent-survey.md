@@ -2,6 +2,7 @@
 name: "Code-Agent-Survey"
 slug: "code-agent-survey"
 layout: agent.njk
+category: agent
 maker: "MLSysOps"
 license: "MIT"
 url: "https://github.com/MLSysOps/Code-Agent-Survey"

@@ -2,6 +2,7 @@
 name: "DeepSeek Coder"
 slug: "deepseek-coder"
 layout: agent.njk
+category: agent
 maker: "DeepSeek"
 license: "MIT"
 url: "https://github.com/deepseek-ai/DeepSeek-Coder"

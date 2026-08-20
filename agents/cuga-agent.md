@@ -2,6 +2,7 @@
 name: "cuga-agent"
 slug: "cuga-agent"
 layout: agent.njk
+category: agent
 maker: "cuga-project"
 license: "NOASSERTION"
 url: "https://github.com/cuga-project/cuga-agent"

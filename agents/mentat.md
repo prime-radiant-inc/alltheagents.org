@@ -2,6 +2,7 @@
 name: "Mentat"
 slug: "mentat"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://mentat.ai/docs/cli"

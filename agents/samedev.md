@@ -2,6 +2,7 @@
 name: "Same.dev"
 slug: "samedev"
 layout: agent.njk
+category: agent
 maker: "Same"
 license: "Proprietary"
 url: "https://same.dev"

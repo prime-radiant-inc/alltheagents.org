@@ -2,6 +2,7 @@
 name: "Engine"
 slug: "engine"
 layout: agent.njk
+category: agent
 maker: "Engine Labs"
 license: "Proprietary"
 url: "https://enginelabs.ai"

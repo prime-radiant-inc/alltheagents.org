@@ -2,6 +2,7 @@
 name: "Blinky"
 slug: "blinky"
 layout: agent.njk
+category: agent
 maker: "seahyinghang8"
 license: "MIT"
 url: "https://github.com/seahyinghang8/blinky"

@@ -2,6 +2,7 @@
 name: "FireConnect"
 slug: "fireconnect"
 layout: agent.njk
+category: agent
 maker: "fw-ai"
 license: "Apache-2.0"
 url: "https://github.com/fw-ai/fireconnect"

@@ -2,6 +2,7 @@
 name: "SWE-Dev"
 slug: "swe-dev"
 layout: agent.njk
+category: agent
 maker: "THUDM"
 license: "MIT"
 url: "https://github.com/THUDM/SWE-Dev"

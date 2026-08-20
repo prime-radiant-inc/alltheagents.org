@@ -2,6 +2,7 @@
 name: "Konfig"
 slug: "konfig"
 layout: agent.njk
+category: agent
 maker: "KusionStack"
 license: "Apache-2.0"
 url: "https://github.com/KusionStack/konfig"

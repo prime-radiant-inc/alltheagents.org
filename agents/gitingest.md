@@ -2,6 +2,7 @@
 name: "GitIngest"
 slug: "gitingest"
 layout: agent.njk
+category: agent
 maker: "coderamp-labs"
 license: "MIT"
 url: "https://github.com/coderamp-labs/gitingest"

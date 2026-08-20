@@ -2,6 +2,7 @@
 name: "Moore Threads AI Coding"
 slug: "moore-threads-ai-coding"
 layout: agent.njk
+category: agent
 maker: "Moore Threads"
 license: "Proprietary"
 url: "https://www.mthreads.com"

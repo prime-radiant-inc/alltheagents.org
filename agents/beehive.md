@@ -2,6 +2,7 @@
 name: "beehive"
 slug: "beehive"
 layout: agent.njk
+category: agent
 maker: "storozhenko98"
 license: "MIT"
 url: "https://github.com/storozhenko98/beehive"

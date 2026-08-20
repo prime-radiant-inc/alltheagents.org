@@ -2,6 +2,7 @@
 name: "Kodu"
 slug: "kodu"
 layout: agent.njk
+category: agent
 maker: "kodu-ai"
 license: "Source Available"
 url: "https://github.com/kodu-ai/claude-coder"

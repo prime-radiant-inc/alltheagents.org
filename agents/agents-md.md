@@ -2,6 +2,7 @@
 name: "agents-md"
 slug: "agents-md"
 layout: agent.njk
+category: agent
 maker: "FerroxLabs"
 license: "MIT"
 url: "https://github.com/FerroxLabs/agents-md"

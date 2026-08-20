@@ -2,6 +2,7 @@
 name: "Git-Collaboration"
 slug: "git-collaboration"
 layout: agent.njk
+category: agent
 maker: "jduckles"
 license: null
 url: "https://github.com/jduckles/git-collaboration"

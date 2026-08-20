@@ -2,6 +2,7 @@
 name: "CatPaw"
 slug: "catpaw"
 layout: agent.njk
+category: agent
 maker: "CatPaw"
 license: "MIT"
 url: "https://github.com/catpaw-ai/catpaw"

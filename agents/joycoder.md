@@ -2,6 +2,7 @@
 name: "JoyCoder"
 slug: "joycoder"
 layout: agent.njk
+category: agent
 maker: "JoyCoder"
 license: "Proprietary"
 url: "https://joycoder.com"

@@ -2,6 +2,7 @@
 name: "clodex-ide"
 slug: "clodex-ide"
 layout: agent.njk
+category: agent
 maker: "mereyabdenbekuly-ctrl"
 license: "AGPL-3.0"
 url: "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"

@@ -2,6 +2,7 @@
 name: "9remote"
 slug: "9remote"
 layout: agent.njk
+category: multiplexer
 maker: "decolua"
 license: null
 url: "https://github.com/decolua/9remote"

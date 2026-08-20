@@ -2,6 +2,7 @@
 name: "Emergent"
 slug: "emergent"
 layout: agent.njk
+category: agent
 maker: "Emergent"
 license: "Proprietary"
 url: "https://www.emergent.sh"

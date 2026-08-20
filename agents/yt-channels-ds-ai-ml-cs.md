@@ -2,6 +2,7 @@
 name: "yt-channels-DS-AI-ML-CS"
 slug: "yt-channels-ds-ai-ml-cs"
 layout: agent.njk
+category: agent
 maker: "benthecoder"
 license: null
 url: "https://github.com/benthecoder/yt-channels-DS-AI-ML-CS"

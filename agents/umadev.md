@@ -2,6 +2,7 @@
 name: "umadev"
 slug: "umadev"
 layout: agent.njk
+category: agent
 maker: "umacloud"
 license: "MIT"
 url: "https://github.com/umacloud/umadev"

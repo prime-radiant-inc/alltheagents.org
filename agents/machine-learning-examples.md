@@ -2,6 +2,7 @@
 name: "Machine-Learning-Examples"
 slug: "machine-learning-examples"
 layout: agent.njk
+category: agent
 maker: "aaronkub"
 license: null
 url: "https://github.com/aaronkub/machine-learning-examples"

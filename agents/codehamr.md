@@ -2,6 +2,7 @@
 name: "codehamr"
 slug: "codehamr"
 layout: agent.njk
+category: agent
 maker: "codehamr"
 license: "MIT"
 url: "https://github.com/codehamr/codehamr"

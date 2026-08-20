@@ -2,6 +2,7 @@
 name: "oli"
 slug: "oli"
 layout: agent.njk
+category: agent
 maker: "amrit110"
 license: "Apache-2.0"
 url: "https://github.com/amrit110/oli"

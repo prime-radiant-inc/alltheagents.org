@@ -2,6 +2,7 @@
 name: "Conductor"
 slug: "conductor"
 layout: agent.njk
+category: agent
 maker: "Conductor"
 license: "Proprietary"
 url: "https://conductor.build"

@@ -2,6 +2,7 @@
 name: "debroid"
 slug: "debroid"
 layout: agent.njk
+category: agent
 maker: "PatilShreyas"
 license: "Apache-2.0"
 url: "https://github.com/PatilShreyas/debroid"

@@ -2,6 +2,7 @@
 name: "agent-sandbox"
 slug: "agent-sandbox"
 layout: agent.njk
+category: agent
 maker: "mattolson"
 license: "MIT"
 url: "https://github.com/mattolson/agent-sandbox"

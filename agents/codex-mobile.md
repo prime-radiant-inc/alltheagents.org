@@ -2,6 +2,7 @@
 name: "codex-mobile"
 slug: "codex-mobile"
 layout: agent.njk
+category: multiplexer
 maker: "friuns2"
 license: "MIT"
 url: "https://github.com/friuns2/codex-mobile"

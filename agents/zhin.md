@@ -2,6 +2,7 @@
 name: "zhin"
 slug: "zhin"
 layout: agent.njk
+category: agent
 maker: "zhinjs"
 license: "MIT"
 url: "https://github.com/zhinjs/zhin"

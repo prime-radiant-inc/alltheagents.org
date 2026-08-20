@@ -2,6 +2,7 @@
 name: "ai-orchestrator"
 slug: "ai-orchestrator"
 layout: agent.njk
+category: multiplexer
 maker: "Mybono"
 license: "NOASSERTION"
 url: "https://github.com/Mybono/ai-orchestrator"

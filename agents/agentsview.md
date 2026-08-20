@@ -2,6 +2,7 @@
 name: "AgentsView"
 slug: "agentsview"
 layout: agent.njk
+category: agent
 maker: "kenn-io"
 license: "MIT"
 url: "https://github.com/kenn-io/agentsview"

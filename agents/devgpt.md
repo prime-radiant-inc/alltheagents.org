@@ -2,6 +2,7 @@
 name: "DevGPT"
 slug: "devgpt"
 layout: agent.njk
+category: agent
 maker: "jina-ai"
 license: "Apache-2.0"
 url: "https://github.com/jina-ai/dev-gpt"

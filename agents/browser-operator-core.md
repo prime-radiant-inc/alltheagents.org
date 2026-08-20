@@ -2,6 +2,7 @@
 name: "browser-operator-core"
 slug: "browser-operator-core"
 layout: agent.njk
+category: agent
 maker: "BrowserOperator"
 license: "BSD-3-Clause"
 url: "https://github.com/BrowserOperator/browser-operator-core"

@@ -2,6 +2,7 @@
 name: "vibe-coding-kit"
 slug: "vibe-coding-kit"
 layout: agent.njk
+category: agent
 maker: "Junliu1066"
 license: "MIT"
 url: "https://github.com/Junliu1066/vibe-coding-kit"

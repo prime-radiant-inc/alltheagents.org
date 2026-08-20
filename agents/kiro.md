@@ -2,6 +2,7 @@
 name: "Kiro"
 slug: "kiro"
 layout: agent.njk
+category: agent
 maker: "kirodotdev"
 license: null
 url: "https://github.com/kirodotdev/Kiro"

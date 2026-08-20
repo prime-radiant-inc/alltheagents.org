@@ -2,6 +2,7 @@
 name: "Potpie AI"
 slug: "potpie-ai"
 layout: agent.njk
+category: agent
 maker: "Potpie"
 license: "Proprietary"
 url: "https://potpie.ai"

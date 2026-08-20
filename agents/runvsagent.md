@@ -2,6 +2,7 @@
 name: "RunVSAgent"
 slug: "runvsagent"
 layout: agent.njk
+category: agent
 maker: "wecode-ai"
 license: "Apache-2.0"
 url: "https://github.com/wecode-ai/RunVSAgent"

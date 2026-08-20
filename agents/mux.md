@@ -2,6 +2,7 @@
 name: "mux"
 slug: "mux"
 layout: agent.njk
+category: agent
 maker: "coder"
 license: "AGPL-3.0"
 url: "https://github.com/coder/mux"

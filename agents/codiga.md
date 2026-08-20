@@ -2,6 +2,7 @@
 name: "Codiga"
 slug: "codiga"
 layout: agent.njk
+category: agent
 maker: "Codiga"
 license: "Proprietary"
 url: "https://www.codiga.io"

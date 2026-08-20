@@ -2,6 +2,7 @@
 name: "Pi"
 slug: "pi"
 layout: agent.njk
+category: agent
 maker: "earendil-works"
 license: "MIT"
 url: "https://github.com/earendil-works/pi"

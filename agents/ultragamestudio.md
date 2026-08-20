@@ -2,6 +2,7 @@
 name: "UltraGameStudio"
 slug: "ultragamestudio"
 layout: agent.njk
+category: agent
 maker: "wellingfeng"
 license: "MIT"
 url: "https://github.com/wellingfeng/UltraGameStudio"

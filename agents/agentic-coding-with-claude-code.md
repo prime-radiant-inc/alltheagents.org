@@ -2,6 +2,7 @@
 name: "Agentic-Coding-with-Claude-Code"
 slug: "agentic-coding-with-claude-code"
 layout: agent.njk
+category: agent
 maker: "PacktPublishing"
 license: "MIT"
 url: "https://github.com/PacktPublishing/Agentic-Coding-with-Claude-Code"

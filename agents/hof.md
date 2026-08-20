@@ -2,6 +2,7 @@
 name: "hof"
 slug: "hof"
 layout: agent.njk
+category: agent
 maker: "hofstadter-io"
 license: "Apache-2.0"
 url: "https://github.com/hofstadter-io/hof"

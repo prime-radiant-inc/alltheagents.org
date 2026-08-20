@@ -2,6 +2,7 @@
 name: "miii-cli"
 slug: "miii-cli"
 layout: agent.njk
+category: agent
 maker: "maruakshay"
 license: "MIT"
 url: "https://github.com/maruakshay/miii-cli"

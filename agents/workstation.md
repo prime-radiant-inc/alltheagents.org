@@ -2,6 +2,7 @@
 name: "workstation"
 slug: "workstation"
 layout: agent.njk
+category: multiplexer
 maker: "varie-ai"
 license: "MIT"
 url: "https://github.com/varie-ai/workstation"

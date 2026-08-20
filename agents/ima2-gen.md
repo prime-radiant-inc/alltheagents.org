@@ -2,6 +2,7 @@
 name: "ima2-gen"
 slug: "ima2-gen"
 layout: agent.njk
+category: agent
 maker: "lidge-jun"
 license: "MIT"
 url: "https://github.com/lidge-jun/ima2-gen"

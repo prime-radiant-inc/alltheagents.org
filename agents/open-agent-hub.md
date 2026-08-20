@@ -2,6 +2,7 @@
 name: "open-agent-hub"
 slug: "open-agent-hub"
 layout: agent.njk
+category: agent
 maker: "guanyang"
 license: "MIT"
 url: "https://github.com/guanyang/open-agent-hub"

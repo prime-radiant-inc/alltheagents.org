@@ -2,6 +2,7 @@
 name: "picocode"
 slug: "picocode"
 layout: agent.njk
+category: agent
 maker: "jondot"
 license: "MIT"
 url: "https://github.com/jondot/picocode"

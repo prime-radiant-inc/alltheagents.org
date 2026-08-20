@@ -2,6 +2,7 @@
 name: "oc-plugin-vault-tec"
 slug: "oc-plugin-vault-tec"
 layout: agent.njk
+category: agent
 maker: "kommander"
 license: null
 url: "https://github.com/kommander/oc-plugin-vault-tec"

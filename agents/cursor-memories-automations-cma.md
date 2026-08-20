@@ -2,6 +2,7 @@
 name: "Cursor Memories / Automations (CMA)"
 slug: "cursor-memories-automations-cma"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://cursor.com/changelog/03-05-26"

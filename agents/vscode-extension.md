@@ -2,6 +2,7 @@
 name: "vscode-extension"
 slug: "vscode-extension"
 layout: agent.njk
+category: agent
 maker: "flexpilot-ai"
 license: "GPL-3.0"
 url: "https://github.com/flexpilot-ai/vscode-extension"

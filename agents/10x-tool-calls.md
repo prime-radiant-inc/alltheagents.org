@@ -2,6 +2,7 @@
 name: "10x-Tool-Calls"
 slug: "10x-tool-calls"
 layout: agent.njk
+category: agent
 maker: "perrypixel"
 license: null
 url: "https://github.com/perrypixel/10x-Tool-Calls"

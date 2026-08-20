@@ -2,6 +2,7 @@
 name: "gitlab-copilot-coding-agent"
 slug: "gitlab-copilot-coding-agent"
 layout: agent.njk
+category: agent
 maker: "satomic"
 license: null
 url: "https://github.com/satomic/gitlab-copilot-coding-agent"

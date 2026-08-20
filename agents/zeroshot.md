@@ -2,6 +2,7 @@
 name: "zeroshot"
 slug: "zeroshot"
 layout: agent.njk
+category: agent
 maker: "the-open-engine"
 license: "MIT"
 url: "https://github.com/the-open-engine/zeroshot"

@@ -2,6 +2,7 @@
 name: "Agent-Repoguardian"
 slug: "agent-repoguardian"
 layout: agent.njk
+category: agent
 maker: "ppipada"
 license: "MIT"
 url: "https://github.com/flexigpt/agent-repoguardian"

@@ -2,6 +2,7 @@
 name: "Wordpressify"
 slug: "wordpressify"
 layout: agent.njk
+category: agent
 maker: "luangjokaj"
 license: "MIT"
 url: "https://github.com/luangjokaj/wordpressify"

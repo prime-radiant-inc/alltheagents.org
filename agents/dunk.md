@@ -2,6 +2,7 @@
 name: "dunk"
 slug: "dunk"
 layout: agent.njk
+category: agent
 maker: "amix"
 license: "MIT"
 url: "https://github.com/amix/dunk"

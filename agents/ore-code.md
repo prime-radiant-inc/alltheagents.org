@@ -2,6 +2,7 @@
 name: "ore-code"
 slug: "ore-code"
 layout: agent.njk
+category: agent
 maker: "233i"
 license: "MIT"
 url: "https://github.com/233i/ore-code"

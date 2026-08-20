@@ -2,6 +2,7 @@
 name: "Icodes"
 slug: "icodes"
 layout: agent.njk
+category: agent
 maker: "a115"
 license: "CC0-1.0"
 url: "https://github.com/a115/iCODES"

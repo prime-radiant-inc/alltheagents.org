@@ -2,6 +2,7 @@
 name: "pi-boomerang"
 slug: "pi-boomerang"
 layout: agent.njk
+category: agent
 maker: "nicobailon"
 license: null
 url: "https://github.com/nicobailon/pi-boomerang"

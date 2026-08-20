@@ -2,6 +2,7 @@
 name: "onUI"
 slug: "onui"
 layout: agent.njk
+category: agent
 maker: "onllm-dev"
 license: "GPL-3.0"
 url: "https://github.com/onllm-dev/onUI"

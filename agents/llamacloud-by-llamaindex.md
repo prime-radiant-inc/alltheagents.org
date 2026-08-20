@@ -2,6 +2,7 @@
 name: "LlamaCloud by LlamaIndex"
 slug: "llamacloud-by-llamaindex"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.llamaindex.ai/enterprise"

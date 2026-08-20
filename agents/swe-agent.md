@@ -2,6 +2,7 @@
 name: "SWE-agent"
 slug: "swe-agent"
 layout: agent.njk
+category: agent
 maker: "SWE-agent"
 license: "MIT"
 url: "https://github.com/SWE-agent/SWE-agent"

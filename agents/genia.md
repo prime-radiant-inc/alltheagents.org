@@ -2,6 +2,7 @@
 name: "GeniA"
 slug: "genia"
 layout: agent.njk
+category: agent
 maker: "genia-dev"
 license: "Apache-2.0"
 url: "https://github.com/genia-dev/GeniA"

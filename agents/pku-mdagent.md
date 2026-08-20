@@ -2,6 +2,7 @@
 name: "PKU_MDAgent"
 slug: "pku-mdagent"
 layout: agent.njk
+category: agent
 maker: "FredericVAN"
 license: "GPL-3.0"
 url: "https://github.com/FredericVAN/PKU_MDAgent"

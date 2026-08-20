@@ -2,6 +2,7 @@
 name: "Groq Code CLI"
 slug: "groq-code-cli"
 layout: agent.njk
+category: agent
 maker: "build-with-groq"
 license: "MIT"
 url: "https://github.com/build-with-groq/groq-code-cli"

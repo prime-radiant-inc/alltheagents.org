@@ -2,6 +2,7 @@
 name: "pagecast"
 slug: "pagecast"
 layout: agent.njk
+category: agent
 maker: "Amal-David"
 license: "MIT"
 url: "https://github.com/Amal-David/pagecast"

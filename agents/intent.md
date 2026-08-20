@@ -2,6 +2,7 @@
 name: "Intent"
 slug: "intent"
 layout: agent.njk
+category: agent
 maker: "Augment Code"
 license: "Proprietary"
 url: "https://www.augmentcode.com/tools/intent"

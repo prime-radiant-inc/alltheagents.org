@@ -2,6 +2,7 @@
 name: "lazyide"
 slug: "lazyide"
 layout: agent.njk
+category: agent
 maker: "TysonLabs"
 license: "MIT"
 url: "https://github.com/TysonLabs/lazyide"

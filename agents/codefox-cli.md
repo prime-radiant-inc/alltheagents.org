@@ -2,6 +2,7 @@
 name: "CodeFox-CLI"
 slug: "codefox-cli"
 layout: agent.njk
+category: agent
 maker: "codefox-lab"
 license: "MIT"
 url: "https://github.com/codefox-lab/CodeFox-CLI"

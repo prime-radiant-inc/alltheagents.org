@@ -2,6 +2,7 @@
 name: "klaatcode"
 slug: "klaatcode"
 layout: agent.njk
+category: agent
 maker: "KlaatAI"
 license: "NOASSERTION"
 url: "https://github.com/KlaatAI/klaatcode"

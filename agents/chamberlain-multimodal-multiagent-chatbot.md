@@ -2,6 +2,7 @@
 name: "Chamberlain_Multimodal_Multiagent_Chatbot"
 slug: "chamberlain-multimodal-multiagent-chatbot"
 layout: agent.njk
+category: agent
 maker: "nickShengY"
 license: "CC0-1.0"
 url: "https://github.com/nickShengY/chamberlain_multimodal_multiagent_chatbot"

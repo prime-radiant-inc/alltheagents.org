@@ -2,6 +2,7 @@
 name: "macad-gym"
 slug: "macad-gym"
 layout: agent.njk
+category: agent
 maker: "praveen-palanisamy"
 license: "MIT"
 url: "https://github.com/praveen-palanisamy/macad-gym"

@@ -2,6 +2,7 @@
 name: "AutoStartup"
 slug: "autostartup"
 layout: agent.njk
+category: agent
 maker: "jawerty"
 license: null
 url: "https://github.com/jawerty/AutoStartup"

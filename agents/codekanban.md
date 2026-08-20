@@ -2,6 +2,7 @@
 name: "CodeKanban"
 slug: "codekanban"
 layout: agent.njk
+category: agent
 maker: "fy0"
 license: "Apache-2.0"
 url: "https://github.com/fy0/CodeKanban"

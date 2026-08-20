@@ -2,6 +2,7 @@
 name: "oracle-ai-developer-hub"
 slug: "oracle-ai-developer-hub"
 layout: agent.njk
+category: agent
 maker: "oracle-devrel"
 license: null
 url: "https://github.com/oracle-devrel/oracle-ai-developer-hub"

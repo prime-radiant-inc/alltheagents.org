@@ -2,6 +2,7 @@
 name: "mindwalk"
 slug: "mindwalk"
 layout: agent.njk
+category: agent
 maker: "cosmtrek"
 license: "MIT"
 url: "https://github.com/cosmtrek/mindwalk"

@@ -2,6 +2,7 @@
 name: "Galley"
 slug: "galley"
 layout: agent.njk
+category: multiplexer
 maker: "shinpr"
 license: "MIT"
 url: "https://github.com/shinpr/galley"

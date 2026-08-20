@@ -2,6 +2,7 @@
 name: "Fullstack-Nextjs-App-Generator"
 slug: "fullstack-nextjs-app-generator"
 layout: agent.njk
+category: agent
 maker: "spark-engine-opensource-projects"
 license: "MIT"
 url: "https://github.com/spark-engine-opensource-projects/fullstack-nextjs-app-generator"

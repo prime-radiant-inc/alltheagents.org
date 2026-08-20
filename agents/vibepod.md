@@ -2,6 +2,7 @@
 name: "VibePod"
 slug: "vibepod"
 layout: agent.njk
+category: multiplexer
 maker: "VibePod"
 license: "MIT"
 url: "https://github.com/VibePod/vibepod-cli"

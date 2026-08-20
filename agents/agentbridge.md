@@ -2,6 +2,7 @@
 name: "agentbridge"
 slug: "agentbridge"
 layout: agent.njk
+category: agent
 maker: "catatafishen"
 license: "Apache-2.0"
 url: "https://github.com/catatafishen/agentbridge"

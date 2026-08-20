@@ -2,6 +2,7 @@
 name: "coding-agents-databricks-apps"
 slug: "coding-agents-databricks-apps"
 layout: agent.njk
+category: agent
 maker: "datasciencemonkey"
 license: "MIT"
 url: "https://github.com/datasciencemonkey/coding-agents-databricks-apps"

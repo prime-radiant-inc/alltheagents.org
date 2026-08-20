@@ -2,6 +2,7 @@
 name: "Continue"
 slug: "continue"
 layout: agent.njk
+category: agent
 maker: "continuedev"
 license: "Apache-2.0"
 url: "https://github.com/continuedev/continue"

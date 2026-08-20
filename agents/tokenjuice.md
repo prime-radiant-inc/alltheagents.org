@@ -2,6 +2,7 @@
 name: "tokenjuice"
 slug: "tokenjuice"
 layout: agent.njk
+category: agent
 maker: "vincentkoc"
 license: "MIT"
 url: "https://github.com/vincentkoc/tokenjuice"

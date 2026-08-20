@@ -2,6 +2,7 @@
 name: "Agentic-Ai-"
 slug: "agentic-ai"
 layout: agent.njk
+category: agent
 maker: "JogendraSingh1879"
 license: null
 url: "https://github.com/JogendraSingh1879/Agentic-AI-"

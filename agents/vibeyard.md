@@ -2,6 +2,7 @@
 name: "vibeyard"
 slug: "vibeyard"
 layout: agent.njk
+category: agent
 maker: "elirantutia"
 license: "MIT"
 url: "https://github.com/elirantutia/vibeyard"

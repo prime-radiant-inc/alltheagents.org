@@ -2,6 +2,7 @@
 name: "auto-company"
 slug: "auto-company"
 layout: agent.njk
+category: agent
 maker: "nicepkg"
 license: null
 url: "https://github.com/nicepkg/auto-company"

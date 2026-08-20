@@ -2,6 +2,7 @@
 name: "Codel"
 slug: "codel"
 layout: agent.njk
+category: agent
 maker: "semanser"
 license: "AGPL-3.0"
 url: "https://github.com/semanser/codel"

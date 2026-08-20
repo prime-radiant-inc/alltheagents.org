@@ -2,6 +2,7 @@
 name: "superflex-vscode"
 slug: "superflex-vscode"
 layout: agent.njk
+category: agent
 maker: "aquila-lab"
 license: "MPL-2.0"
 url: "https://github.com/aquila-lab/superflex-vscode"

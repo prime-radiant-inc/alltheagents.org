@@ -2,6 +2,7 @@
 name: "pocketshell"
 slug: "pocketshell"
 layout: agent.njk
+category: multiplexer
 maker: "Big-Pony"
 license: "Apache-2.0"
 url: "https://github.com/Big-Pony/pocketshell"

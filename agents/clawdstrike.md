@@ -2,6 +2,7 @@
 name: "clawdstrike"
 slug: "clawdstrike"
 layout: agent.njk
+category: agent
 maker: "backbay-labs"
 license: "Apache-2.0"
 url: "https://github.com/backbay-labs/clawdstrike"

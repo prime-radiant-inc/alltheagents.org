@@ -2,6 +2,7 @@
 name: "CliDeck"
 slug: "clideck"
 layout: agent.njk
+category: agent
 maker: "rustykuntz"
 license: "MIT"
 url: "https://github.com/rustykuntz/clideck"

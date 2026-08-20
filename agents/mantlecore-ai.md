@@ -2,6 +2,7 @@
 name: "Mantlecore AI"
 slug: "mantlecore-ai"
 layout: agent.njk
+category: agent
 maker: "Mantlecore"
 license: null
 url: "https://mantlecore.ai"

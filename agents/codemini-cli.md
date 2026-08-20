@@ -2,6 +2,7 @@
 name: "Codemini-CLI"
 slug: "codemini-cli"
 layout: agent.njk
+category: agent
 maker: "havingautism"
 license: "MIT"
 url: "https://github.com/havingautism/Codemini-CLI"

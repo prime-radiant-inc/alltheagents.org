@@ -2,6 +2,7 @@
 name: "GPT Pilot"
 slug: "gpt-pilot"
 layout: agent.njk
+category: agent
 maker: "Pythagora-io"
 license: "Source Available"
 url: "https://github.com/Pythagora-io/gpt-pilot"

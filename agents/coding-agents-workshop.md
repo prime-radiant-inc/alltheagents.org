@@ -2,6 +2,7 @@
 name: "coding-agents-workshop"
 slug: "coding-agents-workshop"
 layout: agent.njk
+category: agent
 maker: "sshh12"
 license: null
 url: "https://github.com/sshh12/coding-agents-workshop"

@@ -2,6 +2,7 @@
 name: "CodeGPT"
 slug: "codegpt"
 layout: agent.njk
+category: agent
 maker: "CodeGPT"
 license: "Proprietary"
 url: "https://www.codegpt.co"

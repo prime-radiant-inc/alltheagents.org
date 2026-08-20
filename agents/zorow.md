@@ -2,6 +2,7 @@
 name: "Zorow"
 slug: "zorow"
 layout: agent.njk
+category: agent
 maker: "openmainframeproject"
 license: "Apache-2.0"
 url: "https://github.com/openmainframeproject/zorow"

@@ -2,6 +2,7 @@
 name: "multi-agent-emergence-environments"
 slug: "multi-agent-emergence-environments"
 layout: agent.njk
+category: agent
 maker: "openai"
 license: "MIT"
 url: "https://github.com/openai/multi-agent-emergence-environments"

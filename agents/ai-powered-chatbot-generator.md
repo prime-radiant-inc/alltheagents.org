@@ -2,6 +2,7 @@
 name: "Ai-Powered-Chatbot-Generator"
 slug: "ai-powered-chatbot-generator"
 layout: agent.njk
+category: agent
 maker: "Rushi-code1"
 license: null
 url: "https://github.com/Rushi-code1/AI-Powered-Chatbot-Generator"

@@ -2,6 +2,7 @@
 name: "FetchCoder"
 slug: "fetchcoder"
 layout: agent.njk
+category: agent
 maker: "fetchai"
 license: null
 url: "https://github.com/fetchai/fetchcoder-releases"

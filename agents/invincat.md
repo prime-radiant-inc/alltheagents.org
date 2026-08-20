@@ -2,6 +2,7 @@
 name: "invincat"
 slug: "invincat"
 layout: agent.njk
+category: agent
 maker: "dog-qiuqiu"
 license: "MIT"
 url: "https://github.com/dog-qiuqiu/invincat"

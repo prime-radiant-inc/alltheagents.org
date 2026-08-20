@@ -2,6 +2,7 @@
 name: "Base 44"
 slug: "base-44"
 layout: agent.njk
+category: agent
 maker: "Base44"
 license: "Proprietary"
 url: "https://base44.com"

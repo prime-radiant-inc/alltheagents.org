@@ -2,6 +2,7 @@
 name: "hypernovum"
 slug: "hypernovum"
 layout: agent.njk
+category: agent
 maker: "Pardesco"
 license: "AGPL-3.0"
 url: "https://github.com/Pardesco/hypernovum"

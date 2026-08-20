@@ -2,6 +2,7 @@
 name: "Bito"
 slug: "bito"
 layout: agent.njk
+category: agent
 maker: "Bito"
 license: "Proprietary"
 url: "https://bito.ai"

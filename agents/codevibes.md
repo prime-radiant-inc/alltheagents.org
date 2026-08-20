@@ -2,6 +2,7 @@
 name: "codevibes"
 slug: "codevibes"
 layout: agent.njk
+category: agent
 maker: "danish296"
 license: "MIT"
 url: "https://github.com/danish296/codevibes"

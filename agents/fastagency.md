@@ -2,6 +2,7 @@
 name: "FastAgency"
 slug: "fastagency"
 layout: agent.njk
+category: agent
 maker: "ag2ai"
 license: "Apache-2.0"
 url: "https://github.com/airtai/fastagency"

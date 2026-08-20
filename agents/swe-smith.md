@@ -2,6 +2,7 @@
 name: "SWE-smith"
 slug: "swe-smith"
 layout: agent.njk
+category: agent
 maker: "SWE-bench"
 license: "MIT"
 url: "https://github.com/SWE-bench/SWE-smith"

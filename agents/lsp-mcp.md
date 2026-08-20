@@ -2,6 +2,7 @@
 name: "lsp-mcp"
 slug: "lsp-mcp"
 layout: agent.njk
+category: agent
 maker: "jonrad"
 license: "MIT"
 url: "https://github.com/jonrad/lsp-mcp"

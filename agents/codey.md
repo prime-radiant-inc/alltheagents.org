@@ -2,6 +2,7 @@
 name: "Codey"
 slug: "codey"
 layout: agent.njk
+category: agent
 maker: "Codey"
 license: null
 url: "https://www.codeyai.space"

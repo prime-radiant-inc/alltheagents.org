@@ -2,6 +2,7 @@
 name: "Aip-Identity"
 slug: "aip-identity"
 layout: agent.njk
+category: agent
 maker: "The-Nexus-Guard"
 license: "MIT"
 url: "https://github.com/the-nexus-guard/aip"

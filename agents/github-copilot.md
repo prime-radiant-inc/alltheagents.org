@@ -2,6 +2,7 @@
 name: "GitHub Copilot"
 slug: "github-copilot"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://github.com/features/preview/copilot-x"

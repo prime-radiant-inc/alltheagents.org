@@ -2,6 +2,7 @@
 name: "code-assistant"
 slug: "code-assistant"
 layout: agent.njk
+category: agent
 maker: "stippi"
 license: "MIT"
 url: "https://github.com/stippi/code-assistant"

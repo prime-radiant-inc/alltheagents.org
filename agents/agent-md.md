@@ -2,6 +2,7 @@
 name: "agent-md"
 slug: "agent-md"
 layout: agent.njk
+category: agent
 maker: "iamfakeguru"
 license: "MIT"
 url: "https://github.com/iamfakeguru/agent-md"

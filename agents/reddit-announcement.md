@@ -2,6 +2,7 @@
 name: "reddit announcement"
 slug: "reddit-announcement"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.reddit.com/r/ClaudeAI/comments/1dtquuh/i_made_an_opensource_template_for_sharing_claudes/"

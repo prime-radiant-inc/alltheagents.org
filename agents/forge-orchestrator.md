@@ -2,6 +2,7 @@
 name: "forge-orchestrator"
 slug: "forge-orchestrator"
 layout: agent.njk
+category: agent
 maker: "tarunms7"
 license: null
 url: "https://github.com/tarunms7/forge-orchestrator"

@@ -2,6 +2,7 @@
 name: "2024-SWE-New-Grad"
 slug: "2024-swe-new-grad"
 layout: agent.njk
+category: agent
 maker: "AlanChen4"
 license: null
 url: "https://github.com/AlanChen4/2024-SWE-New-Grad"

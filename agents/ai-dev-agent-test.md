@@ -2,6 +2,7 @@
 name: "Ai-Dev-Agent-Test"
 slug: "ai-dev-agent-test"
 layout: agent.njk
+category: agent
 maker: "eventstubsol"
 license: null
 url: "https://github.com/eventstubsol/ai-dev-agent-test"

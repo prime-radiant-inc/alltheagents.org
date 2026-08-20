@@ -2,6 +2,7 @@
 name: "real-world-rails"
 slug: "real-world-rails"
 layout: agent.njk
+category: agent
 maker: "steveclarke"
 license: "MIT"
 url: "https://github.com/steveclarke/real-world-rails"

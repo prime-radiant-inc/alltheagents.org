@@ -2,6 +2,7 @@
 name: "coding-agent-tips"
 slug: "coding-agent-tips"
 layout: agent.njk
+category: agent
 maker: "anipotts"
 license: "MIT"
 url: "https://github.com/anipotts/coding-agent-tips"

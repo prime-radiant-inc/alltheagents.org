@@ -2,6 +2,7 @@
 name: "Comet"
 slug: "comet"
 layout: agent.njk
+category: agent
 maker: "Comet"
 license: "Proprietary"
 url: "https://comet.com"

@@ -2,6 +2,7 @@
 name: "atmosphere"
 slug: "atmosphere"
 layout: agent.njk
+category: agent
 maker: "Atmosphere"
 license: "Apache-2.0"
 url: "https://github.com/Atmosphere/atmosphere"

@@ -2,6 +2,7 @@
 name: "PRarena"
 slug: "prarena"
 layout: agent.njk
+category: agent
 maker: "aavetis"
 license: null
 url: "https://github.com/aavetis/PRarena"

@@ -2,6 +2,7 @@
 name: "Mini-Kode"
 slug: "mini-kode"
 layout: agent.njk
+category: agent
 maker: "minmaxflow"
 license: "MIT"
 url: "https://github.com/minmaxflow/mini-kode"

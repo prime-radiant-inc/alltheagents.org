@@ -2,6 +2,7 @@
 name: "Graft"
 slug: "graft"
 layout: agent.njk
+category: agent
 maker: "NanoNets"
 license: "MIT"
 url: "https://github.com/NanoNets/Graft"

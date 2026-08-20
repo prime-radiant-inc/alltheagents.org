@@ -2,6 +2,7 @@
 name: "WorkBuddy"
 slug: "workbuddy"
 layout: agent.njk
+category: agent
 maker: "Tencent"
 license: "Proprietary"
 url: "https://workbuddy.tencent.com"

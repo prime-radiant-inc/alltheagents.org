@@ -2,6 +2,7 @@
 name: "honeycomb"
 slug: "honeycomb"
 layout: agent.njk
+category: agent
 maker: "legioncodeinc"
 license: "AGPL-3.0"
 url: "https://github.com/legioncodeinc/honeycomb"

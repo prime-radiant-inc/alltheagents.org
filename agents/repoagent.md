@@ -2,6 +2,7 @@
 name: "RepoAgent"
 slug: "repoagent"
 layout: agent.njk
+category: agent
 maker: "OpenBMB"
 license: "Apache-2.0"
 url: "https://github.com/OpenBMB/RepoAgent"

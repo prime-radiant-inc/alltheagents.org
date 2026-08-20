@@ -2,6 +2,7 @@
 name: "HttpClientCodeGenerator"
 slug: "httpclientcodegenerator"
 layout: agent.njk
+category: agent
 maker: "Jalalx"
 license: "MIT"
 url: "https://github.com/Jalalx/HttpClientCodeGenerator"

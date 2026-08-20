@@ -2,6 +2,7 @@
 name: "Smol Developer"
 slug: "smol-developer"
 layout: agent.njk
+category: agent
 maker: "smol-ai"
 license: "MIT"
 url: "https://github.com/smol-ai/developer"

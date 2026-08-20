@@ -2,6 +2,7 @@
 name: "Perplexity-Inspired LLM Answer Engine"
 slug: "perplexity-inspired-llm-answer-engine"
 layout: agent.njk
+category: agent
 maker: "developersdigest"
 license: "MIT"
 url: "https://github.com/developersdigest/llm-answer-engine"

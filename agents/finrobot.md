@@ -2,6 +2,7 @@
 name: "FinRobot"
 slug: "finrobot"
 layout: agent.njk
+category: agent
 maker: "AI4Finance-Foundation"
 license: "Apache-2.0"
 url: "https://github.com/AI4Finance-Foundation/FinRobot"

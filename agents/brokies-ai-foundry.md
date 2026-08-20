@@ -2,6 +2,7 @@
 name: "Brokies-AI-Foundry"
 slug: "brokies-ai-foundry"
 layout: agent.njk
+category: agent
 maker: "Caplet1989"
 license: null
 url: "https://github.com/Caplet1989/Brokies-AI-Foundry"

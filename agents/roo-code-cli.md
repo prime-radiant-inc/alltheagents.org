@@ -2,6 +2,7 @@
 name: "Roo Code CLI"
 slug: "roo-code-cli"
 layout: agent.njk
+category: agent
 maker: "RooCodeInc"
 license: "Apache-2.0"
 url: "https://github.com/RooCodeInc/Roo-Code"

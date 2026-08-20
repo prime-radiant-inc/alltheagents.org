@@ -2,6 +2,7 @@
 name: "loom"
 slug: "loom"
 layout: agent.njk
+category: agent
 maker: "husu"
 license: null
 url: "https://github.com/husu/loom"

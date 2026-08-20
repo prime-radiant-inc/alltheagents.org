@@ -2,6 +2,7 @@
 name: "Baidu Miaoda"
 slug: "baidu-miaoda"
 layout: agent.njk
+category: agent
 maker: "Baidu"
 license: "Proprietary"
 url: "https://cloud.baidu.com/product/miaoda"

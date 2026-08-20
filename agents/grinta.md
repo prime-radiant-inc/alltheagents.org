@@ -2,6 +2,7 @@
 name: "Grinta"
 slug: "grinta"
 layout: agent.njk
+category: agent
 maker: "josephsenior"
 license: "MIT"
 url: "https://github.com/josephsenior/Grinta-Coding-Agent"

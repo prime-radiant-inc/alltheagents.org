@@ -2,6 +2,7 @@
 name: "h5i"
 slug: "h5i"
 layout: agent.njk
+category: multiplexer
 maker: "h5i-dev"
 license: "Apache-2.0"
 url: "https://github.com/h5i-dev/h5i"

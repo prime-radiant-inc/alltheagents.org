@@ -2,6 +2,7 @@
 name: "Parallel Code"
 slug: "parallel-code"
 layout: agent.njk
+category: multiplexer
 maker: "johannesjo"
 license: "MIT"
 url: "https://github.com/johannesjo/parallel-code"

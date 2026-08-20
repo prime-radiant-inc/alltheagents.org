@@ -2,6 +2,7 @@
 name: ".better-coding-agents"
 slug: "better-coding-agents"
 layout: agent.njk
+category: agent
 maker: "bmdavis419"
 license: null
 url: "https://github.com/bmdavis419/.better-coding-agents"

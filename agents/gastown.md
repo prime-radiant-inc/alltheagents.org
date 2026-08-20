@@ -2,6 +2,7 @@
 name: "gastown"
 slug: "gastown"
 layout: agent.njk
+category: agent
 maker: "gastownhall"
 license: "MIT"
 url: "https://github.com/steveyegge/gastown"

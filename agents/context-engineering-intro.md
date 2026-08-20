@@ -2,6 +2,7 @@
 name: "context-engineering-intro"
 slug: "context-engineering-intro"
 layout: agent.njk
+category: agent
 maker: "coleam00"
 license: "MIT"
 url: "https://github.com/coleam00/context-engineering-intro"

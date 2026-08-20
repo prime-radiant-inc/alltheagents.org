@@ -2,6 +2,7 @@
 name: "Devle"
 slug: "devle"
 layout: agent.njk
+category: agent
 maker: "Devle"
 license: null
 url: "https://devle.ai"

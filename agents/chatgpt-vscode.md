@@ -2,6 +2,7 @@
 name: "chatgpt-vscode"
 slug: "chatgpt-vscode"
 layout: agent.njk
+category: agent
 maker: "ai-genie"
 license: "ISC"
 url: "https://github.com/ai-genie/chatgpt-vscode"

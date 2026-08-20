@@ -2,6 +2,7 @@
 name: "Mql"
 slug: "mql"
 layout: agent.njk
+category: agent
 maker: "shurutech"
 license: "MIT"
 url: "https://github.com/shurutech/mql"

@@ -2,6 +2,7 @@
 name: "Windsurf (Codeium)"
 slug: "windsurf-codeium"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://windsurf.com"

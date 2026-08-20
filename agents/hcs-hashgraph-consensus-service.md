@@ -2,6 +2,7 @@
 name: "HCS (Hashgraph Consensus Service)"
 slug: "hcs-hashgraph-consensus-service"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://hol.org"

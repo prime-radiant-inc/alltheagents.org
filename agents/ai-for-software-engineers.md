@@ -2,6 +2,7 @@
 name: "ai-for-software-engineers"
 slug: "ai-for-software-engineers"
 layout: agent.njk
+category: agent
 maker: "loganthorneloe"
 license: "MIT"
 url: "https://github.com/loganthorneloe/ai-for-software-engineers"

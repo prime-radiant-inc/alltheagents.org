@@ -2,6 +2,7 @@
 name: "self_improving_coding_agent"
 slug: "self-improving-coding-agent"
 layout: agent.njk
+category: agent
 maker: "MaximeRobeyns"
 license: "MIT"
 url: "https://github.com/MaximeRobeyns/self_improving_coding_agent"

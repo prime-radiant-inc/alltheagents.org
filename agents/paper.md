@@ -2,6 +2,7 @@
 name: "paper"
 slug: "paper"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://huggingface.co/papers/2510.05592"

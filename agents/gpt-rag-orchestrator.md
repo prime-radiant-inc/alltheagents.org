@@ -2,6 +2,7 @@
 name: "gpt-rag-orchestrator"
 slug: "gpt-rag-orchestrator"
 layout: agent.njk
+category: agent
 maker: "Azure"
 license: "MIT"
 url: "https://github.com/Azure/gpt-rag-orchestrator"

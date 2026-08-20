@@ -2,6 +2,7 @@
 name: "Ai-Agent-Lab"
 slug: "ai-agent-lab"
 layout: agent.njk
+category: agent
 maker: "Zeeshan138063"
 license: "MIT"
 url: "https://github.com/Zeeshan138063/ai-agent-lab"

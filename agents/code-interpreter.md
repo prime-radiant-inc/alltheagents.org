@@ -2,6 +2,7 @@
 name: "Code-Interpreter"
 slug: "code-interpreter"
 layout: agent.njk
+category: agent
 maker: "haseeb-heaven"
 license: "Apache-2.0"
 url: "https://github.com/haseeb-heaven/code-interpreter"

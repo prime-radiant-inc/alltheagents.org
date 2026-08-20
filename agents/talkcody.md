@@ -2,6 +2,7 @@
 name: "talkcody"
 slug: "talkcody"
 layout: agent.njk
+category: agent
 maker: "talkcody"
 license: "MIT"
 url: "https://github.com/talkcody/talkcody"

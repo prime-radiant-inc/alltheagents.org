@@ -2,6 +2,7 @@
 name: "ai-code-review-helper"
 slug: "ai-code-review-helper"
 layout: agent.njk
+category: agent
 maker: "Usagi-org"
 license: "Apache-2.0"
 url: "https://github.com/Usagi-org/ai-code-review-helper"

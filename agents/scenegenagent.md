@@ -2,6 +2,7 @@
 name: "SceneGenAgent"
 slug: "scenegenagent"
 layout: agent.njk
+category: agent
 maker: "THUDM"
 license: "Apache-2.0"
 url: "https://github.com/THUDM/SceneGenAgent"

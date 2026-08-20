@@ -2,6 +2,7 @@
 name: "Warp"
 slug: "warp"
 layout: agent.njk
+category: agent
 maker: "warpdotdev"
 license: "AGPL-3.0"
 url: "https://github.com/warpdotdev/warp"

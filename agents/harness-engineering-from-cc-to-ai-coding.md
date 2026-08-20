@@ -2,6 +2,7 @@
 name: "harness-engineering-from-cc-to-ai-coding"
 slug: "harness-engineering-from-cc-to-ai-coding"
 layout: agent.njk
+category: agent
 maker: "ZhangHanDong"
 license: "MIT"
 url: "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding"

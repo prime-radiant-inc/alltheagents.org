@@ -2,6 +2,7 @@
 name: "tlbx"
 slug: "tlbx"
 layout: agent.njk
+category: multiplexer
 maker: "tlbx-ai"
 license: "AGPL-3.0"
 url: "https://github.com/tlbx-ai/tlbx"

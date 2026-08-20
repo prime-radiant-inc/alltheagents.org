@@ -2,6 +2,7 @@
 name: "rayu-cli"
 slug: "rayu-cli"
 layout: agent.njk
+category: agent
 maker: "Choeng-Rayu"
 license: "MIT"
 url: "https://github.com/Choeng-Rayu/rayu-cli"

@@ -2,6 +2,7 @@
 name: "oi"
 slug: "oi"
 layout: agent.njk
+category: agent
 maker: "oi-overide"
 license: "GPL-2.0"
 url: "https://github.com/oi-overide/oi"

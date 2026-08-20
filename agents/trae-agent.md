@@ -2,6 +2,7 @@
 name: "Trae Agent"
 slug: "trae-agent"
 layout: agent.njk
+category: agent
 maker: "bytedance"
 license: "MIT"
 url: "https://github.com/bytedance/trae-agent"

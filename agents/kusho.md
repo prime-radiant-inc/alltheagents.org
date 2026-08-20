@@ -2,6 +2,7 @@
 name: "Kusho"
 slug: "kusho"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://kusho.ai/"

@@ -2,6 +2,7 @@
 name: "Rover"
 slug: "rover"
 layout: agent.njk
+category: agent
 maker: "Rover"
 license: "Proprietary"
 url: "https://www.getrover.com"

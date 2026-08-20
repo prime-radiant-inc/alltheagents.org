@@ -2,6 +2,7 @@
 name: "AI-Engineer"
 slug: "ai-engineer"
 layout: agent.njk
+category: agent
 maker: "Ratnesh-181998"
 license: "Apache-2.0"
 url: "https://github.com/Ratnesh-181998/AI-Engineer"

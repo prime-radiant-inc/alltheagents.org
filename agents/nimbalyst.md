@@ -2,6 +2,7 @@
 name: "Nimbalyst"
 slug: "nimbalyst"
 layout: agent.njk
+category: multiplexer
 maker: "nimbalyst"
 license: "MIT"
 url: "https://github.com/nimbalyst/nimbalyst"

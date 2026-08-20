@@ -2,6 +2,7 @@
 name: "arc-kit"
 slug: "arc-kit"
 layout: agent.njk
+category: agent
 maker: "tractorjuice"
 license: "NOASSERTION"
 url: "https://github.com/tractorjuice/arc-kit"

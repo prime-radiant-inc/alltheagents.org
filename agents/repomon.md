@@ -2,6 +2,7 @@
 name: "repomon"
 slug: "repomon"
 layout: agent.njk
+category: multiplexer
 maker: "AliHamzaAzam"
 license: "Apache-2.0"
 url: "https://github.com/AliHamzaAzam/repomon"

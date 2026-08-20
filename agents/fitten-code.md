@@ -2,6 +2,7 @@
 name: "Fitten Code"
 slug: "fitten-code"
 layout: agent.njk
+category: agent
 maker: "Fitten Tech"
 license: "Proprietary"
 url: "https://code.fittentech.com"

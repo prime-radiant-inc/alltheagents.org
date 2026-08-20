@@ -2,6 +2,7 @@
 name: "humanlayer"
 slug: "humanlayer"
 layout: agent.njk
+category: agent
 maker: "humanlayer"
 license: "NOASSERTION"
 url: "https://github.com/humanlayer/humanlayer"

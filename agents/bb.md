@@ -2,6 +2,7 @@
 name: "bb"
 slug: "bb"
 layout: agent.njk
+category: agent
 maker: "get-bb"
 license: "MIT"
 url: "https://github.com/get-bb/bb"

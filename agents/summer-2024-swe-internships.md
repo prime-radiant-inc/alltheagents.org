@@ -2,6 +2,7 @@
 name: "Summer-2024-SWE-Internships"
 slug: "summer-2024-swe-internships"
 layout: agent.njk
+category: agent
 maker: "AlanChen4"
 license: null
 url: "https://github.com/AlanChen4/Summer-2024-SWE-Internships"

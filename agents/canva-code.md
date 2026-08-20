@@ -2,6 +2,7 @@
 name: "Canva Code"
 slug: "canva-code"
 layout: agent.njk
+category: agent
 maker: "Canva"
 license: "Proprietary"
 url: "https://www.canva.com"

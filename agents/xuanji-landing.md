@@ -2,6 +2,7 @@
 name: "xuanji-landing"
 slug: "xuanji-landing"
 layout: agent.njk
+category: agent
 maker: "gary95271"
 license: null
 url: "https://github.com/gary95271/xuanji-landing"

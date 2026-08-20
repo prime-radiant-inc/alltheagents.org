@@ -2,6 +2,7 @@
 name: "cli-llm-coding"
 slug: "cli-llm-coding"
 layout: agent.njk
+category: agent
 maker: "omarabid"
 license: null
 url: "https://github.com/omarabid/cli-llm-coding"

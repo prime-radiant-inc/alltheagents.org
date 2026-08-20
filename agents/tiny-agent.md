@@ -2,6 +2,7 @@
 name: "Tiny-Agent"
 slug: "tiny-agent"
 layout: agent.njk
+category: agent
 maker: "bombap"
 license: null
 url: "https://github.com/bombap/tiny-agent"

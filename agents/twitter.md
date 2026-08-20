@@ -2,6 +2,7 @@
 name: "twitter"
 slug: "twitter"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://twitter.com/Nurgo"

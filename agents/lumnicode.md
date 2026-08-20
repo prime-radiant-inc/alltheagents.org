@@ -2,6 +2,7 @@
 name: "lumnicode"
 slug: "lumnicode"
 layout: agent.njk
+category: agent
 maker: "martian56"
 license: "MIT"
 url: "https://github.com/martian56/lumnicode"

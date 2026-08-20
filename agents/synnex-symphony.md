@@ -2,6 +2,7 @@
 name: "Synnex_Symphony"
 slug: "synnex-symphony"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://github.com/Styro13/Synnex_Symphony"

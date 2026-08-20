@@ -2,6 +2,7 @@
 name: "codinit-dev"
 slug: "codinit-dev"
 layout: agent.njk
+category: agent
 maker: "codinit-dev"
 license: "MIT"
 url: "https://github.com/codinit-dev/codinit-dev"

@@ -2,6 +2,7 @@
 name: "PaperBanana-Pro"
 slug: "paperbanana-pro"
 layout: agent.njk
+category: agent
 maker: "elpsykongloo"
 license: "Apache-2.0"
 url: "https://github.com/elpsykongloo/PaperBanana-Pro"

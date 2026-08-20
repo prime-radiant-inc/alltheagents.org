@@ -2,6 +2,7 @@
 name: "CodeRabbit"
 slug: "coderabbit"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://coderabbit.ai/"

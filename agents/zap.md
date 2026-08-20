@@ -2,6 +2,7 @@
 name: "Zap"
 slug: "zap"
 layout: agent.njk
+category: agent
 maker: "zap-coding-agent"
 license: null
 url: "https://github.com/zap-coding-agent/zap-coding-agent"

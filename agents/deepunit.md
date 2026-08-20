@@ -2,6 +2,7 @@
 name: "Deepunit"
 slug: "deepunit"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://x.com/AlexReibman/status/1772773773772779533"

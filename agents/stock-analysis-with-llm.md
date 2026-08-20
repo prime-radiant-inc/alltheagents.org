@@ -2,6 +2,7 @@
 name: "Stock-Analysis-With-Llm"
 slug: "stock-analysis-with-llm"
 layout: agent.njk
+category: agent
 maker: "bauer-jan"
 license: "MIT"
 url: "https://github.com/bauer-jan/stock-analysis-with-llm"

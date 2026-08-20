@@ -2,6 +2,7 @@
 name: "devstral2"
 slug: "devstral2"
 layout: agent.njk
+category: agent
 maker: "Mistral AI"
 license: null
 url: "https://mistral.ai/news/devstral-2-vibe-cli/"

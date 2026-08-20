@@ -2,6 +2,7 @@
 name: "openagent"
 slug: "openagent"
 layout: agent.njk
+category: agent
 maker: "the-open-agent"
 license: "Apache-2.0"
 url: "https://github.com/the-open-agent/openagent"

@@ -2,6 +2,7 @@
 name: "Ducky"
 slug: "ducky"
 layout: agent.njk
+category: agent
 maker: "ParthSareen"
 license: "MIT"
 url: "https://github.com/ParthSareen/ducky"

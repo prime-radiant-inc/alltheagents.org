@@ -2,6 +2,7 @@
 name: "golutra"
 slug: "golutra"
 layout: agent.njk
+category: agent
 maker: "golutra"
 license: "NOASSERTION"
 url: "https://github.com/golutra/golutra"

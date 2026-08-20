@@ -2,6 +2,7 @@
 name: "Plandex"
 slug: "plandex"
 layout: agent.njk
+category: agent
 maker: "plandex-ai"
 license: "MIT"
 url: "https://github.com/plandex-ai/plandex"

@@ -2,6 +2,7 @@
 name: "build-your-own-coding-agent"
 slug: "build-your-own-coding-agent"
 layout: agent.njk
+category: agent
 maker: "yanhua1010"
 license: null
 url: "https://github.com/yanhua1010/build-your-own-coding-agent"

@@ -2,6 +2,7 @@
 name: "Bardeen"
 slug: "bardeen"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.bardeen.ai/"

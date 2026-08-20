@@ -2,6 +2,7 @@
 name: "CodeActAgent"
 slug: "codeactagent"
 layout: agent.njk
+category: agent
 maker: "xingyaoww"
 license: "MIT"
 url: "https://github.com/xingyaoww/code-act"

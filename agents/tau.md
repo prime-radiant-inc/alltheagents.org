@@ -2,6 +2,7 @@
 name: "Tau"
 slug: "tau"
 layout: agent.njk
+category: agent
 maker: "huggingface"
 license: "MIT"
 url: "https://github.com/huggingface/tau"

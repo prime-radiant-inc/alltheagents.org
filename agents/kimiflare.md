@@ -2,6 +2,7 @@
 name: "kimiflare"
 slug: "kimiflare"
 layout: agent.njk
+category: agent
 maker: "sinameraji"
 license: "MIT"
 url: "https://github.com/sinameraji/kimiflare"

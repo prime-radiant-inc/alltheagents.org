@@ -2,6 +2,7 @@
 name: "GoCodeo"
 slug: "gocodeo"
 layout: agent.njk
+category: agent
 maker: "GoCodeo"
 license: "Proprietary"
 url: "https://www.gocodeo.com"

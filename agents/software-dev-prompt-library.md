@@ -2,6 +2,7 @@
 name: "Software-Dev-Prompt-Library"
 slug: "software-dev-prompt-library"
 layout: agent.njk
+category: agent
 maker: "codingthefuturewithai"
 license: "MIT"
 url: "https://github.com/codingthefuturewithai/software-dev-prompt-library"

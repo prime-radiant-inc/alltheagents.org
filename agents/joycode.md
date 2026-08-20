@@ -2,6 +2,7 @@
 name: "JoyCode"
 slug: "joycode"
 layout: agent.njk
+category: agent
 maker: "JoyCode"
 license: "Proprietary"
 url: "https://joycode.com"

@@ -2,6 +2,7 @@
 name: "Multi-Agent-AI-System"
 slug: "multi-agent-ai-system"
 layout: agent.njk
+category: agent
 maker: "FareedKhan-dev"
 license: "MIT"
 url: "https://github.com/FareedKhan-dev/Multi-Agent-AI-System"

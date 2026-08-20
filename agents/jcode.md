@@ -2,6 +2,7 @@
 name: "JCode"
 slug: "jcode"
 layout: agent.njk
+category: agent
 maker: "1jehuang"
 license: "MIT"
 url: "https://github.com/1jehuang/jcode"

@@ -2,6 +2,7 @@
 name: "ai-engineer-toolkit"
 slug: "ai-engineer-toolkit"
 layout: agent.njk
+category: agent
 maker: "break-into-data"
 license: null
 url: "https://github.com/break-into-data/ai-engineer-toolkit"

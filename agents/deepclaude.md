@@ -2,6 +2,7 @@
 name: "deepclaude"
 slug: "deepclaude"
 layout: agent.njk
+category: agent
 maker: "aattaran"
 license: "MIT"
 url: "https://github.com/aattaran/deepclaude"

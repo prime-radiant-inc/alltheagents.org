@@ -2,6 +2,7 @@
 name: "agents.md"
 slug: "agentsmd"
 layout: agent.njk
+category: agent
 maker: "agentsmd"
 license: "MIT"
 url: "https://github.com/agentsmd/agents.md"

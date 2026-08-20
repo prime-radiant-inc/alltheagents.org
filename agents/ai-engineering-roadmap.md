@@ -2,6 +2,7 @@
 name: "Ai-Engineering-Roadmap"
 slug: "ai-engineering-roadmap"
 layout: agent.njk
+category: agent
 maker: "AgenticAiLabs"
 license: "MIT"
 url: "https://github.com/AgenticAiLabs/Ai-Engineering-Roadmap"

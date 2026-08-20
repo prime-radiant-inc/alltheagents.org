@@ -2,6 +2,7 @@
 name: "Eloquent"
 slug: "eloquent"
 layout: agent.njk
+category: agent
 maker: "boneylizard"
 license: "AGPL-3.0"
 url: "https://github.com/boneylizard/Eloquent"

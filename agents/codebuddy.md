@@ -2,6 +2,7 @@
 name: "codebuddy"
 slug: "codebuddy"
 layout: agent.njk
+category: agent
 maker: "olasunkanmi-SE"
 license: "MIT"
 url: "https://github.com/olasunkanmi-SE/codebuddy"

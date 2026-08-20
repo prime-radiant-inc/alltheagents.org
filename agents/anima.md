@@ -2,6 +2,7 @@
 name: "Anima"
 slug: "anima"
 layout: agent.njk
+category: agent
 maker: "Fullive-AI"
 license: "Apache-2.0"
 url: "https://github.com/Fullive-AI/Anima"

@@ -2,6 +2,7 @@
 name: "athas"
 slug: "athas"
 layout: agent.njk
+category: agent
 maker: "athasdev"
 license: "NOASSERTION"
 url: "https://github.com/athasdev/athas"

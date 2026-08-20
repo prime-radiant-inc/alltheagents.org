@@ -2,6 +2,7 @@
 name: "run-kit"
 slug: "run-kit"
 layout: agent.njk
+category: agent
 maker: "sahil87"
 license: "MIT"
 url: "https://github.com/sahil87/run-kit"

@@ -2,6 +2,7 @@
 name: "Promptly"
 slug: "promptly"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.trypromptly.com/"

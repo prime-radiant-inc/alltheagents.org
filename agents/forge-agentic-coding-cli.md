@@ -2,6 +2,7 @@
 name: "Forge-Agentic-Coding-CLI"
 slug: "forge-agentic-coding-cli"
 layout: agent.njk
+category: agent
 maker: "hoangsonww"
 license: "MIT"
 url: "https://github.com/hoangsonww/Forge-Agentic-Coding-CLI"

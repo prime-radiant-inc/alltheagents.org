@@ -2,6 +2,7 @@
 name: "ai-doc-gen"
 slug: "ai-doc-gen"
 layout: agent.njk
+category: agent
 maker: "divar-ir"
 license: "MIT"
 url: "https://github.com/divar-ir/ai-doc-gen"

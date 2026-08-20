@@ -2,6 +2,7 @@
 name: "tig"
 slug: "tig"
 layout: agent.njk
+category: agent
 maker: "rsrohan99"
 license: null
 url: "https://github.com/rsrohan99/tig"

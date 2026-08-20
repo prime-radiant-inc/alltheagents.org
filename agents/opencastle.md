@@ -2,6 +2,7 @@
 name: "OpenCastle"
 slug: "opencastle"
 layout: agent.njk
+category: multiplexer
 maker: "monkilabs"
 license: "MIT"
 url: "https://github.com/monkilabs/opencastle"

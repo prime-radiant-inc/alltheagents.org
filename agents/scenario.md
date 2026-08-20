@@ -2,6 +2,7 @@
 name: "scenario"
 slug: "scenario"
 layout: agent.njk
+category: agent
 maker: "langwatch"
 license: "Apache-2.0"
 url: "https://github.com/langwatch/scenario"

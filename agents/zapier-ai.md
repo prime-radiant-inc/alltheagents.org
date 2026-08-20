@@ -2,6 +2,7 @@
 name: "Zapier AI"
 slug: "zapier-ai"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://zapier.com/ai"

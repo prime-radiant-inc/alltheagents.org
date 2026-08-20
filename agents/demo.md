@@ -2,6 +2,7 @@
 name: "demo"
 slug: "demo"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://twitter.com/OpenInterpreter/status/1770821439458840846"

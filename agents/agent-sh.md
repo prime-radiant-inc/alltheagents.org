@@ -2,6 +2,7 @@
 name: "agent-sh"
 slug: "agent-sh"
 layout: agent.njk
+category: agent
 maker: "guanyilun"
 license: "MIT"
 url: "https://github.com/guanyilun/agent-sh"

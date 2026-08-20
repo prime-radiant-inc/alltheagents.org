@@ -2,6 +2,7 @@
 name: "aidermacs"
 slug: "aidermacs"
 layout: agent.njk
+category: agent
 maker: "MatthewZMD"
 license: "Apache-2.0"
 url: "https://github.com/MatthewZMD/aidermacs"

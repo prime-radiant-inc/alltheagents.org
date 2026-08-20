@@ -2,6 +2,7 @@
 name: "CodeLlama"
 slug: "codellama"
 layout: agent.njk
+category: agent
 maker: "Meta AI"
 license: "MIT"
 url: "https://github.com/meta-ai/codellama"

@@ -2,6 +2,7 @@
 name: "conch"
 slug: "conch"
 layout: agent.njk
+category: agent
 maker: "Crustocean"
 license: null
 url: "https://github.com/Crustocean/conch"

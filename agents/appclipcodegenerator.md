@@ -2,6 +2,7 @@
 name: "AppClipCodeGenerator"
 slug: "appclipcodegenerator"
 layout: agent.njk
+category: agent
 maker: "alfianlosari"
 license: "MIT"
 url: "https://github.com/alfianlosari/AppClipCodeGenerator"

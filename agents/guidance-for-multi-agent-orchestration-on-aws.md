@@ -2,6 +2,7 @@
 name: "guidance-for-multi-agent-orchestration-on-aws"
 slug: "guidance-for-multi-agent-orchestration-on-aws"
 layout: agent.njk
+category: agent
 maker: "aws-solutions-library-samples"
 license: "Apache-2.0"
 url: "https://github.com/aws-solutions-library-samples/guidance-for-multi-agent-orchestration-on-aws"

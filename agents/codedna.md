@@ -2,6 +2,7 @@
 name: "codedna"
 slug: "codedna"
 layout: agent.njk
+category: agent
 maker: "Larens94"
 license: "MIT"
 url: "https://github.com/Larens94/codedna"

@@ -2,6 +2,7 @@
 name: "vibe-annotations"
 slug: "vibe-annotations"
 layout: agent.njk
+category: agent
 maker: "RaphaelRegnier"
 license: "NOASSERTION"
 url: "https://github.com/RaphaelRegnier/vibe-annotations"

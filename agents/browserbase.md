@@ -2,6 +2,7 @@
 name: "Browserbase"
 slug: "browserbase"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://twitter.com/browserbasehq"

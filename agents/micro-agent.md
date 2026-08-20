@@ -2,6 +2,7 @@
 name: "Micro Agent"
 slug: "micro-agent"
 layout: agent.njk
+category: agent
 maker: "Independent"
 license: "Open-source"
 url: "https://github.com/micro-agent/micro-agent"

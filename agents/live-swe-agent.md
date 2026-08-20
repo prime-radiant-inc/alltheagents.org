@@ -2,6 +2,7 @@
 name: "live-swe-agent"
 slug: "live-swe-agent"
 layout: agent.njk
+category: agent
 maker: "OpenAutoCoder"
 license: "MIT"
 url: "https://github.com/OpenAutoCoder/live-swe-agent"

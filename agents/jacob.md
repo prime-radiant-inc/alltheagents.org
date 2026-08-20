@@ -2,6 +2,7 @@
 name: "JACoB"
 slug: "jacob"
 layout: agent.njk
+category: agent
 maker: "Renaissance-Innovation-Labs"
 license: "Apache-2.0"
 url: "https://jacb.ai"

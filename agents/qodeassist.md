@@ -2,6 +2,7 @@
 name: "QodeAssist"
 slug: "qodeassist"
 layout: agent.njk
+category: agent
 maker: "Palm1r"
 license: "NOASSERTION"
 url: "https://github.com/Palm1r/QodeAssist"

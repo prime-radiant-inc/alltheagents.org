@@ -2,6 +2,7 @@
 name: "Dexto"
 slug: "dexto"
 layout: agent.njk
+category: agent
 maker: "truffle-ai"
 license: "Source Available"
 url: "https://github.com/truffle-ai/dexto"

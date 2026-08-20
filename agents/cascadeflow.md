@@ -2,6 +2,7 @@
 name: "cascadeflow"
 slug: "cascadeflow"
 layout: agent.njk
+category: agent
 maker: "lemony-ai"
 license: "MIT"
 url: "https://github.com/lemony-ai/cascadeflow"

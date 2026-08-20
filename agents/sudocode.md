@@ -2,6 +2,7 @@
 name: "sudocode"
 slug: "sudocode"
 layout: agent.njk
+category: agent
 maker: "sudoprivacy"
 license: "MIT"
 url: "https://github.com/sudoprivacy/sudocode"

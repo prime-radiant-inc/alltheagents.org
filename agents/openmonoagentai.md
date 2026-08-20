@@ -2,6 +2,7 @@
 name: "OpenMonoAgent.ai"
 slug: "openmonoagentai"
 layout: agent.njk
+category: agent
 maker: "StartupHakk"
 license: "NOASSERTION"
 url: "https://github.com/StartupHakk/OpenMonoAgent.ai"

@@ -2,6 +2,7 @@
 name: "honeydew-ai-coding-agents-plugins"
 slug: "honeydew-ai-coding-agents-plugins"
 layout: agent.njk
+category: agent
 maker: "honeydew-ai"
 license: "Apache-2.0"
 url: "https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins"

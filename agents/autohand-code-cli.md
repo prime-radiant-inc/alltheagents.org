@@ -2,6 +2,7 @@
 name: "Autohand Code CLI"
 slug: "autohand-code-cli"
 layout: agent.njk
+category: agent
 maker: "autohandai"
 license: "Apache-2.0"
 url: "https://github.com/autohandai/code-cli"

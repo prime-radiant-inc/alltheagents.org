@@ -2,6 +2,7 @@
 name: "pi-extensions"
 slug: "pi-extensions"
 layout: agent.njk
+category: agent
 maker: "ogulcancelik"
 license: "MIT"
 url: "https://github.com/ogulcancelik/pi-extensions"

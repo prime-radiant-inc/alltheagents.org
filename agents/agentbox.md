@@ -2,6 +2,7 @@
 name: "AgentBox"
 slug: "agentbox"
 layout: agent.njk
+category: multiplexer
 maker: "madarco"
 license: "MIT"
 url: "https://github.com/madarco/agentbox"

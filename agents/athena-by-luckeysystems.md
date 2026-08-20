@@ -2,6 +2,7 @@
 name: "Athena by LuckeySystems"
 slug: "athena-by-luckeysystems"
 layout: agent.njk
+category: agent
 maker: "luckeyfaraday"
 license: "NOASSERTION"
 url: "https://github.com/luckeyfaraday/Athena"

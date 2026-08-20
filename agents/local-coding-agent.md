@@ -2,6 +2,7 @@
 name: "local-coding-agent"
 slug: "local-coding-agent"
 layout: agent.njk
+category: agent
 maker: "LongNgn204"
 license: "AGPL-3.0"
 url: "https://github.com/LongNgn204/local-coding-agent"

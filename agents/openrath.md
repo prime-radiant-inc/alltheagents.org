@@ -2,6 +2,7 @@
 name: "OpenRath"
 slug: "openrath"
 layout: agent.njk
+category: agent
 maker: "Rath-Team"
 license: "BSD-3-Clause"
 url: "https://github.com/Rath-Team/OpenRath"

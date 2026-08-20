@@ -2,6 +2,7 @@
 name: "kkirikkiri"
 slug: "kkirikkiri"
 layout: agent.njk
+category: agent
 maker: "fivetaku"
 license: "MIT"
 url: "https://github.com/fivetaku/kkirikkiri"

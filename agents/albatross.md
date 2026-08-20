@@ -2,6 +2,7 @@
 name: "Albatross"
 slug: "albatross"
 layout: agent.njk
+category: agent
 maker: "morganlinton"
 license: "MIT"
 url: "https://github.com/morganlinton/Albatross"

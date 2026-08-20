@@ -2,6 +2,7 @@
 name: "Amp"
 slug: "amp"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://sourcegraph.com/amp"

@@ -2,6 +2,7 @@
 name: "cody-public-snapshot"
 slug: "cody-public-snapshot"
 layout: agent.njk
+category: agent
 maker: "sourcegraph"
 license: "Apache-2.0"
 url: "https://github.com/sourcegraph/cody-public-snapshot"

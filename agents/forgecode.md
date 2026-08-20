@@ -2,6 +2,7 @@
 name: "ForgeCode"
 slug: "forgecode"
 layout: agent.njk
+category: agent
 maker: "tailcallhq"
 license: "Apache-2.0"
 url: "https://github.com/tailcallhq/forgecode"

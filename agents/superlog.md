@@ -2,6 +2,7 @@
 name: "Superlog"
 slug: "superlog"
 layout: agent.njk
+category: agent
 maker: "superloglabs"
 license: "Apache-2.0"
 url: "https://superlog.sh"

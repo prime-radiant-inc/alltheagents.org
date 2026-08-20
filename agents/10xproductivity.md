@@ -2,6 +2,7 @@
 name: "10xProductivity"
 slug: "10xproductivity"
 layout: agent.njk
+category: agent
 maker: "ZhixiangLuo"
 license: "MIT"
 url: "https://github.com/ZhixiangLuo/10xProductivity"

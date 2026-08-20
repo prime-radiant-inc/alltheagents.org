@@ -2,6 +2,7 @@
 name: "Locus"
 slug: "locus"
 layout: agent.njk
+category: agent
 maker: "r1n7aro"
 license: "GPL-3.0"
 url: "https://github.com/r1n7aro/Locus"

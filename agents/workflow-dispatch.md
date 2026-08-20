@@ -2,6 +2,7 @@
 name: "Workflow-Dispatch"
 slug: "workflow-dispatch"
 layout: agent.njk
+category: agent
 maker: "benc-uk"
 license: "MIT"
 url: "https://github.com/benc-uk/workflow-dispatch"

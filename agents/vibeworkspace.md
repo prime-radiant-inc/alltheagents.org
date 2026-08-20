@@ -2,6 +2,7 @@
 name: "VibeWorkspace"
 slug: "vibeworkspace"
 layout: agent.njk
+category: agent
 maker: "VibeWorkspace"
 license: null
 url: "https://www.vibe-workspace.cloud"

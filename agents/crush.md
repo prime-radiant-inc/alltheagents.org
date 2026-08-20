@@ -2,6 +2,7 @@
 name: "Crush"
 slug: "crush"
 layout: agent.njk
+category: agent
 maker: "charmbracelet"
 license: "Source Available"
 url: "https://github.com/charmbracelet/crush"

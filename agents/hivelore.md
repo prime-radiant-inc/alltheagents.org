@@ -2,6 +2,7 @@
 name: "Hivelore"
 slug: "hivelore"
 layout: agent.njk
+category: agent
 maker: "Doucs91"
 license: "Apache-2.0"
 url: "https://github.com/Doucs91/hivelore"

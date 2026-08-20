@@ -2,6 +2,7 @@
 name: "NeoCode"
 slug: "neocode"
 layout: agent.njk
+category: agent
 maker: "Hardik180704"
 license: "MIT"
 url: "https://github.com/Hardik180704/NeoCode"

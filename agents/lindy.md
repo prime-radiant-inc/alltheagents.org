@@ -2,6 +2,7 @@
 name: "Lindy"
 slug: "lindy"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://lindy.ai"

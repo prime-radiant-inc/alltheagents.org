@@ -2,6 +2,7 @@
 name: "Powerdrill AI"
 slug: "powerdrill-ai"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://powerdrill.ai/"

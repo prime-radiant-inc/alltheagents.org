@@ -2,6 +2,7 @@
 name: "InsForge"
 slug: "insforge"
 layout: agent.njk
+category: agent
 maker: "InsForge"
 license: "Apache-2.0"
 url: "https://github.com/InsForge/InsForge"

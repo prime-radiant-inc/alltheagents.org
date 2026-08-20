@@ -2,6 +2,7 @@
 name: "Comfyui_Workflows"
 slug: "comfyui-workflows"
 layout: agent.njk
+category: agent
 maker: "cubiq"
 license: "Apache-2.0"
 url: "https://github.com/cubiq/ComfyUI_Workflows"

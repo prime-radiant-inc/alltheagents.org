@@ -2,6 +2,7 @@
 name: "fractal"
 slug: "fractal"
 layout: agent.njk
+category: agent
 maker: "plasma-ai"
 license: "Apache-2.0"
 url: "https://github.com/plasma-ai/fractal"

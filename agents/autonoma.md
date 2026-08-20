@@ -2,6 +2,7 @@
 name: "Autonoma"
 slug: "autonoma"
 layout: agent.njk
+category: agent
 maker: "Sebasbo"
 license: "MIT"
 url: "https://github.com/Sebasbo/Autonoma"

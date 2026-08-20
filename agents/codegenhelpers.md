@@ -2,6 +2,7 @@
 name: "CodeGenHelpers"
 slug: "codegenhelpers"
 layout: agent.njk
+category: agent
 maker: "dansiegel"
 license: "MIT"
 url: "https://github.com/dansiegel/CodeGenHelpers"

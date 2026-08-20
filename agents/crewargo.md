@@ -2,6 +2,7 @@
 name: "CrewArgo"
 slug: "crewargo"
 layout: agent.njk
+category: agent
 maker: "Crewargo"
 license: null
 url: "https://www.crewargo.com"

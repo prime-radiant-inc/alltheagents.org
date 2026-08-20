@@ -2,6 +2,7 @@
 name: "Replicas"
 slug: "replicas"
 layout: agent.njk
+category: agent
 maker: "Replicas"
 license: null
 url: "https://tryreplicas.com"

@@ -2,6 +2,7 @@
 name: "Bazed"
 slug: "bazed"
 layout: agent.njk
+category: agent
 maker: "sagentic-ai"
 license: "NOASSERTION"
 url: "https://github.com/bazed-ai/bazed-af"

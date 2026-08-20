@@ -2,6 +2,7 @@
 name: "perles"
 slug: "perles"
 layout: agent.njk
+category: agent
 maker: "zjrosen"
 license: "MIT"
 url: "https://github.com/zjrosen/perles"

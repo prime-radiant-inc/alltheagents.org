@@ -2,6 +2,7 @@
 name: "cursor-bridge"
 slug: "cursor-bridge"
 layout: agent.njk
+category: agent
 maker: "lengff123"
 license: "AGPL-3.0"
 url: "https://github.com/lengff123/cursor-bridge"

@@ -2,6 +2,7 @@
 name: "dev-3.0"
 slug: "dev-30"
 layout: agent.njk
+category: multiplexer
 maker: "h0x91b"
 license: "Apache-2.0"
 url: "https://github.com/h0x91b/dev-3.0"

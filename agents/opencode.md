@@ -2,6 +2,7 @@
 name: "OpenCode"
 slug: "opencode"
 layout: agent.njk
+category: agent
 maker: "anomalyco"
 license: "MIT"
 url: "https://github.com/anomalyco/opencode"

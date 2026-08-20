@@ -2,6 +2,7 @@
 name: "Exponent"
 slug: "exponent"
 layout: agent.njk
+category: agent
 maker: "Exponent"
 license: null
 url: "https://www.exponent.run"

@@ -2,6 +2,7 @@
 name: "Claude-Html-Test"
 slug: "claude-html-test"
 layout: agent.njk
+category: agent
 maker: "SivaramAdi"
 license: null
 url: "https://github.com/SivaramAdi/claude-html-test"

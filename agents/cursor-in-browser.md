@@ -2,6 +2,7 @@
 name: "cursor-in-browser"
 slug: "cursor-in-browser"
 layout: agent.njk
+category: agent
 maker: "Arfo-du-blo"
 license: "MIT"
 url: "https://github.com/Arfo-du-blo/cursor-in-browser"

@@ -2,6 +2,7 @@
 name: "FLEX"
 slug: "flex"
 layout: agent.njk
+category: agent
 maker: "GenSI-THUAIR"
 license: "MIT"
 url: "https://github.com/GenSI-THUAIR/FLEX"

@@ -2,6 +2,7 @@
 name: "iosm-cli"
 slug: "iosm-cli"
 layout: agent.njk
+category: agent
 maker: "rokoss21"
 license: "MIT"
 url: "https://github.com/rokoss21/iosm-cli"

@@ -2,6 +2,7 @@
 name: "antigravity-nix"
 slug: "antigravity-nix"
 layout: agent.njk
+category: agent
 maker: "jacopone"
 license: "MIT"
 url: "https://github.com/jacopone/antigravity-nix"

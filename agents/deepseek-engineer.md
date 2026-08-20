@@ -2,6 +2,7 @@
 name: "deepseek-engineer"
 slug: "deepseek-engineer"
 layout: agent.njk
+category: agent
 maker: "Doriandarko"
 license: "MIT"
 url: "https://github.com/Doriandarko/deepseek-engineer"

@@ -2,6 +2,7 @@
 name: "Evener"
 slug: "evener"
 layout: agent.njk
+category: agent
 maker: "prime-radiant-inc"
 license: "MIT"
 url: "https://github.com/prime-radiant-inc/evener"

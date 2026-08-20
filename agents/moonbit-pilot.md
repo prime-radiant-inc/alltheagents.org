@@ -2,6 +2,7 @@
 name: "MoonBit Pilot"
 slug: "moonbit-pilot"
 layout: agent.njk
+category: agent
 maker: "IDEA Research Institute"
 license: "MIT"
 url: "https://www.moonbitlang.com"

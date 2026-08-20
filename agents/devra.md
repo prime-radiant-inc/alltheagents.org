@@ -2,6 +2,7 @@
 name: "Devra"
 slug: "devra"
 layout: agent.njk
+category: agent
 maker: "Devra"
 license: "Proprietary"
 url: "https://devra.ai"

@@ -2,6 +2,7 @@
 name: "CodeAlta"
 slug: "codealta"
 layout: agent.njk
+category: agent
 maker: "CodeAlta"
 license: "BSD-2-Clause"
 url: "https://github.com/CodeAlta/CodeAlta"

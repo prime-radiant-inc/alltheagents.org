@@ -2,6 +2,7 @@
 name: "codealmanac"
 slug: "codealmanac"
 layout: agent.njk
+category: agent
 maker: "AlmanacCode"
 license: "Apache-2.0"
 url: "https://github.com/AlmanacCode/codealmanac"

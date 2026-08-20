@@ -2,6 +2,7 @@
 name: "Agentic Engineering Framework"
 slug: "agentic-engineering-framework"
 layout: agent.njk
+category: agent
 maker: "DimitriGeelen"
 license: "Apache-2.0"
 url: "https://github.com/DimitriGeelen/agentic-engineering-framework"

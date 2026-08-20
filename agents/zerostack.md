@@ -2,6 +2,7 @@
 name: "zerostack"
 slug: "zerostack"
 layout: agent.njk
+category: agent
 maker: "gi-dellav"
 license: "GPL-3.0"
 url: "https://github.com/gi-dellav/zerostack"

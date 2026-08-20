@@ -2,6 +2,7 @@
 name: "Llm_Rag"
 slug: "llm-rag"
 layout: agent.njk
+category: agent
 maker: "dongdongunique"
 license: null
 url: "https://github.com/dongdongunique/LLM_RAG"

@@ -2,6 +2,7 @@
 name: "marg-reviewer"
 slug: "marg-reviewer"
 layout: agent.njk
+category: agent
 maker: "allenai"
 license: "Apache-2.0"
 url: "https://github.com/allenai/marg-reviewer"

@@ -2,6 +2,7 @@
 name: "Dagger"
 slug: "dagger"
 layout: agent.njk
+category: agent
 maker: "dagger"
 license: "Apache-2.0"
 url: "https://github.com/dagger/dagger"

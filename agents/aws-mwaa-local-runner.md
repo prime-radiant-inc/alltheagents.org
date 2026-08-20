@@ -2,6 +2,7 @@
 name: "Aws-Mwaa-Local-Runner"
 slug: "aws-mwaa-local-runner"
 layout: agent.njk
+category: agent
 maker: "aws"
 license: "MIT-0"
 url: "https://github.com/aws/aws-mwaa-local-runner"

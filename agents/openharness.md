@@ -2,6 +2,7 @@
 name: "openHarness"
 slug: "openharness"
 layout: agent.njk
+category: agent
 maker: "zhijiewong"
 license: "MIT"
 url: "https://github.com/zhijiewong/openharness"

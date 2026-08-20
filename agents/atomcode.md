@@ -2,6 +2,7 @@
 name: "atomcode"
 slug: "atomcode"
 layout: agent.njk
+category: agent
 maker: "atomgit-atomcode"
 license: "MIT"
 url: "https://github.com/atomgit-atomcode/atomcode"

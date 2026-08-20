@@ -2,6 +2,7 @@
 name: "Agent-Blackbox"
 slug: "agent-blackbox"
 layout: agent.njk
+category: agent
 maker: "TaewoooPark"
 license: "MIT"
 url: "https://github.com/TaewoooPark/Agent-Blackbox"

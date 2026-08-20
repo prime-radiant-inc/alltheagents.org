@@ -2,6 +2,7 @@
 name: "CodeNext.ai"
 slug: "codenextai"
 layout: agent.njk
+category: agent
 maker: "CodeNext"
 license: null
 url: "https://codenext.ai"

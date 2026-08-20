@@ -2,6 +2,7 @@
 name: "Raven-Test-Ai"
 slug: "raven-test-ai"
 layout: agent.njk
+category: agent
 maker: "dhurng"
 license: null
 url: "https://github.com/dhurng/Raven-Test-AI"

@@ -2,6 +2,7 @@
 name: "Stagewise"
 slug: "stagewise"
 layout: agent.njk
+category: agent
 maker: "stagewise-io"
 license: "AGPL-3.0"
 url: "https://github.com/stagewise-io/stagewise"

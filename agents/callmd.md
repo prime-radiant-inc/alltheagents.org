@@ -2,6 +2,7 @@
 name: "call.md"
 slug: "callmd"
 layout: agent.njk
+category: agent
 maker: "video-db"
 license: null
 url: "https://github.com/video-db/call.md"

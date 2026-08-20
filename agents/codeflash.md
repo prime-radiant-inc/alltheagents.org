@@ -2,6 +2,7 @@
 name: "codeflash"
 slug: "codeflash"
 layout: agent.njk
+category: agent
 maker: "codeflash-ai"
 license: "NOASSERTION"
 url: "https://github.com/codeflash-ai/codeflash"

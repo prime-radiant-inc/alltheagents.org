@@ -2,6 +2,7 @@
 name: "codeshell-vscode"
 slug: "codeshell-vscode"
 layout: agent.njk
+category: agent
 maker: "WisdomShell"
 license: "Apache-2.0"
 url: "https://github.com/WisdomShell/codeshell-vscode"

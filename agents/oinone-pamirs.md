@@ -2,6 +2,7 @@
 name: "oinone-pamirs"
 slug: "oinone-pamirs"
 layout: agent.njk
+category: agent
 maker: "oinone"
 license: "AGPL-3.0"
 url: "https://github.com/oinone/oinone-pamirs"

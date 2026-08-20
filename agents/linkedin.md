@@ -2,6 +2,7 @@
 name: "linkedin"
 slug: "linkedin"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.linkedin.com/company/91154103/"

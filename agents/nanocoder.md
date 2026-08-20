@@ -2,6 +2,7 @@
 name: "Nanocoder"
 slug: "nanocoder"
 layout: agent.njk
+category: agent
 maker: "Nano-Collective"
 license: "Source Available"
 url: "https://github.com/Nano-Collective/nanocoder"

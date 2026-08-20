@@ -2,6 +2,7 @@
 name: "camelAI"
 slug: "camelai"
 layout: agent.njk
+category: agent
 maker: "qaml-ai"
 license: "MIT"
 url: "https://github.com/qaml-ai/camelAI"

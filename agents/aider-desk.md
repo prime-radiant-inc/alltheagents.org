@@ -2,6 +2,7 @@
 name: "aider-desk"
 slug: "aider-desk"
 layout: agent.njk
+category: agent
 maker: "hotovo"
 license: "Apache-2.0"
 url: "https://github.com/hotovo/aider-desk"

@@ -2,6 +2,7 @@
 name: "octo-web"
 slug: "octo-web"
 layout: agent.njk
+category: agent
 maker: "Mininglamp-OSS"
 license: "Apache-2.0"
 url: "https://github.com/Mininglamp-OSS/octo-web"

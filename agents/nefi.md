@@ -2,6 +2,7 @@
 name: "nefi"
 slug: "nefi"
 layout: agent.njk
+category: agent
 maker: "Blazity"
 license: "NOASSERTION"
 url: "https://github.com/Blazity/nefi"

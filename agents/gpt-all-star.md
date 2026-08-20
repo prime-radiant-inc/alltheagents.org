@@ -2,6 +2,7 @@
 name: "gpt-all-star"
 slug: "gpt-all-star"
 layout: agent.njk
+category: agent
 maker: "kyaukyuai"
 license: "MIT"
 url: "https://github.com/kyaukyuai/gpt-all-star"

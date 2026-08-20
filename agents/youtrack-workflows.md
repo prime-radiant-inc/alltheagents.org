@@ -2,6 +2,7 @@
 name: "Youtrack-Workflows"
 slug: "youtrack-workflows"
 layout: agent.njk
+category: agent
 maker: "JetBrains"
 license: "Apache-2.0"
 url: "https://github.com/JetBrains/youtrack-workflows"

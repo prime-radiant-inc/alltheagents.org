@@ -2,6 +2,7 @@
 name: "CodeContests"
 slug: "codecontests"
 layout: agent.njk
+category: agent
 maker: "google-deepmind"
 license: "Apache-2.0"
 url: "https://github.com/google-deepmind/code_contests"

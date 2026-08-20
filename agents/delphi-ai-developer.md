@@ -2,6 +2,7 @@
 name: "Delphi-AI-Developer"
 slug: "delphi-ai-developer"
 layout: agent.njk
+category: agent
 maker: "Code4Delphi"
 license: "MIT"
 url: "https://github.com/Code4Delphi/Delphi-AI-Developer"

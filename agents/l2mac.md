@@ -2,6 +2,7 @@
 name: "L2MAC"
 slug: "l2mac"
 layout: agent.njk
+category: agent
 maker: "samholt"
 license: "MIT"
 url: "https://github.com/samholt/l2mac"

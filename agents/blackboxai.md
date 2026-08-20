@@ -2,6 +2,7 @@
 name: "BLACKBOX.AI"
 slug: "blackboxai"
 layout: agent.njk
+category: agent
 maker: "BLACKBOX.AI"
 license: null
 url: "https://www.blackbox.ai"

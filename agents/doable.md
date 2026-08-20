@@ -2,6 +2,7 @@
 name: "Doable"
 slug: "doable"
 layout: agent.njk
+category: agent
 maker: "doable-me"
 license: "MIT"
 url: "https://github.com/doable-me/Doable"

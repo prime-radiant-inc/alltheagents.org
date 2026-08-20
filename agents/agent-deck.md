@@ -2,6 +2,7 @@
 name: "agent-deck"
 slug: "agent-deck"
 layout: agent.njk
+category: multiplexer
 maker: "asheshgoplani"
 license: "MIT"
 url: "https://github.com/asheshgoplani/agent-deck"

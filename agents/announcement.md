@@ -2,6 +2,7 @@
 name: "announcement"
 slug: "announcement"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.ycombinator.com/launches/KkA-ivycheck-guard-against-ai-risks-with-real-time-checks"

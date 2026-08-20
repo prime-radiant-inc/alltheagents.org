@@ -2,6 +2,7 @@
 name: "5dive"
 slug: "5dive"
 layout: agent.njk
+category: multiplexer
 maker: "5dive-ai"
 license: "MIT"
 url: "https://github.com/5dive-ai/5dive"

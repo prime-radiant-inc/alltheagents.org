@@ -2,6 +2,7 @@
 name: "Promptengineering"
 slug: "promptengineering"
 layout: agent.njk
+category: agent
 maker: "DaleStewart"
 license: null
 url: "https://github.com/DaleStewart/PromptEngineering"

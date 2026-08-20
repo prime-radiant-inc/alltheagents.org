@@ -2,6 +2,7 @@
 name: "Ara AI"
 slug: "ara-ai"
 layout: agent.njk
+category: agent
 maker: "Ara"
 license: null
 url: "https://ara.so"

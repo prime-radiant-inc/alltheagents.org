@@ -2,6 +2,7 @@
 name: "Nl2Iac"
 slug: "nl2iac"
 layout: agent.njk
+category: agent
 maker: "ramonbgc"
 license: null
 url: "https://github.com/ramonbgc/nl2iac"

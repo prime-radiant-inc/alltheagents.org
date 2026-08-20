@@ -2,6 +2,7 @@
 name: "Orchids.app"
 slug: "orchidsapp"
 layout: agent.njk
+category: agent
 maker: "Orchids"
 license: "Proprietary"
 url: "https://orchids.app"

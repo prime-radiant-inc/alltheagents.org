@@ -2,6 +2,7 @@
 name: "Flare"
 slug: "flare"
 layout: agent.njk
+category: agent
 maker: "AlgoNoRhythm"
 license: "MIT"
 url: "https://github.com/AlgoNoRhythm/Flare"

@@ -2,6 +2,7 @@
 name: "Appacella"
 slug: "appacella"
 layout: agent.njk
+category: agent
 maker: "Appacella"
 license: "Proprietary"
 url: "https://appacella.com"

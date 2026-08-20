@@ -2,6 +2,7 @@
 name: "supaterm"
 slug: "supaterm"
 layout: agent.njk
+category: agent
 maker: "supabitapp"
 license: "NOASSERTION"
 url: "https://github.com/supabitapp/supaterm"

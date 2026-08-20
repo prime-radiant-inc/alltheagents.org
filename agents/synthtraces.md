@@ -2,6 +2,7 @@
 name: "synthtraces"
 slug: "synthtraces"
 layout: agent.njk
+category: agent
 maker: "julien-c"
 license: null
 url: "https://github.com/julien-c/synthtraces"

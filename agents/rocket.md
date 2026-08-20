@@ -2,6 +2,7 @@
 name: "Rocket"
 slug: "rocket"
 layout: agent.njk
+category: agent
 maker: "Rocket"
 license: "Proprietary"
 url: "https://www.rocketai.app"

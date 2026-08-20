@@ -2,6 +2,7 @@
 name: "qoder-cli"
 slug: "qoder-cli"
 layout: agent.njk
+category: agent
 maker: "Qoder"
 license: "MIT"
 url: "https://github.com/qoder-cli/qoder-cli"

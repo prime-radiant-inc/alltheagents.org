@@ -2,6 +2,7 @@
 name: "Huawei CodeArts"
 slug: "huawei-codearts"
 layout: agent.njk
+category: agent
 maker: "Huawei Cloud"
 license: "Proprietary"
 url: "https://www.huaweicloud.com/product-codearts.html"

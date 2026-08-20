@@ -2,6 +2,7 @@
 name: "agent-of-empires"
 slug: "agent-of-empires"
 layout: agent.njk
+category: multiplexer
 maker: "agent-of-empires"
 license: "MIT"
 url: "https://github.com/njbrake/agent-of-empires"

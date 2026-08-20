@@ -2,6 +2,7 @@
 name: "teta"
 slug: "teta"
 layout: agent.njk
+category: agent
 maker: "ondateta"
 license: "AGPL-3.0"
 url: "https://github.com/ondateta/teta"

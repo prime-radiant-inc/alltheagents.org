@@ -2,6 +2,7 @@
 name: "Visual Copilot"
 slug: "visual-copilot"
 layout: agent.njk
+category: agent
 maker: "Figma"
 license: "Proprietary"
 url: "https://www.figma.com/community/plugin/figma-to-code"

@@ -2,6 +2,7 @@
 name: "cto.new"
 slug: "ctonew"
 layout: agent.njk
+category: agent
 maker: "cto.new"
 license: null
 url: "https://cto.new"

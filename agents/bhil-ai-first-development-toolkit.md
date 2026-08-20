@@ -2,6 +2,7 @@
 name: "BHIL-AI-First-Development-Toolkit"
 slug: "bhil-ai-first-development-toolkit"
 layout: agent.njk
+category: agent
 maker: "PolymathWizard"
 license: null
 url: "https://github.com/PolymathWizard/BHIL-AI-First-Development-Toolkit"

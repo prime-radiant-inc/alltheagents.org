@@ -2,6 +2,7 @@
 name: "pairup.nvim"
 slug: "pairupnvim"
 layout: agent.njk
+category: agent
 maker: "Piotr1215"
 license: "MIT"
 url: "https://github.com/Piotr1215/pairup.nvim"

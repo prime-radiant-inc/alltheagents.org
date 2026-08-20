@@ -2,6 +2,7 @@
 name: "postmortemthis"
 slug: "postmortemthis"
 layout: agent.njk
+category: multiplexer
 maker: "Softeria"
 license: "MIT"
 url: "https://github.com/Softeria/postmortemthis"

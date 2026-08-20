@@ -2,6 +2,7 @@
 name: "LineCodePro"
 slug: "linecodepro"
 layout: agent.njk
+category: agent
 maker: "LangLang03"
 license: "GPL-3.0"
 url: "https://github.com/LangLang03/LineCodePro"

@@ -2,6 +2,7 @@
 name: "Chaterm"
 slug: "chaterm"
 layout: agent.njk
+category: agent
 maker: "chaterm"
 license: "NOASSERTION"
 url: "https://github.com/chaterm/Chaterm"

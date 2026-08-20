@@ -2,6 +2,7 @@
 name: "workstreams"
 slug: "workstreams"
 layout: agent.njk
+category: agent
 maker: "workstream-labs"
 license: "NOASSERTION"
 url: "https://github.com/workstream-labs/workstreams"

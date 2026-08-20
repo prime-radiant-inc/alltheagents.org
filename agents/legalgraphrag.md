@@ -2,6 +2,7 @@
 name: "LegalGraphRAG"
 slug: "legalgraphrag"
 layout: agent.njk
+category: agent
 maker: "XMUDeepLIT"
 license: null
 url: "https://github.com/XMUDeepLIT/LegalGraphRAG"

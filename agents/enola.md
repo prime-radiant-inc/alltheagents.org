@@ -2,6 +2,7 @@
 name: "enola"
 slug: "enola"
 layout: agent.njk
+category: agent
 maker: "enola-labs"
 license: "Apache-2.0"
 url: "https://github.com/enola-labs/enola"

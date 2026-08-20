@@ -2,6 +2,7 @@
 name: "GPT Migrate"
 slug: "gpt-migrate"
 layout: agent.njk
+category: agent
 maker: "joshpxyne"
 license: "MIT"
 url: "https://github.com/0xpayne/gpt-migrate"

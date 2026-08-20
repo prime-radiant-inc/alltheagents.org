@@ -2,6 +2,7 @@
 name: "Phind"
 slug: "phind"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.phind.com/"

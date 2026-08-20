@@ -2,6 +2,7 @@
 name: "Synthetic-AI-Developer-Productivity-Dataset"
 slug: "synthetic-ai-developer-productivity-dataset"
 layout: agent.njk
+category: agent
 maker: "syncora-ai"
 license: null
 url: "https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset"

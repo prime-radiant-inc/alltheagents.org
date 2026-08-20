@@ -2,6 +2,7 @@
 name: "dux"
 slug: "dux"
 layout: agent.njk
+category: multiplexer
 maker: "patrickdappollonio"
 license: "MIT"
 url: "https://github.com/patrickdappollonio/dux"

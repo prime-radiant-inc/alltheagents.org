@@ -2,6 +2,7 @@
 name: "Graphql-Cli"
 slug: "graphql-cli"
 layout: agent.njk
+category: agent
 maker: "Urigo"
 license: "MIT"
 url: "https://github.com/Urigo/graphql-cli"

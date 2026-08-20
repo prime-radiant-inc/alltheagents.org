@@ -1,0 +1,25 @@
+---
+layout: base.njk
+eleventyComputed:
+  title: "Multiplexers — Harness Census"
+---
+<h1>Agent Multiplexers</h1>
+<p>Tools that orchestrate, manage, or run other coding agent harnesses (Claude Code, Codex, Cursor, etc.). These are not agents themselves — they coordinate agents.</p>
+<p>{{ collections.multiplexer | size }} multiplexers catalogued.</p>
+
+<table class="agent-table">
+  <thead>
+    <tr><th>Name</th><th>Maker</th><th>License</th><th>Stars</th></tr>
+  </thead>
+  <tbody>
+    {% set sorted = collections.multiplexer | sortByStars %}
+    {% for mux in sorted %}
+    <tr>
+      <td><a href="{{ ('/agents/' ~ mux.data.slug ~ '/') | url }}">{{ mux.data.name }}</a></td>
+      <td>{{ mux.data.maker or "—" }}</td>
+      <td>{{ mux.data.license or "—" }}</td>
+      <td>{{ mux.data.stars | starFmt }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

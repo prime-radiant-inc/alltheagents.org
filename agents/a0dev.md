@@ -2,6 +2,7 @@
 name: "a0.dev"
 slug: "a0dev"
 layout: agent.njk
+category: agent
 maker: "a0.dev"
 license: "Proprietary"
 url: "https://a0.dev"

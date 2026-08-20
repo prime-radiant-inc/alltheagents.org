@@ -2,6 +2,7 @@
 name: "AI-Builders-Bootcamp-2"
 slug: "ai-builders-bootcamp-2"
 layout: agent.njk
+category: agent
 maker: "ShawhinT"
 license: "Apache-2.0"
 url: "https://github.com/ShawhinT/AI-Builders-Bootcamp-2"

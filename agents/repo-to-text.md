@@ -2,6 +2,7 @@
 name: "Repo-To-Text"
 slug: "repo-to-text"
 layout: agent.njk
+category: agent
 maker: "kirill-markin"
 license: "MIT"
 url: "https://github.com/kirill-markin/repo-to-text"

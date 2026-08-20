@@ -2,6 +2,7 @@
 name: "strategic-advisor-orchestrator"
 slug: "strategic-advisor-orchestrator"
 layout: agent.njk
+category: agent
 maker: "nam271212"
 license: null
 url: "https://github.com/nam271212/strategic-advisor-orchestrator"

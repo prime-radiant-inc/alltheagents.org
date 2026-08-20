@@ -2,6 +2,7 @@
 name: "great_cto"
 slug: "great-cto"
 layout: agent.njk
+category: multiplexer
 maker: "avelikiy"
 license: "MIT"
 url: "https://github.com/avelikiy/great_cto"

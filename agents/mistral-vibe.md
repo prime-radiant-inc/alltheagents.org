@@ -2,6 +2,7 @@
 name: "Mistral Vibe"
 slug: "mistral-vibe"
 layout: agent.njk
+category: agent
 maker: "mistralai"
 license: "Apache-2.0"
 url: "https://github.com/mistralai/mistral-vibe"

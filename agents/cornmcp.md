@@ -2,6 +2,7 @@
 name: "CornMCP"
 slug: "cornmcp"
 layout: agent.njk
+category: agent
 maker: "yuki-20"
 license: "MIT"
 url: "https://github.com/yuki-20/CornMCP"

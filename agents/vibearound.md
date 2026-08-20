@@ -2,6 +2,7 @@
 name: "VibeAround"
 slug: "vibearound"
 layout: agent.njk
+category: multiplexer
 maker: "jazzenchen"
 license: "MIT"
 url: "https://github.com/jazzenchen/VibeAround"

@@ -2,6 +2,7 @@
 name: "ai-devkit"
 slug: "ai-devkit"
 layout: agent.njk
+category: agent
 maker: "codeaholicguy"
 license: null
 url: "https://github.com/codeaholicguy/ai-devkit"

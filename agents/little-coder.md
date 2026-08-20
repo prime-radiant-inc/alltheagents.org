@@ -2,6 +2,7 @@
 name: "little-coder"
 slug: "little-coder"
 layout: agent.njk
+category: agent
 maker: "itayinbarr"
 license: "Apache-2.0"
 url: "https://github.com/itayinbarr/little-coder"

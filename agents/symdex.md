@@ -2,6 +2,7 @@
 name: "SymDex"
 slug: "symdex"
 layout: agent.njk
+category: agent
 maker: "husnainpk"
 license: "MIT"
 url: "https://github.com/husnainpk/SymDex"

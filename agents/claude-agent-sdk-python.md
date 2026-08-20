@@ -2,6 +2,7 @@
 name: "Claude Agent SDK (Python)"
 slug: "claude-agent-sdk-python"
 layout: agent.njk
+category: agent
 maker: "anthropics"
 license: "MIT"
 url: "https://github.com/anthropics/claude-agent-sdk-python"

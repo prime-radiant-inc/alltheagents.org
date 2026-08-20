@@ -2,6 +2,7 @@
 name: "sinew"
 slug: "sinew"
 layout: agent.njk
+category: agent
 maker: "Paseru"
 license: "MIT"
 url: "https://github.com/Paseru/sinew"

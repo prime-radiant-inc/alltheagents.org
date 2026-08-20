@@ -2,6 +2,7 @@
 name: "LLMCode"
 slug: "llmcode"
 layout: agent.njk
+category: agent
 maker: "syscalldev"
 license: "Apache-2.0"
 url: "https://github.com/syscalldev/LLMCode"

@@ -2,6 +2,7 @@
 name: "helixent"
 slug: "helixent"
 layout: agent.njk
+category: agent
 maker: "MagicCube"
 license: null
 url: "https://github.com/MagicCube/helixent"

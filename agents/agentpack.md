@@ -2,6 +2,7 @@
 name: "AgentPack"
 slug: "agentpack"
 layout: agent.njk
+category: agent
 maker: "vishal2612200"
 license: "AGPL-3.0"
 url: "https://github.com/vishal2612200/agentpack"

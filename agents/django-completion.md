@@ -2,6 +2,7 @@
 name: "django-completion"
 slug: "django-completion"
 layout: agent.njk
+category: agent
 maker: "soldatov-ss"
 license: "MIT"
 url: "https://github.com/soldatov-ss/django-completion"

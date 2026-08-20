@@ -2,6 +2,7 @@
 name: "vision-ai-developer-kit"
 slug: "vision-ai-developer-kit"
 layout: agent.njk
+category: agent
 maker: "microsoft"
 license: "MIT"
 url: "https://github.com/microsoft/vision-ai-developer-kit"

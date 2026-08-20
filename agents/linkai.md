@@ -2,6 +2,7 @@
 name: "LinkAI"
 slug: "linkai"
 layout: agent.njk
+category: agent
 maker: "LinkAI"
 license: "Proprietary"
 url: "https://linkai.cn"

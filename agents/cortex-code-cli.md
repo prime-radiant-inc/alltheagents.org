@@ -2,6 +2,7 @@
 name: "Cortex Code CLI"
 slug: "cortex-code-cli"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.snowflake.com/en/product/cortex-code/"

@@ -2,6 +2,7 @@
 name: "Blueprints"
 slug: "blueprints"
 layout: agent.njk
+category: agent
 maker: "sublayerapp"
 license: "MIT"
 url: "https://github.com/sublayerapp/blueprints"

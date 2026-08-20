@@ -2,6 +2,7 @@
 name: "memorax-code"
 slug: "memorax-code"
 layout: agent.njk
+category: agent
 maker: "memorax-ai"
 license: "MIT"
 url: "https://github.com/memorax-ai/memorax-code"

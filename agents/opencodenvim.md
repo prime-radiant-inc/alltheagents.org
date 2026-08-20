@@ -2,6 +2,7 @@
 name: "opencode.nvim"
 slug: "opencodenvim"
 layout: agent.njk
+category: agent
 maker: "sudo-tee"
 license: "Apache-2.0"
 url: "https://github.com/sudo-tee/opencode.nvim"

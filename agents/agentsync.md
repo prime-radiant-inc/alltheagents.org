@@ -2,6 +2,7 @@
 name: "agentsync"
 slug: "agentsync"
 layout: agent.njk
+category: agent
 maker: "dallay"
 license: "MIT"
 url: "https://github.com/dallay/agentsync"

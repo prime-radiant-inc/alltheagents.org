@@ -2,6 +2,7 @@
 name: "SonAgent"
 slug: "sonagent"
 layout: agent.njk
+category: agent
 maker: "sonnhfit"
 license: "MIT"
 url: "https://github.com/sonnhfit/SonAgent"

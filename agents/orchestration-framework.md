@@ -2,6 +2,7 @@
 name: "orchestration-framework"
 slug: "orchestration-framework"
 layout: agent.njk
+category: agent
 maker: "Snowflake-Labs"
 license: "Apache-2.0"
 url: "https://github.com/Snowflake-Labs/orchestration-framework"

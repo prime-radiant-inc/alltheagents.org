@@ -2,6 +2,7 @@
 name: "Webwright"
 slug: "webwright"
 layout: agent.njk
+category: agent
 maker: "microsoft"
 license: "MIT"
 url: "https://github.com/microsoft/Webwright"

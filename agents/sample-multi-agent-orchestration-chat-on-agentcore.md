@@ -2,6 +2,7 @@
 name: "sample-multi-agent-orchestration-chat-on-agentcore"
 slug: "sample-multi-agent-orchestration-chat-on-agentcore"
 layout: agent.njk
+category: agent
 maker: "aws-samples"
 license: "MIT-0"
 url: "https://github.com/aws-samples/sample-multi-agent-orchestration-chat-on-agentcore"

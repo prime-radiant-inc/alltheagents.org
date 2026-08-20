@@ -2,6 +2,7 @@
 name: "looper"
 slug: "looper"
 layout: agent.njk
+category: agent
 maker: "nexu-io"
 license: "MIT"
 url: "https://github.com/nexu-io/looper"

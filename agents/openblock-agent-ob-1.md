@@ -2,6 +2,7 @@
 name: "OpenBlock Agent (OB-1)"
 slug: "openblock-agent-ob-1"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://www.openblocklabs.com/"

@@ -2,6 +2,7 @@
 name: "agent-os"
 slug: "agent-os"
 layout: agent.njk
+category: multiplexer
 maker: "saadnvd1"
 license: "MIT"
 url: "https://github.com/saadnvd1/agent-os"

@@ -2,6 +2,7 @@
 name: "Incredible.Dev"
 slug: "incredibledev"
 layout: agent.njk
+category: agent
 maker: "IncredibleDevHQ"
 license: "Apache-2.0"
 url: "https://github.com/IncredibleDevHQ/Incredible.dev"

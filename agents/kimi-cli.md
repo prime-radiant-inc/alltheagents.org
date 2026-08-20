@@ -2,6 +2,7 @@
 name: "Kimi CLI"
 slug: "kimi-cli"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://kimi.ai"

@@ -2,6 +2,7 @@
 name: "CS146S_CN"
 slug: "cs146s-cn"
 layout: agent.njk
+category: agent
 maker: "ShouZhengAI"
 license: "MIT"
 url: "https://github.com/ShouZhengAI/CS146S_CN"

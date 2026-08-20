@@ -2,6 +2,7 @@
 name: "Empryo"
 slug: "empryo"
 layout: agent.njk
+category: agent
 maker: "proxysoul"
 license: "NOASSERTION"
 url: "https://github.com/proxysoul/Empryo"

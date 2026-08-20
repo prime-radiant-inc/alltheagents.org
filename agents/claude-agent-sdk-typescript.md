@@ -2,6 +2,7 @@
 name: "Claude Agent SDK (TypeScript)"
 slug: "claude-agent-sdk-typescript"
 layout: agent.njk
+category: agent
 maker: "anthropics"
 license: null
 url: "https://github.com/anthropics/claude-agent-sdk-typescript"

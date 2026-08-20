@@ -2,6 +2,7 @@
 name: "adal-cli"
 slug: "adal-cli"
 layout: agent.njk
+category: agent
 maker: "SylphAI-Inc"
 license: null
 url: "https://github.com/SylphAI-Inc/adal-cli"

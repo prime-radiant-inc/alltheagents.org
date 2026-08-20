@@ -2,6 +2,7 @@
 name: "ai-website-cloner-template"
 slug: "ai-website-cloner-template"
 layout: agent.njk
+category: agent
 maker: "JCodesMore"
 license: "MIT"
 url: "https://github.com/JCodesMore/ai-website-cloner-template"

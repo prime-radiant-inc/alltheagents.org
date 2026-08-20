@@ -2,6 +2,7 @@
 name: "Vanna.AI"
 slug: "vannaai"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://vanna.ai/"

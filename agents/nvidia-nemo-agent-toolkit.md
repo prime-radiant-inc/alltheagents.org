@@ -2,6 +2,7 @@
 name: "NVIDIA NeMo Agent Toolkit"
 slug: "nvidia-nemo-agent-toolkit"
 layout: agent.njk
+category: agent
 maker: "NVIDIA"
 license: "Apache-2.0"
 url: "https://developer.nvidia.com/nemo-agent-toolkit"

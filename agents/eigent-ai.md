@@ -2,6 +2,7 @@
 name: "Eigent AI"
 slug: "eigent-ai"
 layout: agent.njk
+category: agent
 maker: "Eigent"
 license: "Open-source"
 url: "https://eigent.ai"

@@ -2,6 +2,7 @@
 name: "R2E-Gym"
 slug: "r2e-gym"
 layout: agent.njk
+category: agent
 maker: "R2E-Gym"
 license: "Apache-2.0"
 url: "https://github.com/R2E-Gym/R2E-Gym"

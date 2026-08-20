@@ -2,6 +2,7 @@
 name: "Codegebragpt"
 slug: "codegebragpt"
 layout: agent.njk
+category: agent
 maker: "sr5434"
 license: "MIT"
 url: "https://github.com/sr5434/CodegebraGPT"

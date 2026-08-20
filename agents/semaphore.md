@@ -2,6 +2,7 @@
 name: "semaphore"
 slug: "semaphore"
 layout: agent.njk
+category: agent
 maker: "lucianodiisouza"
 license: "MIT"
 url: "https://github.com/lucianodiisouza/semaphore"

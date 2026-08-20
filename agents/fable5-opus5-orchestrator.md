@@ -2,6 +2,7 @@
 name: "fable5-opus5-orchestrator"
 slug: "fable5-opus5-orchestrator"
 layout: agent.njk
+category: agent
 maker: "Rylaa"
 license: "MIT"
 url: "https://github.com/Rylaa/fable5-opus5-orchestrator"

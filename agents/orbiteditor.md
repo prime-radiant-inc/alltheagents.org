@@ -2,6 +2,7 @@
 name: "orbiteditor"
 slug: "orbiteditor"
 layout: agent.njk
+category: agent
 maker: "ashish200729"
 license: "Apache-2.0"
 url: "https://github.com/ashish200729/orbiteditor"

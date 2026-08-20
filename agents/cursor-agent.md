@@ -2,6 +2,7 @@
 name: "cursor-agent"
 slug: "cursor-agent"
 layout: agent.njk
+category: agent
 maker: "civai-technologies"
 license: "MIT"
 url: "https://github.com/civai-technologies/cursor-agent"

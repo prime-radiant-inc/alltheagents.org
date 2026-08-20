@@ -2,6 +2,7 @@
 name: "Ai_Gdpr"
 slug: "ai-gdpr"
 layout: agent.njk
+category: agent
 maker: "dimits-ts"
 license: null
 url: "https://github.com/dimits-ts/ai_gdpr"

@@ -2,6 +2,7 @@
 name: "codeassist"
 slug: "codeassist"
 layout: agent.njk
+category: agent
 maker: "gensyn-ai"
 license: "MIT"
 url: "https://github.com/gensyn-ai/codeassist"

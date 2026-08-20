@@ -2,6 +2,7 @@
 name: "MAGE"
 slug: "mage"
 layout: agent.njk
+category: agent
 maker: "stable-lab"
 license: "MIT"
 url: "https://github.com/stable-lab/MAGE"

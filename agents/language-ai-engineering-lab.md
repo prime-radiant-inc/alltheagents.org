@@ -2,6 +2,7 @@
 name: "language-ai-engineering-lab"
 slug: "language-ai-engineering-lab"
 layout: agent.njk
+category: agent
 maker: "gil-son"
 license: "GPL-3.0"
 url: "https://github.com/gil-son/language-ai-engineering-lab"

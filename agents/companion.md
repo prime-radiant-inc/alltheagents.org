@@ -2,6 +2,7 @@
 name: "companion"
 slug: "companion"
 layout: agent.njk
+category: agent
 maker: "quack-ai"
 license: "Apache-2.0"
 url: "https://github.com/quack-ai/companion"

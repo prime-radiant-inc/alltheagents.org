@@ -2,6 +2,7 @@
 name: "agentic-coding-tool-eval"
 slug: "agentic-coding-tool-eval"
 layout: agent.njk
+category: agent
 maker: "disler"
 license: null
 url: "https://github.com/disler/agentic-coding-tool-eval"

@@ -2,6 +2,7 @@
 name: "Poke"
 slug: "poke"
 layout: agent.njk
+category: agent
 maker: "Poke AI"
 license: "Proprietary"
 url: "https://poke.ai"

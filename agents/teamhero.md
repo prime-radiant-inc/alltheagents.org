@@ -2,6 +2,7 @@
 name: "TeamHero"
 slug: "teamhero"
 layout: agent.njk
+category: agent
 maker: "sagiyaacoby"
 license: "MIT"
 url: "https://github.com/sagiyaacoby/TeamHero"

@@ -2,6 +2,7 @@
 name: "Mava"
 slug: "mava"
 layout: agent.njk
+category: agent
 maker: "instadeepai"
 license: "Apache-2.0"
 url: "https://github.com/instadeepai/Mava"

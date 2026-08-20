@@ -2,6 +2,7 @@
 name: "Intelligent-Agent"
 slug: "intelligent-agent"
 layout: agent.njk
+category: agent
 maker: "balaaagi"
 license: null
 url: "https://github.com/balaaagi/Intelligent-Agent"

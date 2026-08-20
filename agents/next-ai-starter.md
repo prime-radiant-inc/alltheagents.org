@@ -2,6 +2,7 @@
 name: "next-ai-starter"
 slug: "next-ai-starter"
 layout: agent.njk
+category: agent
 maker: "kleneway"
 license: "MIT"
 url: "https://github.com/kleneway/next-ai-starter"

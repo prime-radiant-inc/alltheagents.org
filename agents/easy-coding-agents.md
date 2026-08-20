@@ -2,6 +2,7 @@
 name: "easy-coding-agents"
 slug: "easy-coding-agents"
 layout: agent.njk
+category: agent
 maker: "yushui2022"
 license: null
 url: "https://github.com/yushui2022/easy-coding-agents"

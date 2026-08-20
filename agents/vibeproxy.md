@@ -2,6 +2,7 @@
 name: "vibeproxy"
 slug: "vibeproxy"
 layout: agent.njk
+category: agent
 maker: "automazeio"
 license: "MIT"
 url: "https://github.com/automazeio/vibeproxy"

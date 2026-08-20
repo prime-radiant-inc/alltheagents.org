@@ -2,6 +2,7 @@
 name: "agentic-code"
 slug: "agentic-code"
 layout: agent.njk
+category: agent
 maker: "shinpr"
 license: "MIT"
 url: "https://github.com/shinpr/agentic-code"

@@ -2,6 +2,7 @@
 name: "PyCodeAGI"
 slug: "pycodeagi"
 layout: agent.njk
+category: agent
 maker: "chakkaradeep"
 license: null
 url: "https://github.com/chakkaradeep/pyCodeAGI"

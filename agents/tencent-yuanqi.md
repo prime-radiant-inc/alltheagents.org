@@ -2,6 +2,7 @@
 name: "Tencent Yuanqi"
 slug: "tencent-yuanqi"
 layout: agent.njk
+category: agent
 maker: "Tencent"
 license: "Proprietary"
 url: "https://yuanqi.tencent.com"

@@ -2,6 +2,7 @@
 name: "Prometheus"
 slug: "prometheus"
 layout: agent.njk
+category: agent
 maker: "EuniAI"
 license: "GPL-3.0"
 url: "https://github.com/EuniAI/Prometheus"

@@ -2,6 +2,7 @@
 name: "Harness Starter Kit"
 slug: "harness-starter-kit"
 layout: agent.njk
+category: agent
 maker: "harnessworks"
 license: "MIT"
 url: "https://github.com/harnessworks/harness-starter-kit"

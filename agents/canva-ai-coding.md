@@ -2,6 +2,7 @@
 name: "Canva AI Coding"
 slug: "canva-ai-coding"
 layout: agent.njk
+category: agent
 maker: "Canva"
 license: "Proprietary"
 url: "https://www.canva.com/ai-coding/"

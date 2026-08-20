@@ -2,6 +2,7 @@
 name: "CLI Manager"
 slug: "cli-manager"
 layout: agent.njk
+category: multiplexer
 maker: "Solhun"
 license: null
 url: "https://www.solhun.com"

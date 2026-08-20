@@ -2,6 +2,7 @@
 name: "Line0"
 slug: "line0"
 layout: agent.njk
+category: agent
 maker: "Line0"
 license: null
 url: "https://www.line0.dev"

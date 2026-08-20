@@ -2,6 +2,7 @@
 name: "Codex (OpenAI)"
 slug: "codex-openai"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://openai.com/codex"

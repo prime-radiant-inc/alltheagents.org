@@ -2,6 +2,7 @@
 name: "mission-control"
 slug: "mission-control"
 layout: agent.njk
+category: multiplexer
 maker: "builderz-labs"
 license: "MIT"
 url: "https://github.com/builderz-labs/mission-control"

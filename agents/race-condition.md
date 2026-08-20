@@ -2,6 +2,7 @@
 name: "race-condition"
 slug: "race-condition"
 layout: agent.njk
+category: agent
 maker: "GoogleCloudPlatform"
 license: "NOASSERTION"
 url: "https://github.com/GoogleCloudPlatform/race-condition"

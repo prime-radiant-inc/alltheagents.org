@@ -2,6 +2,7 @@
 name: "Doubao-Seed-Code"
 slug: "doubao-seed-code"
 layout: agent.njk
+category: agent
 maker: "ByteDance"
 license: "Proprietary"
 url: "https://www.doubao.com"

@@ -2,6 +2,7 @@
 name: "TaskWeaver"
 slug: "taskweaver"
 layout: agent.njk
+category: agent
 maker: "microsoft"
 license: "MIT"
 url: "https://github.com/microsoft/TaskWeaver"

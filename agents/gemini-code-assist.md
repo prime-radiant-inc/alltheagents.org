@@ -2,6 +2,7 @@
 name: "Gemini Code Assist"
 slug: "gemini-code-assist"
 layout: agent.njk
+category: agent
 maker: "Google"
 license: "Proprietary"
 url: "https://codeassist.google"

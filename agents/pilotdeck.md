@@ -2,6 +2,7 @@
 name: "PilotDeck"
 slug: "pilotdeck"
 layout: agent.njk
+category: agent
 maker: "OpenBMB"
 license: "AGPL-3.0"
 url: "https://github.com/OpenBMB/PilotDeck"

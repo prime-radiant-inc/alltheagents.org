@@ -2,6 +2,7 @@
 name: "gemini-code"
 slug: "gemini-code"
 layout: agent.njk
+category: agent
 maker: "raizamartin"
 license: null
 url: "https://github.com/raizamartin/gemini-code"

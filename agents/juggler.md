@@ -2,6 +2,7 @@
 name: "juggler"
 slug: "juggler"
 layout: agent.njk
+category: agent
 maker: "juggler-ai"
 license: "AGPL-3.0"
 url: "https://github.com/juggler-ai/juggler"

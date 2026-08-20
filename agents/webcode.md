@@ -2,6 +2,7 @@
 name: "WebCode"
 slug: "webcode"
 layout: agent.njk
+category: multiplexer
 maker: "shuyu-labs"
 license: "NOASSERTION"
 url: "https://github.com/shuyu-labs/WebCode"

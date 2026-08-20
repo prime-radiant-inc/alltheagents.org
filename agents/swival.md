@@ -2,6 +2,7 @@
 name: "swival"
 slug: "swival"
 layout: agent.njk
+category: agent
 maker: "Swival"
 license: "MIT"
 url: "https://github.com/Swival/swival"

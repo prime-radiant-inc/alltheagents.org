@@ -2,6 +2,7 @@
 name: "claude-code-plus"
 slug: "claude-code-plus"
 layout: agent.njk
+category: agent
 maker: "touwaeriol"
 license: "MIT"
 url: "https://github.com/touwaeriol/claude-code-plus"

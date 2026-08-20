@@ -2,6 +2,7 @@
 name: "ai-vibe-coding-notes-form-threads"
 slug: "ai-vibe-coding-notes-form-threads"
 layout: agent.njk
+category: agent
 maker: "nadinelipeiyu-jpg"
 license: null
 url: "https://github.com/nadinelipeiyu-jpg/ai-vibe-coding-notes-form-threads"

@@ -2,6 +2,7 @@
 name: "PraisonAI"
 slug: "praisonai"
 layout: agent.njk
+category: agent
 maker: "MervinPraison"
 license: "MIT"
 url: "https://github.com/MervinPraison/PraisonAI/"

@@ -2,6 +2,7 @@
 name: "bbarit-agent-oss"
 slug: "bbarit-agent-oss"
 layout: agent.njk
+category: agent
 maker: "bbarit"
 license: "NOASSERTION"
 url: "https://github.com/bbarit/bbarit-agent-oss"

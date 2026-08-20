@@ -2,6 +2,7 @@
 name: "sondera-coding-agent-hooks"
 slug: "sondera-coding-agent-hooks"
 layout: agent.njk
+category: agent
 maker: "sondera-ai"
 license: "MIT"
 url: "https://github.com/sondera-ai/sondera-coding-agent-hooks"

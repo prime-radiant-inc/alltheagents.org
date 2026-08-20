@@ -2,6 +2,7 @@
 name: "MLE-STAR-Open"
 slug: "mle-star-open"
 layout: agent.njk
+category: agent
 maker: "WalkingDevFlag"
 license: null
 url: "https://github.com/WalkingDevFlag/MLE-STAR-Open"

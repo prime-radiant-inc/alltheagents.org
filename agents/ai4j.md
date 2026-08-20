@@ -2,6 +2,7 @@
 name: "ai4j"
 slug: "ai4j"
 layout: agent.njk
+category: agent
 maker: "LnYo-Cly"
 license: "Apache-2.0"
 url: "https://github.com/LnYo-Cly/ai4j"

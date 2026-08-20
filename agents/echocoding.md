@@ -2,6 +2,7 @@
 name: "EchoCoding"
 slug: "echocoding"
 layout: agent.njk
+category: agent
 maker: "launsion-boop"
 license: "MIT"
 url: "https://github.com/launsion-boop/EchoCoding"

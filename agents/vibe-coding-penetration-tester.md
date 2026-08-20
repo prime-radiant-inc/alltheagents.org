@@ -2,6 +2,7 @@
 name: "vibe-coding-penetration-tester"
 slug: "vibe-coding-penetration-tester"
 layout: agent.njk
+category: agent
 maker: "firetix"
 license: "Apache-2.0"
 url: "https://github.com/firetix/vibe-coding-penetration-tester"

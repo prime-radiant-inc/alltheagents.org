@@ -2,6 +2,7 @@
 name: "video-use"
 slug: "video-use"
 layout: agent.njk
+category: agent
 maker: "browser-use"
 license: "MIT"
 url: "https://github.com/browser-use/video-use"

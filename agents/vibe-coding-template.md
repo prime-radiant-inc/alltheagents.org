@@ -2,6 +2,7 @@
 name: "vibe-coding-template"
 slug: "vibe-coding-template"
 layout: agent.njk
+category: agent
 maker: "humanstack"
 license: null
 url: "https://github.com/humanstack/vibe-coding-template"

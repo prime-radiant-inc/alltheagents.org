@@ -2,6 +2,7 @@
 name: "Gemini CLI"
 slug: "gemini-cli"
 layout: agent.njk
+category: agent
 maker: "google-gemini"
 license: "Apache-2.0"
 url: "https://github.com/google-gemini/gemini-cli"

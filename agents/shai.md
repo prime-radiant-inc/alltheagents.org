@@ -2,6 +2,7 @@
 name: "shai"
 slug: "shai"
 layout: agent.njk
+category: agent
 maker: "ovh"
 license: "Apache-2.0"
 url: "https://github.com/ovh/shai"

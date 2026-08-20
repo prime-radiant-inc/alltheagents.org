@@ -2,6 +2,7 @@
 name: "Windsurf"
 slug: "windsurf"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://windsurf.com/editor"

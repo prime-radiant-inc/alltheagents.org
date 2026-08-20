@@ -2,6 +2,7 @@
 name: "GitHub Copilot CLI"
 slug: "github-copilot-cli"
 layout: agent.njk
+category: agent
 maker: "github"
 license: "Source Available"
 url: "https://github.com/github/copilot-cli"

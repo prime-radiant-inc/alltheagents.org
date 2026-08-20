@@ -2,6 +2,7 @@
 name: "MiniAgent"
 slug: "miniagent"
 layout: agent.njk
+category: agent
 maker: "ZhuLinsen"
 license: "Apache-2.0"
 url: "https://github.com/ZhuLinsen/MiniAgent"

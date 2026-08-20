@@ -2,6 +2,7 @@
 name: "HASS-AI-Orchestrator"
 slug: "hass-ai-orchestrator"
 layout: agent.njk
+category: agent
 maker: "ITSpecialist111"
 license: null
 url: "https://github.com/ITSpecialist111/HASS-AI-Orchestrator"

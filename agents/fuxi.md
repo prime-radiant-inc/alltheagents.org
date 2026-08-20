@@ -2,6 +2,7 @@
 name: "Fuxi"
 slug: "fuxi"
 layout: agent.njk
+category: agent
 maker: "fuxicodex"
 license: "NOASSERTION"
 url: "https://github.com/fuxicodex/Fuxi"

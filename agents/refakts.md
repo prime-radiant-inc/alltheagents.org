@@ -2,6 +2,7 @@
 name: "refakts"
 slug: "refakts"
 layout: agent.njk
+category: agent
 maker: "devill"
 license: "NOASSERTION"
 url: "https://github.com/devill/refakts"

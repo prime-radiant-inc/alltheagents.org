@@ -2,6 +2,7 @@
 name: "thrush-swe-agent"
 slug: "thrush-swe-agent"
 layout: agent.njk
+category: agent
 maker: "shoyann"
 license: null
 url: "https://github.com/shoyann/thrush-swe-agent"

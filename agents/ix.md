@@ -2,6 +2,7 @@
 name: "IX"
 slug: "ix"
 layout: agent.njk
+category: agent
 maker: "kreneskyp"
 license: "MIT"
 url: "https://github.com/kreneskyp/ix"

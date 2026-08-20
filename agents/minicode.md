@@ -2,6 +2,7 @@
 name: "MiniCode"
 slug: "minicode"
 layout: agent.njk
+category: agent
 maker: "LiuMengxuan04"
 license: "MIT"
 url: "https://github.com/LiuMengxuan04/MiniCode"

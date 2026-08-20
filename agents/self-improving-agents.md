@@ -2,6 +2,7 @@
 name: "self-improving-agents"
 slug: "self-improving-agents"
 layout: agent.njk
+category: agent
 maker: "BetterForAll"
 license: "MIT"
 url: "https://github.com/BetterForAll/self-improving-agents"

@@ -2,6 +2,7 @@
 name: "intentlang"
 slug: "intentlang"
 layout: agent.njk
+category: agent
 maker: "l3yx"
 license: "MIT"
 url: "https://github.com/l3yx/intentlang"

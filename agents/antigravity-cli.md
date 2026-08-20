@@ -2,6 +2,7 @@
 name: "Antigravity CLI"
 slug: "antigravity-cli"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://antigravity.google"

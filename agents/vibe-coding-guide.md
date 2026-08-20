@@ -2,6 +2,7 @@
 name: "vibe-coding-guide"
 slug: "vibe-coding-guide"
 layout: agent.njk
+category: agent
 maker: "wendy7756"
 license: "Apache-2.0"
 url: "https://github.com/wendy7756/vibe-coding-guide"

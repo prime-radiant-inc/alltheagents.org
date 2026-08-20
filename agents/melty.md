@@ -2,6 +2,7 @@
 name: "Melty"
 slug: "melty"
 layout: agent.njk
+category: agent
 maker: "meltylabs"
 license: "MIT"
 url: "https://github.com/meltylabs/melty"

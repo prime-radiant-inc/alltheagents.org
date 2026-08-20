@@ -2,6 +2,7 @@
 name: "Crystal"
 slug: "crystal"
 layout: agent.njk
+category: agent
 maker: "stravu"
 license: "MIT"
 url: "https://github.com/stravu/crystal"

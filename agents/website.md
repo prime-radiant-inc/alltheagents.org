@@ -2,6 +2,7 @@
 name: "website"
 slug: "website"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "http://openinterpreter.com/01"

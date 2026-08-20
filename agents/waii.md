@@ -2,6 +2,7 @@
 name: "Waii"
 slug: "waii"
 layout: agent.njk
+category: agent
 maker: null
 license: null
 url: "https://x.com/AlexReibman/status/1772777493122163107"

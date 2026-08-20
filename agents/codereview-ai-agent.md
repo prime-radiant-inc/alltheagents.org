@@ -2,6 +2,7 @@
 name: "CodeReview-AI-Agent"
 slug: "codereview-ai-agent"
 layout: agent.njk
+category: agent
 maker: "smirk-dev"
 license: "MIT"
 url: "https://github.com/smirk-dev/CodeReview-AI-Agent"

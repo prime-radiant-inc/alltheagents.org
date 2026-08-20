@@ -2,6 +2,7 @@
 name: "SWE-chat"
 slug: "swe-chat"
 layout: agent.njk
+category: agent
 maker: "SALT-NLP"
 license: "MIT"
 url: "https://github.com/SALT-NLP/SWE-chat"

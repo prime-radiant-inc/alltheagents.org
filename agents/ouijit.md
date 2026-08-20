@@ -2,6 +2,7 @@
 name: "ouijit"
 slug: "ouijit"
 layout: agent.njk
+category: agent
 maker: "ouijit"
 license: "AGPL-3.0"
 url: "https://github.com/ouijit/ouijit"

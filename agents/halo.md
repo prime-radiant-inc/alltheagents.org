@@ -2,6 +2,7 @@
 name: "HALO"
 slug: "halo"
 layout: agent.njk
+category: agent
 maker: "context-labs"
 license: null
 url: "https://github.com/context-labs/HALO"

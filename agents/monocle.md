@@ -2,6 +2,7 @@
 name: "Monocle"
 slug: "monocle"
 layout: agent.njk
+category: agent
 maker: "arphanetx"
 license: "GPL-3.0"
 url: "https://github.com/arphanetx/Monocle"
