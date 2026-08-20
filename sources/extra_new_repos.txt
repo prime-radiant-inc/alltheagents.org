@@ -1,0 +1,9 @@
+decolua/9router	25852	Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.	ai coding
+HKUDS/AutoAgent	9740	"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"	agent framework
+jwasham/coding-interview-university	359258	A complete computer science study plan to become a software engineer.	software engineer
+mattpocock/dictionary-of-ai-coding	3838	AI coding jargon, explained in plain English.	ai coding
+OpenCodeInterpreter/OpenCodeInterpreter	1757	OpenCodeInterpreter is a suite of open-source code generation systems aimed at bridging the gap between large language models and sophisticated proprietary systems like the GPT-4 Code Interpreter. It significantly enhances code generation capabilities by integrating execution and iterative refinement functionalities.	code generation
+repowise-dev/repowise	6094	Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.	codebase
+vercel-labs/coding-agent-template	1766	Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway	ai coding
+villesau/ai-codereviewer	1037	AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving developers time.	ai code
+xianyu110/gpt-codex	1147	这是一个关于 OpenAI CodeX 的完整教程网站，专为国内开发者打造。	ai code

@@ -1,0 +1,50 @@
+multica-ai/andrej-karpathy-skills	204001	A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+earendil-works/pi	93844	AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+headroomlabs-ai/headroom	66911	Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
+upstash/context7	60987	Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+aaif-goose/goose	53017	an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+TencentCloud/TencentDB-Agent-Memory	23248	TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
+alibaba/open-code-review	20885	Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+wanshuiyin/Auto-claude-code-research-in-sleep	14911	ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
+ludwig-ai/ludwig	11747	Low-code framework for building custom LLMs, neural networks, and other AI models
+lidge-jun/opencodex	11320	Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
+AgriciDaniel/claude-obsidian	11048	Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.
+karpathy/minbpe	10684	Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
+HKUDS/AutoAgent	9740	"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+xorbitsai/inference	9501	Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.
+MervinPraison/PraisonAI	8925	PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.
+qualcomm/GenieX	8306	Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code
+albertan017/LLM4Decompile	6967	Reverse Engineering: Decompiling Binary Code with Large Language Models
+rocketride-org/rocketride-server	6521	High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.
+Helicone/helicone	6085	🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
+PawanOsman/OpenCursor	5999	Open-source Cursor-like AI coding agent for VS Code — agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
+kuafuai/DevOpsGPT	5965	Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.
+the-open-agent/openagent	5537	⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
+langchain-ai/open-canvas	5489	📃 A better UX for chat, writing content, and coding with LLMs.
+xlite-dev/Awesome-LLM-Inference	5462	📚A curated list of Awesome LLM/VLM Inference Papers with Codes: Flash-Attention, Paged-Attention, WINT8/4, Parallelism, etc.🎉
+h2oai/h2o-llmstudio	5168	H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
+GT-RIPL/Awesome-LLM-Robotics	4452	A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
+mosaicml/llm-foundry	4440	LLM training code for Databricks foundation models
+crmne/ruby_llm	4307	One delightful Ruby framework for every major AI provider. Build AI agents, chatbots, RAG apps, and multimodal workflows in beautiful, expressive code.
+yasasbanukaofficial/claude-code	3963	🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. 
+codefuse-ai/Awesome-Code-LLM	3426	[TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.
+SamurAIGPT/llm-wiki-agent	3396	A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.
+yunlong10/Awesome-LLMs-for-Video-Understanding	3267	🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.
+nexu-io/nexu	3258	The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.
+salesforce/CodeT5	3097	Home of CodeT5: Open Code LLMs for Code Understanding and Generation
+mpoon/gpt-repository-loader	2971	Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
+gmpetrov/databerry	2966	The no-code platform for building custom LLM Agents
+KhazP/vibe-coding-prompt-template	2851	Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs
+Memento-Teams/Memento	2566	Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs
+Yuyz0112/claude-code-reverse	2427	A Tool to Visualize Claude Code's LLM Interactions
+hamzafarooq/building-llm-applications-from-scratch	2386	Code and Slides
+trypromptly/LLMStack	2309	No-code multi-agent framework to build LLM Agents, workflows and applications with your data
+llm-as-a-verifier/llm-as-a-verifier	2266	LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent without requiring additional training. It achieves SOTA performance across coding, robotics, and medical agentic benchmarks.
+vava-nessa/free-coding-models	2264	Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
+langfengQ/verl-agent	2234	verl-agent is an extension of veRL, designed for training LLM/VLM agents via RL. verl-agent is also the official code for paper "Group-in-Group Policy Optimization for LLM Agent Training"
+ggml-org/llama.vim	2147	Vim plugin for LLM-assisted code/text completion
+OpenCoder-llm/OpenCoder-llm	2106	The Open Cookbook for Top-Tier Code Large Language Model
+jnMetaCode/agency-orchestrator	2089	🚀 One sentence → your one-person company of AI experts → complete deliverable in minutes. 267 CN + 184 EN + 5 more languages (ko/ru/pt-BR/id/ar) · zero-code YAML · auto-verified acceptance · Web Studio / Desktop / Docker · 11 LLM providers (7 key-free). 一句话组建你的「一人公司」AI 专家团队，几分钟交付完整方案；验收自动核验，网页 / 桌面 / Docker 全渠道。
+open-free-llm-api/awesome-freellm-apis	2043	134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.
+open-compress/claw-compactor	2034	14-stage Fusion Pipeline for LLM token compression — reversible compression, AST-aware code analysis, intelligent content routing. Zero LLM inference cost. MIT licensed.
+Doorman11991/smallcode	2011	AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
