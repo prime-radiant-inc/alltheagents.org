@@ -2,7 +2,7 @@
 name: "omnidesk"
 slug: "omnidesk"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "carloluisito"
 license: "MIT"
 url: "https://github.com/carloluisito/omnidesk"

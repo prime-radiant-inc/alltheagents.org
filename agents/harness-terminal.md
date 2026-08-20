@@ -2,7 +2,7 @@
 name: "harness-terminal"
 slug: "harness-terminal"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "robzilla1738"
 license: "MIT"
 url: "https://github.com/robzilla1738/harness-terminal"

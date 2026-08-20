@@ -2,7 +2,7 @@
 name: "itwillsync"
 slug: "itwillsync"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "shrijayan"
 license: "MIT"
 url: "https://github.com/shrijayan/itwillsync"

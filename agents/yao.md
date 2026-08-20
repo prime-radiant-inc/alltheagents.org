@@ -2,7 +2,7 @@
 name: "yao"
 slug: "yao"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "YaoApp"
 license: "NOASSERTION"
 url: "https://github.com/YaoApp/yao"

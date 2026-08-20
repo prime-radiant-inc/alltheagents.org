@@ -22279,5 +22279,82 @@
     "source_urls": {
       "toolify": "https://www.toolify.ai/category/ai-code-assistant"
     }
+  },
+  {
+    "name": "tmux",
+    "slug": "tmux",
+    "maker": "tmux",
+    "license": "ISC",
+    "url": "https://github.com/tmux/tmux",
+    "source_code_url": "https://github.com/tmux/tmux",
+    "platforms": [
+      "CLI"
+    ],
+    "stars": 48734,
+    "first_released": "2015-06-03",
+    "language": "C",
+    "description": "Terminal multiplexer — the degenerate case of agent multiplexing. Every coding agent runs inside it.",
+    "sources": [
+      "user_reported"
+    ],
+    "source_urls": {}
+  },
+  {
+    "name": "Zellij",
+    "slug": "zellij",
+    "maker": "zellij-org",
+    "license": "MIT",
+    "url": "https://github.com/zellij-org/zellij",
+    "source_code_url": "https://github.com/zellij-org/zellij",
+    "platforms": [
+      "CLI"
+    ],
+    "stars": 35002,
+    "first_released": "2020-09-01",
+    "language": "Rust",
+    "description": "Terminal workspace with batteries included — a modern Rust terminal multiplexer for running and managing coding agent sessions.",
+    "sources": [
+      "user_reported"
+    ],
+    "source_urls": {}
+  },
+  {
+    "name": "herdr",
+    "slug": "herdr",
+    "maker": "herdrdev",
+    "license": "Apache-2.0",
+    "url": "https://github.com/herdrdev/herdr",
+    "source_code_url": "https://github.com/herdrdev/herdr",
+    "platforms": [
+      "CLI",
+      "Desktop"
+    ],
+    "stars": 30767,
+    "first_released": "2026-03-27",
+    "language": "Rust",
+    "description": "The runtime your coding agents live on — a purpose-built terminal and workspace for running coding agents.",
+    "sources": [
+      "user_reported"
+    ],
+    "source_urls": {}
+  },
+  {
+    "name": "Fantastty",
+    "slug": "fantastty",
+    "maker": "blaine",
+    "license": "MIT",
+    "url": "https://github.com/blaine/fantastty",
+    "source_code_url": "https://github.com/blaine/fantastty",
+    "platforms": [
+      "Desktop"
+    ],
+    "stars": 47,
+    "first_released": "2026-02-06",
+    "language": "Swift",
+    "description": "A macOS terminal emulator built on Ghostty's libghostty with session workspaces, notes, and live tab previews — a terminal multiplexer for the agent era.",
+    "sources": [
+      "user_reported"
+    ],
+    "source_urls": {}
   }
 ]

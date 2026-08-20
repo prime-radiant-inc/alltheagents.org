@@ -2,7 +2,7 @@
 name: "herdrm"
 slug: "herdrm"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "missuo"
 license: null
 url: "https://github.com/missuo/herdrm"

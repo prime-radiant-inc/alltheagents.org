@@ -2,7 +2,7 @@
 name: "dinotty"
 slug: "dinotty"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "xichan96"
 license: "MIT"
 url: "https://github.com/xichan96/dinotty"

@@ -2,7 +2,7 @@
 name: "Paseo"
 slug: "paseo"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "getpaseo"
 license: "NOASSERTION"
 url: "https://github.com/getpaseo/paseo"

@@ -2,7 +2,7 @@
 name: "Kaku"
 slug: "kaku"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "tw93"
 license: "MIT"
 url: "https://github.com/tw93/Kaku"

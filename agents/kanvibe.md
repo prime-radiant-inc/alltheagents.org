@@ -2,7 +2,7 @@
 name: "kanvibe"
 slug: "kanvibe"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "rookedsysc"
 license: "AGPL-3.0"
 url: "https://github.com/rookedsysc/kanvibe"

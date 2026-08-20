@@ -2,7 +2,7 @@
 name: "tmux-assistant-resurrect"
 slug: "tmux-assistant-resurrect"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "timvw"
 license: "MIT"
 url: "https://github.com/timvw/tmux-assistant-resurrect"

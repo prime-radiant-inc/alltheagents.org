@@ -2,7 +2,7 @@
 name: "frankenterm"
 slug: "frankenterm"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "Dicklesworthstone"
 license: "NOASSERTION"
 url: "https://github.com/Dicklesworthstone/frankenterm"

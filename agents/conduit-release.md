@@ -2,7 +2,7 @@
 name: "conduit-release"
 slug: "conduit-release"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "lostintangent"
 license: null
 url: "https://github.com/lostintangent/conduit-release"

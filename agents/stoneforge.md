@@ -2,7 +2,7 @@
 name: "stoneforge"
 slug: "stoneforge"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "stoneforge-ai"
 license: "Apache-2.0"
 url: "https://github.com/stoneforge-ai/stoneforge"

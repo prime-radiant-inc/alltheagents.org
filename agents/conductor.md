@@ -2,7 +2,7 @@
 name: "Conductor"
 slug: "conductor"
 layout: agent.njk
-category: agent
+category: multiplexer
 maker: "Conductor"
 license: "Proprietary"
 url: "https://conductor.build"
