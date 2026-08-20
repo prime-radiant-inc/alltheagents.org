@@ -1,0 +1,46 @@
+AgenticAiLabs/Ai-Engineering-Roadmap	1037	Path to becoming a self-taught AI Engineer - a curated, open-source curriculum modeled after OSSU.	ai engineer
+AI-Maker-Space/Interactive-Dev-Environment-for-AI-Engineers	85	Set up your local AI-powered dev environment just like professional AI Engineers	ai engineer
+amitshekhariitbhu/ai-engineering-interview-questions	2572	Your Cheat Sheet for AI Engineering Interview – Questions and Answers.	ai engineer
+amix/dunk	30	Review diffs in a terminal UI, leave inline comments, and let coding agents fix them	coding agent
+Aniket-508/vercel-doctor	44	Let coding agents diagnose and fix your Vercel bill	coding agent
+break-into-data/ai-engineer-toolkit	2184	Projects & Resources to help you become a better AI Developer. 	ai developer
+Caplet1989/Brokies-AI-Foundry	117	Top Free AI Developer Tools for 2026	ai developer
+codeany-ai/codeany	185	Open-source AI-powered terminal agent. Built in Go.	terminal agent
+codeflash-ai/codeflash	246	Coding super-intelligence to find the most optimized Python code. Use it to optimize existing codebases or new Pull requests as a GitHub Action or a VS Code Extension.	codebase
+codefuse-ai/CodeFuse-muAgent	774	An Innovative Agent Framework Driven by KG Engine	agent framework
+CoderLuii/HolyClaude	2505	AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools	ai coding
+DevCoreXOfficial/core-termux	399	Turn Termux into a complete development workstation with AI coding agents, a modern code editor, databases, automation, and developer tools.	coding agent
+dsifry/goodtogo	63	Deterministic PR readiness detection for AI coding agents	coding agent
+etsd-tech/mcp-pointer	592	MCP tool: let you point at DOM elements for your favorite agentic coding tool. Let AI see what you see.	agentic coding
+exmergo/dex	23	Dex is the agent-native analytics engineering toolkit. Point it at your warehouse and your dbt project. It learns the landscape, authors your transformations, and tells you exactly what to fix when the schema drifts. Built for analytics engineers and data engineers who want more out of their coding agent.	coding agent
+FareedKhan-dev/Multi-Agent-AI-System	373	Building a Multi-Agent AI System with LangGraph and LangSmith	multi-agent
+FareedKhan-dev/multi-agent-trading-system	114	Implementation of Deep Thinking Trading System	multi-agent
+FareedKhan-dev/multi-agent-training-grpo	57	A multi-agent system trained with GRPO for reliable long-horizon task planning and execution.	multi-agent
+FareedKhan-dev/production-grade-mcp-agentic-system	59	Building a Production-Grade MCP Server Architecture with a Multi-Agent System	multi-agent
+gemini-cli-extensions/jules	412	A Gemini CLI extension that allows you to use the Gemini CLI to orchestrate the Jules asynchronous agent to perform coding tasks like bug fixing, refactoring, and dependency updates.	bug fix
+gensyn-ai/codeassist	702	A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.	coding assistant
+gil-son/language-ai-engineering-lab	127	Language AI Engineering Lab, a place where you can deeply understand and build modern Language AI systems, from fundamentals to production.	ai engineer
+kennethleungty/Azure-AI-Engineer-Associate-Notes	97	Study Notes for Microsoft Azure AI Engineer Associate Examination (AI-102)	ai engineer
+kleneway/next-ai-starter	515	Opinionated batteries-included starter kit optimized for building applications using AI coding tools	ai coding
+legioncodeinc/honeycomb	109	AI coding agents forget. They forget across sessions, and they forget across tools. A decision you reached in Claude Code at midnight is invisible to Cursor the next morning. Honeycomb fixes that. Learn something once; recall it everywhere,	coding agent
+loganthorneloe/ai-for-software-engineers	1361	AI foundations for software engineers.	software engineer
+M1n9X/llm_agents_devtools	54	A curated list of autonomous agents and developer tools powered by LLM.	autonomous agent
+mckaywrigley/buildware-ai	567	An experimental AI coding tool.	ai coding
+memorax-ai/memorax-code	399	A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.	ai coding
+mesa-dot-dev/agentblame	101	AI code attribution for git. Track which lines were written by AI vs humans.	ai code
+MIKOTOKAWAII25/local-ai-code-assistant	121	Local AI Coding Hub: Run Claude Models Offline in 2026	ai coding
+multiplayer-app/multiplayer	38	The open-source debugging agent for developers. We connect your favorite coding agent to prod to fix application bugs automatically. Run us locally and eliminate PR slop.	coding agent
+numtide/llm-agents.nix	1777	Nix packages for AI coding agents and development tools. Automatically updated daily.	coding agent
+PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build	805	30 Agents Every AI Engineer Must Build, published by Packt	ai engineer
+RaphaelRegnier/vibe-annotations	141	AI-powered annotations for localhost development. Create visual feedback on your apps and let AI coding agents automatically implement fixes via MCP integration.	coding agent
+Ratnesh-181998/AI-Engineer	111	AI Engineering Specially Topics- Agentic AI & GenAI  Explanation 	ai engineer
+sammcj/mcp-devtools	158	A modular MCP server that provides commonly used developer tools for AI coding agents	coding agent
+smirk-dev/CodeReview-AI-Agent	37	Multi-agent AI system for automated code review using Google's ADK - Kaggle Agents Intensive Capstone Project 2025	multi-agent
+stippi/code-assistant	179	An LLM-powered, autonomous coding assistant. Also offers an MCP and ACP mode.	autonomous coding
+Sumanth077/ai-engineering-toolkit	3376	A curated list of 100+ libraries and frameworks for AI engineers building with LLMs	ai engineer
+TaewoooPark/Agent-Blackbox	72	Local-first flight recorder for coding agents : replay every run as a live session map, score the context bill, and write the fix back into AGENTS.md — no API key, one npx command.	coding agent
+the-crypt-keeper/can-ai-code	599	Self-evaluating interview for AI coders	ai code
+The-PR-Agent/pr-agent	12623	🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.	pr agent
+Tokfinity/InfCode	62	InfCode is an intelligent Code Agent System developed by Tokfinity's Code Research team & Beihang University, which uses LLMs to automatically analyze and fix Code Repo issues.	code agent
+Untrivial-ai/agent-orchestrator	9642	Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.	coding agent
+ZhangHanDong/harness-engineering-from-cc-to-ai-coding	1488	Harness Engineering From Claude Code source code to AI Coding	coding harness
