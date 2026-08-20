@@ -1,6 +1,6 @@
 # Coding Agent Harnesses — Comprehensive List
 
-**Total entries: 1002**
+**Total entries: 1031**
 
 This table catalogs coding agent harnesses — systems that let an LLM autonomously write, modify, debug, or run code. Sources: e2b-dev/awesome-ai-agents, jqueryscript/awesome-coding-agent, bradAGI/awesome-cli-coding-agents, flatlogic/awesome-ai-software-development-agents, and GitHub topic searches (coding-agent, ai-coding-agent, code-agent, etc.). GitHub metadata enriched via GitHub API.
 
@@ -8,13 +8,13 @@ This table catalogs coding agent harnesses — systems that let an LLM autonomou
 
 | Field | Filled | Coverage |
 |-------|--------|----------|
-| Name | 1002 | 100% |
-| Maker | 909 | 90% |
-| License | 723 | 72% |
-| URL | 1002 | 100% |
-| Source code URL | 865 | 86% |
-| First released | 905 | 90% |
-| Stars | 818 | 81% |
+| Name | 1031 | 100% |
+| Maker | 938 | 90% |
+| License | 752 | 72% |
+| URL | 1031 | 100% |
+| Source code URL | 865 | 83% |
+| First released | 905 | 87% |
+| Stars | 818 | 79% |
 
 ## Full Table
 
@@ -1022,3 +1022,32 @@ This table catalogs coding agent harnesses — systems that let an LLM autonomou
 | 1000 | ProxyAI | carlrobertoh | Apache-2.0 | https://github.com/carlrobertoh/ProxyAI | https://github.com/carlrobertoh/ProxyAI | Open-source AI copilot for JetBrains IDEs, connect to any model and customize coding experience | CLI;IDE | — | — | — |
 | 1001 | CodeIsland | wxtsky | MIT | https://github.com/wxtsky/CodeIsland | https://github.com/wxtsky/CodeIsland | Real-time AI coding agent status panel for managing multiple AI coding tools | CLI;IDE | — | — | — |
 | 1002 | OpenRalphy | Th0rgal | MIT | https://github.com/Th0rgal/open-ralph-wiggum | https://github.com/Th0rgal/open-ralph-wiggum | Open ralph loop for Open Code, Claude Code, Codex, and Copilot | CLI;IDE | — | — | — |
+| 1003 | AI Magicx | AI Magicx | Proprietary | https://aimagicx.com | — | AI-driven design and coding tool for building apps | Web | — | — | — |
+| 1004 | Cades | Cades | Proprietary | https://cades.dev | — | AI-powered app builder that transforms ideas into functional applications | Web | — | — | — |
+| 1005 | Code Arena | Arena AI | Proprietary | https://www.arena.ai/code | — | Platform to compare AI coding models and generate multi-file apps side-by-side | Web | — | — | — |
+| 1006 | DeepWiki | DeepWiki | Proprietary | https://deepwiki.com | — | AI-powered documentation generator for GitHub repos with conversational interface | Web | — | — | — |
+| 1007 | Dosu | Dosu | Proprietary | https://dosu.dev | — | AI agent that streamlines GitHub management: automate responses, triage bugs, update docs | Web | — | — | — |
+| 1008 | Durable AI | Durable AI | Proprietary | https://durable.ai | — | Create custom software effortlessly with AI-powered development | Web | — | — | — |
+| 1009 | ERNIE Comate | Baidu | Proprietary | https://comate.baidu.com | — | Baidu's AI coding assistant for code generation, unit tests, comments, Q&A, and refactoring | Web | — | — | — |
+| 1010 | GPTConsole | GPTConsole | Proprietary | https://www.gptconsole.ai | — | AI agents for seamless app development automation | Web | — | — | — |
+| 1011 | JBOX | JBOX | Proprietary | https://jbox.dev | — | Turn one prompt into a full-stack app with AI agents | Web | — | — | — |
+| 1012 | KaneAI | LambdaTest | Proprietary | https://www.lambdatest.com/kane-ai | — | AI-driven tool for creating, debugging, and evolving software tests | Web | — | — | — |
+| 1013 | MarsCode | MarsCode | Proprietary | https://marscode.com | — | AI coding assistant with real-time assistance, error detection, and code optimization | Web | — | — | — |
+| 1014 | MarsX | MarsX | Proprietary | https://marsx.dev | — | AI app development with NoCode and MicroApps ecosystem | Web | — | — | — |
+| 1015 | Monica | Monica | Proprietary | https://monica.im | — | AI assistant for chat, writing, coding, and more | Web | — | — | — |
+| 1016 | Ninja AI | Ninja AI | Proprietary | https://myninja.ai | — | Multi-agent system for research, writing, and coding | Web | — | — | — |
+| 1017 | Sai | Simular | Proprietary | https://www.sai.work | — | Workflow agent that automates developer coordination: scanning PRs, standup summaries, CI/CD monitoring | Web | — | — | — |
+| 1018 | Second.dev | Second | Proprietary | https://www.second.dev | — | AI-driven automated codebase upgrades and maintenance | Web | — | — | — |
+| 1019 | Shakespeare | Shakespeare | Proprietary | https://shakespeare.diy | — | Build, edit, and deploy fully customizable AI websites | Web | — | — | — |
+| 1020 | Spellbox | Spellbox | Proprietary | https://spellbox.app | — | Transform prompts into code with AI, enhancing productivity | Web | — | — | — |
+| 1021 | Verdent | Verdent | Proprietary | https://www.verdent.ai | — | Build products with plain words, multi-model workflow, GPT-5 code review, DiffLens, agent orchestration | Web | — | — | — |
+| 1022 | VibeScan | VibeScan | Proprietary | https://vibescan.io | — | Ensure AI code quality with real-time performance insights | Web | — | — | — |
+| 1023 | WeWeb | WeWeb | Proprietary | https://weweb.io | — | Create web apps quickly with AI and no-code | Web | — | — | — |
+| 1024 | WPTurbo | WPTurbo | Proprietary | https://wpturbo.dev | — | AI-driven WordPress code generation for developers | Web | — | — | — |
+| 1025 | Z.ai | Z.ai | Proprietary | https://chat.z.ai | — | Free AI assistant for presentations, writing, and coding with code generation | Web | — | — | — |
+| 1026 | Cluing | Cluing | Proprietary | https://www.cluing.io | — | Platform where agents and humans learn, build, and ship with API and MCP | Web | — | — | — |
+| 1027 | Coginiti | Coginiti | Proprietary | https://www.coginiti.co | — | AI-powered platform for data analytics and SQL development | Web | — | — | — |
+| 1028 | Nullify AI | Nullify | Proprietary | https://nullify.ai | — | AI-driven vulnerability management and prioritization for code | Web | — | — | — |
+| 1029 | Pgrammer | Pgrammer | Proprietary | https://www.pgrammer.com | — | AI-driven platform for coding interview preparation | Web | — | — | — |
+| 1030 | TeamSmart AI | TeamSmart | Proprietary | https://www.teamsmart.ai | — | Customizable AI coding assistants in a Chrome extension | Web | — | — | — |
+| 1031 | Wondershare | Wondershare | Proprietary | https://www.wondershare.com | — | Creative suite with AI-assisted development tools for full-stack projects | Web | — | — | — |

@@ -67,3 +67,19 @@ Base44	https://base44.com	AI app builder; Bolt.new alternative comparison
 OnSpace	https://onspace.ai	AI app builder for mobile and web; Bolt.new and Lovable comparison
 AIDesigner	https://aidesigner.ai	AI UI generator and full-stack app builder; v0 alternative comparison
 Seeles	https://seeles.ai	AI web development platform for building web apps; v0 alternative comparison
+Superset	https://superset.sh	Agent-agnostic workspace for running coding agents in parallel; worktree-per-task isolation; runs Claude Code, Codex, OpenCode, Cursor, Gemini; 13K+ GitHub stars
+Conductor	https://conductor.build	Native macOS app for running Claude Code, Codex, Cursor agents in parallel; isolated workspace with Git worktree; review-and-merge flow
+Orca	https://github.com/orca-app/orca	Free open-source desktop agent development environment; runs 25+ agents in parallel; Git worktree per agent; macOS, Windows, Linux
+Parallel Code	https://parallelcode.com	Agent workspace for parallel coding agents; worktree isolation per task; Superset alternative
+Augment Intent	https://www.augmentcode.com/intent	Augment Code's spec-driven agent workspace; coordinator agent drafts spec, runs implementor agents in parallel waves; isolated worktrees
+Crystal (Nimbalyst)	https://nimbalyst.com	Agent workspace for parallel coding (rebranded from Crystal); worktree-based isolation
+Mistral Vibe	https://mistral.ai	Vibe coding agent by Mistral AI; supported as external agent in Superset
+Devin Desktop	https://devin.ai	Product formerly known as Windsurf; now Cognition's Devin Desktop with Agent Command Center; local and cloud agents
+FutureProofing	https://futureproofing.dev	AI-native team resource site with agentic IDE comparisons
+Superset.sh	https://superset.sh	Agent-agnostic workspace for running coding agents in parallel; Git worktree isolation per task
+StackSpend	https://stackspend.app	AI tool comparison blog with agentic IDE and coding agent comparisons
+Firebase Studio	https://firebase.studio	Google's free cloud-based AI IDE built on Project IDX; browser-based with Gemini; full Linux VMs; mobile and web dev
+Google Jules	https://jules.google.com	Proactive AI coding agent by Google; lives inside GitHub; autonomously resolves issues and creates PRs; free 15 tasks/day
+Trae	https://www.trae.ai	ByteDance's free AI IDE (VS Code fork); Builder Mode for agentic editing; powered by Claude and GPT; no usage limits
+Tabby	https://tabbyml.com	Open-source self-hosted AI coding assistant; runs on own hardware; 10+ IDEs; Pochi agent for multi-step tasks (same as TabbyML)
+Polyfactor	https://polyfactor.io	AI code editor comparison site with 29+ tools compared on pricing, features, and GDPR compliance

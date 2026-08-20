@@ -1001,3 +1001,32 @@ MLE-Agent	MLSysOps	MIT	https://github.com/MLSysOps/MLE-agent	https://github.com/
 ProxyAI	carlrobertoh	Apache-2.0	https://github.com/carlrobertoh/ProxyAI	https://github.com/carlrobertoh/ProxyAI	Yes	Open-source AI copilot for JetBrains IDEs, connect to any model and customize coding experience	CLI;IDE						github_final_search
 CodeIsland	wxtsky	MIT	https://github.com/wxtsky/CodeIsland	https://github.com/wxtsky/CodeIsland	Yes	Real-time AI coding agent status panel for managing multiple AI coding tools	CLI;IDE						github_final_search
 OpenRalphy	Th0rgal	MIT	https://github.com/Th0rgal/open-ralph-wiggum	https://github.com/Th0rgal/open-ralph-wiggum	Yes	Open ralph loop for Open Code, Claude Code, Codex, and Copilot	CLI;IDE						github_final_search
+AI Magicx	AI Magicx	Proprietary	https://aimagicx.com		No (proprietary)	AI-driven design and coding tool for building apps	Web						directory_search
+Cades	Cades	Proprietary	https://cades.dev		No (proprietary)	AI-powered app builder that transforms ideas into functional applications	Web						directory_search
+Code Arena	Arena AI	Proprietary	https://www.arena.ai/code		No (proprietary)	Platform to compare AI coding models and generate multi-file apps side-by-side	Web						directory_search
+DeepWiki	DeepWiki	Proprietary	https://deepwiki.com		No (proprietary)	AI-powered documentation generator for GitHub repos with conversational interface	Web						directory_search
+Dosu	Dosu	Proprietary	https://dosu.dev		No (proprietary)	AI agent that streamlines GitHub management: automate responses, triage bugs, update docs	Web						directory_search
+Durable AI	Durable AI	Proprietary	https://durable.ai		No (proprietary)	Create custom software effortlessly with AI-powered development	Web						directory_search
+ERNIE Comate	Baidu	Proprietary	https://comate.baidu.com		No (proprietary)	Baidu's AI coding assistant for code generation, unit tests, comments, Q&A, and refactoring	Web						directory_search
+GPTConsole	GPTConsole	Proprietary	https://www.gptconsole.ai		No (proprietary)	AI agents for seamless app development automation	Web						directory_search
+JBOX	JBOX	Proprietary	https://jbox.dev		No (proprietary)	Turn one prompt into a full-stack app with AI agents	Web						directory_search
+KaneAI	LambdaTest	Proprietary	https://www.lambdatest.com/kane-ai		No (proprietary)	AI-driven tool for creating, debugging, and evolving software tests	Web						directory_search
+MarsCode	MarsCode	Proprietary	https://marscode.com		No (proprietary)	AI coding assistant with real-time assistance, error detection, and code optimization	Web						directory_search
+MarsX	MarsX	Proprietary	https://marsx.dev		No (proprietary)	AI app development with NoCode and MicroApps ecosystem	Web						directory_search
+Monica	Monica	Proprietary	https://monica.im		No (proprietary)	AI assistant for chat, writing, coding, and more	Web						directory_search
+Ninja AI	Ninja AI	Proprietary	https://myninja.ai		No (proprietary)	Multi-agent system for research, writing, and coding	Web						directory_search
+Sai	Simular	Proprietary	https://www.sai.work		No (proprietary)	Workflow agent that automates developer coordination: scanning PRs, standup summaries, CI/CD monitoring	Web						directory_search
+Second.dev	Second	Proprietary	https://www.second.dev		No (proprietary)	AI-driven automated codebase upgrades and maintenance	Web						directory_search
+Shakespeare	Shakespeare	Proprietary	https://shakespeare.diy		No (proprietary)	Build, edit, and deploy fully customizable AI websites	Web						directory_search
+Spellbox	Spellbox	Proprietary	https://spellbox.app		No (proprietary)	Transform prompts into code with AI, enhancing productivity	Web						directory_search
+Verdent	Verdent	Proprietary	https://www.verdent.ai		No (proprietary)	Build products with plain words, multi-model workflow, GPT-5 code review, DiffLens, agent orchestration	Web						directory_search
+VibeScan	VibeScan	Proprietary	https://vibescan.io		No (proprietary)	Ensure AI code quality with real-time performance insights	Web						directory_search
+WeWeb	WeWeb	Proprietary	https://weweb.io		No (proprietary)	Create web apps quickly with AI and no-code	Web						directory_search
+WPTurbo	WPTurbo	Proprietary	https://wpturbo.dev		No (proprietary)	AI-driven WordPress code generation for developers	Web						directory_search
+Z.ai	Z.ai	Proprietary	https://chat.z.ai		No (proprietary)	Free AI assistant for presentations, writing, and coding with code generation	Web						directory_search
+Cluing	Cluing	Proprietary	https://www.cluing.io		No (proprietary)	Platform where agents and humans learn, build, and ship with API and MCP	Web						directory_search
+Coginiti	Coginiti	Proprietary	https://www.coginiti.co		No (proprietary)	AI-powered platform for data analytics and SQL development	Web						directory_search
+Nullify AI	Nullify	Proprietary	https://nullify.ai		No (proprietary)	AI-driven vulnerability management and prioritization for code	Web						directory_search
+Pgrammer	Pgrammer	Proprietary	https://www.pgrammer.com		No (proprietary)	AI-driven platform for coding interview preparation	Web						directory_search
+TeamSmart AI	TeamSmart	Proprietary	https://www.teamsmart.ai		No (proprietary)	Customizable AI coding assistants in a Chrome extension	Web						directory_search
+Wondershare	Wondershare	Proprietary	https://www.wondershare.com		No (proprietary)	Creative suite with AI-assisted development tools for full-stack projects	Web						directory_search
