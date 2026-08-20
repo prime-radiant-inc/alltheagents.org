@@ -1070,3 +1070,38 @@ Sourcery,Sourcery,Proprietary,https://sourcery.ai,,No (proprietary),AI-powered c
 Conductor,Conductor,Proprietary,https://conductor.build,,No (proprietary),AI agent orchestration platform for managing coding agents,CLI;Web,2025,2026,,,,web_search_multilingual
 Hindsight,can1357,MIT,https://github.com/can1357/hindsight,https://github.com/can1357/hindsight,Yes,Hindsight: Agent Memory That Learns,CLI,2026-05-05,2026-05-06,0,,,author_search
 Paseo,Yeachan-Heo,NOASSERTION,https://github.com/Yeachan-Heo/paseo,https://github.com/Yeachan-Heo/paseo,Yes,Orchestrate multiple coding agents from desktop and mobile,CLI,2026-08-17,2026-08-17,0,,,author_search
+aiXcoder,aiXcoder,Proprietary,https://www.aixcoder.com,,No (proprietary),"AI coding assistant with code completion and generation, from Chinese company",IDE,,,,,,bing_ddg_chinese
+AskCodi,AskCodi,Proprietary,https://www.askcodi.com,,No (proprietary),"AI coding assistant for code generation, review, and documentation",IDE,,,,,,bing_ddg_chinese
+Atlarix,Atlarix,Proprietary,https://www.atlarix.dev,,No (proprietary),AI-powered development platform for building applications,Web,,,,,,bing_ddg_chinese
+Bubble,Bubble,Proprietary,https://bubble.io,,No (proprietary),No-code app builder with AI capabilities for building web applications,Web,,,,,,bing_ddg_chinese
+Canva Code,Canva,Proprietary,https://www.canva.com,,No (proprietary),Canva's AI code generation feature for building designs and apps,Web,,,,,,bing_ddg_chinese
+Cherry Studio,Cherry AI,MIT,https://github.com/CherryHQ/cherry-studio,https://github.com/CherryHQ/cherry-studio,Yes,Desktop AI assistant with multi-model support and coding capabilities,Desktop,,,,,,bing_ddg_chinese
+CodeGPT,CodeGPT,Proprietary,https://www.codegpt.co,,No (proprietary),AI coding assistant integrated into IDEs with code generation and chat,IDE,,,,,,bing_ddg_chinese
+Codiga,Codiga,Proprietary,https://www.codiga.io,,No (proprietary),AI-powered code analysis and code review tool,IDE,,,,,,bing_ddg_chinese
+DeepCode (Snyk),Snyk,Proprietary,https://snyk.io,,No (proprietary),"AI-powered code security analysis tool, formerly DeepCode",IDE;CLI,,,,,,bing_ddg_chinese
+Figstack,Figstack,Proprietary,https://www.figstack.com,,No (proprietary),AI code explanation and documentation tool,Web,,,,,,bing_ddg_chinese
+GigaChat,Sber,Proprietary,https://gigachat.devices.sber.ru,,No (proprietary),Sber's Russian AI assistant with code generation capabilities,Web;API,,,,,,bing_ddg_chinese
+Genie (Cosine),Cosine,Proprietary,https://cosine.sh,,No (proprietary),AI software engineer that understands entire codebase and can answer questions about code,Web,,,,,,bing_ddg_chinese
+GoCodeo,GoCodeo,Proprietary,https://www.gocodeo.com,,No (proprietary),AI coding assistant for Go development,IDE,,,,,,bing_ddg_chinese
+Grok Studio,xAI,Proprietary,https://grok.x.ai,,No (proprietary),xAI's coding and development studio powered by Grok models,Web,,,,,,bing_ddg_chinese
+Pieces for Developers,Pieces,Proprietary,https://pieces.app,,No (proprietary),AI-powered code snippet management and developer productivity tool,Desktop;IDE,,,,,,bing_ddg_chinese
+Rork,Rork,Proprietary,https://www.rork.app,,No (proprietary),AI app builder for creating mobile and web apps from natural language,Web,,,,,,bing_ddg_chinese
+Rover,Rover,Proprietary,https://www.getrover.com,,No (proprietary),AI coding assistant and code generation tool,Web,,,,,,bing_ddg_chinese
+Stack AI,Stack AI,Proprietary,https://stack-ai.com,,No (proprietary),AI workflow builder with code generation capabilities,Web,,,,,,bing_ddg_chinese
+Stitch (Google),Google,Proprietary,https://stitch.withgoogle.com,,No (proprietary),Google's AI tool for generating UI designs and code from prompts,Web,,,,,,bing_ddg_chinese
+Visual Copilot,Figma,Proprietary,https://www.figma.com/community/plugin/figma-to-code,,No (proprietary),Figma's AI plugin that converts designs to production code,IDE,,,,,,bing_ddg_chinese
+Zencoder,Zencoder,Proprietary,https://zencoder.ai,,No (proprietary),AI coding assistant with code generation and review capabilities,IDE,,,,,,bing_ddg_chinese
+DevEco CodeGenie,Huawei,Proprietary,https://developer.huawei.com,,No (proprietary),Huawei's AI coding assistant for HarmonyOS development,IDE,,,,,,bing_ddg_chinese
+Doubao-Seed-Code,ByteDance,Proprietary,https://www.doubao.com,,No (proprietary),ByteDance's Doubao code generation model and agent,API,,,,,,bing_ddg_chinese
+JoyCode,JoyCode,Proprietary,https://joycode.com,,No (proprietary),AI coding agent for software development,IDE,,,,,,bing_ddg_chinese
+JoyCoder,JoyCoder,Proprietary,https://joycoder.com,,No (proprietary),AI coding assistant with code generation and debugging,IDE,,,,,,bing_ddg_chinese
+CatPaw,CatPaw,MIT,https://github.com/catpaw-ai/catpaw,https://github.com/catpaw-ai/catpaw,Yes,Open-source AI coding agent,CLI,,,,,,bing_ddg_chinese
+GLM Coding Plan,Zhipu AI,Proprietary,https://www.zhipuai.cn,,No (proprietary),Zhipu AI's GLM coding plan with agent capabilities,API;CLI,,,,,,bing_ddg_chinese
+DeepSeek Coder,DeepSeek,MIT,https://github.com/deepseek-ai/DeepSeek-Coder,https://github.com/deepseek-ai/DeepSeek-Coder,Yes,Open-source code generation model from DeepSeek,CLI;API,,,,,,bing_ddg_chinese
+Magicoder,ISE-UIUC,MIT,https://github.com/ise-uiuc/magicoder,https://github.com/ise-uiuc/magicoder,Yes,Open-source code generation model and agent,CLI;API,,,,,,bing_ddg_chinese
+StarCoder,BigCode,MIT,https://huggingface.co/bigcode/starcoder,https://github.com/bigcode-project/starcoder,Yes,Open-source code generation model for programming tasks,CLI;API,,,,,,bing_ddg_chinese
+CodeLlama,Meta AI,MIT,https://github.com/meta-ai/codellama,https://github.com/meta-ai/codellama,Yes,Meta's open-source code generation model,CLI;API,,,,,,bing_ddg_chinese
+Tencent Yuanqi,Tencent,Proprietary,https://yuanqi.tencent.com,,No (proprietary),Tencent's AI agent platform with coding capabilities,Web,,,,,,bing_ddg_chinese
+Meoo,Meoo,Proprietary,https://meoo.com,,No (proprietary),Chinese AI coding assistant platform,Web,,,,,,bing_ddg_chinese
+Moore Threads AI Coding,Moore Threads,Proprietary,https://www.mthreads.com,,No (proprietary),Moore Threads AI coding plan for GPU-accelerated development,CLI,,,,,,bing_ddg_chinese
+Spark D2C Agent,iFlytek,Proprietary,https://iflytek.com,,No (proprietary),iFlytek's design-to-code agent for converting designs to code,Web,,,,,,bing_ddg_chinese

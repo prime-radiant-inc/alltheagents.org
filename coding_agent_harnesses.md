@@ -1,6 +1,6 @@
 # Coding Agent Harnesses — Comprehensive List
 
-**Total entries: 1071**
+**Total entries: 1106**
 
 This table catalogs coding agent harnesses — systems that let an LLM autonomously write, modify, debug, or run code. Sources: e2b-dev/awesome-ai-agents, jqueryscript/awesome-coding-agent, bradAGI/awesome-cli-coding-agents, flatlogic/awesome-ai-software-development-agents, and GitHub topic searches (coding-agent, ai-coding-agent, code-agent, etc.). GitHub metadata enriched via GitHub API.
 
@@ -8,13 +8,13 @@ This table catalogs coding agent harnesses — systems that let an LLM autonomou
 
 | Field | Filled | Coverage |
 |-------|--------|----------|
-| Name | 1071 | 100% |
-| Maker | 978 | 91% |
-| License | 775 | 72% |
-| URL | 1071 | 100% |
-| Source code URL | 934 | 87% |
-| First released | 978 | 91% |
-| Stars | 889 | 83% |
+| Name | 1106 | 100% |
+| Maker | 1013 | 91% |
+| License | 810 | 73% |
+| URL | 1106 | 100% |
+| Source code URL | 940 | 84% |
+| First released | 978 | 88% |
+| Stars | 889 | 80% |
 
 ## Full Table
 
@@ -1091,3 +1091,38 @@ This table catalogs coding agent harnesses — systems that let an LLM autonomou
 | 1069 | Conductor | Conductor | Proprietary | https://conductor.build | — | AI agent orchestration platform for managing coding agents | CLI;Web | 2025 | 2026 | — |
 | 1070 | Hindsight | can1357 | MIT | https://github.com/can1357/hindsight | https://github.com/can1357/hindsight | Hindsight: Agent Memory That Learns | CLI | 2026-05-05 | 2026-05-06 | 0 |
 | 1071 | Paseo | Yeachan-Heo | NOASSERTION | https://github.com/Yeachan-Heo/paseo | https://github.com/Yeachan-Heo/paseo | Orchestrate multiple coding agents from desktop and mobile | CLI | 2026-08-17 | 2026-08-17 | 0 |
+| 1072 | aiXcoder | aiXcoder | Proprietary | https://www.aixcoder.com | — | AI coding assistant with code completion and generation, from Chinese company | IDE | — | — | — |
+| 1073 | AskCodi | AskCodi | Proprietary | https://www.askcodi.com | — | AI coding assistant for code generation, review, and documentation | IDE | — | — | — |
+| 1074 | Atlarix | Atlarix | Proprietary | https://www.atlarix.dev | — | AI-powered development platform for building applications | Web | — | — | — |
+| 1075 | Bubble | Bubble | Proprietary | https://bubble.io | — | No-code app builder with AI capabilities for building web applications | Web | — | — | — |
+| 1076 | Canva Code | Canva | Proprietary | https://www.canva.com | — | Canva's AI code generation feature for building designs and apps | Web | — | — | — |
+| 1077 | Cherry Studio | Cherry AI | MIT | https://github.com/CherryHQ/cherry-studio | https://github.com/CherryHQ/cherry-studio | Desktop AI assistant with multi-model support and coding capabilities | Desktop | — | — | — |
+| 1078 | CodeGPT | CodeGPT | Proprietary | https://www.codegpt.co | — | AI coding assistant integrated into IDEs with code generation and chat | IDE | — | — | — |
+| 1079 | Codiga | Codiga | Proprietary | https://www.codiga.io | — | AI-powered code analysis and code review tool | IDE | — | — | — |
+| 1080 | DeepCode (Snyk) | Snyk | Proprietary | https://snyk.io | — | AI-powered code security analysis tool, formerly DeepCode | IDE;CLI | — | — | — |
+| 1081 | Figstack | Figstack | Proprietary | https://www.figstack.com | — | AI code explanation and documentation tool | Web | — | — | — |
+| 1082 | GigaChat | Sber | Proprietary | https://gigachat.devices.sber.ru | — | Sber's Russian AI assistant with code generation capabilities | Web;API | — | — | — |
+| 1083 | Genie (Cosine) | Cosine | Proprietary | https://cosine.sh | — | AI software engineer that understands entire codebase and can answer questions about code | Web | — | — | — |
+| 1084 | GoCodeo | GoCodeo | Proprietary | https://www.gocodeo.com | — | AI coding assistant for Go development | IDE | — | — | — |
+| 1085 | Grok Studio | xAI | Proprietary | https://grok.x.ai | — | xAI's coding and development studio powered by Grok models | Web | — | — | — |
+| 1086 | Pieces for Developers | Pieces | Proprietary | https://pieces.app | — | AI-powered code snippet management and developer productivity tool | Desktop;IDE | — | — | — |
+| 1087 | Rork | Rork | Proprietary | https://www.rork.app | — | AI app builder for creating mobile and web apps from natural language | Web | — | — | — |
+| 1088 | Rover | Rover | Proprietary | https://www.getrover.com | — | AI coding assistant and code generation tool | Web | — | — | — |
+| 1089 | Stack AI | Stack AI | Proprietary | https://stack-ai.com | — | AI workflow builder with code generation capabilities | Web | — | — | — |
+| 1090 | Stitch (Google) | Google | Proprietary | https://stitch.withgoogle.com | — | Google's AI tool for generating UI designs and code from prompts | Web | — | — | — |
+| 1091 | Visual Copilot | Figma | Proprietary | https://www.figma.com/community/plugin/figma-to-code | — | Figma's AI plugin that converts designs to production code | IDE | — | — | — |
+| 1092 | Zencoder | Zencoder | Proprietary | https://zencoder.ai | — | AI coding assistant with code generation and review capabilities | IDE | — | — | — |
+| 1093 | DevEco CodeGenie | Huawei | Proprietary | https://developer.huawei.com | — | Huawei's AI coding assistant for HarmonyOS development | IDE | — | — | — |
+| 1094 | Doubao-Seed-Code | ByteDance | Proprietary | https://www.doubao.com | — | ByteDance's Doubao code generation model and agent | API | — | — | — |
+| 1095 | JoyCode | JoyCode | Proprietary | https://joycode.com | — | AI coding agent for software development | IDE | — | — | — |
+| 1096 | JoyCoder | JoyCoder | Proprietary | https://joycoder.com | — | AI coding assistant with code generation and debugging | IDE | — | — | — |
+| 1097 | CatPaw | CatPaw | MIT | https://github.com/catpaw-ai/catpaw | https://github.com/catpaw-ai/catpaw | Open-source AI coding agent | CLI | — | — | — |
+| 1098 | GLM Coding Plan | Zhipu AI | Proprietary | https://www.zhipuai.cn | — | Zhipu AI's GLM coding plan with agent capabilities | API;CLI | — | — | — |
+| 1099 | DeepSeek Coder | DeepSeek | MIT | https://github.com/deepseek-ai/DeepSeek-Coder | https://github.com/deepseek-ai/DeepSeek-Coder | Open-source code generation model from DeepSeek | CLI;API | — | — | — |
+| 1100 | Magicoder | ISE-UIUC | MIT | https://github.com/ise-uiuc/magicoder | https://github.com/ise-uiuc/magicoder | Open-source code generation model and agent | CLI;API | — | — | — |
+| 1101 | StarCoder | BigCode | MIT | https://huggingface.co/bigcode/starcoder | https://github.com/bigcode-project/starcoder | Open-source code generation model for programming tasks | CLI;API | — | — | — |
+| 1102 | CodeLlama | Meta AI | MIT | https://github.com/meta-ai/codellama | https://github.com/meta-ai/codellama | Meta's open-source code generation model | CLI;API | — | — | — |
+| 1103 | Tencent Yuanqi | Tencent | Proprietary | https://yuanqi.tencent.com | — | Tencent's AI agent platform with coding capabilities | Web | — | — | — |
+| 1104 | Meoo | Meoo | Proprietary | https://meoo.com | — | Chinese AI coding assistant platform | Web | — | — | — |
+| 1105 | Moore Threads AI Coding | Moore Threads | Proprietary | https://www.mthreads.com | — | Moore Threads AI coding plan for GPU-accelerated development | CLI | — | — | — |
+| 1106 | Spark D2C Agent | iFlytek | Proprietary | https://iflytek.com | — | iFlytek's design-to-code agent for converting designs to code | Web | — | — | — |
