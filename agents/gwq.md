@@ -1,6 +1,7 @@
 ---
 name: "gwq"
 slug: "gwq"
+layout: agent.njk
 maker: "d-kuro"
 license: "Apache-2.0"
 url: "https://github.com/d-kuro/gwq"
@@ -14,7 +15,6 @@ language: "Go"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 🌳 Git worktree manager with fuzzy finder - Work on multiple branches simultaneously, perfect for parallel AI coding workflows 🍋

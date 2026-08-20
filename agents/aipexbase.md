@@ -1,6 +1,7 @@
 ---
 name: "aipexbase"
 slug: "aipexbase"
+layout: agent.njk
 maker: "kuafuai"
 license: "NOASSERTION"
 url: "https://github.com/kuafuai/aipexbase"
@@ -14,7 +15,6 @@ language: "Java"
 homepage: "https://www.codeflying.app"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 AipexBase is an AI-native BaaS platform. You only need to develop the frontend with vibe coding tools, and leave the backend to AipexBase!

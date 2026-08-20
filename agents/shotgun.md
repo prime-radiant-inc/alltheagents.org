@@ -1,6 +1,7 @@
 ---
 name: "shotgun"
 slug: "shotgun"
+layout: agent.njk
 maker: "shotgun-sh"
 license: "MIT"
 url: "https://github.com/shotgun-sh/shotgun"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://shotgun.sh/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Spec Driven Development 🤠 Write codebase-aware specs for AI coding agents so they don't derail.

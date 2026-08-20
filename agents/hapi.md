@@ -1,6 +1,7 @@
 ---
 name: "hapi"
 slug: "hapi"
+layout: agent.njk
 maker: "tiann"
 license: "AGPL-3.0"
 url: "https://github.com/tiann/hapi"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://hapi.run"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 App for Codex / Claude Code / Pi / OpenCode / Kimi Code / Grok Build, vibe coding anytime, anywhere

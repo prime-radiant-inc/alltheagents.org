@@ -1,6 +1,7 @@
 ---
 name: "Cursor"
 slug: "cursor"
+layout: agent.njk
 maker: "cursor"
 license: "Closed Source"
 url: "https://github.com/cursor/cursor"
@@ -17,7 +18,6 @@ homepage: "https://cursor.com"
 sources:
   - "jqueryscript"
   - "jqueryscript"
-layout: agent.njk
 ---
 
 An AI code editor with an agent that explores repositories, changes files, runs commands, and completes multi-step coding tasks.

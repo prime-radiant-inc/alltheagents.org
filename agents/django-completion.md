@@ -1,6 +1,7 @@
 ---
 name: "django-completion"
 slug: "django-completion"
+layout: agent.njk
 maker: "soldatov-ss"
 license: "MIT"
 url: "https://github.com/soldatov-ss/django-completion"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://soldatov-ss.github.io/django-completion/"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Django manage.py context for coding agents — and tab completion for you

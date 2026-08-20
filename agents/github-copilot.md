@@ -1,6 +1,7 @@
 ---
 name: "GitHub Copilot"
 slug: "github-copilot"
+layout: agent.njk
 maker: null
 license: null
 url: "https://github.com/features/preview/copilot-x"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "e2b"
-layout: agent.njk
 ---
 
 - AI pair programmer - Chat and terminal interfaces - Support for pull requests - Early adoption of OpenAI’s GPT-4

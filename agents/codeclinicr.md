@@ -1,6 +1,7 @@
 ---
 name: "CodeClinicR"
 slug: "codeclinicr"
+layout: agent.njk
 maker: "mnr"
 license: null
 url: "https://github.com/mnr/CodeClinicR"
@@ -15,7 +16,6 @@ language: "R"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A version of lynda.com code clinic for the R programming language

@@ -1,6 +1,7 @@
 ---
 name: "Mini-Kode"
 slug: "mini-kode"
+layout: agent.njk
 maker: "minmaxflow"
 license: "MIT"
 url: "https://github.com/minmaxflow/mini-kode"
@@ -16,7 +17,6 @@ homepage: null
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[Mini-Kode](https://github.com/minmaxflow/mini-kode)** `⭐ 305` — An educational AI coding agent CLI, intended as a readable reference implementation.

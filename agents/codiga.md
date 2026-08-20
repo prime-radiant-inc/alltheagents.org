@@ -1,6 +1,7 @@
 ---
 name: "Codiga"
 slug: "codiga"
+layout: agent.njk
 maker: "Codiga"
 license: "Proprietary"
 url: "https://www.codiga.io"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI-powered code analysis and code review tool

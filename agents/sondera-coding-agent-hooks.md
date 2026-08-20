@@ -1,6 +1,7 @@
 ---
 name: "sondera-coding-agent-hooks"
 slug: "sondera-coding-agent-hooks"
+layout: agent.njk
 maker: "sondera-ai"
 license: "MIT"
 url: "https://github.com/sondera-ai/sondera-coding-agent-hooks"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Hooking implementations and supporting tools for various coding agents (Claude, Cursor, Gemini, etc)

@@ -1,6 +1,7 @@
 ---
 name: "Cursor AI Automated Team"
 slug: "cursor-ai-automated-team"
+layout: agent.njk
 maker: "joinwell52-AI"
 license: "NOASSERTION"
 url: "https://github.com/joinwell52-AI/joinwell52"
@@ -15,7 +16,6 @@ language: "JavaScript"
 homepage: "https://joinwell52-ai.github.io/joinwell52/"
 sources:
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) | 4-role AI team (PM+DEV+OPS+QA) in Cursor IDE. File-based task routing, auto patrol bot. 87 person-days in 17 days. | Free / OSS |

@@ -1,6 +1,7 @@
 ---
 name: "coding-the-coding-agents"
 slug: "coding-the-coding-agents"
+layout: agent.njk
 maker: "zencoderai"
 license: null
 url: "https://github.com/zencoderai/coding-the-coding-agents"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Code for the talk on coding the ai coding agents

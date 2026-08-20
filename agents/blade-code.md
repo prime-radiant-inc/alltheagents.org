@@ -1,6 +1,7 @@
 ---
 name: "blade-code"
 slug: "blade-code"
+layout: agent.njk
 maker: "echoVic"
 license: "MIT"
 url: "https://github.com/echoVic/blade-code"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://echovic.github.io/blade-code/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 AI-powered CLI coding agent with 20+ built-in tools, MCP support, and multi-model providers

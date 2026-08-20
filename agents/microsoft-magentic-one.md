@@ -1,6 +1,7 @@
 ---
 name: "Microsoft Magentic-One"
 slug: "microsoft-magentic-one"
+layout: agent.njk
 maker: null
 license: null
 url: "https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Microsoft Magentic-One](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) - A Generalist Multi-Agent System for Solving Complex Tasks.

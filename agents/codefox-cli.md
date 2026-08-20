@@ -1,6 +1,7 @@
 ---
 name: "CodeFox-CLI"
 slug: "codefox-cli"
+layout: agent.njk
 maker: "codefox-lab"
 license: "MIT"
 url: "https://github.com/codefox-lab/CodeFox-CLI"
@@ -16,7 +17,6 @@ language: "Python"
 homepage: "http://code-fox.online"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A CLI-first AI code review tool for git diffs and CI workflows. Analyze changes with relevant codebase context using local Ollama models or cloud LLMs.

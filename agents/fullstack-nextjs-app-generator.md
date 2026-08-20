@@ -1,6 +1,7 @@
 ---
 name: "Fullstack-Nextjs-App-Generator"
 slug: "fullstack-nextjs-app-generator"
+layout: agent.njk
 maker: "spark-engine-opensource-projects"
 license: "MIT"
 url: "https://github.com/spark-engine-opensource-projects/fullstack-nextjs-app-generator"
@@ -14,7 +15,6 @@ language: "JavaScript"
 homepage: "https://sparkengine.ai/search"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Fullstack-Nextjs-App-Generator](https://github.com/spark-engine-opensource-projects/fullstack-nextjs-app-generator) - Fullstack Next.js Application Builder that uses a Spark Engine AI multi-agent system project for generation, Supabase and Vercel for depl…

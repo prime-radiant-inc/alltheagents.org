@@ -1,6 +1,7 @@
 ---
 name: "terminal"
 slug: "terminal"
+layout: agent.njk
 maker: "bbarit"
 license: null
 url: "https://github.com/bbarit/terminal"
@@ -17,7 +18,6 @@ language: null
 homepage: "https://bbarit.com"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 BBARIT Terminal (빠릿터미널) — free AI vibe coding IDE, terminal & agent in one, built 100% in Rust. Ships ⚡ BBARIT Agent (built-in coding agent with a verify loop) + a 🦌 dev↔review AI pair, runs Claude, Codex, Gemini, Kimi, Qwen & Ollama side by side, and edits Word/Excel/PowerPoint. macOS & Windows. Free.

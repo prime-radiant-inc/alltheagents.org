@@ -1,6 +1,7 @@
 ---
 name: "ai_game_base_analysis_cli_mcp_tool"
 slug: "ai-game-base-analysis-cli-mcp-tool"
+layout: agent.njk
 maker: "pirua-game"
 license: "Apache-2.0"
 url: "https://github.com/pirua-game/ai_game_base_analysis_cli_mcp_tool"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Game Codebase Analysis AI Agentic Tool

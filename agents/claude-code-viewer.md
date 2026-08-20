@@ -1,6 +1,7 @@
 ---
 name: "claude-code-viewer"
 slug: "claude-code-viewer"
+layout: agent.njk
 maker: "d-kimuson"
 license: "MIT"
 url: "https://github.com/d-kimuson/claude-code-viewer"
@@ -17,7 +18,6 @@ language: "TypeScript"
 homepage: "https://www.npmjs.com/package/@kimuson/claude-code-viewer"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects

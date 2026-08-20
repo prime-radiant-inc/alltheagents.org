@@ -1,6 +1,7 @@
 ---
 name: "Codel"
 slug: "codel"
+layout: agent.njk
 maker: "semanser"
 license: "AGPL-3.0"
 url: "https://github.com/semanser/codel"
@@ -22,7 +23,6 @@ sources:
   - "jim"
   - "jim"
   - "ishandutta"
-layout: agent.njk
 ---
 
 An autonomous development agent that uses a terminal, browser, and editor inside isolated environments to complete projects.

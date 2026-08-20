@@ -1,6 +1,7 @@
 ---
 name: "dspy-compounding-engineering"
 slug: "dspy-compounding-engineering"
+layout: agent.njk
 maker: "Strategic-Automation"
 license: null
 url: "https://github.com/Strategic-Automation/dspy-compounding-engineering"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://strategic-automation.github.io/dspy-compounding-engineering/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A local-first AI engineering agent that learns from your codebase using DSPy.

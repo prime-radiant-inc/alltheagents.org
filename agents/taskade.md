@@ -1,6 +1,7 @@
 ---
 name: "Taskade"
 slug: "taskade"
+layout: agent.njk
 maker: null
 license: null
 url: "https://www.taskade.com/"
@@ -16,7 +17,6 @@ sources:
   - "e2b"
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - AI Agent for custom tasks, automation, and workflows - AI Generator for flowcharts, mind mapping, task management - AI Chat Assistant and Media Q&A with projects, docs, and more - Custom AI Agents: Craft AI agents with custom commands, tools, and knowledge to automate tasks - Engage with projects and documents through a dynamic AI Chat Assistant, providing media Q&A and contextual support.

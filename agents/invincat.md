@@ -1,6 +1,7 @@
 ---
 name: "invincat"
 slug: "invincat"
+layout: agent.njk
 maker: "dog-qiuqiu"
 license: "MIT"
 url: "https://github.com/dog-qiuqiu/invincat"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 A native Python agent CLI built on DeepAgents CLI, featuring an independent memory Agent that captures learnings after each task and delivers efficient AI coding assistance through hierarchical memory management.

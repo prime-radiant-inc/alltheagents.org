@@ -1,6 +1,7 @@
 ---
 name: "AI-Engineer"
 slug: "ai-engineer"
+layout: agent.njk
 maker: "Ratnesh-181998"
 license: "Apache-2.0"
 url: "https://github.com/Ratnesh-181998/AI-Engineer"
@@ -14,7 +15,6 @@ language: null
 homepage: "https://www.youtube.com/@aiDotEngineer/videos"
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 AI Engineering Specially Topics- Agentic AI & GenAI  Explanation

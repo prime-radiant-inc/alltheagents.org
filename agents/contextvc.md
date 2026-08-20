@@ -1,6 +1,7 @@
 ---
 name: "contextvc"
 slug: "contextvc"
+layout: agent.njk
 maker: "HaochengLu"
 license: "Apache-2.0"
 url: "https://github.com/HaochengLu/contextvc"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Git-native context control plane for AI coding agents

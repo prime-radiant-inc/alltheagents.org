@@ -1,6 +1,7 @@
 ---
 name: "OMK"
 slug: "omk"
+layout: agent.njk
 maker: "dmae97"
 license: "MIT"
 url: "https://github.com/dmae97/open-multi-agent-kit"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[OMK](https://github.com/dmae97/open-multi-agent-kit)** `⭐ 131` — Provider-neutral CLI control plane for coding agents: routes runtimes, scopes MCP, runs DAG workers, and verifies evidence before completion. MIT.

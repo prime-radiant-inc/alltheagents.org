@@ -1,6 +1,7 @@
 ---
 name: "Genspark AI Developer"
 slug: "genspark-ai-developer"
+layout: agent.njk
 maker: "Genspark"
 license: "Proprietary"
 url: "https://www.genspark.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Autonomous L4 coding agent that can handle full software development tasks

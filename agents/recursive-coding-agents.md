@@ -1,6 +1,7 @@
 ---
 name: "recursive-coding-agents"
 slug: "recursive-coding-agents"
+layout: agent.njk
 maker: "rawwerks"
 license: "NOASSERTION"
 url: "https://github.com/rawwerks/recursive-coding-agents"
@@ -15,7 +16,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Recursive Coding Agents — AI Engineer World's Fair 2026 talk + website (SvelteKit, Cloudflare Workers)

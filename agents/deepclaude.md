@@ -1,6 +1,7 @@
 ---
 name: "deepclaude"
 slug: "deepclaude"
+layout: agent.njk
 maker: "aattaran"
 license: "MIT"
 url: "https://github.com/aattaran/deepclaude"
@@ -15,7 +16,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.

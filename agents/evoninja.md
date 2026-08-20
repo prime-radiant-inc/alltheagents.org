@@ -1,6 +1,7 @@
 ---
 name: "EvoNinja"
 slug: "evoninja"
+layout: agent.njk
 maker: null
 license: null
 url: "https://evo.ninja/"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "e2b"
-layout: agent.njk
 ---
 
 - What makes evo.ninja special is that it adapts itself in real-time, based on the tasks at hand. - Evo utilizes pre-defined agent personas that are tailored to specific domains of tasks. - Each iteration of evo's execution loop it will select and adopt the persona that fits the task at hand best.

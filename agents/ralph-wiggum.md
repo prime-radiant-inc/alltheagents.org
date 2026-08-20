@@ -1,6 +1,7 @@
 ---
 name: "ralph-wiggum"
 slug: "ralph-wiggum"
+layout: agent.njk
 maker: "fstandhartinger"
 license: "MIT"
 url: "https://github.com/fstandhartinger/ralph-wiggum"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Ralph Wiggum: Autonomous AI coding with spec-driven development. Point your AI agent here to get started.

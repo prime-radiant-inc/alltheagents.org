@@ -1,6 +1,7 @@
 ---
 name: "vibesdk"
 slug: "vibesdk"
+layout: agent.njk
 maker: "cloudflare"
 license: "MIT"
 url: "https://github.com/cloudflare/vibesdk"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://build.cloudflare.dev"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack

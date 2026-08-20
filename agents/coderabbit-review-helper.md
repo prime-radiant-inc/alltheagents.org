@@ -1,6 +1,7 @@
 ---
 name: "coderabbit-review-helper"
 slug: "coderabbit-review-helper"
+layout: agent.njk
 maker: "obra"
 license: "MIT"
 url: "https://github.com/obra/coderabbit-review-helper"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Extract CodeRabbit GitHub PR reviews for AI coding agent consumption

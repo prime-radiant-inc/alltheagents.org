@@ -1,6 +1,7 @@
 ---
 name: "nodeterm"
 slug: "nodeterm"
+layout: agent.njk
 maker: "eneskirca"
 license: "NOASSERTION"
 url: "https://github.com/eneskirca/nodeterm"
@@ -17,7 +18,6 @@ language: "TypeScript"
 homepage: "https://nodeterm.dev"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.

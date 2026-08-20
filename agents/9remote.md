@@ -1,6 +1,7 @@
 ---
 name: "9remote"
 slug: "9remote"
+layout: agent.njk
 maker: "decolua"
 license: null
 url: "https://github.com/decolua/9remote"
@@ -17,7 +18,6 @@ language: null
 homepage: "https://9remote.cc"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 📱 Terminal in Your Pocket — Control Claude Code, Codex, Gemini CLI & your Mac/Linux/Windows from any phone or browser. Vibe coding from anywhere. Alternative to MobileCLI, Claude Remote, vibe-remote, MuxAgent.

@@ -1,6 +1,7 @@
 ---
 name: "Kata"
 slug: "kata"
+layout: agent.njk
 maker: "kenn-io"
 license: "MIT"
 url: "https://github.com/kenn-io/kata"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: null
 sources:
   - "author_search"
-layout: agent.njk
 ---
 
 Local-first issue tracking for AI-assisted software work, with an agent-friendly CLI and human-facing TUI

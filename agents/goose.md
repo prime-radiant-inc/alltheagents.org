@@ -1,6 +1,7 @@
 ---
 name: "Goose"
 slug: "goose"
+layout: agent.njk
 maker: "aaif-goose"
 license: "Apache-2.0"
 url: "https://github.com/aaif-goose/goose"
@@ -20,7 +21,6 @@ sources:
   - "brad"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 An extensible local agent that can inspect code, edit files, execute commands, run tests, and connect to MCP servers.

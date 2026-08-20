@@ -1,6 +1,7 @@
 ---
 name: "GPT Engineer"
 slug: "gpt-engineer"
+layout: agent.njk
 maker: "AntonOsika"
 license: "MIT"
 url: "https://github.com/AntonOsika/gpt-engineer"
@@ -17,7 +18,6 @@ sources:
   - "flatlogic"
   - "brandonhimpfen"
   - "tiennm"
-layout: agent.njk
 ---
 
 Minimalist AI generating complete codebases from a prompt

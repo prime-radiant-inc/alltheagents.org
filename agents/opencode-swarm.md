@@ -1,6 +1,7 @@
 ---
 name: "opencode-swarm"
 slug: "opencode-swarm"
+layout: agent.njk
 maker: "ZaxbyHub"
 license: "MIT"
 url: "https://github.com/ZaxbyHub/opencode-swarm"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.

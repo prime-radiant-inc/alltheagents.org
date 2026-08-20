@@ -1,6 +1,7 @@
 ---
 name: "SWE-Gym"
 slug: "swe-gym"
+layout: agent.njk
 maker: "SWE-Gym"
 license: "Apache-2.0"
 url: "https://github.com/SWE-Gym/SWE-Gym"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: "https://arxiv.org/abs/2412.21139"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Code for Paper: Training Software Engineering Agents and Verifiers with SWE-Gym [ICML 2025]

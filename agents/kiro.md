@@ -1,6 +1,7 @@
 ---
 name: "Kiro"
 slug: "kiro"
+layout: agent.njk
 maker: "kirodotdev"
 license: null
 url: "https://github.com/kirodotdev/Kiro"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://kiro.dev"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Kiro is an agentic IDE that works alongside you from prototype to production.

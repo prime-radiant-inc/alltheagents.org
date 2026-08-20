@@ -1,6 +1,7 @@
 ---
 name: "live-swe-agent"
 slug: "live-swe-agent"
+layout: agent.njk
 maker: "OpenAutoCoder"
 license: "MIT"
 url: "https://github.com/OpenAutoCoder/live-swe-agent"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Live-SWE-agent: live, runtime self-evolving software engineering agent

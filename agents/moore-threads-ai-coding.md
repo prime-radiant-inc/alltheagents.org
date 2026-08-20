@@ -1,6 +1,7 @@
 ---
 name: "Moore Threads AI Coding"
 slug: "moore-threads-ai-coding"
+layout: agent.njk
 maker: "Moore Threads"
 license: "Proprietary"
 url: "https://www.mthreads.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Moore Threads AI coding plan for GPU-accelerated development

@@ -1,6 +1,7 @@
 ---
 name: "JoyCode"
 slug: "joycode"
+layout: agent.njk
 maker: "JoyCode"
 license: "Proprietary"
 url: "https://joycode.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI coding agent for software development

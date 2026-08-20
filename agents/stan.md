@@ -1,6 +1,7 @@
 ---
 name: "Stan"
 slug: "stan"
+layout: agent.njk
 maker: "kaifcoder"
 license: null
 url: "https://github.com/kaifcoder/Stan"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Stan](https://github.com/kaifcoder/Stan) - Develop and deploy a Large Language Model (LLM) based tool for generating human like responses to natural language inputs for network not…

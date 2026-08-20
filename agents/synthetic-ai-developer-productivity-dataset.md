@@ -1,6 +1,7 @@
 ---
 name: "Synthetic-AI-Developer-Productivity-Dataset"
 slug: "synthetic-ai-developer-productivity-dataset"
+layout: agent.njk
 maker: "syncora-ai"
 license: null
 url: "https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset"
@@ -15,7 +16,6 @@ language: "Jupyter Notebook"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 High-fidelity synthetic dataset capturing AI developer productivity metrics — including focus hours, task completion rates, and burnout indicators. Privacy-safe, ideal for ML and workflow analytics.

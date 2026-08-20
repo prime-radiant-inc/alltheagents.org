@@ -1,6 +1,7 @@
 ---
 name: "clawdstrike"
 slug: "clawdstrike"
+layout: agent.njk
 maker: "backbay-labs"
 license: "Apache-2.0"
 url: "https://github.com/backbay-labs/clawdstrike"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://backbay.io"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 AI EDR for developer workstations and autonomous agent fleets. Build Swarm Detection & Response platforms with Clawdstrike.

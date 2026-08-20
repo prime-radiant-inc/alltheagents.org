@@ -1,6 +1,7 @@
 ---
 name: "WrongStack"
 slug: "wrongstack"
+layout: agent.njk
 maker: "WrongStack"
 license: "MIT"
 url: "https://github.com/WrongStack/WrongStack"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://wrongstack.com/"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 An AI coding agent that reads your code, edits files, runs commands, and reasons through bugs — across a terminal REPL, a full-screen TUI, and a browser UI, while you keep your hand on every permission.

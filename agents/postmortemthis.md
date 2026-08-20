@@ -1,6 +1,7 @@
 ---
 name: "postmortemthis"
 slug: "postmortemthis"
+layout: agent.njk
 maker: "Softeria"
 license: "MIT"
 url: "https://github.com/Softeria/postmortemthis"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: "https://postmortemthis.com"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[postmortemthis](https://github.com/Softeria/postmortemthis)** `⭐ 1` — Runs every coding-agent CLI you have (Claude Code, Codex, Gemini, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model second opinion before you ship. MIT.

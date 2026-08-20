@@ -1,6 +1,7 @@
 ---
 name: "giselle"
 slug: "giselle"
+layout: agent.njk
 maker: "giselles-ai"
 license: "Apache-2.0"
 url: "https://github.com/giselles-ai/giselle"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://giselles.ai"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Giselle: AI App Builder. Open Source.

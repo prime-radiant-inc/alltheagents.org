@@ -24,7 +24,7 @@ eleventyComputed:
       {% set sorted = collections.agent | sortByStars %}
       {% for agent in sorted.slice(0, 50) %}
       <tr>
-        <td><a href="/agents/{{ agent.data.slug }}/">{{ agent.data.name }}</a></td>
+        <td><a href="{{ ('/agents/' ~ agent.data.slug ~ '/') | url }}">{{ agent.data.name }}</a></td>
         <td>{{ agent.data.maker or "—" }}</td>
         <td>{{ agent.data.license or "—" }}</td>
         <td>{{ agent.data.platforms | join(", ") }}</td>
@@ -34,7 +34,7 @@ eleventyComputed:
       {% endfor %}
     </tbody>
   </table>
-  <p class="see-all"><a href="/all/">See all {{ collections.agent | size }} agents →</a></p>
+  <p class="see-all"><a href="{{ '/all/' | url }}">See all {{ collections.agent | size }} agents →</a></p>
 </section>
 
 <section class="stats">
@@ -58,7 +58,7 @@ eleventyComputed:
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
 <script>
-fetch('/agents.json')
+fetch('{{ '/agents.json' | url }}')
   .then(r => r.json())
   .then(data => {
     const fuse = new Fuse(data, {
@@ -83,7 +83,7 @@ fetch('/agents.json')
       list.style.display = 'none';
       results.innerHTML = matches.map(m => `
         <div class="search-result">
-          <a href="/agents/${m.item.slug}/"><strong>${m.item.name}</strong></a>
+          <a href="{{ '/agents/' | url }}${m.item.slug}/"><strong>${m.item.name}</strong></a>
           <span class="result-meta">${m.item.maker || ''} · ${m.item.license || ''} · ${m.item.stars ? (m.item.stars >= 1000 ? (m.item.stars/1000).toFixed(1)+'k' : m.item.stars) : ''}★</span>
           <p class="result-desc">${m.item.description || ''}</p>
         </div>

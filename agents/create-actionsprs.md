@@ -1,6 +1,7 @@
 ---
 name: "Create-Actionsprs"
 slug: "create-actionsprs"
+layout: agent.njk
 maker: "jhutchings1"
 license: "MIT"
 url: "https://github.com/jhutchings1/Create-ActionsPRs"
@@ -14,7 +15,6 @@ language: "PowerShell"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Create-Actionsprs](https://github.com/jhutchings1/Create-ActionsPRs) - This repository creates pull requests to push a GitHub Actions workflow to a collection of workflows.

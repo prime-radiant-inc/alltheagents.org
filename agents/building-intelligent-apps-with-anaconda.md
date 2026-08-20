@@ -1,6 +1,7 @@
 ---
 name: "building-intelligent-apps-with-anaconda"
 slug: "building-intelligent-apps-with-anaconda"
+layout: agent.njk
 maker: "Anaconda-Labs"
 license: "MIT"
 url: "https://github.com/Anaconda-Labs/building-intelligent-apps-with-anaconda"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: "https://www.anaconda.com/docs/getting-started"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 10-part module to build AI-native apps. From data analysis to multi-agent model harness. For curious learners and serious AI builders.

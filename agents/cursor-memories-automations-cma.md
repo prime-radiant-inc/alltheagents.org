@@ -1,6 +1,7 @@
 ---
 name: "Cursor Memories / Automations (CMA)"
 slug: "cursor-memories-automations-cma"
+layout: agent.njk
 maker: null
 license: null
 url: "https://cursor.com/changelog/03-05-26"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "zhouhao"
-layout: agent.njk
 ---
 
 - **[Cursor Memories / Automations (CMA)](https://cursor.com/changelog/03-05-26)** — **Year:** 2025–2026 · **Company:** Cursor · **Target:** Agent framework, memory · [Memories](https://cursor.com/changelog/1-2)

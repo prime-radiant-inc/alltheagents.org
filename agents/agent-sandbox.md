@@ -1,6 +1,7 @@
 ---
 name: "agent-sandbox"
 slug: "agent-sandbox"
+layout: agent.njk
 maker: "mattolson"
 license: "MIT"
 url: "https://github.com/mattolson/agent-sandbox"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Secure local dev environment for collaboration with AI coding agents

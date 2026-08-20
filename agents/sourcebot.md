@@ -1,6 +1,7 @@
 ---
 name: "sourcebot"
 slug: "sourcebot"
+layout: agent.njk
 maker: "sourcebot-dev"
 license: "NOASSERTION"
 url: "https://github.com/sourcebot-dev/sourcebot"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://sourcebot.dev"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.

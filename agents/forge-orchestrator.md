@@ -1,6 +1,7 @@
 ---
 name: "forge-orchestrator"
 slug: "forge-orchestrator"
+layout: agent.njk
 maker: "tarunms7"
 license: null
 url: "https://github.com/tarunms7/forge-orchestrator"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Forge is a self-evolving multi-agent orchestrator -- that plans, runs parallel agents, orchestrates them, reviews the code, resolves merge-conflicts and gives one PR that you can safely merge to production.

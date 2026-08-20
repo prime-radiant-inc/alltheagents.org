@@ -1,6 +1,7 @@
 ---
 name: "conduit-release"
 slug: "conduit-release"
+layout: agent.njk
 maker: "lostintangent"
 license: null
 url: "https://github.com/lostintangent/conduit-release"
@@ -15,7 +16,6 @@ language: null
 homepage: "https://trl.mx/conduit"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 🔌 A terminal-centric workspace manager (a "DIY-DE"), that's built for task parallelization with coding agents

@@ -1,6 +1,7 @@
 ---
 name: "Cluely"
 slug: "cluely"
+layout: agent.njk
 maker: "Cluely"
 license: "Proprietary"
 url: "https://cluely.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI coding assistant tool

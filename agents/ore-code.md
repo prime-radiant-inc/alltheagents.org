@@ -1,6 +1,7 @@
 ---
 name: "ore-code"
 slug: "ore-code"
+layout: agent.njk
 maker: "233i"
 license: "MIT"
 url: "https://github.com/233i/ore-code"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 DeepSeek-first desktop coding agent workbench

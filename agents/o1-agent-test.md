@@ -1,6 +1,7 @@
 ---
 name: "O1_Agent_Test"
 slug: "o1-agent-test"
+layout: agent.njk
 maker: "alexmoses"
 license: null
 url: "https://github.com/alexmoses/o1_Agent_Test"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [O1_Agent_Test](https://github.com/alexmoses/o1_Agent_Test) - Building a multi-agent AI program

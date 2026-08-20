@@ -1,6 +1,7 @@
 ---
 name: "Droid"
 slug: "droid"
+layout: agent.njk
 maker: "Factory-AI"
 license: null
 url: "https://github.com/Factory-AI/factory"
@@ -18,7 +19,6 @@ homepage: "https://factory.ai"
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[Droid](https://github.com/Factory-AI/factory)** `⭐ 2` `[Factory]` — Factory's multi-model CLI coding agent; #1 on Terminal-Bench, specialized droids for different tasks, headless CI mode, and multi-interface support (CLI/IDE/Slack/Linear).

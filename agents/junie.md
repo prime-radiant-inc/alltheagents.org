@@ -1,6 +1,7 @@
 ---
 name: "junie"
 slug: "junie"
+layout: agent.njk
 maker: "JetBrains"
 license: "NOASSERTION"
 url: "https://github.com/JetBrains/junie"
@@ -16,7 +17,6 @@ language: "Shell"
 homepage: "https://junie.jetbrains.com"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose

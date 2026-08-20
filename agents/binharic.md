@@ -1,6 +1,7 @@
 ---
 name: "Binharic"
 slug: "binharic"
+layout: agent.njk
 maker: "CogitatorTech"
 license: "MIT"
 url: "https://github.com/CogitatorTech/binharic-cli"
@@ -17,7 +18,6 @@ homepage: null
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 18` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).

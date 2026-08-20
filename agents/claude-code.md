@@ -1,21 +1,24 @@
 ---
-name: "claude-code"
+name: "Claude Code"
 slug: "claude-code"
-maker: "yasasbanukaofficial"
-license: null
-url: "https://github.com/yasasbanukaofficial/claude-code"
-source_code_url: "https://github.com/yasasbanukaofficial/claude-code"
-source_available: "Source-visible (no OSS license)"
+layout: agent.njk
+maker: "anthropics"
+license: "Closed Source"
+url: "https://github.com/anthropics/claude-code"
+source_code_url: "https://github.com/anthropics/claude-code"
+source_available: "Source available"
 platforms:
   - "CLI"
-first_released: "2026-03-31"
-current_release: "2026-04-04"
-stars: 3963
-language: "TypeScript"
-homepage: "https://github.com/yasasbanukaofficial/claude-code"
+first_released: "2025-02-22"
+current_release: "2026-08-20"
+stars: null
+language: "Python"
+homepage: "https://code.claude.com/docs/en/overview"
 sources:
-  - "github_topic3"
-layout: agent.njk
+  - "jqueryscript"
+  - "jqueryscript"
+  - "brad"
+  - "tiennm"
 ---
 
-🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou.
+Anthropic's terminal coding agent for codebase analysis, file changes, command execution, and Git workflows.

@@ -1,6 +1,7 @@
 ---
 name: "race-condition"
 slug: "race-condition"
+layout: agent.njk
 maker: "GoogleCloudPlatform"
 license: "NOASSERTION"
 url: "https://github.com/GoogleCloudPlatform/race-condition"
@@ -16,7 +17,6 @@ language: "Python"
 homepage: "https://developers.google.com/solutions/learn/race-condition"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 The open source multi-agent simulation from the Developer Keynote at Google Cloud Next '26. A deployable reference architecture for autonomous AI agents using Gemini and ADK.

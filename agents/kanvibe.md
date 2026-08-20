@@ -1,6 +1,7 @@
 ---
 name: "kanvibe"
 slug: "kanvibe"
+layout: agent.njk
 maker: "rookedsysc"
 license: "AGPL-3.0"
 url: "https://github.com/rookedsysc/kanvibe"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Keyboard-first desktop Kanban workspace for AI coding agents with embedded terminals, git worktrees, and hook-driven task tracking.

@@ -1,6 +1,7 @@
 ---
 name: "Warp"
 slug: "warp"
+layout: agent.njk
 maker: "warpdotdev"
 license: "AGPL-3.0"
 url: "https://github.com/warpdotdev/warp"
@@ -20,7 +21,6 @@ sources:
   - "brad"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 An agentic development environment that combines a modern terminal with repository-aware coding and command execution.

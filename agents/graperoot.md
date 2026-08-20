@@ -1,6 +1,7 @@
 ---
 name: "GrapeRoot"
 slug: "graperoot"
+layout: agent.njk
 maker: "kunal12203"
 license: "Apache-2.0"
 url: "https://github.com/kunal12203/GrapeRoot"
@@ -14,7 +15,6 @@ language: "PowerShell"
 homepage: "https://graperoot.dev"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Compounding Context for AI Coding Assistants — MCP graph engine for Claude Code, Cursor, Copilot, Gemini, OpenCode

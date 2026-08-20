@@ -1,6 +1,7 @@
 ---
 name: "par"
 slug: "par"
+layout: agent.njk
 maker: "jcz2020"
 license: "MIT"
 url: "https://github.com/jcz2020/par"
@@ -15,7 +16,6 @@ language: "OCaml"
 homepage: "https://jcz2020.github.io/par/"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 PAR: Programmable Agent Runtime — OCaml 5 agent framework with multi-provider LLM

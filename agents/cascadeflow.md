@@ -1,6 +1,7 @@
 ---
 name: "cascadeflow"
 slug: "cascadeflow"
+layout: agent.njk
 maker: "lemony-ai"
 license: "MIT"
 url: "https://github.com/lemony-ai/cascadeflow"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://cascadeflow.ai"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop.

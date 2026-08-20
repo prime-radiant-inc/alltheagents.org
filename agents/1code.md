@@ -1,6 +1,7 @@
 ---
 name: "1code"
 slug: "1code"
+layout: agent.njk
 maker: "21st-dev"
 license: "Apache-2.0"
 url: "https://github.com/21st-dev/1code"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://1code.dev"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Orchestration layer for coding agents (Claude Code, Codex)

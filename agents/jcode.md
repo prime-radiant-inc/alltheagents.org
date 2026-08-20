@@ -1,6 +1,7 @@
 ---
 name: "JCode"
 slug: "jcode"
+layout: agent.njk
 maker: "1jehuang"
 license: "MIT"
 url: "https://github.com/1jehuang/jcode"
@@ -17,7 +18,6 @@ sources:
   - "jqueryscript"
   - "jqueryscript"
   - "brad"
-layout: agent.njk
 ---
 
 A memory-efficient terminal coding agent for repository exploration, code changes, and tool-assisted development work.

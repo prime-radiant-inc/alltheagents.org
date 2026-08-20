@@ -1,6 +1,7 @@
 ---
 name: "CodeActAgent"
 slug: "codeactagent"
+layout: agent.njk
 maker: "xingyaoww"
 license: "MIT"
 url: "https://github.com/xingyaoww/code-act"
@@ -15,7 +16,6 @@ homepage: null
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [CodeActAgent](https://github.com/xingyaoww/code-act) - CodeActAgent, trained on CodeActInstruct, showcases superior performance in both in-domain and out-of-domain tasks, enabling dynamic code execution and multi-turn interactions for more effective LLM agents [github](https://github.com/xingyaoww/code-act)

@@ -1,6 +1,7 @@
 ---
 name: "ai-for-software-engineers"
 slug: "ai-for-software-engineers"
+layout: agent.njk
 maker: "loganthorneloe"
 license: "MIT"
 url: "https://github.com/loganthorneloe/ai-for-software-engineers"
@@ -14,7 +15,6 @@ language: null
 homepage: "http://learn.aiforswes.com"
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 AI foundations for software engineers.

@@ -1,6 +1,7 @@
 ---
 name: "BMAD-METHOD"
 slug: "bmad-method"
+layout: agent.njk
 maker: "bmad-code-org"
 license: "NOASSERTION"
 url: "https://github.com/bmad-code-org/BMAD-METHOD"
@@ -16,7 +17,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "namphuong"
-layout: agent.njk
 ---
 
 - [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Open-source agentic agile framework with guided workflows from ideation to autonomous implementation.

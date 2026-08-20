@@ -1,6 +1,7 @@
 ---
 name: "zhin"
 slug: "zhin"
+layout: agent.njk
 maker: "zhinjs"
 license: "MIT"
 url: "https://github.com/zhinjs/zhin"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "http://zhin.js.org/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 AI-native TypeScript bot framework — one codebase for 20+ chat platforms (QQ, Discord, Telegram, Slack, WeChat…). Opt-in AI agent with MCP, tools & security policies. <10MB core.

@@ -1,6 +1,7 @@
 ---
 name: "agx"
 slug: "agx"
+layout: agent.njk
 maker: "ramarlina"
 license: null
 url: "https://github.com/ramarlina/agx"
@@ -17,7 +18,6 @@ language: "TypeScript"
 homepage: "https://www.runagx.com"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[agx](https://github.com/ramarlina/agx)** `⭐ 27` — Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume instantly across sessions. Supports Claude Code, Codex CLI, Gemini CLI, and Ollama. CLI + web dashboard + macOS app.

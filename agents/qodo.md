@@ -1,6 +1,7 @@
 ---
 name: "Qodo"
 slug: "qodo"
+layout: agent.njk
 maker: null
 license: null
 url: "https://www.qodo.ai/"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [Qodo](https://www.qodo.ai/) | AI code review. Context-aware PR validation. | Free / Enterprise |

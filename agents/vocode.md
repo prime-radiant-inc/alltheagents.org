@@ -1,6 +1,7 @@
 ---
 name: "Vocode"
 slug: "vocode"
+layout: agent.njk
 maker: "vocodedev"
 license: "MIT"
 url: "https://github.com/vocodedev/vocode-python"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://vocode.dev"
 sources:
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [Vocode](https://github.com/vocodedev/vocode-python) | OSS voice-based LLM agents. |

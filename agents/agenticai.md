@@ -1,6 +1,7 @@
 ---
 name: "Agenticai"
 slug: "agenticai"
+layout: agent.njk
 maker: null
 license: null
 url: "https://github.com/YasinOnline/AgenticAI"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Agenticai](https://github.com/YasinOnline/AgenticAI) - AgenticAI - A framework for building autonomous decision-making agents. It integrates reinforcement learning, NLP, and multi-agent systems…

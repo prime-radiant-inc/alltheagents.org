@@ -1,6 +1,7 @@
 ---
 name: "Grok CLI"
 slug: "grok-cli"
+layout: agent.njk
 maker: "superagent-ai"
 license: "MIT"
 url: "https://github.com/superagent-ai/grok-cli"
@@ -18,7 +19,6 @@ sources:
   - "jqueryscript"
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 An open-source terminal coding agent built for the Grok API with file, shell, and repository tools.

@@ -1,6 +1,7 @@
 ---
 name: "nehemiah"
 slug: "nehemiah"
+layout: agent.njk
 maker: "boringcomputers"
 license: "Apache-2.0"
 url: "https://github.com/boringcomputers/nehemiah"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://boringcomputers.com"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.

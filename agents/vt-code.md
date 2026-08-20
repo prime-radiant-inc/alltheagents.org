@@ -1,6 +1,7 @@
 ---
 name: "VT Code"
 slug: "vt-code"
+layout: agent.njk
 maker: "vinhnx"
 license: "Apache-2.0"
 url: "https://github.com/vinhnx/VTCode"
@@ -18,7 +19,6 @@ sources:
   - "jqueryscript"
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 A Rust terminal coding agent with repository understanding, native sandboxing, safety controls, and multi-provider support.

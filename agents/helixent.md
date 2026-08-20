@@ -1,6 +1,7 @@
 ---
 name: "helixent"
 slug: "helixent"
+layout: agent.njk
 maker: "MagicCube"
 license: null
 url: "https://github.com/MagicCube/helixent"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Helixent is a small library for building ReAct-style AI agent loops based on the Bun stack.

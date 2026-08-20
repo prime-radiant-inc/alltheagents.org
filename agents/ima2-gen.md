@@ -1,6 +1,7 @@
 ---
 name: "ima2-gen"
 slug: "ima2-gen"
+layout: agent.njk
 maker: "lidge-jun"
 license: "MIT"
 url: "https://github.com/lidge-jun/ima2-gen"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://lidge-jun.github.io/ima2-gen/"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Local-first visual generation runtime and studio for people and coding agents, with reproducible image and video workflows across multiple providers.

@@ -1,6 +1,7 @@
 ---
 name: "vibe-coding-guide"
 slug: "vibe-coding-guide"
+layout: agent.njk
 maker: "wendy7756"
 license: "Apache-2.0"
 url: "https://github.com/wendy7756/vibe-coding-guide"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Beginner’s Vibe Coding Guide. AI氛围编程指南 Natural Language Programming 自然语言编程

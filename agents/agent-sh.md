@@ -1,6 +1,7 @@
 ---
 name: "agent-sh"
 slug: "agent-sh"
+layout: agent.njk
 maker: "guanyilun"
 license: "MIT"
 url: "https://github.com/guanyilun/agent-sh"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://agent-sh.dev"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 A composable agent runtime — pair any frontend with any agent backend.

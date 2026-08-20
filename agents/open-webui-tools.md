@@ -1,6 +1,7 @@
 ---
 name: "Open-Webui-Tools"
 slug: "open-webui-tools"
+layout: agent.njk
 maker: "Haervwe"
 license: "MIT"
 url: "https://github.com/Haervwe/open-webui-tools"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Open-Webui-Tools](https://github.com/Haervwe/open-webui-tools) - a Repository of Open-WebUI tools to use with your favourite LLMs

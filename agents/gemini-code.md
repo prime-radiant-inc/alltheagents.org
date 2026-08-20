@@ -1,6 +1,7 @@
 ---
 name: "gemini-code"
 slug: "gemini-code"
+layout: agent.njk
 maker: "raizamartin"
 license: null
 url: "https://github.com/raizamartin/gemini-code"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Gemini 2.5 Pro code assistant

@@ -1,6 +1,7 @@
 ---
 name: "claude.vim"
 slug: "claudevim"
+layout: agent.njk
 maker: "pasky"
 license: "MIT"
 url: "https://github.com/pasky/claude.vim"
@@ -14,7 +15,6 @@ language: "Vim Script"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Claude vim plugin for AI pair programming - a hacker's gateway to LLMs

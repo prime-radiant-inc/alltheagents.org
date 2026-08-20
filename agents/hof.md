@@ -1,6 +1,7 @@
 ---
 name: "hof"
 slug: "hof"
+layout: agent.njk
 maker: "hofstadter-io"
 license: "Apache-2.0"
 url: "https://github.com/hofstadter-io/hof"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: "https://hofstadter.io"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 A developer experience centered on CUE. Unifies schemas, data models, deterministic and agentic code generation, workflow and task engine, dagger powered environments, coding assistant, and vscode extension; woven together on the CUE lattice. Squint harder if you can't see the cube :]

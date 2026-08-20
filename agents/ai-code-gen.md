@@ -1,6 +1,7 @@
 ---
 name: "Ai-Code-Gen"
 slug: "ai-code-gen"
+layout: agent.njk
 maker: "Farelart"
 license: null
 url: "https://github.com/Farelart/Ai-code-gen"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Ai-Code-Gen](https://github.com/Farelart/Ai-code-gen) - An ai agent to generate python unit test

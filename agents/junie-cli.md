@@ -1,6 +1,7 @@
 ---
 name: "Junie CLI"
 slug: "junie-cli"
+layout: agent.njk
 maker: null
 license: null
 url: "https://junie.jetbrains.com"
@@ -18,7 +19,6 @@ homepage: null
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[Junie CLI](https://junie.jetbrains.com)** `[JetBrains]` — JetBrains' LLM-agnostic CLI coding agent (EAP); supports GPT-5, Claude, Gemini, Grok with plan mode and CI/CD headless usage.

@@ -1,6 +1,7 @@
 ---
 name: "Sc-Helm-App"
 slug: "sc-helm-app"
+layout: agent.njk
 maker: "amsilf"
 license: null
 url: "https://github.com/amsilf/sc-helm-app"
@@ -14,7 +15,6 @@ language: "Smarty"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Sc-Helm-App](https://github.com/amsilf/sc-helm-app) - This repository contains a simple Helm chart for deploying a "Hello World" Nginx application, along with Open Policy Agent (OPA) rules fo…

@@ -1,6 +1,7 @@
 ---
 name: "Smelt"
 slug: "smelt"
+layout: agent.njk
 maker: "leonardcser"
 license: "MIT"
 url: "https://github.com/leonardcser/smelt"
@@ -18,7 +19,6 @@ homepage: "https://leonardcser.github.io/smelt/"
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[Smelt](https://github.com/leonardcser/smelt)** `⭐ 39` — Rust TUI coding agent; multi-provider (Anthropic, OpenAI, Ollama, GitHub Copilot, any OpenAI-compatible endpoint), four modes (Normal/Plan/Apply/Yolo), granular permission system, parallel subagents, vim keybindings, and headless scriptable mode. MIT.

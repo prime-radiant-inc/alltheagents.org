@@ -1,6 +1,7 @@
 ---
 name: "clodex-ide"
 slug: "clodex-ide"
+layout: agent.njk
 maker: "mereyabdenbekuly-ctrl"
 license: "AGPL-3.0"
 url: "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://ide.clodex.xyz"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Local-first, zero-trust agentic IDE for verifiable autonomous software development.

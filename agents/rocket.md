@@ -1,6 +1,7 @@
 ---
 name: "Rocket"
 slug: "rocket"
+layout: agent.njk
 maker: "Rocket"
 license: "Proprietary"
 url: "https://www.rocketai.app"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI app builder for creating web applications from natural language

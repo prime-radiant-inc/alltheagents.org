@@ -1,6 +1,7 @@
 ---
 name: "Codeium"
 slug: "codeium"
+layout: agent.njk
 maker: null
 license: null
 url: "https://www.codeium.com"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "brandonhimpfen"
-layout: agent.njk
 ---
 
 - [Codeium](https://www.codeium.com) — AI coding assistant with autocomplete and chat capabilities.

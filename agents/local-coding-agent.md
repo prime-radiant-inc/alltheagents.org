@@ -1,6 +1,7 @@
 ---
 name: "local-coding-agent"
 slug: "local-coding-agent"
+layout: agent.njk
 maker: "LongNgn204"
 license: "AGPL-3.0"
 url: "https://github.com/LongNgn204/local-coding-agent"
@@ -16,7 +17,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Local MCP coding agent for ChatGPT Web: run files/commands on your own machine via the OpenAI Secure Tunnel, with a Windows tray app and metrics dashboard.

@@ -1,6 +1,7 @@
 ---
 name: "Dagger"
 slug: "dagger"
+layout: agent.njk
 maker: "dagger"
 license: "Apache-2.0"
 url: "https://github.com/dagger/dagger"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: "https://dagger.io"
 sources:
   - "namphuong"
-layout: agent.njk
 ---
 
 - [Dagger](https://github.com/dagger/dagger) - Containerized pipelines as code (TypeScript/Go/Python) that run locally, in CI, or cloud.

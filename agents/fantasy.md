@@ -1,6 +1,7 @@
 ---
 name: "Fantasy"
 slug: "fantasy"
+layout: agent.njk
 maker: "charmbracelet"
 license: "Apache-2.0"
 url: "https://github.com/charmbracelet/fantasy"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: null
 sources:
   - "author_search"
-layout: agent.njk
 ---
 
 Build AI agents with Go. Multiple providers, multiple models, one API. 🧙

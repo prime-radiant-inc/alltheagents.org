@@ -1,6 +1,7 @@
 ---
 name: "Nous"
 slug: "nous"
+layout: agent.njk
 maker: "TrafficGuard"
 license: "MIT"
 url: "https://github.com/TrafficGuard/nous"
@@ -16,7 +17,6 @@ homepage: "https://typedai.dev"
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [Nous](https://github.com/TrafficGuard/nous) - TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more. [github](https://github.com/TrafficGuard/nous)

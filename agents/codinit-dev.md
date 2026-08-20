@@ -1,6 +1,7 @@
 ---
 name: "codinit-dev"
 slug: "codinit-dev"
+layout: agent.njk
 maker: "codinit-dev"
 license: "MIT"
 url: "https://github.com/codinit-dev/codinit-dev"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://codinit.dev/download"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Local-First Open Source web & mobile AI app builder — install on MacOS, Windows & Linux

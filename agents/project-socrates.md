@@ -1,6 +1,7 @@
 ---
 name: "Project-S.O.C.R.A.T.E.S."
 slug: "project-socrates"
+layout: agent.njk
 maker: null
 license: null
 url: "https://github.com/Hams-Ollo/Project-S.O.C.R.A.T.E.S."
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Project-S.O.C.R.A.T.E.S.](https://github.com/Hams-Ollo/Project-S.O.C.R.A.T.E.S.) - 🤖 Advanced Multi-Agent AI Template - Production-ready system combining Groq's speed with LangChain's flexibility. Features RAG, document p…

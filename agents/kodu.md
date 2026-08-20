@@ -1,6 +1,7 @@
 ---
 name: "Kodu"
 slug: "kodu"
+layout: agent.njk
 maker: "kodu-ai"
 license: "Source Available"
 url: "https://github.com/kodu-ai/claude-coder"
@@ -19,7 +20,6 @@ sources:
   - "quome"
   - "quome"
   - "quome"
-layout: agent.njk
 ---
 
 An autonomous VS Code agent that builds projects through code edits, terminal commands, browser interaction, and iterative feedback.

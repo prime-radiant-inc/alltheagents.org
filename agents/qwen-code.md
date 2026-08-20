@@ -1,6 +1,7 @@
 ---
 name: "Qwen Code"
 slug: "qwen-code"
+layout: agent.njk
 maker: "QwenLM"
 license: "Apache-2.0"
 url: "https://github.com/QwenLM/qwen-code"
@@ -19,7 +20,6 @@ sources:
   - "brad"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 A terminal coding agent from the Qwen team with repository editing, shell tools, MCP support, and headless operation.

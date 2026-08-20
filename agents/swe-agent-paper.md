@@ -1,6 +1,7 @@
 ---
 name: "SWE-agent Paper"
 slug: "swe-agent-paper"
+layout: agent.njk
 maker: null
 license: null
 url: "https://arxiv.org/abs/2405.15793"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "brandonhimpfen"
-layout: agent.njk
 ---
 
 - [SWE-agent Paper](https://arxiv.org/abs/2405.15793) — Language agents solving real GitHub issues.

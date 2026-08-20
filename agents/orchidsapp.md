@@ -1,6 +1,7 @@
 ---
 name: "Orchids.app"
 slug: "orchidsapp"
+layout: agent.njk
 maker: "Orchids"
 license: "Proprietary"
 url: "https://orchids.app"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI development tool for building applications

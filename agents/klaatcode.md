@@ -1,6 +1,7 @@
 ---
 name: "klaatcode"
 slug: "klaatcode"
+layout: agent.njk
 maker: "KlaatAI"
 license: "NOASSERTION"
 url: "https://github.com/KlaatAI/klaatcode"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://klaatai.com"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.

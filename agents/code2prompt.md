@@ -1,6 +1,7 @@
 ---
 name: "Code2Prompt"
 slug: "code2prompt"
+layout: agent.njk
 maker: "mufeedvh"
 license: "MIT"
 url: "https://github.com/mufeedvh/code2prompt"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: "https://code2prompt.dev"
 sources:
   - "namphuong"
-layout: agent.njk
 ---
 
 - [Code2Prompt](https://github.com/mufeedvh/code2prompt) - Fast CLI that converts a codebase into LLM-friendly prompts with token counts.

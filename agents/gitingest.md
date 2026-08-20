@@ -1,6 +1,7 @@
 ---
 name: "GitIngest"
 slug: "gitingest"
+layout: agent.njk
 maker: "coderamp-labs"
 license: "MIT"
 url: "https://github.com/coderamp-labs/gitingest"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://gitingest.com"
 sources:
   - "namphuong"
-layout: agent.njk
 ---
 
 - [GitIngest](https://github.com/coderamp-labs/gitingest) - Lightweight tool that prepares Git repositories for LLM context windows.

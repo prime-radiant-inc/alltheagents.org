@@ -1,6 +1,7 @@
 ---
 name: "postal"
 slug: "postal"
+layout: agent.njk
 maker: "andrefetch"
 license: "GPL-3.0"
 url: "https://github.com/andrefetch/postal"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://postalcli.vercel.app"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 An open-source, terminal-based AI coding agent that reads your code, calls tools, and helps you build.

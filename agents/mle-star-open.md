@@ -1,6 +1,7 @@
 ---
 name: "MLE-STAR-Open"
 slug: "mle-star-open"
+layout: agent.njk
 maker: "WalkingDevFlag"
 license: null
 url: "https://github.com/WalkingDevFlag/MLE-STAR-Open"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Unofficial, Google‑free reimplementation of MLE‑STAR: a lightweight, local‑friendly multi‑agent ML engineering pipeline that uses OpenAI‑compatible LLMs (OpenRouter/Ollama) and DuckDuckGo search to generate, debug, refine, ensemble, and submit Kaggle‑ready solutions—AutoML for tabular tasks with code generation and iterative refinement.

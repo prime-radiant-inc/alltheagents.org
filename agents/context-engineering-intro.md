@@ -1,6 +1,7 @@
 ---
 name: "context-engineering-intro"
 slug: "context-engineering-intro"
+layout: agent.njk
 maker: "coleam00"
 license: "MIT"
 url: "https://github.com/coleam00/context-engineering-intro"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!

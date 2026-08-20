@@ -1,6 +1,7 @@
 ---
 name: "Aimultiagents"
 slug: "aimultiagents"
+layout: agent.njk
 maker: "hesamjafarian"
 license: null
 url: "https://github.com/hesamjafarian/AiMultiAgents"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Aimultiagents](https://github.com/hesamjafarian/AiMultiAgents) - This is a repository for testing ai algorithms using game simulation. It is used for python 2.7

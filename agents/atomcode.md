@@ -1,6 +1,7 @@
 ---
 name: "atomcode"
 slug: "atomcode"
+layout: agent.njk
 maker: "atomgit-atomcode"
 license: "MIT"
 url: "https://github.com/atomgit-atomcode/atomcode"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: "https://atomcode.atomgit.com/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 An open-source alternative to Claude Code. Connect any LLM, edit code, run commands, and verify changes — autonomously. Built in Rust for speed.  Get Started

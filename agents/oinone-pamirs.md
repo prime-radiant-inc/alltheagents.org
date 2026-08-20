@@ -1,6 +1,7 @@
 ---
 name: "oinone-pamirs"
 slug: "oinone-pamirs"
+layout: agent.njk
 maker: "oinone"
 license: "AGPL-3.0"
 url: "https://github.com/oinone/oinone-pamirs"
@@ -14,7 +15,6 @@ language: "Java"
 homepage: "https://oinone.ai"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Oinone is an AI‑Powered low‑code framework that unifies AI and developers around a shared metadata model to build maintainable, evolvable, high‑quality enterprise intelligent applications.[AI Coding][Vibe Coding][Framework][Low Code]

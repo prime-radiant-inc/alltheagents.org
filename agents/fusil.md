@@ -1,6 +1,7 @@
 ---
 name: "fusil"
 slug: "fusil"
+layout: agent.njk
 maker: "devdanzin"
 license: "GPL-2.0"
 url: "https://github.com/devdanzin/fusil"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Fusil is a multi-agent Python library used to write fuzzing programs

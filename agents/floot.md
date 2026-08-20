@@ -1,6 +1,7 @@
 ---
 name: "Floot"
 slug: "floot"
+layout: agent.njk
 maker: null
 license: null
 url: "https://floot.com/"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "flatlogic"
-layout: agent.njk
 ---
 
 Platform for non-coders to build apps and websites using AI

@@ -1,6 +1,7 @@
 ---
 name: "run-kit"
 slug: "run-kit"
+layout: agent.njk
 maker: "sahil87"
 license: "MIT"
 url: "https://github.com/sahil87/run-kit"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://shll.ai/run-kit"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[run-kit](https://github.com/sahil87/run-kit)** `⭐ 56` — Remote, phone-first web console for tmux: spawn and watch coding agents in parallel git worktrees, agent-agnostic and no database, with push notifications and local-port proxying to your browser. Go, MIT.

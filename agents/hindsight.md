@@ -1,6 +1,7 @@
 ---
 name: "Hindsight"
 slug: "hindsight"
+layout: agent.njk
 maker: "vectorize-io"
 license: "MIT"
 url: "https://github.com/vectorize-io/hindsight"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "author_search"
-layout: agent.njk
 ---
 
 Hindsight: Agent Memory That  Learns

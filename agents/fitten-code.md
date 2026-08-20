@@ -1,6 +1,7 @@
 ---
 name: "Fitten Code"
 slug: "fitten-code"
+layout: agent.njk
 maker: "Fitten Tech"
 license: "Proprietary"
 url: "https://code.fittentech.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Chinese AI code completion tool with local model support and free tier

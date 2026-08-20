@@ -1,6 +1,7 @@
 ---
 name: "pagecast"
 slug: "pagecast"
+layout: agent.njk
 maker: "Amal-David"
 license: "MIT"
 url: "https://github.com/Amal-David/pagecast"
@@ -16,7 +17,6 @@ language: "JavaScript"
 homepage: "https://pagecasthq.pages.dev"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Publish HTML, Markdown and static mini apps to shareable Cloudflare Pages URLs from the terminal or coding agents.

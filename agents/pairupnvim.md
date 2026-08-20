@@ -1,6 +1,7 @@
 ---
 name: "pairup.nvim"
 slug: "pairupnvim"
+layout: agent.njk
 maker: "Piotr1215"
 license: "MIT"
 url: "https://github.com/Piotr1215/pairup.nvim"
@@ -14,7 +15,6 @@ language: "Lua"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 AI Pair Programming in Neovim

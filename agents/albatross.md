@@ -1,6 +1,7 @@
 ---
 name: "Albatross"
 slug: "albatross"
+layout: agent.njk
 maker: "morganlinton"
 license: "MIT"
 url: "https://github.com/morganlinton/Albatross"
@@ -16,7 +17,6 @@ language: "Rust"
 homepage: "https://albatross.sh"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box.

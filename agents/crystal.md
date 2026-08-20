@@ -1,6 +1,7 @@
 ---
 name: "Crystal"
 slug: "crystal"
+layout: agent.njk
 maker: "stravu"
 license: "MIT"
 url: "https://github.com/stravu/crystal"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://nimbalyst.com/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Crystal](https://github.com/stravu/crystal)** `⭐ 3.1k` — Execute multiple Codex and Claude Code sessions in parallel git worktrees.

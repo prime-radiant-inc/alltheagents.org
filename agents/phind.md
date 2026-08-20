@@ -1,6 +1,7 @@
 ---
 name: "Phind"
 slug: "phind"
+layout: agent.njk
 maker: null
 license: null
 url: "https://www.phind.com/"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "e2b"
-layout: agent.njk
 ---
 
 - Phind is an AI search engine and pair programmer

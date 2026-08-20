@@ -1,6 +1,7 @@
 ---
 name: "CodingIT"
 slug: "codingit"
+layout: agent.njk
 maker: "Gerome-Elassaad"
 license: "Apache-2.0"
 url: "https://github.com/Gerome-Elassaad/CodingIT"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://codingit.vercel.app"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 CodinIT.dev Demo | Open-source, AI app builder prototype 🌟 Star to support the project!

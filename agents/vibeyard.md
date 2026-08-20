@@ -1,6 +1,7 @@
 ---
 name: "vibeyard"
 slug: "vibeyard"
+layout: agent.njk
 maker: "elirantutia"
 license: "MIT"
 url: "https://github.com/elirantutia/vibeyard"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 The IDE built for AI coding agents.

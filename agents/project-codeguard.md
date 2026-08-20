@@ -1,6 +1,7 @@
 ---
 name: "project-codeguard"
 slug: "project-codeguard"
+layout: agent.njk
 maker: "cosai-oasis"
 license: "NOASSERTION"
 url: "https://github.com/cosai-oasis/project-codeguard"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://project-codeguard.org/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Project CodeGuard is an open-source, model-agnostic security framework that embeds secure-by-default practices into AI coding agent workflows. It provides comprehensive security rules that guide AI assistants to generate more secure code automatically.

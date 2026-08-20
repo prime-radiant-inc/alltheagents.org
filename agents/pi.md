@@ -1,6 +1,7 @@
 ---
 name: "Pi"
 slug: "pi"
+layout: agent.njk
 maker: "earendil-works"
 license: "MIT"
 url: "https://github.com/earendil-works/pi"
@@ -20,7 +21,6 @@ sources:
   - "ishandutta"
   - "tiennm"
   - "tiennm"
-layout: agent.njk
 ---
 
 A compact terminal coding agent with a unified model API, tool execution, extensions, and a programmable agent loop.

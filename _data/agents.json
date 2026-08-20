@@ -1374,7 +1374,7 @@
   },
   {
     "name": "claude-code",
-    "slug": "claude-code",
+    "slug": "claude-code-skeleton",
     "maker": "yasasbanukaofficial",
     "license": null,
     "url": "https://github.com/yasasbanukaofficial/claude-code",
@@ -10326,7 +10326,7 @@
   },
   {
     "name": "Orca",
-    "slug": "orca-2",
+    "slug": "orca-orchestrator",
     "maker": "junkyard22",
     "license": "NOASSERTION",
     "url": "https://github.com/junkyard22/Orca",
@@ -12047,7 +12047,7 @@
   },
   {
     "name": "Claude Code",
-    "slug": "claude-code-2",
+    "slug": "claude-code",
     "maker": "anthropics",
     "license": "Closed Source",
     "url": "https://github.com/anthropics/claude-code",

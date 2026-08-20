@@ -1,6 +1,7 @@
 ---
 name: "Kimi Code CLI"
 slug: "kimi-code-cli"
+layout: agent.njk
 maker: "MoonshotAI"
 license: "Apache-2.0"
 url: "https://github.com/MoonshotAI/kimi-cli"
@@ -17,7 +18,6 @@ sources:
   - "jqueryscript"
   - "jqueryscript"
   - "brad"
-layout: agent.njk
 ---
 
 Moonshot AI's terminal coding agent with repository tools, skills, MCP support, and IDE connectivity through ACP.

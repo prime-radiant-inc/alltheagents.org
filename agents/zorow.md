@@ -1,6 +1,7 @@
 ---
 name: "Zorow"
 slug: "zorow"
+layout: agent.njk
 maker: "openmainframeproject"
 license: "Apache-2.0"
 url: "https://github.com/openmainframeproject/zorow"
@@ -14,7 +15,6 @@ language: "REXX"
 homepage: "https://www.openmainframeproject.org/projects/zorow"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Zorow](https://github.com/openmainframeproject/zorow) - z/OS Open Repository of Workflows (zorow), is an open source community dedicated to contributing and collaborating on z/OSMF workflows.

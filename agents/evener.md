@@ -1,6 +1,7 @@
 ---
 name: "Evener"
 slug: "evener"
+layout: agent.njk
 maker: "prime-radiant-inc"
 license: "MIT"
 url: "https://github.com/prime-radiant-inc/evener"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: null
 sources:
   - "user_reported"
-layout: agent.njk
 ---
 
 A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.

@@ -1,6 +1,7 @@
 ---
 name: "pi-coding-agent-action"
 slug: "pi-coding-agent-action"
+layout: agent.njk
 maker: "shaftoe"
 license: "MIT"
 url: "https://github.com/shaftoe/pi-coding-agent-action"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 GitHub action to integrate https://pi.dev/ coding agent with GitHub-compatible CI/CD, issues and PRs

@@ -1,6 +1,7 @@
 ---
 name: "Claurst"
 slug: "claurst"
+layout: agent.njk
 maker: "Kuberwastaken"
 license: "GPL-3.0"
 url: "https://github.com/Kuberwastaken/claurst"
@@ -15,7 +16,6 @@ homepage: "https://claurst.kuber.studio/"
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[Claurst](https://github.com/Kuberwastaken/claurst)** `⭐ 10.2k` — Claude Code rewritten in idiomatic Rust with architectural breakdown; includes discoveries from the source leak (KAIROS persistent assistant, buddy system). MIT.

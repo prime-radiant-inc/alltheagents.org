@@ -1,6 +1,7 @@
 ---
 name: "Coro Code"
 slug: "coro-code"
+layout: agent.njk
 maker: "Blushyes"
 license: null
 url: "https://github.com/Blushyes/coro-code"
@@ -16,7 +17,6 @@ homepage: "https://sofast.fun"
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[Coro Code](https://github.com/Blushyes/coro-code)** `⭐ 368` — Open-source CLI coding agent, a free alternative to Claude Code; generate, debug, and manage code seamlessly.

@@ -1,6 +1,7 @@
 ---
 name: "biscuit"
 slug: "biscuit"
+layout: agent.njk
 maker: "tomlin7"
 license: "MIT"
 url: "https://github.com/tomlin7/biscuit"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://biscuit.tomlin7.com"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 biscuit is a native, extensible, AI code editor. lightweight <20 mb in size. install and start using in seconds.

@@ -1,6 +1,7 @@
 ---
 name: "DeepSeek Coder"
 slug: "deepseek-coder"
+layout: agent.njk
 maker: "DeepSeek"
 license: "MIT"
 url: "https://github.com/deepseek-ai/DeepSeek-Coder"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Open-source code generation model from DeepSeek

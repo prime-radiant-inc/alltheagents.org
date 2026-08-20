@@ -1,6 +1,7 @@
 ---
 name: "CoreCoder"
 slug: "corecoder"
+layout: agent.njk
 maker: "he-yufeng"
 license: "MIT"
 url: "https://github.com/he-yufeng/CoreCoder"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://pypi.org/project/corecoder/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.

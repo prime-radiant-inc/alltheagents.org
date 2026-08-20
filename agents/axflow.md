@@ -1,6 +1,7 @@
 ---
 name: "Axflow"
 slug: "axflow"
+layout: agent.njk
 maker: null
 license: null
 url: "https://axflow.dev/"
@@ -16,7 +17,6 @@ homepage: null
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [Axflow](https://axflow.dev/) - Axflow is a TypeScript framework designed for AI development, offering a modular collection of tools for building natural language applications, and it emphasizes a code-first approach to simplify the integration of LLMs into scalable solutions [website](https://axflow.dev/) | [github](https://github.com/axflow/axflow)

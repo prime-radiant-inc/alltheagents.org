@@ -1,6 +1,7 @@
 ---
 name: "Mql"
 slug: "mql"
+layout: agent.njk
 maker: "shurutech"
 license: "MIT"
 url: "https://github.com/shurutech/mql"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://shurutech.com/mql-sql-from-natural-language-with-85-accuracy/"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Mql](https://github.com/shurutech/mql) - MQL tool is designed to generate SQL queries directly from natural language inputs.

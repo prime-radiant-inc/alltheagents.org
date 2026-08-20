@@ -1,6 +1,7 @@
 ---
 name: "forgeo"
 slug: "forgeo"
+layout: agent.njk
 maker: "lucaGazzola"
 license: "MIT"
 url: "https://github.com/lucaGazzola/forgeo"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://forgeo.org"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 A scheduled, agent-driven software factory. Keep a plain JSON backlog; Forgeo runs your coding agent (Claude Code, Codex, opencode) on each task and commits to main. Refactors when idle. No branches, no PRs.

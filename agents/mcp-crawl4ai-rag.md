@@ -1,6 +1,7 @@
 ---
 name: "mcp-crawl4ai-rag"
 slug: "mcp-crawl4ai-rag"
+layout: agent.njk
 maker: "coleam00"
 license: "MIT"
 url: "https://github.com/coleam00/mcp-crawl4ai-rag"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistants

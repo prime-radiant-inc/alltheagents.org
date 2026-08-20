@@ -1,6 +1,7 @@
 ---
 name: "Blinky"
 slug: "blinky"
+layout: agent.njk
 maker: "seahyinghang8"
 license: "MIT"
 url: "https://github.com/seahyinghang8/blinky"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "e2b"
-layout: agent.njk
 ---
 
 - Blinky is an open-source AI debugging agent for VSCode that uses LLMs to help identify and fix backend code errors (inspired by SWE-agent). - Blinky leverages the VSCode API, Language Server Protocol (LSP), and print statement debugging to triangulate and address bugs in real-world backend systems.

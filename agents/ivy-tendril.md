@@ -1,6 +1,7 @@
 ---
 name: "Ivy Tendril"
 slug: "ivy-tendril"
+layout: agent.njk
 maker: "Ivy-Interactive"
 license: "NOASSERTION"
 url: "https://github.com/Ivy-Interactive/Ivy-Tendril"
@@ -15,7 +16,6 @@ language: "C#"
 homepage: "https://tendril.ivy.app"
 sources:
   - "namphuong"
-layout: agent.njk
 ---
 
 - [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source desktop app that orchestrates AI coding agents through a plan-based lifecycle.

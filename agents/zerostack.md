@@ -1,6 +1,7 @@
 ---
 name: "zerostack"
 slug: "zerostack"
+layout: agent.njk
 maker: "gi-dellav"
 license: "GPL-3.0"
 url: "https://github.com/gi-dellav/zerostack"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: "https://gi-dellav.github.io/zerostack/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Lightweight coding agent written in Rust, optimized for memory footprint and performance

@@ -1,6 +1,7 @@
 ---
 name: "Deep Agents Code"
 slug: "deep-agents-code"
+layout: agent.njk
 maker: "langchain-ai"
 license: "MIT"
 url: "https://github.com/langchain-ai/deepagents"
@@ -17,7 +18,6 @@ sources:
   - "jqueryscript"
   - "jqueryscript"
   - "brad"
-layout: agent.njk
 ---
 
 A terminal coding agent built on Deep Agents with file tools, shell access, subagents, planning, and approval controls.

@@ -1,6 +1,7 @@
 ---
 name: "Azure-AI-Engineer-Associate-Notes"
 slug: "azure-ai-engineer-associate-notes"
+layout: agent.njk
 maker: "kennethleungty"
 license: "Apache-2.0"
 url: "https://github.com/kennethleungty/Azure-AI-Engineer-Associate-Notes"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 Study Notes for Microsoft Azure AI Engineer Associate Examination (AI-102)

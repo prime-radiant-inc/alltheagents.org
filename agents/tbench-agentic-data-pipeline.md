@@ -1,6 +1,7 @@
 ---
 name: "tbench-agentic-data-pipeline"
 slug: "tbench-agentic-data-pipeline"
+layout: agent.njk
 maker: "Danau5tin"
 license: null
 url: "https://github.com/Danau5tin/tbench-agentic-data-pipeline"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Multi-agent synthetic data generation pipeline capable of generating and validating long horizon terminal/coding tasks for RL training

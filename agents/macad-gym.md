@@ -1,6 +1,7 @@
 ---
 name: "macad-gym"
 slug: "macad-gym"
+layout: agent.njk
 maker: "praveen-palanisamy"
 license: "MIT"
 url: "https://github.com/praveen-palanisamy/macad-gym"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://arxiv.org/abs/1911.04175"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Multi-Agent Connected Autonomous Driving (MACAD) Gym environments for Deep RL. Code for the paper presented in the Machine Learning for Autonomous Driving Workshop at NeurIPS 2019:

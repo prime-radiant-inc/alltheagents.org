@@ -1,6 +1,7 @@
 ---
 name: "dinotty"
 slug: "dinotty"
+layout: agent.njk
 maker: "xichan96"
 license: "MIT"
 url: "https://github.com/xichan96/dinotty"
@@ -17,7 +18,6 @@ language: "TypeScript"
 homepage: "https://xichan96.github.io/dinotty/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Multi-device terminal server for AI coding agents. Server-side VTE, session persistence, file browser, web preview, plugin system. Self-hosted.

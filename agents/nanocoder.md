@@ -1,6 +1,7 @@
 ---
 name: "Nanocoder"
 slug: "nanocoder"
+layout: agent.njk
 maker: "Nano-Collective"
 license: "Source Available"
 url: "https://github.com/Nano-Collective/nanocoder"
@@ -18,7 +19,6 @@ sources:
   - "jqueryscript"
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 A local-first terminal coding agent with bring-your-own-model support, tool calling, MCP, and file-based customization.

@@ -1,6 +1,7 @@
 ---
 name: "chatgpt-vscode"
 slug: "chatgpt-vscode"
+layout: agent.njk
 maker: "ai-genie"
 license: "ISC"
 url: "https://github.com/ai-genie/chatgpt-vscode"
@@ -15,7 +16,6 @@ language: "HTML"
 homepage: "https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Your best AI pair programmer in VS Code

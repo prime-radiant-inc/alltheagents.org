@@ -1,6 +1,7 @@
 ---
 name: "SymDex"
 slug: "symdex"
+layout: agent.njk
 maker: "husnainpk"
 license: "MIT"
 url: "https://github.com/husnainpk/SymDex"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Repo-local codebase oracle for AI coding agents. Exact symbol search, semantic search, routes, and call graphs across 16 languages, from Python and Go to Dart and Swift.

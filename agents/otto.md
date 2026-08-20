@@ -1,6 +1,7 @@
 ---
 name: "Otto"
 slug: "otto"
+layout: agent.njk
 maker: "Otto"
 license: "Open-source"
 url: "https://github.com/otto-ai/otto"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Autonomous software engineer that runs in the browser

@@ -1,6 +1,7 @@
 ---
 name: "cliclaw"
 slug: "cliclaw"
+layout: agent.njk
 maker: "choiyounggi"
 license: "MIT"
 url: "https://github.com/choiyounggi/cliclaw"
@@ -18,7 +19,6 @@ language: "TypeScript"
 homepage: "https://www.npmjs.com/package/@younggichoi/cliclaw"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[cliclaw](https://github.com/choiyounggi/cliclaw)** `⭐ 7` — macOS daemon to drive Claude Code, Codex, Gemini, and Pi from Telegram — an independent session per chat, a confirm gate for dangerous commands (bash/git/cloud deletes), and secret auto-masking. npm `@younggichoi/cliclaw`, TypeScript/Bun. MIT.

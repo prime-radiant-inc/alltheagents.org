@@ -1,6 +1,7 @@
 ---
 name: "Pieces for Developers"
 slug: "pieces-for-developers"
+layout: agent.njk
 maker: "Pieces"
 license: "Proprietary"
 url: "https://pieces.app"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI-powered code snippet management and developer productivity tool

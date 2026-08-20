@@ -1,6 +1,7 @@
 ---
 name: "Agentic Engineering Framework"
 slug: "agentic-engineering-framework"
+layout: agent.njk
 maker: "DimitriGeelen"
 license: "Apache-2.0"
 url: "https://github.com/DimitriGeelen/agentic-engineering-framework"
@@ -16,7 +17,6 @@ language: "Shell"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Agentic Engineering Framework](https://github.com/DimitriGeelen/agentic-engineering-framework)** `⭐ 13` — Provider-neutral governance framework for CLI coding agents. Structural enforcement of task-driven workflows, context budget management, antifragile healing loops, and audit compliance. Works with Claude Code, Aider, Cursor, and any file-based agent.

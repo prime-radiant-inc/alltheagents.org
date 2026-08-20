@@ -1,6 +1,7 @@
 ---
 name: "Galley"
 slug: "galley"
+layout: agent.njk
 maker: "shinpr"
 license: "MIT"
 url: "https://github.com/shinpr/galley"
@@ -16,7 +17,6 @@ language: "Go"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Galley](https://github.com/shinpr/galley)** `⭐ 17` — Local-first runtime for supervised AI coding tasks: isolated git worktrees, supervisor review against acceptance criteria, retry/escalate loops, on-disk run evidence, and PR handoff. Supports Codex CLI and Claude Code. Go, MIT.

@@ -1,6 +1,7 @@
 ---
 name: "SWE-Dev"
 slug: "swe-dev"
+layout: agent.njk
 maker: "THUDM"
 license: "MIT"
 url: "https://github.com/THUDM/SWE-Dev"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 [ACL25' Findings] SWE-Dev is an SWE agent with a scalable test case construction pipeline.

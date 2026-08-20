@@ -1,6 +1,7 @@
 ---
 name: "The-Creator-AI"
 slug: "the-creator-ai"
+layout: agent.njk
 maker: "The-Creator-AI"
 license: "MIT"
 url: "https://github.com/The-Creator-AI/The-Creator-AI"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://marketplace.visualstudio.com/items?itemName=PulkitSingh.the-creator-ai"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 AI Coding assistant for large and complex codebases.

@@ -1,6 +1,7 @@
 ---
 name: "WorkBuddy"
 slug: "workbuddy"
+layout: agent.njk
 maker: "Tencent"
 license: "Proprietary"
 url: "https://workbuddy.tencent.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Tencent's AI-native desktop agent workbench for office automation, code generation, and logic optimization

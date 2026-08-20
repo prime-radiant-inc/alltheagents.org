@@ -1,6 +1,7 @@
 ---
 name: "fireproof"
 slug: "fireproof"
+layout: agent.njk
 maker: "fireproof-storage"
 license: "Apache-2.0"
 url: "https://github.com/fireproof-storage/fireproof"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://use-fireproof.com"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 The vibe coding database runs in the browser, fits in the context window, and syncs anywhere.

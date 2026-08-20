@@ -1,6 +1,7 @@
 ---
 name: "OpenCursor"
 slug: "opencursor"
+layout: agent.njk
 maker: "PawanOsman"
 license: "MIT"
 url: "https://github.com/PawanOsman/OpenCursor"
@@ -16,7 +17,6 @@ homepage: "https://marketplace.visualstudio.com/items?itemName=pkrd.ocursor"
 sources:
   - "jqueryscript"
   - "jqueryscript"
-layout: agent.njk
 ---
 
 A VS Code coding agent with multi-provider models, agentic chat, semantic repository search, and MCP tools.

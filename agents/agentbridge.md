@@ -1,6 +1,7 @@
 ---
 name: "agentbridge"
 slug: "agentbridge"
+layout: agent.njk
 maker: "catatafishen"
 license: "Apache-2.0"
 url: "https://github.com/catatafishen/agentbridge"
@@ -15,7 +16,6 @@ language: "Java"
 homepage: "https://plugins.jetbrains.com/plugin/30415-agentbridge"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 JetBrains IDE plugin that gives AI coding agents full IDE access

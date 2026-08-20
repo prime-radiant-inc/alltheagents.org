@@ -1,6 +1,7 @@
 ---
 name: "Open Interpreter"
 slug: "open-interpreter"
+layout: agent.njk
 maker: "openinterpreter"
 license: "Apache-2.0"
 url: "https://github.com/openinterpreter/openinterpreter"
@@ -17,7 +18,6 @@ sources:
   - "jqueryscript"
   - "jqueryscript"
   - "ishandutta"
-layout: agent.njk
 ---
 
 A local terminal agent that writes and executes code to complete programming and computer tasks with open models.

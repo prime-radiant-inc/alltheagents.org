@@ -1,6 +1,7 @@
 ---
 name: "CodeLLMSurvey"
 slug: "codellmsurvey"
+layout: agent.njk
 maker: "juyongjiang"
 license: null
 url: "https://github.com/juyongjiang/CodeLLMSurvey"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 [TOSEM'25] The official GitHub page for the survey paper "A Survey on Large Language Models for Code Generation".

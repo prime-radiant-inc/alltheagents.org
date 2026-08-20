@@ -1,6 +1,7 @@
 ---
 name: "SWE-Debate"
 slug: "swe-debate"
+layout: agent.njk
 maker: "YerbaPage"
 license: "Apache-2.0"
 url: "https://github.com/YerbaPage/SWE-Debate"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution [ICSE 2026]

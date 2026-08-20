@@ -1,6 +1,7 @@
 ---
 name: "CodeAGI"
 slug: "codeagi"
+layout: agent.njk
 maker: "SOPPRA DX"
 license: "Proprietary"
 url: "https://soppradx.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Program auto-generation AI app

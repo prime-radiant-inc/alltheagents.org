@@ -1,6 +1,7 @@
 ---
 name: "Claude Agent SDK (TypeScript)"
 slug: "claude-agent-sdk-typescript"
+layout: agent.njk
 maker: "anthropics"
 license: null
 url: "https://github.com/anthropics/claude-agent-sdk-typescript"
@@ -14,7 +15,6 @@ language: "Shell"
 homepage: null
 sources:
   - "namphuong"
-layout: agent.njk
 ---
 
 - [Claude Agent SDK (TypeScript)](https://github.com/anthropics/claude-agent-sdk-typescript) - Anthropic's TypeScript SDK for building agents on the Claude Code agent loop.

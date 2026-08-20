@@ -1,6 +1,7 @@
 ---
 name: "looper"
 slug: "looper"
+layout: agent.njk
 maker: "nexu-io"
 license: "MIT"
 url: "https://github.com/nexu-io/looper"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 🔁 Run AI coding agents as an autonomous dev team across all your GitHub repos — plan, review, fix, and ship, on a loop.

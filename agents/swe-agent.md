@@ -1,6 +1,7 @@
 ---
 name: "SWE-agent"
 slug: "swe-agent"
+layout: agent.njk
 maker: "SWE-agent"
 license: "MIT"
 url: "https://github.com/SWE-agent/SWE-agent"
@@ -21,7 +22,6 @@ sources:
   - "brad"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 An autonomous software engineering agent that takes repository issues, inspects code, applies patches, and evaluates fixes.

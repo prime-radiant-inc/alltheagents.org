@@ -1,6 +1,7 @@
 ---
 name: "Speech-To-Code"
 slug: "speech-to-code"
+layout: agent.njk
 maker: "dharllc"
 license: null
 url: "https://github.com/dharllc/speech-to-code"
@@ -14,7 +15,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Speech-To-Code](https://github.com/dharllc/speech-to-code) - llm assisted development tools

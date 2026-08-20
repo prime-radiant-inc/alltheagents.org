@@ -1,6 +1,7 @@
 ---
 name: "Amp"
 slug: "amp"
+layout: agent.njk
 maker: null
 license: null
 url: "https://sourcegraph.com/amp"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Amp](https://sourcegraph.com/amp)** `[Sourcegraph]` — Sourcegraph's AI coding agent with a CLI for implementing tasks across real codebases.

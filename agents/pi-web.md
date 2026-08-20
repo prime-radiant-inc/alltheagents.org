@@ -1,6 +1,7 @@
 ---
 name: "pi-web"
 slug: "pi-web"
+layout: agent.njk
 maker: "jmfederico"
 license: "MIT"
 url: "https://github.com/jmfederico/pi-web"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://pi-web.dev/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Web UI for Pi Coding Agent that keeps sessions alive in real workspaces.

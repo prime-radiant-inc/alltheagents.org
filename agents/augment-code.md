@@ -1,6 +1,7 @@
 ---
 name: "Augment Code"
 slug: "augment-code"
+layout: agent.njk
 maker: "Augment Code"
 license: "Proprietary"
 url: "https://www.augmentcode.com"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Enterprise AI coding agent with 200K token context and deep codebase understanding

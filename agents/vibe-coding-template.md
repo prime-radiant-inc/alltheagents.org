@@ -1,6 +1,7 @@
 ---
 name: "vibe-coding-template"
 slug: "vibe-coding-template"
+layout: agent.njk
 maker: "humanstack"
 license: null
 url: "https://github.com/humanstack/vibe-coding-template"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Ultimate vibe coding full stack template with code context - Build better apps faster with less tokens with AI coding agents

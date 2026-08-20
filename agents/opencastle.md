@@ -1,6 +1,7 @@
 ---
 name: "OpenCastle"
 slug: "opencastle"
+layout: agent.njk
 maker: "monkilabs"
 license: "MIT"
 url: "https://github.com/monkilabs/opencastle"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "http://www.opencastle.dev/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[OpenCastle](https://github.com/monkilabs/opencastle)** `⭐ 61` — Multi-agent orchestration framework that turns AI coding assistants (Copilot, Cursor, Claude Code, OpenCode, Windsurf, Codex CLI) into 19 coordinated specialist agents. CLI-driven (`npx opencastle init`), with task decomposition, parallel work, and quality gates. MIT.

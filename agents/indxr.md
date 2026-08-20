@@ -1,6 +1,7 @@
 ---
 name: "indxr"
 slug: "indxr"
+layout: agent.njk
 maker: "bahdotsh"
 license: "MIT"
 url: "https://github.com/bahdotsh/indxr"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: "https://github.com/bahdotsh/indxr"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A fast codebase indexer and knowledge wiki for AI agents.

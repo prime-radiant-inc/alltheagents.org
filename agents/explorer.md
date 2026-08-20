@@ -1,6 +1,7 @@
 ---
 name: "Explorer"
 slug: "explorer"
+layout: agent.njk
 maker: "invariantlabs-ai"
 license: "Apache-2.0"
 url: "https://github.com/invariantlabs-ai/explorer"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://invariantlabs.ai/blog/explorer"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Explorer](https://github.com/invariantlabs-ai/explorer) - A better way of testing, inspecting, and analyzing AI Agent traces.

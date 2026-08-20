@@ -1,6 +1,7 @@
 ---
 name: "Stack AI"
 slug: "stack-ai"
+layout: agent.njk
 maker: "Stack AI"
 license: "Proprietary"
 url: "https://stack-ai.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI workflow builder with code generation capabilities

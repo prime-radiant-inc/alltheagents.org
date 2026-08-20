@@ -1,6 +1,7 @@
 ---
 name: "dream"
 slug: "dream"
+layout: agent.njk
 maker: "dreamide"
 license: "MIT"
 url: "https://github.com/dreamide/dream"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://dreamide.app"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Frontier IDE built for AI coding.

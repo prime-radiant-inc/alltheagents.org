@@ -1,6 +1,7 @@
 ---
 name: "project-os-for-codex"
 slug: "project-os-for-codex"
+layout: agent.njk
 maker: "herry2059"
 license: "Apache-2.0"
 url: "https://github.com/herry2059/project-os-for-codex"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Open-source control plane for Codex projects: Git-backed context, visible agent progress, scoped MCP access, resumable work, and safe handoffs.

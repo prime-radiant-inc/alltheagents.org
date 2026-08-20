@@ -1,6 +1,7 @@
 ---
 name: "core-termux"
 slug: "core-termux"
+layout: agent.njk
 maker: "DevCoreXOfficial"
 license: "MIT"
 url: "https://github.com/DevCoreXOfficial/core-termux"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: "https://devcorex-web.vercel.app/core-termux"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Turn Termux into a complete development workstation with AI coding agents, a modern code editor, databases, automation, and developer tools.

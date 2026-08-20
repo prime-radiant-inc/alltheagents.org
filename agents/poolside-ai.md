@@ -1,6 +1,7 @@
 ---
 name: "Poolside AI"
 slug: "poolside-ai"
+layout: agent.njk
 maker: "Poolside AI"
 license: "Proprietary"
 url: "https://poolside.ai"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI coding model and agent platform for software engineering

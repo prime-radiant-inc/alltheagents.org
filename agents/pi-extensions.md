@@ -1,6 +1,7 @@
 ---
 name: "pi-extensions"
 slug: "pi-extensions"
+layout: agent.njk
 maker: "ogulcancelik"
 license: "MIT"
 url: "https://github.com/ogulcancelik/pi-extensions"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Extensions for pi, the terminal-based coding agent

@@ -1,6 +1,7 @@
 ---
 name: "Create.xyz"
 slug: "createxyz"
+layout: agent.njk
 maker: null
 license: null
 url: "https://create.xyz/"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "flatlogic"
-layout: agent.njk
 ---
 
 No-code web app builder using AI from text/images

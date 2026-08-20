@@ -1,6 +1,7 @@
 ---
 name: "Cykel"
 slug: "cykel"
+layout: agent.njk
 maker: null
 license: null
 url: "https://www.cykel.ai/"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "e2b"
-layout: agent.njk
 ---
 
 Cykel is an AI co-pilot model that can interact with any UI, website or API in response to natural language commands - Use-case: General purpose, Personal assistant (helping with daily tasks)

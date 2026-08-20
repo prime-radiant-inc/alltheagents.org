@@ -1,6 +1,7 @@
 ---
 name: "plugins-coding-agents"
 slug: "plugins-coding-agents"
+layout: agent.njk
 maker: "UI5"
 license: "Apache-2.0"
 url: "https://github.com/UI5/plugins-coding-agents"
@@ -14,7 +15,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 SAPUI5 / OpenUI5 plugins for Coding Agents

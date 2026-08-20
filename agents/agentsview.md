@@ -1,6 +1,7 @@
 ---
 name: "AgentsView"
 slug: "agentsview"
+layout: agent.njk
 maker: "kenn-io"
 license: "MIT"
 url: "https://github.com/kenn-io/agentsview"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: null
 sources:
   - "author_search"
-layout: agent.njk
 ---
 
 Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.

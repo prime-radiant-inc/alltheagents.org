@@ -1,6 +1,7 @@
 ---
 name: "AgentScope"
 slug: "agentscope"
+layout: agent.njk
 maker: "agentscope-ai"
 license: "Apache-2.0"
 url: "https://github.com/modelscope/agentscope"
@@ -16,7 +17,6 @@ sources:
   - "jim"
   - "jim"
   - "caramaschi"
-layout: agent.njk
 ---
 
 - [AgentScope](https://github.com/modelscope/agentscope) - Start building LLM-empowered multi-agent applications in an easier way. [github](https://github.com/modelscope/agentscope)

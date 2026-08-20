@@ -1,6 +1,7 @@
 ---
 name: "Workflow-Dispatch"
 slug: "workflow-dispatch"
+layout: agent.njk
 maker: "benc-uk"
 license: "MIT"
 url: "https://github.com/benc-uk/workflow-dispatch"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Workflow-Dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event

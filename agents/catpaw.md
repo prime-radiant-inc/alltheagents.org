@@ -1,6 +1,7 @@
 ---
 name: "CatPaw"
 slug: "catpaw"
+layout: agent.njk
 maker: "CatPaw"
 license: "MIT"
 url: "https://github.com/catpaw-ai/catpaw"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Open-source AI coding agent

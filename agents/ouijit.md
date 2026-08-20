@@ -1,6 +1,7 @@
 ---
 name: "ouijit"
 slug: "ouijit"
+layout: agent.njk
 maker: "ouijit"
 license: "AGPL-3.0"
 url: "https://github.com/ouijit/ouijit"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://ouijit.com/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Git worktree-based task manager with integrated terminals for CLI coding agents

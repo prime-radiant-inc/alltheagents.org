@@ -1,6 +1,7 @@
 ---
 name: "Qoder"
 slug: "qoder"
+layout: agent.njk
 maker: "Qoder"
 license: "Proprietary"
 url: "https://qoder.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Multi-agent platform for real work with long-term delegation, memory and knowledge engine

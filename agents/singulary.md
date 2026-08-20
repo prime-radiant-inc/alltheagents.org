@@ -1,6 +1,7 @@
 ---
 name: "singulary"
 slug: "singulary"
+layout: agent.njk
 maker: "sammwyy"
 license: "MIT"
 url: "https://github.com/sammwyy/singulary"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Self-host your own AI app builder: FOSS v0/Lovable like.

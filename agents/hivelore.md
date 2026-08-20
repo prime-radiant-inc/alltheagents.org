@@ -1,6 +1,7 @@
 ---
 name: "Hivelore"
 slug: "hivelore"
+layout: agent.njk
 maker: "Doucs91"
 license: "Apache-2.0"
 url: "https://github.com/Doucs91/hivelore"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Hivelore](https://github.com/Doucs91/hivelore)** `⭐ 1` — Deterministic policy gate for agent-written code: a lesson captured via MCP (`mem_tried`) becomes a validated regex/AST/test guard that Git hooks and CI use to refuse any diff reintroducing the documented mistake; briefs any agent with the team's repo-specific rules over MCP. TypeScript CLI, npm (`@hivelore/cli`). Apache-2.0.

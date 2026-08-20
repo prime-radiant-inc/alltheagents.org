@@ -1,6 +1,7 @@
 ---
 name: "Mervelas"
 slug: "mervelas"
+layout: agent.njk
 maker: "swadhinbiswas"
 license: null
 url: "https://github.com/swadhinbiswas/Mervelas"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 An independent, high-performance AI coding CLI built with Bun and driven by free resources

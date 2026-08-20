@@ -1,6 +1,7 @@
 ---
 name: "cmux"
 slug: "cmux"
+layout: agent.njk
 maker: "manaflow-ai"
 license: "NOASSERTION"
 url: "https://github.com/manaflow-ai/cmux"
@@ -15,7 +16,6 @@ language: "Swift"
 homepage: null
 sources:
   - "author_search"
-layout: agent.njk
 ---
 
 Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.

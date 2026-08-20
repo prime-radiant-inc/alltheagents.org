@@ -1,6 +1,7 @@
 ---
 name: "Cody (Sourcegraph)"
 slug: "cody-sourcegraph"
+layout: agent.njk
 maker: null
 license: null
 url: "https://sourcegraph.com/cody"
@@ -19,7 +20,6 @@ sources:
   - "jim"
   - "caramaschi"
   - "vinkius"
-layout: agent.njk
 ---
 
 - [Cody](https://sourcegraph.com/cody) - Cody, an AI coding assistant, now offers an enterprise version with enhanced security, scalability, and control for organizations, supporting various IDEs and providing AI-powered autocomplete, chat assistance, and custom command capabilities [website](https://sourcegraph.com/cody) | [github](https://github.com/sourcegraph/cody)

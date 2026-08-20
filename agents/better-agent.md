@@ -1,6 +1,7 @@
 ---
 name: "Better Agent"
 slug: "better-agent"
+layout: agent.njk
 maker: "ofekron"
 license: "NOASSERTION"
 url: "https://github.com/ofekron/better-agent"
@@ -16,7 +17,6 @@ language: "Python"
 homepage: "https://ofek-dev.com/better-agent/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Better Agent](https://github.com/ofekron/better-agent)** `⭐ 55` — Local web workspace that launches and supervises native Claude, Codex, and Gemini CLI sessions with parallel delegation, persistent state, approval gates, file access, and restart recovery. Source-available; free for non-commercial use.

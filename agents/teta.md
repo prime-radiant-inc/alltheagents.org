@@ -1,6 +1,7 @@
 ---
 name: "teta"
 slug: "teta"
+layout: agent.njk
 maker: "ondateta"
 license: "AGPL-3.0"
 url: "https://github.com/ondateta/teta"
@@ -14,7 +15,6 @@ language: "Dart"
 homepage: "https://teta.so"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 The open source, AI-powered app builder

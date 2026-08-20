@@ -1,6 +1,7 @@
 ---
 name: "Command Code"
 slug: "command-code"
+layout: agent.njk
 maker: "CommandCodeAI"
 license: "Source Available"
 url: "https://github.com/CommandCodeAI/command-code"
@@ -17,7 +18,6 @@ sources:
   - "jqueryscript"
   - "jqueryscript"
   - "brad"
-layout: agent.njk
 ---
 
 A terminal coding agent for understanding repositories, making code changes, and running development commands with multiple models.

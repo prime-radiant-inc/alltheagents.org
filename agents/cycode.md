@@ -1,6 +1,7 @@
 ---
 name: "CyCode"
 slug: "cycode"
+layout: agent.njk
 maker: "vibe-cy"
 license: null
 url: "https://github.com/vibe-cy/CyCode"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 CyCode is a lightweight AI coding agent that runs in your terminal. It uses an OpenAI-compatible Chat Completions API and provides built-in tools for reading files, applying precise edits, searching code, running shell commands, and delegating work to sub-agents.

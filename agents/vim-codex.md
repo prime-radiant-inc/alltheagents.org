@@ -1,6 +1,7 @@
 ---
 name: "vim_codex"
 slug: "vim-codex"
+layout: agent.njk
 maker: "tom-doerr"
 license: "MIT"
 url: "https://github.com/tom-doerr/vim_codex"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Supercharge your Vim editor with AI-powered code completion using OpenAI Codex. Boost productivity and save time with intelligent suggestions.

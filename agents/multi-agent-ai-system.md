@@ -1,6 +1,7 @@
 ---
 name: "Multi-Agent-AI-System"
 slug: "multi-agent-ai-system"
+layout: agent.njk
 maker: "FareedKhan-dev"
 license: "MIT"
 url: "https://github.com/FareedKhan-dev/Multi-Agent-AI-System"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: "https://medium.com/@fareedkhandev/6cb70487cd81"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Building a Multi-Agent AI System with LangGraph and LangSmith

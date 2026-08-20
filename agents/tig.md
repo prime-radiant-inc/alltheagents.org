@@ -1,6 +1,7 @@
 ---
 name: "tig"
 slug: "tig"
+layout: agent.njk
 maker: "rsrohan99"
 license: null
 url: "https://github.com/rsrohan99/tig"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Terminal-based AI Coding Agent, similar to Claude Code, OpenAI Codex etc. but works with many more LLMs e.g. Gemini, Groq, Deepseek

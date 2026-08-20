@@ -1,6 +1,7 @@
 ---
 name: "CodeGenHelpers"
 slug: "codegenhelpers"
+layout: agent.njk
 maker: "dansiegel"
 license: "MIT"
 url: "https://github.com/dansiegel/CodeGenHelpers"
@@ -14,7 +15,6 @@ language: "C#"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 The CodeGenHelpers is meant to help anyone who is working on C# CodeGenerator

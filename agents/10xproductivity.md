@@ -1,6 +1,7 @@
 ---
 name: "10xProductivity"
 slug: "10xproductivity"
+layout: agent.njk
 maker: "ZhixiangLuo"
 license: "MIT"
 url: "https://github.com/ZhixiangLuo/10xProductivity"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://github.com/ZhixiangLuo/10xProductivity"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Personal AI assistant for work inside corporate constraints, built on coding agents and the tools, sessions, and permissions you already have.

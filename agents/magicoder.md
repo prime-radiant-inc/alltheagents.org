@@ -1,6 +1,7 @@
 ---
 name: "Magicoder"
 slug: "magicoder"
+layout: agent.njk
 maker: "ISE-UIUC"
 license: "MIT"
 url: "https://github.com/ise-uiuc/magicoder"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Open-source code generation model and agent

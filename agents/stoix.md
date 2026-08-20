@@ -1,6 +1,7 @@
 ---
 name: "Stoix"
 slug: "stoix"
+layout: agent.njk
 maker: "EdanToledo"
 license: "Apache-2.0"
 url: "https://github.com/EdanToledo/Stoix"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 🏛️A research-friendly codebase for fast experimentation of single-agent reinforcement learning in JAX • End-to-End JAX RL

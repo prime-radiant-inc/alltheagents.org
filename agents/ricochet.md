@@ -1,6 +1,7 @@
 ---
 name: "ricochet"
 slug: "ricochet"
+layout: agent.njk
 maker: "Grik-ai"
 license: "Apache-2.0"
 url: "https://github.com/Grik-ai/ricochet"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Ricochet is the first hybrid coding agent that lives in your IDE and your pocket. Code autonomously with a powerful VS Code assistant, then switch to Ether Mode to control your development environment remotely via messenger. Build, debug, and deploy from anywhere.

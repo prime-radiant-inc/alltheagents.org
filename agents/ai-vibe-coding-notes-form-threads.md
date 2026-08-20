@@ -1,6 +1,7 @@
 ---
 name: "ai-vibe-coding-notes-form-threads"
 slug: "ai-vibe-coding-notes-form-threads"
+layout: agent.njk
 maker: "nadinelipeiyu-jpg"
 license: null
 url: "https://github.com/nadinelipeiyu-jpg/ai-vibe-coding-notes-form-threads"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Claude Code & Vibe Coding 實戰 Tips — 從 Threads 社群整理的 50 條 AI 工具使用技巧，持續更新

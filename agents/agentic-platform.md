@@ -1,6 +1,7 @@
 ---
 name: "Agentic-Platform"
 slug: "agentic-platform"
+layout: agent.njk
 maker: null
 license: null
 url: "https://github.com/bonk1t/agentic-platform"
@@ -16,7 +17,6 @@ homepage: null
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [Agentic-Platform](https://github.com/bonk1t/agentic-platform) - AI Agent Automation Platform - Rapidly prototype, test, and deploy Multi-Agent Systems from your browser.

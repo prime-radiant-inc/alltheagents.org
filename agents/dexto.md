@@ -1,6 +1,7 @@
 ---
 name: "Dexto"
 slug: "dexto"
+layout: agent.njk
 maker: "truffle-ai"
 license: "Source Available"
 url: "https://github.com/truffle-ai/dexto"
@@ -19,7 +20,6 @@ sources:
   - "jqueryscript"
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 A coding agent with CLI and web modes, repository tools, subagent support, and configurable model providers.

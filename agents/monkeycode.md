@@ -1,6 +1,7 @@
 ---
 name: "MonkeyCode"
 slug: "monkeycode"
+layout: agent.njk
 maker: "chaitin"
 license: "AGPL-3.0"
 url: "https://github.com/chaitin/MonkeyCode"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://monkeycode-ai.net/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 AI coding platform for teams

@@ -1,6 +1,7 @@
 ---
 name: "Roo Code CLI"
 slug: "roo-code-cli"
+layout: agent.njk
 maker: "RooCodeInc"
 license: "Apache-2.0"
 url: "https://github.com/RooCodeInc/Roo-Code"
@@ -18,7 +19,6 @@ sources:
   - "brad"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 - **[Roo Code CLI](https://github.com/RooCodeInc/Roo-Code)** `⭐ 24.3k` — Multi-mode CLI agent (architect/code/debug/orchestrator modes); Claude-like terminal interface with skills and checkpoints.

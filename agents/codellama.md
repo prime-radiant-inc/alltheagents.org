@@ -1,6 +1,7 @@
 ---
 name: "CodeLlama"
 slug: "codellama"
+layout: agent.njk
 maker: "Meta AI"
 license: "MIT"
 url: "https://github.com/meta-ai/codellama"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Meta's open-source code generation model

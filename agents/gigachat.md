@@ -1,6 +1,7 @@
 ---
 name: "GigaChat"
 slug: "gigachat"
+layout: agent.njk
 maker: "Sber"
 license: "Proprietary"
 url: "https://gigachat.devices.sber.ru"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Sber's Russian AI assistant with code generation capabilities

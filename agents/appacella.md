@@ -1,6 +1,7 @@
 ---
 name: "Appacella"
 slug: "appacella"
+layout: agent.njk
 maker: "Appacella"
 license: "Proprietary"
 url: "https://appacella.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI app builder for creating applications from natural language

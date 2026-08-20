@@ -1,6 +1,7 @@
 ---
 name: "winx-code-agent"
 slug: "winx-code-agent"
+layout: agent.njk
 maker: "gabrielmaialva33"
 license: "MIT"
 url: "https://github.com/gabrielmaialva33/winx-code-agent"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: "https://crates.io/crates/winx-code-agent"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic capabilities.

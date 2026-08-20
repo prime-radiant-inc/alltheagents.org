@@ -1,6 +1,7 @@
 ---
 name: "am-i-vibing"
 slug: "am-i-vibing"
+layout: agent.njk
 maker: "ascorbic"
 license: null
 url: "https://github.com/ascorbic/am-i-vibing"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Detect agentic coding environments and AI editors

@@ -1,6 +1,7 @@
 ---
 name: "talkcody"
 slug: "talkcody"
+layout: agent.njk
 maker: "talkcody"
 license: "MIT"
 url: "https://github.com/talkcody/talkcody"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://talkcody.com"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 TalkCody - Code is cheap, show me your talk.  🚀 Free Open Source AI Coding Agent.

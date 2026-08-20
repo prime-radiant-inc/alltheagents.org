@@ -1,6 +1,7 @@
 ---
 name: "Promptengineering"
 slug: "promptengineering"
+layout: agent.njk
 maker: "DaleStewart"
 license: null
 url: "https://github.com/DaleStewart/PromptEngineering"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Promptengineering](https://github.com/DaleStewart/PromptEngineering) - A repository for Generative AI prompt's I've engineered

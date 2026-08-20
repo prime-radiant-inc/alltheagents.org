@@ -1,6 +1,7 @@
 ---
 name: "EasyCode"
 slug: "easycode"
+layout: agent.njk
 maker: "OrionStarAI"
 license: "Apache-2.0"
 url: "https://github.com/OrionStarAI/EasyCode"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://easycode.bot"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Easy Code (formerly DeepV Code) — A highly customizable AI coding assistant compatible with all major AI models. The perfect alternative to Claude Code and Codex, offering deep code analysis, intelligent suggestions, version rollback, multi-device sync, and automated testing across multiple languages and platforms.

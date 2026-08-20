@@ -92,6 +92,7 @@ module.exports = function(eleventyConfig) {
       layouts: "_layouts",
       data: "_data",
     },
+    pathPrefix: "/harness-census/",
     templateFormats: ["md", "njk", "html"],
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",

@@ -1,6 +1,7 @@
 ---
 name: "CodeReviewAgent"
 slug: "codereviewagent"
+layout: agent.njk
 maker: "gitbito"
 license: "MIT"
 url: "https://github.com/gitbito/CodeReviewAgent"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 On-demand, context-aware AI code reviews in your Git workflow or IDE as you code.

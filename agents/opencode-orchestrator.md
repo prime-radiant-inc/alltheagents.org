@@ -1,6 +1,7 @@
 ---
 name: "opencode-orchestrator"
 slug: "opencode-orchestrator"
+layout: agent.njk
 maker: "agnusdei1207"
 license: "MIT"
 url: "https://github.com/agnusdei1207/opencode-orchestrator"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://github.com/agnusdei1207/opencode-orchestrator/issues"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Opencode Plugin for AI-Agent Orchestration

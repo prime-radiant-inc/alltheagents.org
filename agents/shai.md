@@ -1,6 +1,7 @@
 ---
 name: "shai"
 slug: "shai"
+layout: agent.njk
 maker: "ovh"
 license: "Apache-2.0"
 url: "https://github.com/ovh/shai"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 shai is a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3

@@ -1,6 +1,7 @@
 ---
 name: "Auggie"
 slug: "auggie"
+layout: agent.njk
 maker: "augmentcode"
 license: "NOASSERTION"
 url: "https://github.com/augmentcode/auggie"
@@ -16,7 +17,6 @@ language: "Shell"
 homepage: "https://www.augmentcode.com/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Auggie](https://github.com/augmentcode/auggie)** `⭐ 270` `[Augment Code]` — Augment's agentic coding CLI; interactive terminal agent plus headless `--print` mode for CI, custom slash commands from `.augment/commands`, and official GitHub Actions for PR review. Proprietary; requires an active subscription.

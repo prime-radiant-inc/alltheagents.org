@@ -1,6 +1,7 @@
 ---
 name: "AetherStudio"
 slug: "aetherstudio"
+layout: agent.njk
 maker: "aetherstudio-cn"
 license: "MIT"
 url: "https://github.com/aetherstudio-cn/AetherStudio"
@@ -16,7 +17,6 @@ language: "Rust"
 homepage: "https://aetherstudio.cn"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 A lightweight code editor natively built for Windows, featuring instant launch, ultra-low latency, and deep AI integration, delivering a smooth and productive coding experience for developers.

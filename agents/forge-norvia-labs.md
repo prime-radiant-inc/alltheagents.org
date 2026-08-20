@@ -1,6 +1,7 @@
 ---
 name: "Forge (Norvia Labs)"
 slug: "forge-norvia-labs"
+layout: agent.njk
 maker: "NorviaLabs"
 license: "MIT"
 url: "https://github.com/NorviaLabs/forge"
@@ -16,7 +17,6 @@ language: "Rust"
 homepage: "https://forge.norvialabs.com"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Forge (Norvia Labs)](https://github.com/NorviaLabs/forge)** `⭐ 5` — Rust TUI coding agent unifying an AI agent, a vim-style code editor, and a shell in one keyboard-driven workspace; approval-aware command execution, durable SQLite session journal, and MCP server support. MIT.

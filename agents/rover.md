@@ -1,6 +1,7 @@
 ---
 name: "Rover"
 slug: "rover"
+layout: agent.njk
 maker: "Rover"
 license: "Proprietary"
 url: "https://www.getrover.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI coding assistant and code generation tool

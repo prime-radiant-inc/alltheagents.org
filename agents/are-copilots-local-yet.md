@@ -1,6 +1,7 @@
 ---
 name: "Are-Copilots-Local-Yet"
 slug: "are-copilots-local-yet"
+layout: agent.njk
 maker: "ErikBjare"
 license: "MIT"
 url: "https://github.com/ErikBjare/are-copilots-local-yet"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Are-Copilots-Local-Yet](https://github.com/ErikBjare/are-copilots-local-yet) - Are Copilots Local Yet? The frontier of local LLM Copilots for code completion, project generation, shell assistance, and more. Find tools …

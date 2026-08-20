@@ -1,6 +1,7 @@
 ---
 name: "codebadger"
 slug: "codebadger"
+layout: agent.njk
 maker: "Lekssays"
 license: "GPL-3.0"
 url: "https://github.com/Lekssays/codebadger"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://dl.acm.org/doi/pdf/10.1145/3786165.3788441"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 🦡 codebadger is a containerized Model Context Protocol (MCP) server that gives AI agents and LLMs deep, queryable access to a codebase's structure and data flow through Joern Code Property Graphs (CPGs).

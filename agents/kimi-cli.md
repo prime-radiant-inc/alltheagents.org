@@ -1,6 +1,7 @@
 ---
 name: "Kimi CLI"
 slug: "kimi-cli"
+layout: agent.njk
 maker: null
 license: null
 url: "https://kimi.ai"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "ishandutta"
-layout: agent.njk
 ---
 
 | **[Kimi CLI](https://kimi.ai)** | Moonshot AI's CLI coding agent with skills, MCP support, and ACP IDE integration. | Succeeded by Kimi Code CLI; support for MCP and ACP IDE integration. | [![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?style=social&color=white)](https://github.com/MoonshotAI/kimi-cli/stargazers) | BYO API Key (pay-as-you-go) or Kimi Membership (from ~$19/mo) | No Free Tier (Requires paid membership or API credits for coding agent usage) | **$20B** (Moonshot AI) |

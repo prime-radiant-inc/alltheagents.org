@@ -1,6 +1,7 @@
 ---
 name: "Awel"
 slug: "awel"
+layout: agent.njk
 maker: "MarsZ42"
 license: "Apache-2.0"
 url: "https://github.com/MarsZ42/Awel"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://awel.sh/"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 🌸 Local, Open Source AI agent/App Builder that lives inside your Next.js app

@@ -1,6 +1,7 @@
 ---
 name: "ref-tools-mcp"
 slug: "ref-tools-mcp"
+layout: agent.njk
 maker: "ref-tools"
 license: "MIT"
 url: "https://github.com/ref-tools/ref-tools-mcp"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "http://ref.tools"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Helping coding agents never make mistakes working with public or private libraries without wasting the context window.

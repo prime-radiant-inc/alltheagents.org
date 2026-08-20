@@ -1,6 +1,7 @@
 ---
 name: "Poke"
 slug: "poke"
+layout: agent.njk
 maker: "Poke AI"
 license: "Proprietary"
 url: "https://poke.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI coding agent tool

@@ -1,6 +1,7 @@
 ---
 name: "Potpie AI"
 slug: "potpie-ai"
+layout: agent.njk
 maker: "Potpie"
 license: "Proprietary"
 url: "https://potpie.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI coding assistant for building and deploying apps

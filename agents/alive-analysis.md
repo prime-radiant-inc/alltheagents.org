@@ -1,6 +1,7 @@
 ---
 name: "alive-analysis"
 slug: "alive-analysis"
+layout: agent.njk
 maker: "with-geun"
 license: "MIT"
 url: "https://github.com/with-geun/alive-analysis"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Data analysis workflow kit for AI coding agents. Structure your analysis with the ALIVE loop — Ask, Look, Investigate, Voice, Evolve.

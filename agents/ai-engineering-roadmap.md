@@ -1,6 +1,7 @@
 ---
 name: "Ai-Engineering-Roadmap"
 slug: "ai-engineering-roadmap"
+layout: agent.njk
 maker: "AgenticAiLabs"
 license: "MIT"
 url: "https://github.com/AgenticAiLabs/Ai-Engineering-Roadmap"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 Path to becoming a self-taught AI Engineer - a curated, open-source curriculum modeled after OSSU.

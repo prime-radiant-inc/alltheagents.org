@@ -1,6 +1,7 @@
 ---
 name: "Ai-Agent-Security"
 slug: "ai-agent-security"
+layout: agent.njk
 maker: "SecurityLab-UCD"
 license: null
 url: "https://github.com/SecurityLab-UCD/ai-agent-security"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://arxiv.org/pdf/2406.08689"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Ai-Agent-Security](https://github.com/SecurityLab-UCD/ai-agent-security) - This repository contains source code for the demos and attacks we present in our paper Security of AI Agents.

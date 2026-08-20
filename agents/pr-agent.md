@@ -1,6 +1,7 @@
 ---
 name: "PR-Agent"
 slug: "pr-agent"
+layout: agent.njk
 maker: "The-PR-Agent"
 license: "MIT"
 url: "https://github.com/Codium-ai/pr-agent"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://www.pr-agent.ai"
 sources:
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [PR-Agent](https://github.com/Codium-ai/pr-agent) | OSS AI PR reviewer. Auto-describe, review, improve. | Free (OSS) |

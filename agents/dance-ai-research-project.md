@@ -1,6 +1,7 @@
 ---
 name: "Dance-Ai-Research-Project"
 slug: "dance-ai-research-project"
+layout: agent.njk
 maker: "jzho987"
 license: "MIT"
 url: "https://github.com/jzho987/dance-ai-research-project"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Dance-Ai-Research-Project](https://github.com/jzho987/dance-ai-research-project) - The main repository for managing the research towards developing and deploying an interactive dance AI agent to research ML techniques an…

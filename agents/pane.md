@@ -1,6 +1,7 @@
 ---
 name: "Pane"
 slug: "pane"
+layout: agent.njk
 maker: "dcouple"
 license: "NOASSERTION"
 url: "https://github.com/dcouple/Pane"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://runpane.com/"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Terminal-first, open-source AI agent manager for any CLI agent (agent agnostic), any OS (mac, windows, linux). The Open-Source Agentic Development Environment for running multiple coding agents in parallel. Run locally or self-host Remote Pane to manage agents from desktop or phone. Simplify multi-agent orchestration with the runpane CLI.

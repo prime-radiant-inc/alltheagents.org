@@ -1,6 +1,7 @@
 ---
 name: "Agena"
 slug: "agena"
+layout: agent.njk
 maker: "aozyildirim"
 license: "MIT"
 url: "https://github.com/aozyildirim/Agena"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://agena.dev"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Agentic AI platform with pixel agent technology — autonomous code generation, PR automation & multi-tenant SaaS

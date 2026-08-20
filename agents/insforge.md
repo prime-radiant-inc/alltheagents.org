@@ -1,6 +1,7 @@
 ---
 name: "InsForge"
 slug: "insforge"
+layout: agent.njk
 maker: "InsForge"
 license: "Apache-2.0"
 url: "https://github.com/InsForge/InsForge"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://insforge.dev"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.

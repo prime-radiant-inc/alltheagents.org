@@ -1,6 +1,7 @@
 ---
 name: "Llm_Rag"
 slug: "llm-rag"
+layout: agent.njk
 maker: "dongdongunique"
 license: null
 url: "https://github.com/dongdongunique/LLM_RAG"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Llm_Rag](https://github.com/dongdongunique/LLM_RAG) - This repository implements a Retrieval-Augmented Generation (RAG) system using FAISS for vector-based retrieval and GPT for generative re…

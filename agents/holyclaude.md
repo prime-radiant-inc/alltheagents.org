@@ -1,6 +1,7 @@
 ---
 name: "HolyClaude"
 slug: "holyclaude"
+layout: agent.njk
 maker: "CoderLuii"
 license: "MIT"
 url: "https://github.com/CoderLuii/HolyClaude"
@@ -17,7 +18,6 @@ language: "JavaScript"
 homepage: "https://holyclaude.coderluii.dev"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools

@@ -1,6 +1,7 @@
 ---
 name: "codex-multi-agents"
 slug: "codex-multi-agents"
+layout: agent.njk
 maker: "violetDelia"
 license: null
 url: "https://github.com/violetDelia/codex-multi-agents"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 No description available.

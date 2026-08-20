@@ -1,6 +1,7 @@
 ---
 name: "PaperBanana-Pro"
 slug: "paperbanana-pro"
+layout: agent.njk
 maker: "elpsykongloo"
 license: "Apache-2.0"
 url: "https://github.com/elpsykongloo/PaperBanana-Pro"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Production-ready multi-agent academic illustration system with Chinese GUI, background generation, plot workbench, and portable result bundles. Extended from PaperBanana.

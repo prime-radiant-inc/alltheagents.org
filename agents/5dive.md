@@ -1,6 +1,7 @@
 ---
 name: "5dive"
 slug: "5dive"
+layout: agent.njk
 maker: "5dive-ai"
 license: "MIT"
 url: "https://github.com/5dive-ai/5dive"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: "https://5dive.ai"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[5dive](https://github.com/5dive-ai/5dive)** `⭐ 50` — Run a company of AI coding agents on a server you own: one-command spin-up of named agents (Claude Code, Codex, Grok, and more), cron + heartbeat scheduling, multi-agent orchestration, Telegram control, and a babysit + needs-you triage dashboard. Self-hosted. MIT.

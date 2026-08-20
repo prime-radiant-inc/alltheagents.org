@@ -1,6 +1,7 @@
 ---
 name: "enola"
 slug: "enola"
+layout: agent.njk
 maker: "enola-labs"
 license: "Apache-2.0"
 url: "https://github.com/enola-labs/enola"
@@ -14,7 +15,6 @@ language: "C"
 homepage: "https://enola.tech"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Architecture intelligence for developers, coding agents, and CI - understand codebases, analyze change impact, and catch architectural regressions.

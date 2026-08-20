@@ -1,6 +1,7 @@
 ---
 name: "MCPlato"
 slug: "mcplato"
+layout: agent.njk
 maker: "MCPlato"
 license: "Proprietary"
 url: "https://mcplato.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Agent OS and software engineer platform

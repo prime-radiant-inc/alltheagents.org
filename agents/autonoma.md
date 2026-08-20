@@ -1,6 +1,7 @@
 ---
 name: "Autonoma"
 slug: "autonoma"
+layout: agent.njk
 maker: "Sebasbo"
 license: "MIT"
 url: "https://github.com/Sebasbo/Autonoma"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Autonoma](https://github.com/Sebasbo/Autonoma) - Autonoma: Agentic AI-powered framework for autonomous code modification, analysis, and testing, streamlining software development workflo…

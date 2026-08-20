@@ -1,6 +1,7 @@
 ---
 name: "AppAgent"
 slug: "appagent"
+layout: agent.njk
 maker: "TencentQQGYLab"
 license: "MIT"
 url: "https://github.com/mnotgod96/AppAgent"
@@ -16,7 +17,6 @@ homepage: "https://appagent-official.github.io/"
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - AppAgent is a mobile-friendly LLM-based multimodal agent framework developed to operate smartphone apps, enabling human-like interactions for a wide range of applications without system back-end access [github](https://github.com/mnotgod96/AppAgent) | [github profile](https://github.com/mnotgod96)

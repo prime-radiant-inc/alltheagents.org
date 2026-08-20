@@ -1,6 +1,7 @@
 ---
 name: "ReCode"
 slug: "recode"
+layout: agent.njk
 maker: "FoundationAgents"
 license: "MIT"
 url: "https://github.com/FoundationAgents/ReCode"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Next paradigm for LLM Agent. Unify plan and action through recursive code generation for adaptive, human-like decision-making.

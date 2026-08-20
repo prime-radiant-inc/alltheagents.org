@@ -1,6 +1,7 @@
 ---
 name: "agentic-coding-basic"
 slug: "agentic-coding-basic"
+layout: agent.njk
 maker: "thixpin"
 license: "MIT"
 url: "https://github.com/thixpin/agentic-coding-basic"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 AGENTIC CODING Basic for Junior Developers

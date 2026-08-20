@@ -1,6 +1,7 @@
 ---
 name: "ospec"
 slug: "ospec"
+layout: agent.njk
 maker: "clawplays"
 license: "MIT"
 url: "https://github.com/clawplays/ospec"
@@ -16,7 +17,6 @@ language: "JavaScript"
 homepage: "https://ospec.ai"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Spec-driven, agentic workflow framework for AI coding agents. Turn a request into a verifiable goal loop — plan, act, verify — with durable specs and evidence in your repo. Works with Claude Code, Codex, Gemini, OpenCode, and plain CLI.

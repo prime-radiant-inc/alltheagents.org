@@ -1,6 +1,7 @@
 ---
 name: "AskCodi"
 slug: "askcodi"
+layout: agent.njk
 maker: "AskCodi"
 license: "Proprietary"
 url: "https://www.askcodi.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI coding assistant for code generation, review, and documentation

@@ -1,6 +1,7 @@
 ---
 name: "ExAgent"
 slug: "exagent"
+layout: agent.njk
 maker: "exqqstar"
 license: "Apache-2.0"
 url: "https://github.com/exqqstar/ExAgent"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 ExAgent monorepo: Rust agent runtime and Tauri desktop workbench.

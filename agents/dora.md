@@ -1,6 +1,7 @@
 ---
 name: "dora"
 slug: "dora"
+layout: agent.njk
 maker: "butttons"
 license: "MIT"
 url: "https://github.com/butttons/dora"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://dora-cli.dev"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 CLI built for AI agents to help navigate codebases better. An alternative to grep/find/glob

@@ -1,6 +1,7 @@
 ---
 name: "Codex CLI"
 slug: "codex-cli"
+layout: agent.njk
 maker: "openai"
 license: "Apache-2.0"
 url: "https://github.com/openai/codex"
@@ -20,7 +21,6 @@ sources:
   - "caramaschi"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 OpenAI's local coding agent for inspecting repositories, editing files, running commands, and completing development tasks.

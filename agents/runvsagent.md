@@ -1,6 +1,7 @@
 ---
 name: "RunVSAgent"
 slug: "runvsagent"
+layout: agent.njk
 maker: "wecode-ai"
 license: "Apache-2.0"
 url: "https://github.com/wecode-ai/RunVSAgent"
@@ -15,7 +16,6 @@ language: "Kotlin"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment.

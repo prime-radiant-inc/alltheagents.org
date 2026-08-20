@@ -1,6 +1,7 @@
 ---
 name: "gptme"
 slug: "gptme"
+layout: agent.njk
 maker: "gptme"
 license: "MIT"
 url: "https://github.com/gptme/gptme"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "author_search"
-layout: agent.njk
 ---
 
 Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!

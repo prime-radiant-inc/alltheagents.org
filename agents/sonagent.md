@@ -1,6 +1,7 @@
 ---
 name: "SonAgent"
 slug: "sonagent"
+layout: agent.njk
 maker: "sonnhfit"
 license: "MIT"
 url: "https://github.com/sonnhfit/SonAgent"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://sonagent.readthedocs.io"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Self-Repairing Autonomous Agent for Digital Consciousness Backup Using Large Language Models (LLM) and  powerful code generation capability, self-editing source code and self-debugging its own source code

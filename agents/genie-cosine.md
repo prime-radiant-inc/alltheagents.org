@@ -1,6 +1,7 @@
 ---
 name: "Genie (Cosine)"
 slug: "genie-cosine"
+layout: agent.njk
 maker: "Cosine"
 license: "Proprietary"
 url: "https://cosine.sh"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI software engineer that understands entire codebase and can answer questions about code

@@ -1,6 +1,7 @@
 ---
 name: "Ai-Agent-Test"
 slug: "ai-agent-test"
+layout: agent.njk
 maker: "sfelkner"
 license: null
 url: "https://github.com/sfelkner/ai-agent-test"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Ai-Agent-Test](https://github.com/sfelkner/ai-agent-test) - A test repository for AI agent interactions

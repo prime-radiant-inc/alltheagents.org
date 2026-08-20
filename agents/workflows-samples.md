@@ -1,6 +1,7 @@
 ---
 name: "Workflows-Samples"
 slug: "workflows-samples"
+layout: agent.njk
 maker: "GoogleCloudPlatform"
 license: "Apache-2.0"
 url: "https://github.com/GoogleCloudPlatform/workflows-samples"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: "https://cloud.google.com/workflows"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Workflows-Samples](https://github.com/GoogleCloudPlatform/workflows-samples) - This repository contains samples for Cloud Workflows.

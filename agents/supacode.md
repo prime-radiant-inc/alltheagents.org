@@ -1,6 +1,7 @@
 ---
 name: "supacode"
 slug: "supacode"
+layout: agent.njk
 maker: "supabitapp"
 license: "NOASSERTION"
 url: "https://github.com/supabitapp/supacode"
@@ -15,7 +16,6 @@ language: "Swift"
 homepage: "https://supacode.sh"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[supacode](https://github.com/supabitapp/supacode)** `⭐ 2.3k` — Native macOS coding agent orchestrator.

@@ -1,6 +1,7 @@
 ---
 name: "open-agent-hub"
 slug: "open-agent-hub"
+layout: agent.njk
 maker: "guanyang"
 license: "MIT"
 url: "https://github.com/guanyang/open-agent-hub"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A lightweight, zero-dependency CLI tool to manage and activate capabilities for AI coding assistants (such as Claude Code, Cursor, Trae, etc.).

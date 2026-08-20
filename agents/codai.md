@@ -1,6 +1,7 @@
 ---
 name: "codai"
 slug: "codai"
+layout: agent.njk
 maker: "meysamhadeli"
 license: "Apache-2.0"
 url: "https://github.com/meysamhadeli/codai"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 AI coding agent for your terminal.

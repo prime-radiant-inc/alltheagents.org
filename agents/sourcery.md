@@ -1,6 +1,7 @@
 ---
 name: "Sourcery"
 slug: "sourcery"
+layout: agent.njk
 maker: "Sourcery"
 license: "Proprietary"
 url: "https://sourcery.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI-powered code refactoring tool that automatically improves code quality

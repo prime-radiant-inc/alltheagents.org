@@ -1,6 +1,7 @@
 ---
 name: "Nimbalyst"
 slug: "nimbalyst"
+layout: agent.njk
 maker: "nimbalyst"
 license: "MIT"
 url: "https://github.com/nimbalyst/nimbalyst"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://nimbalyst.com/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Nimbalyst](https://github.com/nimbalyst/nimbalyst)** `⭐ 1.5k` — Open-source visual workspace for building with Codex, Claude Code, and more; manage your agents, edit the work visually, and track tasks. MIT.

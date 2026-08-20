@@ -1,6 +1,7 @@
 ---
 name: "Tabnine"
 slug: "tabnine"
+layout: agent.njk
 maker: null
 license: null
 url: "https://tabnine.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "vinkius"
-layout: agent.njk
 ---
 
 | [Tabnine](https://tabnine.com) | Multi-editor | Via extensions | AI code completion for teams |

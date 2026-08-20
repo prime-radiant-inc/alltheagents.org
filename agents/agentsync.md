@@ -1,6 +1,7 @@
 ---
 name: "agentsync"
 slug: "agentsync"
+layout: agent.njk
 maker: "dallay"
 license: "MIT"
 url: "https://github.com/dallay/agentsync"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: "https://dallay.github.io/agentsync/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A fast, portable CLI tool for synchronizing AI agent configurations across multiple AI coding assistants using symbolic links.

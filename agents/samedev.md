@@ -1,6 +1,7 @@
 ---
 name: "Same.dev"
 slug: "samedev"
+layout: agent.njk
 maker: "Same"
 license: "Proprietary"
 url: "https://same.dev"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI web app builder similar to v0 and Bolt

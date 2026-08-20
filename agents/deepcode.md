@@ -1,6 +1,7 @@
 ---
 name: "DeepCode"
 slug: "deepcode"
+layout: agent.njk
 maker: "HKUDS"
 license: "MIT"
 url: "https://github.com/HKUDS/DeepCode"
@@ -18,7 +19,6 @@ homepage: "http://arxiv.org/abs/2512.07921"
 sources:
   - "jqueryscript"
   - "jqueryscript"
-layout: agent.njk
 ---
 
 An agentic coding system that turns papers or specifications into code, websites, and backend implementations.

@@ -1,6 +1,7 @@
 ---
 name: "Leap.new"
 slug: "leapnew"
+layout: agent.njk
 maker: null
 license: null
 url: "https://leap.new/"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "flatlogic"
-layout: agent.njk
 ---
 
 AI developer agent that builds production-grade apps and deploys them to your own cloud

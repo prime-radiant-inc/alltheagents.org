@@ -1,6 +1,7 @@
 ---
 name: "harness-terminal"
 slug: "harness-terminal"
+layout: agent.njk
 maker: "robzilla1738"
 license: "MIT"
 url: "https://github.com/robzilla1738/harness-terminal"
@@ -16,7 +17,6 @@ language: "Swift"
 homepage: "https://harnesscli.dev"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 The native macOS terminal that keeps your sessions running and tells you when a coding agent needs you. GPU-rendered, scriptable, agent-aware.

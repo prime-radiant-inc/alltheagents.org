@@ -1,6 +1,7 @@
 ---
 name: "Konfig"
 slug: "konfig"
+layout: agent.njk
 maker: "KusionStack"
 license: "Apache-2.0"
 url: "https://github.com/KusionStack/konfig"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Konfig](https://github.com/KusionStack/konfig) - Shared repository of application models and components, and CI suite for GitOps workflows

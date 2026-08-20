@@ -1,6 +1,7 @@
 ---
 name: "open-aware"
 slug: "open-aware"
+layout: agent.njk
 maker: "qodo-ai"
 license: "MIT"
 url: "https://github.com/qodo-ai/open-aware"
@@ -14,7 +15,6 @@ language: null
 homepage: "https://www.qodo.ai/products/qodo-aware/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Aware - Deep Code Research Agent for Complex Codebase & Knowledge that “Act As Your Agentic Principal Engineer”

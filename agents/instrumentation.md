@@ -1,6 +1,7 @@
 ---
 name: "instrumentation"
 slug: "instrumentation"
+layout: agent.njk
 maker: "brutusin"
 license: "Apache-2.0"
 url: "https://github.com/brutusin/instrumentation"
@@ -14,7 +15,6 @@ language: "Java"
 homepage: "http://brutusin.org/instrumentation"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 An extensible java agent framework that instruments (modifies the bytecode at class loading time) programs running on the JVM, with the purpose of capturing method invocation events (start, finish, errors ...) and notifying custom listeners.

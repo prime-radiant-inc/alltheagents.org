@@ -1,6 +1,7 @@
 ---
 name: "xuanji-landing"
 slug: "xuanji-landing"
+layout: agent.njk
 maker: "gary95271"
 license: null
 url: "https://github.com/gary95271/xuanji-landing"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: "https://xuanji.dev"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 玄机 XuanJi · Claude 客户端 + Claude Code Agent · 国内直连 Claude Sonnet 4.6 / Opus 4.7 / DeepSeek v4 · Claude 防封不退款, Claude Code 国产替代首选

@@ -1,6 +1,7 @@
 ---
 name: "bumpgen"
 slug: "bumpgen"
+layout: agent.njk
 maker: "xeol-io"
 license: "MIT"
 url: "https://github.com/xeol-io/bumpgen"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://www.xeol.io/beta"
 sources:
   - "e2b"
-layout: agent.njk
 ---
 
 - Put dependency management and upgrades on autopilot - bumpgen BUMPs an npm package's version up then GENerates the code fixes for breaking changes - Supports gpt-4-turbo - Easy install > `npm install -g bumpgen` - Easy start > `bumpgen @tanstack/react-query 5.28.14`

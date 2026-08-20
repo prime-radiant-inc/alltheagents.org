@@ -1,6 +1,7 @@
 ---
 name: "onUI"
 slug: "onui"
+layout: agent.njk
 maker: "onllm-dev"
 license: "GPL-3.0"
 url: "https://github.com/onllm-dev/onUI"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://onui.onllm.dev"
 sources:
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [onUI](https://github.com/onllm-dev/onUI) | OSS browser extension and MCP server for annotation-first UI pair programming with AI agents. Chrome, Edge, Firefox. Privacy-first, local only. |

@@ -1,6 +1,7 @@
 ---
 name: "OpenSpec"
 slug: "openspec"
+layout: agent.njk
 maker: "Fission-AI"
 license: "MIT"
 url: "https://github.com/Fission-AI/OpenSpec"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://openspec.dev/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Spec-driven development (SDD) for AI coding assistants.

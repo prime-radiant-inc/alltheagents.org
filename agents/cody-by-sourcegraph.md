@@ -1,6 +1,7 @@
 ---
 name: "Cody by Sourcegraph"
 slug: "cody-by-sourcegraph"
+layout: agent.njk
 maker: null
 license: null
 url: "https://docs.sourcegraph.com/cody"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "e2b"
-layout: agent.njk
 ---
 
 An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.

@@ -1,6 +1,7 @@
 ---
 name: "Doable"
 slug: "doable"
+layout: agent.njk
 maker: "doable-me"
 license: "MIT"
 url: "https://github.com/doable-me/Doable"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://doable.me"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 The self-hosted, multi-tenant AI app builder for teams. Sandboxed, audit-logged, MIT-licensed. The open-source alternative to Multi-Tenant Saas buiders.

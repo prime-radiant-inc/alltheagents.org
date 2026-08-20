@@ -1,6 +1,7 @@
 ---
 name: "solo"
 slug: "solo"
+layout: agent.njk
 maker: "solo-agent"
 license: "MIT"
 url: "https://github.com/solo-agent/solo"
@@ -14,7 +15,6 @@ language: "Go"
 homepage: "https://soloagent.team"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Solo Agent — an open-source, local-first workspace where humans and AI coding agents collaborate through channels, tasks, teams, and persistent memory.

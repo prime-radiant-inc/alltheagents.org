@@ -1,6 +1,7 @@
 ---
 name: "lumnicode"
 slug: "lumnicode"
+layout: agent.njk
 maker: "martian56"
 license: "MIT"
 url: "https://github.com/martian56/lumnicode"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://lumnicode.ufazien.com"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Free to use web based AI code editor and generator. BYOK (Bring your own keys)

@@ -1,6 +1,7 @@
 ---
 name: "multi-agent-emergence-environments"
 slug: "multi-agent-emergence-environments"
+layout: agent.njk
 maker: "openai"
 license: "MIT"
 url: "https://github.com/openai/multi-agent-emergence-environments"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"

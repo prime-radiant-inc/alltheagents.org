@@ -1,6 +1,7 @@
 ---
 name: "AutoStartup"
 slug: "autostartup"
+layout: agent.njk
 maker: "jawerty"
 license: null
 url: "https://github.com/jawerty/AutoStartup"
@@ -15,7 +16,6 @@ language: "Jupyter Notebook"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A LLama agent that builds startup ideas from your intutions (generates react codebases)

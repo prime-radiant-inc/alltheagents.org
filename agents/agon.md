@@ -1,6 +1,7 @@
 ---
 name: "Agon"
 slug: "agon"
+layout: agent.njk
 maker: "AutoResearch-Factory"
 license: "MIT"
 url: "https://github.com/AutoResearch-Factory/Agon"
@@ -16,7 +17,6 @@ language: "Python"
 homepage: "https://haizhaoyang.github.io/research/autoresearch.html"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Agon](https://github.com/AutoResearch-Factory/Agon)** `⭐ 39` — Claude Code plugin for autonomous research: runs a topic→idea→proposal→experiment loop with separate scientist, coder, and auditor roles.

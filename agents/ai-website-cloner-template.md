@@ -1,6 +1,7 @@
 ---
 name: "ai-website-cloner-template"
 slug: "ai-website-cloner-template"
+layout: agent.njk
 maker: "JCodesMore"
 license: "MIT"
 url: "https://github.com/JCodesMore/ai-website-cloner-template"
@@ -15,7 +16,6 @@ language: "JavaScript"
 homepage: "https://dsc.gg/jcodesmore"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Clone any website with one command using AI coding agents

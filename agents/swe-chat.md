@@ -1,6 +1,7 @@
 ---
 name: "SWE-chat"
 slug: "swe-chat"
+layout: agent.njk
 maker: "SALT-NLP"
 license: "MIT"
 url: "https://github.com/SALT-NLP/SWE-chat"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 SWE-chat: Coding Agent Interactions From Real Users in the Wild

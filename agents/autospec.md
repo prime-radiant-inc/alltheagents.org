@@ -1,6 +1,7 @@
 ---
 name: "Autospec"
 slug: "autospec"
+layout: agent.njk
 maker: "zachblume"
 license: "MIT"
 url: "https://github.com/zachblume/autospec"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://autospec.dev"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Autospec](https://github.com/zachblume/autospec) - Autospec is an open-source AI agent that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code

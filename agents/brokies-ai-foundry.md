@@ -1,6 +1,7 @@
 ---
 name: "Brokies-AI-Foundry"
 slug: "brokies-ai-foundry"
+layout: agent.njk
 maker: "Caplet1989"
 license: null
 url: "https://github.com/Caplet1989/Brokies-AI-Foundry"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: null
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 Top Free AI Developer Tools for 2026

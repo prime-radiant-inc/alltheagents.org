@@ -1,6 +1,7 @@
 ---
 name: "oh-my-cursor"
 slug: "oh-my-cursor"
+layout: agent.njk
 maker: "tmcfarlane"
 license: "MIT"
 url: "https://github.com/tmcfarlane/oh-my-cursor"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Like “oh-my-opencode”, but for Cursor IDE. Multi-agent orchestration, natively, using nothing but a few config files.

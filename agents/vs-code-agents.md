@@ -1,6 +1,7 @@
 ---
 name: "vs-code-agents"
 slug: "vs-code-agents"
+layout: agent.njk
 maker: "groupzer0"
 license: "MIT"
 url: "https://github.com/groupzer0/vs-code-agents"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A multi-agent workflow system for GitHub Copilot in VS Code that brings structure, quality gates, and long-term memory to AI-assisted development with Flowbaby.

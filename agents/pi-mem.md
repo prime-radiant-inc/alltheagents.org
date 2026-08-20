@@ -1,6 +1,7 @@
 ---
 name: "pi-mem"
 slug: "pi-mem"
+layout: agent.njk
 maker: "jo-inc"
 license: "MIT"
 url: "https://github.com/jo-inc/pi-mem"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://www.npmjs.com/package/@jo-inc/pi-mem"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[pi-mem](https://github.com/jo-inc/pi-mem)** `⭐ 73` — Plain-Markdown persistent memory for coding agents; long-term, daily, scratchpad, and searchable notes with zero dependencies on vector DBs. MIT.

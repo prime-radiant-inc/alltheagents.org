@@ -1,6 +1,7 @@
 ---
 name: "opcode"
 slug: "opcode"
+layout: agent.njk
 maker: "winfunc"
 license: "AGPL-3.0"
 url: "https://github.com/winfunc/opcode"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://opcode.sh"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.

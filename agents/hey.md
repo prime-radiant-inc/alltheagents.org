@@ -1,6 +1,7 @@
 ---
 name: "hey"
 slug: "hey"
+layout: agent.njk
 maker: "lnxpy"
 license: "MIT"
 url: "https://github.com/lnxpy/hey"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://pypi.org/project/hey-mindsdb/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 💬 AI-Powered Pair Programming Friend!

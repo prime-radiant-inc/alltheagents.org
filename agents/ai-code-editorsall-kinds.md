@@ -1,6 +1,7 @@
 ---
 name: "AI Code Editors(All kinds)"
 slug: "ai-code-editorsall-kinds"
+layout: agent.njk
 maker: "ishandutta2007"
 license: "MIT"
 url: "https://github.com/ishandutta2007/Awesome-AI-Code-Editor"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[AI Code Editors(All kinds)](https://github.com/ishandutta2007/Awesome-AI-Code-Editor)**

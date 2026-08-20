@@ -1,6 +1,7 @@
 ---
 name: "AliFullStack"
 slug: "alifullstack"
+layout: agent.njk
 maker: "SFARPak"
 license: "Apache-2.0"
 url: "https://github.com/SFARPak/AliFullStack"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Free Local-first Full-Stack AI App Builder & Automation — Build, Test & Deploy with LLMs - Antigravity, Lovable, Bolt opensource Alternative ✨ 🌟 Star if you like it!

@@ -1,6 +1,7 @@
 ---
 name: "Agentless"
 slug: "agentless"
+layout: agent.njk
 maker: "OpenAutoCoder"
 license: "MIT"
 url: "https://github.com/OpenAutoCoder/Agentless"
@@ -19,7 +20,6 @@ sources:
   - "jqueryscript"
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 A lightweight automated software repair system that localizes faults, generates patches, and validates candidate fixes.

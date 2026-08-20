@@ -1,6 +1,7 @@
 ---
 name: "intellegix-code-agent-toolkit"
 slug: "intellegix-code-agent-toolkit"
+layout: agent.njk
 maker: "intellegix"
 license: "MIT"
 url: "https://github.com/intellegix/intellegix-code-agent-toolkit"
@@ -16,7 +17,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Automated loop driver, slash commands, council automation, MCP browser bridge, and portfolio governance for Claude Code CLI

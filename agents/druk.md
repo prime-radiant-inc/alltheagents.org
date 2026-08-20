@@ -1,6 +1,7 @@
 ---
 name: "druk"
 slug: "druk"
+layout: agent.njk
 maker: "letstri"
 license: "MIT"
 url: "https://github.com/letstri/druk"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://druk.sh"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A code editor that lives in your terminal — one self-contained binary with tree-sitter syntax, language servers, git and extensions.

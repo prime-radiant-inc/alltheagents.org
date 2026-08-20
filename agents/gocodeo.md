@@ -1,6 +1,7 @@
 ---
 name: "GoCodeo"
 slug: "gocodeo"
+layout: agent.njk
 maker: "GoCodeo"
 license: "Proprietary"
 url: "https://www.gocodeo.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI coding assistant for Go development

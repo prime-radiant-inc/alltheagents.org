@@ -1,6 +1,7 @@
 ---
 name: "Instantrun"
 slug: "instantrun"
+layout: agent.njk
 maker: "Talha-Ali-5365"
 license: "MIT"
 url: "https://github.com/Talha-Ali-5365/InstantRun"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Instantrun](https://github.com/Talha-Ali-5365/InstantRun) - AI agent that can deploy any github repo autonomously

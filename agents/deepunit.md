@@ -1,6 +1,7 @@
 ---
 name: "Deepunit"
 slug: "deepunit"
+layout: agent.njk
 maker: null
 license: null
 url: "https://x.com/AlexReibman/status/1772773773772779533"
@@ -15,7 +16,6 @@ homepage: null
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [Deepunit](https://x.com/AlexReibman/status/1772773773772779533) - An AI agent designed to generate unit tests for complete code coverage across your project, requiring only your repository as input [demo](https://x.com/AlexReibman/status/1772773773772779533)

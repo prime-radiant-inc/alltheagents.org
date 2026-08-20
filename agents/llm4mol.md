@@ -1,6 +1,7 @@
 ---
 name: "Llm4Mol"
 slug: "llm4mol"
+layout: agent.njk
 maker: "HHW-zhou"
 license: "MIT"
 url: "https://github.com/HHW-zhou/LLM4Mol"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Llm4Mol](https://github.com/HHW-zhou/LLM4Mol) - A comprehensive repository dedicated to the collection and exploration of studies utilizing Large Language Models for molecular design, p…

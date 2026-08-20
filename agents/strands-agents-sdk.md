@@ -1,6 +1,7 @@
 ---
 name: "Strands Agents SDK"
 slug: "strands-agents-sdk"
+layout: agent.njk
 maker: "strands-agents"
 license: "Apache-2.0"
 url: "https://github.com/strands-agents/sdk-python"
@@ -17,7 +18,6 @@ sources:
   - "jim"
   - "jim"
   - "caramaschi"
-layout: agent.njk
 ---
 
 - [Strands Agents SDK](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code. [github](https://github.com/strands-agents/sdk-python)

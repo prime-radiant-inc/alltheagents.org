@@ -1,6 +1,7 @@
 ---
 name: "codeium-react-code-editor"
 slug: "codeium-react-code-editor"
+layout: agent.njk
 maker: "Exafunction"
 license: "MIT"
 url: "https://github.com/Exafunction/codeium-react-code-editor"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 AI-enabled code editor for React. Unlimited AI autocomplete capabilities with full Typescript support.

@@ -1,6 +1,7 @@
 ---
 name: "Archon"
 slug: "archon"
+layout: agent.njk
 maker: "coleam00"
 license: "MIT"
 url: "https://github.com/coleam00/Archon"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://archon.diy"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.

@@ -1,6 +1,7 @@
 ---
 name: "rayu-cli"
 slug: "rayu-cli"
+layout: agent.njk
 maker: "Choeng-Rayu"
 license: "MIT"
 url: "https://github.com/Choeng-Rayu/rayu-cli"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://rayucode.com"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Open-source AI coding agent CLI with multi-provider support, local models, MCP, and specialized AI agents.

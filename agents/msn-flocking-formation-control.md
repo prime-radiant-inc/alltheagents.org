@@ -1,6 +1,7 @@
 ---
 name: "MSN-Flocking-Formation-Control"
 slug: "msn-flocking-formation-control"
+layout: agent.njk
 maker: "arjunhw97"
 license: null
 url: "https://github.com/arjunhw97/MSN-Flocking-Formation-Control"
@@ -14,7 +15,6 @@ language: "MATLAB"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 A MATLAB program that implements Multi-agent flocking, following a target, avoiding obstacles

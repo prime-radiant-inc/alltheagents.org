@@ -1,6 +1,7 @@
 ---
 name: "Graft"
 slug: "graft"
+layout: agent.njk
 maker: "NanoNets"
 license: "MIT"
 url: "https://github.com/NanoNets/Graft"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://graft.nanonets.ai"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.

@@ -1,6 +1,7 @@
 ---
 name: "Doubao-Seed-Code"
 slug: "doubao-seed-code"
+layout: agent.njk
 maker: "ByteDance"
 license: "Proprietary"
 url: "https://www.doubao.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 ByteDance's Doubao code generation model and agent

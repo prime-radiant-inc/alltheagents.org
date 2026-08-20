@@ -1,6 +1,7 @@
 ---
 name: "FLEX"
 slug: "flex"
+layout: agent.njk
 maker: "GenSI-THUAIR"
 license: "MIT"
 url: "https://github.com/GenSI-THUAIR/FLEX"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 The official codebase for our paper, FLEX: Continuous Agent Evolution via Forward Learning from Experience.

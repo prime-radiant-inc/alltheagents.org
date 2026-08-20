@@ -1,6 +1,7 @@
 ---
 name: "Locus"
 slug: "locus"
+layout: agent.njk
 maker: "r1n7aro"
 license: "GPL-3.0"
 url: "https://github.com/r1n7aro/Locus"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 The open source Unity Dev Agent

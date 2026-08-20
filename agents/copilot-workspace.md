@@ -1,6 +1,7 @@
 ---
 name: "Copilot Workspace"
 slug: "copilot-workspace"
+layout: agent.njk
 maker: null
 license: null
 url: "https://githubnext.com/projects/copilot-workspace"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [Copilot Workspace](https://githubnext.com/projects/copilot-workspace) | GitHub issue-to-PR agent. | Copilot sub |

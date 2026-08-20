@@ -1,6 +1,7 @@
 ---
 name: "Spark D2C Agent"
 slug: "spark-d2c-agent"
+layout: agent.njk
 maker: "iFlytek"
 license: "Proprietary"
 url: "https://iflytek.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 iFlytek's design-to-code agent for converting designs to code

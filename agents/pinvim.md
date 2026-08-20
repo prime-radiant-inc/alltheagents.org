@@ -1,6 +1,7 @@
 ---
 name: "pi.nvim"
 slug: "pinvim"
+layout: agent.njk
 maker: "pablopunk"
 license: "MIT"
 url: "https://github.com/pablopunk/pi.nvim"
@@ -14,7 +15,6 @@ language: "Lua"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 The most minimal AI coding agent, now in neovim

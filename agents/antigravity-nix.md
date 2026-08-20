@@ -1,6 +1,7 @@
 ---
 name: "antigravity-nix"
 slug: "antigravity-nix"
+layout: agent.njk
 maker: "jacopone"
 license: "MIT"
 url: "https://github.com/jacopone/antigravity-nix"
@@ -15,7 +16,6 @@ language: "Nix"
 homepage: "https://antigravity.google"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Auto-updating Nix package for Google Antigravity agentic IDE. Updates 3x/week. FHS environment with overlay support for NixOS/Home Manager.

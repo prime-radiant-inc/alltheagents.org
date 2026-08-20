@@ -1,6 +1,7 @@
 ---
 name: "coding-agents-workshop"
 slug: "coding-agents-workshop"
+layout: agent.njk
 maker: "sshh12"
 license: null
 url: "https://github.com/sshh12/coding-agents-workshop"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: "https://html-preview.github.io/?url=https://github.com/sshh12/coding-agents-workshop/blob/main/slides.html"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Workshop: Optimizing Codebases for Agents — Coding Agents Conference, March 3, 2026

@@ -1,6 +1,7 @@
 ---
 name: "Letta-Deepseek"
 slug: "letta-deepseek"
+layout: agent.njk
 maker: "mahawi1992"
 license: null
 url: "https://github.com/mahawi1992/letta-deepseek"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Letta-Deepseek](https://github.com/mahawi1992/letta-deepseek) - Advanced multi-agent system built with Letta AI and DeepSeek, featuring memory optimization and Lightning AI deployment.

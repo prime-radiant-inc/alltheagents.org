@@ -1,6 +1,7 @@
 ---
 name: "DeepGame"
 slug: "deepgame"
+layout: agent.njk
 maker: "ismorphism"
 license: "MIT"
 url: "https://github.com/ismorphism/DeepGame"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Multi-agent reinforcement learning programs based on Game theory

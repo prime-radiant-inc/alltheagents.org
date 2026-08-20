@@ -1,6 +1,7 @@
 ---
 name: "lazyide"
 slug: "lazyide"
+layout: agent.njk
 maker: "TysonLabs"
 license: "MIT"
 url: "https://github.com/TysonLabs/lazyide"
@@ -16,7 +17,6 @@ language: "Rust"
 homepage: "https://tysonlabs.dev"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 A full IDE experience anywhere you have a terminal. SSH into a server, run lazyide, and pair with your agentic coding tool.

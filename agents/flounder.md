@@ -1,6 +1,7 @@
 ---
 name: "flounder"
 slug: "flounder"
+layout: agent.njk
 maker: "adshao"
 license: "AGPL-3.0"
 url: "https://github.com/adshao/flounder"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://flounders.xyz"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Autonomous white-hat security auditor for AI-driven code review, bug bounty research, exploit construction, and execution-grounded verification.

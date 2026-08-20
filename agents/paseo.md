@@ -1,6 +1,7 @@
 ---
 name: "Paseo"
 slug: "paseo"
+layout: agent.njk
 maker: "getpaseo"
 license: "NOASSERTION"
 url: "https://github.com/getpaseo/paseo"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "author_search"
-layout: agent.njk
 ---
 
 Orchestrate multiple coding agents from desktop and mobile

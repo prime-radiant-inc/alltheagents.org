@@ -1,6 +1,7 @@
 ---
 name: "hive"
 slug: "hive"
+layout: agent.njk
 maker: "tt-a1i"
 license: "NOASSERTION"
 url: "https://github.com/tt-a1i/hive"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://hivehq.dev"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Browser-native hive-mind for CLI coding agents — Claude Code, Codex, Gemini, and OpenCode collaborate as real PTY processes via a team protocol.

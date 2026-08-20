@@ -1,6 +1,7 @@
 ---
 name: "codeflash"
 slug: "codeflash"
+layout: agent.njk
 maker: "codeflash-ai"
 license: "NOASSERTION"
 url: "https://github.com/codeflash-ai/codeflash"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://www.codeflash.ai"
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 Coding super-intelligence to find the most optimized Python code. Use it to optimize existing codebases or new Pull requests as a GitHub Action or a VS Code Extension.

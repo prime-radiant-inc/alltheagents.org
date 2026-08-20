@@ -1,6 +1,7 @@
 ---
 name: "llm-coding-agent"
 slug: "llm-coding-agent"
+layout: agent.njk
 maker: "simonw"
 license: "Apache-2.0"
 url: "https://github.com/simonw/llm-coding-agent"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A coding agent built on LLM

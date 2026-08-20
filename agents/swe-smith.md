@@ -1,6 +1,7 @@
 ---
 name: "SWE-smith"
 slug: "swe-smith"
+layout: agent.njk
 maker: "SWE-bench"
 license: "MIT"
 url: "https://github.com/SWE-bench/SWE-smith"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://swesmith.com/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 [NeurIPS 2025 D&B Spotlight] Scaling Data for SWE-agents

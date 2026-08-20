@@ -1,6 +1,7 @@
 ---
 name: "cersei"
 slug: "cersei"
+layout: agent.njk
 maker: "pacifio"
 license: "MIT"
 url: "https://github.com/pacifio/cersei"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: "https://cersei.tryatlas.cc/docs/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 The Rust SDK for building coding agents. Tools, streaming, graph, sub-agent orchestration, MCP — as composable functions

@@ -1,6 +1,7 @@
 ---
 name: "Devin AI"
 slug: "devin-ai"
+layout: agent.njk
 maker: null
 license: null
 url: "https://devin.ai/"
@@ -18,7 +19,6 @@ sources:
   - "brad"
   - "caramaschi"
   - "vinkius"
-layout: agent.njk
 ---
 
 Autonomous AI software engineer handling complete tasks

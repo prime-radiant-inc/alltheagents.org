@@ -1,6 +1,7 @@
 ---
 name: "amux"
 slug: "amux"
+layout: agent.njk
 maker: "andyrewlee"
 license: "MIT"
 url: "https://github.com/andyrewlee/amux"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[amux](https://github.com/andyrewlee/amux)** `⭐ 146` — Terminal UI designed for running multiple coding agents in parallel.

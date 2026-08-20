@@ -1,6 +1,7 @@
 ---
 name: "Comet"
 slug: "comet"
+layout: agent.njk
 maker: "Comet"
 license: "Proprietary"
 url: "https://comet.com"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI coding assistant and agent platform

@@ -1,6 +1,7 @@
 ---
 name: "Empryo"
 slug: "empryo"
+layout: agent.njk
 maker: "proxysoul"
 license: "NOASSERTION"
 url: "https://github.com/proxysoul/Empryo"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://empryo.com/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Empryo issue tracker + SoulForge (v2) archive — Empryo is the graph-powered AI coding agent that edits symbols, not strings: AST surgery, full LSP, a live code genome. Get it at https://empryo.com

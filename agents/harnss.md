@@ -1,6 +1,7 @@
 ---
 name: "harnss"
 slug: "harnss"
+layout: agent.njk
 maker: "OpenSource03"
 license: "MIT"
 url: "https://github.com/OpenSource03/harnss"
@@ -18,7 +19,6 @@ language: "TypeScript"
 homepage: "https://harnss.app"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Open-source, desktop client/UI build to harness Claude Code, Codex and any other Agent accepting Agent Client Protocol. Run multiple AI coding agents side by side with rich tool visualization, MCP integrations, built-in terminal, git, browser and just about anything else you may need.

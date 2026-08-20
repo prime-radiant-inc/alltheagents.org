@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Convert coding_agent_harnesses.tsv into individual YAML-frontmatter Markdown files for Eleventy."""
-import os, csv, re, json
+import os, csv, re, json, sys
 
 SRCDIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TSV = os.path.join(SRCDIR, "coding_agent_harnesses.tsv")
@@ -24,21 +24,33 @@ def main():
     os.makedirs(AGENTS_DIR, exist_ok=True)
     os.makedirs(DATA_DIR, exist_ok=True)
     
+    overrides_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "slug_overrides.json")
+    slug_overrides = {}
+    if os.path.exists(overrides_path):
+        with open(overrides_path, encoding="utf-8") as f:
+            slug_overrides = json.load(f)
+        print(f"Loaded {len(slug_overrides)} slug overrides from {overrides_path}")
     rows = list(csv.DictReader(open(TSV, encoding="utf-8"), delimiter="\t"))
     print(f"Read {len(rows)} entries from TSV")
     
-    used_slugs = {}
+    used_slugs = {}  # slug -> (name, maker, url, row_num)
     agents_data = []
     
-    for r in rows:
+    for row_num, r in enumerate(rows, start=2):  # TSV line 1 is header
         name = r.get("name", "").strip()
-        slug = slugify(name)
+        url = r.get("url", "").strip()
+        # Use manual override if present: try name first, then URL
+        slug = slug_overrides.get(name) or slug_overrides.get(url) or slugify(name)
         
         if slug in used_slugs:
-            used_slugs[slug] += 1
-            slug = f"{slug}-{used_slugs[slug]}"
+            prev = used_slugs[slug]
+            print(f"\nFATAL: Slug collision on '{slug}'")
+            print(f"  First  (line {prev[3]}): {prev[0]} by {prev[1]} — {prev[2]}")
+            print(f"  Second (line {row_num}): {name} by {r.get('maker','').strip()} — {r.get('url','').strip()}")
+            print(f"\nAdd manual slug overrides in scripts/slug_overrides.json to resolve.")
+            sys.exit(1)
         else:
-            used_slugs[slug] = 1
+            used_slugs[slug] = (name, r.get("maker", "").strip(), r.get("url", "").strip(), row_num)
         
         platforms = [p.strip() for p in (r.get("platforms", "") or "").split(";") if p.strip()]
         sources = [s.strip() for s in (r.get("source_list", "") or "").split(",") if s.strip()]
@@ -47,6 +59,7 @@ def main():
         fm_lines = ["---"]
         fm_lines.append(f"name: {yaml_escape(name)}")
         fm_lines.append(f"slug: {yaml_escape(slug)}")
+        fm_lines.append("layout: agent.njk")
         fm_lines.append(f"maker: {yaml_escape(r.get('maker','').strip() or None)}")
         fm_lines.append(f"license: {yaml_escape(r.get('license','').strip() or None)}")
         fm_lines.append(f"url: {yaml_escape(r.get('url','').strip() or None)}")

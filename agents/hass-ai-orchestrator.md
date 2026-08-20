@@ -1,6 +1,7 @@
 ---
 name: "HASS-AI-Orchestrator"
 slug: "hass-ai-orchestrator"
+layout: agent.njk
 maker: "ITSpecialist111"
 license: null
 url: "https://github.com/ITSpecialist111/HASS-AI-Orchestrator"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://github.com/ITSpecialist111/HASS-AI-Orchestrator"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 An autonomous multi-agent orchestration system for Home Assistant. Features local LLM control (Ollama/DeepSeek), & RAG-powered technical knowledge,

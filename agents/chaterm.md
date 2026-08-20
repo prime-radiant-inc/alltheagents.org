@@ -1,6 +1,7 @@
 ---
 name: "Chaterm"
 slug: "chaterm"
+layout: agent.njk
 maker: "chaterm"
 license: "NOASSERTION"
 url: "https://github.com/chaterm/Chaterm"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://chaterm.ai"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Open source AI terminal for cloud and infrastructure management, enabling you to deploy, troubleshoot, and automate services using natural language and intelligent agents.

@@ -1,6 +1,7 @@
 ---
 name: "Ai-Testing-Agent"
 slug: "ai-testing-agent"
+layout: agent.njk
 maker: "furudo-erika"
 license: null
 url: "https://github.com/furudo-erika/ai-testing-agent"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Ai-Testing-Agent](https://github.com/furudo-erika/ai-testing-agent) - AI Testing Agent: Open Source AI Agent for Software Testing

@@ -1,6 +1,7 @@
 ---
 name: "agent-deck"
 slug: "agent-deck"
+layout: agent.njk
 maker: "asheshgoplani"
 license: "MIT"
 url: "https://github.com/asheshgoplani/agent-deck"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: "https://discord.gg/e4xSs6NBN8"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[agent-deck](https://github.com/asheshgoplani/agent-deck)** `⭐ 734` — Terminal session manager for AI coding agents — one TUI for Claude, Gemini, OpenCode, Codex, and more. Worktree-aware, MCP integration, 8+ contributors. MIT.

@@ -1,6 +1,7 @@
 ---
 name: "GPT Pilot"
 slug: "gpt-pilot"
+layout: agent.njk
 maker: "Pythagora-io"
 license: "Source Available"
 url: "https://github.com/Pythagora-io/gpt-pilot"
@@ -21,7 +22,6 @@ sources:
   - "jim"
   - "jim"
   - "tiennm"
-layout: agent.njk
 ---
 
 An AI developer that plans applications, writes code, runs commands, debugs failures, and asks for human review when needed.

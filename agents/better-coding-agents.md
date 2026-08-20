@@ -1,6 +1,7 @@
 ---
 name: ".better-coding-agents"
 slug: "better-coding-agents"
+layout: agent.njk
 maker: "bmdavis419"
 license: null
 url: "https://github.com/bmdavis419/.better-coding-agents"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A nice utility for getting better responses from coding agents

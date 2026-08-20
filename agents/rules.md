@@ -1,6 +1,7 @@
 ---
 name: "rules"
 slug: "rules"
+layout: agent.njk
 maker: "project-codeguard"
 license: "NOASSERTION"
 url: "https://github.com/project-codeguard/rules"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://project-codeguard.org"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance.

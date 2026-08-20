@@ -1,6 +1,7 @@
 ---
 name: "FetchCoder"
 slug: "fetchcoder"
+layout: agent.njk
 maker: "fetchai"
 license: null
 url: "https://github.com/fetchai/fetchcoder-releases"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[FetchCoder](https://github.com/fetchai/fetchcoder-releases)** `⭐ 2` `[Fetch.ai]` — Terminal coding agent powered by ASI1, with interactive TUI, CLI, and API server modes plus MCP integration.

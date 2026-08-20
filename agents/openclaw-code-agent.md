@@ -1,6 +1,7 @@
 ---
 name: "openclaw-code-agent"
 slug: "openclaw-code-agent"
+layout: agent.njk
 maker: "goldmar"
 license: "MIT"
 url: "https://github.com/goldmar/openclaw-code-agent"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://www.npmjs.com/package/openclaw-code-agent"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A stateful coding agent plugin for OpenClaw

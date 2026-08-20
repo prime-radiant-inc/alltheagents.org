@@ -1,6 +1,7 @@
 ---
 name: "CrewAI"
 slug: "crewai"
+layout: agent.njk
 maker: "crewAIInc"
 license: "MIT"
 url: "https://github.com/joaomdmoura/crewai"
@@ -18,7 +19,6 @@ sources:
   - "jim"
   - "jim"
   - "brandonhimpfen"
-layout: agent.njk
 ---
 
 - Cutting-edge framework for orchestrating role-playing, autonomous AI agents. - By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. - Crew AI is a multi-agent framework built on LangChain, aiming to empower engineers to harness the collective power of AI agents. In contrast to traditional automation methods, Crew AI introduces a new approach to collaborative decision-making, enhanced creativity, and solving complex problems. - The design philosophy of Crew AI advocates simplicity through modularity. Its main components include agents, tools, tasks, processes, and crews. Each agent is akin to a team member, possessing specific roles, background stories, goals, and memories. Through modular design, we make the intricate world of AI agents accessible, manageable, and more engaging.

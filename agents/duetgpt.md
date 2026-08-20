@@ -1,6 +1,7 @@
 ---
 name: "DuetGPT"
 slug: "duetgpt"
+layout: agent.njk
 maker: "kristoferlund"
 license: "MIT"
 url: "https://github.com/kristoferlund/duet-gpt"
@@ -16,7 +17,6 @@ homepage: null
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [DuetGPT](https://github.com/kristoferlund/duet-gpt) - A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. [github](https://github.com/kristoferlund/duet-gpt)

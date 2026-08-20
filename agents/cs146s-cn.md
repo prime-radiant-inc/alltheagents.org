@@ -1,6 +1,7 @@
 ---
 name: "CS146S_CN"
 slug: "cs146s-cn"
+layout: agent.njk
 maker: "ShouZhengAI"
 license: "MIT"
 url: "https://github.com/ShouZhengAI/CS146S_CN"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://themodernsoftware.dev/"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 动手学CS146S中文版课程，包含assignments，vibe coding工具等，本项目将长期持续维护，致力于打造中文最好的vibe coding教程。

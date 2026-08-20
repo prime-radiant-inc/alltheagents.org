@@ -1,6 +1,7 @@
 ---
 name: "workstreams"
 slug: "workstreams"
+layout: agent.njk
 maker: "workstream-labs"
 license: "NOASSERTION"
 url: "https://github.com/workstream-labs/workstreams"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 IDE for parallel AI coding agents

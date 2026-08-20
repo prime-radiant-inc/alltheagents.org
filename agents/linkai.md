@@ -1,6 +1,7 @@
 ---
 name: "LinkAI"
 slug: "linkai"
+layout: agent.njk
 maker: "LinkAI"
 license: "Proprietary"
 url: "https://linkai.cn"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Enterprise-grade AI agent building platform with zero-code agent construction

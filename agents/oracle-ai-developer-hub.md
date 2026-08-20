@@ -1,6 +1,7 @@
 ---
 name: "oracle-ai-developer-hub"
 slug: "oracle-ai-developer-hub"
+layout: agent.njk
 maker: "oracle-devrel"
 license: null
 url: "https://github.com/oracle-devrel/oracle-ai-developer-hub"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: "https://oracle-devrel.github.io/oracle-ai-developer-hub/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services

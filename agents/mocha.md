@@ -1,6 +1,7 @@
 ---
 name: "Mocha"
 slug: "mocha"
+layout: agent.njk
 maker: null
 license: null
 url: "https://getmocha.com/"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "flatlogic"
-layout: agent.njk
 ---
 
 Front-end-only React app builder

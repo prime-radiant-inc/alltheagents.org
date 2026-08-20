@@ -1,6 +1,7 @@
 ---
 name: "Emergent"
 slug: "emergent"
+layout: agent.njk
 maker: "Emergent"
 license: "Proprietary"
 url: "https://www.emergent.sh"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI-powered web app builder and vibe coding platform

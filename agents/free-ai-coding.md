@@ -1,6 +1,7 @@
 ---
 name: "free-ai-coding"
 slug: "free-ai-coding"
+layout: agent.njk
 maker: "inmve"
 license: null
 url: "https://github.com/inmve/free-ai-coding"
@@ -14,7 +15,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 AI coding tools that give free Claude Opus/Sonnet, GPT-5, Gemini Pro, and other pro-grade models

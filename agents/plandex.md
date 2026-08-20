@@ -1,6 +1,7 @@
 ---
 name: "Plandex"
 slug: "plandex"
+layout: agent.njk
 maker: "plandex-ai"
 license: "MIT"
 url: "https://github.com/plandex-ai/plandex"
@@ -21,7 +22,6 @@ sources:
   - "jim"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 A plan-first terminal coding agent for multi-file changes, large codebases, reviewable diffs, and long-running tasks.

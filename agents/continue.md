@@ -1,6 +1,7 @@
 ---
 name: "Continue"
 slug: "continue"
+layout: agent.njk
 maker: "continuedev"
 license: "Apache-2.0"
 url: "https://github.com/continuedev/continue"
@@ -23,7 +24,6 @@ sources:
   - "brandonhimpfen"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 An open-source coding agent for IDE and terminal use with configurable models, repository context, and development tools.

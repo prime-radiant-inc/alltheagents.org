@@ -1,6 +1,7 @@
 ---
 name: "Softgen"
 slug: "softgen"
+layout: agent.njk
 maker: "Softgen"
 license: "Proprietary"
 url: "https://www.softgen.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI web app builder that generates full-stack applications

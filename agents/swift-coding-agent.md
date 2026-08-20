@@ -1,6 +1,7 @@
 ---
 name: "swift-coding-agent"
 slug: "swift-coding-agent"
+layout: agent.njk
 maker: "ivan-magda"
 license: "MIT"
 url: "https://github.com/ivan-magda/swift-coding-agent"
@@ -14,7 +15,6 @@ language: "Swift"
 homepage: "https://ivanmagda.dev/posts/s00-bootstrapping-the-project/"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A Swift reimplementation of a Claude Code-style coding agent, built stage by stage to explore what makes coding agents work

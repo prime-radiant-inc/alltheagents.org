@@ -1,6 +1,7 @@
 ---
 name: "superflex-vscode"
 slug: "superflex-vscode"
+layout: agent.njk
 maker: "aquila-lab"
 license: "MPL-2.0"
 url: "https://github.com/aquila-lab/superflex-vscode"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://superflex.ai/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Superflex: Your Frontend AI Pair Programmer

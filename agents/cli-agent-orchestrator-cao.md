@@ -1,6 +1,7 @@
 ---
 name: "CLI Agent Orchestrator (CAO)"
 slug: "cli-agent-orchestrator-cao"
+layout: agent.njk
 maker: "awslabs"
 license: "Apache-2.0"
 url: "https://github.com/awslabs/cli-agent-orchestrator"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://awslabs.github.io/cli-agent-orchestrator/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[CLI Agent Orchestrator (CAO)](https://github.com/awslabs/cli-agent-orchestrator)** `⭐ 1.1k` — AWS's hierarchical multi-agent orchestration via tmux with intelligent task delegation patterns.

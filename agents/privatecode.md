@@ -1,6 +1,7 @@
 ---
 name: "PrivateCode"
 slug: "privatecode"
+layout: agent.njk
 maker: "Legorobotdude"
 license: "MIT"
 url: "https://github.com/Legorobotdude/PrivateCode"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://www.vibecoder.gg/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 VibeCoder: A Local LLM powered coding assistant

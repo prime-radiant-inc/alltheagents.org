@@ -1,6 +1,7 @@
 ---
 name: "lime"
 slug: "lime"
+layout: agent.njk
 maker: "limecloud"
 license: null
 url: "https://github.com/limecloud/lime"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://limeai.run"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.

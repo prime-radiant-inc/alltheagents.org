@@ -1,6 +1,7 @@
 ---
 name: "Zentara-Code"
 slug: "zentara-code"
+layout: agent.njk
 maker: "Zentar-Ai"
 license: "Apache-2.0"
 url: "https://github.com/Zentar-Ai/Zentara-Code"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://zentar.ai"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 AI debugger and AI coder integrated.  Use AI to code and drives runtime debugger

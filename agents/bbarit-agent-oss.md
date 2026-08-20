@@ -1,6 +1,7 @@
 ---
 name: "bbarit-agent-oss"
 slug: "bbarit-agent-oss"
+layout: agent.njk
 maker: "bbarit"
 license: "NOASSERTION"
 url: "https://github.com/bbarit/bbarit-agent-oss"
@@ -16,7 +17,6 @@ language: "Rust"
 homepage: "https://bbarit.com"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Open-source AI coding agent for your terminal — one Rust binary, 15+ LLM providers, 1,000+ models. A self-hostable Claude Code / Codex CLI alternative (MIT).

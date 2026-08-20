@@ -1,6 +1,7 @@
 ---
 name: "Amazon Q Developer CLI"
 slug: "amazon-q-developer-cli"
+layout: agent.njk
 maker: "aws"
 license: "Apache-2.0"
 url: "https://github.com/aws/amazon-q-developer-cli"
@@ -17,7 +18,6 @@ sources:
   - "jqueryscript"
   - "jqueryscript"
   - "brad"
-layout: agent.njk
 ---
 
 AWS's terminal coding agent for building applications, editing projects, running shell commands, and working with AWS services.

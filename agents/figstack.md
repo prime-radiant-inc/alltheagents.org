@@ -1,6 +1,7 @@
 ---
 name: "Figstack"
 slug: "figstack"
+layout: agent.njk
 maker: "Figstack"
 license: "Proprietary"
 url: "https://www.figstack.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI code explanation and documentation tool

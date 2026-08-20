@@ -1,6 +1,7 @@
 ---
 name: "swapper-toolkit"
 slug: "swapper-toolkit"
+layout: agent.njk
 maker: "swapperfinance"
 license: "MIT"
 url: "https://github.com/swapperfinance/swapper-toolkit"
@@ -14,7 +15,6 @@ language: null
 homepage: "https://swapper.finance"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with Claude Code, Cursor,   Windsurf, OpenClaw, CrewAI, AutoGPT, and other AI agent frameworks.

@@ -1,6 +1,7 @@
 ---
 name: "Slate"
 slug: "slate"
+layout: agent.njk
 maker: "entropy-research"
 license: null
 url: "https://github.com/entropy-research/slate-plan-mode"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "author_search"
-layout: agent.njk
 ---
 
 Slate releases - AI-powered development environment

@@ -1,6 +1,7 @@
 ---
 name: "mbti-coding-agents"
 slug: "mbti-coding-agents"
+layout: agent.njk
 maker: "weiyangzen"
 license: null
 url: "https://github.com/weiyangzen/mbti-coding-agents"
@@ -14,7 +15,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Precisely define coding agents with different LLM parameters.

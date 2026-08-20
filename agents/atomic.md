@@ -1,6 +1,7 @@
 ---
 name: "atomic"
 slug: "atomic"
+layout: agent.njk
 maker: "bastani-inc"
 license: "NOASSERTION"
 url: "https://github.com/bastani-inc/atomic"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://bastani.ai/"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 The verifiable coding agent runtime. Define your coding agent's process in natural language with stages, checks, and approval gates instead of hoping it follows your instructions.

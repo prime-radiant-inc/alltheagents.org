@@ -1,6 +1,7 @@
 ---
 name: "Crewplane"
 slug: "crewplane"
+layout: agent.njk
 maker: "crewplaneai"
 license: "Apache-2.0"
 url: "https://github.com/crewplaneai/crewplane"
@@ -16,7 +17,6 @@ language: "Python"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Crewplane](https://github.com/crewplaneai/crewplane)** `⭐ 33` — CLI-first control plane for human-designed coding-agent workflows via Markdown; runs sequential or parallel stages through Claude Code, Codex, Gemini CLI, Copilot CLI, or any configured command, resumes after failures, and keeps inputs, outputs, and logs on disk. Python, Apache-2.0.

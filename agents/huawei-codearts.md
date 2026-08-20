@@ -1,6 +1,7 @@
 ---
 name: "Huawei CodeArts"
 slug: "huawei-codearts"
+layout: agent.njk
 maker: "Huawei Cloud"
 license: "Proprietary"
 url: "https://www.huaweicloud.com/product-codearts.html"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Huawei Cloud's AI-native intelligent coding product with code generation, R&D knowledge Q&A, and unit test generation. Supports HarmonyOS

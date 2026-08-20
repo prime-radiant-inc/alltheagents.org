@@ -1,6 +1,7 @@
 ---
 name: "Tongyi Lingma"
 slug: "tongyi-lingma"
+layout: agent.njk
 maker: "Alibaba Cloud"
 license: "Proprietary"
 url: "https://lingma.aliyun.com"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Alibaba's AI coding assistant with strong Chinese language support and enterprise R&D integration

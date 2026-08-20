@@ -1,6 +1,7 @@
 ---
 name: "Waii"
 slug: "waii"
+layout: agent.njk
 maker: null
 license: null
 url: "https://x.com/AlexReibman/status/1772777493122163107"
@@ -15,7 +16,6 @@ homepage: null
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [Waii](https://x.com/AlexReibman/status/1772777493122163107) - A swift and straightforward AI agent for converting natural language to SQL queries, seamlessly integrable with your application [demo](https://x.com/AlexReibman/status/1772777493122163107)

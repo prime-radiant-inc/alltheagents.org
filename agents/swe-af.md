@@ -1,6 +1,7 @@
 ---
 name: "SWE-AF"
 slug: "swe-af"
+layout: agent.njk
 maker: "Agent-Field"
 license: "Apache-2.0"
 url: "https://github.com/Agent-Field/SWE-AF"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: "https://agentfield.ai/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.

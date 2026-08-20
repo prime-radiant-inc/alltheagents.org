@@ -1,6 +1,7 @@
 ---
 name: "Whitebox-Code-Gpt"
 slug: "whitebox-code-gpt"
+layout: agent.njk
 maker: "Decron"
 license: "MIT"
 url: "https://github.com/Decron/Whitebox-Code-GPT"
@@ -14,7 +15,6 @@ language: "Dart"
 homepage: "https://chat.openai.com/g/g-cwigWCh11-code-gpt-gpt"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Whitebox-Code-Gpt](https://github.com/Decron/Whitebox-Code-GPT) - Repository of instructions for Programming-specific GPT models

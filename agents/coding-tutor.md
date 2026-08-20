@@ -1,6 +1,7 @@
 ---
 name: "Coding-Tutor"
 slug: "coding-tutor"
+layout: agent.njk
 maker: "iwangjian"
 license: "Apache-2.0"
 url: "https://github.com/iwangjian/Coding-Tutor"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://arxiv.org/abs/2502.13311"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 [ACL 2025 Findings] Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The Curious Case of LLMs as Your Coding Tutors

@@ -1,6 +1,7 @@
 ---
 name: "AgentsMesh"
 slug: "agentsmesh"
+layout: agent.njk
 maker: "AgentsMesh"
 license: "NOASSERTION"
 url: "https://github.com/AgentsMesh/AgentsMesh"
@@ -16,7 +17,6 @@ language: "Go"
 homepage: "https://agentsmesh.ai"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[AgentsMesh](https://github.com/AgentsMesh/AgentsMesh)** `⭐ 2.3k` — AI Agent Workforce Platform: remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with MR/PR integration. Self-hosted with BYOK. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. BSL-1.1.

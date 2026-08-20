@@ -1,6 +1,7 @@
 ---
 name: "ToM-SWE"
 slug: "tom-swe"
+layout: agent.njk
 maker: "OpenHands"
 license: null
 url: "https://github.com/OpenHands/ToM-SWE"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 The theory of mind module for the SWE agent

@@ -1,6 +1,7 @@
 ---
 name: "vision-ai-developer-kit"
 slug: "vision-ai-developer-kit"
+layout: agent.njk
 maker: "microsoft"
 license: "MIT"
 url: "https://github.com/microsoft/vision-ai-developer-kit"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Vision AI Developer Kit Preview

@@ -1,6 +1,7 @@
 ---
 name: "piclaw"
 slug: "piclaw"
+layout: agent.njk
 maker: "rcarmo"
 license: "MIT"
 url: "https://github.com/rcarmo/piclaw"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://rcarmo.github.io/projects/piclaw/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 pi coding agent in a technicolor web trenchcoat

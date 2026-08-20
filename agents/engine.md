@@ -1,6 +1,7 @@
 ---
 name: "Engine"
 slug: "engine"
+layout: agent.njk
 maker: "Engine Labs"
 license: "Proprietary"
 url: "https://enginelabs.ai"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Autonomous software engineer with high SWE-bench scores

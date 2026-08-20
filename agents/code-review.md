@@ -1,6 +1,7 @@
 ---
 name: "code-review"
 slug: "code-review"
+layout: agent.njk
 maker: "gemini-cli-extensions"
 license: "Apache-2.0"
 url: "https://github.com/gemini-cli-extensions/code-review"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Google's Code Review extension for the Gemini CLI that reviews your code changes

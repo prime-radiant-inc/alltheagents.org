@@ -1,6 +1,7 @@
 ---
 name: "koder"
 slug: "koder"
+layout: agent.njk
 maker: "feiskyer"
 license: "MIT"
 url: "https://github.com/feiskyer/koder"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Koder - An intuitive AI coding assistant and interactive CLI tool that boosts developer productivity with intelligent automation and context-aware support.

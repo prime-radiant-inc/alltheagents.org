@@ -1,6 +1,7 @@
 ---
 name: "vix"
 slug: "vix"
+layout: agent.njk
 maker: "get-vix"
 license: "AGPL-3.0"
 url: "https://github.com/get-vix/vix"
@@ -14,7 +15,6 @@ language: "Go"
 homepage: "https://getvix.dev"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Sleek, Fast and Token Efficient AI Coding Agent

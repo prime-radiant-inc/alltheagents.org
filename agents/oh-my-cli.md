@@ -1,6 +1,7 @@
 ---
 name: "oh-my-cli"
 slug: "oh-my-cli"
+layout: agent.njk
 maker: "qwen-code-dev-bot"
 license: "Apache-2.0"
 url: "https://github.com/qwen-code-dev-bot/oh-my-cli"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A minimal autonomous code-agent CLI built with Qwen Code

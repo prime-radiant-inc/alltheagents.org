@@ -1,6 +1,7 @@
 ---
 name: "lunaroute"
 slug: "lunaroute"
+layout: agent.njk
 maker: "erans"
 license: "Apache-2.0"
 url: "https://github.com/erans/lunaroute"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 LunaRoute is a high-performance local proxy for AI coding assistants like Claude Code, OpenAI Codex CLI, and OpenCode. Get complete visibility into every LLM interaction with zero-overhead passthrough, comprehensive session recording, and powerful debugging capabilities.

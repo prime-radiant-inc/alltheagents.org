@@ -1,6 +1,7 @@
 ---
 name: "seance"
 slug: "seance"
+layout: agent.njk
 maker: "no1msd"
 license: "MIT"
 url: "https://github.com/no1msd/seance"
@@ -15,7 +16,6 @@ language: "Zig"
 homepage: "https://no1msd.github.io/seance"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A scrolling terminal multiplexer that tracks your AI coding agents.

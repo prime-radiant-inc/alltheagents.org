@@ -1,6 +1,7 @@
 ---
 name: "Flue"
 slug: "flue"
+layout: agent.njk
 maker: "withastro"
 license: "Apache-2.0"
 url: "https://github.com/withastro/flue"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "author_search"
-layout: agent.njk
 ---
 
 The sandbox agent framework.

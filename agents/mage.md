@@ -1,6 +1,7 @@
 ---
 name: "MAGE"
 slug: "mage"
+layout: agent.njk
 maker: "stable-lab"
 license: "MIT"
 url: "https://github.com/stable-lab/MAGE"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://stable-lab.github.io/MAGE/"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 MAGE: A Multi-Agent Engine for Automated RTL Code Generation

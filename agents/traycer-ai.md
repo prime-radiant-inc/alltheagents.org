@@ -1,6 +1,7 @@
 ---
 name: "Traycer AI"
 slug: "traycer-ai"
+layout: agent.njk
 maker: "Traycer"
 license: "Proprietary"
 url: "https://traycer.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI coding agent for software development

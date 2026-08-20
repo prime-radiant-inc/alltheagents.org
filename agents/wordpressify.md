@@ -1,6 +1,7 @@
 ---
 name: "Wordpressify"
 slug: "wordpressify"
+layout: agent.njk
 maker: "luangjokaj"
 license: "MIT"
 url: "https://github.com/luangjokaj/wordpressify"
@@ -14,7 +15,6 @@ language: "PHP"
 homepage: "http://wordpressify.co"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Wordpressify](https://github.com/luangjokaj/wordpressify) - 🎈 Automate your WordPress development workflow.

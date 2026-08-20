@@ -1,6 +1,7 @@
 ---
 name: "demo2apk"
 slug: "demo2apk"
+layout: agent.njk
 maker: "DeadWaveWave"
 license: null
 url: "https://github.com/DeadWaveWave/demo2apk"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Turn your Vibe Coding ideas into runnable Android Apps instantly

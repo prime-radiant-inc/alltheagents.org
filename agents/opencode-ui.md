@@ -1,6 +1,7 @@
 ---
 name: "OpenCode_UI"
 slug: "opencode-ui"
+layout: agent.njk
 maker: "LaiZhou"
 license: "MIT"
 url: "https://github.com/LaiZhou/OpenCode_UI"
@@ -15,7 +16,6 @@ language: "Kotlin"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 A JetBrains IDE plugin that integrates OpenCode — the open-source AI coding agent — directly into your development workflow.

@@ -1,6 +1,7 @@
 ---
 name: "Nlp-With-Llms"
 slug: "nlp-with-llms"
+layout: agent.njk
 maker: "jonkrohn"
 license: "MIT"
 url: "https://github.com/jonkrohn/NLP-with-LLMs"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Nlp-With-Llms](https://github.com/jonkrohn/NLP-with-LLMs) - Natural Language Processing with Large Language Models

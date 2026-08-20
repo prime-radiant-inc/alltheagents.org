@@ -1,6 +1,7 @@
 ---
 name: "HttpClientCodeGenerator"
 slug: "httpclientcodegenerator"
+layout: agent.njk
 maker: "Jalalx"
 license: "MIT"
 url: "https://github.com/Jalalx/HttpClientCodeGenerator"
@@ -15,7 +16,6 @@ language: "C#"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 HttpClientGenerator is a tool that uses the Roslyn code generator feature to write boilerplate HttpClient code for you.

@@ -1,6 +1,7 @@
 ---
 name: "open-spdd"
 slug: "open-spdd"
+layout: agent.njk
 maker: "gszhangwei"
 license: "MIT"
 url: "https://github.com/gszhangwei/open-spdd"
@@ -14,7 +15,6 @@ language: "Go"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 A SPDD AI Coding Assistant Command Template Manager

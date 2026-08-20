@@ -1,6 +1,7 @@
 ---
 name: "Agent Orchestrator (AO)"
 slug: "agent-orchestrator-ao"
+layout: agent.njk
 maker: "Untrivial-ai"
 license: "Apache-2.0"
 url: "https://github.com/Untrivial-ai/agent-orchestrator"
@@ -18,7 +19,6 @@ language: "Go"
 homepage: "http://aoagents.dev/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Agent Orchestrator (AO)](https://github.com/Untrivial-ai/agent-orchestrator)** `⭐ 9.6k` — Desktop app and `ao` CLI for supervising Claude Code, Codex, Cursor, OpenCode, and 20+ other agents in parallel; every Git-backed session gets its own worktree, branch, and pull request, and CI failures, review comments, and merge conflicts are routed back to the agent that owns them. Go + Electron, Apache-2.0.

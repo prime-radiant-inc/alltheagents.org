@@ -1,6 +1,7 @@
 ---
 name: "Codev"
 slug: "codev"
+layout: agent.njk
 maker: "Codev"
 license: "Proprietary"
 url: "https://codev.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI code generation and development tool

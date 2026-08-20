@@ -1,6 +1,7 @@
 ---
 name: "Canva Code"
 slug: "canva-code"
+layout: agent.njk
 maker: "Canva"
 license: "Proprietary"
 url: "https://www.canva.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Canva's AI code generation feature for building designs and apps

@@ -1,6 +1,7 @@
 ---
 name: "vibe-coding"
 slug: "vibe-coding"
+layout: agent.njk
 maker: "thelinkapi"
 license: null
 url: "https://github.com/thelinkapi/vibe-coding"
@@ -14,7 +15,6 @@ language: null
 homepage: "https://thelinkapi.com"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Vibe Coding 零基础教程

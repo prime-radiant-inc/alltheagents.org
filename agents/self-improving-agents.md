@@ -1,6 +1,7 @@
 ---
 name: "self-improving-agents"
 slug: "self-improving-agents"
+layout: agent.njk
 maker: "BetterForAll"
 license: "MIT"
 url: "https://github.com/BetterForAll/self-improving-agents"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Self-Improving Agents -- A Progression Four levels of self-improving code agents, from the simplest loop to a full adversarial arena with self-modifying agents. Each level adds one key idea.

@@ -1,6 +1,7 @@
 ---
 name: "Repo-To-Text"
 slug: "repo-to-text"
+layout: agent.njk
 maker: "kirill-markin"
 license: "MIT"
 url: "https://github.com/kirill-markin/repo-to-text"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://pypi.org/project/repo-to-text/"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Repo-To-Text](https://github.com/kirill-markin/repo-to-text) - Convert a repository structure and its contents into a single text file, including the tree output and file contents in markdown code blo…

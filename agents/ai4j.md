@@ -1,6 +1,7 @@
 ---
 name: "ai4j"
 slug: "ai4j"
+layout: agent.njk
 maker: "LnYo-Cly"
 license: "Apache-2.0"
 url: "https://github.com/LnYo-Cly/ai4j"
@@ -15,7 +16,6 @@ language: "Java"
 homepage: "https://lnyo-cly.github.io/ai4j/"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent Runtime, and a built-in Coding Agent CLI/TUI/ACP.

@@ -1,6 +1,7 @@
 ---
 name: "interface"
 slug: "interface"
+layout: agent.njk
 maker: "arctic-cli"
 license: "MIT"
 url: "https://github.com/arctic-cli/interface"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://usearctic.sh"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 The multi-provider AI coding interface. Unified limits, sessions, and tools for Codex, Gemini, Anthropic, Copilot and more in your terminal.

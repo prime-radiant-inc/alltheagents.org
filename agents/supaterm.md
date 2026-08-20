@@ -1,6 +1,7 @@
 ---
 name: "supaterm"
 slug: "supaterm"
+layout: agent.njk
 maker: "supabitapp"
 license: "NOASSERTION"
 url: "https://github.com/supabitapp/supaterm"
@@ -15,7 +16,6 @@ language: "Swift"
 homepage: "https://supaterm.com"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 a terminal for the coding agents age

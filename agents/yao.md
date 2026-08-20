@@ -1,6 +1,7 @@
 ---
 name: "yao"
 slug: "yao"
+layout: agent.njk
 maker: "YaoApp"
 license: "NOASSERTION"
 url: "https://github.com/YaoApp/yao"
@@ -16,7 +17,6 @@ language: "Go"
 homepage: "https://yaoagents.com"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.

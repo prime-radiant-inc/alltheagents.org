@@ -1,6 +1,7 @@
 ---
 name: "h5i"
 slug: "h5i"
+layout: agent.njk
 maker: "h5i-dev"
 license: "Apache-2.0"
 url: "https://github.com/h5i-dev/h5i"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: "https://h5i.dev"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[h5i](https://github.com/h5i-dev/h5i)** `⭐ 531` — Runs several coding agents (Claude Code, Codex) on the same task in isolated sandboxes, has them peer-review each other, then a neutral verifier replays and tests each candidate and merges the one that passes. Run metadata is versioned in the repo under `refs/h5i/*`. Apache-2.0.

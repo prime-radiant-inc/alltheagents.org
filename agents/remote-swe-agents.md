@@ -1,6 +1,7 @@
 ---
 name: "remote-swe-agents"
 slug: "remote-swe-agents"
+layout: agent.njk
 maker: "aws-samples"
 license: "MIT-0"
 url: "https://github.com/aws-samples/remote-swe-agents"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Autonomous SWE agent working in the cloud!

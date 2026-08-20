@@ -1,6 +1,7 @@
 ---
 name: "codedna"
 slug: "codedna"
+layout: agent.njk
 maker: "Larens94"
 license: "MIT"
 url: "https://github.com/Larens94/codedna"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://larens94.github.io/codedna"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A lightweight annotation standard that helps AI agents navigate codebases faster, with fewer file reads and tool calls

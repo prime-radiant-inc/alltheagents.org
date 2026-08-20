@@ -1,6 +1,7 @@
 ---
 name: "Intelligent-Agent"
 slug: "intelligent-agent"
+layout: agent.njk
 maker: "balaaagi"
 license: null
 url: "https://github.com/balaaagi/Intelligent-Agent"
@@ -14,7 +15,6 @@ language: "Java"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Intelligent-Agent](https://github.com/balaaagi/Intelligent-Agent) - This repository contains an AI agent that can pass a human intelligence test.

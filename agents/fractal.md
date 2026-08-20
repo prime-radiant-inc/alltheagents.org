@@ -1,6 +1,7 @@
 ---
 name: "fractal"
 slug: "fractal"
+layout: agent.njk
 maker: "plasma-ai"
 license: "Apache-2.0"
 url: "https://github.com/plasma-ai/fractal"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[fractal](https://github.com/plasma-ai/fractal)** `⭐ 694` — CLI/TUI orchestrator for hierarchical agent loops, with nodes working in their own git worktrees and delegating separable subtasks to child agents. Supports Claude Code, Codex, Grok Build, OpenCode, and Oh My Pi, with configurable caps on iterations, depth, direct children, cost, and time. Apache-2.0.

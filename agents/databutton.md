@@ -1,6 +1,7 @@
 ---
 name: "Databutton"
 slug: "databutton"
+layout: agent.njk
 maker: "Databutton"
 license: "Proprietary"
 url: "https://www.databutton.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI app builder for creating data apps and dashboards

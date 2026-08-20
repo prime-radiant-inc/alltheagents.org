@@ -1,6 +1,7 @@
 ---
 name: "coze-studio"
 slug: "coze-studio"
+layout: agent.njk
 maker: "coze-dev"
 license: "Apache-2.0"
 url: "https://github.com/coze-dev/coze-studio"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.

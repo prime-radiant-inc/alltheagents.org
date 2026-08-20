@@ -1,6 +1,7 @@
 ---
 name: "CodeContests"
 slug: "codecontests"
+layout: agent.njk
 maker: "google-deepmind"
 license: "Apache-2.0"
 url: "https://github.com/google-deepmind/code_contests"
@@ -14,7 +15,6 @@ language: "C++"
 homepage: null
 sources:
   - "brandonhimpfen"
-layout: agent.njk
 ---
 
 - [CodeContests](https://github.com/google-deepmind/code_contests) — Competitive programming dataset for code generation.

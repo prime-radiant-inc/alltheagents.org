@@ -1,6 +1,7 @@
 ---
 name: "rgr"
 slug: "rgr"
+layout: agent.njk
 maker: "kingbootoshi"
 license: null
 url: "https://github.com/kingbootoshi/rgr"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Strict Red-Green-Refactor CLI gate for coding agents

@@ -1,6 +1,7 @@
 ---
 name: "Yeoman"
 slug: "yeoman"
+layout: agent.njk
 maker: "yeoman"
 license: null
 url: "https://github.com/yeoman/yeoman"
@@ -14,7 +15,6 @@ language: null
 homepage: "http://yeoman.io"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow

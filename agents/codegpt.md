@@ -1,6 +1,7 @@
 ---
 name: "CodeGPT"
 slug: "codegpt"
+layout: agent.njk
 maker: "CodeGPT"
 license: "Proprietary"
 url: "https://www.codegpt.co"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI coding assistant integrated into IDEs with code generation and chat

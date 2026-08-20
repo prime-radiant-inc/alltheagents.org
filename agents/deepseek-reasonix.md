@@ -1,6 +1,7 @@
 ---
 name: "DeepSeek Reasonix"
 slug: "deepseek-reasonix"
+layout: agent.njk
 maker: "esengine"
 license: "MIT"
 url: "https://github.com/esengine/DeepSeek-Reasonix"
@@ -17,7 +18,6 @@ sources:
   - "jqueryscript"
   - "jqueryscript"
   - "brad"
-layout: agent.njk
 ---
 
 A terminal coding agent designed for DeepSeek models with persistent sessions, repository tools, and cache-aware execution.

@@ -1,6 +1,7 @@
 ---
 name: "honeycomb"
 slug: "honeycomb"
+layout: agent.njk
 maker: "legioncodeinc"
 license: "AGPL-3.0"
 url: "https://github.com/legioncodeinc/honeycomb"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://www.theapiary.sh"
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 AI coding agents forget. They forget across sessions, and they forget across tools. A decision you reached in Claude Code at midnight is invisible to Cursor the next morning. Honeycomb fixes that. Learn something once; recall it everywhere,

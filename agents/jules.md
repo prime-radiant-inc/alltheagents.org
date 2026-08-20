@@ -1,6 +1,7 @@
 ---
 name: "Jules"
 slug: "jules"
+layout: agent.njk
 maker: "Google"
 license: "Proprietary"
 url: "https://jules.google"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Google's AI coding agent that handles GitHub issues asynchronously in cloud VMs

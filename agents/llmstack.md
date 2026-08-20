@@ -1,6 +1,7 @@
 ---
 name: "Llmstack"
 slug: "llmstack"
+layout: agent.njk
 maker: "trypromptly"
 license: "NOASSERTION"
 url: "https://github.com/trypromptly/LLMStack"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://llmstack.trypromptly.com"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Llmstack](https://github.com/trypromptly/LLMStack) - No-code multi-agent framework to build LLM Agents, workflows and applications with your data

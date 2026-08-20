@@ -1,6 +1,7 @@
 ---
 name: "tokenjuice"
 slug: "tokenjuice"
+layout: agent.njk
 maker: "vincentkoc"
 license: "MIT"
 url: "https://github.com/vincentkoc/tokenjuice"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 🧃 Token weight loss. Lean output compaction for terminal-heavy agent workflows. Works as a native CLI tool or as an extension to popular coding and agent frameworks.

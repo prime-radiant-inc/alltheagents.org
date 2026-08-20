@@ -1,6 +1,7 @@
 ---
 name: "coding-agent"
 slug: "coding-agent"
+layout: agent.njk
 maker: "embabel"
 license: "Apache-2.0"
 url: "https://github.com/embabel/coding-agent"
@@ -14,7 +15,6 @@ language: "Kotlin"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Embabel Agentic Flow for Software Engineers

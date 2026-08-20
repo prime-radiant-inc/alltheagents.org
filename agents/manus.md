@@ -1,6 +1,7 @@
 ---
 name: "Manus"
 slug: "manus"
+layout: agent.njk
 maker: "Manus AI"
 license: "Proprietary"
 url: "https://manus.im"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 General AI agent that can write and execute code autonomously

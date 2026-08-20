@@ -1,6 +1,7 @@
 ---
 name: "Firebase Studio"
 slug: "firebase-studio"
+layout: agent.njk
 maker: "Google"
 license: "Proprietary"
 url: "https://firebase.google.com/products/studio"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Google AI-powered app development environment with agent capabilities

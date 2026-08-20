@@ -1,6 +1,7 @@
 ---
 name: "MiMo Code"
 slug: "mimo-code"
+layout: agent.njk
 maker: "XiaomiMiMo"
 license: "MIT"
 url: "https://github.com/XiaomiMiMo/MiMo-Code"
@@ -17,7 +18,6 @@ sources:
   - "jqueryscript"
   - "jqueryscript"
   - "brad"
-layout: agent.njk
 ---
 
 Xiaomi's terminal coding agent with interactive and headless modes, repository tools, skills, hooks, and worktree support.

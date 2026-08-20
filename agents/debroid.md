@@ -1,6 +1,7 @@
 ---
 name: "debroid"
 slug: "debroid"
+layout: agent.njk
 maker: "PatilShreyas"
 license: "Apache-2.0"
 url: "https://github.com/PatilShreyas/debroid"
@@ -15,7 +16,6 @@ language: "Kotlin"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Autonomous, headless Android debugger designed for AI coding agents. Inspect runtime memory, set breakpoints, and debug live apps.

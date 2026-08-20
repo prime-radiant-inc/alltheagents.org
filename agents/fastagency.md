@@ -1,6 +1,7 @@
 ---
 name: "FastAgency"
 slug: "fastagency"
+layout: agent.njk
 maker: "ag2ai"
 license: "Apache-2.0"
 url: "https://github.com/airtai/fastagency"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://fastagency.ai/latest"
 sources:
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [FastAgency](https://github.com/airtai/fastagency) | Deploy multi-agent workflows as APIs. | Free (OSS) |

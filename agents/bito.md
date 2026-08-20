@@ -1,6 +1,7 @@
 ---
 name: "Bito"
 slug: "bito"
+layout: agent.njk
 maker: "Bito"
 license: "Proprietary"
 url: "https://bito.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI coding assistant for code generation review and debugging

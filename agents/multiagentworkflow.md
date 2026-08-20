@@ -1,6 +1,7 @@
 ---
 name: "Multiagentworkflow"
 slug: "multiagentworkflow"
+layout: agent.njk
 maker: "zachnoel"
 license: null
 url: "https://github.com/zachnoel/multiAgentWorkflow"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Multiagentworkflow](https://github.com/zachnoel/multiAgentWorkflow) - A sample Multi AI agent workflow for testing out AI agent frameworks

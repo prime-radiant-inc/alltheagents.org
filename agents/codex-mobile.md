@@ -1,6 +1,7 @@
 ---
 name: "codex-mobile"
 slug: "codex-mobile"
+layout: agent.njk
 maker: "friuns2"
 license: "MIT"
 url: "https://github.com/friuns2/codex-mobile"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://friuns2.github.io/codex-mobile/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 🚀 Run Codex Mobile Anywhere: Linux, Windows, or Termux on Android 🚀

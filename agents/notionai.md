@@ -1,6 +1,7 @@
 ---
 name: "NotionAI"
 slug: "notionai"
+layout: agent.njk
 maker: "Notion"
 license: "Proprietary"
 url: "https://notion.so/ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI assistant integrated into Notion including coding capabilities

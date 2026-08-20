@@ -1,6 +1,7 @@
 ---
 name: "local-ai-code-assistant"
 slug: "local-ai-code-assistant"
+layout: agent.njk
 maker: "MIKOTOKAWAII25"
 license: null
 url: "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: null
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 Local AI Coding Hub: Run Claude Models Offline in 2026

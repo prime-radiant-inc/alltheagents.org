@@ -1,6 +1,7 @@
 ---
 name: "context-hub"
 slug: "context-hub"
+layout: agent.njk
 maker: "andrewyng"
 license: "MIT"
 url: "https://github.com/andrewyng/context-hub"
@@ -14,7 +15,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "namphuong"
-layout: agent.njk
 ---
 
 - [context-hub](https://github.com/andrewyng/context-hub) - Context-management tool that organizes codebase information into structured docs with agent feedback loops.

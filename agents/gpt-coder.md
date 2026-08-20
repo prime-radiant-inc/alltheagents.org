@@ -1,6 +1,7 @@
 ---
 name: "gpt-coder"
 slug: "gpt-coder"
+layout: agent.njk
 maker: "alicheg"
 license: "MIT"
 url: "https://github.com/alicheg/gpt-coder"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 An AI-driven code generation tool that creates and solves code challenges using OpenAI's GPT models, featuring auto-refinement, automated testing, compilation.

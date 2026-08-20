@@ -1,6 +1,7 @@
 ---
 name: "cortex"
 slug: "cortex"
+layout: agent.njk
 maker: "urbint"
 license: "MIT"
 url: "https://github.com/urbint/cortex"
@@ -14,7 +15,6 @@ language: "Elixir"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 The intelligent coding assistant for Elixir

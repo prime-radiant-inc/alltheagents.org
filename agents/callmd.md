@@ -1,6 +1,7 @@
 ---
 name: "call.md"
 slug: "callmd"
+layout: agent.njk
 maker: "video-db"
 license: null
 url: "https://github.com/video-db/call.md"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://docs.videodb.io/examples-and-tutorials/ai-copilots/call-md"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls.

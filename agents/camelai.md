@@ -1,6 +1,7 @@
 ---
 name: "camelAI"
 slug: "camelai"
+layout: agent.njk
 maker: "qaml-ai"
 license: "MIT"
 url: "https://github.com/qaml-ai/camelAI"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects

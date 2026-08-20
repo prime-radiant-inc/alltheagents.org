@@ -1,6 +1,7 @@
 ---
 name: "vibe-tree"
 slug: "vibe-tree"
+layout: agent.njk
 maker: "sahithvibudhi"
 license: "MIT"
 url: "https://github.com/sahithvibudhi/vibe-tree"
@@ -17,7 +18,6 @@ language: "TypeScript"
 homepage: "https://sahithvibudhi.github.io/vibe-tree/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** `⭐ 264` — Execute Claude Code tasks in parallel git worktrees.

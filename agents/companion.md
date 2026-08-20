@@ -1,6 +1,7 @@
 ---
 name: "companion"
 slug: "companion"
+layout: agent.njk
 maker: "quack-ai"
 license: "Apache-2.0"
 url: "https://github.com/quack-ai/companion"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://docs.quackai.com"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 VSCode coding companion for software teams 🦆 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot & OpenAI GPT powered by OSS LLMs (Phi 3, Llama 3, CodeQwen, Mistral, etc.), made with ❤️ using FastAPI & Ollama.

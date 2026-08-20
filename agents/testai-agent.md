@@ -1,6 +1,7 @@
 ---
 name: "Testai-Agent"
 slug: "testai-agent"
+layout: agent.njk
 maker: "khanzzirfan"
 license: "MIT"
 url: "https://github.com/khanzzirfan/TestAI-Agent"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Testai-Agent](https://github.com/khanzzirfan/TestAI-Agent) - write a test ai agent to write automated tests on PR requests

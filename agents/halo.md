@@ -1,6 +1,7 @@
 ---
 name: "HALO"
 slug: "halo"
+layout: agent.njk
 maker: "context-labs"
 license: null
 url: "https://github.com/context-labs/HALO"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Hierarchal Agent Loop Optimizer

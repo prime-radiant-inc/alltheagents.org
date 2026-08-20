@@ -1,6 +1,7 @@
 ---
 name: "OpenHands"
 slug: "openhands"
+layout: agent.njk
 maker: "OpenHands"
 license: "MIT"
 url: "https://github.com/OpenHands/OpenHands"
@@ -21,7 +22,6 @@ sources:
   - "flatlogic"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 An autonomous software development platform that can modify repositories, run commands, and work on GitHub issues.

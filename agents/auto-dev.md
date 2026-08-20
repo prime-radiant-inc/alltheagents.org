@@ -1,6 +1,7 @@
 ---
 name: "auto-dev"
 slug: "auto-dev"
+layout: agent.njk
 maker: "phodal"
 license: "MPL-2.0"
 url: "https://github.com/phodal/auto-dev"
@@ -14,7 +15,6 @@ language: "Kotlin"
 homepage: "https://ide.unitmesh.cc/"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 🧙‍AutoDev: the Multi-Agent coding development platform built on Kotlin Multiplatform.

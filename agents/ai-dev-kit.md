@@ -1,6 +1,7 @@
 ---
 name: "ai-dev-kit"
 slug: "ai-dev-kit"
+layout: agent.njk
 maker: "databricks-solutions"
 license: "NOASSERTION"
 url: "https://github.com/databricks-solutions/ai-dev-kit"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Databricks Toolkit for Coding Agents provided by Field Engineering

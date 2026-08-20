@@ -1,6 +1,7 @@
 ---
 name: "ralph"
 slug: "ralph"
+layout: agent.njk
 maker: "snarktank"
 license: "MIT"
 url: "https://github.com/snarktank/ralph"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://x.com/ryancarson/status/2008548371712135632"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.

@@ -1,6 +1,7 @@
 ---
 name: "nezha"
 slug: "nezha"
+layout: agent.njk
 maker: "hanshuaikang"
 license: "GPL-3.0"
 url: "https://github.com/hanshuaikang/nezha"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://nezha.hanshutx.com/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.

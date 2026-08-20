@@ -1,6 +1,7 @@
 ---
 name: "Ai-Dev-Agent-Test"
 slug: "ai-dev-agent-test"
+layout: agent.njk
 maker: "eventstubsol"
 license: null
 url: "https://github.com/eventstubsol/ai-dev-agent-test"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Ai-Dev-Agent-Test](https://github.com/eventstubsol/ai-dev-agent-test) - A test repository created by AI Dev Agent

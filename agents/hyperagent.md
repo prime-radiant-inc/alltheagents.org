@@ -1,6 +1,7 @@
 ---
 name: "HyperAgent"
 slug: "hyperagent"
+layout: agent.njk
 maker: "FSoft-AI4Code"
 license: "Apache-2.0"
 url: "https://github.com/FSoft-AI4Code/HyperAgent"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Generalist Software Agents to Solve Soware Engineering Tasks

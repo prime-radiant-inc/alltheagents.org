@@ -1,6 +1,7 @@
 ---
 name: "small-opencode-orchestrator"
 slug: "small-opencode-orchestrator"
+layout: agent.njk
 maker: "tempont"
 license: "MIT"
 url: "https://github.com/tempont/small-opencode-orchestrator"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 A lightweight implementation of an orchestrated multi-agent workflow, in which a central coordinator delegates tasks to specialized subagents to optimize token efficiency without compromising code generation quality.

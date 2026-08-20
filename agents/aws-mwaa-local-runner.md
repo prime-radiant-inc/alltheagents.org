@@ -1,6 +1,7 @@
 ---
 name: "Aws-Mwaa-Local-Runner"
 slug: "aws-mwaa-local-runner"
+layout: agent.njk
 maker: "aws"
 license: "MIT-0"
 url: "https://github.com/aws/aws-mwaa-local-runner"
@@ -16,7 +17,6 @@ language: "Shell"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Aws-Mwaa-Local-Runner](https://github.com/aws/aws-mwaa-local-runner) - This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) env…

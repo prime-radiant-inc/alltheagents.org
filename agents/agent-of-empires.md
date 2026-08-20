@@ -1,6 +1,7 @@
 ---
 name: "agent-of-empires"
 slug: "agent-of-empires"
+layout: agent.njk
 maker: "agent-of-empires"
 license: "MIT"
 url: "https://github.com/njbrake/agent-of-empires"
@@ -16,7 +17,6 @@ language: "Rust"
 homepage: "http://www.agent-of-empires.com/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[agent-of-empires](https://github.com/njbrake/agent-of-empires)** `⭐ 3.1k` — Manage multiple Claude Code, OpenCode, Codex CLI, Gemini CLI, Pi, Copilot CLI, Mistral Vibe, and Factory Droid agents from a TUI or web UI (mobile-friendly). Rust, uses tmux + git worktrees. MIT.

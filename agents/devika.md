@@ -1,6 +1,7 @@
 ---
 name: "Devika"
 slug: "devika"
+layout: agent.njk
 maker: "stitionai"
 license: "MIT"
 url: "https://github.com/stitionai/devika"
@@ -23,7 +24,6 @@ sources:
   - "jim"
   - "jim"
   - "brandonhimpfen"
-layout: agent.njk
 ---
 
 An autonomous software engineer that plans requested applications, researches requirements, writes code, and tracks execution.

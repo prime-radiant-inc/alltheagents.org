@@ -1,6 +1,7 @@
 ---
 name: "zeroshot"
 slug: "zeroshot"
+layout: agent.njk
 maker: "the-open-engine"
 license: "MIT"
 url: "https://github.com/the-open-engine/zeroshot"
@@ -15,7 +16,6 @@ language: "JavaScript"
 homepage: "https://www.theopenengine.com"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[zeroshot](https://github.com/the-open-engine/zeroshot)** `⭐ 1.7k` — Runs a planner, an implementer, and independent validators in isolated local, git worktree, or Docker environments, looping until a change is verified or rejected with reproducible failures. Works with Claude, Codex, Gemini, and OpenCode CLIs; issue backends for GitHub, GitLab, Jira, Azure DevOps. MIT.

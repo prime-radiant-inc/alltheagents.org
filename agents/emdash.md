@@ -1,6 +1,7 @@
 ---
 name: "Emdash"
 slug: "emdash"
+layout: agent.njk
 maker: "generalaction"
 license: "Apache-2.0"
 url: "https://github.com/generalaction/emdash"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://emdash.com"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Emdash](https://github.com/generalaction/emdash)** `⭐ 5.4k` — Run multiple coding agents concurrently with coordinated workflows.

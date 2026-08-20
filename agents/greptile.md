@@ -1,6 +1,7 @@
 ---
 name: "Greptile"
 slug: "greptile"
+layout: agent.njk
 maker: null
 license: null
 url: "https://greptile.com"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "vinkius"
-layout: agent.njk
 ---
 
 | [Greptile](https://greptile.com) | Codebase-aware AI for code reviews |

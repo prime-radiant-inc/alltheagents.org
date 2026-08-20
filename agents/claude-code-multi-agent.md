@@ -1,6 +1,7 @@
 ---
 name: "Claude-Code-Multi-Agent"
 slug: "claude-code-multi-agent"
+layout: agent.njk
 maker: "Prorise-cool"
 license: null
 url: "https://github.com/Prorise-cool/Claude-Code-Multi-Agent"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Claude-Code-Multi-Agent驱动的新一代AI编程助手生态系统，基于Claude Code构建的智能代理协调工作空间，实现从需求到交付的全流程自动化开发

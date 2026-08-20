@@ -1,6 +1,7 @@
 ---
 name: "Syncode"
 slug: "syncode"
+layout: agent.njk
 maker: "structuredllm"
 license: "MIT"
 url: "https://github.com/uiuc-focal-lab/syncode"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://structuredllm.com"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Syncode](https://github.com/uiuc-focal-lab/syncode) - Efficient and general syntactical decoding for Large Language Models

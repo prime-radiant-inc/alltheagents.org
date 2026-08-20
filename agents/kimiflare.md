@@ -1,6 +1,7 @@
 ---
 name: "kimiflare"
 slug: "kimiflare"
+layout: agent.njk
 maker: "sinameraji"
 license: "MIT"
 url: "https://github.com/sinameraji/kimiflare"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://kimiflare.com"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Moonshot kimi k3 terminal based coding agent & harness running on your own Cloudflare account.

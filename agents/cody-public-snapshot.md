@@ -1,6 +1,7 @@
 ---
 name: "cody-public-snapshot"
 slug: "cody-public-snapshot"
+layout: agent.njk
 maker: "sourcegraph"
 license: "Apache-2.0"
 url: "https://github.com/sourcegraph/cody-public-snapshot"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://cody.dev"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.

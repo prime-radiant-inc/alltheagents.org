@@ -1,6 +1,7 @@
 ---
 name: "sinew"
 slug: "sinew"
+layout: agent.njk
 maker: "Paseru"
 license: "MIT"
 url: "https://github.com/Paseru/sinew"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: "https://sinew-ide.com/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Agentic IDE with custom harness

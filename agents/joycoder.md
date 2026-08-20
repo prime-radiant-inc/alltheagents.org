@@ -1,6 +1,7 @@
 ---
 name: "JoyCoder"
 slug: "joycoder"
+layout: agent.njk
 maker: "JoyCoder"
 license: "Proprietary"
 url: "https://joycoder.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI coding assistant with code generation and debugging

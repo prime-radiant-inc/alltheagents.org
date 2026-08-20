@@ -1,6 +1,7 @@
 ---
 name: "Snow CLI"
 slug: "snow-cli"
+layout: agent.njk
 maker: "MayDay-wpf"
 license: "Source Available"
 url: "https://github.com/MayDay-wpf/snow-cli"
@@ -16,7 +17,6 @@ homepage: null
 sources:
   - "jqueryscript"
   - "jqueryscript"
-layout: agent.njk
 ---
 
 A terminal coding agent with support for OpenAI-, Gemini-, Claude-, and DeepSeek-based development workflows.

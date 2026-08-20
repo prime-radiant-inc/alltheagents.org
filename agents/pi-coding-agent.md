@@ -1,6 +1,7 @@
 ---
 name: "pi-coding-agent"
 slug: "pi-coding-agent"
+layout: agent.njk
 maker: "dnouri"
 license: "GPL-3.0"
 url: "https://github.com/dnouri/pi-coding-agent"
@@ -14,7 +15,6 @@ language: "Emacs Lisp"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Emacs frontend for the Pi coding agent

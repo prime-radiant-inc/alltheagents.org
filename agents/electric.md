@@ -1,6 +1,7 @@
 ---
 name: "electric"
 slug: "electric"
+layout: agent.njk
 maker: "electric-sql"
 license: "Apache-2.0"
 url: "https://github.com/electric-sql/electric"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://electric.ax"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 The agent platform built on sync.

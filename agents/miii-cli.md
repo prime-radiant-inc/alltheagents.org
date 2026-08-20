@@ -1,6 +1,7 @@
 ---
 name: "miii-cli"
 slug: "miii-cli"
+layout: agent.njk
 maker: "maruakshay"
 license: "MIT"
 url: "https://github.com/maruakshay/miii-cli"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Local AI coding agent for your terminal. Open-source, offline alternative to Claude Code, Cursor & Copilot — powered by Ollama and any local LLM. Private by default, free forever.

@@ -1,6 +1,7 @@
 ---
 name: "deepseek-cli"
 slug: "deepseek-cli"
+layout: agent.njk
 maker: "holasoymalva"
 license: "MIT"
 url: "https://github.com/holasoymalva/deepseek-cli"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://deepseek-cli.vercel.app/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 DeepSeek CLI, a command-line AI coding assistant that leverages the powerful DeepSeek Coder models

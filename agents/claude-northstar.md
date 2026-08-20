@@ -1,6 +1,7 @@
 ---
 name: "claude-northstar"
 slug: "claude-northstar"
+layout: agent.njk
 maker: "Nisarg38"
 license: "MIT"
 url: "https://github.com/Nisarg38/claude-northstar"
@@ -16,7 +17,6 @@ language: "Shell"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[claude-northstar](https://github.com/Nisarg38/claude-northstar)** `⭐ 1` — Transforms CLI agents from task executors into autonomous project partners.

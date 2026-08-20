@@ -1,6 +1,7 @@
 ---
 name: "WebCode"
 slug: "webcode"
+layout: agent.njk
 maker: "shuyu-labs"
 license: "NOASSERTION"
 url: "https://github.com/shuyu-labs/WebCode"
@@ -16,7 +17,6 @@ language: "C#"
 homepage: "https://wc.tree456.com/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 WebCode is a browser-based AI coding platform that lets you remotely run CLI assistants like Claude Code and Codex. Code anywhere with just a web browser. We’re also adding an office-assistant mode for planning, research/summaries, meeting notes, and drafting docs/emails—connected to your project context.

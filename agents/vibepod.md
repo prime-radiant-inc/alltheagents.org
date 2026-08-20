@@ -1,6 +1,7 @@
 ---
 name: "VibePod"
 slug: "vibepod"
+layout: agent.njk
 maker: "VibePod"
 license: "MIT"
 url: "https://github.com/VibePod/vibepod-cli"
@@ -17,7 +18,6 @@ homepage: "https://vibepod.dev"
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[VibePod](https://github.com/VibePod/vibepod-cli)** `⭐ 130` — Unified CLI for running AI coding agents in isolated Docker containers; zero-config setup, local metrics, HTTP traffic tracking, and an analytics dashboard for side-by-side comparison.

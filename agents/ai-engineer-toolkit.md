@@ -1,6 +1,7 @@
 ---
 name: "ai-engineer-toolkit"
 slug: "ai-engineer-toolkit"
+layout: agent.njk
 maker: "break-into-data"
 license: null
 url: "https://github.com/break-into-data/ai-engineer-toolkit"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 Projects & Resources to help you become a better AI Developer.

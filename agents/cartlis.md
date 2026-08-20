@@ -1,6 +1,7 @@
 ---
 name: "Cartlis"
 slug: "cartlis"
+layout: agent.njk
 maker: "Theneo-Inc"
 license: "MIT"
 url: "https://github.com/Theneo-Inc/Cartlis"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Cartlis](https://github.com/Theneo-Inc/Cartlis) - The AI-Powered API Governance Agent enforces rules in real-time, seamlessly integrating with infrastructures and auto-patching violations…

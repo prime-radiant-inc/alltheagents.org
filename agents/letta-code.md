@@ -1,6 +1,7 @@
 ---
 name: "Letta Code"
 slug: "letta-code"
+layout: agent.njk
 maker: "letta-ai"
 license: "Apache-2.0"
 url: "https://github.com/letta-ai/letta-code"
@@ -18,7 +19,6 @@ sources:
   - "jqueryscript"
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 A stateful terminal coding agent with persistent memory, repository context, model flexibility, and learned working preferences.

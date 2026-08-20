@@ -1,6 +1,7 @@
 ---
 name: "Agent Teams AI"
 slug: "agent-teams-ai"
+layout: agent.njk
 maker: "777genius"
 license: "AGPL-3.0"
 url: "https://github.com/777genius/agent-teams-ai"
@@ -18,7 +19,6 @@ language: "TypeScript"
 homepage: "https://agentteams.live"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Agent Teams AI](https://github.com/777genius/agent-teams-ai)** `⭐ 1.9k` — Cross-platform desktop control plane with integrated terminals and a Kanban board for autonomous coding-agent teams; agents coordinate, message each other, and review work across Codex, Claude Code, OpenCode, Cursor, Grok, GitHub Copilot, Kiro, Z.AI, MiniMax, Kimi, and 75+ model providers. AGPL-3.0.

@@ -1,6 +1,7 @@
 ---
 name: "yoyo"
 slug: "yoyo"
+layout: agent.njk
 maker: "Independent"
 license: "MIT"
 url: "https://github.com/yoyolab/yoyo"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Self-evolving AI coding agent

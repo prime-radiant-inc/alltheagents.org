@@ -1,6 +1,7 @@
 ---
 name: "Amplifier Agent"
 slug: "amplifier-agent"
+layout: agent.njk
 maker: "microsoft"
 license: "MIT"
 url: "https://github.com/microsoft/amplifier-agent"
@@ -15,7 +16,6 @@ language: "HTML"
 homepage: null
 sources:
   - "user_reported"
-layout: agent.njk
 ---
 
 No description available.

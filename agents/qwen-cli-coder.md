@@ -1,6 +1,7 @@
 ---
 name: "qwen_cli_coder"
 slug: "qwen-cli-coder"
+layout: agent.njk
 maker: "dinoanderson"
 license: "Apache-2.0"
 url: "https://github.com/dinoanderson/qwen_cli_coder"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 🤖 Community fork of Google's Gemini CLI for Qwen AI models. A powerful command-line tool that uses Alibaba Cloud's Qwen models to understand your code, automate workflows, and accelerate   development. Features multilingual support (EN/CN), model switching, and web search integration.

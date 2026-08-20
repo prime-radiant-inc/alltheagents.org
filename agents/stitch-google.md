@@ -1,6 +1,7 @@
 ---
 name: "Stitch (Google)"
 slug: "stitch-google"
+layout: agent.njk
 maker: "Google"
 license: "Proprietary"
 url: "https://stitch.withgoogle.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Google's AI tool for generating UI designs and code from prompts

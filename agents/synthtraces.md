@@ -1,6 +1,7 @@
 ---
 name: "synthtraces"
 slug: "synthtraces"
+layout: agent.njk
 maker: "julien-c"
 license: null
 url: "https://github.com/julien-c/synthtraces"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A minimal codebase to generate synthetic coding agent session traces

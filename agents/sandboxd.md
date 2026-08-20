@@ -1,6 +1,7 @@
 ---
 name: "sandboxd"
 slug: "sandboxd"
+layout: agent.njk
 maker: "tastyeffectco"
 license: "MIT"
 url: "https://github.com/tastyeffectco/sandboxd"
@@ -14,7 +15,6 @@ language: "Go"
 homepage: "https://sandboxd.io/"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT.

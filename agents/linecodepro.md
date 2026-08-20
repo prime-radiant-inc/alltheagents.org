@@ -1,6 +1,7 @@
 ---
 name: "LineCodePro"
 slug: "linecodepro"
+layout: agent.njk
 maker: "LangLang03"
 license: "GPL-3.0"
 url: "https://github.com/LangLang03/LineCodePro"
@@ -14,7 +15,6 @@ language: "Java"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 An AI coding workstation that fits in your pocket.

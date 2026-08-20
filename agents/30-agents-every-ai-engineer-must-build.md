@@ -1,6 +1,7 @@
 ---
 name: "30-Agents-Every-AI-Engineer-Must-Build"
 slug: "30-agents-every-ai-engineer-must-build"
+layout: agent.njk
 maker: "PacktPublishing"
 license: "MIT"
 url: "https://github.com/PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: null
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 30 Agents Every AI Engineer Must Build, published by Packt

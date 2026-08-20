@@ -1,6 +1,7 @@
 ---
 name: "GLM-5"
 slug: "glm-5"
+layout: agent.njk
 maker: "zai-org"
 license: "Apache-2.0"
 url: "https://github.com/zai-org/GLM-5"
@@ -14,7 +15,6 @@ language: null
 homepage: "https://z.ai/blog/glm-5.2"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 GLM-5: From Vibe Coding to Agentic Engineering

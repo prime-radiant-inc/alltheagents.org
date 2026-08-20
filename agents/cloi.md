@@ -1,6 +1,7 @@
 ---
 name: "cloi"
 slug: "cloi"
+layout: agent.njk
 maker: "gabrielchasukjin"
 license: "MIT"
 url: "https://github.com/gabrielchasukjin/cloi"
@@ -15,7 +16,6 @@ language: "JavaScript"
 homepage: "http://www.cloi-ai.com"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A local-first coding agent for the terminal, powered by Ollama. Reads, searches, edits and runs code on your machine — no API key, no data leaving the host.

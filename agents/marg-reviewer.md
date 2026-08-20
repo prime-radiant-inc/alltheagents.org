@@ -1,6 +1,7 @@
 ---
 name: "marg-reviewer"
 slug: "marg-reviewer"
+layout: agent.njk
 maker: "allenai"
 license: "Apache-2.0"
 url: "https://github.com/allenai/marg-reviewer"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Code/data for MARG (multi-agent review generation)

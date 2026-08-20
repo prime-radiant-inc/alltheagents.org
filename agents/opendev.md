@@ -1,6 +1,7 @@
 ---
 name: "opendev"
 slug: "opendev"
+layout: agent.njk
 maker: "opendev-to"
 license: "MIT"
 url: "https://github.com/opendev-to/opendev"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Open-Source Coding Agent in the terminal

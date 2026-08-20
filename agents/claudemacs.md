@@ -1,6 +1,7 @@
 ---
 name: "claudemacs"
 slug: "claudemacs"
+layout: agent.njk
 maker: "cpoile"
 license: "MIT"
 url: "https://github.com/cpoile/claudemacs"
@@ -14,7 +15,6 @@ language: "Emacs Lisp"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 AI Pair Programming with Claude Code in Emacs

@@ -1,6 +1,7 @@
 ---
 name: "Zugabot"
 slug: "zugabot"
+layout: agent.njk
 maker: "Zugabot"
 license: "Proprietary"
 url: "https://zugabot.com"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI coding agent API

@@ -1,6 +1,7 @@
 ---
 name: "Nl2Iac"
 slug: "nl2iac"
+layout: agent.njk
 maker: "ramonbgc"
 license: null
 url: "https://github.com/ramonbgc/nl2iac"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Nl2Iac](https://github.com/ramonbgc/nl2iac) - AI agent for IaC deployments

@@ -1,6 +1,7 @@
 ---
 name: "gitlab-copilot-coding-agent"
 slug: "gitlab-copilot-coding-agent"
+layout: agent.njk
 maker: "satomic"
 license: null
 url: "https://github.com/satomic/gitlab-copilot-coding-agent"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A fully automated coding agent powered by GitHub Copilot CLI and GitLab CI/CD.

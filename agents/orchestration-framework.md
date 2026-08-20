@@ -1,6 +1,7 @@
 ---
 name: "orchestration-framework"
 slug: "orchestration-framework"
+layout: agent.njk
 maker: "Snowflake-Labs"
 license: "Apache-2.0"
 url: "https://github.com/Snowflake-Labs/orchestration-framework"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 A multi-agent framework with native support for Snowflake services

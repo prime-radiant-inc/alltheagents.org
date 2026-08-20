@@ -1,6 +1,7 @@
 ---
 name: "handoff"
 slug: "handoff"
+layout: agent.njk
 maker: "dazuiba"
 license: null
 url: "https://github.com/dazuiba/handoff"
@@ -16,7 +17,6 @@ language: "Python"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[handoff](https://github.com/dazuiba/handoff)** `⭐ 83` — Let your coding agents work together: delegate tasks to DeepSeek right inside your Claude Code or Codex sessions. Python, `uv tool install handoff-cli`.

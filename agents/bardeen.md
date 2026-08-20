@@ -1,6 +1,7 @@
 ---
 name: "Bardeen"
 slug: "bardeen"
+layout: agent.njk
 maker: null
 license: null
 url: "https://www.bardeen.ai/"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "e2b"
-layout: agent.njk
 ---
 
 - AI Agent for automating repetitive tasks

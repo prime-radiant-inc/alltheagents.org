@@ -1,6 +1,7 @@
 ---
 name: "oh-my-claudecode"
 slug: "oh-my-claudecode"
+layout: agent.njk
 maker: "Yeachan-Heo"
 license: "MIT"
 url: "https://github.com/Yeachan-Heo/oh-my-claudecode"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://oh-my-claudecode.dev"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Teams-first Multi-agent orchestration for Claude Code

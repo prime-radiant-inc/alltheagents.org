@@ -1,6 +1,7 @@
 ---
 name: "claude_code_sub_agents"
 slug: "claude-code-sub-agents"
+layout: agent.njk
 maker: "yzyydev"
 license: null
 url: "https://github.com/yzyydev/claude_code_sub_agents"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Claude Multi-Agent: Iterative Sub-Agent Orchestration System - Transform single-threaded AI assistance into a distributed, self-coordinating agent network capable of handling tasks of arbitrary complexity and scale.

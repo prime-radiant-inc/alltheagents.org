@@ -1,6 +1,7 @@
 ---
 name: "claude-flow"
 slug: "claude-flow"
+layout: agent.njk
 maker: "ruvnet"
 license: "MIT"
 url: "https://github.com/ruvnet/claude-flow"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://Cognitum.One"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[claude-flow](https://github.com/ruvnet/claude-flow)** `⭐ 68k` — Deploy multi-agent swarms with coordinated workflows.

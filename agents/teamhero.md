@@ -1,6 +1,7 @@
 ---
 name: "TeamHero"
 slug: "teamhero"
+layout: agent.njk
 maker: "sagiyaacoby"
 license: "MIT"
 url: "https://github.com/sagiyaacoby/TeamHero"
@@ -17,7 +18,6 @@ sources:
   - "jim"
   - "jim"
   - "caramaschi"
-layout: agent.njk
 ---
 
 - [TeamHero](https://github.com/sagiyaacoby/TeamHero) - Open-source multi-agent orchestration platform with a built-in web dashboard, task lifecycle management, knowledge base, and autopilot mode. Manages role-based AI agent teams locally with zero cloud dependency. Built on Claude Code. [github](https://github.com/sagiyaacoby/TeamHero)

@@ -1,6 +1,7 @@
 ---
 name: "vibeproxy"
 slug: "vibeproxy"
+layout: agent.njk
 maker: "automazeio"
 license: "MIT"
 url: "https://github.com/automazeio/vibeproxy"
@@ -15,7 +16,6 @@ language: "Swift"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed

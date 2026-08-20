@@ -1,6 +1,7 @@
 ---
 name: "vercel-doctor"
 slug: "vercel-doctor"
+layout: agent.njk
 maker: "Aniket-508"
 license: "MIT"
 url: "https://github.com/Aniket-508/vercel-doctor"
@@ -14,7 +15,6 @@ language: "MDX"
 homepage: "https://vercel-doctor.com"
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 Let coding agents diagnose and fix your Vercel bill

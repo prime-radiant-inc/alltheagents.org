@@ -1,6 +1,7 @@
 ---
 name: "Llm---Detect-Ai-Generated-Text"
 slug: "llm-detect-ai-generated-text"
+layout: agent.njk
 maker: "pinskyrobin"
 license: null
 url: "https://github.com/pinskyrobin/LLM---Detect-AI-Generated-Text"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Llm---Detect-Ai-Generated-Text](https://github.com/pinskyrobin/LLM---Detect-AI-Generated-Text) - Demo code and dataset for offline debugging

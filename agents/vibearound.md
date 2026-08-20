@@ -1,6 +1,7 @@
 ---
 name: "VibeAround"
 slug: "vibearound"
+layout: agent.njk
 maker: "jazzenchen"
 license: "MIT"
 url: "https://github.com/jazzenchen/VibeAround"
@@ -17,7 +18,6 @@ language: "Rust"
 homepage: "https://vibearound.ai/"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Keep your AI coding agents around. Launch Claude Code, Codex CLI, Gemini CLI, Pi Agent, and more from one place — side by side, connected, reachable, and ready to work across web, mobile, and messaging.

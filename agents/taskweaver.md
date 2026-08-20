@@ -1,6 +1,7 @@
 ---
 name: "TaskWeaver"
 slug: "taskweaver"
+layout: agent.njk
 maker: "microsoft"
 license: "MIT"
 url: "https://github.com/microsoft/TaskWeaver"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://microsoft.github.io/TaskWeaver/"
 sources:
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | Microsoft. Code-first data analytics agents. | Free (OSS) |

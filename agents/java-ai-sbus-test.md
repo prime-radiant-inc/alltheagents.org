@@ -1,6 +1,7 @@
 ---
 name: "Java-Ai-Sbus-Test"
 slug: "java-ai-sbus-test"
+layout: agent.njk
 maker: "abhikt48"
 license: null
 url: "https://github.com/abhikt48/java-ai-sbus-test"
@@ -14,7 +15,6 @@ language: "Java"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Java-Ai-Sbus-Test](https://github.com/abhikt48/java-ai-sbus-test) - Codeless Agent test with Azure ServiceBus

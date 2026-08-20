@@ -1,6 +1,7 @@
 ---
 name: "open-multi-agent"
 slug: "open-multi-agent"
+layout: agent.njk
 maker: "open-multi-agent"
 license: "MIT"
 url: "https://github.com/open-multi-agent/open-multi-agent"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://open-multi-agent.com"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepSeek, or local models).

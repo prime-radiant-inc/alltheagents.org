@@ -1,6 +1,7 @@
 ---
 name: "Llm-Tools"
 slug: "llm-tools"
+layout: agent.njk
 maker: "gkorepanov"
 license: "MIT"
 url: "https://github.com/gkorepanov/llm-tools"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Llm-Tools](https://github.com/gkorepanov/llm-tools) - Some ad-hoc coding tools for LLMs

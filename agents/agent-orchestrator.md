@@ -1,6 +1,7 @@
 ---
 name: "agent-orchestrator"
 slug: "agent-orchestrator"
+layout: agent.njk
 maker: "willynikes2"
 license: "MIT"
 url: "https://github.com/willynikes2/agent-orchestrator"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Three AI agents. One brain. Zero downtime. Multi-agent CLI orchestrator with next-man-up failover for Claude, Codex, and Gemini.

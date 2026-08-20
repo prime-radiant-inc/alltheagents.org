@@ -1,6 +1,7 @@
 ---
 name: "DevOpsGPT"
 slug: "devopsgpt"
+layout: agent.njk
 maker: "kuafuai"
 license: "NOASSERTION"
 url: "https://github.com/kuafuai/DevOpsGPT"
@@ -16,7 +17,6 @@ sources:
   - "e2b"
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 Welcome to the AI Driven Software Development Automation Solution, abbreviated as DevOpsGPT. We combine LLM (Large Language Model) with DevOps tools to convert natural language requirements into working software. This innovative feature greatly improves development efficiency, shortens development cycles, and reduces communication costs, resulting in higher-quality software delivery.

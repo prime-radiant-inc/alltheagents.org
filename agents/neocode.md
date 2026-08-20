@@ -1,6 +1,7 @@
 ---
 name: "NeoCode"
 slug: "neocode"
+layout: agent.njk
 maker: "Hardik180704"
 license: "MIT"
 url: "https://github.com/Hardik180704/NeoCode"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://neocode.in"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 NeoCode is a terminal based AI coding agent IDE

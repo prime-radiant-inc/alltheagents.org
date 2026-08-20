@@ -1,6 +1,7 @@
 ---
 name: "oc-plugin-vault-tec"
 slug: "oc-plugin-vault-tec"
+layout: agent.njk
 maker: "kommander"
 license: null
 url: "https://github.com/kommander/oc-plugin-vault-tec"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 A RobCo terminal personality that rewires your coding agent into a cheerful Vault-Tec Overseer -- bugs are containment breaches, deploys are surface excursions, and nuclear optimism is mandatory.

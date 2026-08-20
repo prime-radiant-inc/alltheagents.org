@@ -1,6 +1,7 @@
 ---
 name: "gastown"
 slug: "gastown"
+layout: agent.njk
 maker: "gastownhall"
 license: "MIT"
 url: "https://github.com/steveyegge/gastown"
@@ -14,7 +15,6 @@ language: "Go"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[gastown](https://github.com/steveyegge/gastown)** `⭐ 17.6k` — Multi-agent orchestration with persistent work tracking.

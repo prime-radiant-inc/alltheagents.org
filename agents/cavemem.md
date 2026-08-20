@@ -1,6 +1,7 @@
 ---
 name: "cavemem"
 slug: "cavemem"
+layout: agent.njk
 maker: "JuliusBrussee"
 license: "MIT"
 url: "https://github.com/JuliusBrussee/cavemem"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://caveman.so/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Frozen — cross-agent persistent memory for coding assistants. Still works; the compressed-memory core now ships inside JuliusBrussee/caveman.

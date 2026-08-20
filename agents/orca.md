@@ -1,6 +1,7 @@
 ---
 name: "Orca"
 slug: "orca"
+layout: agent.njk
 maker: "stablyai"
 license: "MIT"
 url: "https://github.com/stablyai/orca"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "author_search"
-layout: agent.njk
 ---
 
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.

@@ -1,6 +1,7 @@
 ---
 name: "cursor-agent"
 slug: "cursor-agent"
+layout: agent.njk
 maker: "civai-technologies"
 license: "MIT"
 url: "https://github.com/civai-technologies/cursor-agent"
@@ -15,7 +16,6 @@ homepage: "https://civai.co"
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[cursor-agent](https://github.com/civai-technologies/cursor-agent)** `⭐ 132` — Python-based agent replicating Cursor's coding assistant capabilities; supports Claude, OpenAI, and local Ollama models.

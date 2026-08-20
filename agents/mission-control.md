@@ -1,6 +1,7 @@
 ---
 name: "mission-control"
 slug: "mission-control"
+layout: agent.njk
 maker: "builderz-labs"
 license: "MIT"
 url: "https://github.com/builderz-labs/mission-control"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://mc.builderz.dev"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.

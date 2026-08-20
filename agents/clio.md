@@ -1,6 +1,7 @@
 ---
 name: "clio"
 slug: "clio"
+layout: agent.njk
 maker: "icebear0828"
 license: "MIT"
 url: "https://github.com/icebear0828/clio"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A Claude Code clone CLI - agentic coding assistant in your terminal

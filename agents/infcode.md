@@ -1,6 +1,7 @@
 ---
 name: "InfCode"
 slug: "infcode"
+layout: agent.njk
 maker: "Tokfinity"
 license: "MIT"
 url: "https://github.com/Tokfinity/InfCode"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://www.tokfinity.com/infcode"
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 InfCode is an intelligent Code Agent System developed by Tokfinity's Code Research team & Beihang University, which uses LLMs to automatically analyze and fix Code Repo issues.

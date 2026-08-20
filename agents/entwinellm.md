@@ -1,6 +1,7 @@
 ---
 name: "EntwineLLM"
 slug: "entwinellm"
+layout: agent.njk
 maker: "EmilianoMusso"
 license: "MIT"
 url: "https://github.com/EmilianoMusso/EntwineLLM"
@@ -14,7 +15,6 @@ language: "C#"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Local LLM coding assistant extension for Visual Studio

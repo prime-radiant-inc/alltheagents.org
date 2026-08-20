@@ -1,6 +1,7 @@
 ---
 name: "HMRAG"
 slug: "hmrag"
+layout: agent.njk
 maker: "ocean-luna"
 license: null
 url: "https://github.com/ocean-luna/HMRAG"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 [ACM MM2025] Official code of " HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation"

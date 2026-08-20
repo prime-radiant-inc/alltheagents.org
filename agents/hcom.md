@@ -1,6 +1,7 @@
 ---
 name: "hcom"
 slug: "hcom"
+layout: agent.njk
 maker: "aannoo"
 license: "MIT"
 url: "https://github.com/aannoo/hcom"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: "https://pypi.org/project/hcom/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[hcom](https://github.com/aannoo/hcom)** `⭐ 455` — Hooks Claude Code, Antigravity, Codex, OpenCode, Kilo, and Cursor into a shared messaging and event bus; agents message, observe, and spawn each other mid-turn without changing how you use them. TUI dashboard, collision detection, cross-device relay. Rust, MIT.

@@ -1,6 +1,7 @@
 ---
 name: "FinRobot"
 slug: "finrobot"
+layout: agent.njk
 maker: "AI4Finance-Foundation"
 license: "Apache-2.0"
 url: "https://github.com/AI4Finance-Foundation/FinRobot"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: "https://finrobot.ai"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀

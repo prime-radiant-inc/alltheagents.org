@@ -1,6 +1,7 @@
 ---
 name: "Intent"
 slug: "intent"
+layout: agent.njk
 maker: "Augment Code"
 license: "Proprietary"
 url: "https://www.augmentcode.com/tools/intent"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Autonomous agent and developer tool from Augment Code

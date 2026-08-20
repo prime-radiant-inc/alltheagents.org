@@ -1,6 +1,7 @@
 ---
 name: "itwillsync"
 slug: "itwillsync"
+layout: agent.njk
 maker: "shrijayan"
 license: "MIT"
 url: "https://github.com/shrijayan/itwillsync"
@@ -17,7 +18,6 @@ language: "TypeScript"
 homepage: "https://shrijayan.github.io/itwillsync/"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Sync any terminal-based AI coding agent to your phone. Claude Code, Aider, Codex. Local network, zero cloud.

@@ -1,6 +1,7 @@
 ---
 name: "Zoo-Code"
 slug: "zoo-code"
+layout: agent.njk
 maker: "Zoo-Code-Org"
 license: "Apache-2.0"
 url: "https://github.com/Zoo-Code-Org/Zoo-Code"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://www.zoocode.dev"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Zoo Code gives you a whole dev team of AI agents in your code editor.

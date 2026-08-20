@@ -1,6 +1,7 @@
 ---
 name: "multi-agent-ai-sdr-flink-orchestrator"
 slug: "multi-agent-ai-sdr-flink-orchestrator"
+layout: agent.njk
 maker: "thefalc"
 license: "MIT"
 url: "https://github.com/thefalc/multi-agent-ai-sdr-flink-orchestrator"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Demo application for an event-driven multi-agent system for handling lead processing using an orchestrator built in Flink

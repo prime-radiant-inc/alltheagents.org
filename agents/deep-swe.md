@@ -1,6 +1,7 @@
 ---
 name: "deep-swe"
 slug: "deep-swe"
+layout: agent.njk
 maker: "datacurve-ai"
 license: "Apache-2.0"
 url: "https://github.com/datacurve-ai/deep-swe"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://deepswe.datacurve.ai/"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Measuring frontier coding agents on original, long-horizon engineering tasks

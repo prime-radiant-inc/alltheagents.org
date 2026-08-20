@@ -1,6 +1,7 @@
 ---
 name: "athas"
 slug: "athas"
+layout: agent.njk
 maker: "athasdev"
 license: "NOASSERTION"
 url: "https://github.com/athasdev/athas"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://athas.dev"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.

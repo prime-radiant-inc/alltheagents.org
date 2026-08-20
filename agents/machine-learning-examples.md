@@ -1,6 +1,7 @@
 ---
 name: "Machine-Learning-Examples"
 slug: "machine-learning-examples"
+layout: agent.njk
 maker: "aaronkub"
 license: null
 url: "https://github.com/aaronkub/machine-learning-examples"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Machine-Learning-Examples](https://github.com/aaronkub/machine-learning-examples) - This repository contains various examples of machine learning workflows.

@@ -1,6 +1,7 @@
 ---
 name: "CORAL"
 slug: "coral"
+layout: agent.njk
 maker: "Human-Agent-Society"
 license: "Apache-2.0"
 url: "https://github.com/Human-Agent-Society/CORAL"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://coral.compounding-intelligence.ai"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Open-source autoresearch powered by autonomous coding agents. Run Claude Code, OpenCode, and Codex with grading, shared knowledge, and multi-agent evolution. Accepted at COLM 2026.

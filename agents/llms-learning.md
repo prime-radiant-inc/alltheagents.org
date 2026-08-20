@@ -1,6 +1,7 @@
 ---
 name: "Llms-Learning"
 slug: "llms-learning"
+layout: agent.njk
 maker: "Strivin0311"
 license: null
 url: "https://github.com/Strivin0311/llms-learning"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Llms-Learning](https://github.com/Strivin0311/llms-learning) - A repository sharing the literatures about large language models

@@ -1,6 +1,7 @@
 ---
 name: "coding-agents-databricks-apps"
 slug: "coding-agents-databricks-apps"
+layout: agent.njk
 maker: "datasciencemonkey"
 license: "MIT"
 url: "https://github.com/datasciencemonkey/coding-agents-databricks-apps"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://datasciencemonkey.github.io/coding-agents-databricks-apps/"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Run coding agents on Databricks Apps 🚀

@@ -1,6 +1,7 @@
 ---
 name: "Youtrack-Workflows"
 slug: "youtrack-workflows"
+layout: agent.njk
 maker: "JetBrains"
 license: "Apache-2.0"
 url: "https://github.com/JetBrains/youtrack-workflows"
@@ -15,7 +16,6 @@ language: "JavaScript"
 homepage: "http://www.jetbrains.com/youtrack/"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Youtrack-Workflows](https://github.com/JetBrains/youtrack-workflows) - YouTrack Custom Workflow Repository

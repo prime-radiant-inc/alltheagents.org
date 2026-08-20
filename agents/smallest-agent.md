@@ -1,6 +1,7 @@
 ---
 name: "Smallest Agent"
 slug: "smallest-agent"
+layout: agent.njk
 maker: "obra"
 license: null
 url: "https://github.com/obra/smallest-agent"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: null
 sources:
   - "author_search"
-layout: agent.njk
 ---
 
 A tiny agent.

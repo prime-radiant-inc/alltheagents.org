@@ -1,6 +1,7 @@
 ---
 name: "wallfacer"
 slug: "wallfacer"
+layout: agent.njk
 maker: "changkun"
 license: "MIT"
 url: "https://github.com/changkun/wallfacer"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: "https://wf.latere.ai/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Chat, specs, tasks, and code. An autonomous engineering platform. Full autonomy when you trust it. Full control when you don't.

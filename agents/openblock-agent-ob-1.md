@@ -1,6 +1,7 @@
 ---
 name: "OpenBlock Agent (OB-1)"
 slug: "openblock-agent-ob-1"
+layout: agent.njk
 maker: null
 license: null
 url: "https://www.openblocklabs.com/"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "zhouhao"
-layout: agent.njk
 ---
 
 - **[OpenBlock Agent (OB-1)](https://www.openblocklabs.com/)** — **Year:** 2026 · **Company:** OpenBlock Labs · **Target:** Agent framework, skill and tool, environment and context · [Waitlist](https://waitlist.openblocklabs.com/)

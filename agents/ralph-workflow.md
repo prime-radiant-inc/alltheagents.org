@@ -1,6 +1,7 @@
 ---
 name: "Ralph Workflow"
 slug: "ralph-workflow"
+layout: agent.njk
 maker: "Ralph-Workflow"
 license: "AGPL-3.0"
 url: "https://github.com/Ralph-Workflow/Ralph-Workflow"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://ralphworkflow.com"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Ralph Workflow](https://github.com/Ralph-Workflow/Ralph-Workflow)** `⭐ 5` — Local-first loop runner for Claude Code/Codex CLI: executes a spec in a real git repo with `progress.json` + `resume.md` + a 3-step timeout-cap; restartable, test-feedback-driven, no hosted runtime. MIT.

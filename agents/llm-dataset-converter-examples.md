@@ -1,6 +1,7 @@
 ---
 name: "Llm-Dataset-Converter-Examples"
 slug: "llm-dataset-converter-examples"
+layout: agent.njk
 maker: "waikato-llm"
 license: "CC-BY-SA-4.0"
 url: "https://github.com/waikato-llm/llm-dataset-converter-examples"
@@ -14,7 +15,6 @@ language: null
 homepage: "https://waikato-llm.github.io/llm-dataset-converter-examples/"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Llm-Dataset-Converter-Examples](https://github.com/waikato-llm/llm-dataset-converter-examples) - Repository with examples for the llm-dataset-converter libraries.

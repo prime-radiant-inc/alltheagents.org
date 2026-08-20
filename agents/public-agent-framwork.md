@@ -1,6 +1,7 @@
 ---
 name: "Public-Agent-Framwork"
 slug: "public-agent-framwork"
+layout: agent.njk
 maker: "aurasgit"
 license: "Apache-2.0"
 url: "https://github.com/aurasgit/public-agent-framwork"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Public-Agent-Framwork](https://github.com/aurasgit/public-agent-framwork) - AI agent that independently creates, deploys, and optimizes autonomous projects.

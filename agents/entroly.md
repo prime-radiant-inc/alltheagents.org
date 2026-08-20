@@ -1,6 +1,7 @@
 ---
 name: "Entroly"
 slug: "entroly"
+layout: agent.njk
 maker: "juyterman1000"
 license: "Apache-2.0"
 url: "https://github.com/juyterman1000/entroly"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://juyterman1000.github.io/entroly/docs/index.html"
 sources:
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [Entroly](https://github.com/juyterman1000/entroly) | Context engineering engine. 100% codebase visibility with 78% fewer tokens. Knapsack-optimal selection, SimHash dedup, RL from response quality. Rust engine, <10ms. MCP + HTTP proxy. |

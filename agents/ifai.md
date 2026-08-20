@@ -1,6 +1,7 @@
 ---
 name: "ifai"
 slug: "ifai"
+layout: agent.njk
 maker: "peterfei"
 license: "NOASSERTION"
 url: "https://github.com/peterfei/ifai"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://docs.ifai.today"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 若爱 (IfAI) — AI Agent 编排助手 & 代码编辑器 | An AI Agent Orchestrator & Code Editor built with Tauri 2.0

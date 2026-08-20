@@ -1,6 +1,7 @@
 ---
 name: "Prime Agent"
 slug: "prime-agent"
+layout: agent.njk
 maker: "PrimeIntellect-ai"
 license: "MIT"
 url: "https://github.com/PrimeIntellect-ai/prime-agent"
@@ -18,7 +19,6 @@ homepage: null
 sources:
   - "brad"
   - "zhouhao"
-layout: agent.njk
 ---
 
 - **[Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent)** `⭐ 16.7k` `[Prime Intellect]` — Self-improving RLM coding agent where a persistent IPython kernel is the model's only tool, so file edits, shell commands, skills, and subagents (`rlm(...)`) all happen as Python. A "Continual Harness" keeps memories, skills, and subagent specs as durable state that `/refine` updates from session evidence; daemon-backed sessions survive terminal disconnect, with goals, heartbeats, schedules, and bounded autonomous mode. Built on [Pi](https://github.com/earendil-works/pi). MIT.

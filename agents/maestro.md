@@ -1,6 +1,7 @@
 ---
 name: "maestro"
 slug: "maestro"
+layout: agent.njk
 maker: "its-maestro-baby"
 license: "MIT"
 url: "https://github.com/its-maestro-baby/maestro"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 The Bloomberg Terminal for CLI Agents, its Maestro Baby!

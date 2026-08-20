@@ -1,6 +1,7 @@
 ---
 name: "strategic-advisor-orchestrator"
 slug: "strategic-advisor-orchestrator"
+layout: agent.njk
 maker: "nam271212"
 license: null
 url: "https://github.com/nam271212/strategic-advisor-orchestrator"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 AI Coding Agent Orchestrator 2026: Pro-Level Strategy & Review Framework

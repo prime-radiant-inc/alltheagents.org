@@ -1,6 +1,7 @@
 ---
 name: "ORCH"
 slug: "orch"
+layout: agent.njk
 maker: "oxgeneral"
 license: "MIT"
 url: "https://github.com/oxgeneral/ORCH"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://www.orch.one/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[ORCH](https://github.com/oxgeneral/ORCH)** `⭐ 142` — CLI orchestrator that manages Claude Code, Codex, and Cursor as a typed task queue with state machine (todo→in_progress→review→done), auto-retry, inter-agent messaging, and TUI dashboard.

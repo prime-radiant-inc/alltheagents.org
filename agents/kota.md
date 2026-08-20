@@ -1,6 +1,7 @@
 ---
 name: "kota"
 slug: "kota"
+layout: agent.njk
 maker: "StepfenShawn"
 license: "MIT"
 url: "https://github.com/StepfenShawn/kota"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: "https://crates.io/crates/kota"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 A lightweight, highly extensible ai code agent, built in Rust.

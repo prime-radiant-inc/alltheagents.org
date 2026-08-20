@@ -1,6 +1,7 @@
 ---
 name: "ForgeCode"
 slug: "forgecode"
+layout: agent.njk
 maker: "tailcallhq"
 license: "Apache-2.0"
 url: "https://github.com/tailcallhq/forgecode"
@@ -17,7 +18,6 @@ sources:
   - "jqueryscript"
   - "jqueryscript"
   - "ishandutta"
-layout: agent.njk
 ---
 
 A terminal pair programmer with multi-provider model support, repository tools, custom agents, and refactoring workflows.

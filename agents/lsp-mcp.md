@@ -1,6 +1,7 @@
 ---
 name: "lsp-mcp"
 slug: "lsp-mcp"
+layout: agent.njk
 maker: "jonrad"
 license: "MIT"
 url: "https://github.com/jonrad/lsp-mcp"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 An Model Context Protocol (MCP) server that provides LLMs/AI Agents with the capabilities of a language server protocol (LSP) server. This gives the AI the ability to get language aware context from the codebase.

@@ -1,6 +1,7 @@
 ---
 name: "ai-dev-tasks"
 slug: "ai-dev-tasks"
+layout: agent.njk
 maker: "snarktank"
 license: "Apache-2.0"
 url: "https://github.com/snarktank/ai-dev-tasks"
@@ -14,7 +15,6 @@ language: null
 homepage: "https://youtu.be/fD4ktSkNCw4"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 A simple task management system for managing AI dev agents

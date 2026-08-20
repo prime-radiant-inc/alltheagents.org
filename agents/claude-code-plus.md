@@ -1,6 +1,7 @@
 ---
 name: "claude-code-plus"
 slug: "claude-code-plus"
+layout: agent.njk
 maker: "touwaeriol"
 license: "MIT"
 url: "https://github.com/touwaeriol/claude-code-plus"
@@ -16,7 +17,6 @@ language: "JavaScript"
 homepage: "https://plugins.jetbrains.com/plugin/28343-claude-code-plus"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 🖥️ GUI Plugin for Claude Code / Codex CLI / Gemini CLI in JetBrains IDEs - Run AI coding assistants with a beautiful visual interface

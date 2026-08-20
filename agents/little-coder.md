@@ -1,6 +1,7 @@
 ---
 name: "little-coder"
 slug: "little-coder"
+layout: agent.njk
 maker: "itayinbarr"
 license: "Apache-2.0"
 url: "https://github.com/itayinbarr/little-coder"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://itayinbarr.github.io/little-coder/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 A harness optimized to smaller LLMs

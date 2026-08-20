@@ -1,6 +1,7 @@
 ---
 name: "DeepCopilot"
 slug: "deepcopilot"
+layout: agent.njk
 maker: "deep-copilot"
 license: "MIT"
 url: "https://github.com/deep-copilot/DeepCopilot"
@@ -15,7 +16,6 @@ language: "JavaScript"
 homepage: "https://marketplace.visualstudio.com/items?itemName=ZhouChaunge.deep-copilot"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Copilot-style AI coding agent for VS Code, powered by DeepSeek V4.

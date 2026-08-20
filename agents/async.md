@@ -1,6 +1,7 @@
 ---
 name: "Async"
 slug: "async"
+layout: agent.njk
 maker: "ZYKJShadow"
 license: "Apache-2.0"
 url: "https://github.com/ZYKJShadow/Async"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 IDE, A native-feeling AI coding workspace that blends chat, planning, agent execution, and project navigation into a unified desktop experience.

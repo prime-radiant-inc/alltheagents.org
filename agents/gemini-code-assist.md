@@ -1,6 +1,7 @@
 ---
 name: "Gemini Code Assist"
 slug: "gemini-code-assist"
+layout: agent.njk
 maker: "Google"
 license: "Proprietary"
 url: "https://codeassist.google"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Google AI coding assistant for VS Code and JetBrains IDEs

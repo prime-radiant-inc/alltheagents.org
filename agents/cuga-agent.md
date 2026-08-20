@@ -1,6 +1,7 @@
 ---
 name: "cuga-agent"
 slug: "cuga-agent"
+layout: agent.njk
 maker: "cuga-project"
 license: "NOASSERTION"
 url: "https://github.com/cuga-project/cuga-agent"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://cuga.dev"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features.

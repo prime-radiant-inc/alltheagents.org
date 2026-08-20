@@ -1,6 +1,7 @@
 ---
 name: "momo-code"
 slug: "momo-code"
+layout: agent.njk
 maker: "momozi1996"
 license: "NOASSERTION"
 url: "https://github.com/momozi1996/momo-code"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://momozi.cc"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 MOMO CODE — AI coding agent that evolves with you

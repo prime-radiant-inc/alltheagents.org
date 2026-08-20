@@ -1,6 +1,7 @@
 ---
 name: "CodeReview-AI-Agent"
 slug: "codereview-ai-agent"
+layout: agent.njk
 maker: "smirk-dev"
 license: "MIT"
 url: "https://github.com/smirk-dev/CodeReview-AI-Agent"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Multi-agent AI system for automated code review using Google's ADK - Kaggle Agents Intensive Capstone Project 2025

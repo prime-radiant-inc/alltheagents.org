@@ -1,6 +1,7 @@
 ---
 name: "CodeRabbit"
 slug: "coderabbit"
+layout: agent.njk
 maker: null
 license: null
 url: "https://coderabbit.ai/"
@@ -15,7 +16,6 @@ homepage: null
 sources:
   - "caramaschi"
   - "vinkius"
-layout: agent.njk
 ---
 
 | [CodeRabbit](https://coderabbit.ai/) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |

@@ -1,6 +1,7 @@
 ---
 name: "Code-Agent-Survey"
 slug: "code-agent-survey"
+layout: agent.njk
 maker: "MLSysOps"
 license: "MIT"
 url: "https://github.com/MLSysOps/Code-Agent-Survey"
@@ -14,7 +15,6 @@ language: null
 homepage: "https://letsgoai.pro/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A survey of Code Agents / Foundation Models for improving development productivity. Become 10x SWE, MLE, etc.

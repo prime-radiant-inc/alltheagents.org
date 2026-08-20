@@ -1,6 +1,7 @@
 ---
 name: "Bolt.new"
 slug: "boltnew"
+layout: agent.njk
 maker: null
 license: null
 url: "https://bolt.new/"
@@ -18,7 +19,6 @@ sources:
   - "flatlogic"
   - "caramaschi"
   - "vinkius"
-layout: agent.njk
 ---
 
 Full-stack browser-based IDE with conversational AI coding & deployment

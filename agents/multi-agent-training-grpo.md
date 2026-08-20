@@ -1,6 +1,7 @@
 ---
 name: "multi-agent-training-grpo"
 slug: "multi-agent-training-grpo"
+layout: agent.njk
 maker: "FareedKhan-dev"
 license: "MIT"
 url: "https://github.com/FareedKhan-dev/multi-agent-training-grpo"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: "https://medium.com/@fareedkhandev/building-modern-ai-agentic-systemagentic-system-optimization-for-effective-planning-and-tool-f698e831d730"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A multi-agent system trained with GRPO for reliable long-horizon task planning and execution.

@@ -1,6 +1,7 @@
 ---
 name: "BHIL-AI-First-Development-Toolkit"
 slug: "bhil-ai-first-development-toolkit"
+layout: agent.njk
 maker: "PolymathWizard"
 license: null
 url: "https://github.com/PolymathWizard/BHIL-AI-First-Development-Toolkit"
@@ -14,7 +15,6 @@ language: "Shell"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 A production-grade methodology repository for building AI-native applications using iterative sprints, where AI coding agents are primary implementors and humans are architects, reviewers, and decision-makers.

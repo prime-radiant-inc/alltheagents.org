@@ -1,6 +1,7 @@
 ---
 name: "mindwalk"
 slug: "mindwalk"
+layout: agent.njk
 maker: "cosmtrek"
 license: "MIT"
 url: "https://github.com/cosmtrek/mindwalk"
@@ -14,7 +15,6 @@ language: "Go"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A visualization tool that replays coding-agent sessions on a 3D map of your codebase.

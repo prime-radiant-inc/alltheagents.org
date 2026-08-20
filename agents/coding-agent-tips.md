@@ -1,6 +1,7 @@
 ---
 name: "coding-agent-tips"
 slug: "coding-agent-tips"
+layout: agent.njk
 maker: "anipotts"
 license: "MIT"
 url: "https://github.com/anipotts/coding-agent-tips"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://agents.anipotts.com"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 evidence-backed guidance for coding agents in production software, from individual projects to startups and big tech.

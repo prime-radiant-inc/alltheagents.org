@@ -1,6 +1,7 @@
 ---
 name: "DevEco CodeGenie"
 slug: "deveco-codegenie"
+layout: agent.njk
 maker: "Huawei"
 license: "Proprietary"
 url: "https://developer.huawei.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Huawei's AI coding assistant for HarmonyOS development

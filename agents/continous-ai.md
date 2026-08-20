@@ -1,6 +1,7 @@
 ---
 name: "Continous AI"
 slug: "continous-ai"
+layout: agent.njk
 maker: "Independent"
 license: "MIT"
 url: "https://github.com/continous-ai/continous"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 World's first continuous learning AI coding agent, fully free and open source

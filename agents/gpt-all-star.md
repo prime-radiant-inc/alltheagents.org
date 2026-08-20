@@ -1,6 +1,7 @@
 ---
 name: "gpt-all-star"
 slug: "gpt-all-star"
+layout: agent.njk
 maker: "kyaukyuai"
 license: "MIT"
 url: "https://github.com/kyaukyuai/gpt-all-star"
@@ -16,7 +17,6 @@ language: "Python"
 homepage: "https://kyaukyuai.github.io/gpt-all-star/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 🤖 AI-powered code generation tool for scratch development of web applications with a team collaboration of autonomous AI agents.

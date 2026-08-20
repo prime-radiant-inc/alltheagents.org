@@ -1,6 +1,7 @@
 ---
 name: "kodo"
 slug: "kodo"
+layout: agent.njk
 maker: "ikamensh"
 license: "MIT"
 url: "https://github.com/ikamensh/kodo"
@@ -16,7 +17,6 @@ language: "Python"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[kodo](https://github.com/ikamensh/kodo)** `⭐ 127` — Autonomous multi-agent coding orchestrator that directs Claude Code, Codex, and Gemini CLI through work cycles with independent architect and tester verification. SWE-bench verified.

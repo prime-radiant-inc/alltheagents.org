@@ -1,6 +1,7 @@
 ---
 name: "we0"
 slug: "we0"
+layout: agent.njk
 maker: "we0-dev"
 license: "MIT"
 url: "https://github.com/we0-dev/we0"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://we0.ai/wedev"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 we0 is an AI code editor for development programmers and product managers. same v0, bolt.new,lovable

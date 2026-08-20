@@ -1,6 +1,7 @@
 ---
 name: "Codex Security"
 slug: "codex-security"
+layout: agent.njk
 maker: "openai"
 license: "Apache-2.0"
 url: "https://github.com/openai/codex-security"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://developers.openai.com/codex/security"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Codex Security](https://github.com/openai/codex-security)** `⭐ 9.9k` `[OpenAI]` — CLI and TypeScript SDK that runs Codex over a local repo to find, validate, and patch security vulnerabilities; deep multi-agent scans with parallel workers, scan history and diffing, SARIF/CSV/JSON export, a pre-commit hook, and containerized bulk scans. Apache-2.0.

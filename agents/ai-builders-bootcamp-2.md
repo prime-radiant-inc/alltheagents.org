@@ -1,6 +1,7 @@
 ---
 name: "AI-Builders-Bootcamp-2"
 slug: "ai-builders-bootcamp-2"
+layout: agent.njk
 maker: "ShawhinT"
 license: "Apache-2.0"
 url: "https://github.com/ShawhinT/AI-Builders-Bootcamp-2"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: "https://maven.com/shaw-talebi/ai-builders-bootcamp"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Code repository for AI Builders Bootcamp #2

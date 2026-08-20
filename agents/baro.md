@@ -1,6 +1,7 @@
 ---
 name: "baro"
 slug: "baro"
+layout: agent.njk
 maker: "jigjoy-ai"
 license: null
 url: "https://github.com/jigjoy-ai/baro"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://baro.rs"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 A CLI that turns a goal into a pull request - and a sandbox for testing concurrent AI coding agents on the Mozaik runtime.

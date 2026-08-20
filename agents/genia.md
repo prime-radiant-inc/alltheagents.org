@@ -1,6 +1,7 @@
 ---
 name: "GeniA"
 slug: "genia"
+layout: agent.njk
 maker: "genia-dev"
 license: "Apache-2.0"
 url: "https://github.com/genia-dev/GeniA"
@@ -16,7 +17,6 @@ language: "Python"
 homepage: "https://genia-dev.github.io/GeniA/"
 sources:
   - "e2b"
-layout: agent.njk
 ---
 
 - GeniA is able to work along side you on your production enviroment, executing tasks on your behalf in your dev & cloud environments, AWS/k8s/Argo/GitHub etc. - Allows you to enhance the platform by integrating your own tools and APIs. - Slack App Bot integration. - Supports GPT-3.5 & GPT-4.

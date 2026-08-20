@@ -1,6 +1,7 @@
 ---
 name: "Traycer"
 slug: "traycer"
+layout: agent.njk
 maker: "traycerai"
 license: "MIT"
 url: "https://github.com/traycerai/traycer"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://traycer.ai"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Traycer](https://github.com/traycerai/traycer)** `⭐ 1.2k` — Desktop orchestration app that runs multiple CLI coding agents (Claude Code, Codex, Cursor, OpenCode, and custom CLI agents) in parallel with shared context, agent-to-agent loops, Epic mode, and team collaboration. Apache-2.0.

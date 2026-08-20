@@ -1,6 +1,7 @@
 ---
 name: "codex-profiles"
 slug: "codex-profiles"
+layout: agent.njk
 maker: "Ducksss"
 license: "MIT"
 url: "https://github.com/Ducksss/codex-profiles"
@@ -17,7 +18,6 @@ homepage: "https://ducksss.github.io/codex-profiles/"
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[codex-profiles](https://github.com/Ducksss/codex-profiles)** `⭐ 90` — Bash CLI helper for switching OpenAI Codex CLI/Desktop accounts via isolated `CODEX_HOME` profiles; Homebrew install with `brew install Ducksss/tap/codex-profile`. MIT, no token copying.

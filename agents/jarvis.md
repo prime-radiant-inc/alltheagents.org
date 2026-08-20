@@ -1,6 +1,7 @@
 ---
 name: "jarvis"
 slug: "jarvis"
+layout: agent.njk
 maker: "danilofalcao"
 license: "MIT"
 url: "https://github.com/danilofalcao/jarvis"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 J.A.R.V.I.S. is an intelligent coding assistant that leverages multiple state-of-the-art language models to help you with code generation, modifications, and technical discussions.

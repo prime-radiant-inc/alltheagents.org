@@ -1,6 +1,7 @@
 ---
 name: "CodeFuse-muAgent"
 slug: "codefuse-muagent"
+layout: agent.njk
 maker: "codefuse-ai"
 license: "NOASSERTION"
 url: "https://github.com/codefuse-ai/CodeFuse-muAgent"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 An Innovative Agent Framework Driven by KG Engine

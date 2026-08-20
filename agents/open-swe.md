@@ -1,6 +1,7 @@
 ---
 name: "Open SWE"
 slug: "open-swe"
+layout: agent.njk
 maker: "langchain-ai"
 license: "MIT"
 url: "https://github.com/langchain-ai/open-swe"
@@ -17,7 +18,6 @@ homepage: "https://www.langchain.com/blog/open-swe-an-open-source-framework-for-
 sources:
   - "jqueryscript"
   - "jqueryscript"
-layout: agent.njk
 ---
 
 An asynchronous coding agent that works on repository tasks in isolated environments and returns reviewable changes.

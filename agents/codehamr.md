@@ -1,6 +1,7 @@
 ---
 name: "codehamr"
 slug: "codehamr"
+layout: agent.njk
 maker: "codehamr"
 license: "MIT"
 url: "https://github.com/codehamr/codehamr"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: "https://codehamr.com"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 A minimal, local-first coding agent for the terminal.

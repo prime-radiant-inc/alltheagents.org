@@ -1,6 +1,7 @@
 ---
 name: "vibe-annotations"
 slug: "vibe-annotations"
+layout: agent.njk
 maker: "RaphaelRegnier"
 license: "NOASSERTION"
 url: "https://github.com/RaphaelRegnier/vibe-annotations"
@@ -14,7 +15,6 @@ language: "JavaScript"
 homepage: "https://www.vibe-annotations.com"
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 AI-powered annotations for localhost development. Create visual feedback on your apps and let AI coding agents automatically implement fixes via MCP integration.

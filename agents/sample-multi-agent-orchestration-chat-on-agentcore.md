@@ -1,6 +1,7 @@
 ---
 name: "sample-multi-agent-orchestration-chat-on-agentcore"
 slug: "sample-multi-agent-orchestration-chat-on-agentcore"
+layout: agent.njk
 maker: "aws-samples"
 license: "MIT-0"
 url: "https://github.com/aws-samples/sample-multi-agent-orchestration-chat-on-agentcore"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Build & Share AI agents with your team. Full AgentCore, Full Serverless, Full TypeScript Sample

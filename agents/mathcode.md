@@ -1,6 +1,7 @@
 ---
 name: "mathcode"
 slug: "mathcode"
+layout: agent.njk
 maker: "math-ai-org"
 license: "Apache-2.0"
 url: "https://github.com/math-ai-org/mathcode"
@@ -14,7 +15,6 @@ language: "Shell"
 homepage: "https://math-ai-org.github.io/mathcode"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 MathCode: A Frontier Mathematical Coding Agent

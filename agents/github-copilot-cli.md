@@ -1,6 +1,7 @@
 ---
 name: "GitHub Copilot CLI"
 slug: "github-copilot-cli"
+layout: agent.njk
 maker: "github"
 license: "Source Available"
 url: "https://github.com/github/copilot-cli"
@@ -18,7 +19,6 @@ sources:
   - "jqueryscript"
   - "brad"
   - "tiennm"
-layout: agent.njk
 ---
 
 GitHub's terminal coding agent for repository tasks, code changes, command execution, and Copilot-assisted development.

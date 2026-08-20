@@ -1,6 +1,7 @@
 ---
 name: "Agent-Blackbox"
 slug: "agent-blackbox"
+layout: agent.njk
 maker: "TaewoooPark"
 license: "MIT"
 url: "https://github.com/TaewoooPark/Agent-Blackbox"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://www.npmjs.com/package/@taewooopark/agent-blackbox"
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 Local-first flight recorder for coding agents : replay every run as a live session map, score the context bill, and write the fix back into AGENTS.md — no API key, one npx command.

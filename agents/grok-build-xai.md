@@ -1,6 +1,7 @@
 ---
 name: "Grok Build (xAI)"
 slug: "grok-build-xai"
+layout: agent.njk
 maker: null
 license: null
 url: "https://x.ai"
@@ -16,7 +17,6 @@ sources:
   - "caramaschi"
   - "caramaschi"
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [Grok Build (xAI)](https://x.ai) | 8 parallel agents for code gen. Multi-agent "Society of Mind" architecture. | xAI sub |

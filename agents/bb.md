@@ -1,6 +1,7 @@
 ---
 name: "bb"
 slug: "bb"
+layout: agent.njk
 maker: "get-bb"
 license: "MIT"
 url: "https://github.com/get-bb/bb"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://getbb.app"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 The agent IDE that builds itself

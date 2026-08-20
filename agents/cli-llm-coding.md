@@ -1,6 +1,7 @@
 ---
 name: "cli-llm-coding"
 slug: "cli-llm-coding"
+layout: agent.njk
 maker: "omarabid"
 license: null
 url: "https://github.com/omarabid/cli-llm-coding"
@@ -15,7 +16,6 @@ language: null
 homepage: "https://codeinput.com"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A concise list of CLI coding tools similar to Claude Code

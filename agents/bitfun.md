@@ -1,6 +1,7 @@
 ---
 name: "BitFun"
 slug: "bitfun"
+layout: agent.njk
 maker: "GCWing"
 license: "MIT"
 url: "https://github.com/GCWing/BitFun"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.

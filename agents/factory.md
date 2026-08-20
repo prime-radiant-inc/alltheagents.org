@@ -1,6 +1,7 @@
 ---
 name: "Factory"
 slug: "factory"
+layout: agent.njk
 maker: "Factory AI"
 license: "Proprietary"
 url: "https://www.factory.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Autonomous software engineer for $10 pricing handling full dev workflows

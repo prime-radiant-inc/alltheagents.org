@@ -1,6 +1,7 @@
 ---
 name: "mini-coding-agent"
 slug: "mini-coding-agent"
+layout: agent.njk
 maker: "rasbt"
 license: "Apache-2.0"
 url: "https://github.com/rasbt/mini-coding-agent"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.

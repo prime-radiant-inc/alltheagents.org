@@ -1,6 +1,7 @@
 ---
 name: "ntm"
 slug: "ntm"
+layout: agent.njk
 maker: "Dicklesworthstone"
 license: "NOASSERTION"
 url: "https://github.com/Dicklesworthstone/ntm"
@@ -14,7 +15,6 @@ language: "Go"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[ntm](https://github.com/Dicklesworthstone/ntm)** `⭐ 428` — Named Tmux Manager — spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette.

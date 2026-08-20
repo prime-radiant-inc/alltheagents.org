@@ -1,6 +1,7 @@
 ---
 name: "Spacecreateai"
 slug: "spacecreateai"
+layout: agent.njk
 maker: "Harbars1234"
 license: "MIT"
 url: "https://github.com/Harbars1234/SpaceCreateAI"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Spacecreateai](https://github.com/Harbars1234/SpaceCreateAI) - This repository contains the first Solana agent built with the SEND AI technology https://github.com/sendaifun/solana-agent-kit that auto…

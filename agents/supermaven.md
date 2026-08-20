@@ -1,6 +1,7 @@
 ---
 name: "Supermaven"
 slug: "supermaven"
+layout: agent.njk
 maker: null
 license: null
 url: "https://supermaven.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "vinkius"
-layout: agent.njk
 ---
 
 | [Supermaven](https://supermaven.com) | VS Code, JetBrains | Via extensions | Ultra-fast code completion |

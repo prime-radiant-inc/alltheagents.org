@@ -1,6 +1,7 @@
 ---
 name: "LangGraph"
 slug: "langgraph"
+layout: agent.njk
 maker: null
 license: null
 url: "https://langchain-ai.github.io/langgraph/"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "vinkius"
-layout: agent.njk
 ---
 
 | [LangGraph](https://langchain-ai.github.io/langgraph/) | Python, JS | Native | Stateful multi-agent orchestration |

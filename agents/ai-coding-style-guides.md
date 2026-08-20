@@ -1,6 +1,7 @@
 ---
 name: "AI-Coding-Style-Guides"
 slug: "ai-coding-style-guides"
+layout: agent.njk
 maker: "lidangzzz"
 license: "Apache-2.0"
 url: "https://github.com/lidangzzz/AI-Coding-Style-Guides"
@@ -15,7 +16,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A set of coding style guidelines for Vibe Coding or SWE-Agents that maximize efficiency and improve human readability.

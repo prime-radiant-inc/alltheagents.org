@@ -1,6 +1,7 @@
 ---
 name: "sudocode"
 slug: "sudocode"
+layout: agent.njk
 maker: "sudoprivacy"
 license: "MIT"
 url: "https://github.com/sudoprivacy/sudocode"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Rust-native CLI coding agent for hackers — terminal-native, pipe-composable, scrollback-safe. Built because Claude Code chose non-coders.

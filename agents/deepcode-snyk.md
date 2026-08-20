@@ -1,6 +1,7 @@
 ---
 name: "DeepCode (Snyk)"
 slug: "deepcode-snyk"
+layout: agent.njk
 maker: "Snyk"
 license: "Proprietary"
 url: "https://snyk.io"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI-powered code security analysis tool, formerly DeepCode

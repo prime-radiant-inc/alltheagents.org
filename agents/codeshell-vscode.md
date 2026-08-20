@@ -1,6 +1,7 @@
 ---
 name: "codeshell-vscode"
 slug: "codeshell-vscode"
+layout: agent.njk
 maker: "WisdomShell"
 license: "Apache-2.0"
 url: "https://github.com/WisdomShell/codeshell-vscode"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell

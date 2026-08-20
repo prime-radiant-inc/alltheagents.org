@@ -1,6 +1,7 @@
 ---
 name: "vibe-local"
 slug: "vibe-local"
+layout: agent.njk
 maker: "ochyai"
 license: "MIT"
 url: "https://github.com/ochyai/vibe-local"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Free AI coding environment: Ollama + Python

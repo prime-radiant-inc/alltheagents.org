@@ -1,6 +1,7 @@
 ---
 name: "eca"
 slug: "eca"
+layout: agent.njk
 maker: "editor-code-assistant"
 license: "Apache-2.0"
 url: "https://github.com/editor-code-assistant/eca"
@@ -15,7 +16,6 @@ language: "Clojure"
 homepage: "http://eca.dev"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor

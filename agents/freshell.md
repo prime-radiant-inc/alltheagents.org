@@ -1,6 +1,7 @@
 ---
 name: "freshell"
 slug: "freshell"
+layout: agent.njk
 maker: "danshapiro"
 license: null
 url: "https://github.com/danshapiro/freshell"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://freshell.net/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 The Agentic IDE (or, the loving child of tmux and claude code)

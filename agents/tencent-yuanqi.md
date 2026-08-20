@@ -1,6 +1,7 @@
 ---
 name: "Tencent Yuanqi"
 slug: "tencent-yuanqi"
+layout: agent.njk
 maker: "Tencent"
 license: "Proprietary"
 url: "https://yuanqi.tencent.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Tencent's AI agent platform with coding capabilities

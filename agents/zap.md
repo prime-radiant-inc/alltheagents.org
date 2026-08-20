@@ -1,6 +1,7 @@
 ---
 name: "Zap"
 slug: "zap"
+layout: agent.njk
 maker: "zap-coding-agent"
 license: null
 url: "https://github.com/zap-coding-agent/zap-coding-agent"
@@ -16,7 +17,6 @@ homepage: "https://zap.justpush.cloud"
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[Zap](https://github.com/zap-coding-agent/zap-coding-agent)** `⭐ 30` — Skill-first Rust TUI coding agent that injects only the context your task needs — no system prompt bloat. Single binary, no runtime. Supports Claude, Gemini, OpenAI, and local models via LM Studio; code-indexed via SQLite for fast symbol lookup; MCP support. MIT.

@@ -1,6 +1,7 @@
 ---
 name: "Grok Build"
 slug: "grok-build"
+layout: agent.njk
 maker: "xai-org"
 license: "Apache-2.0"
 url: "https://github.com/xai-org/grok-build"
@@ -17,7 +18,6 @@ sources:
   - "jqueryscript"
   - "jqueryscript"
   - "brad"
-layout: agent.njk
 ---
 
 A terminal coding agent from xAI with a full-screen interface, repository tools, and an extensible execution harness.

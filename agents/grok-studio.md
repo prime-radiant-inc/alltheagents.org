@@ -1,6 +1,7 @@
 ---
 name: "Grok Studio"
 slug: "grok-studio"
+layout: agent.njk
 maker: "xAI"
 license: "Proprietary"
 url: "https://grok.x.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 xAI's coding and development studio powered by Grok models

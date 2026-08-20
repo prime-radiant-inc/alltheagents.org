@@ -1,6 +1,7 @@
 ---
 name: "Synnex_Symphony"
 slug: "synnex-symphony"
+layout: agent.njk
 maker: null
 license: null
 url: "https://github.com/Styro13/Synnex_Symphony"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Synnex_Symphony](https://github.com/Styro13/Synnex_Symphony) - Symphony is an AI-driven software development framework heavily influenced by GPT Pilot, and Microsoft's paper on 'AutoDev' that aims to …

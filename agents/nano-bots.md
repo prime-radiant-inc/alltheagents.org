@@ -1,6 +1,7 @@
 ---
 name: "Nano-Bots"
 slug: "nano-bots"
+layout: agent.njk
 maker: "icebaker"
 license: null
 url: "https://github.com/icebaker/nano-bots"
@@ -15,7 +16,6 @@ language: null
 homepage: "https://nbots.io"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Nano-Bots](https://github.com/icebaker/nano-bots) - Repository for Nano Bots' Cartridges - small, AI-powered bots that can be easily shared as a single file, designed to support multiple pro…

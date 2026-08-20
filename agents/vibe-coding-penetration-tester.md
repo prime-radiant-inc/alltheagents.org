@@ -1,6 +1,7 @@
 ---
 name: "vibe-coding-penetration-tester"
 slug: "vibe-coding-penetration-tester"
+layout: agent.njk
 maker: "firetix"
 license: "Apache-2.0"
 url: "https://github.com/firetix/vibe-coding-penetration-tester"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://www.vibehack.io/"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Vibe Coding? Cool story. But your vibe might be "security breach waiting to happen." Introducing VibePenTester, the AI pen-tester who rolls its eyes at your half-baked code, discovers your vulnerabilities faster than your coworkers discover free pizza, and gently bullies your web app into compliance. Less "vibe check," more "reality check."

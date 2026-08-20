@@ -1,6 +1,7 @@
 ---
 name: "codebase-index-cli"
 slug: "codebase-index-cli"
+layout: agent.njk
 maker: "dudufcb1"
 license: null
 url: "https://github.com/dudufcb1/codebase-index-cli"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 No description available.

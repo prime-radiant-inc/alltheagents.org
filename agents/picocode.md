@@ -1,6 +1,7 @@
 ---
 name: "picocode"
 slug: "picocode"
+layout: agent.njk
 maker: "jondot"
 license: "MIT"
 url: "https://github.com/jondot/picocode"
@@ -15,7 +16,6 @@ homepage: null
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[picocode](https://github.com/jondot/picocode)** `⭐ 57` — Minimal Rust-based coding agent focused on CI workflows and small codemods; multi-LLM with personas.

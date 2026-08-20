@@ -1,6 +1,7 @@
 ---
 name: "Untether"
 slug: "untether"
+layout: agent.njk
 maker: "littlebearapps"
 license: "MIT"
 url: "https://github.com/littlebearapps/untether"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://untether.cc"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Untether](https://github.com/littlebearapps/untether)** `⭐ 64` — Telegram bridge for 6 CLI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp); remote task control via voice or text, progress streaming, interactive permissions, and cost tracking. MIT.

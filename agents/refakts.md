@@ -1,6 +1,7 @@
 ---
 name: "refakts"
 slug: "refakts"
+layout: agent.njk
 maker: "devill"
 license: "NOASSERTION"
 url: "https://github.com/devill/refakts"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 RefakTS is a TypeScript refactoring tool built by AI coding agents for AI coding agents. It allows them to perform precise refactoring operations via command line instead of error prone text generation.

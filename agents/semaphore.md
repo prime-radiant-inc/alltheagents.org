@@ -1,6 +1,7 @@
 ---
 name: "semaphore"
 slug: "semaphore"
+layout: agent.njk
 maker: "lucianodiisouza"
 license: "MIT"
 url: "https://github.com/lucianodiisouza/semaphore"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Floating traffic light for AI coding agents (know when your agent is idle, thinking, or writing)

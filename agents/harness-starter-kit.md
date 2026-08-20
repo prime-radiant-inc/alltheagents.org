@@ -1,6 +1,7 @@
 ---
 name: "Harness Starter Kit"
 slug: "harness-starter-kit"
+layout: agent.njk
 maker: "harnessworks"
 license: "MIT"
 url: "https://github.com/harnessworks/harness-starter-kit"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://harnessworks.github.io/harness-starter-kit/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Harness Starter Kit](https://github.com/harnessworks/harness-starter-kit)** `⭐ 109` — Prompt-first harness engineering starter kit for adding durable agent instructions, drift checks, failure memory, and evaluation loops to repositories. MIT.

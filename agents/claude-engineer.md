@@ -1,6 +1,7 @@
 ---
 name: "Claude Engineer"
 slug: "claude-engineer"
+layout: agent.njk
 maker: "Doriandarko"
 license: "Source Available"
 url: "https://github.com/Doriandarko/claude-engineer"
@@ -21,7 +22,6 @@ sources:
   - "jim"
   - "jim"
   - "ishandutta"
-layout: agent.njk
 ---
 
 A Claude-based coding agent that manages files, executes commands, creates tools, and works through an interactive CLI or web interface.

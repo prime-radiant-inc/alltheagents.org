@@ -1,6 +1,7 @@
 ---
 name: "AgentTeams"
 slug: "agentteams"
+layout: agent.njk
 maker: "agentscope-ai"
 license: "Apache-2.0"
 url: "https://github.com/agentscope-ai/AgentTeams"
@@ -14,7 +15,6 @@ language: "Go"
 homepage: "https://www.aliyun.com/product/agentteams"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.

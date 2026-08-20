@@ -1,6 +1,7 @@
 ---
 name: "Llmchat"
 slug: "llmchat"
+layout: agent.njk
 maker: "c0sogi"
 license: "MIT"
 url: "https://github.com/c0sogi/LLMChat"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Llmchat](https://github.com/c0sogi/LLMChat) - A full-stack Webui implementation of Large Language model, such as ChatGPT or LLaMA.

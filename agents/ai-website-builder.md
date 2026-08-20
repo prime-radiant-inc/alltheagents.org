@@ -1,6 +1,7 @@
 ---
 name: "ai-website-builder"
 slug: "ai-website-builder"
+layout: agent.njk
 maker: "builtbyV"
 license: "MIT"
 url: "https://github.com/builtbyV/ai-website-builder"
@@ -16,7 +17,6 @@ language: "HTML"
 homepage: "https://oss.v.ee/ai-website-builder/"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Build beautiful websites by talking to AI - no coding required! Vibe coding with Claude Code, Gemini CLI, and OpenAI Codex CLI. Perfect for small businesses, freelancers, and anyone who wants a website without learning to code.

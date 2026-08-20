@@ -1,6 +1,7 @@
 ---
 name: "Catnip"
 slug: "catnip"
+layout: agent.njk
 maker: null
 license: null
 url: "https://github.com/wandb/catnip"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Catnip](https://github.com/wandb/catnip)** `⭐ 491` — Containerized environment + worktree automation for running multiple coding agents in parallel (optimized for Claude Code).

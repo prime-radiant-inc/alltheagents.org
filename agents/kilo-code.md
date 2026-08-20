@@ -1,6 +1,7 @@
 ---
 name: "Kilo Code"
 slug: "kilo-code"
+layout: agent.njk
 maker: "Kilo-Org"
 license: "MIT"
 url: "https://github.com/Kilo-Org/kilocode"
@@ -20,7 +21,6 @@ sources:
   - "brad"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 An agentic engineering platform with IDE and CLI interfaces, multiple operating modes, checkpoints, and broad model support.

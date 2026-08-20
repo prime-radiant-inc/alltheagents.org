@@ -1,6 +1,7 @@
 ---
 name: "LocoOperator"
 slug: "locooperator"
+layout: agent.njk
 maker: "LocoreMind"
 license: "MIT"
 url: "https://github.com/LocoreMind/LocoOperator"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: "https://locoremind.com/blog/loco-operator"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Local 4B codebase explorer agent distilled from Qwen3-Coder-Next.

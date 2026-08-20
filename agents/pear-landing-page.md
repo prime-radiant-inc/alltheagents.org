@@ -1,6 +1,7 @@
 ---
 name: "pear-landing-page"
 slug: "pear-landing-page"
+layout: agent.njk
 maker: "trypear"
 license: "Apache-2.0"
 url: "https://github.com/trypear/pear-landing-page"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://trypear.ai"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Landing page for PearAI, the Open Source AI Code Editor

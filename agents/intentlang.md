@@ -1,6 +1,7 @@
 ---
 name: "intentlang"
 slug: "intentlang"
+layout: agent.njk
 maker: "l3yx"
 license: "MIT"
 url: "https://github.com/l3yx/intentlang"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 The next-generation AI Agent framework driven by Intent Engineering. Move beyond turn-based Function Calling to embrace code-level intent expression and embedded execution.                         An AI-Native, Intent-Oriented Programming Language built on Python.

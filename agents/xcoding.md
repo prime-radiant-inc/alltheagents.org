@@ -1,6 +1,7 @@
 ---
 name: "XCoding"
 slug: "xcoding"
+layout: agent.njk
 maker: "XCodingLab"
 license: "MIT"
 url: "https://github.com/XCodingLab/XCoding"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 XCoding: a lightweight AI vibe coding IDE that supports parallel multi-agent collaboration (Codex/Claude Code) and parallel multi-project development, featuring a VS Code–like editor and terminal with task-driven workflows and code change management.

@@ -1,6 +1,7 @@
 ---
 name: "Tiny-Agent"
 slug: "tiny-agent"
+layout: agent.njk
 maker: "bombap"
 license: null
 url: "https://github.com/bombap/tiny-agent"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Tiny-Agent](https://github.com/bombap/tiny-agent) - Tiny-Agent is a lightweight yet extensible AI agent framework that simplifies the creation and deployment of intelligent agents.

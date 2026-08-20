@@ -1,6 +1,7 @@
 ---
 name: "fable5-opus5-orchestrator"
 slug: "fable5-opus5-orchestrator"
+layout: agent.njk
 maker: "Rylaa"
 license: "MIT"
 url: "https://github.com/Rylaa/fable5-opus5-orchestrator"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Keep Claude Fable 5 in the chair all day without draining your usage limit — token-frugal multi-agent orchestration plugin for Claude Code: tier routing (Sonnet 5 does the work), Requirements Ledger, enforced guard hooks, automatic teammate reaping

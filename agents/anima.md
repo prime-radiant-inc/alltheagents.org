@@ -1,6 +1,7 @@
 ---
 name: "Anima"
 slug: "anima"
+layout: agent.njk
 maker: "Fullive-AI"
 license: "Apache-2.0"
 url: "https://github.com/Fullive-AI/Anima"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence

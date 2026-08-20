@@ -1,6 +1,7 @@
 ---
 name: "Superset"
 slug: "superset"
+layout: agent.njk
 maker: "superset-sh"
 license: "NOASSERTION"
 url: "https://github.com/superset-sh/superset"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://superset.sh"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Superset](https://github.com/superset-sh/superset)** `⭐ 13k` — A terminal built for coding agents; orchestrates parallel agent sessions.

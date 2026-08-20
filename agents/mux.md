@@ -1,6 +1,7 @@
 ---
 name: "mux"
 slug: "mux"
+layout: agent.njk
 maker: "coder"
 license: "AGPL-3.0"
 url: "https://github.com/coder/mux"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://mux.coder.com"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[mux](https://github.com/coder/mux)** `⭐ 2k` — Desktop application for isolated, parallel agentic development.

@@ -1,6 +1,7 @@
 ---
 name: "carrycode"
 slug: "carrycode"
+layout: agent.njk
 maker: "zhangliang605"
 license: null
 url: "https://github.com/zhangliang605/carrycode"
@@ -16,7 +17,6 @@ language: "Rust"
 homepage: "https://carrycode.ai"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 CarryCode is a terminal-native AI coding agent that helps you write, refactor, debug, and understand code — all through natural conversation. It connects to 17+ LLM providers, supports the MCP protocol for extensibility, and delivers a beautiful terminal UI with themes, syntax highlighting, and code diff previews.

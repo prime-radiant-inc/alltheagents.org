@@ -1,6 +1,7 @@
 ---
 name: "guidance-for-multi-agent-orchestration-on-aws"
 slug: "guidance-for-multi-agent-orchestration-on-aws"
+layout: agent.njk
 maker: "aws-solutions-library-samples"
 license: "Apache-2.0"
 url: "https://github.com/aws-solutions-library-samples/guidance-for-multi-agent-orchestration-on-aws"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://docs.aws.amazon.com/bedrock/latest/userguide/agents-multi-agent-collaboration.html"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Enables developers to build, deploy, and manage multiple specialized agents that work together to tackle complex workflows. Each agent focuses on a specific task, breaks down processes into manageable steps, assigns tasks to the appropriate agents, and ensures accurate, and reliable outcomes.

@@ -1,6 +1,7 @@
 ---
 name: "Agentlas OS"
 slug: "agentlas-os"
+layout: agent.njk
 maker: "agentlas-ai"
 license: "Apache-2.0"
 url: "https://github.com/agentlas-ai/Agentlas-OS"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://agentlas.cloud"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS)** `⭐ 1.2k` — Agent OS for Claude Code, Codex, and Cursor (formerly Hephaestus) with a meta-agent builder, A2A Hub routing, local ontology, and memory/security gates; core is Apache-2.0 with a hosted cloud offering.

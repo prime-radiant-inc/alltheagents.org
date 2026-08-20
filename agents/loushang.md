@@ -1,6 +1,7 @@
 ---
 name: "loushang"
 slug: "loushang"
+layout: agent.njk
 maker: "zhnt"
 license: "Apache-2.0"
 url: "https://github.com/zhnt/loushang"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.

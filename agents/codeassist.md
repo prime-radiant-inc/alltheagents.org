@@ -1,6 +1,7 @@
 ---
 name: "codeassist"
 slug: "codeassist"
+layout: agent.njk
 maker: "gensyn-ai"
 license: "MIT"
 url: "https://github.com/gensyn-ai/codeassist"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.

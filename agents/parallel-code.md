@@ -1,6 +1,7 @@
 ---
 name: "Parallel Code"
 slug: "parallel-code"
+layout: agent.njk
 maker: "johannesjo"
 license: "MIT"
 url: "https://github.com/johannesjo/parallel-code"
@@ -17,7 +18,6 @@ language: "TypeScript"
 homepage: "https://parallelcode.app"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Parallel Code](https://github.com/johannesjo/parallel-code)** `⭐ 978` — Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.

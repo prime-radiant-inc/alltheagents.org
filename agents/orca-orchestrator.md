@@ -1,6 +1,7 @@
 ---
 name: "Orca"
-slug: "orca-2"
+slug: "orca-orchestrator"
+layout: agent.njk
 maker: "junkyard22"
 license: "NOASSERTION"
 url: "https://github.com/junkyard22/Orca"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Multi-role AI orchestration runtime for Windows. Quality-gated pipeline (Brain → Miranda → Pappy → Benson) with MCP support, SQLite persistence, and a self-improving distillation loop. Coding you can trust.

@@ -1,6 +1,7 @@
 ---
 name: "pi-hermes-memory"
 slug: "pi-hermes-memory"
+layout: agent.njk
 maker: "chandra447"
 license: "MIT"
 url: "https://github.com/chandra447/pi-hermes-memory"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Hermes-style persistent memory and learning loop for Pi coding agent

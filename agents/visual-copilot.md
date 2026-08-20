@@ -1,6 +1,7 @@
 ---
 name: "Visual Copilot"
 slug: "visual-copilot"
+layout: agent.njk
 maker: "Figma"
 license: "Proprietary"
 url: "https://www.figma.com/community/plugin/figma-to-code"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Figma's AI plugin that converts designs to production code

@@ -1,6 +1,7 @@
 ---
 name: "Gaia-Meme-Coin-Generator"
 slug: "gaia-meme-coin-generator"
+layout: agent.njk
 maker: "harishkotra"
 license: "MIT"
 url: "https://github.com/harishkotra/gaia-meme-coin-generator"
@@ -14,7 +15,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Gaia-Meme-Coin-Generator](https://github.com/harishkotra/gaia-meme-coin-generator) - Generate and deploy meme tokens automatically using Gaia's AI Agent for creative naming and tokenomics!

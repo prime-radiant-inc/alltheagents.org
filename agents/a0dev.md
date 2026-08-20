@@ -1,6 +1,7 @@
 ---
 name: "a0.dev"
 slug: "a0dev"
+layout: agent.njk
 maker: "a0.dev"
 license: "Proprietary"
 url: "https://a0.dev"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI coding agent for building web apps from natural language

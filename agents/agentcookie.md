@@ -1,6 +1,7 @@
 ---
 name: "agentcookie"
 slug: "agentcookie"
+layout: agent.njk
 maker: "mvanhorn"
 license: "MIT"
 url: "https://github.com/mvanhorn/agentcookie"
@@ -16,7 +17,6 @@ language: "Go"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Your agent runs on a Mac that isn't your daily driver. agentcookie keeps its sessions in sync with the Mac you actually browse on, continuously, encrypted over Tailscale, so OpenClaw, Hermes, or any other agent runtime wakes up authenticated. macOS, peer-to-peer, no cloud middleman.

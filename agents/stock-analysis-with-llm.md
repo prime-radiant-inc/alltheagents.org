@@ -1,6 +1,7 @@
 ---
 name: "Stock-Analysis-With-Llm"
 slug: "stock-analysis-with-llm"
+layout: agent.njk
 maker: "bauer-jan"
 license: "MIT"
 url: "https://github.com/bauer-jan/stock-analysis-with-llm"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Stock-Analysis-With-Llm](https://github.com/bauer-jan/stock-analysis-with-llm) - This repository provides tools and workflows for stock analysis using large language models (LLMs). It combines financial data processing…

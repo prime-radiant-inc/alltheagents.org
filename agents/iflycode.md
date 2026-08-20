@@ -1,6 +1,7 @@
 ---
 name: "iFlyCode"
 slug: "iflycode"
+layout: agent.njk
 maker: "iFlytek"
 license: "Proprietary"
 url: "https://iflycode.com"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 iFlytek's AI coding assistant powered by Spark large model

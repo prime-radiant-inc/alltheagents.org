@@ -1,6 +1,7 @@
 ---
 name: "Code-Interpreter-Api"
 slug: "code-interpreter-api"
+layout: agent.njk
 maker: "leezhuuuuu"
 license: "GPL-3.0"
 url: "https://github.com/leezhuuuuu/Code-Interpreter-Api"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://code.leez.tech/doc"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Code-Interpreter-Api](https://github.com/leezhuuuuu/Code-Interpreter-Api) - Committed to being the best code interpreter in the world.

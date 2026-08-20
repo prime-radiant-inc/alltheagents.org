@@ -1,6 +1,7 @@
 ---
 name: "codebuddy"
 slug: "codebuddy"
+layout: agent.njk
 maker: "olasunkanmi-SE"
 license: "MIT"
 url: "https://github.com/olasunkanmi-SE/codebuddy"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 An Autonomous AI Software Engineer

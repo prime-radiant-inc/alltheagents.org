@@ -1,6 +1,7 @@
 ---
 name: "octo-web"
 slug: "octo-web"
+layout: agent.njk
 maker: "Mininglamp-OSS"
 license: "Apache-2.0"
 url: "https://github.com/Mininglamp-OSS/octo-web"
@@ -17,7 +18,6 @@ language: "TypeScript"
 homepage: "https://github.com/Mininglamp-OSS"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.

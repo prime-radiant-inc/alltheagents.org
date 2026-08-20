@@ -1,6 +1,7 @@
 ---
 name: "next-ai-starter"
 slug: "next-ai-starter"
+layout: agent.njk
 maker: "kleneway"
 license: "MIT"
 url: "https://github.com/kleneway/next-ai-starter"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 Opinionated batteries-included starter kit optimized for building applications using AI coding tools

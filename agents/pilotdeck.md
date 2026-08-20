@@ -1,6 +1,7 @@
 ---
 name: "PilotDeck"
 slug: "pilotdeck"
+layout: agent.njk
 maker: "OpenBMB"
 license: "AGPL-3.0"
 url: "https://github.com/OpenBMB/PilotDeck"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "author_search"
-layout: agent.njk
 ---
 
 Task-oriented AI Agent productivity platform

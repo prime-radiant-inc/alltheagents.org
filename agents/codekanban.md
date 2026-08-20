@@ -1,6 +1,7 @@
 ---
 name: "CodeKanban"
 slug: "codekanban"
+layout: agent.njk
 maker: "fy0"
 license: "Apache-2.0"
 url: "https://github.com/fy0/CodeKanban"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Manage all your terminals and ai coding agents from one unified page.

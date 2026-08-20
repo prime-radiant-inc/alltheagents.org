@@ -1,6 +1,7 @@
 ---
 name: "Aperant"
 slug: "aperant"
+layout: agent.njk
 maker: "AndyMik90"
 license: "AGPL-3.0"
 url: "https://github.com/AndyMik90/Aperant"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://aperant.com"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Autonomous multi-session AI coding

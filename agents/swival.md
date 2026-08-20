@@ -1,6 +1,7 @@
 ---
 name: "swival"
 slug: "swival"
+layout: agent.njk
 maker: "Swival"
 license: "MIT"
 url: "https://github.com/Swival/swival"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://swival.dev"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 A small, powerful, open-source CLI coding agent that works with open models.

@@ -1,6 +1,7 @@
 ---
 name: "buildware-ai"
 slug: "buildware-ai"
+layout: agent.njk
 maker: "mckaywrigley"
 license: "MIT"
 url: "https://github.com/mckaywrigley/buildware-ai"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://JoinTakeoff.com"
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 An experimental AI coding tool.

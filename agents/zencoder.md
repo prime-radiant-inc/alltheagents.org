@@ -1,6 +1,7 @@
 ---
 name: "Zencoder"
 slug: "zencoder"
+layout: agent.njk
 maker: "Zencoder"
 license: "Proprietary"
 url: "https://zencoder.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI coding assistant with code generation and review capabilities

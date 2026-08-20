@@ -1,6 +1,7 @@
 ---
 name: "Claw Code"
 slug: "claw-code"
+layout: agent.njk
 maker: "ultraworkers"
 license: "MIT"
 url: "https://github.com/ultraworkers/claw-code"
@@ -15,7 +16,6 @@ homepage: null
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[Claw Code](https://github.com/ultraworkers/claw-code)** `⭐ 195k` — Clean-room Python/Rust rewrite of Claude Code architecture using oh-my-codex; fastest repo in GitHub history to 100K stars. Born from the March 2026 Claude Code source leak. MIT.

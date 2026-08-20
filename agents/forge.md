@@ -1,6 +1,7 @@
 ---
 name: "Forge"
 slug: "forge"
+layout: agent.njk
 maker: "LucasDuys"
 license: "MIT"
 url: "https://github.com/LucasDuys/forge"
@@ -16,7 +17,6 @@ language: "JavaScript"
 homepage: "https://lucasduys.github.io/forge/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Forge](https://github.com/LucasDuys/forge)** `⭐ 55` — Autonomous spec-driven development loop for Claude Code; three-command pipeline (brainstorm specs, plan task DAGs, execute autonomously) with context survival, backpropagation that traces bugs to spec gaps, and Claude-on-Claude code review. MIT.

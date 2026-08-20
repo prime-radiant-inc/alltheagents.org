@@ -1,6 +1,7 @@
 ---
 name: "Debugai"
 slug: "debugai"
+layout: agent.njk
 maker: "UniIDE"
 license: "GPL-3.0"
 url: "https://github.com/Open-IDE/DebugAI"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Debugai](https://github.com/Open-IDE/DebugAI) - An A.I. Agent that assists in Testing & Debugging!

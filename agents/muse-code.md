@@ -1,6 +1,7 @@
 ---
 name: "Muse Code"
 slug: "muse-code"
+layout: agent.njk
 maker: "Meta"
 license: "Proprietary"
 url: "https://github.com/meta-ai/muse-code"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Meta's terminal coding agent powered by Muse Spark model

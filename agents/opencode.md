@@ -1,6 +1,7 @@
 ---
 name: "OpenCode"
 slug: "opencode"
+layout: agent.njk
 maker: "anomalyco"
 license: "MIT"
 url: "https://github.com/anomalyco/opencode"
@@ -18,7 +19,6 @@ sources:
   - "jqueryscript"
   - "brad"
   - "tiennm"
-layout: agent.njk
 ---
 
 A provider-agnostic terminal coding agent with repository tools, LSP integration, and shareable sessions.

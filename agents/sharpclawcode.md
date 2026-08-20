@@ -1,6 +1,7 @@
 ---
 name: "SharpClawCode"
 slug: "sharpclawcode"
+layout: agent.njk
 maker: "Independent"
 license: "MIT"
 url: "https://github.com/sharpclaw/sharpclawcode"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 C# native coding agent runtime

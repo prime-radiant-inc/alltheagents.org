@@ -1,6 +1,7 @@
 ---
 name: "loom"
 slug: "loom"
+layout: agent.njk
 maker: "husu"
 license: null
 url: "https://github.com/husu/loom"
@@ -14,7 +15,6 @@ language: null
 homepage: "https://loom.vegamo.cn"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 一个写接口文档的AI Agent。支持使用Vibe coding 的方式，编写接口文档，同时自带友好的文档查看工具与接口Mock工具

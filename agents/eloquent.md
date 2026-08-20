@@ -1,6 +1,7 @@
 ---
 name: "Eloquent"
 slug: "eloquent"
+layout: agent.njk
 maker: "boneylizard"
 license: "AGPL-3.0"
 url: "https://github.com/boneylizard/Eloquent"
@@ -15,7 +16,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 The most feature-complete local AI workstation. Multi-GPU inference, integrated Stable Diffusion + ADetailer, voice cloning, research-grade ELO testing, and tool-calling code editor. 100% local. Zero subscriptions. Your GPUs deserve better.

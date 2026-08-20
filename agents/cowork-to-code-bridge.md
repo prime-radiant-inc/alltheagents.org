@@ -1,6 +1,7 @@
 ---
 name: "cowork-to-code-bridge"
 slug: "cowork-to-code-bridge"
+layout: agent.njk
 maker: "abhinaykrupa"
 license: "MIT"
 url: "https://github.com/abhinaykrupa/cowork-to-code-bridge"
@@ -18,7 +19,6 @@ language: "Python"
 homepage: "https://github.com/abhinaykrupa/cowork-to-code-bridge#install--two-pastes-total"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[cowork-to-code-bridge](https://github.com/abhinaykrupa/cowork-to-code-bridge)** `⭐ 12` — Async file-based bridge that lets a sandboxed/cloud agent (Claude Cowork, CrewAI, AutoGen, LlamaIndex) delegate work to Claude Code running on your real macOS/Linux machine. A local daemon picks tasks off a shared bind-mounted directory, runs them through `run_claude.sh` (per-task model routing + budget caps + permission scoping), and returns results — no inbound network, no HTTPS tunnel. Ships a Claude Code skill, MCP audit, and selfcheck. MIT.

@@ -1,6 +1,7 @@
 ---
 name: "web-code-agent"
 slug: "web-code-agent"
+layout: agent.njk
 maker: "oldjs"
 license: "MIT"
 url: "https://github.com/oldjs/web-code-agent"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://file.wen.bar"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.

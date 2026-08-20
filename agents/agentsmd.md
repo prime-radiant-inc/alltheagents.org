@@ -1,6 +1,7 @@
 ---
 name: "agents.md"
 slug: "agentsmd"
+layout: agent.njk
 maker: "agentsmd"
 license: "MIT"
 url: "https://github.com/agentsmd/agents.md"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://agents.md"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 AGENTS.md — a simple, open format for guiding coding agents

@@ -1,6 +1,7 @@
 ---
 name: "Setup-Amazon-Bedrock-Agent-For-Text2Sql-Using-Amazon-Redshift-Serverless-With-Streamlit"
 slug: "setup-amazon-bedrock-agent-for-text2sql-using-amazon-redshift-serverless-with-streamlit"
+layout: agent.njk
 maker: "aws-samples"
 license: "MIT-0"
 url: "https://github.com/aws-samples/Setup-Amazon-Bedrock-Agent-for-Text2SQL-Using-Amazon-Redshift-Serverless-with-Streamlit"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Setup-Amazon-Bedrock-Agent-For-Text2Sql-Using-Amazon-Redshift-Serverless-With-Streamlit](https://github.com/aws-samples/Setup-Amazon-Bedrock-Agent-for-Text2SQL-Using-Amazon-Redshift-Serverless-with-Streamlit) - This project integrates AWS services to create a natural language interface for querying Amazon Redshift Serverless databases. It utilize…

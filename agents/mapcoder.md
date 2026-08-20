@@ -1,6 +1,7 @@
 ---
 name: "MapCoder"
 slug: "mapcoder"
+layout: agent.njk
 maker: "Md-Ashraful-Pramanik"
 license: "MIT"
 url: "https://github.com/Md-Ashraful-Pramanik/MapCoder"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 MapCoder: Multi-Agent Code Generation for Competitive Problem Solving

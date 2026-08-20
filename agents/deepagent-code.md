@@ -1,6 +1,7 @@
 ---
 name: "deepagent-code"
 slug: "deepagent-code"
+layout: agent.njk
 maker: "deepagent-ltd"
 license: "NOASSERTION"
 url: "https://github.com/deepagent-ltd/deepagent-code"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://ai.deepagent.ltd/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 DeepAgent Code: AI coding agent with persistent memory and control plane

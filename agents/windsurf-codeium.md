@@ -1,6 +1,7 @@
 ---
 name: "Windsurf (Codeium)"
 slug: "windsurf-codeium"
+layout: agent.njk
 maker: null
 license: null
 url: "https://windsurf.com"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [Windsurf (Codeium)](https://windsurf.com) | Cascade agentic mode. Project-level memory. 5 parallel agents. | Free / $15/mo |

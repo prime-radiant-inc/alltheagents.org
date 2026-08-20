@@ -1,6 +1,7 @@
 ---
 name: "Grinta"
 slug: "grinta"
+layout: agent.njk
 maker: "josephsenior"
 license: "MIT"
 url: "https://github.com/josephsenior/Grinta-Coding-Agent"
@@ -17,7 +18,6 @@ language: "Python"
 homepage: "https://josephsenior.github.io/Grinta-Coding-Agent/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Grinta](https://github.com/josephsenior/Grinta-Coding-Agent)** `⭐ 29` — Local-first, provider-agnostic terminal coding agent built for long-horizon autonomous execution; durable state and recovery, context management, structured tool orchestration, LSP/DAP integration, and validation-gated completion. Python, MIT.

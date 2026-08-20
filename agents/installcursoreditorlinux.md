@@ -1,6 +1,7 @@
 ---
 name: "InstallCursorEditorLinux"
 slug: "installcursoreditorlinux"
+layout: agent.njk
 maker: "IsRengel"
 license: "Apache-2.0"
 url: "https://github.com/IsRengel/InstallCursorEditorLinux"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 矢印 | Cursor AI Code Editor, installer and setup in Linux  ➤

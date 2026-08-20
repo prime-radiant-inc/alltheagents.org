@@ -1,6 +1,7 @@
 ---
 name: "beehive"
 slug: "beehive"
+layout: agent.njk
 maker: "storozhenko98"
 license: "MIT"
 url: "https://github.com/storozhenko98/beehive"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: "https://www.beehiveapp.dev"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Orchestrate coding agents across isolated git workspaces

@@ -1,6 +1,7 @@
 ---
 name: "MoonBit Pilot"
 slug: "moonbit-pilot"
+layout: agent.njk
 maker: "IDEA Research Institute"
 license: "MIT"
 url: "https://www.moonbitlang.com"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 World's first bottom-up code agent, full-stack AI-native, described as faster and more stable than Cursor

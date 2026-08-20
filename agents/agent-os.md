@@ -1,6 +1,7 @@
 ---
 name: "agent-os"
 slug: "agent-os"
+layout: agent.njk
 maker: "saadnvd1"
 license: "MIT"
 url: "https://github.com/saadnvd1/agent-os"
@@ -17,7 +18,6 @@ language: "TypeScript"
 homepage: "https://saadnaveed.com"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Mobile-first web UI for managing AI coding sessions (Claude Code, Codex, Aider, Gemini CLI, Amp, Pi). Self-hosted with multi-pane terminals, git integration, and session orchestration.

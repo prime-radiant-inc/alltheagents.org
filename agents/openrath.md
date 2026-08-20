@@ -1,6 +1,7 @@
 ---
 name: "OpenRath"
 slug: "openrath"
+layout: agent.njk
 maker: "Rath-Team"
 license: "BSD-3-Clause"
 url: "https://github.com/Rath-Team/OpenRath"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://www.openrath.com/"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 An open-source, PyTorch-like runtime for dynamic multi-agent and multi-session workflows.

@@ -1,6 +1,7 @@
 ---
 name: "DeepSeek-TUI"
 slug: "deepseek-tui"
+layout: agent.njk
 maker: "Independent"
 license: "MIT"
 url: "https://github.com/deepseek-tui/deepseek-tui"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Open source terminal coding agent adapted for DeepSeek V4

@@ -1,6 +1,7 @@
 ---
 name: "TypeChat"
 slug: "typechat"
+layout: agent.njk
 maker: "microsoft"
 license: "MIT"
 url: "https://github.com/microsoft/TypeChat"
@@ -15,7 +16,6 @@ homepage: "https://microsoft.github.io/TypeChat/"
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that facilitates building natural language interfaces by using schema engineering as an alternative to traditional function calling in LLMs, avoiding JSON schema-based constraints [github](https://github.com/microsoft/TypeChat)

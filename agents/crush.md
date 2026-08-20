@@ -1,6 +1,7 @@
 ---
 name: "Crush"
 slug: "crush"
+layout: agent.njk
 maker: "charmbracelet"
 license: "Source Available"
 url: "https://github.com/charmbracelet/crush"
@@ -19,7 +20,6 @@ sources:
   - "brad"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 A terminal coding agent with multi-model support, LSP context, file editing, command execution, and MCP integration.

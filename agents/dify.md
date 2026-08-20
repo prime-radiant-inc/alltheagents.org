@@ -1,6 +1,7 @@
 ---
 name: "Dify"
 slug: "dify"
+layout: agent.njk
 maker: null
 license: null
 url: "https://dify.ai"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "vinkius"
-layout: agent.njk
 ---
 
 | [Dify](https://dify.ai) | Multi | Native | Low-code agent builder |

@@ -1,6 +1,7 @@
 ---
 name: "kkirikkiri"
 slug: "kkirikkiri"
+layout: agent.njk
 maker: "fivetaku"
 license: "MIT"
 url: "https://github.com/fivetaku/kkirikkiri"
@@ -14,7 +15,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Natural language team builder for Claude Code Agent Teams — create purpose-driven AI teams with a single sentence

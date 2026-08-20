@@ -1,6 +1,7 @@
 ---
 name: "Sweep"
 slug: "sweep"
+layout: agent.njk
 maker: "sweepai"
 license: "NOASSERTION"
 url: "https://github.com/sweepai/sweep"
@@ -17,7 +18,6 @@ homepage: "https://sweep.dev"
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [Sweep](https://github.com/sweepai/sweep) - Sweep is an AI tool that automates the transformation of GitHub issues into pull requests, streamlining code improvements and bug fixes, supported by a suite of features like codebase understanding, test running, and a developer-friendly interface for installation and usage [github](https://github.com/sweepai/sweep) | [website](https://sweep.dev/)

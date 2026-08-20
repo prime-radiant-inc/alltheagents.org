@@ -1,6 +1,7 @@
 ---
 name: "learn-coding-agent"
 slug: "learn-coding-agent"
+layout: agent.njk
 maker: "sanbuphy"
 license: null
 url: "https://github.com/sanbuphy/learn-coding-agent"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Research on Coding Agents

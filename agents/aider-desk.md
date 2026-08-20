@@ -1,6 +1,7 @@
 ---
 name: "aider-desk"
 slug: "aider-desk"
+layout: agent.njk
 maker: "hotovo"
 license: "Apache-2.0"
 url: "https://github.com/hotovo/aider-desk"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://aiderdesk.hotovo.com"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Platform for AI-powered software engineers

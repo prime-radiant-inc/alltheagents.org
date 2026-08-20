@@ -1,6 +1,7 @@
 ---
 name: "lavra"
 slug: "lavra"
+layout: agent.njk
 maker: "roberto-mello"
 license: "MIT"
 url: "https://github.com/roberto-mello/lavra"
@@ -14,7 +15,6 @@ language: "Shell"
 homepage: "https://lavra.dev"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 A plugin with compound engineering workflows and memory for AI coding agents

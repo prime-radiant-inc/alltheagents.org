@@ -1,6 +1,7 @@
 ---
 name: "Blueprints"
 slug: "blueprints"
+layout: agent.njk
 maker: "sublayerapp"
 license: "MIT"
 url: "https://github.com/sublayerapp/blueprints"
@@ -15,7 +16,6 @@ language: "Ruby"
 homepage: "https://blueprints.sublayer.com"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Blueprints](https://github.com/sublayerapp/blueprints) - Blueprints is an open-source tool that integrates with your text editor to help you generate code with an LLM based on patterns you alrea…

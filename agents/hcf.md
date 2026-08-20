@@ -1,6 +1,7 @@
 ---
 name: "hcf"
 slug: "hcf"
+layout: agent.njk
 maker: "markshust"
 license: "MIT"
 url: "https://github.com/markshust/hcf"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Autonomous development plugin for Claude Code. Define requirements with a PM, then let parallel workers implement everything using TDD.

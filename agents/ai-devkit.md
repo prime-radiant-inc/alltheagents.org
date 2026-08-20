@@ -1,6 +1,7 @@
 ---
 name: "ai-devkit"
 slug: "ai-devkit"
+layout: agent.njk
 maker: "codeaholicguy"
 license: null
 url: "https://github.com/codeaholicguy/ai-devkit"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://ai-devkit.com"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 The control plane for AI coding agents.

@@ -1,6 +1,7 @@
 ---
 name: "Smol Developer"
 slug: "smol-developer"
+layout: agent.njk
 maker: "smol-ai"
 license: "MIT"
 url: "https://github.com/smol-ai/developer"
@@ -18,7 +19,6 @@ sources:
   - "brad"
   - "brandonhimpfen"
   - "ishandutta"
-layout: agent.njk
 ---
 
 Minimalist agent for rapid code generation and iteration

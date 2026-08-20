@@ -1,6 +1,7 @@
 ---
 name: "2024-SWE-New-Grad"
 slug: "2024-swe-new-grad"
+layout: agent.njk
 maker: "AlanChen4"
 license: null
 url: "https://github.com/AlanChen4/2024-SWE-New-Grad"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://www.carbosjobs.com/"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A list of new grad positions for software engineering, updated automatically everyday

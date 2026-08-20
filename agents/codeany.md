@@ -1,6 +1,7 @@
 ---
 name: "codeany"
 slug: "codeany"
+layout: agent.njk
 maker: "codeany-ai"
 license: "MIT"
 url: "https://github.com/codeany-ai/codeany"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: null
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 Open-source AI-powered terminal agent. Built in Go.

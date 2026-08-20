@@ -1,6 +1,7 @@
 ---
 name: "OpenAlpha_Evolve"
 slug: "openalpha-evolve"
+layout: agent.njk
 maker: "shyamsaktawat"
 license: "MIT"
 url: "https://github.com/shyamsaktawat/OpenAlpha_Evolve"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 OpenAlpha_Evolve is an open-source Python framework inspired by the groundbreaking research on autonomous coding agents like DeepMind's AlphaEvolve.

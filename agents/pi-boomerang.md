@@ -1,6 +1,7 @@
 ---
 name: "pi-boomerang"
 slug: "pi-boomerang"
+layout: agent.njk
 maker: "nicobailon"
 license: null
 url: "https://github.com/nicobailon/pi-boomerang"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Token-efficient autonomous task execution with context collapse for pi coding agent

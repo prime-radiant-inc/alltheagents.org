@@ -1,6 +1,7 @@
 ---
 name: "Podiom"
 slug: "podiom"
+layout: agent.njk
 maker: "Podiom"
 license: "MIT"
 url: "https://github.com/Podiom/Podiom"
@@ -18,7 +19,6 @@ language: "Go"
 homepage: "https://github.com/Podiom/Podiom/tree/master/docs"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Podiom](https://github.com/Podiom/Podiom)** `⭐ 4` — Self-hosted control plane for local Claude Code and Codex CLI agents: durable named agents whose chat sessions replay onto a fresh backing CLI session across provider/profile switches, a shared project ledger, an embedded scheduler, and autonomous goals. Single Go binary with an embedded Svelte web UI, no cloud dependency. MIT.

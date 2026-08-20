@@ -1,6 +1,7 @@
 ---
 name: "tutti"
 slug: "tutti"
+layout: agent.njk
 maker: "tutti-os"
 license: "Apache-2.0"
 url: "https://github.com/tutti-os/tutti"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://tutti.sh/"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Where people and agents build in tune.

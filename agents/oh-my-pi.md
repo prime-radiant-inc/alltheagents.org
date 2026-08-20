@@ -1,6 +1,7 @@
 ---
 name: "OH-MY-PI"
 slug: "oh-my-pi"
+layout: agent.njk
 maker: "can1357"
 license: "MIT"
 url: "https://github.com/can1357/oh-my-pi"
@@ -18,7 +19,6 @@ sources:
   - "jqueryscript"
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 A terminal coding agent with anchored edits, LSP support, browser tools, Python execution, and subagents.

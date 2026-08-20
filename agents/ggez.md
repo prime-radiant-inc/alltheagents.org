@@ -1,6 +1,7 @@
 ---
 name: "ggez"
 slug: "ggez"
+layout: agent.njk
 maker: "vibe-stack"
 license: "MIT"
 url: "https://github.com/vibe-stack/ggez"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://vibe-stack.github.io/ggez/"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 a game framework for threejs for vibe coding maxxing

@@ -1,6 +1,7 @@
 ---
 name: "agentic-coding-tool-eval"
 slug: "agentic-coding-tool-eval"
+layout: agent.njk
 maker: "disler"
 license: null
 url: "https://github.com/disler/agentic-coding-tool-eval"
@@ -15,7 +16,6 @@ language: "Vue"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Simple ideas to compare Agentic Coding Tools

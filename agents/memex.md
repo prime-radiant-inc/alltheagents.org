@@ -1,6 +1,7 @@
 ---
 name: "Memex"
 slug: "memex"
+layout: agent.njk
 maker: null
 license: null
 url: "https://memex.tech/"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "flatlogic"
-layout: agent.njk
 ---
 
 Build across stacks using natural language on your desktop

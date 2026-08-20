@@ -1,6 +1,7 @@
 ---
 name: "pi-interactive-shell"
 slug: "pi-interactive-shell"
+layout: agent.njk
 maker: "nicobailon"
 license: null
 url: "https://github.com/nicobailon/pi-interactive-shell"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Pi coding agent extension that allows Pi to autonomously control interactive CLIs in an observable overlay. Full PTY emulation, no  tmux, token efficient. User can take over anytime.

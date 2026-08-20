@@ -1,6 +1,7 @@
 ---
 name: "adal-cli"
 slug: "adal-cli"
+layout: agent.njk
 maker: "SylphAI-Inc"
 license: null
 url: "https://github.com/SylphAI-Inc/adal-cli"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: "https://docs.sylph.ai/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 The self-evolving coding agent that learns from your entire team and codebase. Less syncing. Less waiting. Deliver at the speed of thought.

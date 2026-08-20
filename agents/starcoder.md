@@ -1,6 +1,7 @@
 ---
 name: "StarCoder"
 slug: "starcoder"
+layout: agent.njk
 maker: "BigCode"
 license: "MIT"
 url: "https://huggingface.co/bigcode/starcoder"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Open-source code generation model for programming tasks

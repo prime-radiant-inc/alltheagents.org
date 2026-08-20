@@ -1,6 +1,7 @@
 ---
 name: "Figma Make"
 slug: "figma-make"
+layout: agent.njk
 maker: "Figma"
 license: "Proprietary"
 url: "https://www.figma.com/make"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Figma AI design-to-code tool that turns designs into working applications

@@ -1,6 +1,7 @@
 ---
 name: "edge-pi"
 slug: "edge-pi"
+layout: agent.njk
 maker: "marcusschiesser"
 license: "MIT"
 url: "https://github.com/marcusschiesser/edge-pi"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://edge-pi-beta.vercel.app/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 A lightweight, Vercel AI SDK based coding agent library.

@@ -1,6 +1,7 @@
 ---
 name: "real-world-rails"
 slug: "real-world-rails"
+layout: agent.njk
 maker: "steveclarke"
 license: "MIT"
 url: "https://github.com/steveclarke/real-world-rails"
@@ -14,7 +15,6 @@ language: "Shell"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.

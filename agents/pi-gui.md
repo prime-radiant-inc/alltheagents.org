@@ -1,6 +1,7 @@
 ---
 name: "pi-gui"
 slug: "pi-gui"
+layout: agent.njk
 maker: "minghinmatthewlam"
 license: "MIT"
 url: "https://github.com/minghinmatthewlam/pi-gui"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://www.pi-gui.com/"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Electron GUI app for the pi coding agent runtime

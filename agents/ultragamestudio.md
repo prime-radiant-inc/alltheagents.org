@@ -1,6 +1,7 @@
 ---
 name: "UltraGameStudio"
 slug: "ultragamestudio"
+layout: agent.njk
 maker: "wellingfeng"
 license: "MIT"
 url: "https://github.com/wellingfeng/UltraGameStudio"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 UltraGameStudio - AI coding agent for game development: engine workflows, gameplay code, and asset generation.

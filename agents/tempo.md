@@ -1,6 +1,7 @@
 ---
 name: "Tempo"
 slug: "tempo"
+layout: agent.njk
 maker: "Tempo Labs"
 license: "Proprietary"
 url: "https://www.tempolabs.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI-powered web development platform for building apps from prompts

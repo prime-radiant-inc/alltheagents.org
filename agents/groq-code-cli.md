@@ -1,6 +1,7 @@
 ---
 name: "Groq Code CLI"
 slug: "groq-code-cli"
+layout: agent.njk
 maker: "build-with-groq"
 license: "MIT"
 url: "https://github.com/build-with-groq/groq-code-cli"
@@ -18,7 +19,6 @@ sources:
   - "jqueryscript"
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 A lightweight terminal coding agent for Groq models with customizable tools, commands, and iterative code changes.

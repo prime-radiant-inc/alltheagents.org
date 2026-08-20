@@ -1,6 +1,7 @@
 ---
 name: "agent-md"
 slug: "agent-md"
+layout: agent.njk
 maker: "iamfakeguru"
 license: "MIT"
 url: "https://github.com/iamfakeguru/agent-md"
@@ -16,7 +17,6 @@ language: "Shell"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Production-grade agent directives for autonomous coding agents: Claude Code, Codex, Cursor, Windsurf, Aider.

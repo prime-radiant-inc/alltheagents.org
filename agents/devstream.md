@@ -1,6 +1,7 @@
 ---
 name: "Devstream"
 slug: "devstream"
+layout: agent.njk
 maker: null
 license: null
 url: "https://github.com/RaheesAhmed/devstream"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Devstream](https://github.com/RaheesAhmed/devstream) - DevStream is an AI-powered web development agent that allows you to prompt, run, edit, and deploy full-stack applications directly from y…

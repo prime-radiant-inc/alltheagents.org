@@ -1,6 +1,7 @@
 ---
 name: "Clawde_Code"
 slug: "clawde-code"
+layout: agent.njk
 maker: "GitHpriyanshu23"
 license: null
 url: "https://github.com/GitHpriyanshu23/Clawde_Code"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://x.com/Fried_rice/status/2038894956459290963?s=20"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.

@@ -1,6 +1,7 @@
 ---
 name: "hitch"
 slug: "hitch"
+layout: agent.njk
 maker: "maxktz"
 license: "MIT"
 url: "https://github.com/maxktz/hitch"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Share your terminal with coding agent in one command. Lightweight shell proxy, written in Rust.

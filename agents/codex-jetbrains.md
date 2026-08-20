@@ -1,6 +1,7 @@
 ---
 name: "Codex-JetBrains"
 slug: "codex-jetbrains"
+layout: agent.njk
 maker: "Haleclipse"
 license: "Apache-2.0"
 url: "https://github.com/Haleclipse/Codex-JetBrains"
@@ -15,7 +16,6 @@ language: "Kotlin"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment.

@@ -1,6 +1,7 @@
 ---
 name: "AppClipCodeGenerator"
 slug: "appclipcodegenerator"
+layout: agent.njk
 maker: "alfianlosari"
 license: "MIT"
 url: "https://github.com/alfianlosari/AppClipCodeGenerator"
@@ -16,7 +17,6 @@ language: "Swift"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 App Clip Code Generator macOS App built with SwiftUI

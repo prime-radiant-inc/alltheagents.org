@@ -1,6 +1,7 @@
 ---
 name: "Cline"
 slug: "cline"
+layout: agent.njk
 maker: "cline"
 license: "Apache-2.0"
 url: "https://github.com/cline/cline"
@@ -27,7 +28,6 @@ sources:
   - "quome"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 An autonomous coding agent for IDE and terminal workflows with file editing, command execution, browser tools, and checkpoints.

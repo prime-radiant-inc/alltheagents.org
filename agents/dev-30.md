@@ -1,6 +1,7 @@
 ---
 name: "dev-3.0"
 slug: "dev-30"
+layout: agent.njk
 maker: "h0x91b"
 license: "Apache-2.0"
 url: "https://github.com/h0x91b/dev-3.0"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://dev3.h0x91b.com/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Mission control for the One Person Studio — run a fleet of AI coding agents in parallel without losing your mind. Kanban + git worktrees + tmux for Claude Code, Codex, Gemini CLI, OpenCode and any shell agent. Not an IDE.

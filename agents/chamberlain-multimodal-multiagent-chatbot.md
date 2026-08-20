@@ -1,6 +1,7 @@
 ---
 name: "Chamberlain_Multimodal_Multiagent_Chatbot"
 slug: "chamberlain-multimodal-multiagent-chatbot"
+layout: agent.njk
 maker: "nickShengY"
 license: "CC0-1.0"
 url: "https://github.com/nickShengY/chamberlain_multimodal_multiagent_chatbot"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Chamberlain_Multimodal_Multiagent_Chatbot](https://github.com/nickShengY/chamberlain_multimodal_multiagent_chatbot) - An AI-driven Multimodal multi-agent chatbot for home deployment to manage the user's daily chores and tasks. Used OpenAI and Langchain an…

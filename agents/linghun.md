@@ -1,6 +1,7 @@
 ---
 name: "Linghun"
 slug: "linghun"
+layout: agent.njk
 maker: "linghungegeg"
 license: "Apache-2.0"
 url: "https://github.com/linghungegeg/Linghun"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 AGI-oriented, hallucination-resistant AI coding runtime grounded in evidence, tools, memory, agents, and verification.

@@ -1,6 +1,7 @@
 ---
 name: "valuecell"
 slug: "valuecell"
+layout: agent.njk
 maker: "ValueCell-ai"
 license: "Apache-2.0"
 url: "https://github.com/ValueCell-ai/valuecell"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://valuecell.ai"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 ValueCell is a community-driven, multi-agent platform for financial applications.

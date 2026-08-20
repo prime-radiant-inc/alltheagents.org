@@ -1,6 +1,7 @@
 ---
 name: "opencode.nvim"
 slug: "opencodenvim"
+layout: agent.njk
 maker: "sudo-tee"
 license: "Apache-2.0"
 url: "https://github.com/sudo-tee/opencode.nvim"
@@ -15,7 +16,6 @@ language: "Lua"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 neovim frontend for opencode - a terminal-based AI coding agent

@@ -1,6 +1,7 @@
 ---
 name: "Windsurf"
 slug: "windsurf"
+layout: agent.njk
 maker: null
 license: null
 url: "https://windsurf.com/editor"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "flatlogic"
-layout: agent.njk
 ---
 
 Agentic IDE focused on fast iterate/build loop

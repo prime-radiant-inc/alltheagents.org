@@ -1,6 +1,7 @@
 ---
 name: "Webwright"
 slug: "webwright"
+layout: agent.njk
 maker: "microsoft"
 license: "MIT"
 url: "https://github.com/microsoft/Webwright"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.

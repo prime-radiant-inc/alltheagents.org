@@ -1,6 +1,7 @@
 ---
 name: "Trae Agent"
 slug: "trae-agent"
+layout: agent.njk
 maker: "bytedance"
 license: "MIT"
 url: "https://github.com/bytedance/trae-agent"
@@ -20,7 +21,6 @@ sources:
   - "brad"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 ByteDance's software engineering agent for repository analysis, code editing, command execution, and benchmark tasks.

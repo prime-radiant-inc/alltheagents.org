@@ -1,6 +1,7 @@
 ---
 name: "Codegebragpt"
 slug: "codegebragpt"
+layout: agent.njk
 maker: "sr5434"
 license: "MIT"
 url: "https://github.com/sr5434/CodegebraGPT"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Codegebragpt](https://github.com/sr5434/CodegebraGPT) - Finetuning multimodal LLMs on STEM datasets

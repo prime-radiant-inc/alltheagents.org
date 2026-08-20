@@ -1,6 +1,7 @@
 ---
 name: "PRarena"
 slug: "prarena"
+layout: agent.njk
 maker: "aavetis"
 license: null
 url: "https://github.com/aavetis/PRarena"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: "https://prarena.ai"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 This repo tracks the opened and merged PRs by the top SWE coding agents by OpenAI, GitHub, and others. Updates regularly.

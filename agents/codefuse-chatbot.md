@@ -1,6 +1,7 @@
 ---
 name: "CodeFuse-ChatBot"
 slug: "codefuse-chatbot"
+layout: agent.njk
 maker: "codefuse-ai"
 license: "NOASSERTION"
 url: "https://github.com/codefuse-ai/codefuse-chatbot"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "e2b"
-layout: agent.njk
 ---
 
 - An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG, etc.

@@ -1,6 +1,7 @@
 ---
 name: "Cursor-AI-Pro-Download-2026"
 slug: "cursor-ai-pro-download-2026"
+layout: agent.njk
 maker: "hexmammamia74"
 license: "NOASSERTION"
 url: "https://github.com/hexmammamia74/Cursor-AI-Pro-Download-2026"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Advanced AI-powered code editor and software development tool featuring real-time context-aware auto-completion, codebase indexing, and smart refactoring pipelines.

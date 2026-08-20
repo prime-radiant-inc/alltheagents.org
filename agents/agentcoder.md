@@ -1,6 +1,7 @@
 ---
 name: "AgentCoder"
 slug: "agentcoder"
+layout: agent.njk
 maker: "huangd1999"
 license: null
 url: "https://github.com/huangd1999/AgentCoder"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 AgentCoder: multi-agent code generation framework.

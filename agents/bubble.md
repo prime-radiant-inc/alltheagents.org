@@ -1,6 +1,7 @@
 ---
 name: "Bubble"
 slug: "bubble"
+layout: agent.njk
 maker: "Bubble"
 license: "Proprietary"
 url: "https://bubble.io"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 No-code app builder with AI capabilities for building web applications

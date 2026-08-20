@@ -1,6 +1,7 @@
 ---
 name: "Ai_Gdpr"
 slug: "ai-gdpr"
+layout: agent.njk
 maker: "dimits-ts"
 license: null
 url: "https://github.com/dimits-ts/ai_gdpr"
@@ -14,7 +15,6 @@ language: "TeX"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Ai_Gdpr](https://github.com/dimits-ts/ai_gdpr) - A brief report exploring the impact of AI technologies on European citizens and the compliance challenges posed by the General Data Prote…

@@ -1,6 +1,7 @@
 ---
 name: "DevGPT"
 slug: "devgpt"
+layout: agent.njk
 maker: "jina-ai"
 license: "Apache-2.0"
 url: "https://github.com/jina-ai/dev-gpt"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "e2b"
-layout: agent.njk
 ---
 
 - "Tell your AI team what microservice you want to build, and they will do it for you. Your imagination is the limit!! - Welcome to Dev-GPT, where we bring your ideas to life with the power of advanced artificial intelligence! Our automated development team is designed to create microservices tailored to your specific needs, making your software development process seamless and efficient. Comprised of a virtual Product Manager, Developer, and DevOps, our AI team ensures that every aspect of your project is covered, from concept to deployment.

@@ -1,6 +1,7 @@
 ---
 name: "herm"
 slug: "herm"
+layout: agent.njk
 maker: "aduermael"
 license: "MIT"
 url: "https://github.com/aduermael/herm"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: "https://hermagent.com"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Terminal-native AI coding agent running in containers.

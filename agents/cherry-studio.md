@@ -1,6 +1,7 @@
 ---
 name: "Cherry Studio"
 slug: "cherry-studio"
+layout: agent.njk
 maker: "Cherry AI"
 license: "MIT"
 url: "https://github.com/CherryHQ/cherry-studio"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Desktop AI assistant with multi-model support and coding capabilities

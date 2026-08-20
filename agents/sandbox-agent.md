@@ -1,6 +1,7 @@
 ---
 name: "sandbox-agent"
 slug: "sandbox-agent"
+layout: agent.njk
 maker: "rivet-dev"
 license: "Apache-2.0"
 url: "https://github.com/rivet-dev/sandbox-agent"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://sandboxagent.dev"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.

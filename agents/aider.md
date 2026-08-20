@@ -1,6 +1,7 @@
 ---
 name: "Aider"
 slug: "aider"
+layout: agent.njk
 maker: "Aider-AI"
 license: "Apache-2.0"
 url: "https://github.com/Aider-AI/aider"
@@ -20,7 +21,6 @@ sources:
   - "brad"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 A Git-aware terminal pair programmer that edits multiple files, maps repositories, runs checks, and commits changes.

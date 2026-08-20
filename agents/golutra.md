@@ -1,6 +1,7 @@
 ---
 name: "golutra"
 slug: "golutra"
+layout: agent.njk
 maker: "golutra"
 license: "NOASSERTION"
 url: "https://github.com/golutra/golutra"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: "https://www.golutra.com"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.

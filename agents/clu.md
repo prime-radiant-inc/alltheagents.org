@@ -1,6 +1,7 @@
 ---
 name: "clu"
 slug: "clu"
+layout: agent.njk
 maker: "Arjia-Labs"
 license: "MIT"
 url: "https://github.com/arjia-labs/clu"
@@ -16,7 +17,6 @@ language: "Go"
 homepage: "https://arjia-labs.github.io/clu/"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[clu](https://github.com/arjia-labs/clu)** `⭐ 8` — Codified Likeness Utility: a SQLite-backed issue tracker for coordinating fleets of AI coding agents. Atomic task claim, dependency graphs, workflows & checkpoints, and an audit log. CLI-native with clean `--json` output, built to be driven by agents. Go.

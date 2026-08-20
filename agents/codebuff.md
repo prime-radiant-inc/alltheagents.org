@@ -1,6 +1,7 @@
 ---
 name: "Codebuff"
 slug: "codebuff"
+layout: agent.njk
 maker: "CodebuffAI"
 license: "Apache-2.0"
 url: "https://github.com/CodebuffAI/codebuff"
@@ -17,7 +18,6 @@ sources:
   - "jqueryscript"
   - "jqueryscript"
   - "brad"
-layout: agent.njk
 ---
 
 A terminal coding agent that coordinates specialized agents to inspect projects, edit files, and implement requested changes.

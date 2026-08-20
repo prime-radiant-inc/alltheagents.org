@@ -1,6 +1,7 @@
 ---
 name: "neuralinverse"
 slug: "neuralinverse"
+layout: agent.njk
 maker: "NeuralInverse"
 license: "Apache-2.0"
 url: "https://github.com/NeuralInverse/neuralinverse"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://cloud.neuralinverse.com"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Code Modern. Code Legacy. Code Firmware. - open-source AI-native IDE with agentic coding, Power Mode, legacy modernization, and firmware development

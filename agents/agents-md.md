@@ -1,6 +1,7 @@
 ---
 name: "agents-md"
 slug: "agents-md"
+layout: agent.njk
 maker: "FerroxLabs"
 license: "MIT"
 url: "https://github.com/FerroxLabs/agents-md"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern. Kills sycophancy, stops drive-by refactors, forces verification loops. Synthesizes Karpathy's four principles and Boris Cherny's Claude Code workflow. Works with Claude Code, Codex, Gemini CLI, Cursor, and the open standard.

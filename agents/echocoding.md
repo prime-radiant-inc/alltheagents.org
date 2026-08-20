@@ -1,6 +1,7 @@
 ---
 name: "EchoCoding"
 slug: "echocoding"
+layout: agent.njk
 maker: "launsion-boop"
 license: "MIT"
 url: "https://github.com/launsion-boop/EchoCoding"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[EchoCoding](https://github.com/launsion-boop/EchoCoding)** `⭐ 28` — Audio layer for CLI coding agents with hook-triggered SFX, ambient soundscape, and optional cloud TTS/ASR voice interaction for Codex and Claude Code workflows.

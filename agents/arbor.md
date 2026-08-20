@@ -1,6 +1,7 @@
 ---
 name: "arbor"
 slug: "arbor"
+layout: agent.njk
 maker: "penso"
 license: "MIT"
 url: "https://github.com/penso/arbor"
@@ -16,7 +17,6 @@ language: "Rust"
 homepage: "https://penso.github.io/arbor/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.

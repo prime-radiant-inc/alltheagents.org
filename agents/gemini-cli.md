@@ -1,6 +1,7 @@
 ---
 name: "Gemini CLI"
 slug: "gemini-cli"
+layout: agent.njk
 maker: "google-gemini"
 license: "Apache-2.0"
 url: "https://github.com/google-gemini/gemini-cli"
@@ -22,7 +23,6 @@ sources:
   - "zhouhao"
   - "ishandutta"
   - "tiennm"
-layout: agent.njk
 ---
 
 Google's terminal agent for understanding repositories, editing files, running commands, and using Gemini tools.

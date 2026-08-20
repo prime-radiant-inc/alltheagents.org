@@ -1,6 +1,7 @@
 ---
 name: "scenario"
 slug: "scenario"
+layout: agent.njk
 maker: "langwatch"
 license: "Apache-2.0"
 url: "https://github.com/langwatch/scenario"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://scenario.langwatch.ai"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Agentic testing for agentic codebases

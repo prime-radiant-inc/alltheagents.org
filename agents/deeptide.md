@@ -1,6 +1,7 @@
 ---
 name: "deeptide"
 slug: "deeptide"
+layout: agent.njk
 maker: "paean-ai"
 license: "MIT"
 url: "https://github.com/paean-ai/deeptide"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: "https://deeptide.sh"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Built by DeepSeek, for DeepSeek — a Swift-native macOS coding agent

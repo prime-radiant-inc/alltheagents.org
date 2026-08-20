@@ -1,6 +1,7 @@
 ---
 name: "Kaku"
 slug: "kaku"
+layout: agent.njk
 maker: "tw93"
 license: "MIT"
 url: "https://github.com/tw93/Kaku"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: "https://kaku.fun"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 🎃 A fast, out-of-the-box terminal built for AI coding.

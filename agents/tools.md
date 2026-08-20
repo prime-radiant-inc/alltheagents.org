@@ -1,6 +1,7 @@
 ---
 name: "Tools"
 slug: "tools"
+layout: agent.njk
 maker: "buildownai"
 license: "NOASSERTION"
 url: "https://github.com/buildownai/tools"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://buildown.ai"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Tools](https://github.com/buildownai/tools) - Monorepository of LLM based t AI ools provided by BuildOwn.AI

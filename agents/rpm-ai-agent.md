@@ -1,6 +1,7 @@
 ---
 name: "Rpm-Ai-Agent"
 slug: "rpm-ai-agent"
+layout: agent.njk
 maker: "teldridge11"
 license: null
 url: "https://github.com/teldridge11/RPM-AI-Agent"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Rpm-Ai-Agent](https://github.com/teldridge11/RPM-AI-Agent) - AI Agent for solving Raven's Progressive Matrices as a test of general intelligence

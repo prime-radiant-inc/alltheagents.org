@@ -1,6 +1,7 @@
 ---
 name: "routa"
 slug: "routa"
+layout: agent.njk
 maker: "phodal"
 license: "MIT"
 url: "https://github.com/phodal/routa"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://phodal.github.io/routa/"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.

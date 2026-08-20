@@ -1,6 +1,7 @@
 ---
 name: "AutoPR"
 slug: "autopr"
+layout: agent.njk
 maker: "irgolic"
 license: "MIT"
 url: "https://github.com/irgolic/AutoPR"
@@ -16,7 +17,6 @@ homepage: "https://autopr.com"
 sources:
   - "e2b"
   - "jim"
-layout: agent.njk
 ---
 
 - Triggered by adding a label containing AutoPR to an issue, AutoPR will: - Plan a fix - Write the code - Push a branch - Open a pull request

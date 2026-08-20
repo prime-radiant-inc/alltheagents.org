@@ -1,6 +1,7 @@
 ---
 name: "Devon"
 slug: "devon"
+layout: agent.njk
 maker: "entropy-research"
 license: "AGPL-3.0"
 url: "https://github.com/entropy-research/Devon"
@@ -23,7 +24,6 @@ sources:
   - "jim"
   - "jim"
   - "ishandutta"
-layout: agent.njk
 ---
 
 An autonomous pair programmer that explores repositories, plans changes, edits code, runs tests, and debugs failures.

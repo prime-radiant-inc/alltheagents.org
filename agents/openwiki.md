@@ -1,6 +1,7 @@
 ---
 name: "OpenWiki"
 slug: "openwiki"
+layout: agent.njk
 maker: "langchain-ai"
 license: "MIT"
 url: "https://github.com/langchain-ai/openwiki"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[OpenWiki](https://github.com/langchain-ai/openwiki)** `⭐ 15.2k` `[LangChain]` — CLI that writes and maintains a Markdown wiki for your codebase using a Deep Agents documentation agent; agents read it as memory via managed blocks in `AGENTS.md`/`CLAUDE.md`, and it self-updates through GitHub Actions, GitLab CI, or Bitbucket Pipelines. Twelve model providers and an interactive node-graph visualizer. MIT.

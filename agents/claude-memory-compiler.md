@@ -1,6 +1,7 @@
 ---
 name: "claude-memory-compiler"
 slug: "claude-memory-compiler"
+layout: agent.njk
 maker: "coleam00"
 license: null
 url: "https://github.com/coleam00/claude-memory-compiler"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.

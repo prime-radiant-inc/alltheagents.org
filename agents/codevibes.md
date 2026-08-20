@@ -1,6 +1,7 @@
 ---
 name: "codevibes"
 slug: "codevibes"
+layout: agent.njk
 maker: "danish296"
 license: "MIT"
 url: "https://github.com/danish296/codevibes"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://codevibes.akadanish.dev"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 CodeVibes is an intelligent AI-powered code analysis tool that scans your GitHub repositories to uncover security vulnerabilities, bugs and performance bottlenecks, and code quality issues — then translates them into actionable insights and a measurable Vibe Score that helps you continuously improve your codebase.

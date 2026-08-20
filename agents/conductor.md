@@ -1,6 +1,7 @@
 ---
 name: "Conductor"
 slug: "conductor"
+layout: agent.njk
 maker: "Conductor"
 license: "Proprietary"
 url: "https://conductor.build"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI agent orchestration platform for managing coding agents

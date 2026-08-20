@@ -1,6 +1,7 @@
 ---
 name: "Bernstein"
 slug: "bernstein"
+layout: agent.njk
 maker: "sipyourdrink-ltd"
 license: "Apache-2.0"
 url: "https://github.com/chernistry/bernstein"
@@ -19,7 +20,6 @@ sources:
   - "jim"
   - "jim"
   - "caramaschi"
-layout: agent.njk
 ---
 
 - **[Bernstein](https://github.com/chernistry/bernstein)** `⭐ 913` — Deterministic Python orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits.

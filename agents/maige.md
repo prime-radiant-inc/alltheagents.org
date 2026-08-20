@@ -1,6 +1,7 @@
 ---
 name: "Maige"
 slug: "maige"
+layout: agent.njk
 maker: null
 license: null
 url: "https://maige.app"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "e2b"
-layout: agent.njk
 ---
 
 - Maige is a codebase agent that runs when new issues and pull requests come up. Its core features are labelling, assigning, and answering questions. - Maige can search the entire codebase, spin up a sandbox to run scripts, and even write basic code.

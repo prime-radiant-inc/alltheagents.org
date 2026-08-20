@@ -1,6 +1,7 @@
 ---
 name: "AgentFlow"
 slug: "agentflow"
+layout: agent.njk
 maker: "lupantech"
 license: "MIT"
 url: "https://github.com/lupantech/AgentFlow"
@@ -16,7 +17,6 @@ homepage: "https://agentflow.stanford.edu"
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [AgentFlow](https://github.com/lupantech/AgentFlow) - A trainable multi-agent framework that coordinates four specialized modules (planner, executor, verifier, generator) through in-the-flow optimization, achieving significant performance gains over monolithic approaches by directly training the planner within multi-turn task loops using Flow-GRPO reinforcement learning. Any tools can be smoothly integrated into this framework, math, coding, scientific, search, finance, news, etc. [github](https://github.com/lupantech/AgentFlow) | [website](https://agentflow.stanford.edu/) | [paper](https://huggingface.co/papers/2510.05592)

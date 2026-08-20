@@ -1,6 +1,7 @@
 ---
 name: "sealos"
 slug: "sealos"
+layout: agent.njk
 maker: "labring"
 license: "NOASSERTION"
 url: "https://github.com/labring/sealos"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://sealos.io"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.

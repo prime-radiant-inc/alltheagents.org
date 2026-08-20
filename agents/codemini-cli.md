@@ -1,6 +1,7 @@
 ---
 name: "Codemini-CLI"
 slug: "codemini-cli"
+layout: agent.njk
 maker: "havingautism"
 license: "MIT"
 url: "https://github.com/havingautism/Codemini-CLI"
@@ -16,7 +17,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Terminal-first AI workspace with coding agents, workflows and built-in web UI.

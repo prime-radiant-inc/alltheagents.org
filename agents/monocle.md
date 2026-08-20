@@ -1,6 +1,7 @@
 ---
 name: "Monocle"
 slug: "monocle"
+layout: agent.njk
 maker: "arphanetx"
 license: "GPL-3.0"
 url: "https://github.com/arphanetx/Monocle"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Monocle](https://github.com/arphanetx/Monocle) - Tooling backed by an LLM for performing natural language searches against compiled target binaries. Search for encryption code, password …

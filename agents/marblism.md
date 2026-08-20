@@ -1,6 +1,7 @@
 ---
 name: "Marblism"
 slug: "marblism"
+layout: agent.njk
 maker: "Marblism"
 license: "Proprietary"
 url: "https://www.marblism.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI full-stack app generator that creates SaaS applications

@@ -1,6 +1,7 @@
 ---
 name: "claudecode-orchestrator"
 slug: "claudecode-orchestrator"
+layout: agent.njk
 maker: "darrenapfel"
 license: null
 url: "https://github.com/darrenapfel/claudecode-orchestrator"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 DEPRECATED: NEW *REAL* SOLUTION COMING VERY, VERY SOON... Complete Multi-Agent Orchestration for Claude Code Enables 24 hour Autonomous Coding

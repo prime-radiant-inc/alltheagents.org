@@ -1,6 +1,7 @@
 ---
 name: "PlayCode Agent"
 slug: "playcode-agent"
+layout: agent.njk
 maker: null
 license: null
 url: "https://playcode.io"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [PlayCode Agent](https://playcode.io) | Browser-based. English to websites. | $9.99/mo |

@@ -1,6 +1,7 @@
 ---
 name: "Rork"
 slug: "rork"
+layout: agent.njk
 maker: "Rork"
 license: "Proprietary"
 url: "https://www.rork.app"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI app builder for creating mobile and web apps from natural language

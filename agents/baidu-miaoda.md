@@ -1,6 +1,7 @@
 ---
 name: "Baidu Miaoda"
 slug: "baidu-miaoda"
+layout: agent.njk
 maker: "Baidu"
 license: "Proprietary"
 url: "https://cloud.baidu.com/product/miaoda"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Baidu's no-code application building agent that generates websites, mini-programs, and H5 from natural language

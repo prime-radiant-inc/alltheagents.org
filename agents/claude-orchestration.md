@@ -1,6 +1,7 @@
 ---
 name: "claude-orchestration"
 slug: "claude-orchestration"
+layout: agent.njk
 maker: "mbruhler"
 license: "MIT"
 url: "https://github.com/mbruhler/claude-orchestration"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Multi-agent workflow orchestration plugin for Claude Code

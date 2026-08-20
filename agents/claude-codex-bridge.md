@@ -1,6 +1,7 @@
 ---
 name: "claude_codex_bridge"
 slug: "claude-codex-bridge"
+layout: agent.njk
 maker: "SeemSeam"
 license: "NOASSERTION"
 url: "https://github.com/SeemSeam/claude_codex_bridge"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents

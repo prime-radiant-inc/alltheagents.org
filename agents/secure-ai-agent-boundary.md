@@ -1,6 +1,7 @@
 ---
 name: "secure-ai-agent-boundary"
 slug: "secure-ai-agent-boundary"
+layout: agent.njk
 maker: "Atrayee-dev"
 license: null
 url: "https://github.com/Atrayee-dev/secure-ai-agent-boundary"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Secure AI Engineering Framework 2026: Data-Boundary Security for Frontier Models

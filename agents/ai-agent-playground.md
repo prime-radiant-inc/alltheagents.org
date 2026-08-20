@@ -1,6 +1,7 @@
 ---
 name: "Ai-Agent-Playground"
 slug: "ai-agent-playground"
+layout: agent.njk
 maker: "Wei1024"
 license: null
 url: "https://github.com/Wei1024/AI-Agent-Playground"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Ai-Agent-Playground](https://github.com/Wei1024/AI-Agent-Playground) - test repo to develop an AI agent framework for office workers

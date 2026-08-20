@@ -1,6 +1,7 @@
 ---
 name: "Claude-Html-Test"
 slug: "claude-html-test"
+layout: agent.njk
 maker: "SivaramAdi"
 license: null
 url: "https://github.com/SivaramAdi/claude-html-test"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Claude-Html-Test](https://github.com/SivaramAdi/claude-html-test) - A repository showcasing information about AI Agents

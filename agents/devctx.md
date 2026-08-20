@@ -1,6 +1,7 @@
 ---
 name: "devctx"
 slug: "devctx"
+layout: agent.njk
 maker: "IAmUnbounded"
 license: null
 url: "https://github.com/IAmUnbounded/devctx"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Carry context across coding agents/editors/IDEs - Cursor/Windsurf/Claude Code/Antigravity

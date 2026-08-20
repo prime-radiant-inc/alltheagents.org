@@ -1,6 +1,7 @@
 ---
 name: "Dia"
 slug: "dia"
+layout: agent.njk
 maker: "Dia"
 license: "Proprietary"
 url: "https://dia.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI coding and development tool

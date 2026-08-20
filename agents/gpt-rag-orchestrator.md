@@ -1,6 +1,7 @@
 ---
 name: "gpt-rag-orchestrator"
 slug: "gpt-rag-orchestrator"
+layout: agent.njk
 maker: "Azure"
 license: "MIT"
 url: "https://github.com/Azure/gpt-rag-orchestrator"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 The GPT-RAG Orchestrator service is an agentic orchestration layer built on Microsoft Foundry Agent Service and the Microsoft Agent framework. It enables agent-based RAG workflows by coordinating multiple specialized agents to collaboratively generate accurate, context-aware responses for complex user queries.

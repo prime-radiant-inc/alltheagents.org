@@ -1,6 +1,7 @@
 ---
 name: "Crewai-101"
 slug: "crewai-101"
+layout: agent.njk
 maker: "Reyzenello"
 license: null
 url: "https://github.com/Reyzenello/CrewAI-101"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Crewai-101](https://github.com/Reyzenello/CrewAI-101) - Testing around framework using multi-agent

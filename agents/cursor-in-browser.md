@@ -1,6 +1,7 @@
 ---
 name: "cursor-in-browser"
 slug: "cursor-in-browser"
+layout: agent.njk
 maker: "Arfo-du-blo"
 license: "MIT"
 url: "https://github.com/Arfo-du-blo/cursor-in-browser"
@@ -16,7 +17,6 @@ language: "Dockerfile"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Deploy and use Cursor - The AI Code Editor directly in a web browser

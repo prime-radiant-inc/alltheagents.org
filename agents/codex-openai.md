@@ -1,6 +1,7 @@
 ---
 name: "Codex (OpenAI)"
 slug: "codex-openai"
+layout: agent.njk
 maker: null
 license: null
 url: "https://openai.com/codex"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "flatlogic"
-layout: agent.njk
 ---
 
 Cloud software-engineering agent (in ChatGPT) with companion Codex CLI for terminal-first work

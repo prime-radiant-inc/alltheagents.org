@@ -1,6 +1,7 @@
 ---
 name: "frankenterm"
 slug: "frankenterm"
+layout: agent.njk
 maker: "Dicklesworthstone"
 license: "NOASSERTION"
 url: "https://github.com/Dicklesworthstone/frankenterm"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm

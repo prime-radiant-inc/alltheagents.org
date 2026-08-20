@@ -1,6 +1,7 @@
 ---
 name: "easy-coding-agents"
 slug: "easy-coding-agents"
+layout: agent.njk
 maker: "yushui2022"
 license: null
 url: "https://github.com/yushui2022/easy-coding-agents"
@@ -17,7 +18,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 One of the early China-built lightweight Claude Code-inspired terminal coding agents, with autonomous execution, tool calling, custom agents, task control, and evidence-gated memory.

@@ -1,6 +1,7 @@
 ---
 name: "CodeMachine-CLI"
 slug: "codemachine-cli"
+layout: agent.njk
 maker: "moazbuilds"
 license: "Apache-2.0"
 url: "https://github.com/moazbuilds/CodeMachine-CLI"
@@ -16,7 +17,6 @@ homepage: "https://codemachine.co/"
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI)** `⭐ 2.5k` — Community multi-agent CLI aimed at running coding workflows locally (vibe-coding oriented).

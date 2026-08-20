@@ -1,6 +1,7 @@
 ---
 name: "sage"
 slug: "sage"
+layout: agent.njk
 maker: "youwangd"
 license: "MIT"
 url: "https://github.com/youwangd/SageCLI"
@@ -16,7 +17,6 @@ language: "Shell"
 homepage: "https://youwangd.github.io/posts/sage-cli"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[sage](https://github.com/youwangd/SageCLI)** `⭐ 5` — Pure bash agent orchestrator (zero frameworks) with runtime-agnostic support (Claude Code, Cline, Codex, Gemini CLI, ACP), wave-based plan execution, git worktree isolation, MCP integration, skills system, headless CI mode, and 295 bats tests. MIT.

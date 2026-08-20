@@ -1,6 +1,7 @@
 ---
 name: "angles-cli"
 slug: "angles-cli"
+layout: agent.njk
 maker: "ZSJ305"
 license: "MIT"
 url: "https://github.com/ZSJ305/angles-cli"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: "https://zsj305.github.io/angles-cli/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Angles Code CLI — Terminal-based agentic coding assistant

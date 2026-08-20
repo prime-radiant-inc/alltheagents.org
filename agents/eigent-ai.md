@@ -1,6 +1,7 @@
 ---
 name: "Eigent AI"
 slug: "eigent-ai"
+layout: agent.njk
 maker: "Eigent"
 license: "Open-source"
 url: "https://eigent.ai"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Open source software agent and Devin alternative

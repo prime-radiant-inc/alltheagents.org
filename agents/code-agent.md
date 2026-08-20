@@ -1,6 +1,7 @@
 ---
 name: "code-agent"
 slug: "code-agent"
+layout: agent.njk
 maker: "potproject"
 license: "Apache-2.0"
 url: "https://github.com/potproject/code-agent"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 An AI Agent that operates on GitHub Actions. By using this action, you can directly invoke Coding Agent CLI from GitHub Issues or Pull Request comments and automate code changes.

@@ -1,6 +1,7 @@
 ---
 name: "Code-Interpreter"
 slug: "code-interpreter"
+layout: agent.njk
 maker: "haseeb-heaven"
 license: "Apache-2.0"
 url: "https://github.com/haseeb-heaven/code-interpreter"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://www.npmjs.com/package/@haseeb_heaven/open-agent"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Code-Interpreter](https://github.com/haseeb-heaven/code-interpreter) - An innovative open-source Code Interpreter with (GPT,Gemini,Claude,LLaMa) models.

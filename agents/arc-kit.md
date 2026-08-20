@@ -1,6 +1,7 @@
 ---
 name: "arc-kit"
 slug: "arc-kit"
+layout: agent.njk
 maker: "tractorjuice"
 license: "NOASSERTION"
 url: "https://github.com/tractorjuice/arc-kit"
@@ -14,7 +15,6 @@ language: "JavaScript"
 homepage: "https://arckit.org/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants

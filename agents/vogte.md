@@ -1,6 +1,7 @@
 ---
 name: "vogte"
 slug: "vogte"
+layout: agent.njk
 maker: "piqoni"
 license: "MIT"
 url: "https://github.com/piqoni/vogte"
@@ -14,7 +15,6 @@ language: "Go"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 The Agentic TUI for Go codebases

@@ -1,6 +1,7 @@
 ---
 name: "vibra-code"
 slug: "vibra-code"
+layout: agent.njk
 maker: "sa4hnd"
 license: "AGPL-3.0"
 url: "https://github.com/sa4hnd/vibra-code"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://mintlify.wiki/sa4hnd/vibra-code"
 sources:
   - "github_final"
-layout: agent.njk
 ---
 
 Open-Source AI App Builder for Mobile — Build apps with AI like vibecodeapp, rork, lovable & bolt.new but fully open source. Describe what you want → AI builds it → Preview on your phone. Built with Claude Code, Expo, React Native, Convex, E2B.

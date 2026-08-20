@@ -1,6 +1,7 @@
 ---
 name: "GenoMAS"
 slug: "genomas"
+layout: agent.njk
 maker: "Liu-Hy"
 license: "MIT"
 url: "https://github.com/Liu-Hy/GenoMAS"
@@ -15,7 +16,6 @@ homepage: "https://liu-hy.github.io/GenoMAS/"
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [GenoMAS](https://github.com/Liu-Hy/GenoMAS) - A multi-agent framework for scientific discovery that automates gene expression analysis through code-driven workflows. [github](https://github.com/Liu-Hy/GenoMAS)

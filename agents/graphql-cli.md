@@ -1,6 +1,7 @@
 ---
 name: "Graphql-Cli"
 slug: "graphql-cli"
+layout: agent.njk
 maker: "Urigo"
 license: "MIT"
 url: "https://github.com/Urigo/graphql-cli"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://graphql-cli.com"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Graphql-Cli](https://github.com/Urigo/graphql-cli) - 📟 Command line tool for common GraphQL development workflows

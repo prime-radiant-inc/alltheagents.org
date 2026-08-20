@@ -1,6 +1,7 @@
 ---
 name: "juggler"
 slug: "juggler"
+layout: agent.njk
 maker: "juggler-ai"
 license: "AGPL-3.0"
 url: "https://github.com/juggler-ai/juggler"
@@ -14,7 +15,6 @@ language: "JavaScript"
 homepage: "https://juggler.studio"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 The Juggler Code Agent

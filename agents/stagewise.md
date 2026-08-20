@@ -1,6 +1,7 @@
 ---
 name: "Stagewise"
 slug: "stagewise"
+layout: agent.njk
 maker: "stagewise-io"
 license: "AGPL-3.0"
 url: "https://github.com/stagewise-io/stagewise"
@@ -17,7 +18,6 @@ homepage: "https://stagewise.io"
 sources:
   - "jqueryscript"
   - "jqueryscript"
-layout: agent.njk
 ---
 
 An agentic IDE with code editing, app previews, Git workflows, and support for models from multiple providers.

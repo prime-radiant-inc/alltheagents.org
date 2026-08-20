@@ -1,6 +1,7 @@
 ---
 name: "clawcodex"
 slug: "clawcodex"
+layout: agent.njk
 maker: "agentforce314"
 license: "MIT"
 url: "https://github.com/agentforce314/clawcodex"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://clawcodex.app"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Token efficient Claude Code full Python rebuild. AI Coding Agent in 310K LoC Python. Up to 200X Cost Saving!

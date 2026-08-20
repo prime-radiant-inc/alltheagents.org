@@ -1,6 +1,7 @@
 ---
 name: "MiniAgent"
 slug: "miniagent"
+layout: agent.njk
 maker: "ZhuLinsen"
 license: "Apache-2.0"
 url: "https://github.com/ZhuLinsen/MiniAgent"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 🚀「 5分钟手搓一个 AI Coding 助手 + 命令行版 Manus」 ⚡️Build an AI Coding Assistant + CLI-based Manus in 5 Minutes!

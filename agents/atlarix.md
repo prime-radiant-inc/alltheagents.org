@@ -1,6 +1,7 @@
 ---
 name: "Atlarix"
 slug: "atlarix"
+layout: agent.njk
 maker: "Atlarix"
 license: "Proprietary"
 url: "https://www.atlarix.dev"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI-powered development platform for building applications

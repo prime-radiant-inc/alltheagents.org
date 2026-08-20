@@ -1,6 +1,7 @@
 ---
 name: "pi-agent-desktop"
 slug: "pi-agent-desktop"
+layout: agent.njk
 maker: "abcwyc"
 license: "MIT"
 url: "https://github.com/abcwyc/pi-agent-desktop"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://pi.348580.xyz"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Pi — A cross-platform AI coding agent, bringing the Claude Code experience to your desktop. No environment setup, no terminal commands. Download and start coding right away.

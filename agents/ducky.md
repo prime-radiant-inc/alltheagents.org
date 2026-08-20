@@ -1,6 +1,7 @@
 ---
 name: "Ducky"
 slug: "ducky"
+layout: agent.njk
 maker: "ParthSareen"
 license: "MIT"
 url: "https://github.com/ParthSareen/ducky"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Ducky](https://github.com/ParthSareen/ducky) - Local AI pair programming tool

@@ -1,6 +1,7 @@
 ---
 name: "JetBrains AI"
 slug: "jetbrains-ai"
+layout: agent.njk
 maker: "JetBrains"
 license: "Proprietary"
 url: "https://www.jetbrains.com/ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI assistant built into JetBrains IDEs with code completion generation and refactoring

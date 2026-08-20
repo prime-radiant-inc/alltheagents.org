@@ -1,6 +1,7 @@
 ---
 name: "vscode-extension"
 slug: "vscode-extension"
+layout: agent.njk
 maker: "flexpilot-ai"
 license: "GPL-3.0"
 url: "https://github.com/flexpilot-ai/vscode-extension"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://flexpilot.ai"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code

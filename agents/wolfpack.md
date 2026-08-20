@@ -1,6 +1,7 @@
 ---
 name: "Wolfpack"
 slug: "wolfpack"
+layout: agent.njk
 maker: "almogdepaz"
 license: "MIT"
 url: "https://github.com/almogdepaz/wolfpack"
@@ -19,7 +20,6 @@ homepage: "https://get-wolfpack.netlify.app/"
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [Wolfpack](https://github.com/almogdepaz/wolfpack) - Mobile & desktop PWA command center for controlling AI coding agents (Claude, Codex, Gemini) via tmux sessions across multiple machines, secured by Tailscale. Includes a multi-terminal grid view, mobile touch UI, and Ralph — an autonomous task runner. [github](https://github.com/almogdepaz/wolfpack)

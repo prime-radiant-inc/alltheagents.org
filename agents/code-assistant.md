@@ -1,6 +1,7 @@
 ---
 name: "code-assistant"
 slug: "code-assistant"
+layout: agent.njk
 maker: "stippi"
 license: "MIT"
 url: "https://github.com/stippi/code-assistant"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: null
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 An LLM-powered, autonomous coding assistant. Also offers an MCP and ACP mode.

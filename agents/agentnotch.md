@@ -1,6 +1,7 @@
 ---
 name: "agentnotch"
 slug: "agentnotch"
+layout: agent.njk
 maker: "AppGram"
 license: null
 url: "https://github.com/AppGram/agentnotch"
@@ -16,7 +17,6 @@ language: "Swift"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 AgentNotch is a sleek macOS menu bar app that lives in your Mac's notch, providing real-time visibility into your AI coding assistants. Watch as Claude Code and OpenAI Codex think, read files, and execute tools — all without leaving your editor.

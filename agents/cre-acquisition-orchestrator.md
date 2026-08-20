@@ -1,6 +1,7 @@
 ---
 name: "cre-acquisition-orchestrator"
 slug: "cre-acquisition-orchestrator"
+layout: agent.njk
 maker: "ahacker-1"
 license: "Apache-2.0"
 url: "https://github.com/ahacker-1/cre-acquisition-orchestrator"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://www.theaiconsultingnetwork.com/"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 The first comprehensive open-source AI-native framework for CRE acquisitions, turning diligence, underwriting, financing, legal, and closing into executable agent workflows.

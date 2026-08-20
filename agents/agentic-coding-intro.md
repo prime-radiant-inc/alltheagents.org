@@ -1,6 +1,7 @@
 ---
 name: "agentic-coding-intro"
 slug: "agentic-coding-intro"
+layout: agent.njk
 maker: "seandavi"
 license: "NOASSERTION"
 url: "https://github.com/seandavi/agentic-coding-intro"
@@ -14,7 +15,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A brief introduction to agentic coding principles and practice

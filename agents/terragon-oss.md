@@ -1,6 +1,7 @@
 ---
 name: "terragon-oss"
 slug: "terragon-oss"
+layout: agent.njk
 maker: "terragon-labs"
 license: "Apache-2.0"
 url: "https://github.com/terragon-labs/terragon-oss"
@@ -17,7 +18,6 @@ language: "TypeScript"
 homepage: "https://www.terragonlabs.com/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 This is the website formally known as Terragon Labs. It was a remote background agent orchestrator for running Claude Code, Codex, and other coding clis in the cloud.

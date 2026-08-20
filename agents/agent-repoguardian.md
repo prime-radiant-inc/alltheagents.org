@@ -1,6 +1,7 @@
 ---
 name: "Agent-Repoguardian"
 slug: "agent-repoguardian"
+layout: agent.njk
 maker: "ppipada"
 license: "MIT"
 url: "https://github.com/flexigpt/agent-repoguardian"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Agent-Repoguardian](https://github.com/flexigpt/agent-repoguardian) - An AI agent that does security scans and vulnerability analysis of code

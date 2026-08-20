@@ -1,6 +1,7 @@
 ---
 name: "Flare"
 slug: "flare"
+layout: agent.njk
 maker: "AlgoNoRhythm"
 license: "MIT"
 url: "https://github.com/AlgoNoRhythm/Flare"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 The graph based agentic IDE

@@ -1,6 +1,7 @@
 ---
 name: "Prometheus"
 slug: "prometheus"
+layout: agent.njk
 maker: "EuniAI"
 license: "GPL-3.0"
 url: "https://github.com/EuniAI/Prometheus"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 🧠 Prometheus: A Knowledge-Graph-Driven 🤖 AI Agent that maps 🗺, understands 🧩, and repairs 🛠 complex codebases — not by guessing, but by reasoning. ⚡

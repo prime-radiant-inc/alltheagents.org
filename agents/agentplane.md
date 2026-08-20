@@ -1,6 +1,7 @@
 ---
 name: "AgentPlane"
 slug: "agentplane"
+layout: agent.njk
 maker: "basilisk-labs"
 license: "MIT"
 url: "https://github.com/basilisk-labs/agentplane"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "https://agentplane.org"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[AgentPlane](https://github.com/basilisk-labs/agentplane)** `⭐ 72` — Local CLI that wraps Claude Code, Codex, Cursor, and Aider work in an auditable Git-native workflow (task → plan → approve → implement → verify → finish). All state stays in `.agentplane/` inside the repo; no hosted runtime. MIT.

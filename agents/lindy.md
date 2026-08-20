@@ -1,6 +1,7 @@
 ---
 name: "Lindy"
 slug: "lindy"
+layout: agent.njk
 maker: null
 license: null
 url: "https://lindy.ai"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [Lindy](https://lindy.ai) | No-code agents. 3000+ integrations. | From $49/mo |

@@ -1,6 +1,7 @@
 ---
 name: "humanlayer"
 slug: "humanlayer"
+layout: agent.njk
 maker: "humanlayer"
 license: "NOASSERTION"
 url: "https://github.com/humanlayer/humanlayer"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://humanlayer.dev/code"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 The best way to get AI coding agents to solve hard problems in complex codebases.

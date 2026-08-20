@@ -1,6 +1,7 @@
 ---
 name: "OpenGiraffe"
 slug: "opengiraffe"
+layout: agent.njk
 maker: "zclllyybb"
 license: null
 url: "https://github.com/zclllyybb/OpenGiraffe"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A persistent, daemon-based multi-agent system that leverages opencode to automatically discover, plan, implement, and review code changes across a codebase.

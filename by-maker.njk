@@ -13,7 +13,7 @@ eleventyComputed:
     <h2>{{ key }} ({{ agents.length }})</h2>
     <ul class="agent-list">
       {% for agent in agents %}
-      <li><a href="/agents/{{ agent.data.slug }}/">{{ agent.data.name }}</a> — {{ agent.data.license or "Unknown" }}</li>
+      <li><a href="{{ ('/agents/' ~ agent.data.slug ~ '/') | url }}">{{ agent.data.name }}</a> — {{ agent.data.license or "Unknown" }}</li>
       {% endfor %}
     </ul>
   </section>

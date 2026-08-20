@@ -1,6 +1,7 @@
 ---
 name: "SWE-Interact"
 slug: "swe-interact"
+layout: agent.njk
 maker: "scaleapi"
 license: "Apache-2.0"
 url: "https://github.com/scaleapi/SWE-Interact"
@@ -14,7 +15,6 @@ language: "Shell"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 New testbed of interactive SWE tasks for coding agents, set in a realistic multi-turn developer driven environment

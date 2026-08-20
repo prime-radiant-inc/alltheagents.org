@@ -1,6 +1,7 @@
 ---
 name: "nefi"
 slug: "nefi"
+layout: agent.njk
 maker: "Blazity"
 license: "NOASSERTION"
 url: "https://github.com/Blazity/nefi"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://nefi.ai/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 🕵🏻‍♂️ AI agent that automates code management and feature integration in Next.js codebases through natural language commands

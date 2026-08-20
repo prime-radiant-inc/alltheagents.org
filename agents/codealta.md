@@ -1,6 +1,7 @@
 ---
 name: "CodeAlta"
 slug: "codealta"
+layout: agent.njk
 maker: "CodeAlta"
 license: "BSD-2-Clause"
 url: "https://github.com/CodeAlta/CodeAlta"
@@ -15,7 +16,6 @@ language: "C#"
 homepage: "https://codealta.github.io"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Your efficient agentic AI coding CLI assistant

@@ -1,6 +1,7 @@
 ---
 name: "Git-Collaboration"
 slug: "git-collaboration"
+layout: agent.njk
 maker: "jduckles"
 license: null
 url: "https://github.com/jduckles/git-collaboration"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Git-Collaboration](https://github.com/jduckles/git-collaboration) - A repository to demonstrate collaboration workflows

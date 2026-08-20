@@ -1,6 +1,7 @@
 ---
 name: "damocles"
 slug: "damocles"
+layout: agent.njk
 maker: "AizenvoltPrime"
 license: "MIT"
 url: "https://github.com/AizenvoltPrime/damocles"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 A VS Code extension that embeds an AI coding agent (Claude and GPT and other models) in your editor, powered by the Pi agent runtime.

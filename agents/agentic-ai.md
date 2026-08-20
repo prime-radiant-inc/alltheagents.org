@@ -1,6 +1,7 @@
 ---
 name: "Agentic-Ai-"
 slug: "agentic-ai"
+layout: agent.njk
 maker: "JogendraSingh1879"
 license: null
 url: "https://github.com/JogendraSingh1879/Agentic-AI-"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Agentic-Ai-](https://github.com/JogendraSingh1879/Agentic-AI-) - Building and Deploying a Free Pizza Ordering System with FastAPI and Multi-Agent Architecture

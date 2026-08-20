@@ -1,6 +1,7 @@
 ---
 name: "antigravity-jules-orchestration"
 slug: "antigravity-jules-orchestration"
+layout: agent.njk
 maker: "Scarmonit"
 license: null
 url: "https://github.com/Scarmonit/antigravity-jules-orchestration"
@@ -15,7 +16,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Autonomous AI orchestration architecture combining Google Antigravity with Jules API for hands-free development workflows. MCP integration for seamless agent coordination.

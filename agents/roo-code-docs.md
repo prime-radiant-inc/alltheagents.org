@@ -1,6 +1,7 @@
 ---
 name: "Roo-Code-Docs"
 slug: "roo-code-docs"
+layout: agent.njk
 maker: "RooCodeInc"
 license: "Apache-2.0"
 url: "https://github.com/RooCodeInc/Roo-Code-Docs"
@@ -16,7 +17,6 @@ language: "TypeScript"
 homepage: "http://docs.roocode.com/"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 This is the documentation for Roo Code, an AI-powered autonomous coding agent that lives in your editor.

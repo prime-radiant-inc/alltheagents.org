@@ -1,6 +1,7 @@
 ---
 name: "codebase-argus"
 slug: "codebase-argus"
+layout: agent.njk
 maker: "AaronZ345"
 license: "MIT"
 url: "https://github.com/AaronZ345/codebase-argus"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://aaronz345.github.io/codebase-argus/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Multi-agent codebase review for PRs, CI, and downstream fork syncs.

@@ -1,6 +1,7 @@
 ---
 name: "Delphi-AI-Developer"
 slug: "delphi-ai-developer"
+layout: agent.njk
 maker: "Code4Delphi"
 license: "MIT"
 url: "https://github.com/Code4Delphi/Delphi-AI-Developer"
@@ -15,7 +16,6 @@ language: "Pascal"
 homepage: "https://code4delphi.com.br/blog/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Delphi Ai Developer, this plugin adds AI-powered interaction capabilities to the Delphi IDE

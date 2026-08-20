@@ -1,6 +1,7 @@
 ---
 name: "RepoAgent"
 slug: "repoagent"
+layout: agent.njk
 maker: "OpenBMB"
 license: "Apache-2.0"
 url: "https://github.com/OpenBMB/RepoAgent"
@@ -15,7 +16,6 @@ homepage: null
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [RepoAgent](https://github.com/OpenBMB/RepoAgent) - An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly. [github](https://github.com/OpenBMB/RepoAgent)

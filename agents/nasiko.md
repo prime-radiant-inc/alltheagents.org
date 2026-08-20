@@ -1,6 +1,7 @@
 ---
 name: "nasiko"
 slug: "nasiko"
+layout: agent.njk
 maker: "Nasiko-Labs"
 license: "NOASSERTION"
 url: "https://github.com/Nasiko-Labs/nasiko"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: "https://www.nasiko.com"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 Developer Control Plane for your AI Agents

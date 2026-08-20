@@ -1,6 +1,7 @@
 ---
 name: "umadev"
 slug: "umadev"
+layout: agent.njk
 maker: "umacloud"
 license: "MIT"
 url: "https://github.com/umacloud/umadev"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: "https://umadev.goder.ai"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 UmaDev: A coding agent that works like a real dev team, commanding the Claude Code / Codex / OpenCode you already use.

@@ -1,6 +1,7 @@
 ---
 name: "Melty"
 slug: "melty"
+layout: agent.njk
 maker: "meltylabs"
 license: "MIT"
 url: "https://github.com/meltylabs/melty"
@@ -17,7 +18,6 @@ homepage: "https://docs.google.com/forms/d/e/1FAIpQLSc6uBe0ea26q7Iq0Co_q5fjW2nyp
 sources:
   - "jqueryscript"
   - "jqueryscript"
-layout: agent.njk
 ---
 
 A chat-first code editor that lets an agent understand repositories, modify files, and present changes for review.

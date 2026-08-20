@@ -1,6 +1,7 @@
 ---
 name: "stoneforge"
 slug: "stoneforge"
+layout: agent.njk
 maker: "stoneforge-ai"
 license: "Apache-2.0"
 url: "https://github.com/stoneforge-ai/stoneforge"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://stoneforge.ai"
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 A web dashboard and runtime for orchestrating AI coding agents

@@ -1,6 +1,7 @@
 ---
 name: "PKU_MDAgent"
 slug: "pku-mdagent"
+layout: agent.njk
 maker: "FredericVAN"
 license: "GPL-3.0"
 url: "https://github.com/FredericVAN/PKU_MDAgent"
@@ -14,7 +15,6 @@ language: "Jupyter Notebook"
 homepage: "https://www.nature.com/articles/s41598-025-92337-6"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 Scientific Reports - 《A Fine-Tuned Large Language Model-Based Molecular Dynamics Agent for Code Generation to Obtain Material Thermodynamic Parameters》, Peking University, March 2025.

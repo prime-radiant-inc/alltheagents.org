@@ -1,6 +1,7 @@
 ---
 name: "Meoo"
 slug: "meoo"
+layout: agent.njk
 maker: "Meoo"
 license: "Proprietary"
 url: "https://meoo.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Chinese AI coding assistant platform

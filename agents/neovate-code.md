@@ -1,6 +1,7 @@
 ---
 name: "Neovate Code"
 slug: "neovate-code"
+layout: agent.njk
 maker: "neovateai"
 license: "MIT"
 url: "https://github.com/neovateai/neovate-code"
@@ -18,7 +19,6 @@ sources:
   - "jqueryscript"
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 A terminal coding agent for generating code, fixing bugs, reviewing changes, adding tests, and running headless automation.

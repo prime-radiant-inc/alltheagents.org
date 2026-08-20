@@ -1,6 +1,7 @@
 ---
 name: "openagent"
 slug: "openagent"
+layout: agent.njk
 maker: "the-open-agent"
 license: "Apache-2.0"
 url: "https://github.com/the-open-agent/openagent"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: "https://www.openagentai.org/"
 sources:
   - "github_topic4"
-layout: agent.njk
 ---
 
 ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org

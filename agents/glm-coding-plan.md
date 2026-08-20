@@ -1,6 +1,7 @@
 ---
 name: "GLM Coding Plan"
 slug: "glm-coding-plan"
+layout: agent.njk
 maker: "Zhipu AI"
 license: "Proprietary"
 url: "https://www.zhipuai.cn"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 Zhipu AI's GLM coding plan with agent capabilities

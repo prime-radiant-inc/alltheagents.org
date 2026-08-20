@@ -1,6 +1,7 @@
 ---
 name: "AutoBE"
 slug: "autobe"
+layout: agent.njk
 maker: "wrtnlabs"
 license: "AGPL-3.0"
 url: "https://github.com/wrtnlabs/autobe"
@@ -17,7 +18,6 @@ homepage: "https://autobe.dev"
 sources:
   - "jqueryscript"
   - "jqueryscript"
-layout: agent.njk
 ---
 
 A backend coding agent that uses compiler-guided workflows to generate and validate TypeScript server applications.

@@ -1,6 +1,7 @@
 ---
 name: "MiniCode"
 slug: "minicode"
+layout: agent.njk
 maker: "LiuMengxuan04"
 license: "MIT"
 url: "https://github.com/LiuMengxuan04/MiniCode"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://liumengxuan04.github.io/MiniCode/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 A lightweight terminal coding assistant with Claude Code-like workflow, tool loop, and TUI architecture, built for learning and experimentation. Multi-language support: TypeScript , Python and Rust implementations available now.

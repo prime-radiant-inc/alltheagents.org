@@ -1,6 +1,7 @@
 ---
 name: "outsourcerer"
 slug: "outsourcerer"
+layout: agent.njk
 maker: "alexgreensh"
 license: "NOASSERTION"
 url: "https://github.com/alexgreensh/outsourcerer"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[outsourcerer](https://github.com/alexgreensh/outsourcerer)** `⭐ 131` — Delegates coding grunt-work to the cheapest harness or model you already pay for while your main session stays the orchestrator, carrying your skills, plugins, and MCP servers onto whichever engine runs the job. Works across Claude Code, Codex, Cursor, Droid, Hermes, and Cline. Source-available (PolyForm Noncommercial).

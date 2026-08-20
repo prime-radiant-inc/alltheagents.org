@@ -1,6 +1,7 @@
 ---
 name: "dunk"
 slug: "dunk"
+layout: agent.njk
 maker: "amix"
 license: "MIT"
 url: "https://github.com/amix/dunk"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic5"
-layout: agent.njk
 ---
 
 Review diffs in a terminal UI, leave inline comments, and let coding agents fix them

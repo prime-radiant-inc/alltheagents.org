@@ -1,6 +1,7 @@
 ---
 name: "aizen"
 slug: "aizen"
+layout: agent.njk
 maker: "aizen-stack"
 license: "Apache-2.0"
 url: "https://github.com/aizen-stack/aizen"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: "https://aizen-stack.vercel.app"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Aizen is an AI coding agent that lives on your PC or VPS. Control it from your phone while it autonomously fixes code, runs tests, and reports the results back to you.

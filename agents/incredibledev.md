@@ -1,6 +1,7 @@
 ---
 name: "Incredible.Dev"
 slug: "incredibledev"
+layout: agent.njk
 maker: "IncredibleDevHQ"
 license: "Apache-2.0"
 url: "https://github.com/IncredibleDevHQ/Incredible.dev"
@@ -15,7 +16,6 @@ homepage: null
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [Incredible.Dev](https://github.com/IncredibleDevHQ/Incredible.dev) - Incredible.dev is an AI Coding Co-worker which can code, fix, document, deploy, test your APIs. One agent to rule everything API.

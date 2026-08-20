@@ -1,6 +1,7 @@
 ---
 name: "Extension-Ci-Tools"
 slug: "extension-ci-tools"
+layout: agent.njk
 maker: "duckdb"
 license: null
 url: "https://github.com/duckdb/extension-ci-tools"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Extension-Ci-Tools](https://github.com/duckdb/extension-ci-tools) - Repository containing reusable workflows / actions for building DuckDB extensions

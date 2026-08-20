@@ -1,6 +1,7 @@
 ---
 name: "QodeAssist"
 slug: "qodeassist"
+layout: agent.njk
 maker: "Palm1r"
 license: "NOASSERTION"
 url: "https://github.com/Palm1r/QodeAssist"
@@ -14,7 +15,6 @@ language: "C++"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 QodeAssist is an AI-powered coding assistant plugin for Qt Creator

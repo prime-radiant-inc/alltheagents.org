@@ -1,6 +1,7 @@
 ---
 name: "pixtuoid"
 slug: "pixtuoid"
+layout: agent.njk
 maker: "IvanWng97"
 license: "MIT"
 url: "https://github.com/IvanWng97/pixtuoid"
@@ -15,7 +16,6 @@ language: "Rust"
 homepage: "https://pixtuoid.dev"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Terminal pixel-art office for AI coding agents

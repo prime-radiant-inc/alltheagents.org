@@ -1,6 +1,7 @@
 ---
 name: "Graphql-Playground"
 slug: "graphql-playground"
+layout: agent.njk
 maker: "graphql"
 license: "MIT"
 url: "https://github.com/graphql/graphql-playground"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Graphql-Playground](https://github.com/graphql/graphql-playground) - 🎮 GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)

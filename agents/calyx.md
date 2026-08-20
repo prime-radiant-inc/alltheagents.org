@@ -1,6 +1,7 @@
 ---
 name: "Calyx"
 slug: "calyx"
+layout: agent.njk
 maker: "yuuichieguchi"
 license: "MIT"
 url: "https://github.com/yuuichieguchi/Calyx"
@@ -16,7 +17,6 @@ language: "Swift"
 homepage: "https://help.getcalyx.app/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 A native macOS terminal app built on Ghostty for running and supervising coding agents

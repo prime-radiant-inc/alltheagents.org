@@ -1,6 +1,7 @@
 ---
 name: "Linear-Coding-Agent-Harness"
 slug: "linear-coding-agent-harness"
+layout: agent.njk
 maker: "coleam00"
 license: "MIT"
 url: "https://github.com/coleam00/Linear-Coding-Agent-Harness"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Linear Autonomous Coding Agent Harness

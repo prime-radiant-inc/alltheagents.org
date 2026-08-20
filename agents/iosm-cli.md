@@ -1,6 +1,7 @@
 ---
 name: "iosm-cli"
 slug: "iosm-cli"
+layout: agent.njk
 maker: "rokoss21"
 license: "MIT"
 url: "https://github.com/rokoss21/iosm-cli"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://www.npmjs.com/package/iosm-cli"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 AI Engineering Runtime for Professional Developers — terminal coding agent with IOSM methodology, MCP, checkpoints, orchestration, and extensions

@@ -1,6 +1,7 @@
 ---
 name: "ai-doc-gen"
 slug: "ai-doc-gen"
+layout: agent.njk
 maker: "divar-ir"
 license: "MIT"
 url: "https://github.com/divar-ir/ai-doc-gen"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 AI-powered multi-agent system that automatically analyzes codebases and generates comprehensive documentation. Features GitLab integration, concurrent processing, and multiple LLM support for better code understanding and developer onboarding.

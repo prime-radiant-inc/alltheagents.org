@@ -1,6 +1,7 @@
 ---
 name: "herdrm"
 slug: "herdrm"
+layout: agent.njk
 maker: "missuo"
 license: null
 url: "https://github.com/missuo/herdrm"
@@ -16,7 +17,6 @@ language: "Swift"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Native macOS console for herdr — all your coding agents and their live terminals, across devices

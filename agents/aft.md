@@ -1,6 +1,7 @@
 ---
 name: "aft"
 slug: "aft"
+layout: agent.njk
 maker: "cortexkit"
 license: "MIT"
 url: "https://github.com/cortexkit/aft"
@@ -16,7 +17,6 @@ language: "Rust"
 homepage: "https://discord.gg/DSa65w8wuf"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, semantic search, code health, fast grep/glob, bash compression, background tasks, PTY.

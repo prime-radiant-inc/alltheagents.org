@@ -1,6 +1,7 @@
 ---
 name: "opencode-android"
 slug: "opencode-android"
+layout: agent.njk
 maker: "mulkymalikuldhrs"
 license: "MIT"
 url: "https://github.com/mulkymalikuldhrs/opencode-android"
@@ -15,7 +16,6 @@ language: "Kotlin"
 homepage: "https://github.com/mulkymalikuldhrs"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Android code editor with AI-powered code completion and analysis | 🤝 Looking for contributors!

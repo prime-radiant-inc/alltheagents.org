@@ -1,6 +1,7 @@
 ---
 name: "conch"
 slug: "conch"
+layout: agent.njk
 maker: "Crustocean"
 license: null
 url: "https://github.com/Crustocean/conch"
@@ -15,7 +16,6 @@ language: "JavaScript"
 homepage: "https://crustocean.chat/profile/conch"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 🦞 Cloud coding agent built on Crustocean

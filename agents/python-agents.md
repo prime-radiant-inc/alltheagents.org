@@ -1,6 +1,7 @@
 ---
 name: "Python-Agents"
 slug: "python-agents"
+layout: agent.njk
 maker: "clarisseIO"
 license: "Apache-2.0"
 url: "https://github.com/clarisseIO/python-agents"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Python-Agents](https://github.com/clarisseIO/python-agents) - AI agent that independently creates, deploys, and optimizes autonomous projects.

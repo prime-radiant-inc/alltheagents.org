@@ -1,6 +1,7 @@
 ---
 name: "VSCode Agent"
 slug: "vscode-agent"
+layout: agent.njk
 maker: "Microsoft"
 license: "Proprietary"
 url: "https://code.visualstudio.com/agent"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 Built-in AI agent in VS Code for code generation and editing

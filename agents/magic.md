@@ -1,6 +1,7 @@
 ---
 name: "Magic"
 slug: "magic"
+layout: agent.njk
 maker: "Magic AI"
 license: "Proprietary"
 url: "https://magic.dev"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI coding assistant with long context window for large codebases

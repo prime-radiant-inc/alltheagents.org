@@ -1,6 +1,7 @@
 ---
 name: "thrush-swe-agent"
 slug: "thrush-swe-agent"
+layout: agent.njk
 maker: "shoyann"
 license: null
 url: "https://github.com/shoyann/thrush-swe-agent"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Thrush is a SWE agent: it reads, reasons, and chambers code changes for you

@@ -1,6 +1,7 @@
 ---
 name: "Amazon-Mwaa-Examples"
 slug: "amazon-mwaa-examples"
+layout: agent.njk
 maker: "aws-samples"
 license: "MIT-0"
 url: "https://github.com/aws-samples/amazon-mwaa-examples"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Amazon-Mwaa-Examples](https://github.com/aws-samples/amazon-mwaa-examples) - Amazon Managed Workflows for Apache Airflow (MWAA) Examples repository contains example DAGs, requirements.txt, plugins, and CloudFormati…

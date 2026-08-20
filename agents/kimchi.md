@@ -1,6 +1,7 @@
 ---
 name: "kimchi"
 slug: "kimchi"
+layout: agent.njk
 maker: "getkimchi"
 license: "Apache-2.0"
 url: "https://github.com/getkimchi/kimchi"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://kimchi.dev"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Terminal coding agent powered by Kimchi's multi-model orchestration

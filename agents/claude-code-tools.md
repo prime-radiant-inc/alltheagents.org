@@ -1,6 +1,7 @@
 ---
 name: "Claude Code Tools"
 slug: "claude-code-tools"
+layout: agent.njk
 maker: "pchalasani"
 license: "MIT"
 url: "https://github.com/pchalasani/claude-code-tools"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Claude Code Tools](https://github.com/pchalasani/claude-code-tools)** `⭐ 2k` — Utilities around Claude Code workflows (automation helpers, helpers for common tasks).

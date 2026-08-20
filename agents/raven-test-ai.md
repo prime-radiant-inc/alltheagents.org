@@ -1,6 +1,7 @@
 ---
 name: "Raven-Test-Ai"
 slug: "raven-test-ai"
+layout: agent.njk
 maker: "dhurng"
 license: null
 url: "https://github.com/dhurng/Raven-Test-AI"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Raven-Test-Ai](https://github.com/dhurng/Raven-Test-AI) - An AI agent that can solve Raven Tests, visual iq tests

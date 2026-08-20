@@ -1,6 +1,7 @@
 ---
 name: "SWE-ReX"
 slug: "swe-rex"
+layout: agent.njk
 maker: "SWE-agent"
 license: "MIT"
 url: "https://github.com/SWE-agent/SWE-ReX"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: "https://swe-rex.com/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more.

@@ -1,6 +1,7 @@
 ---
 name: "Ai-Powered-Chatbot-Generator"
 slug: "ai-powered-chatbot-generator"
+layout: agent.njk
 maker: "Rushi-code1"
 license: null
 url: "https://github.com/Rushi-code1/AI-Powered-Chatbot-Generator"
@@ -14,7 +15,6 @@ language: "CSS"
 homepage: "https://github.com/Rushi-code1"
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Ai-Powered-Chatbot-Generator](https://github.com/Rushi-code1/AI-Powered-Chatbot-Generator) - "Developed an AI-powered chatbot generator designed to create custom, conversational agents tailored for diverse industries. Utilized nat…

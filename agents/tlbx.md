@@ -1,6 +1,7 @@
 ---
 name: "tlbx"
 slug: "tlbx"
+layout: agent.njk
 maker: "tlbx-ai"
 license: "AGPL-3.0"
 url: "https://github.com/tlbx-ai/tlbx"
@@ -17,7 +18,6 @@ language: "C#"
 homepage: "https://tlbx.ai"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[tlbx](https://github.com/tlbx-ai/tlbx)** `⭐ 101` — Self-hosted browser control station for remote coding agents (formerly MidTerm): runs Codex, Claude Code, Gemini CLI, Grok Build, OpenCode, Copilot CLI, and any PTY app on the machines that hold your repos and credentials, supervised from any desktop, tablet, or phone browser. Sessions survive disconnects; `mt` CLI helpers expose history, multi-session dispatch, and the control plane as JSON so agents can drive it. AGPL-3.0.

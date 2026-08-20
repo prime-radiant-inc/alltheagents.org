@@ -1,6 +1,7 @@
 ---
 name: "Mava"
 slug: "mava"
+layout: agent.njk
 maker: "instadeepai"
 license: "Apache-2.0"
 url: "https://github.com/instadeepai/Mava"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 🦁 A research-friendly codebase for fast experimentation of multi-agent reinforcement learning in JAX

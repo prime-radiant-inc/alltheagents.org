@@ -1,6 +1,7 @@
 ---
 name: "Omnigent"
 slug: "omnigent"
+layout: agent.njk
 maker: "omnigent-ai"
 license: "Apache-2.0"
 url: "https://github.com/omnigent-ai/omnigent"
@@ -17,7 +18,6 @@ language: "Python"
 homepage: "https://omnigent.ai"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[Omnigent](https://github.com/omnigent-ai/omnigent)** `⭐ 9k` `[Databricks]` — Meta-harness giving one orchestration layer over Claude Code, Codex, Cursor, OpenCode, Hermes, Kiro, and Pi: mix harnesses inside a single session, wrap each agent terminal in a bwrap/seatbelt or cloud sandbox, and enforce approval, spend, and tool policies. YAML-defined agents include a tech-lead orchestrator that delegates to coding sub-agents in parallel git worktrees. Apache-2.0.

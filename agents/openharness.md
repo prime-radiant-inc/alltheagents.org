@@ -1,6 +1,7 @@
 ---
 name: "openHarness"
 slug: "openharness"
+layout: agent.njk
 maker: "zhijiewong"
 license: "MIT"
 url: "https://github.com/zhijiewong/openharness"
@@ -16,7 +17,6 @@ homepage: "https://www.npmjs.com/package/@zhijiewang/openharness"
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[openHarness](https://github.com/zhijiewong/openharness)** `⭐ 96` — Open-source Claude Code alternative. 78 slash commands, 42 tools, MCP (stdio/HTTP/SSE + OAuth 2.1), hooks, subagents, plan mode. Works with Anthropic/OpenAI/Ollama/llama.cpp/LM Studio. Ships both npm and Python SDK. MIT.

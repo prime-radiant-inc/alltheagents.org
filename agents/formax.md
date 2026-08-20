@@ -1,6 +1,7 @@
 ---
 name: "formax"
 slug: "formax"
+layout: agent.njk
 maker: "yusifeng"
 license: "MIT"
 url: "https://github.com/yusifeng/formax"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://github.com/yusifeng/formax"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Terminal-first AI assistant for software engineering tasks (inspired by Claude Code v2.0.67)

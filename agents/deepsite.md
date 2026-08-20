@@ -1,6 +1,7 @@
 ---
 name: "DeepSite"
 slug: "deepsite"
+layout: agent.njk
 maker: "DeepSite"
 license: "Proprietary"
 url: "https://deepsite.dev"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI-powered website and app builder

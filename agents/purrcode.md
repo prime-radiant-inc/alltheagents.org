@@ -1,6 +1,7 @@
 ---
 name: "PurrCode"
 slug: "purrcode"
+layout: agent.njk
 maker: "Weilin0723"
 license: "Apache-2.0"
 url: "https://github.com/Weilin0723/PurrCode"
@@ -14,7 +15,6 @@ language: "Rust"
 homepage: null
 sources:
   - "agent_infra"
-layout: agent.njk
 ---
 
 A judgment-first coding agent runtime

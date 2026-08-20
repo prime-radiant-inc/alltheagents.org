@@ -1,6 +1,7 @@
 ---
 name: "Zapier AI"
 slug: "zapier-ai"
+layout: agent.njk
 maker: null
 license: null
 url: "https://zapier.com/ai"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "caramaschi"
-layout: agent.njk
 ---
 
 | [Zapier AI](https://zapier.com/ai) | 7000+ apps. Natural language workflows. | From $19.99/mo |

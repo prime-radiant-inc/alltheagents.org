@@ -1,6 +1,7 @@
 ---
 name: "tokentelemetry"
 slug: "tokentelemetry"
+layout: agent.njk
 maker: "VasiHemanth"
 license: "MIT"
 url: "https://github.com/VasiHemanth/tokentelemetry"
@@ -16,7 +17,6 @@ language: "Python"
 homepage: "https://tokentelemetry.com/docs/"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Token telemetry dashboard for AI autonomous and coding agents — tracks tokens, sessions, tool calls & reasoning across Hermes agent, Claude Code, Antigravity CLI, Codex & more. 100% local.

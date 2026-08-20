@@ -1,6 +1,7 @@
 ---
 name: "Mistral Vibe"
 slug: "mistral-vibe"
+layout: agent.njk
 maker: "mistralai"
 license: "Apache-2.0"
 url: "https://github.com/mistralai/mistral-vibe"
@@ -18,7 +19,6 @@ sources:
   - "jqueryscript"
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 Mistral's terminal coding agent for repository exploration, planning, file editing, commands, and delegated tasks.

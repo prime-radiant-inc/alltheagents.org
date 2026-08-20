@@ -1,6 +1,7 @@
 ---
 name: "brood-box"
 slug: "brood-box"
+layout: agent.njk
 maker: "stacklok"
 license: "Apache-2.0"
 url: "https://github.com/stacklok/brood-box"
@@ -16,7 +17,6 @@ language: "Go"
 homepage: null
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[brood-box](https://github.com/stacklok/brood-box)** `⭐ 58` — Hardware-isolated microVM sandbox for AI coding agents (Claude Code, Codex, OpenCode) with COW snapshot isolation, egress control, and MCP authorization.

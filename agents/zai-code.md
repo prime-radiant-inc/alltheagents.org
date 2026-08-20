@@ -1,6 +1,7 @@
 ---
 name: "Z.ai Code"
 slug: "zai-code"
+layout: agent.njk
 maker: "Z.ai"
 license: "Proprietary"
 url: "https://z.ai/code"
@@ -16,7 +17,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI coding agent from Z.ai

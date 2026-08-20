@@ -1,6 +1,7 @@
 ---
 name: "agentic-code"
 slug: "agentic-code"
+layout: agent.njk
 maker: "shinpr"
 license: "MIT"
 url: "https://github.com/shinpr/agentic-code"
@@ -15,7 +16,6 @@ language: "JavaScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Agentic coding framework powered by AGENTS.md: systematic, test-first workflows with quality gates for Cursor, Codex, Gemini CLI, and AI coding agents.

@@ -1,6 +1,7 @@
 ---
 name: "Darce"
 slug: "darce"
+layout: agent.njk
 maker: "AmerSarhan"
 license: null
 url: "https://github.com/AmerSarhan/darce-cli"
@@ -17,7 +18,6 @@ homepage: "https://cli.darce.dev"
 sources:
   - "brad"
   - "ishandutta"
-layout: agent.njk
 ---
 
 - **[Darce](https://github.com/AmerSarhan/darce-cli)** `⭐ 8` — Ultralight (14 kB) multi-model CLI agent built with Ink; 7 tools, smart model routing across providers, streaming, session resume, and slash commands. MIT.

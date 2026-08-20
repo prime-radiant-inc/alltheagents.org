@@ -1,6 +1,7 @@
 ---
 name: "obby-dev"
 slug: "obby-dev"
+layout: agent.njk
 maker: "obbylabs"
 license: "MIT"
 url: "https://github.com/obbylabs/obby-dev"
@@ -15,7 +16,6 @@ language: "TypeScript"
 homepage: "https://obby.dev"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 AI Background Agent - v0 for your codebase (WIP)

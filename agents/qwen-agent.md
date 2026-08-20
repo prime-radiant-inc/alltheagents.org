@@ -1,6 +1,7 @@
 ---
 name: "Qwen-Agent"
 slug: "qwen-agent"
+layout: agent.njk
 maker: "QwenLM"
 license: "Apache-2.0"
 url: "https://github.com/QwenLM/Qwen-Agent"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://pypi.org/project/qwen-agent/"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.

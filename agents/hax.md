@@ -1,6 +1,7 @@
 ---
 name: "hax"
 slug: "hax"
+layout: agent.njk
 maker: "OleksandrChekhovskyi"
 license: "MIT"
 url: "https://github.com/OleksandrChekhovskyi/hax"
@@ -15,7 +16,6 @@ language: "C"
 homepage: "https://usehax.dev"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 A minimalist, terminal-native coding agent written in C.

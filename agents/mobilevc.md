@@ -1,6 +1,7 @@
 ---
 name: "MobileVC"
 slug: "mobilevc"
+layout: agent.njk
 maker: "JayCRL"
 license: "MIT"
 url: "https://github.com/JayCRL/MobileVC"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: "https://www.mobilevc.top"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 Turn your phone into the control center for an AI coding assistant CLI session (Claude or Codex) running on your computer.

@@ -1,6 +1,7 @@
 ---
 name: "claude-swarm"
 slug: "claude-swarm"
+layout: agent.njk
 maker: "affaan-m"
 license: "MIT"
 url: "https://github.com/affaan-m/claude-swarm"
@@ -15,7 +16,6 @@ language: "Python"
 homepage: null
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 Multi-agent orchestration for Claude Code — decompose tasks, coordinate agents, visualize everything in a rich terminal UI

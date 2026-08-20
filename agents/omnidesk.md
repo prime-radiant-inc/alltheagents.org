@@ -1,6 +1,7 @@
 ---
 name: "omnidesk"
 slug: "omnidesk"
+layout: agent.njk
 maker: "carloluisito"
 license: "MIT"
 url: "https://github.com/carloluisito/omnidesk"
@@ -17,7 +18,6 @@ language: "TypeScript"
 homepage: null
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A multi-provider desktop terminal for AI coding CLIs with multi-session management, split-view layouts, real-time session sharing, and advanced productivity features.

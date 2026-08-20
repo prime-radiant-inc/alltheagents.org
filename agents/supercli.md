@@ -1,6 +1,7 @@
 ---
 name: "supercli"
 slug: "supercli"
+layout: agent.njk
 maker: "yashdev9274"
 license: "MIT"
 url: "https://github.com/yashdev9274/supercli"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://supercodeai.vercel.app"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 The open source SWE agent

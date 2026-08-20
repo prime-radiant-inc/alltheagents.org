@@ -1,6 +1,7 @@
 ---
 name: "Base 44"
 slug: "base-44"
+layout: agent.njk
 maker: "Base44"
 license: "Proprietary"
 url: "https://base44.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI-powered app builder for creating web applications

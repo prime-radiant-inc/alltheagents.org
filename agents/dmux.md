@@ -1,6 +1,7 @@
 ---
 name: "dmux"
 slug: "dmux"
+layout: agent.njk
 maker: "standardagents"
 license: "MIT"
 url: "https://github.com/standardagents/dmux"
@@ -14,7 +15,6 @@ language: "HTML"
 homepage: "https://dmux.ai"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A dev agent multiplexer for git worktrees and coding agents.

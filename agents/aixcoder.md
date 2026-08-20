@@ -1,6 +1,7 @@
 ---
 name: "aiXcoder"
 slug: "aixcoder"
+layout: agent.njk
 maker: "aiXcoder"
 license: "Proprietary"
 url: "https://www.aixcoder.com"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "bing_ddg_chinese"
-layout: agent.njk
 ---
 
 AI coding assistant with code completion and generation, from Chinese company

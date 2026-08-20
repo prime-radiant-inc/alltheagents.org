@@ -1,6 +1,7 @@
 ---
 name: "Dyad"
 slug: "dyad"
+layout: agent.njk
 maker: "dyad-sh"
 license: "Source Available"
 url: "https://github.com/dyad-sh/dyad"
@@ -18,7 +19,6 @@ sources:
   - "jqueryscript"
   - "caramaschi"
   - "tiennm"
-layout: agent.njk
 ---
 
 A local desktop AI app builder that generates, runs, edits, and iterates on full-stack application code.

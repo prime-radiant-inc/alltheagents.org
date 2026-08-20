@@ -1,6 +1,7 @@
 ---
 name: "VibeRaven"
 slug: "viberaven"
+layout: agent.njk
 maker: "ohad6k"
 license: "MIT"
 url: "https://github.com/ohad6k/VibeRaven"
@@ -14,7 +15,6 @@ language: "JavaScript"
 homepage: "https://viberaven.dev"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 The open-source cockpit for AI coding agents. Map your repo, control what your agents can touch, and see what changed before you ship.

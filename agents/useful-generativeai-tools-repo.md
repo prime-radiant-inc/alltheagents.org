@@ -1,6 +1,7 @@
 ---
 name: "Useful-Generativeai-Tools-Repo"
 slug: "useful-generativeai-tools-repo"
+layout: agent.njk
 maker: "anishsingh20"
 license: "MIT"
 url: "https://github.com/anishsingh20/Useful-GenerativeAI-Tools-Repo"
@@ -14,7 +15,6 @@ language: null
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Useful-Generativeai-Tools-Repo](https://github.com/anishsingh20/Useful-GenerativeAI-Tools-Repo) - This repository has useful prompts for LLM and Generative AI models like Bard and ChatGPT

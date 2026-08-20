@@ -1,6 +1,7 @@
 ---
 name: "Summer-2024-SWE-Internships"
 slug: "summer-2024-swe-internships"
+layout: agent.njk
 maker: "AlanChen4"
 license: null
 url: "https://github.com/AlanChen4/Summer-2024-SWE-Internships"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://www.carbosjobs.com/"
 sources:
   - "github_topic3"
-layout: agent.njk
 ---
 
 A list of Summer 2024 internships for software engineering, updated automatically everyday

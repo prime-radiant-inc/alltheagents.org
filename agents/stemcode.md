@@ -1,6 +1,7 @@
 ---
 name: "StemCode"
 slug: "stemcode"
+layout: agent.njk
 maker: "rizwan3d"
 license: "Apache-2.0"
 url: "https://github.com/rizwan3d/StemCode"
@@ -17,7 +18,6 @@ language: "C#"
 homepage: "https://rizwan3d.github.io/StemCode/"
 sources:
   - "github_topic"
-layout: agent.njk
 ---
 
 Local-first AI coding agent for desktop, terminal, VS Code, Visual Studio, and CI code reviews.

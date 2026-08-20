@@ -1,6 +1,7 @@
 ---
 name: "LocoTrainer"
 slug: "locotrainer"
+layout: agent.njk
 maker: "LocoreMind"
 license: "MIT"
 url: "https://github.com/LocoreMind/LocoTrainer"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: "https://locoremind.com/blog/locotrainer"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 MS-SWIFT domain expert agent for codebase analysis and report generation

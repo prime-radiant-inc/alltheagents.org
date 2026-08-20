@@ -1,6 +1,7 @@
 ---
 name: "codealmanac"
 slug: "codealmanac"
+layout: agent.njk
 maker: "AlmanacCode"
 license: "Apache-2.0"
 url: "https://github.com/AlmanacCode/codealmanac"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://codealmanac.com"
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas.

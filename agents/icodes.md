@@ -1,6 +1,7 @@
 ---
 name: "Icodes"
 slug: "icodes"
+layout: agent.njk
 maker: "a115"
 license: "CC0-1.0"
 url: "https://github.com/a115/iCODES"
@@ -14,7 +15,6 @@ language: "Python"
 homepage: null
 sources:
   - "jim"
-layout: agent.njk
 ---
 
 - [Icodes](https://github.com/a115/iCODES) - LLM-powered Git archeology tool (a.k.a. Intelligent Commit Ontology Distiller and Enhanced Search)

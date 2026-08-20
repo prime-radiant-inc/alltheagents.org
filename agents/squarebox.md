@@ -1,6 +1,7 @@
 ---
 name: "squarebox"
 slug: "squarebox"
+layout: agent.njk
 maker: "SquareWaveSystems"
 license: "MIT"
 url: "https://github.com/SquareWaveSystems/squarebox"
@@ -15,7 +16,6 @@ language: "Shell"
 homepage: null
 sources:
   - "github_topic2"
-layout: agent.njk
 ---
 
 A curated set of modern CLI/TUI tools and AI coding assistants in a container. Batteries included.

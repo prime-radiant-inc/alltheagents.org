@@ -1,6 +1,7 @@
 ---
 name: "Devra"
 slug: "devra"
+layout: agent.njk
 maker: "Devra"
 license: "Proprietary"
 url: "https://devra.ai"
@@ -15,7 +16,6 @@ language: null
 homepage: null
 sources:
   - "web_search_multilingual"
-layout: agent.njk
 ---
 
 AI coding agent for software development

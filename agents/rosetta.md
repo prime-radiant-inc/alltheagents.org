@@ -1,6 +1,7 @@
 ---
 name: "rosetta"
 slug: "rosetta"
+layout: agent.njk
 maker: "griddynamics"
 license: "Apache-2.0"
 url: "https://github.com/griddynamics/rosetta"
@@ -14,7 +15,6 @@ language: "TypeScript"
 homepage: "https://griddynamics.github.io/rosetta/"
 sources:
   - "github_deep"
-layout: agent.njk
 ---
 
 An instruction layer for AI coding agent

@@ -1,6 +1,7 @@
 ---
 name: "fab-kit"
 slug: "fab-kit"
+layout: agent.njk
 maker: "sahil87"
 license: "MIT"
 url: "https://github.com/sahil87/fab-kit"
@@ -15,7 +16,6 @@ language: "Go"
 homepage: "https://shll.ai/fab-kit"
 sources:
   - "brad"
-layout: agent.njk
 ---
 
 - **[fab-kit](https://github.com/sahil87/fab-kit)** `⭐ 29` — Spec-driven development workflow for AI coding agents: an intake → plan → apply → review → hydrate pipeline with confidence gating, per-stage model tiers, a multi-agent operator mode over tmux, and cross-harness dispatch (Claude Code, Codex, Gemini). Go, MIT.

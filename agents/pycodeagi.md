@@ -1,6 +1,7 @@
 ---
 name: "PyCodeAGI"
 slug: "pycodeagi"
+layout: agent.njk
 maker: "chakkaradeep"
 license: null
 url: "https://github.com/chakkaradeep/pyCodeAGI"
@@ -15,7 +16,6 @@ homepage: null
 sources:
   - "jim"
   - "jim"
-layout: agent.njk
 ---
 
 - [PyCodeAGI](https://github.com/chakkaradeep/pyCodeAGI) - A small AGI experiment to generate a Python app given what app the user wants to build. [github](https://github.com/chakkaradeep/pyCodeAGI)
