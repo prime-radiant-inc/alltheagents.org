@@ -47,16 +47,18 @@ config_docs_url: null
 model_providers: null         # e.g. "Anthropic, OpenAI, Ollama" — or "locked" if single-provider
 pricing: null                 # free | freemium | subscription | usage | BYOK
 
-# --- traction (append-only logs: one {value, as_of} entry per refresh; never overwrite) ---
-stars: null                   # latest value, kept for site sorting; history below
-stars_log: []                 # - {value: 12345, as_of: "2026-08-20"}
-downloads_log: []             # - {value: 1200000, as_of: "2026-08-20", source: "vscode-marketplace"}
+# --- traction (latest snapshots only; append-only histories live in metrics/<slug>.yaml,
+#     see metrics/_TEMPLATE.yaml — kept out of agent files to avoid constant churn here) ---
+github_stars: null            # latest snapshot (existing files use `stars`; rename is a follow-up migration)
+downloads: null               # latest snapshot across sources
 
 # --- provenance ---
 sources: []                   # which discovery channel(s) surfaced this entry
 last_verified: null           # YYYY-MM-DD a human or agent last confirmed the facts above
 
-what_makes_it_special: null   # 1-2 sentences; also becomes the page body below
+what_makes_it_special: null   # 1-2 sentences, frontmatter only — never repeated in the body
 ---
 
-One to two sentences on what makes it special (same text as the frontmatter field).
+Body = narrative text about the harness: its history, design choices, how it is used,
+context in the ecosystem. Do NOT duplicate frontmatter content here — repeating
+what_makes_it_special (or any frontmatter field) in the body is forbidden.
