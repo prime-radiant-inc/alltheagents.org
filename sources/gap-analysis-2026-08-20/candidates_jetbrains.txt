@@ -1,0 +1,234 @@
+Dev Agent (小D同学)|DEDE-cn F|https://plugins.jetbrains.com/plugin/29207---d---|58|Dev Agent is an AI-powered intelligent development assistant plugin for IntelliJ Platform|jetbrains-marketplace
+GitHub Copilot - Your AI Pair Programmer|GitHub|https://plugins.jetbrains.com/plugin/17718-github-copilot--your-ai-pair-programmer|52048692|AI-powered coding assistant offering completion, chat, and agent assistance|jetbrains-marketplace
+Qoder CN (Formerly Lingma) - Alibaba Cloud AI Coding Assistant|Alibaba Cloud|https://plugins.jetbrains.com/plugin/17809-qoder-cn-formerly-lingma--alibaba-cloud-ai-coding-assistant|38557208|Alibaba Cloud AI coding assistant with completion, Ask, multi-file editing, coding-agent|jetbrains-marketplace
+Junie, the AI coding agent by JetBrains|JetBrains s.r.o.|https://plugins.jetbrains.com/plugin/26104-junie-the-ai-coding-agent-by-jetbrains|31494781|JetBrains AI coding agent that handles tasks autonomously or collaboratively|jetbrains-marketplace
+TRAE AI: Coding Assistant|MarsCode|https://plugins.jetbrains.com/plugin/24326-trae-ai-coding-assistant|3635683|ByteDance TRAE AI programming assistant|jetbrains-marketplace
+CodeGeeX: AI Coding Assistant|Zhipu.ai|https://plugins.jetbrains.com/plugin/20587-codegeex-ai-coding-assistant|1020545|AI coding assistant powered by Zhipu's multilingual code model|jetbrains-marketplace
+ProxyAI|Proxy OÜ|https://plugins.jetbrains.com/plugin/21056-proxyai|951588|AI-powered code assistant (formerly CodeGPT); BYO-model alternative to Cursor/Copilot|jetbrains-marketplace
+Augment: Coding Agent Built for Large, Complex Codebases|Augment Computing|https://plugins.jetbrains.com/plugin/24072-augment-coding-agent-built-for-large-complex-codebases|701900|AI coding platform with context-engine-powered coding agent|jetbrains-marketplace
+Fitten Code:Faster and Better AI Assistant|Fitten Tech.|https://plugins.jetbrains.com/plugin/23640-fitten-code-faster-and-better-ai-assistant|626316|Chinese AI coding assistant powered by Fitten Tech's code model|jetbrains-marketplace
+Baidu Comate|Baidu Inc.|https://plugins.jetbrains.com/plugin/23475-baidu-comate|523215|Baidu's AI-powered intelligent coding companion|jetbrains-marketplace
+Cody: AI Code Assistant|Sourcegraph|https://plugins.jetbrains.com/plugin/9682-cody-ai-code-assistant|484988|Sourcegraph's AI coding assistant with code search integration|jetbrains-marketplace
+Kilo Code|Kilo Code|https://plugins.jetbrains.com/plugin/28350-kilo-code|356822|Open-source AI coding agent generating code from natural language|jetbrains-marketplace
+GitLab Duo|GitLab, Inc.|https://plugins.jetbrains.com/plugin/22325-gitlab-duo|340487|GitLab's AI features including Duo Code Suggestions and chat|jetbrains-marketplace
+Diffblue Cover - AI Agent for unit testing|Diffblue Ltd|https://plugins.jetbrains.com/plugin/14946-diffblue-cover--ai-agent-for-unit-testing|210166|AI agent for automatically generating quality Java unit tests|jetbrains-marketplace
+ChatGPT-Plus|yuxin|https://plugins.jetbrains.com/plugin/21230-chatgpt-plus|183596|Chinese AI assistant plugin; ask AI to help write code in the IDE|jetbrains-marketplace
+Sourcery|Sourcery|https://plugins.jetbrains.com/plugin/12631-sourcery|158421|AI-powered code reviewer and coding assistant|jetbrains-marketplace
+Firebender|Firebender|https://plugins.jetbrains.com/plugin/25224-firebender|133160|Multi-agent coding system for Android Studio and JetBrains|jetbrains-marketplace
+CalEx-JavaAI : AI Coding Assistant|feisuanyz|https://plugins.jetbrains.com/plugin/26766-calex-javaai--ai-coding-assistant|122425|Chinese agentic coding platform for Java|jetbrains-marketplace
+Machinet AI GPT-4 Chat and Unit Tests|Machinet Inc.|https://plugins.jetbrains.com/plugin/17510-machinet-ai-gpt-4-chat-and-unit-tests|115923|Context-aware AI chat and unit test generation|jetbrains-marketplace
+Zencoder: Your Mindful AI Coding Agent|For Good AI Inc|https://plugins.jetbrains.com/plugin/24782-zencoder-your-mindful-ai-coding-agent|103133|AI coding agent platform understanding entire codebase structure|jetbrains-marketplace
+TalkX - ChatGPT GPT-4 Free AI code assistant|huxiao.mail|https://plugins.jetbrains.com/plugin/22181-talkx--chatgpt-gpt-4-free-ai-code-assistant|91793|Free AI programming assistant based on OpenAI GPT-4 (Chinese vendor)|jetbrains-marketplace
+DevoxxGenie|Devoxx|https://plugins.jetbrains.com/plugin/24169-devoxxgenie|90221|Open-source AI coding assistant supporting local and cloud LLMs|jetbrains-marketplace
+OpenCode UI|LaiZhou|https://plugins.jetbrains.com/plugin/29744-opencode-ui|80968|Integrates the OpenCode AI coding agent into JetBrains IDEs|jetbrains-marketplace
+Refact - Open-Source AI Agent, Code Generator & Chat|Small Magellanic Cloud AI Ltd|https://plugins.jetbrains.com/plugin/20647-refact--open-source-ai-agent-code-generator--chat|76126|Open-source AI software engineering agent; BYOK or local models|jetbrains-marketplace
+StackSpot AI|StackSpot|https://plugins.jetbrains.com/plugin/23172-stackspot-ai|73547|Transforms the IDE into a multi-agent platform with custom AI code assistants|jetbrains-marketplace
+Sweep: AI Autocomplete & Coding Agent|Sweep AI|https://plugins.jetbrains.com/plugin/26860-sweep-ai-autocomplete--coding-agent|68247|AI coding agent and autocomplete built for JetBrains developers|jetbrains-marketplace
+AI Coding Assistant|Andrew Charneski|https://plugins.jetbrains.com/plugin/20724-ai-coding-assistant|64264|Open-source IntelliJ AI coding assistant with code generation tools|jetbrains-marketplace
+ClaudeMind|Clinde|https://plugins.jetbrains.com/plugin/25082-claudemind|59791|Claude-powered AI coding assistant in JetBrains workflow|jetbrains-marketplace
+Multi - Frontier AI Coding Agent|Multi|https://plugins.jetbrains.com/plugin/30672-multi--frontier-ai-coding-agent|47605|AI coding agent for JetBrains: plan, explore, change, review|jetbrains-marketplace
+Raccoon|SenseTime|https://plugins.jetbrains.com/plugin/23216-raccoon|47136|SenseTime's AI code assistant|jetbrains-marketplace
+JoyCoder|jd.com|https://plugins.jetbrains.com/plugin/23046-joycoder|41141|JD.com's AI code assistant|jetbrains-marketplace
+CodeArts Agent|Huawei Cloud ToolKit|https://plugins.jetbrains.com/plugin/21068-codearts-agent|39876|Huawei Cloud AI dev agent|jetbrains-marketplace
+Claude Code Assistant|abcde.work|https://plugins.jetbrains.com/plugin/29457-claude-code-assistant|38322|Claude AI pair programmer integrated into JetBrains IDEs|jetbrains-marketplace
+Tabby|TabbyML|https://plugins.jetbrains.com/plugin/22379-tabby|34934|Self-hosted AI coding assistant with real-time suggestions|jetbrains-marketplace
+LaraAssist - AI Assistant for Laravel|Afjalur Rahman Rana|https://plugins.jetbrains.com/plugin/21187-laraassist--ai-assistant-for-laravel|21822|AI assistant for Laravel developers|jetbrains-marketplace
+Roo Code (CE)|ABCXLAB|https://plugins.jetbrains.com/plugin/30824-roo-code-ce-|20605|Community edition of Roo Code for IntelliJ-based IDEs|jetbrains-marketplace
+Codex CLI|Oleh Khomyk|https://plugins.jetbrains.com/plugin/31307-codex-cli|16654|OpenAI Codex command-line agent one shortcut away inside the IDE|jetbrains-marketplace
+FlutterGPT|unknown|https://plugins.jetbrains.com/plugin/21568-fluttergpt|16593|Open-source ChatGPT assistant for Flutter code in-IDE|jetbrains-marketplace
+Mistral Code Enterprise|Mistral AI|https://plugins.jetbrains.com/plugin/27493-mistral-code-enterprise|14647|Mistral's enterprise coding assistant|jetbrains-marketplace
+ChatCode - Chinaunicom AI Coding Assistant|ChatCode|https://plugins.jetbrains.com/plugin/26237-chatcode--chinaunicom-ai-coding-assistant|14222|China Unicom Yuanjing intelligent R&D assistance tool|jetbrains-marketplace
+Claude Code Chat|Brother|https://plugins.jetbrains.com/plugin/31507-claude-code-chat|13172|Claude Code in a JetBrains side panel|jetbrains-marketplace
+Cursor CLI Terminal|Max|https://plugins.jetbrains.com/plugin/28562-cursor-cli-terminal|12763|Runs cursor-agent inside IntelliJ-based IDEs|jetbrains-marketplace
+CodeMaker AI|CodeMaker AI Inc.|https://plugins.jetbrains.com/plugin/21445-codemaker-ai|12351|Tools and automation for writing, testing, documenting code with AI|jetbrains-marketplace
+CodeMate|小白菜|https://plugins.jetbrains.com/plugin/21314-codemate|11004|OpenAI-API-based assistant to write code in-IDE|jetbrains-marketplace
+Agent Workbench|Vladimir Krivosheev|https://plugins.jetbrains.com/plugin/30926-agent-workbench|10192|Renamed to AIR; agent workbench for running AI coding agents in JetBrains|jetbrains-marketplace
+AI Code Review|Yonatha Almeida|https://plugins.jetbrains.com/plugin/21106-ai-code-review|10155|Code reviews using ChatGPT, Bard, and other AI|jetbrains-marketplace
+StarFactory|China Telecom AI Technology Co., Ltd|https://plugins.jetbrains.com/plugin/28096-starfactory|9528|China Telecom AI coding assistant with chat and autonomous agents|jetbrains-marketplace
+Kwaipilot|kuaishou|https://plugins.jetbrains.com/plugin/23920-kwaipilot|9387|Kuaishou LLM-based AI coding assistant|jetbrains-marketplace
+AI Predictive Coding|aicodes|https://plugins.jetbrains.com/plugin/9203-ai-predictive-coding|9016|AI autocomplete ranking and comment-to-code inference|jetbrains-marketplace
+TestSpark|JetBrains s.r.o.|https://plugins.jetbrains.com/plugin/21024-testspark|8737|Unit test generation plugin integrating AI-based test generation (JetBrains Research)|jetbrains-marketplace
+Magical AI|Bucolic Poet|https://plugins.jetbrains.com/plugin/25769-magical-ai|8441|IDEA plugin supporting code generation and automated unit test creation|jetbrains-marketplace
+Antigravity Companion|Yevhen Matasar|https://plugins.jetbrains.com/plugin/31899-antigravity-companion|8404|Bridges Google's Antigravity CLI agent with JetBrains IDEs|jetbrains-marketplace
+Onuro - AI Code Assistant|onuro|https://plugins.jetbrains.com/plugin/22895-onuro--ai-code-assistant|8393|AI code assistant across all JetBrains IDEs|jetbrains-marketplace
+Explyt AI Agent|Explicit Insights LLC|https://plugins.jetbrains.com/plugin/27979-explyt-ai-agent|8262|IDE-native AI agent using JetBrains IDE APIs instead of terminal commands|jetbrains-marketplace
+CodeVista: AI Coding Assistant (FPT Internal)|FPT Software AI Center|https://plugins.jetbrains.com/plugin/24575-codevista-ai-coding-assistant-fpt-internal-|8206|FPT Software AI Center's AI coding assistant (Vietnam)|jetbrains-marketplace
+Blackbox|blackbox.ai|https://plugins.jetbrains.com/plugin/28902-blackbox|8055|Blackbox AI agent with completion, docs, debugging|jetbrains-marketplace
+CursorJ|Brenden Vaughan|https://plugins.jetbrains.com/plugin/30583-cursorj|6760|Brings Cursor's AI agent into JetBrains via ACP|jetbrains-marketplace
+Claude Code Native|Lain|https://plugins.jetbrains.com/plugin/31965-claude-code-native|6249|Claude Code with a real GUI in JetBrains|jetbrains-marketplace
+QAX CodeGen|QI-ANXIN GROUP|https://plugins.jetbrains.com/plugin/24156-qax-codegen|5018|Open-source AI coding agent (Chinese security vendor)|jetbrains-marketplace
+Flow Coder|CI&T Flow|https://plugins.jetbrains.com/plugin/27434-flow-coder|4638|Create custom AI code assistants via CI&T Flow|jetbrains-marketplace
+AutoDev Sketch - Open Source Cursor-Like in IDEA with DeepSeek|Phodal Huang|https://plugins.jetbrains.com/plugin/26988-autodev-sketch--open-source-cursor-like-in-idea-with-deepseek|4407|Open-source Cursor-like AI coding assistant for IntelliJ|jetbrains-marketplace
+IntelliPHP - AI Autocomplete for PHP|DEVSENSE|https://plugins.jetbrains.com/plugin/23859-intelliphp--ai-autocomplete-for-php|4138|Local AI-powered full-line code completion for PHP|jetbrains-marketplace
+Factory Droid|Factory|https://plugins.jetbrains.com/plugin/28649-factory-droid|3655|Embeds Factory's Droid AI coding agent in JetBrains|jetbrains-marketplace
+gpt-copilot|wei ku|https://plugins.jetbrains.com/plugin/21238-gpt-copilot|3619|Personal GPT-based code assistant|jetbrains-marketplace
+CodeShell|WisdomShell|https://plugins.jetbrains.com/plugin/22969-codeshell|3585|Open-source intelligent coding assistant based on the CodeShell LLM|jetbrains-marketplace
+AI Assistant Providers / Sessions|Daniel Espendiller|https://plugins.jetbrains.com/plugin/29900-ai-assistant-providers--sessions|3528|Configure multiple AI providers inside JetBrains AI Assistant|jetbrains-marketplace
+Vajra - AI Coding Assistant|Ashish Sharda|https://plugins.jetbrains.com/plugin/29033-vajra--ai-coding-assistant|3365|Free open-source AI coding assistant for JetBrains IDEs|jetbrains-marketplace
+Verdent|verdent|https://plugins.jetbrains.com/plugin/29473-verdent|3006|AI-powered agentic coding assistant for JetBrains|jetbrains-marketplace
+Shire - AI Coding Agent Language|Phodal Huang|https://plugins.jetbrains.com/plugin/24549-shire--ai-coding-agent-language|2789|AI coding and agent DSL enabling LLM-IDE communication|jetbrains-marketplace
+NexChat|vrisego|https://plugins.jetbrains.com/plugin/31263-nexchat|2507|All-in-one AI coding assistant|jetbrains-marketplace
+RefactorGPT|Hyesong Kim|https://plugins.jetbrains.com/plugin/22014-refactorgpt|2481|Refactor selected code using ChatGPT|jetbrains-marketplace
+AgentHub|AgentHub|https://plugins.jetbrains.com/plugin/32310-agenthub|2306|Toolbar button launching any popular CLI coding agent|jetbrains-marketplace
+OpenCode Relay|Ashot Nazaryan|https://plugins.jetbrains.com/plugin/30674-opencode-relay|2239|OpenCode AI coding assistant integration for IntelliJ|jetbrains-marketplace
+Goose|Max Novich|https://plugins.jetbrains.com/plugin/25296-goose|2179|Block's Goose programming agent in JetBrains|jetbrains-marketplace
+CodeAgent|CodeAgent|https://plugins.jetbrains.com/plugin/31927-codeagent|2129|AI-powered coding assistant plugin with streaming chat panel|jetbrains-marketplace
+CodeAntAI|CodeAnt AI|https://plugins.jetbrains.com/plugin/23405-codeantai|1988|Automated AI code reviewer catching bugs at commit time|jetbrains-marketplace
+Harness AI Code Assistant|Harness Inc|https://plugins.jetbrains.com/plugin/26296-harness-ai-code-assistant|1963|Harness's AI code assistant for JetBrains|jetbrains-marketplace
+Cognotik - Open Source Agentic Power Tools|SimiaCryptus Software|https://plugins.jetbrains.com/plugin/27289-cognotik--open-source-agentic-power-tools|1927|Open-source AI coding assistant with high-level agentic tools|jetbrains-marketplace
+Coding By DeepSeek Or ChatGPT Or OtherAI|jiangze|https://plugins.jetbrains.com/plugin/27594-coding-by-deepseek-or-chatgpt-or-otherai|1651|IDE-based AI coding assistant covering five workflows|jetbrains-marketplace
+ChainlessChain IDE Bridge|chainlesschain|https://plugins.jetbrains.com/plugin/32208-chainlesschain-ide-bridge|1608|Brings the ChainlessChain cc agent CLI into JetBrains as a side-panel coding agent|jetbrains-marketplace
+JAIPilot - One-Click AI Agent for Java Unit Testing|JAIPilot|https://plugins.jetbrains.com/plugin/27706-jaipilot--one-click-ai-agent-for-java-unit-testing|1547|AI agent that generates, runs, and fixes Java unit tests|jetbrains-marketplace
+InfCode|Tokfinity|https://plugins.jetbrains.com/plugin/28896-infcode|1473|Enterprise coding agent claiming SOTA on SWE-Bench Verified (Chinese vendor)|jetbrains-marketplace
+Agent Dock|EdgarsR|https://plugins.jetbrains.com/plugin/31508-agent-dock|1395|Unified GUI for AI coding agents matching IDE theme|jetbrains-marketplace
+Azure Coding|小白菜|https://plugins.jetbrains.com/plugin/22194-azure-coding|1319|Use Azure OpenAI to write, interpret, and optimize code|jetbrains-marketplace
+AtomCode|AtomCode|https://plugins.jetbrains.com/plugin/32455-atomcode|1300|Local AI coding agent in a tool window|jetbrains-marketplace
+CPS Agent|Steffen Schubert|https://plugins.jetbrains.com/plugin/25434-cps-agent|1253|Conversational LLM-based agent for programming tasks|jetbrains-marketplace
+Claude Code Agent|JetBrains s.r.o.|https://plugins.jetbrains.com/plugin/28257-claude-code-agent|1209|JetBrains integration providing Claude Code agent functionality|jetbrains-marketplace
+Zoo Code|Zoo Code Organization|https://plugins.jetbrains.com/plugin/32979-zoo-code|1076|Zoo Code AI coding assistant for IntelliJ-based IDEs|jetbrains-marketplace
+QTA SmartTest|QTA|https://plugins.jetbrains.com/plugin/29217-qta-smarttest|1058|Tencent QTA AI testing plugin with one-click unit test generation|jetbrains-marketplace
+Llamatik Code|Llamatik AI|https://plugins.jetbrains.com/plugin/31304-llamatik-code|1015|Local-first AI coding assistant|jetbrains-marketplace
+LQCodeMind|lq-developer|https://plugins.jetbrains.com/plugin/29215-lqcodemind|1001|AI agent for development tasks plus source-controlled AI checks|jetbrains-marketplace
+Claude Review|kmfink|https://plugins.jetbrains.com/plugin/30307-claude-review|961|Runs Claude Code on unstaged git diffs on save|jetbrains-marketplace
+On-Device AI Code Review|JEONYOUNGHO|https://plugins.jetbrains.com/plugin/25074-on-device-ai-code-review|905|Ollama-powered AI code reviews entirely on-device|jetbrains-marketplace
+BaiTong CodeEngineer|百通Dev|https://plugins.jetbrains.com/plugin/29119-baitong-codeengineer|901|Chinese intelligent coding assistant plugin|jetbrains-marketplace
+AgentellIJ|AgentelliJ|https://plugins.jetbrains.com/plugin/31082-agentellij|886|Hosts terminal-based AI coding agents in IntelliJ|jetbrains-marketplace
+Gemini Agent|JetBrains s.r.o.|https://plugins.jetbrains.com/plugin/29283-gemini-agent|886|JetBrains integration providing Gemini agent functionality|jetbrains-marketplace
+GPT CodeHelper|daodao97|https://plugins.jetbrains.com/plugin/22235-gpt-codehelper|867|GPT-based personal code assistant|jetbrains-marketplace
+Code Assistant|vyibc ai|https://plugins.jetbrains.com/plugin/28486-code-assistant|865|AI code translation, explanation, and chat via multiple providers|jetbrains-marketplace
+Pi Agent Launcher|haokanjiang|https://plugins.jetbrains.com/plugin/31737-pi-agent-launcher|837|One-click launcher keeping the Pi coding agent CLI inside the IDE|jetbrains-marketplace
+AICodeTransformer|sualpha|https://plugins.jetbrains.com/plugin/28570-aicodetransformer|810|Trigger custom AI instructions via shortcuts|jetbrains-marketplace
+By AI Code Review|ByAICodeReview|https://plugins.jetbrains.com/plugin/25869-by-ai-code-review|770|LLM-based code review assistant (Chinese vendor)|jetbrains-marketplace
+Rikki Coding Agent|Creeper5261|https://plugins.jetbrains.com/plugin/30315-rikki-coding-agent|753|Lightweight AI coding assistant connecting directly to LLM APIs|jetbrains-marketplace
+Oraclia AI|Pavel Ch|https://plugins.jetbrains.com/plugin/27674-oraclia-ai|721|AI-powered code assistant for JetBrains|jetbrains-marketplace
+Codely|Unity China|https://plugins.jetbrains.com/plugin/29053-codely|708|Unity China's internal AI coding assistant with Agent collaboration mode|jetbrains-marketplace
+AgentPort|AgentPort|https://plugins.jetbrains.com/plugin/30472-agentport|698|Universal ACP client connecting any Agent Client Protocol agent to JetBrains|jetbrains-marketplace
+RX GUI|68110923|https://plugins.jetbrains.com/plugin/32054-rx-gui|643|Reasonix AI coding assistant sidebar|jetbrains-marketplace
+Guidewire AI Agent|Arka|https://plugins.jetbrains.com/plugin/32462-guidewire-ai-agent|617|Enterprise agentic IDE plugin for Guidewire development|jetbrains-marketplace
+Cursor Agent for DevEco|cursor-agent-for-deveco|https://plugins.jetbrains.com/plugin/30886-cursor-agent-for-deveco|610|Integrates Cursor Agent into DevEco Studio via ACP|jetbrains-marketplace
+DeepSeek Code Assistant|Lingxi|https://plugins.jetbrains.com/plugin/29569-deepseek-code-assistant|549|DeepSeek-API-powered code modification tool|jetbrains-marketplace
+Jitera|Jitera|https://plugins.jetbrains.com/plugin/25696-jitera|527|AI programming agent/context system automating code|jetbrains-marketplace
+Refio|jclab|https://plugins.jetbrains.com/plugin/30487-refio|523|Local-first AI coding assistant with native IntelliJ integration|jetbrains-marketplace
+GPT-Runner|mason|https://plugins.jetbrains.com/plugin/24960-gpt-runner|510|AI-powered coding assistant|jetbrains-marketplace
+AI-Code Review|vinist|https://plugins.jetbrains.com/plugin/28353-ai-code-review|495|AI code review button in Git commit window|jetbrains-marketplace
+OmniCode Agent|OmniCode|https://plugins.jetbrains.com/plugin/33002-omnicode-agent|488|Provider-neutral AI coding and research agent with editable Plan Board|jetbrains-marketplace
+CybeDefend|CybeDefend|https://plugins.jetbrains.com/plugin/27580-cybedefend|477|AI-powered coding agent and security scanner|jetbrains-marketplace
+Naixt|stephen-chancetop|https://plugins.jetbrains.com/plugin/26662-naixt|448|Coding agent with configurable LLM endpoint|jetbrains-marketplace
+KaiTester|Valentin Podkopaev|https://plugins.jetbrains.com/plugin/26141-kaitester|445|AI-powered unit test generator for Kotlin|jetbrains-marketplace
+CodeFlux|CodeFlux|https://plugins.jetbrains.com/plugin/26937-codeflux|440|Open-source AI coding assistant; connect any model|jetbrains-marketplace
+ZegoAITools|df p|https://plugins.jetbrains.com/plugin/22205-zegoaitools|431|OpenAI-based unit test code generation (Zego)|jetbrains-marketplace
+Agent GUI|matsumo0922|https://plugins.jetbrains.com/plugin/30428-agent-gui|422|Native chat GUI for AI coding agents inside JetBrains|jetbrains-marketplace
+Agent CLI|Sajith Edirisinghe|https://plugins.jetbrains.com/plugin/31117-agent-cli|395|Run AI coding agents in an embedded terminal|jetbrains-marketplace
+QA CoPilot|Piyush Joshi|https://plugins.jetbrains.com/plugin/31496-qa-copilot|386|AI-powered API test generation for Spring Boot|jetbrains-marketplace
+ETRX Code Reviewer|Chiny Chiu|https://plugins.jetbrains.com/plugin/28439-etrx-code-reviewer|363|AI code review with customizable prompts|jetbrains-marketplace
+CodeSense AI|chenp|https://plugins.jetbrains.com/plugin/31277-codesense-ai|347|LLM-powered intelligent code assistant (Chinese)|jetbrains-marketplace
+AxxCodeIDX|devopts|https://plugins.jetbrains.com/plugin/23016-axxcodeidx|346|AI coding assistant with real-time completion and chat|jetbrains-marketplace
+AI Agent CLI Bridge|Hannos|https://plugins.jetbrains.com/plugin/31364-ai-agent-cli-bridge|345|Launch preconfigured AI terminal sessions with IDE context|jetbrains-marketplace
+Sypha|Sypha|https://plugins.jetbrains.com/plugin/30512-sypha|338|AI coding assistant for planning, improvising, debugging|jetbrains-marketplace
+AI Tests By Mavka|Clear Solutions|https://plugins.jetbrains.com/plugin/27702-ai-tests-by-mavka|330|AI-powered unit test generation|jetbrains-marketplace
+LISA AI Assistant|trinadhkoya|https://plugins.jetbrains.com/plugin/29577-lisa-ai-assistant|321|Language-Integrated Smart Agent AI companion|jetbrains-marketplace
+Auto Git CR|KanDaWa|https://plugins.jetbrains.com/plugin/29692-auto-git-cr|309|Automatic AI code review after git commit|jetbrains-marketplace
+SmartDoc|Vahid Etemadi|https://plugins.jetbrains.com/plugin/28786-smartdoc|300|AI agent for method documentation updates|jetbrains-marketplace
+Sigil - Coding Assistant|José M. Nieves|https://plugins.jetbrains.com/plugin/32492-sigil--coding-assistant|299|AI-assisted development plugin powered by OpenCode|jetbrains-marketplace
+JDC Pre-Commit Code Review|jdctools|https://plugins.jetbrains.com/plugin/27669-jdc-pre-commit-code-review|285|Automatic AI-driven code reviews before Git commits|jetbrains-marketplace
+Codaro|Codaro|https://plugins.jetbrains.com/plugin/28408-codaro|275|Agentic code review catching security leaks and logic errors locally|jetbrains-marketplace
+codayinid|ptitcoutu|https://plugins.jetbrains.com/plugin/25806-codayinid|273|Integration of the Coday AI agent orchestrator in IntelliJ|jetbrains-marketplace
+Code Review Helper 1.1.0|Rohit Phutane|https://plugins.jetbrains.com/plugin/27318-code-review-helper-1-1-0|266|Lightweight AI code reviewer for Java files during commit|jetbrains-marketplace
+Capybara AI Coding Assistant|CapybaraAICodingAssistant|https://plugins.jetbrains.com/plugin/31562-capybara-ai-coding-assistant|264|Open-source AI coding assistant powered by OpenCode V2|jetbrains-marketplace
+Sema Code|SemaCode|https://plugins.jetbrains.com/plugin/32783-sema-code|241|AI coding assistant / code copilot for JetBrains|jetbrains-marketplace
+Kibbler - Claude Code Assistant|Kibbler|https://plugins.jetbrains.com/plugin/29494-kibbler--claude-code-assistant|225|Control Claude Code from an iPhone|jetbrains-marketplace
+3TG TaaS|Coding Creed Technologies|https://plugins.jetbrains.com/plugin/30365-3tg-taas|222|Behavior-first AI test generation for TypeScript and React|jetbrains-marketplace
+SpecBuddy|SpecBuddy|https://plugins.jetbrains.com/plugin/32645-specbuddy|221|Structured plan-to-step control layer over AI coding agents|jetbrains-marketplace
+iHomeCoder-Win|iHomeCoder-Win|https://plugins.jetbrains.com/plugin/32575-ihomecoder-win|218|Intelligent development assistant with AI code completion (Chinese vendor)|jetbrains-marketplace
+Routa - Multi-Agent Development Environment|Phodal Huang|https://plugins.jetbrains.com/plugin/30128-routa--multi-agent-development-environment|217|Multi-agent orchestration system coordinating multiple AI agents|jetbrains-marketplace
+AI Git Code Review|mahairong|https://plugins.jetbrains.com/plugin/28479-ai-git-code-review|210|AI-powered code review of Git merge requests|jetbrains-marketplace
+TNG Test Generator|tng.sh|https://plugins.jetbrains.com/plugin/28919-tng-test-generator|210|Generate tests using TNG for multiple languages|jetbrains-marketplace
+Simple AI Code Reviewer|NeoZhou|https://plugins.jetbrains.com/plugin/28311-simple-ai-code-reviewer|208|AI code review on commit with Markdown reports|jetbrains-marketplace
+DD Code GUI|ddcode|https://plugins.jetbrains.com/plugin/32827-dd-code-gui|205|AI coding assistant supporting Claude Agent SDK, Codex SDK, DeepSeek|jetbrains-marketplace
+EasyAgent|hyqf98|https://plugins.jetbrains.com/plugin/31751-easyagent|203|Aggregates Claude Code, OpenCode, and Codex CLI into one IDE experience|jetbrains-marketplace
+Sentra|Sentra|https://plugins.jetbrains.com/plugin/27479-sentra|199|Automated unit test generator|jetbrains-marketplace
+QonQrete|QonQrete|https://plugins.jetbrains.com/plugin/30764-qonqrete|193|Deterministic AI coding agent in secure sandboxes|jetbrains-marketplace
+kluster.ai|kluster.ai|https://plugins.jetbrains.com/plugin/30646-kluster-ai|192|Real-time AI code review catching bugs and vulnerabilities|jetbrains-marketplace
+AI Code Reviewer|AI Code Reviewer|https://plugins.jetbrains.com/plugin/31071-ai-code-reviewer|185|AI-powered code review and refactoring|jetbrains-marketplace
+CodeSetu|CodeSetu|https://plugins.jetbrains.com/plugin/31900-codesetu|182|Open-source multi-provider Copilot/Cursor alternative (India)|jetbrains-marketplace
+Quanta AI|Quanta Dance|https://plugins.jetbrains.com/plugin/29113-quanta-ai|173|Agentic coding assistant: plan, implement, review, refactor|jetbrains-marketplace
+CLI Agent Dock|Rwcoder|https://plugins.jetbrains.com/plugin/32765-cli-agent-dock|164|Dedicated tool window bringing CLI coding agents into JetBrains|jetbrains-marketplace
+Lucid Chat|Turknet DevOps Team|https://plugins.jetbrains.com/plugin/29373-lucid-chat|164|Chat and agent modes via Ollama|jetbrains-marketplace
+CLAW - Sugestoes Inline com IA Automatica|Rafael Batista|https://plugins.jetbrains.com/plugin/31144-claw--sugestoes-inline-com-ia-automatica|161|AI inline code suggestions (Brazilian)|jetbrains-marketplace
+EggShell|Best Practice|https://plugins.jetbrains.com/plugin/31171-eggshell|156|Embeds terminal sessions dedicated to AI CLI coding agents|jetbrains-marketplace
+Ceres AI Coding Assistant with Voice|Andreas Express|https://plugins.jetbrains.com/plugin/32670-ceres-ai-coding-assistant-with-voice|150|Coding help with voice input and code review|jetbrains-marketplace
+OmniPilot - Bring Your Own Model|Tejas Soni|https://plugins.jetbrains.com/plugin/32760-omnipilot--bring-your-own-model|145|Fully autonomous BYO-model AI coding assistant|jetbrains-marketplace
+Kf-CR|He Zhixian|https://plugins.jetbrains.com/plugin/28113-kf-cr|143|AI code review analyzing local changes through Git|jetbrains-marketplace
+HuiCai AI|ChenBo|https://plugins.jetbrains.com/plugin/32855-huicai-ai|141|JetBrains edition of the HuiCai AI assistant with agent core|jetbrains-marketplace
+CrickCoder AI IDE|CrickCoder|https://plugins.jetbrains.com/plugin/31468-crickcoder-ai-ide|139|Fully autonomous coding assistant for JetBrains|jetbrains-marketplace
+Grok Build|nightsum|https://plugins.jetbrains.com/plugin/33166-grok-build|139|Opens the xAI Grok Build CLI agent inside JetBrains IDEs|jetbrains-marketplace
+JetPilot|QuantumLeapProjects|https://plugins.jetbrains.com/plugin/31736-jetpilot|138|Offline AI co-pilot via Ollama with tool calling|jetbrains-marketplace
+Open Code Review|Open Code Review GUI|https://plugins.jetbrains.com/plugin/33483-open-code-review|137|Interactive layer for the open-codereview CLI|jetbrains-marketplace
+AIVory Genie|AIVory, Inc.|https://plugins.jetbrains.com/plugin/32420-aivory-genie|129|Bring-your-own AI coding agent with edit-to-prompt tracing|jetbrains-marketplace
+Karato - Agent for Sakana AI fugu|Imperial architects|https://plugins.jetbrains.com/plugin/32504-karato--agent-for-sakana-ai-fugu|124|In-IDE agent driving Codex CLI with Sakana AI's Fugu models|jetbrains-marketplace
+AI Free Chat & Agent|Staks-sor|https://plugins.jetbrains.com/plugin/33364-ai-free-chat--agent|120|DeepSeek, Qwen, ChatGPT chats and coding agents in PyCharm|jetbrains-marketplace
+MSB CodeGen|MSB|https://plugins.jetbrains.com/plugin/28517-msb-codegen|119|AI coding assistant suggesting code in real time|jetbrains-marketplace
+Java ADK Assistant|Java ADK Assistant|https://plugins.jetbrains.com/plugin/31464-java-adk-assistant|116|AI assistant powered by Google Agent Development Kit|jetbrains-marketplace
+AI Agent Assistant|Abner001|https://plugins.jetbrains.com/plugin/31985-ai-agent-assistant|106|Project-aware AI coding assistant with Cursor-style chat|jetbrains-marketplace
+flai|Andrei Isachenko|https://plugins.jetbrains.com/plugin/31958-flai|103|Turns IntelliJ into an agent runtime with YAML pipelines|jetbrains-marketplace
+AI Dev MCP|Kush Patel|https://plugins.jetbrains.com/plugin/31053-ai-dev-mcp|102|Self-hosted AI coding agent running Qwen2.5-Coder locally|jetbrains-marketplace
+Cyclops|Joseph Ferrara|https://plugins.jetbrains.com/plugin/31917-cyclops|96|AI coding agent orchestration: dispatch agents to implement issues|jetbrains-marketplace
+Smart Push Review|Nishant Baranwal|https://plugins.jetbrains.com/plugin/29738-smart-push-review|95|AI-powered code review step in the Git commit workflow|jetbrains-marketplace
+AI Lingshi|AI灵侍|https://plugins.jetbrains.com/plugin/32539-ai-lingshi|95|Chinese AI coding assistant connecting to local or Zhipu cloud models|jetbrains-marketplace
+MaaS CodeAI|hx shi|https://plugins.jetbrains.com/plugin/28048-maas-codeai|92|Code generation and automated unit test creation|jetbrains-marketplace
+AI Review|SmartToolboxOrg|https://plugins.jetbrains.com/plugin/30378-ai-review|91|GitHub PR-style code reviews in-IDE powered by Claude Code CLI|jetbrains-marketplace
+Lean AI|lean-ai|https://plugins.jetbrains.com/plugin/31110-lean-ai|88|Agentic coding assistant with local LLM via Ollama|jetbrains-marketplace
+WingCode|WingCode|https://plugins.jetbrains.com/plugin/29374-wingcode|76|AI coding assistant with intelligent completion|jetbrains-marketplace
+Opencode / Claude TUI integration|forstjiri|https://plugins.jetbrains.com/plugin/32957-opencode--claude-tui-integration|75|Runs TUI AI coding agents inside IntelliJ|jetbrains-marketplace
+Claude/Codex Sub Autocomplete|Kristjan Koemets|https://plugins.jetbrains.com/plugin/33230-claude-codex-sub-autocomplete|74|Native IntelliJ autocomplete using Claude Code or Codex subscriptions|jetbrains-marketplace
+igni|Ignite Ember|https://plugins.jetbrains.com/plugin/32377-igni|74|AI coding assistant running parallel multi-agent workflows|jetbrains-marketplace
+Whailion AI|Whailion|https://plugins.jetbrains.com/plugin/30085-whailion-ai|72|AI-assisted development with specialized AI agents|jetbrains-marketplace
+Tell Me|EaseStack|https://plugins.jetbrains.com/plugin/30101-tell-me|62|Local AI assistant via Ollama LLMs|jetbrains-marketplace
+LiyaAI Coding Agent|LiyaLabs|https://plugins.jetbrains.com/plugin/30623-liyaai-coding-agent|62|Chat agent that can read, write, and edit project files|jetbrains-marketplace
+Converse|2 Small Cats LLC|https://plugins.jetbrains.com/plugin/31796-converse|61|Multiple AI agent sessions side-by-side|jetbrains-marketplace
+PromptMate|Rising Mind Systems|https://plugins.jetbrains.com/plugin/30891-promptmate|60|AI-powered coding assistant|jetbrains-marketplace
+AICR|aicr|https://plugins.jetbrains.com/plugin/32905-aicr|59|Automated AI code review system with knowledge base|jetbrains-marketplace
+Pervaziv AI Cortex|Pervaziv AI|https://plugins.jetbrains.com/plugin/29664-pervaziv-ai-cortex|58|AI coding and security agent|jetbrains-marketplace
+Azure DevOps AI Reviewer|thegeeky|https://plugins.jetbrains.com/plugin/32239-azure-devops-ai-reviewer|55|AI code review for Azure DevOps PRs in Rider|jetbrains-marketplace
+MCode|MCode|https://plugins.jetbrains.com/plugin/33371-mcode|55|AI Agent plugin for Android Studio/IntelliJ|jetbrains-marketplace
+Lattice Agent AI|moorror|https://plugins.jetbrains.com/plugin/32759-lattice-agent-ai|52|AI coding agent built on ProxyAI|jetbrains-marketplace
+Claude Subscription ACP Agent|Vanssa|https://plugins.jetbrains.com/plugin/33150-claude-subscription-acp-agent|46|Adds a Claude Subscription agent to JetBrains AI chat|jetbrains-marketplace
+OpenCode Bridge|Burning|https://plugins.jetbrains.com/plugin/32960-opencode-bridge|38|Connects JetBrains IDEs to OpenCode|jetbrains-marketplace
+Celebrimbot|GiacomoSaccaggi|https://plugins.jetbrains.com/plugin/32055-celebrimbot|37|Full multi-agent AI system that reads, writes, executes|jetbrains-marketplace
+Copilot Agent|JetBrains s.r.o.|https://plugins.jetbrains.com/plugin/32938-copilot-agent|35|JetBrains integration providing GitHub Copilot agent functionality|jetbrains-marketplace
+Voder|Guoshujiang|https://plugins.jetbrains.com/plugin/30760-voder|34|AI coding assistant with multi-model chat and team agent workflows|jetbrains-marketplace
+Raplify|Raplify|https://plugins.jetbrains.com/plugin/33194-raplify|33|GUI for AI coding agents with four tool windows|jetbrains-marketplace
+HarmonyOS Dev Assistant|agc-connect|https://plugins.jetbrains.com/plugin/32572-harmonyos-dev-assistant|30|AI coding assistant for HarmonyOS developers|jetbrains-marketplace
+Wave Code Chat|Wave 代码智聊|https://plugins.jetbrains.com/plugin/33466-wave-code-chat|29|Enterprise-grade AI coding assistant (Chinese)|jetbrains-marketplace
+DeepSeek Harness WebUI|0139|https://plugins.jetbrains.com/plugin/33556-deepseek-harness-webui|29|Docks the DeepSeek Harness agent web UI into an IDE tool window|jetbrains-marketplace
+Diffzu|Diffzu|https://plugins.jetbrains.com/plugin/32964-diffzu|27|Reviews large AI-generated diffs by grouping into change-sets|jetbrains-marketplace
+Opus Swarm Live|EpochCore|https://plugins.jetbrains.com/plugin/30408-opus-swarm-live|23|52-agent multi-model AI swarm orchestration plugin|jetbrains-marketplace
+Local Keep AI|Local Keep AI|https://plugins.jetbrains.com/plugin/33470-local-keep-ai|22|Local-first AI coding assistant with local models|jetbrains-marketplace
+betool - AI Code Assistant|beTool IA|https://plugins.jetbrains.com/plugin/31225-betool--ai-code-assistant|21|Bridges AI coding assistants with the IDE via a local server|jetbrains-marketplace
+Karate Dojo|Felipe Farias|https://plugins.jetbrains.com/plugin/33029-karate-dojo|21|AI companion for Karate Framework test generation|jetbrains-marketplace
+AI Code Reviews|lyreruin|https://plugins.jetbrains.com/plugin/31312-ai-code-reviews|17|Reviews selected commit changes pre-commit|jetbrains-marketplace
+xpreiIDE|BABBROS LLP|https://plugins.jetbrains.com/plugin/33142-xpreiide|17|BYO-model AI coding assistant with agentic multi-file coder|jetbrains-marketplace
+Llmrix Devtool|llmrix|https://plugins.jetbrains.com/plugin/31463-llmrix-devtool|15|Integrates the Llmrix multi-agent AI platform into JetBrains|jetbrains-marketplace
+AI Wrench Agent|JetBrains s.r.o.|https://plugins.jetbrains.com/plugin/28185-ai-wrench-agent|13|JetBrains integration providing AI Wrench agent functionality|jetbrains-marketplace
+AlignAI|AlignAI|https://plugins.jetbrains.com/plugin/31709-alignai|11|AI code review driven by rules from CLAUDE.md/AGENTS.md|jetbrains-marketplace
+CurdoAI|CurdoAI|https://plugins.jetbrains.com/plugin/33311-curdoai|9|AI coding assistant (蝌蚪AI, Chinese)|jetbrains-marketplace
+Just Bruce AI|Just Bruce AI|https://plugins.jetbrains.com/plugin/33525-just-bruce-ai|7|AI-powered coding assistant built into JetBrains IDEs|jetbrains-marketplace
+Swades Agent|xerv|https://plugins.jetbrains.com/plugin/33117-swades-agent|6|Autonomous AI software engineering agent ReAct loop in IntelliJ terminal|jetbrains-marketplace
+Gemini Code Assist|Google|https://plugins.jetbrains.com/plugin/24198-gemini-code-assist|2016433|Google's AI coding assistant for JetBrains|jetbrains-marketplace
+Amazon Q|Amazon Web Services|https://plugins.jetbrains.com/plugin/24267-amazon-q|12504299|AWS generative AI assistant with agentic capabilities|jetbrains-marketplace
+Windsurf Plugin for Python, JS, Java, Go...|Windsurf|https://plugins.jetbrains.com/plugin/20540-windsurf-plugin-for-python-js-java-go--|9955241|Windsurf (formerly Codeium) AI code acceleration toolkit|jetbrains-marketplace
+Cline|Cline Bot Inc|https://plugins.jetbrains.com/plugin/28247-cline|682422|AI assistant/agent that autonomously handles coding tasks|jetbrains-marketplace
+aiXcoder Code Completer|aiXcoder|https://plugins.jetbrains.com/plugin/13574-aixcoder-code-completer|602640|Chinese AI development assistant with whole-line completion|jetbrains-marketplace
+Qodo|Qodo|https://plugins.jetbrains.com/plugin/21206-qodo|644519|Qodo (formerly CodiumAI) local AI code review|jetbrains-marketplace
+Bito AI Code Reviews|Bito|https://plugins.jetbrains.com/plugin/18289-bito-ai-code-reviews|865238|AI code reviews in IDE and Git|jetbrains-marketplace
+Pieces|Mesh Intelligent Technologies, Inc|https://plugins.jetbrains.com/plugin/17328-pieces|61772|Developer productivity tool with AI copilot|jetbrains-marketplace
+iFlyCode|iflycode|https://plugins.jetbrains.com/plugin/22683-iflycode|57409|iFlytek intelligent programming assistant based on Spark|jetbrains-marketplace
+Claude Codex AiGo123 - ChatGPT DeepSeek Kimi K3 Opus Qwen GLM UI|vrisego|https://plugins.jetbrains.com/plugin/20750-claude-codex-aigo123--chatgpt-deepseek-kimi-k3-opus-qwen-glm-ui|622102|AiGo123 runs VSCode-based coding agents in JetBrains IDEs|jetbrains-marketplace
+Intellego Grok AI Assistant|Diligite Iustitiam LLC|https://plugins.jetbrains.com/plugin/29268-intellego-grok-ai-assistant|4537|Native Grok for JetBrains with agentic mode via Grok Build CLI|jetbrains-marketplace
+JetBrains AI Assistant|JetBrains s.r.o.|https://plugins.jetbrains.com/plugin/22282-jetbrains-ai-assistant|201119524|Deeply integrated AI features and coding agents in JetBrains IDEs|jetbrains-marketplace
+ECA|ECA|https://plugins.jetbrains.com/plugin/28289-eca|3253|Free open-source IntelliJ plugin for AI pair programming|jetbrains-marketplace
+Worklink Copilot|yealinkai|https://plugins.jetbrains.com/plugin/24680-worklink-copilot|4992|Yealink modular AI software development system|jetbrains-marketplace
+UnitTestBot|UnitTest Bot|https://plugins.jetbrains.com/plugin/19445-unittestbot|11815|Automated unit test generation with ready-to-use test cases|jetbrains-marketplace
+Tencent Cloud CodeBuddy|Tencent Cloud|https://plugins.jetbrains.com/plugin/24379-tencent-cloud-codebuddy|499287|Tencent Cloud AI developer productivity tool with agent capabilities|jetbrains-marketplace
+Codebuddy|Codebuddy AI Inc.|https://plugins.jetbrains.com/plugin/22666-codebuddy|27078|Multi-file AI coding natively in JetBrains|jetbrains-marketplace
+YOLO: AI Agents Extender|CnSharp Studio|https://plugins.jetbrains.com/plugin/33442-yolo-ai-agents-extender|18|Standalone AI Agents panel launching AI CLIs|jetbrains-marketplace

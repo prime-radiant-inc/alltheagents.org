@@ -1,0 +1,208 @@
+GitHub Copilot Chat|GitHub|https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat|77710485|AI chat features powered by Copilot|vscode-marketplace
+GitHub Copilot|GitHub|https://marketplace.visualstudio.com/items?itemName=GitHub.copilot|74410948|Your AI pair programmer|vscode-marketplace
+IntelliCode|Microsoft|https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode|62222124|AI-assisted development|vscode-marketplace
+Claude Code for VS Code|Anthropic|https://open-vsx.org/extension/Anthropic/claude-code|41497002|Claude Code for VS Code: Harness the power of Claude Code without leaving your IDE|open-vsx
+Codex – OpenAI's coding agent|OpenAI|https://marketplace.visualstudio.com/items?itemName=openai.chatgpt|13305929|Codex is a coding agent that works with you everywhere you code — included in ChatGPT Plus, Pro, Business, Edu, and Enterprise plans|vscode-marketplace
+Cline|saoudrizwan|https://open-vsx.org/extension/saoudrizwan/claude-dev|6023458|Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser|open-vsx
+IntelliPHP - AI Suggestions for PHP|DEVSENSE|https://marketplace.visualstudio.com/items?itemName=DEVSENSE.intelli-php-vscode|5862779|Offline AI-assisted development for PHP|vscode-marketplace
+BLACKBOXAI #1 AI Coding Agent and Coding Copilot|BLACKBOXAI|https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox|5350400|AI coding assistant with real-time code completion, documentation, and debugging suggestions|vscode-marketplace
+Gemini Code Assist|Google|https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist|5075725|AI-assisted development powered by Gemini|vscode-marketplace
+IntelliCode for C# Dev Kit|Microsoft|https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp|4305860|AI-assisted development for C# Dev Kit|vscode-marketplace
+Windsurf Plugin (formerly Codeium)|Windsurf|https://marketplace.visualstudio.com/items?itemName=Codeium.codeium|3975300|Free AI code acceleration plugin: autocomplete and chat for many languages|vscode-marketplace
+Continue - open-source AI code agent|Continue|https://marketplace.visualstudio.com/items?itemName=Continue.continue|3958106|The leading open-source AI code agent|vscode-marketplace
+Kilo Code: AI Coding Agent, Copilot, and Autocomplete|kilocode|https://open-vsx.org/extension/kilocode/kilo-code|3485700|Open Source AI coding agent that generates code from natural language, automates tasks, and runs terminal commands|open-vsx
+Blackbox Agent - Coding Copilot|BLACKBOXAI|https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackboxagent|2925810|Autonomous coding agent in your IDE: creates/edits files, runs commands, uses the browser|vscode-marketplace
+Qoder CN (Formerly Lingma) - Alibaba Cloud AI Agentic Coding Platform|Alibaba-Cloud|https://marketplace.visualstudio.com/items?itemName=Alibaba-Cloud.tongyi-lingma|2667638|Alibaba Cloud agentic coding platform - Type Less, Code More|vscode-marketplace
+CodeGPT: Chat & AI Agents|Code GPT|https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt|2480196|Chat and AI agents with Claude, GPT, Gemini, DeepSeek, or your own keys and local models|vscode-marketplace
+Amazon Q|amazonwebservices|https://open-vsx.org/extension/amazonwebservices/amazon-q-vscode|1963599|Generative AI-powered assistant for software development|open-vsx
+Roo Code|Roo Code|https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline|1941090|A whole dev team of AI agents in your editor|vscode-marketplace
+TraeCode: Coding Assistant|MarsCode|https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension|1907486|ByteDance Trae/MarsCode AI coding assistant|vscode-marketplace
+GitHub Copilot modernization|Microsoft|https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure|1590820|Copilot-driven agent that upgrades and migrates applications to Azure|vscode-marketplace
+Gemini CLI Companion|Google|https://open-vsx.org/extension/Google/gemini-cli-vscode-ide-companion|1554142|Enable Gemini CLI agent with direct access to your IDE workspace|open-vsx
+Mintlify Doc Writer|Mintlify|https://marketplace.visualstudio.com/items?itemName=mintlify.document|1383223|AI powered documentation writer for all major languages|vscode-marketplace
+CodeGeeX: AI Coding Assistant|Zhipu AI|https://marketplace.visualstudio.com/items?itemName=aminer.codegeex|1336074|Multilingual LLM-based code suggestion/generation assistant by Zhipu AI|vscode-marketplace
+Sourcery|sourcery|https://marketplace.visualstudio.com/items?itemName=sourcery.sourcery|1244263|Instant AI code reviews and refactoring in your IDE|vscode-marketplace
+Keploy: AI Testing Assistant|Keploy|https://marketplace.visualstudio.com/items?itemName=Keploy.keployio|1186244|AI unit, integration, and API test generation for Python, JS/TS, Java, PHP, Go|vscode-marketplace
+ChatGPT - Genie AI|Genie AI|https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode|1075848|AI pair programmer with conversation persistence, GPT-4o support, code edits|vscode-marketplace
+GitHub Copilot modernization - upgrade for Java|Microsoft|https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-upgrade|991617|Agentic Java project upgrades with GitHub Copilot|vscode-marketplace
+Bito AI Code Reviews|Bito|https://marketplace.visualstudio.com/items?itemName=Bito.Bito|948073|Agentic, codebase-aware AI code reviews in the IDE without creating a PR|vscode-marketplace
+Kade: AI Coding Agent|kade|https://open-vsx.org/extension/kade/kade|919943|Cline/RooCode/Kilo fork for AI-assisted coding, planning, and development|open-vsx
+Qodo: AI Code Review|Qodo (formerly Codium)|https://marketplace.visualstudio.com/items?itemName=Codium.codium|897241|AI code review platform that catches bugs early and reduces review noise|vscode-marketplace
+Agentforce Vibes|Salesforce|https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-einstein-gpt|887091|Generative AI development for the Salesforce Platform|vscode-marketplace
+Cody: AI Code Assistant|Sourcegraph|https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai|878401|Sourcegraph's AI code assistant with enterprise codebase context|vscode-marketplace
+Fitten Code|Fitten Tech|https://marketplace.visualstudio.com/items?itemName=FittenTech.Fitten-Code|793316|Fast AI-powered automatic code generation and completion for multiple languages|vscode-marketplace
+Augment: Coding Agent Built for Large, Complex Codebases|Augment Computing|https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment|774084|AI coding platform for large codebases powered by a context engine|vscode-marketplace
+Atlassian: Jira, Rovo Dev, Bitbucket|atlassian|https://open-vsx.org/extension/atlassian/atlascode|741258|Atlassian Rovo Dev coding agent plus Jira/Bitbucket integration in VS Code|open-vsx
+Qwen Code Companion|qwenlm|https://open-vsx.org/extension/qwenlm/qwen-code-vscode-ide-companion|698877|Enable Qwen Code agent with direct access to your VS Code workspace|open-vsx
+Tencent Cloud CodeBuddy|Tencent Cloud|https://marketplace.visualstudio.com/items?itemName=Tencent-Cloud.coding-copilot|595803|Tencent Cloud AI pair programmer|vscode-marketplace
+ChatGPT [deprecated]|Ali Gençay|https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt|556875|Unofficial VS Code ChatGPT integration with code generation/editing|vscode-marketplace
+CodeRabbit|coderabbit|https://open-vsx.org/extension/coderabbit/coderabbit-vscode|555546|Free AI code reviews that run directly in VS Code, per commit before PR|open-vsx
+ChatGPT - EasyCode|EasyCode AI|https://marketplace.visualstudio.com/items?itemName=EasyCodeAI.chatgpt-gpt4-gpt3-vscode|517224|ChatGPT with codebase understanding and web browsing|vscode-marketplace
+Kombai - Your AI design engineer|kombai|https://open-vsx.org/extension/kombai/kombai|505144|AI design engineer generating production frontend code from designs|open-vsx
+Chat for Claude Code|Andre Pimenta|https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat|468974|Claude Code chat interface for VS Code|vscode-marketplace
+CursorCode (Cursor for VSCode)|Meteor|https://marketplace.visualstudio.com/items?itemName=meteorstudio.cursorcode|463364|Free AI coder with GPT, Cursor-style|vscode-marketplace
+Sixth AI Coding Assistant|Sixth|https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai|460740|Lightweight AI coding platform with agent, copilot, debugger, code generation across many models|vscode-marketplace
+Code Web Chat|robertpiosik|https://open-vsx.org/extension/robertpiosik/gemini-coder|410960|AI coding with static context (CWC)|open-vsx
+Supermaven|Supermaven|https://marketplace.visualstudio.com/items?itemName=supermaven.supermaven|406163|Fast AI code completion copilot|vscode-marketplace
+GitHub Copilot modernization for .NET|Microsoft|https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-modernize|400415|Copilot agent for modernizing .NET applications|vscode-marketplace
+文心快码 Baidu Comate|Baidu Comate|https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate|393133|Baidu AI coding assistant with autocomplete and chat for Java, Go, JS, Python|vscode-marketplace
+ChatGPT Copilot|Pengfei Ni|https://marketplace.visualstudio.com/items?itemName=feiskyer.chatgpt-copilot|329559|VS Code ChatGPT copilot extension with code generation|vscode-marketplace
+SASVA - Generative and Deterministic AI Platform|Persistent|https://marketplace.visualstudio.com/items?itemName=Persistent.sasva|303329|Persistent Systems generative AI software engineering platform|vscode-marketplace
+Traycer|Traycer|https://open-vsx.org/extension/Traycer/traycer-vscode|265958|AI coding assistant that plans, implements, and reviews every change|open-vsx
+Codaro|Codaro|https://open-vsx.org/extension/Codaro/Codaro|262709|Agentic code review catching security leaks, logic errors, and AI hallucinations locally|open-vsx
+DeepSeek R1|colourafredi|https://marketplace.visualstudio.com/items?itemName=colourafredi.vscode-deepseek|257012|Write, review, explain, refactor, and test code with DeepSeek models|vscode-marketplace
+Claude Code Assistant for VSCode|CodeFlow Studio|https://marketplace.visualstudio.com/items?itemName=codeflow-studio.claude-code-extension|219020|Unofficial integration of Anthropic's Claude Code into VSCode|vscode-marketplace
+WAVE AI Code Review & Analysis|Developer Productivity|https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension|209077|AI-powered code review and analysis inside VS Code|vscode-marketplace
+OpenChamber|FedaykinDev|https://open-vsx.org/extension/FedaykinDev/openchamber|204632|AI coding assistant powered by OpenCode|open-vsx
+Text2Code|QX Lab AI|https://marketplace.visualstudio.com/items?itemName=QxLabAI.text2code|160026|Generative AI code generation from text|vscode-marketplace
+Zencoder: AI Coding Agent|Zencoder|https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder|155968|Embedded AI coding agents for Python, JS/TS, Java, Go and more|vscode-marketplace
+Volar|VolarTools|https://marketplace.visualstudio.com/items?itemName=VolarTools.volar-ai|147752|Plan, Review & Build with AI|vscode-marketplace
+DeepSeek Code Generator|Peter' Studio|https://marketplace.visualstudio.com/items?itemName=DavidDai.deepseek-code-generator|143828|Generate code using DeepSeek AI|vscode-marketplace
+Pieces for VS Code|Mesh Intelligent Technologies|https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode|142339|On-device storage agent and AI coding assistant across the toolchain|vscode-marketplace
+Azad Coder (GPT 5 & Claude)|kodu-ai|https://marketplace.visualstudio.com/items?itemName=kodu-ai.claude-dev-experimental|138901|AI pair programmer powered by Claude and GPT-5 (Cline fork)|vscode-marketplace
+twinny - AI Code Completion and Chat|rjmacarthy|https://open-vsx.org/extension/rjmacarthy/twinny|128863|Locally hosted AI code completion and chat plugin|open-vsx
+CodeAgent — Remote AI Supervision|CodeAgentMobile|https://open-vsx.org/extension/CodeAgentMobile/codeagent-mobile|122043|Supervise, approve, and redirect Claude Code, Copilot, Cursor and other coding agents|open-vsx
+Metabob: Debug and Refactor with AI|Metabob|https://marketplace.visualstudio.com/items?itemName=Metabob.metabob|112512|Generative AI to automate debugging and refactoring Python code|vscode-marketplace
+Amp (Research Preview)|Sourcegraph|https://marketplace.visualstudio.com/items?itemName=sourcegraph.amp|108457|The frontier coding agent|vscode-marketplace
+Kodezi AI|Kodezi|https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi|105361|AI autocorrect and dev-tool platform for programming productivity|vscode-marketplace
+OpenCode GUI|Tanishq Kancharla|https://marketplace.visualstudio.com/items?itemName=TanishqKancharla.opencode-vscode|102383|OpenCode AI coding agent GUI extension for VSCode|vscode-marketplace
+Ollama Autocoder|10nates|https://marketplace.visualstudio.com/items?itemName=10nates.ollama-autocoder|102001|Ollama-based local AI autocompletion engine|vscode-marketplace
+Damocles|Aizenvolt|https://open-vsx.org/extension/Aizenvolt/damocles|101233|Embedded AI coding agent (Claude, GPT and other models) powered by the Pi agent runtime|open-vsx
+ChatGPT - Unfold AI|Unfold AI|https://marketplace.visualstudio.com/items?itemName=TalDennis-UnfoldAI-ChatGPT-Copilot.unfoldai|100133|Catch agent failures and review what Cursor, Copilot, Claude Code, and Codex changed before commit|vscode-marketplace
+Zoo Code|ZooCodeOrganization|https://open-vsx.org/extension/ZooCodeOrganization/zoo-code|94345|A whole dev team of AI agents in your editor (Roo fork)|open-vsx
+GitHub Copilot Workspace|GitHub|https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-workspace|88360|Continue Copilot Workspace agent sessions, edit and debug proposed changes in VS Code|vscode-marketplace
+CodeMate AI - Full Stack Coding Agent|CodeMate AI|https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate|83817|On-device AI coding agent automating the software development flow|vscode-marketplace
+Tabby|TabbyML|https://marketplace.visualstudio.com/items?itemName=TabbyML.vscode-tabby|83149|Self-hosted AI coding assistant with multi-line code and function suggestions|vscode-marketplace
+Llama Coder|Steve Korshakov|https://marketplace.visualstudio.com/items?itemName=ex3ndr.llama-coder|82449|Self-hosted GitHub Copilot replacement using local Llama models|vscode-marketplace
+GitHub Copilot upgrade|Microsoft|https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.upgrade-agent|81580|Copilot agent driving framework upgrades and dependency migrations|vscode-marketplace
+Builder|Builder.io|https://marketplace.visualstudio.com/items?itemName=Builder.Builder|81565|Visual AI code editor|vscode-marketplace
+llm-vscode|Hugging Face|https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode|75004|LLM powered development with Hugging Face models|vscode-marketplace
+AppMap|AppMap|https://marketplace.visualstudio.com/items?itemName=appland.appmap|71709|AI chat (Navie) with runtime understanding of your code for building solutions|vscode-marketplace
+Abacus AI Agent|abacusai|https://open-vsx.org/extension/abacusai/abacusai-agent|69579|AI-powered coding assistant/agent for VS Code|open-vsx
+AI QuickFix|Double Technologies|https://marketplace.visualstudio.com/items?itemName=HaselerDev.aiquickfix|68510|One-click ChatGPT/GPT-4 lightbulb fixes for linter and editor problems|vscode-marketplace
+Codebuddy|Codebuddy AI Inc.|https://marketplace.visualstudio.com/items?itemName=CodebuddyAI.codebuddy-ai|68036|Codebuddy AI coding assistant|vscode-marketplace
+Bandit Stealth|BurtsonLabs|https://open-vsx.org/extension/BurtsonLabs/bandit-stealth|66848|Local-first coding agent running Ollama models with tool use, diff approvals, and voice|open-vsx
+GPT Pilot (Beta)|Pythagora Technologies|https://marketplace.visualstudio.com/items?itemName=PythagoraTechnologies.gpt-pilot-vs-code|66625|Autonomous AI developer that builds apps end to end|vscode-marketplace
+VSCode Ollama|warm3snow|https://marketplace.visualstudio.com/items?itemName=warm3snow.vscode-ollama|65402|Integrates Ollama local LLM capabilities into development workflow|vscode-marketplace
+ABAP remote filesystem|Marcello Urbani|https://marketplace.visualstudio.com/items?itemName=murbani.vscode-abap-remote-fs|64028|VS Code-based agentic AI platform for SAP ABAP development|vscode-marketplace
+Double|Double Technologies|https://marketplace.visualstudio.com/items?itemName=doublebot.doublebot|61759|AI coding assistant: chat, delegated edits, autocomplete with DeepSeek R1, o1, Sonnet|vscode-marketplace
+Refact – Open-Source AI Agent|smallcloud|https://marketplace.visualstudio.com/items?itemName=smallcloud.codify|60557|Open-source AI agent that autonomously handles engineering tasks end-to-end|vscode-marketplace
+Frontier: Figma to React|AnimaApp|https://marketplace.visualstudio.com/items?itemName=AnimaApp.vscode-anima|60175|AI frontend assistant converting Figma to React using your design system|vscode-marketplace
+ContextCode by ContextStream|contextstream|https://open-vsx.org/extension/contextstream/contextcode|58937|Context-native coding agent with memory, model routing, and reviewable output|open-vsx
+Multi – Frontier AI Coding Agent|multi|https://open-vsx.org/extension/multi/multi|42229|Frontier AI coding agent for builders who ship|open-vsx
+Github Copilot Code Reviewer|Jakub Kozera|https://marketplace.visualstudio.com/items?itemName=JakubKozera.github-copilot-code-reviewer|53752|Review git source changes using GitHub Copilot|vscode-marketplace
+Ralph Loop for Antigravity|abhishekbhakat|https://open-vsx.org/extension/abhishekbhakat/ralph-loop-for-antigravity|51404|Brings the Ralph Loop autonomous AI agent methodology to Antigravity|open-vsx
+CodeArts Agent|Huawei Cloud|https://marketplace.visualstudio.com/items?itemName=HuaweiCloud.vscode-codebot|50964|Huawei Cloud AI coding agent|vscode-marketplace
+watsonx Code Assistant|IBM|https://marketplace.visualstudio.com/items?itemName=IBM.wca-core|49058|IBM generative AI code assistant in your editor|vscode-marketplace
+Ponicode|Ponicode|https://marketplace.visualstudio.com/items?itemName=ponicode.ponicode|48068|AI-powered JavaScript unit test generation|vscode-marketplace
+AI Smart Coder|Ainity|https://marketplace.visualstudio.com/items?itemName=Ainity.SmartAICoder|47428|AI-generated unit tests, code review, documentation, and error fixes with ChatGPT|vscode-marketplace
+StackSpot AI|Stackspot AI|https://marketplace.visualstudio.com/items?itemName=StackspotAI.StackSpotAI|45404|AI tool with code generation and chat capabilities|vscode-marketplace
+Alva - AI Assistant, Chat & Code Lab|Alva AI|https://marketplace.visualstudio.com/items?itemName=AlvaAI.Alva|44026|Autocorrect, secure, test, and improve code with AI|vscode-marketplace
+MPLAB AI Coding Assistant|Microchip Technology|https://marketplace.visualstudio.com/items?itemName=Microchip.mplab-ai-coding-assistant|43507|AI code assistant optimized for Microchip embedded products|vscode-marketplace
+Claude Code YOLO|Claude Code YOLO|https://marketplace.visualstudio.com/items?itemName=yuanzhixiang.claude-code-yolo|42792|Claude Code variant with permission bypass and custom API configuration|vscode-marketplace
+Aide|nicepkg|https://marketplace.visualstudio.com/items?itemName=nicepkg.aide-pro|41538|One-click comments, conversions, UI-to-code, and AI batch processing of files|vscode-marketplace
+llama-vscode|ggml.ai|https://marketplace.visualstudio.com/items?itemName=ggml-org.llama-vscode|41188|Local LLM-assisted code completion using llama.cpp|vscode-marketplace
+Monica Code|Monica Team|https://marketplace.visualstudio.com/items?itemName=MonicaIM.monica-code|40589|The Monica AI code assistant|vscode-marketplace
+Rubberduck - ChatGPT for Visual Studio Code|Rubberduck AI|https://marketplace.visualstudio.com/items?itemName=Rubberduck.rubberduck-vscode|40266|Generate code, edit code, generate tests, find bugs, diagnose errors with ChatGPT|vscode-marketplace
+GoCodeo|GoCodeo|https://marketplace.visualstudio.com/items?itemName=GoCodeo.gocodeo|40226|AI agent for building and shipping full-stack apps with Vercel/Supabase integration|vscode-marketplace
+Koda|Koda|https://marketplace.visualstudio.com/items?itemName=Koda.koda|39030|Russian AI service for developers (AI coding assistant)|vscode-marketplace
+Droid - Factory's AI Coding Agent|Factory|https://marketplace.visualstudio.com/items?itemName=Factory.factory-vscode-extension|38077|Factory Droid enterprise coding agents in your IDE|vscode-marketplace
+Test Companion|browserstackcom|https://open-vsx.org/extension/browserstackcom/test-companion|38047|BrowserStack AI-powered testing inside your IDE|open-vsx
+Verdent for VS Code|verdentai|https://open-vsx.org/extension/verdentai/verdent|37402|All-in-one coding agent orchestrating top-tier AI models; high SWE-bench Verified score|open-vsx
+Cursor AI|Ibrahim Abduallah|https://marketplace.visualstudio.com/items?itemName=vbrocket.cursor-ai|36774|VS Code extension with Cursor-like AI functionality|vscode-marketplace
+Zhanlu - AI Coding Assistant|湛卢|https://marketplace.visualstudio.com/items?itemName=ecloud.zhanlu|36032|Chinese AI coding partner with automatic code generation|vscode-marketplace
+Safurai - AI Assistant|Safurai|https://marketplace.visualstudio.com/items?itemName=Safurai.Safurai|35222|AI assistant plugin for searching, changing, and improving code|vscode-marketplace
+CatPaw|mt-idekit|https://open-vsx.org/extension/mt-idekit/mt-idekit-code|34455|Meituan internal AI code completion tool|open-vsx
+AI Commit|Sitoi|https://marketplace.visualstudio.com/items?itemName=Sitoi.ai-commit|34210|OpenAI/Gemini/Claude-based git change review and conventional commit generation|vscode-marketplace
+Mistral Code Enterprise|Mistral AI|https://marketplace.visualstudio.com/items?itemName=mistralai.mistral-code|33758|AI coding copilot powered by Mistral coding models|vscode-marketplace
+Purecode AI|Purecode AI|https://marketplace.visualstudio.com/items?itemName=PurecodeAI.purecode-ai|33622|Secure AI coding agent for enterprises and legacy codebase modernization|vscode-marketplace
+Antigravity for VS Code|lyadhgod|https://marketplace.visualstudio.com/items?itemName=lyadhgod.antigravity-vscode|33603|Brings Google's Antigravity CLI agentic coding companion into VS Code|vscode-marketplace
+OpenCode Panel|haoyangzeng|https://open-vsx.org/extension/haoyangzeng/opencui|33069|OpenCode-powered AI assistant with a React chat UI|open-vsx
+WiseGPT (Coding Assistant by DhiWise)|DhiWise|https://marketplace.visualstudio.com/items?itemName=dhiwisepvtltd.dhiwisecodesync|32570|Analyzes your codebase to produce personalized production-ready code|vscode-marketplace
+JoyCode (JD Coding Assistant)|JoyCode|https://marketplace.visualstudio.com/items?itemName=JoyCoder.joycoder-fe|31628|JD.com internal AI coding assistant|vscode-marketplace
+Monk|monk|https://open-vsx.org/extension/monk/vscode-monk|30963|Autonomous DevOps agent working inside the IDE|open-vsx
+Pythagora|Pythagora Technologies|https://marketplace.visualstudio.com/items?itemName=PythagoraTechnologies.pythagora-vs-code|30811|All-in-one AI development platform|vscode-marketplace
+Captain Stack|Captain Stack|https://marketplace.visualstudio.com/items?itemName=captainstack.captain-stack|30788|Code suggestions from AI and StackOverflow/Gist|vscode-marketplace
+ECA (Editor Code Assistant)|editor-code-assistant|https://open-vsx.org/extension/editor-code-assistant/eca|30536|Editor Code Assistant agent integration for VS Code|open-vsx
+Mutable.ai|mutable-ai|https://marketplace.visualstudio.com/items?itemName=mutable-ai.mutable-ai|30269|AI accelerated programming, Copilot alternative with autocomplete and more|vscode-marketplace
+AI Assistant by JetBrains|JetBrains|https://marketplace.visualstudio.com/items?itemName=JetBrains.jetbrains-ai-assistant|29257|JetBrains AI coding agent, chat, and code completion for VS Code|vscode-marketplace
+Preqorsor for VS Code|silimate|https://open-vsx.org/extension/silimate/preqorsor|28923|Copilot for chip designers|open-vsx
+iFlow|iFlow|https://marketplace.visualstudio.com/items?itemName=iflow-cli.iflow-cli-vscode-ide-companion|28463|iFlow CLI companion, AI code completion for all major languages|vscode-marketplace
+Mistral Vibe VS Code|Mistral AI|https://marketplace.visualstudio.com/items?itemName=mistralai.mistral-vibe-code|27047|Mistral Vibe AI coding agent working across your whole project|vscode-marketplace
+CodeGPT|CSDN|https://marketplace.visualstudio.com/items?itemName=CSDN.csdn-codegpt|26330|CSDN Chinese AI coding assistant|vscode-marketplace
+ACP Client|Jun Han|https://marketplace.visualstudio.com/items?itemName=formulahendry.acp-client|25922|Agent Client Protocol client connecting Copilot, Claude Code, Gemini CLI, Qwen Code, Codex CLI, OpenCode|vscode-marketplace
+Superflex: AI Frontend Assistant|Aquila Labs|https://marketplace.visualstudio.com/items?itemName=aquilalabs.superflex|25760|Figma to React/Vue/NextJS/Angular production code powered by GPT and Claude|vscode-marketplace
+SRD CodeFree|China Telecom Research Institute|https://marketplace.visualstudio.com/items?itemName=srdcloud.srd-copilot-vscode|25354|China Telecom AI programming assistant|vscode-marketplace
+Nova Act|amazonwebservices|https://open-vsx.org/extension/amazonwebservices/amazon-nova-act-extension|25216|Generate, debug, and run web automation scripts with natural language|open-vsx
+CodeParrot AI: Figma to Code|CodeParrot.ai|https://marketplace.visualstudio.com/items?itemName=CodeParrot-ai.codeParrot|25133|Design-to-code copilot producing production-ready UI components|vscode-marketplace
+Aone Copilot|Aone|https://marketplace.visualstudio.com/items?itemName=Aone.aone-copilot|24870|Alibaba internal AI code completion plugin|vscode-marketplace
+Qiskit Code Assistant (Beta)|qiskit|https://marketplace.visualstudio.com/items?itemName=qiskit.qiskit-vscode|23784|Generative AI assistant for writing and optimizing Qiskit quantum code|vscode-marketplace
+Orbital AI Coding Agent / AI Code Reviews|matterai|https://open-vsx.org/extension/matterai/axon-code|22796|AI coding agent for planning, building, fixing code with AI code review|open-vsx
+TestFox|TestFox|https://open-vsx.org/extension/TestFox/testfox|22683|AI-powered comprehensive testing with 18+ test categories including security|open-vsx
+Kiro for Claude Code|黑色白云|https://marketplace.visualstudio.com/items?itemName=heisebaiyun.kiro-for-cc|22609|Spec-driven development with Claude Code, inspired by Kiro|vscode-marketplace
+Hope AI|bit|https://open-vsx.org/extension/bit/hope-ai|22041|Bit's Hope AI component-driven code generation|open-vsx
+AI Code: Cline, Chat, Deepseek 中文版|甜瓜队长|https://marketplace.visualstudio.com/items?itemName=tianguaduizhang.claude-dev-china|20473|Chinese Cline fork: autonomous coding agent supporting DeepSeek models|vscode-marketplace
+EarlyAI|EarlyAI|https://marketplace.visualstudio.com/items?itemName=Early-AI.EarlyAI|19743|Auto-generates verified unit tests for JavaScript, TypeScript, Python|vscode-marketplace
+Flexpilot|Flexpilot|https://marketplace.visualstudio.com/items?itemName=flexpilot.flexpilot-vscode-extension|16761|Open-source native GitHub Copilot alternative|vscode-marketplace
+AskCodi|Assistiv AI|https://marketplace.visualstudio.com/items?itemName=AskCodi.askcodi-vscode|16717|AI coding assistant|vscode-marketplace
+DeepSweep — AI Agent Security & Code Review|deepsweep-ai|https://open-vsx.org/extension/deepsweep-ai/deepsweep|16589|Agent evidence layer: flight recorder and circuit breaker for AI coding agents|open-vsx
+Agent Maestro|Joouis|https://open-vsx.org/extension/Joouis/agent-maestro|16529|Spin up Cline or Roo on demand and plug in Claude Code or Codex|open-vsx
+CoStrict|zgsm-ai|https://marketplace.visualstudio.com/items?itemName=zgsm-ai.zgsm|15726|Strict enterprise AI coder with AI Agent, AI CodeReview, AI Completion|vscode-marketplace
+GenAIScript|Microsoft|https://marketplace.visualstudio.com/items?itemName=genaiscript.genaiscript-vscode|14869|Generative AI scripting for automating code and file transformations|vscode-marketplace
+VSCode Reborn AI|chris-hayes|https://open-vsx.org/extension/chris-hayes/chatgpt-reborn|14701|Code with AI in VSCode with your choice of model|open-vsx
+Samurai Agent|SamuraiAgent|https://open-vsx.org/extension/SamuraiAgent/samurai-agent|14242|Shows regression risk after AI code edits and reviews risky JS/TS changes|open-vsx
+Agents|swarmify|https://open-vsx.org/extension/swarmify/swarm-ext|13672|Run Claude, Codex, Antigravity, Cursor, and other coding agents from one workspace|open-vsx
+Crispy|the-sylvester|https://open-vsx.org/extension/the-sylvester/crispy|13562|GUI for Claude Code and Codex with multi-agent orchestration and adversarial verification|open-vsx
+MyFlicker|kuaishou|https://marketplace.visualstudio.com/items?itemName=kuaishou.kwaipilot|13377|Kuaishou intelligent coding tool with agent mode, code continuation, edit prediction|vscode-marketplace
+吃豆豆:单测智能体|JianGuoKe|https://open-vsx.org/extension/JianGuoKe/ai-worktool|13275|Unit-test agent that develops test cases until 100% coverage passes|open-vsx
+Nsight Copilot|NVIDIA|https://open-vsx.org/extension/NVIDIA/nsight-copilot|12499|NVIDIA's accelerated computing programming assistant|open-vsx
+Gemini CLI on VSCode|Joji Jorge Senda|https://marketplace.visualstudio.com/items?itemName=d3j.gemini-cli-on-vscode|12272|Run Gemini and Codex CLI in editor panes like Claude Code|vscode-marketplace
+DeepSource Autofix AI|DeepSource Corp|https://marketplace.visualstudio.com/items?itemName=DeepSourceCorp.deepsource-vscode|12150|Static analysis with AI-powered autofix|vscode-marketplace
+OpenClaw|shenyingjun5|https://open-vsx.org/extension/shenyingjun5/openclaw|12137|OpenClaw AI assistant: chat, @ file references, apply code changes directly|open-vsx
+Agentforce Vibes 2.0|salesforce|https://open-vsx.org/extension/salesforce/salesforcedx-agentforce-vibes-2|11762|Turn-based Salesforce agent combining Claude Agent SDK or OpenAI Agents SDK|open-vsx
+stagewise|stagewise|https://marketplace.visualstudio.com/items?itemName=stagewise.stagewise-vscode-extension|11717|Visual vibe coding right in your codebase|vscode-marketplace
+Calva Backseat Driver|betterthantomorrow|https://open-vsx.org/extension/betterthantomorrow/calva-backseat-driver|11475|Makes Copilot an interactive Clojure programmer with REPL tools|open-vsx
+Trae AI Helper|trae|https://open-vsx.org/extension/trae/ai-ide|11340|ByteDance Trae AI helper|open-vsx
+Debugg AI|debugg-ai|https://open-vsx.org/extension/debugg-ai/debugg-ai|11230|Zero-config fully AI-managed end-to-end testing|open-vsx
+ChatIDE|ChatIDE|https://marketplace.visualstudio.com/items?itemName=ChatIDE.chatide|10874|Open-source coding and debugging assistant supporting GPT and Claude|vscode-marketplace
+Privy|Privy|https://marketplace.visualstudio.com/items?itemName=privy.privy-vscode|10744|Local AI coding autocomplete, chat, test generation, bug finding|vscode-marketplace
+UnodeAi — Multi-Model AI Team|unode|https://open-vsx.org/extension/unode/unodeai|9960|Project manager delegates coding across role agents on different models with receipts|open-vsx
+ChatGPT: Docstring Generator|Oliver Olsen|https://marketplace.visualstudio.com/items?itemName=oliversen.chatgpt-docstrings|9727|Automatically generate Python docstrings using ChatGPT|vscode-marketplace
+CodeRider|JiHu-GitLab|https://marketplace.visualstudio.com/items?itemName=Jihu-GitLab.coderider-kilo|9629|GitLab China (JiHu) agentic coding extension|vscode-marketplace
+Cypress Copilot|Suresh Nettur|https://marketplace.visualstudio.com/items?itemName=SureshNettur.ccaia|9510|Automates web testing by generating Cypress and Cucumber/BDD code|vscode-marketplace
+GPT Runner - Chatgpt & Claude|nicepkg|https://marketplace.visualstudio.com/items?itemName=nicepkg.gpt-runner|9303|Conversations with files and AI preset management|vscode-marketplace
+MiMo|mimo-agent|https://marketplace.visualstudio.com/items?itemName=mimo-agent.mimo-agent|9291|AI coding agent powered by Xiaomi MiMo LLM|vscode-marketplace
+App Developer Copilot|Sinduja Ramaraj|https://marketplace.visualstudio.com/items?itemName=sindujaramaraj.app-developer-copilot|9275|App developer agent for creating web and mobile apps|vscode-marketplace
+Zode|youzan|https://open-vsx.org/extension/youzan/zode|9030|Youzan's AI code agent|open-vsx
+ChatGPT Batch|Chad Bumstead|https://marketplace.visualstudio.com/items?itemName=ChadBumstead.vscode-chatgpt-batch|8943|Multi-file batch changes such as refactoring and unit test generation via ChatGPT|vscode-marketplace
+DeepSeek Copilot|exodus-tola|https://marketplace.visualstudio.com/items?itemName=exodus-tola.deepseek-copilot|8535|AI code completion using DeepSeek, Copilot alternative|vscode-marketplace
+Perplexity Pro AI Chat|Muzzafar Rather|https://marketplace.visualstudio.com/items?itemName=MuzzafarRather.perplexity-pro-ai-chat|8472|Mimics Copilot Chat agent functionality using Perplexity Pro as backend|vscode-marketplace
+AutoClaw — Autonomous AI Agents|ZippyTechnologiesLLC|https://open-vsx.org/extension/ZippyTechnologiesLLC/autoclaw|8261|Background agents, parallel sprint orchestration, and multi-agent teams|open-vsx
+MutyAgent – AI Agent|mutyai|https://open-vsx.org/extension/mutyai/mutyagent|8258|Proactive AI agent for writing, coding, research, and data analysis|open-vsx
+A11yResolver|A11ySolutions|https://open-vsx.org/extension/A11ySolutions/a11y-resolver-vscode-chat|8110|AI-powered accessibility fixing agent|open-vsx
+IBM Bob Premium Package for Java Modernization|IBM|https://open-vsx.org/extension/IBM/bob-java|7957|Java modernization agent with guided upgrades, migration, and unit test generation|open-vsx
+PixelPilot Copilot: FiveM AI Agent|PixelPilotAILabs|https://open-vsx.org/extension/PixelPilotAILabs/PixelPilot-copilot|7936|AI agent for FiveM/GTA5 development writing production Lua and auto-fixing errors|open-vsx
+Jovyan AI|jovyan-ai|https://open-vsx.org/extension/jovyan-ai/jovyan|7842|AI copilot for data science in Jupyter notebooks using natural language|open-vsx
+Granite.Code|redhat|https://open-vsx.org/extension/redhat/granitecode|7306|Red Hat open-source coding assistant with local Granite AI models|open-vsx
+Pi Coding Agent|pi0|https://marketplace.visualstudio.com/items?itemName=pi0.pi-vscode|7295|VS Code extension for the pi coding agent|vscode-marketplace
+Gemini Unit Test Generator|Zazmic|https://marketplace.visualstudio.com/items?itemName=Zazmic.palm-api-test-generator|7290|Generate unit tests with Gemini language models|vscode-marketplace
+Syntx Agentic Workforce|OrangecatAI|https://marketplace.visualstudio.com/items?itemName=OrangecatTechPvtLtd.syntx|7246|Cursor-for-VSCode plus Cline/Roo features combined: AI peer programmer|vscode-marketplace
+HuoHuaAI|huohuaai|https://marketplace.visualstudio.com/items?itemName=huohuaai.huohuaai|7246|Chinese AI programming assistant with completion, debugging, project creation|vscode-marketplace
+LM Studio Code|Corey Gaspard|https://marketplace.visualstudio.com/items?itemName=cgaspard.lmstudio-code|7038|Agentic coding panel for local LM Studio models via the OpenCode agent|vscode-marketplace
+Jules Extension|HirokiMukai|https://marketplace.visualstudio.com/items?itemName=HirokiMukai.jules-extension|6923|Control Google Jules AI coding agent directly from VS Code|vscode-marketplace
+Elai Code (prev. Elai Cline)|elai-code-publisher|https://open-vsx.org/extension/elai-code-publisher/elai-code|6854|AI coding assistant with DeepResearch and lower API costs (Cline fork)|open-vsx
+GitHub Copilot CLI Agents|sbluemin|https://marketplace.visualstudio.com/items?itemName=sbluemin.github-copilot-cli-agents|6725|Copilot extension integrating multiple code agent CLIs|vscode-marketplace
+AllAi Code|OSF Digital|https://marketplace.visualstudio.com/items?itemName=OSFDigital.wingman|6718|AI coding assistant for Salesforce professionals|vscode-marketplace
+AI Website Builder|Zazmic|https://open-vsx.org/extension/Zazmic/ai-website-builder|6679|Image to code, prompt to code, project starter tool|open-vsx
+Devin Sessions - AI Coding Assistant|Thanks Ben|https://marketplace.visualstudio.com/items?itemName=thanksben.devin-sessions|6644|View, manage, chat with, and create Devin AI sessions in the editor|vscode-marketplace
+Haka AI Studio|HakaLabChile|https://open-vsx.org/extension/HakaLabChile/haka-ai-studio|6518|AI test automation studio for Playwright and Selenium generating Gherkin tests|open-vsx
+Vibe Kanban|bloop|https://marketplace.visualstudio.com/items?itemName=bloop.vibe-kanban|6439|Control your Vibe Kanban coding agents from within VS Code|vscode-marketplace
+CodeMate AI - Autocorrect|CodeMate|https://open-vsx.org/extension/CodeMate/CodeMate-AI|6392|AI assistant fixing errors, debugging, optimizing, and reviewing code|open-vsx
+Free Repo Agent|SUMITKUMARSINGH|https://open-vsx.org/extension/SUMITKUMARSINGH/free-repo-agent|6308|Free repo-aware autonomous coding agent (DeepSeek) that edits files and runs commands|open-vsx
+Wingman-AI|WingMan|https://marketplace.visualstudio.com/items?itemName=WingMan.wing-man|6016|AI agentic coding assistant working with Anthropic, OpenAI, Azure and Ollama|vscode-marketplace
+AutoDev Xiuper|Phodal|https://marketplace.visualstudio.com/items?itemName=Phodal.autodev|5504|AI-powered coding wizard with auto code generation across dev phases|vscode-marketplace
+watsonx Code Assistant for Enterprise Java Applications|IBM|https://marketplace.visualstudio.com/items?itemName=IBM.wca-eja|5473|Enterprise Java modernization with generative AI|vscode-marketplace
+Groqopilot|Unclecode|https://marketplace.visualstudio.com/items?itemName=Unclecode.groqopilot|5466|Llama3 + Groq fast coding assistant|vscode-marketplace
+Claude Autopilot|benbasha|https://open-vsx.org/extension/benbasha/claude-autopilot|5423|Automated Claude Code task management with queue processing and auto-resume|open-vsx
+Cosine|Cosine|https://marketplace.visualstudio.com/items?itemName=Cosine.cosine-vscode|5352|AI coding agent for VS Code powered by Cosine|vscode-marketplace
+Tunor AI|tunor-ai|https://open-vsx.org/extension/tunor-ai/tunor-ai|5224|AI automation of Playwright tests|open-vsx

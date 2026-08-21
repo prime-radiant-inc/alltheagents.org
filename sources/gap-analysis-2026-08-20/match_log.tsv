@@ -1,0 +1,127 @@
+GitHub Copilot	GitHub/Microsoft	https://github.com/features/copilot	name=GitHub Copilot
+OpenAI Codex	OpenAI	https://openai.com/codex	domain=openai.com
+Claude Code	Anthropic	https://claude.com/product/claude-code	name=Claude Code
+Gemini Code Assist	Google	https://codeassist.google	name=Gemini Code Assist
+Gemini CLI	Google	https://google-gemini.github.io/gemini-cli/	name=Gemini CLI
+Jules	Google	https://jules.google	name=Jules
+Google Antigravity	Google	https://antigravity.google	domain=antigravity.google
+Google Stitch	Google	https://stitch.withgoogle.com	domain=stitch.withgoogle.com
+Firebase Studio	Google	https://firebase.studio	name=Firebase Studio
+Kiro	Amazon/AWS	https://kiro.dev	name=Kiro
+Amazon Q Developer	Amazon/AWS	https://aws.amazon.com/q/developer/	name=Amazon Q Developer CLI
+Visual Studio / VS Code Copilot agent mode	Microsoft	https://code.visualstudio.com	domain=code.visualstudio.com
+JetBrains AI Assistant	JetBrains	https://www.jetbrains.com/ai/	domain=jetbrains.com
+Junie	JetBrains	https://www.jetbrains.com/junie/	name=Junie CLI
+GitLab Duo Agent Platform	GitLab	https://about.gitlab.com/gitlab-duo/	domain=about.gitlab.com
+Snowflake Copilot	Snowflake	https://www.snowflake.com	domain=snowflake.com
+v0	Vercel	https://v0.dev	name=v0 (Vercel)
+Warp	Warp	https://www.warp.dev	name=Warp
+Amp	Sourcegraph	https://ampcode.com	name=Amp
+Mistral Code	Mistral AI	https://mistral.ai/products/mistral-code	domain=mistral.ai
+Cursor	Anysphere	https://cursor.com	name=Cursor
+Cursor Bugbot	Anysphere	https://cursor.com/bugbot	domain=cursor.com
+Windsurf / Devin Desktop	Cognition	https://windsurf.com	name=Windsurf (Codeium)
+Devin	Cognition	https://devin.ai	name=Devin AI
+PearAI	PearAI	https://trypear.ai	name=PearAI
+Trae	ByteDance	https://www.trae.ai	name=Trae Agent
+Qoder	Alibaba	https://qoder.com	name=Qoder
+Tongyi Lingma	Alibaba	https://tongyi.aliyun.com/lingma	name=Tongyi Lingma
+CodeBuddy	Tencent	https://www.codebuddy.ai	name=codebuddy
+CodeArts Snap	Huawei	https://www.huaweicloud.com/product/codeartside/snap.html	domain=huaweicloud.com
+iFlyCode	iFlytek	https://iflycode.xfyun.cn	name=iFlyCode
+JoyCode	JD.com	https://joycode.jd.com	name=JoyCode
+NoCode	Meituan	https://nocode.cn	fuzzy(0.92)=NeoCode
+aiXcoder	aiXcoder	https://www.aixcoder.com	name=aiXcoder
+Fitten Code	Fittentech	https://code.fittentech.com	name=Fitten Code
+Manus	Butterfly Effect (Manus AI)	https://manus.im	name=Manus
+Genspark AI Developer	Genspark	https://www.genspark.ai	name=Genspark AI Developer
+Atoms	DeepWisdom (MetaGPT/MGX)	https://atoms.dev	domain=atoms.dev
+Kimi CLI	Moonshot AI	https://github.com/MoonshotAI/kimi-cli	name=Kimi CLI
+Factory	Factory AI	https://factory.ai	name=Factory
+Augment Code	Augment	https://www.augmentcode.com	name=Augment Code
+Cosine	Cosine	https://cosine.sh	domain=cosine.sh
+Engine Labs	Engine	https://enginelabs.ai	domain=enginelabs.ai
+OpenHands	All Hands AI	https://www.all-hands.dev	name=OpenHands
+Emergent	Emergent	https://emergent.sh	name=Emergent
+Sweep	Sweep AI	https://sweep.dev	name=Sweep
+Terragon	Terragon Labs	https://www.terragonlabs.com	domain=terragonlabs.com
+Conductor	Melty Labs	https://conductor.build	name=Conductor
+Exponent	Exponent	https://www.exponent.run	name=Exponent
+Codebuff	Codebuff (YC F24)	https://codebuff.com	name=Codebuff
+Hoplite	Hoplite	https://www.producthunt.com/categories/ai-coding-agents	name=Hoplite
+Cline	Cline Bot Inc	https://cline.bot	name=Cline
+Roo Code	Roo Code	https://roocode.com	domain=roocode.com
+Kilo Code	Kilo	https://kilo.ai	name=Kilo Code
+Continue	Continue Dev	https://continue.dev	name=Continue
+Tabnine	Tabnine	https://www.tabnine.com	name=Tabnine
+Blackbox AI	Blackbox	https://www.blackbox.ai	domain=blackbox.ai
+Zencoder	For Good AI	https://zencoder.ai	name=Zencoder
+Pieces	Pieces for Developers	https://pieces.app	domain=pieces.app
+Supermaven	Supermaven	https://supermaven.com	name=Supermaven
+Phind	Phind	https://www.phind.com	name=Phind
+opencode	SST/Anomaly	https://opencode.ai	name=OpenCode
+Poolside	Poolside	https://poolside.ai	name=Poolside AI
+Magic	Magic AI	https://magic.dev	name=Magic
+Qodo	Qodo (ex CodiumAI)	https://www.qodo.ai	name=Qodo
+Bolt.new	StackBlitz	https://bolt.new	name=Bolt.new
+Base44	Wix	https://base44.com	name=Base 44
+Create	Create.xyz	https://www.create.xyz	domain=create.xyz
+Databutton	Databutton	https://databutton.com	name=Databutton
+Softgen	Softgen	https://softgen.ai	name=Softgen
+Chef	Convex	https://chef.convex.dev	name=chef
+Leap	Encore	https://leap.new	domain=leap.new
+Marblism	Marblism (YC)	https://www.marblism.com	name=Marblism
+Orchids / Bud	Bud (ex-Orchids)	https://www.orchids.app	domain=orchids.app
+Figma Make	Figma	https://www.figma.com/make/	name=Figma Make
+Canva Code	Canva	https://www.canva.com	name=Canva Code
+Bubble AI	Bubble	https://bubble.io	name=Bubble
+Rork	Rork	https://rork.com	name=Rork
+a0.dev	a0.dev (YC)	https://a0.dev	name=a0.dev
+Tempo	Tempo Labs (YC)	https://www.tempo.new	name=Tempo
+Anima	Anima	https://www.animaapp.com	name=Anima
+Superflex	Superflex	https://www.superflex.ai	domain=superflex.ai
+CodeRabbit	CodeRabbit	https://www.coderabbit.ai	name=CodeRabbit
+Greptile	Greptile (YC W24)	https://www.greptile.com	name=Greptile
+Bito	Bito	https://bito.ai	name=Bito
+Sourcery	Sourcery	https://sourcery.ai	name=Sourcery
+KushoAI	Kusho (YC W24)	https://kusho.ai	domain=kusho.ai
+Autonoma	Autonoma AI	https://getautonoma.com	name=Autonoma
+Snyk Agent Fix	Snyk	https://snyk.io	domain=snyk.io
+Waii	Salesforce	https://www.waii.ai	name=Waii
+Harness AI	Harness	https://www.harness.io	fuzzy(0.92)=harnss
+Trae Agent SOLO	ByteDance	https://www.trae.ai	domain=trae.ai
+GoCodeo	GoCodeo	https://www.gocodeo.com	name=GoCodeo
+Potpie	Potpie	https://potpie.ai	name=Potpie AI
+Codex – OpenAI's coding agent	OpenAI	https://marketplace.visualstudio.com/items?itemName=openai.chatgpt	name=Codex (OpenAI)
+CodeGPT: Chat & AI Agents	Code GPT	https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt	name=CodeGPT
+ChatGPT - Genie AI	Genie AI	https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode	fuzzy(0.93)=ChartGPT
+Cody: AI Code Assistant	Sourcegraph	https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai	name=Cody (Sourcegraph)
+Traycer	Traycer	https://open-vsx.org/extension/Traycer/traycer-vscode	name=Traycer AI
+CodeAgent — Remote AI Supervision	CodeAgentMobile	https://open-vsx.org/extension/CodeAgentMobile/codeagent-mobile	name=code-agent
+OpenCode GUI	Tanishq Kancharla	https://marketplace.visualstudio.com/items?itemName=TanishqKancharla.opencode-vscode	fuzzy(0.95)=OpenCode_UI
+Damocles	Aizenvolt	https://open-vsx.org/extension/Aizenvolt/damocles	name=damocles
+GPT Pilot (Beta)	Pythagora Technologies	https://marketplace.visualstudio.com/items?itemName=PythagoraTechnologies.gpt-pilot-vs-code	name=GPT Pilot
+Droid - Factory's AI Coding Agent	Factory	https://marketplace.visualstudio.com/items?itemName=Factory.factory-vscode-extension	name=Droid
+CatPaw	mt-idekit	https://open-vsx.org/extension/mt-idekit/mt-idekit-code	name=CatPaw
+ECA (Editor Code Assistant)	editor-code-assistant	https://open-vsx.org/extension/editor-code-assistant/eca	name=eca
+Mutable.ai	mutable-ai	https://marketplace.visualstudio.com/items?itemName=mutable-ai.mutable-ai	name=mutable.ai
+AskCodi	Assistiv AI	https://marketplace.visualstudio.com/items?itemName=AskCodi.askcodi-vscode	name=AskCodi
+Agents	swarmify	https://open-vsx.org/extension/swarmify/swarm-ext	name=Agents
+stagewise	stagewise	https://marketplace.visualstudio.com/items?itemName=stagewise.stagewise-vscode-extension	name=Stagewise
+MiMo	mimo-agent	https://marketplace.visualstudio.com/items?itemName=mimo-agent.mimo-agent	name=MiMo Code
+DeepSeek Copilot	exodus-tola	https://marketplace.visualstudio.com/items?itemName=exodus-tola.deepseek-copilot	name=DeepSeek Coder
+AI Website Builder	Zazmic	https://open-vsx.org/extension/Zazmic/ai-website-builder	name=ai-website-builder
+GitLab Duo	GitLab, Inc.	https://plugins.jetbrains.com/plugin/22325-gitlab-duo	name=GitLab Duo
+OpenCode UI	LaiZhou	https://plugins.jetbrains.com/plugin/29744-opencode-ui	name=OpenCode_UI
+JoyCoder	jd.com	https://plugins.jetbrains.com/plugin/23046-joycoder	name=JoyCoder
+Claude Code Assistant	abcde.work	https://plugins.jetbrains.com/plugin/29457-claude-code-assistant	name=claude-code
+Roo Code (CE)	ABCXLAB	https://plugins.jetbrains.com/plugin/30824-roo-code-ce-	name=Roo Code CLI
+CursorJ	Brenden Vaughan	https://plugins.jetbrains.com/plugin/30583-cursorj	fuzzy(0.92)=Cursor
+Goose	Max Novich	https://plugins.jetbrains.com/plugin/25296-goose	name=Goose
+InfCode	Tokfinity	https://plugins.jetbrains.com/plugin/28896-infcode	name=InfCode
+AtomCode	AtomCode	https://plugins.jetbrains.com/plugin/32455-atomcode	name=atomcode
+Routa - Multi-Agent Development Environment	Phodal Huang	https://plugins.jetbrains.com/plugin/30128-routa--multi-agent-development-environment	name=routa
+CLAW - Sugestoes Inline com IA Automatica	Rafael Batista	https://plugins.jetbrains.com/plugin/31144-claw--sugestoes-inline-com-ia-automatica	name=Claw Code
+Grok Build	nightsum	https://plugins.jetbrains.com/plugin/33166-grok-build	name=Grok Build (xAI)
+Open Code Review	Open Code Review GUI	https://plugins.jetbrains.com/plugin/33483-open-code-review	name=OpenCodeReview
+AI Agent Assistant	Abner001	https://plugins.jetbrains.com/plugin/31985-ai-agent-assistant	fuzzy(0.93)=PaiAgent

@@ -1,0 +1,285 @@
+GitHub Copilot|GitHub/Microsoft|https://github.com/features/copilot|IDE plugin|AI pair programmer with agent mode, code review, and autonomous coding agent; 20M+ users|Big tech channel / CB Insights coding AI market share
+GitHub Copilot coding agent|GitHub/Microsoft|https://github.com/features/copilot|cloud-autonomous|Assign GitHub issues to Copilot and get back tested pull requests|Big tech channel
+GitHub Spark|GitHub/Microsoft|https://github.com/features/spark|web|Prompt-to-app builder for micro apps ("sparks") hosted on GitHub infrastructure|Big tech channel
+OpenAI Codex|OpenAI|https://openai.com/codex|cloud-autonomous|Cloud + CLI + IDE coding agent (Codex 3.0 in 2026) that builds, tests, debugs and opens PRs|producthunt.com/categories/ai-coding-agents
+Claude Code|Anthropic|https://claude.com/product/claude-code|CLI|Terminal-first agentic coder, also in IDE/web/desktop, 1M-token context|roundups channel (vellum.ai, daily.dev)
+Claude Code Review|Anthropic|https://claude.com/product/claude-code|vertical:code review|Managed multi-agent PR review service launched March 2026 for Team/Enterprise|getoptimal.ai/blog/best-ai-code-review-tools
+Gemini Code Assist|Google|https://codeassist.google|IDE plugin|Google's enterprise coding assistant for VS Code/JetBrains with agent mode|Big tech channel
+Gemini CLI|Google|https://google-gemini.github.io/gemini-cli/|CLI|Google's terminal coding agent (open-source core, commercial via Code Assist tiers)|Big tech channel
+Jules|Google|https://jules.google|cloud-autonomous|Async coding agent that fixes bugs and builds features from your repo|Big tech channel
+Google Antigravity|Google|https://antigravity.google|standalone IDE|Agent-first IDE (launched Nov 2025) that runs and monitors multiple coding agents; integrated into AI Studio 2026|blockchain.news / producthunt
+Google AI Studio Build|Google|https://aistudio.google.com|web|Full-stack vibe coding with Antigravity agent + built-in Firebase (AI Studio 2.0, 2026)|firebase.blog Google I/O 2026
+Google Stitch|Google|https://stitch.withgoogle.com|vertical:UI generation|Prompt-to-UI design and React code (built on Galileo AI acquisition)|medium.com/google-cloud full-stack vibe coding
+Google Opal|Google|https://opal.withgoogle.com|web|No-code mini-app builder that chains prompts into shareable AI apps|Big tech channel
+Firebase Studio|Google|https://firebase.studio|web|Browser IDE/app-prototyping agent; being discontinued/merged into AI Studio in 2026|firebase.google.com/docs/studio/migrating-project
+Kiro|Amazon/AWS|https://kiro.dev|standalone IDE|Spec-driven agentic AI IDE from AWS launched 2025|Big tech channel
+Amazon Q Developer|Amazon/AWS|https://aws.amazon.com/q/developer/|IDE plugin|AWS coding assistant with autonomous /dev, /test, /review, /transform agents (absorbed CodeWhisperer)|Big tech channel
+AWS Transform|Amazon/AWS|https://aws.amazon.com/transform/|vertical:migration|Agentic modernization of .NET, mainframe, and VMware workloads|Big tech channel
+Azure SRE Agent|Microsoft|https://azure.microsoft.com|vertical:SRE/debugging|Agent that diagnoses production incidents on Azure and proposes code/config fixes|Big tech channel
+Visual Studio / VS Code Copilot agent mode|Microsoft|https://code.visualstudio.com|IDE plugin|Copilot agent mode natively in VS Code and Visual Studio|Big tech channel
+Xcode Coding Intelligence|Apple|https://developer.apple.com/xcode/|standalone IDE|Xcode 26 built-in coding agent with ChatGPT/Claude backends and Swift Assist|Big tech channel
+JetBrains AI Assistant|JetBrains|https://www.jetbrains.com/ai/|IDE plugin|In-IDE AI chat, edits, and multi-file codegen across JetBrains IDEs|Big tech channel
+Junie|JetBrains|https://www.jetbrains.com/junie/|IDE plugin|JetBrains autonomous coding agent inside IntelliJ-family IDEs|Big tech channel
+GitLab Duo Agent Platform|GitLab|https://about.gitlab.com/gitlab-duo/|cloud-autonomous|AI agents across the GitLab DevSecOps lifecycle incl. code, review, and CI fixes|Big tech channel
+Rovo Dev|Atlassian|https://www.atlassian.com/software/rovo-dev|CLI|Atlassian coding agent (CLI + Jira/Bitbucket integration) built on Teamwork Graph|atlassian.com/blog rovo-dev-command-line-interface
+Agentforce for Developers|Salesforce|https://developer.salesforce.com|IDE plugin|AI coding agent for Apex/Salesforce development (ex Einstein for Developers)|Big tech channel
+Now Assist for Creator|ServiceNow|https://www.servicenow.com|vertical:platform codegen|Code and flow generation agents for ServiceNow app development|Big tech channel
+SAP Joule for Developers|SAP|https://www.sap.com/products/artificial-intelligence/ai-assistant.html|vertical:platform codegen|Joule developer agents for ABAP/SAP Build Code|CIO.com enterprise agents 2026
+watsonx Code Assistant|IBM|https://www.ibm.com/products/watsonx-code-assistant|IDE plugin|Enterprise code assistant for app modernization and Ansible|Big tech channel
+watsonx Code Assistant for Z|IBM|https://www.ibm.com/products/watsonx-code-assistant-z|vertical:mainframe migration|COBOL-to-Java modernization agent for mainframes|hackernoon COBOL modernization
+Oracle Code Assist|Oracle|https://www.oracle.com/application-development/code-assist/|IDE plugin|Java/SQL-optimized enterprise coding assistant|Big tech channel
+Snowflake Copilot|Snowflake|https://www.snowflake.com|vertical:SQL|LLM SQL authoring/analysis assistant in Snowsight (plus Cortex Analyst)|Big tech channel
+Databricks Assistant|Databricks|https://www.databricks.com|vertical:data/SQL|AI assistant that writes and fixes notebooks, SQL, and pipelines|Big tech channel
+v0|Vercel|https://v0.dev|web|Prompt-to-UI/full-stack app generation platform|vibe coding roundups
+Vercel Agent|Vercel|https://vercel.com/agent|vertical:code review|Vercel's AI agent for code review and production investigations|Big tech channel
+Netlify AI|Netlify|https://www.netlify.com|web|Agent-native platform ("Agent Runners") to build/deploy web apps from prompts|producthunt.com/categories/ai-coding-agents
+Warp|Warp|https://www.warp.dev|CLI|Agentic Development Environment: terminal running multi-step coding agents|marktechpost 2026 platforms
+Amp|Sourcegraph|https://ampcode.com|CLI|Agentic coding tool from Sourcegraph (successor to Cody, which is deprecated)|roundups channel
+Mistral Code|Mistral AI|https://mistral.ai/products/mistral-code|IDE plugin|Enterprise coding assistant (Continue fork) with on-prem deployment|European ecosystem channel
+Cursor|Anysphere|https://cursor.com|standalone IDE|AI-native IDE with Composer, Tab, and cloud background agents; $29B valuation Nov 2025|TechCrunch unicorns / roundups
+Cursor Bugbot|Anysphere|https://cursor.com/bugbot|vertical:code review|Cursor's AI PR review product|greptile.com best-ai-code-review-tools
+Windsurf / Devin Desktop|Cognition|https://windsurf.com|standalone IDE|Agentic IDE (ex-Codeium); acquired by Cognition July 2025, rebranded Devin Desktop June 2026|vellum.ai roundup
+Devin|Cognition|https://devin.ai|cloud-autonomous|Autonomous AI software engineer; Cognition raised $1B at $25B pre (May 2026)|techcrunch.com 2026/05/27
+Zed|Zed Industries|https://zed.dev|standalone IDE|High-performance editor with Agent Panel (open-source core, paid AI plans)|roundups channel
+PearAI|PearAI|https://trypear.ai|standalone IDE|YC-backed AI code editor (open-source core)|YC directory
+Trae|ByteDance|https://www.trae.ai|standalone IDE|ByteDance AI IDE with SOLO autonomous mode; 6M users in China (Trae CN)|CSDN/zhihu Chinese comparisons
+Doubao MarsCode|ByteDance|https://www.marscode.com|IDE plugin|ByteDance cloud IDE/AI assistant, folded into the Trae brand|Chinese ecosystem channel
+Qoder|Alibaba|https://qoder.com|standalone IDE|Alibaba's agentic coding IDE with Quest autonomous mode (launched Aug 2025)|CSDN Trae/Qoder/CodeBuddy comparison
+Tongyi Lingma|Alibaba|https://tongyi.aliyun.com/lingma|IDE plugin|Alibaba Cloud's AI coding assistant with agent mode|Chinese ecosystem channel
+iFlow CLI|Alibaba (Xinliu)|https://platform.iflow.cn|CLI|Free Chinese terminal coding agent|Chinese ecosystem channel
+Baidu Comate|Baidu|https://comate.baidu.com|IDE plugin|Baidu's AI coding assistant (Wenxin Kuaima) with Zulu agent|Chinese ecosystem channel
+Miaoda|Baidu|https://miaoda.baidu.com|web|Baidu's multi-agent zero-code app builder (launched 2025)|ithome.com Chinese no-code reviews
+CodeBuddy|Tencent|https://www.codebuddy.ai|standalone IDE|Tencent's AI coding assistant/IDE, used by 12k+ Tencent engineers, international version 2025|zhihu 2026 comparison
+CodeFuse|Ant Group|https://codefuse.ai|IDE plugin|Ant Group's AI coding assistant for full SDLC|Chinese ecosystem channel
+CodeArts Snap|Huawei|https://www.huaweicloud.com/product/codeartside/snap.html|IDE plugin|Huawei Cloud's AI code generation assistant|Chinese ecosystem channel
+iFlyCode|iFlytek|https://iflycode.xfyun.cn|IDE plugin|iFlytek Spark-based coding assistant|Chinese ecosystem channel
+JoyCode|JD.com|https://joycode.jd.com|IDE plugin|JD's AI coding assistant|Chinese ecosystem channel
+NoCode|Meituan|https://nocode.cn|web|Meituan's conversational AI programming tool for non-developers (2025/2026)|oschina.net news
+Raccoon Code|SenseTime|https://raccoon.sensetime.com|IDE plugin|SenseTime's code assistant (代码小浣熊)|Chinese ecosystem channel
+aiXcoder|aiXcoder|https://www.aixcoder.com|IDE plugin|Chinese code completion/generation vendor with enterprise on-prem focus|Chinese ecosystem channel
+Fitten Code|Fittentech|https://code.fittentech.com|IDE plugin|Free Chinese AI code completion assistant|Chinese ecosystem channel
+CodeGeeX|Zhipu AI (Z.ai)|https://codegeex.cn|IDE plugin|Zhipu's multilingual coding assistant (open-source core)|Chinese ecosystem channel
+MiniMax Agent|MiniMax|https://agent.minimax.io|web|Agent that builds and deploys full-stack web apps from prompts|Chinese ecosystem channel
+Manus|Butterfly Effect (Manus AI)|https://manus.im|web|General autonomous agent widely used for prompt-to-app/website building|Chinese ecosystem channel
+Youware|Youware|https://www.youware.com|web|Vibe-coding web app/site builder from Chinese team|Chinese ecosystem channel
+Trickle|Trickle|https://www.trickle.so|web|AI website/app builder with agent workflow|Chinese ecosystem channel
+Genspark AI Developer|Genspark|https://www.genspark.ai|web|Vibe-coding developer agent inside Genspark super-agent|Chinese ecosystem channel
+Atoms|DeepWisdom (MetaGPT/MGX)|https://atoms.dev|web|Multi-agent idea-to-revenue app builder launched Jan 2026 (open-source MetaGPT core)|marktechpost.com 2026/06/10
+Kimi CLI|Moonshot AI|https://github.com/MoonshotAI/kimi-cli|CLI|Moonshot's terminal coding agent (open-source core, paid API)|Chinese ecosystem channel
+Factory|Factory AI|https://factory.ai|cloud-autonomous|Droids: enterprise software agents from ticket to PR, CLI + cloud|devshelfhub Blitzy/Devin/Factory comparison
+Augment Code|Augment|https://www.augmentcode.com|IDE plugin|Context-engine coding agent for large production codebases (+ Auggie CLI)|producthunt.com/categories/ai-coding-agents
+Blitzy|Blitzy|https://blitzy.com|cloud-autonomous|Batch autonomous engineering platform for enterprise-scale codebases|slashdot alternatives / devshelfhub
+Codegen|Codegen|https://codegen.com|cloud-autonomous|API-driven code agents that turn tickets into PRs|autonomous SWE channel
+Cosine|Cosine|https://cosine.sh|cloud-autonomous|Genie autonomous AI software engineer (UK)|European ecosystem channel
+Engine Labs|Engine|https://enginelabs.ai|cloud-autonomous|AI software engineer that ships from your issue tracker (UK)|autonomous SWE channel
+Charlie Labs|Charlie Labs|https://charlielabs.ai|cloud-autonomous|Charlie: GitHub-native AI engineer for issues-to-PRs|autonomous SWE channel
+Tembo|Tembo|https://www.tembo.io|cloud-autonomous|Production-error-to-PR autonomous dev agent (pivoted from Postgres)|tembo.io devin-alternatives
+Gitar|Gitar|https://gitar.co|cloud-autonomous|Code-change automation agents for migrations, cleanup, and PRs|autonomous SWE channel
+Solver|Laredo Labs|https://solverai.com|cloud-autonomous|Repo-native autonomous software engineering platform|autonomous SWE channel
+OpenHands|All Hands AI|https://www.all-hands.dev|cloud-autonomous|Commercial cloud for the OpenHands open-source agent (OSS core)|autonomous SWE channel
+Ona|Ona (formerly Gitpod)|https://ona.com|cloud-autonomous|Gitpod rebranded 2025 into parallel cloud software engineering agents|European ecosystem channel
+Niteshift|Niteshift|https://niteshift.dev|cloud-autonomous|Model-agnostic full-stack cloud for coding agents; $7M Greylock seed (2026, ex-Datadog)|techcrunch.com 2026/06/10
+8090|8090 Labs|https://www.8090.ai|cloud-autonomous|Chamath Palihapitiya's spec-to-deploy AI-native software platform; $135M Series A 2026|techcrunch.com 2026/06/29
+Code Metal|Code Metal|https://www.codemetal.ai|vertical:code translation|Verifiable AI code translation for edge/defense/automotive; $125M Series B|techcrunch unicorns list
+Emergent|Emergent|https://emergent.sh|web|Agentic vibe-coding platform; Indian unicorn, $130M Series C July 2026|techcrunch.com 2026/07/15
+Fume|Fume (YC)|https://fume.app|cloud-autonomous|AI software engineer that fixes bugs from Sentry/Slack|YC directory
+Fine|Fine.dev|https://www.fine.dev|cloud-autonomous|AI dev agent for startups (Israel)|European/Israeli ecosystem channel
+Bismuth|Bismuth|https://www.bismuth.sh|cloud-autonomous|Coding agent focused on finding and fixing bugs autonomously|autonomous SWE channel
+Pythagora|Pythagora|https://www.pythagora.ai|standalone IDE|All-in-one AI dev platform (GPT Pilot core) from prompt to deployed app|web app builder channel
+Devlo|Devlo|https://devlo.ai|cloud-autonomous|GitHub-native AI developer agent for issues and PRs|code review channel
+Sweep|Sweep AI|https://sweep.dev|IDE plugin|YC coding agent, now AI assistant for JetBrains IDEs|YC directory
+Terragon|Terragon Labs|https://www.terragonlabs.com|cloud-autonomous|Cloud orchestrator for background Claude Code/Codex agents; shut down 2026|thetoolnerd.com background agents
+Conductor|Melty Labs|https://conductor.build|standalone IDE|Mac app to run fleets of parallel Claude Code agents in worktrees; raised $22M|dev.to remote coding stack
+Omnara|Omnara (YC S25)|https://omnara.com|web|Mobile/web command center to launch and steer coding agents from anywhere|YC directory
+Exponent|Exponent|https://www.exponent.run|CLI|Pair-programming AI agent for real engineering workflows|autonomous SWE channel
+Codebuff|Codebuff (YC F24)|https://codebuff.com|CLI|Multi-agent terminal coding tool|YC directory
+Agent FM|Agent FM (YC)|https://www.ycombinator.com/companies/agent-fm|standalone IDE|Desktop group-chat cockpit to hear and steer multiple coding agents|cbinsights.com YC Spring25 agentic AI
+Murmell|Murmell|https://murmell.com|web|Shared cloud canvas where teams and multiple coding agents work one repo together|producthunt.com/products/murmell
+Greplica|Greplica|https://www.producthunt.com/products/greplica|vertical:agent memory|Self-updating codebase wiki/shared memory for coding agents (OSS core + managed)|Product Hunt launches
+Hoplite|Hoplite|https://www.producthunt.com/categories/ai-coding-agents|cloud-autonomous|Cloud software factory deployment automation|Product Hunt AI coding agents category
+CrewTower|CrewTower|https://www.producthunt.com/categories/ai-coding-agents|vertical:agent supervision|Control and approval layer for coding-agent workflows|Product Hunt AI coding agents category
+Chiplab|Chiplab|https://www.producthunt.com/categories/ai-coding-agents|vertical:firmware testing|Virtual firmware testing/debugging without physical hardware|Product Hunt AI coding agents category
+CodeAgentSwarm|CodeAgentSwarm|https://www.codeagentswarm.com|standalone IDE|Desktop manager for running multiple coding agents in parallel|agent orchestration channel
+Cline|Cline Bot Inc|https://cline.bot|IDE plugin|Open-source-core VS Code agent with commercial teams/cloud; raised $32M|autonomous SWE roundups
+Roo Code|Roo Code|https://roocode.com|IDE plugin|Open-source-core coding agent with Roo Cloud commercial offering|CLI/plugin channel
+Kilo Code|Kilo|https://kilo.ai|IDE plugin|Open-source-core agentic engineering platform with paid cloud|producthunt.com/categories/ai-coding-agents
+Continue|Continue Dev|https://continue.dev|IDE plugin|Open-source-core assistant with commercial Continue Hub/enterprise|CLI/plugin channel
+Tabnine|Tabnine|https://www.tabnine.com|IDE plugin|Privacy-focused enterprise AI code assistant (Israel)|roundups channel
+Blackbox AI|Blackbox|https://www.blackbox.ai|IDE plugin|Mass-market AI coding assistant and agents in VS Code/web|roundups channel
+Refact.ai|Refact|https://refact.ai|IDE plugin|Open-source-core agentic assistant with enterprise self-hosting|CLI/plugin channel
+Zencoder|For Good AI|https://zencoder.ai|IDE plugin|Zen Agents coding platform by Andrew Filev; ~$38M raised|funding news channel
+Pieces|Pieces for Developers|https://pieces.app|IDE plugin|Long-term-memory developer copilot across IDE/browser/desktop|CLI/plugin channel
+Supermaven|Supermaven|https://supermaven.com|IDE plugin|Fast completion copilot; acquired by Cursor/Anysphere Nov 2024|acquisitions channel
+Phind|Phind|https://www.phind.com|web|Developer answer engine that writes and runs code|roundups channel
+opencode|SST/Anomaly|https://opencode.ai|CLI|Open-source-core terminal agent with paid Zen model gateway|producthunt.com/categories/ai-coding-agents
+Poolside|Poolside|https://poolside.ai|IDE plugin|Enterprise/defense-focused coding AI (models + assistant); $500M+ raised|funding news channel
+Magic|Magic AI|https://magic.dev|cloud-autonomous|Frontier code models + agent for software engineering; $320M+ raised|funding news channel
+Reflection AI|Reflection|https://reflection.ai|vertical:code understanding|Asimov code-research agent; raised $2B (2025)|funding news channel
+Imbue|Imbue|https://imbue.com|standalone IDE|Sculptor: agent workbench for running parallel coding agents|funding news channel
+Tessl|Tessl|https://tessl.io|cloud-autonomous|Spec-driven AI-native development framework/registry; $125M raised (UK)|newmarketpitch AI code assistant fundraising
+Qodo|Qodo (ex CodiumAI)|https://www.qodo.ai|IDE plugin|Code-integrity platform: Qodo Gen, Qodo Merge PR review, Qodo Cover test gen, Qodo Command CLI|getoptimal.ai code review roundup
+Lovable|Lovable|https://lovable.dev|web|Prompt-to-full-stack-app builder; $13.3B valuation Aug 2026 (Sweden)|techcrunch.com 2026/08/12
+Bolt.new|StackBlitz|https://bolt.new|web|Browser prompt-to-deployment full-stack builder (open-source core)|vibe coding roundups
+Replit Agent|Replit|https://replit.com|web|Cloud IDE with autonomous Agent 3 building/testing apps; $3B valuation|vibe coding roundups
+Base44|Wix|https://base44.com|web|No-code AI app builder; acquired by Wix for $80M June 2025 (Israel)|vibe coding roundups
+Create|Create.xyz|https://www.create.xyz|web|Text-to-app builder for sites, apps, and tools|web builder channel
+Databutton|Databutton|https://databutton.com|web|AI developer that builds full-stack apps via agent conversation (Norway)|web builder channel
+Softgen|Softgen|https://softgen.ai|web|Prompt-to-web-app generator|web builder channel
+Rocket.new|DhiWise|https://www.rocket.new|web|Indian vibe-coding platform (DhiWise rebrand); $15M seed, ~$500M valuation talks|techbuzz.ai / lapaas voice
+Famous|Famous.ai|https://famous.ai|web|Prompt-to-app vibe coding platform|web builder channel
+Hostinger Horizons|Hostinger|https://www.hostinger.com/horizons|web|Hosted no-code AI web app builder|web builder channel
+Anything|Anything|https://createanything.com|web|Vibe-coding app builder; $100M valuation two weeks after launch (Sept 2025)|techcrunch.com 2025/09/29
+Same|Same (YC)|https://same.new|web|Agent that clones and rebuilds websites from a URL/prompt|YC directory
+Chef|Convex|https://chef.convex.dev|web|Prompt-to-app builder generating full-stack apps on Convex backend|web builder channel
+Leap|Encore|https://leap.new|web|Prompt-to-production backend/app builder from the Encore team|web builder channel
+Townie|Val Town|https://www.val.town|web|AI assistant that writes and deploys server vals/apps|web builder channel
+Websim|Websim|https://websim.com|web|Imaginary-web app generator turned consumer vibe-coding site|web builder channel
+Marblism|Marblism (YC)|https://www.marblism.com|web|Prompt-to-SaaS app generator with AI employees|YC directory
+Creatr|Creatr|https://getcreatr.com|web|Prompt-to-web-app/landing page builder|web builder channel
+Orchids / Bud|Bud (ex-Orchids)|https://www.orchids.app|web|YC vibe-coding app builder; team acquired by Figma, product shut down July 2026|codingwithvibe.com shutdown notice
+Figma Make|Figma|https://www.figma.com/make/|web|Figma's prompt-to-app/prototype builder|UI generation channel
+Framer AI|Framer|https://www.framer.com|web|AI site generation (Wireframer/Workshop) inside Framer|web builder channel
+Webflow AI Assistant|Webflow|https://webflow.com|web|AI page/component generation in Webflow|web builder channel
+Canva Code|Canva|https://www.canva.com|web|Prompt-to-interactive-widget/app generation inside Canva|web builder channel
+Airtable Omni|Airtable|https://www.airtable.com|web|AI app-building agent inside Airtable|web builder channel
+Retool AI|Retool|https://retool.com|web|AI app generation and agents for internal tools|web builder channel
+Clark|Superblocks|https://www.superblocks.com|web|Enterprise AI internal-app builder agent; $23M raise|funding news channel
+Glide AI|Glide|https://www.glideapps.com|web|AI-generated business apps from prompts/data|web builder channel
+Bubble AI|Bubble|https://bubble.io|web|AI app generation in Bubble no-code platform|web builder channel
+Builder.ai|Builder.ai|https://www.builder.ai|web|"AI-powered" app assembly platform; collapsed into insolvency 2025|en.wikipedia.org/wiki/Builder.ai
+Rork|Rork|https://rork.com|web|Prompt-to-native-mobile-app builder (React Native/Swift)|nocode.mba mobile AI builders
+Vibecode|Vibecode|https://www.vibecodeapp.com|web|Build React Native mobile apps from prompts on your phone|aneesas.hashnode.dev mobile AI 2026
+a0.dev|a0.dev (YC)|https://a0.dev|web|Text-prompt to App Store-ready React Native apps|nocode.mba mobile AI builders
+Instance|Instance|https://apps.apple.com/app/id6744366024|web|iOS vibe-coding app for building mobile apps without code|App Store / mobile channel
+Magically|Magically|https://magically.life|web|AI mobile app builder for non-coders|mobile channel
+Dreamflow|FlutterFlow|https://flutterflow.io|web|FlutterFlow's AI agent for generating Flutter apps|mobile channel
+Firebender|Firebender (YC W24)|https://firebender.com|IDE plugin|Coding agent for Android Studio with emulator and LSP access|firebender.com / YC directory
+Alex Sidebar|Alex|https://www.alexcodes.app|IDE plugin|AI coding sidebar for Xcode/iOS developers|G2 / mobile dev channel
+Magic Patterns|Magic Patterns (YC W24)|https://www.magicpatterns.com|vertical:UI generation|AI design/prototyping to React components in your design system|YC directory
+Subframe|Subframe|https://www.subframe.com|vertical:UI generation|AI UI editor generating production React|UI generation channel
+Tempo|Tempo Labs (YC)|https://www.tempo.new|vertical:UI generation|AI + drag-drop editor for React apps|YC directory
+Polymet|Polymet|https://polymet.ai|vertical:UI generation|AI product designer producing design + code|UI generation channel
+Anima|Anima|https://www.animaapp.com|vertical:UI generation|Figma-to-code and Frontier AI code personalization|UI generation channel
+Locofy|Locofy|https://www.locofy.ai|vertical:UI generation|Design-to-code with AI (LocoAI/Lightning)|UI generation channel
+Builder.io Fusion|Builder.io|https://www.builder.io|vertical:UI generation|Visual Copilot/Fusion: design-to-code and AI visual editing agents|UI generation channel
+Uizard|Miro|https://uizard.io|vertical:UI generation|AI UI design/prototype generator; acquired by Miro 2024|UI generation channel
+Kombai|Kombai|https://kombai.com|vertical:UI generation|Frontend-specialized coding agent for complex UI codebases|UI generation channel
+Onlook|Onlook (YC W25)|https://onlook.com|vertical:UI generation|"Cursor for designers" visual React editor (open-source core)|YC directory
+Superflex|Superflex|https://www.superflex.ai|vertical:UI generation|Figma-to-code AI front-end engineer in VS Code|UI generation channel
+UX Pilot|UX Pilot|https://uxpilot.ai|vertical:UI generation|AI UI design generation with code export|UI generation channel
+Codia AI|Codia|https://codia.ai|vertical:UI generation|Screenshot/Figma-to-code AI|UI generation channel
+CodeRabbit|CodeRabbit|https://www.coderabbit.ai|vertical:code review|AI PR review platform; ~$88M raised|greptile.com code review roundup
+Greptile|Greptile (YC W24)|https://www.greptile.com|vertical:code review|Full-codebase-indexing AI code review bot|code review channel
+Ellipsis|Ellipsis (YC W24)|https://www.ellipsis.dev|vertical:code review|AI code review + automated fixes on PRs|YC directory
+cubic|cubic (YC X25)|https://cubic.dev|vertical:code review|AI code review that cuts review bottlenecks|cbinsights YC Spring25
+Baz|Baz|https://baz.co|vertical:code review|AI-native code review platform (Israel)|code review channel
+Panto AI|Panto|https://www.pantoai.com|vertical:code review|AI code review with business context|code review channel
+Korbit|Korbit AI|https://www.korbit.ai|vertical:code review|AI mentor/code review for PRs|code review channel
+Bito|Bito|https://bito.ai|vertical:code review|AI Code Review Agent with codebase understanding|code review channel
+CodeAnt AI|CodeAnt (YC W24)|https://www.codeant.ai|vertical:code review|Code review + security analysis; $2M seed 2025 (India)|india.entrepreneur.com
+Sourcery|Sourcery|https://sourcery.ai|vertical:code review|Automated code review and refactoring suggestions (UK)|code review channel
+Codacy|Codacy|https://www.codacy.com|vertical:code review|Code quality platform with AI review/fixes|code review channel
+DeepSource|DeepSource|https://deepsource.com|vertical:code review|Static analysis with AI Autofix agents|developersdigest code review roundup
+Diamond|Graphite|https://graphite.dev|vertical:code review|Graphite's AI code review agent; $52M Series B|code review channel
+Optibot|Optimal AI|https://getoptimal.ai|vertical:code review|AI code review agent for engineering teams|getoptimal.ai blog
+Macroscope|Macroscope|https://macroscope.com|vertical:code review|AI that summarizes and reviews code changes|macroscope.com content
+Entelligence|Entelligence AI|https://www.entelligence.ai|vertical:code review|AI engineering intelligence + PR review|code review channel
+Wispbit|Wispbit (YC)|https://wispbit.com|vertical:code review|Codebase-standards enforcement for AI-generated code|YC directory
+Recurse ML|Recurse ML|https://recurse.ml|vertical:code review|ML-driven bug detection on diffs|code review channel
+mrge|mrge (YC X25)|https://www.mrge.io|vertical:code review|AI-native code review workspace|YC directory
+Kodus|Kodus|https://kodus.io|vertical:code review|Open-source-core AI code review agent (Brazil)|code review channel
+LinearB AI|LinearB|https://linearb.io|vertical:code review|gitStream + AI code review inside eng-ops platform|code review channel
+Jazzberry|Jazzberry (YC X25)|https://jazzberry.ai|vertical:bug finding|AI agent that finds bugs in pull requests|cbinsights YC Spring25
+Momentic|Momentic|https://momentic.ai|vertical:testing|AI E2E testing platform; $18.7M raised, customers Notion/Retool|agentmarketcap.ai 2026/04/08
+QA Wolf|QA Wolf|https://www.qawolf.com|vertical:testing|AI + human-backed 80% automated E2E coverage service|testing channel
+Ranger|Ranger|https://www.ranger.net|vertical:testing|AI QA agents with human review ("cyborg" QA)|testing channel
+Spur|Spur (YC S24)|https://www.ycombinator.com/companies/spur|vertical:testing|AI QA engineer that tests web apps from plain-English flows|YC directory
+Meticulous|Meticulous|https://www.meticulous.ai|vertical:testing|Auto-generated visual/E2E tests from recorded user sessions|testing channel
+Tusk|Tusk (YC)|https://www.usetusk.ai|vertical:testing|AI unit/integration test generation on PRs|YC directory
+Checksum|Checksum|https://checksum.ai|vertical:testing|AI-generated E2E tests from production sessions|testing channel
+Octomind|Octomind|https://www.octomind.dev|vertical:testing|Agent-based Playwright test generation and maintenance (Germany)|European ecosystem channel
+TestSprite|TestSprite|https://www.testsprite.com|vertical:testing|Autonomous testing agent for AI-generated code|testing channel
+Autify|Autify|https://autify.com|vertical:testing|No-code AI testing (Nova/Zenes) (Japan)|testing channel
+mabl|mabl|https://www.mabl.com|vertical:testing|AI-native test automation with agentic workflows|quashbugs emerging AI QA
+testRigor|testRigor|https://testrigor.com|vertical:testing|Plain-English AI test automation|testing channel
+Functionize|Functionize|https://www.functionize.com|vertical:testing|Agentic cloud test automation|testing channel
+Testim|Tricentis|https://www.testim.io|vertical:testing|AI-stabilized UI test automation; acquired by Tricentis|testing channel
+KaneAI|LambdaTest|https://www.lambdatest.com/kane-ai|vertical:testing|GenAI native test agent on LambdaTest cloud|testing channel
+BrowserStack AI|BrowserStack|https://www.browserstack.com|vertical:testing|AI test agents across BrowserStack platform|testing channel
+KushoAI|Kusho (YC W24)|https://kusho.ai|vertical:API testing|AI agent that writes/maintains API tests (India)|YC directory
+Qodex|Qodex.ai|https://qodex.ai|vertical:API testing|AI API testing and security agent|testing channel
+Keploy|Keploy|https://keploy.io|vertical:testing|Open-source-core API/unit test generation platform (India)|testing channel
+TestDriver|TestDriver|https://testdriver.ai|vertical:testing|Computer-use AI QA agent for desktop/web|testing channel
+Stably|Stably AI|https://www.stably.ai|vertical:testing|AI-powered E2E test automation|testing channel
+Propolis|Propolis (YC X25)|https://www.ycombinator.com/companies/propolis|vertical:testing|Swarms of browser agents that autonomously QA web apps|cbinsights YC Spring25
+Docket|Docket (YC X25)|https://www.ycombinator.com/companies/docket|vertical:testing|AI agents for E2E web testing in plain English|ycombinator.com/companies/docket
+Operative|Operative (YC)|https://www.ycombinator.com/companies/operative|vertical:testing|Browser agents that test what coding agents build|cbinsights YC Spring25
+Quash|Quash|https://quashbugs.com|vertical:mobile testing|AI QA for mobile apps (India)|quashbugs.com blog
+Shiplight|Shiplight AI|https://www.shiplight.ai|vertical:testing|Agentic QA platform|shiplight.ai blog
+Autonoma|Autonoma AI|https://getautonoma.com|vertical:testing|AI testing platform|getautonoma.com
+BlinqIO|BlinqIO|https://blinq.io|vertical:testing|AI test engineer (multi-agent) for web apps (Israel)|codenote.net AI testing startups 2026
+Qualiti|Qualiti|https://www.qualiti.ai|vertical:testing|AI-driven automated QA service|testing channel
+Bug0|Bug0|https://bug0.com|vertical:testing|Autonomous QA agents + human oversight|testing channel
+Carbonate|Carbonate|https://carbonate.dev|vertical:testing|Plain-English AI browser test generation (UK)|testing channel
+Askui|AskUI|https://www.askui.com|vertical:UI testing|Vision-based UI automation agent (Germany)|European ecosystem channel
+Symflower|Symflower|https://symflower.com|vertical:test generation|Static-analysis-driven unit test generation for Java/Go (Austria)|dev.to Qodo vs Diffblue
+Diffblue Cover|Diffblue|https://www.diffblue.com|vertical:test generation|RL-based autonomous Java unit test writer (UK, Oxford spinout)|diffblue.com
+Early|Early (startearly.ai)|https://www.startearly.ai|vertical:test generation|AI agent generating verified unit tests (Israel)|testing channel
+Snyk Agent Fix|Snyk|https://snyk.io|vertical:security fixing|DeepCode AI-powered auto-remediation of vulnerabilities|security channel
+Pixee|Pixee|https://www.pixee.ai|vertical:security fixing|Automated code-hardening/remediation agent (pixeebot)|pixee.ai remediation roundup
+Mobb|Mobb|https://mobb.ai|vertical:security fixing|Auto-fixes SAST findings across scanners (Israel)|cyberflow auto-remediation market map
+Corgea|Corgea|https://corgea.com|vertical:security fixing|AI SAST with automatic vulnerability fixes|corgea.com
+ZeroPath|ZeroPath|https://zeropath.com|vertical:security fixing|AI-native scanning + verified security patches; RSAC 2026 Innovation Sandbox|securityboulevard.com RSAC 2026
+Amplify Security|Amplify|https://www.amplify.security|vertical:security fixing|Auto-remediation of code vulnerabilities in CI|security channel
+DryRun Security|DryRun|https://www.dryrun.security|vertical:security review|AI-native contextual security code review|security channel
+Semgrep Assistant|Semgrep|https://semgrep.dev|vertical:security fixing|AI triage and autofix on Semgrep findings|security channel
+Aikido Autofix|Aikido Security|https://www.aikido.dev|vertical:security fixing|AI autofix PRs for vulnerabilities (Belgium)|security channel
+Nullify|Nullify|https://www.nullify.ai|vertical:security fixing|AI AppSec engineer for finding/fixing vulns|security channel
+XBOW|XBOW|https://xbow.com|vertical:offensive security|Autonomous pentesting agent that writes/executes exploits|codenote.net AI testing startups
+Sentry Seer|Sentry|https://sentry.io|vertical:debugging|AI debugging agent: RCA from telemetry + fix PRs + PR review|sentry.io press release
+Resolve.ai|Resolve AI|https://resolve.ai|vertical:SRE/debugging|AI production engineer for incident RCA and remediation|AI SRE channel
+Traversal|Traversal|https://traversal.com|vertical:SRE/debugging|AI SRE for root-cause analysis in complex systems|fluidify.ai AI SRE tools 2026
+Cleric|Cleric|https://cleric.ai|vertical:SRE/debugging|Self-learning AI SRE agent; Gartner Cool Vendor 2025|betterstack cleric alternatives
+Parity|Parity (YC)|https://www.ycombinator.com/companies/parity|vertical:SRE/debugging|AI SRE that investigates alerts before you open your laptop|YC directory
+Deductive AI|Deductive|https://www.deductive.ai|vertical:debugging|Code-aware reasoning engine for production issue RCA|AI SRE channel
+PlayerZero|PlayerZero|https://www.playerzero.ai|vertical:debugging|AI that connects product defects to code changes and fixes|debugging channel
+Bits AI|Datadog|https://www.datadoghq.com|vertical:SRE/debugging|Datadog's AI agents for incident investigation and dev fixes|AI SRE channel
+incident.io AI SRE|incident.io|https://incident.io|vertical:SRE/debugging|Autonomous incident investigation agent (UK)|AI SRE channel
+Latta|Latta AI|https://latta.ai|vertical:debugging|AI bug-fixing agent from runtime error snapshots (Czechia)|European ecosystem channel
+RunLLM|RunLLM|https://www.runllm.com|vertical:support/debugging|AI support engineer that debugs product issues from logs/code|debugging channel
+Mintlify|Mintlify|https://mintlify.com|vertical:documentation|AI-native docs platform with autonomous writing agent|docuwriter/techiehub docs roundups
+Swimm|Swimm|https://swimm.io|vertical:documentation|Code-coupled docs + legacy/mainframe code understanding (Israel)|docs channel
+Komment|Komment|https://komment.ai|vertical:documentation|Pipeline-driven codebase documentation generation|docs channel
+DocuWriter|DocuWriter.ai|https://www.docuwriter.ai|vertical:documentation|AI code and API doc generation|docs channel
+Theneo|Theneo (YC)|https://www.theneo.io|vertical:API documentation|AI-generated Stripe-quality API docs|YC directory
+Dosu|Dosu|https://dosu.dev|vertical:issue triage/docs|AI teammate that answers issues and maintains knowledge from code|docs channel
+Unblocked|Unblocked|https://getunblocked.com|vertical:code Q&A|AI answers about your codebase from code+Slack+Jira context|docs channel
+Driver AI|Driver|https://www.driver.ai|vertical:code understanding|Explains massive legacy/embedded codebases for modernization; $50M+ raised|docs channel
+DeepWiki|Cognition|https://deepwiki.com|vertical:code understanding|Auto-generated interactive wikis for any repo (Devin infrastructure)|docs channel
+Nia|Nia (YC)|https://www.trynia.ai|vertical:agent context|Codebase+docs context API feeding coding agents|YC directory
+Julius|Julius AI|https://julius.ai|vertical:data analysis|AI data analyst that writes/executes analysis code|julius.ai textql competitors
+Hex Magic|Hex|https://hex.tech|vertical:data/SQL|AI agents for SQL/notebook analytics work|data channel
+Seek AI|Seek|https://www.seek.ai|vertical:SQL|Natural-language-to-SQL enterprise data agent|sketricgen text-to-SQL roundup
+TextQL|TextQL|https://textql.com|vertical:SQL/data|AI analyst (Ana) generating SQL/python over enterprise data|aiagentslist.com TextQL
+Waii|Salesforce|https://www.waii.ai|vertical:SQL|Text-to-SQL API; acquired by Salesforce Aug 2025|waii.ai / LinkedIn
+Numbers Station|Numbers Station|https://numbersstation.ai|vertical:data/SQL|AI agents for enterprise data stack automation|data channel
+Gibson AI|GibsonAI|https://gibsonai.com|vertical:database|Text-to-database design/migration agent|data channel
+dbt Copilot|dbt Labs|https://www.getdbt.com|vertical:data engineering|AI engineer in dbt for models, tests, docs|data channel
+Mechanical Orchard|Mechanical Orchard|https://www.mechanical-orchard.com|vertical:mainframe migration|AI-driven mainframe rewrite platform (Imogen); Gartner Cool Vendor|businesswire / modernization channel
+Moderne|Moderne|https://www.moderne.io|vertical:refactoring/migration|Mass-scale automated refactoring (OpenRewrite core) + Moddy agent|modernization channel
+Bloop|Bloop AI|https://bloop.ai|vertical:COBOL migration|COBOL-to-readable-Java conversion agent (UK)|huntscreens.com/products/bloop
+Second|Second.dev|https://www.second.dev|vertical:migration|AI agents for codebase upgrades/migrations|modernization channel
+Grit|Honeycomb|https://www.grit.io|vertical:migration|Agentic code migration/query system; acquired by Honeycomb April 2025|honeycomb.io blog
+Codemod|Codemod|https://codemod.com|vertical:migration|Agentic large-scale code migration platform (open-source core)|tracxn.com/codemod
+ModelCode|ModelCode AI|https://www.modelcode.ai|vertical:migration|AI legacy code modernization at scale|modernization channel
+Lingo.dev|Lingo.dev (ex Replexica)|https://lingo.dev|vertical:i18n|AI localization engineer that ships translated code (YC)|YC directory
+Stakpak|Stakpak|https://stakpak.dev|vertical:DevOps|AI DevOps agent for infrastructure code|YC directory
+Cased|Cased|https://cased.com|vertical:DevOps|AI DevOps/deployment automation agents|DevOps channel
+Kubiya|Kubiya|https://www.kubiya.ai|vertical:DevOps|Agentic DevOps automation (Israel)|DevOps channel
+Pulumi Neo|Pulumi|https://www.pulumi.com|vertical:IaC|AI agent that writes/updates infrastructure-as-code|DevOps channel
+Nx Self-Healing CI|Nx (Nrwl)|https://nx.dev|vertical:CI fixing|AI agents that automatically fix failed CI runs|DevOps channel
+Harness AI|Harness|https://www.harness.io|vertical:DevOps|AI DevOps agents + code assistant across SDLC|DevOps channel
+Trae Agent SOLO|ByteDance|https://www.trae.ai|cloud-autonomous|Trae's zero-code full-stack autonomous mode|zhihu 2026 five-way comparison
+GoCodeo|GoCodeo|https://www.gocodeo.com|IDE plugin|Build-test-deploy AI agent in VS Code (India)|Indian ecosystem channel
+Potpie|Potpie|https://potpie.ai|vertical:custom agents|Custom codebase agents platform (open-source core, India)|Indian ecosystem channel
+CodeParrot|CodeParrot|https://codeparrot.ai|vertical:UI generation|Figma-to-code VS Code extension (India)|Indian ecosystem channel

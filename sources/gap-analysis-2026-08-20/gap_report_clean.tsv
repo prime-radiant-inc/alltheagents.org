@@ -1,0 +1,411 @@
+name	maker	url	extra	description	source
+Google AI Studio Build	Google	https://aistudio.google.com	web	Full-stack vibe coding with Antigravity agent + built-in Firebase (AI Studio 2.0, 2026)	firebase.blog Google I/O 2026
+Google Opal	Google	https://opal.withgoogle.com	web	No-code mini-app builder that chains prompts into shareable AI apps	Big tech channel
+AWS Transform	Amazon/AWS	https://aws.amazon.com/transform/	vertical:migration	Agentic modernization of .NET, mainframe, and VMware workloads	Big tech channel
+Xcode Coding Intelligence	Apple	https://developer.apple.com/xcode/	standalone IDE	Xcode 26 built-in coding agent with ChatGPT/Claude backends and Swift Assist	Big tech channel
+Rovo Dev	Atlassian	https://www.atlassian.com/software/rovo-dev	CLI	Atlassian coding agent (CLI + Jira/Bitbucket integration) built on Teamwork Graph	atlassian.com/blog rovo-dev-command-line-interface
+Agentforce for Developers	Salesforce	https://developer.salesforce.com	IDE plugin	AI coding agent for Apex/Salesforce development (ex Einstein for Developers)	Big tech channel
+SAP Joule for Developers	SAP	https://www.sap.com/products/artificial-intelligence/ai-assistant.html	vertical:platform codegen	Joule developer agents for ABAP/SAP Build Code	CIO.com enterprise agents 2026
+Oracle Code Assist	Oracle	https://www.oracle.com/application-development/code-assist/	IDE plugin	Java/SQL-optimized enterprise coding assistant	Big tech channel
+Databricks Assistant	Databricks	https://www.databricks.com	vertical:data/SQL	AI assistant that writes and fixes notebooks, SQL, and pipelines	Big tech channel
+Netlify AI	Netlify	https://www.netlify.com	web	Agent-native platform ("Agent Runners") to build/deploy web apps from prompts	producthunt.com/categories/ai-coding-agents
+Doubao MarsCode	ByteDance	https://www.marscode.com	IDE plugin	ByteDance cloud IDE/AI assistant, folded into the Trae brand	Chinese ecosystem channel
+iFlow CLI	Alibaba (Xinliu)	https://platform.iflow.cn	CLI	Free Chinese terminal coding agent	Chinese ecosystem channel
+Baidu Comate	Baidu	https://comate.baidu.com	IDE plugin	Baidu's AI coding assistant (Wenxin Kuaima) with Zulu agent	Chinese ecosystem channel
+Raccoon Code	SenseTime	https://raccoon.sensetime.com	IDE plugin	SenseTime's code assistant (代码小浣熊)	Chinese ecosystem channel
+CodeGeeX	Zhipu AI (Z.ai)	https://codegeex.cn	IDE plugin	Zhipu's multilingual coding assistant (open-source core)	Chinese ecosystem channel
+MiniMax Agent	MiniMax	https://agent.minimax.io	web	Agent that builds and deploys full-stack web apps from prompts	Chinese ecosystem channel
+Youware	Youware	https://www.youware.com	web	Vibe-coding web app/site builder from Chinese team	Chinese ecosystem channel
+Trickle	Trickle	https://www.trickle.so	web	AI website/app builder with agent workflow	Chinese ecosystem channel
+Blitzy	Blitzy	https://blitzy.com	cloud-autonomous	Batch autonomous engineering platform for enterprise-scale codebases	slashdot alternatives / devshelfhub
+Charlie Labs	Charlie Labs	https://charlielabs.ai	cloud-autonomous	Charlie: GitHub-native AI engineer for issues-to-PRs	autonomous SWE channel
+Tembo	Tembo	https://www.tembo.io	cloud-autonomous	Production-error-to-PR autonomous dev agent (pivoted from Postgres)	tembo.io devin-alternatives
+Gitar	Gitar	https://gitar.co	cloud-autonomous	Code-change automation agents for migrations, cleanup, and PRs	autonomous SWE channel
+Solver	Laredo Labs	https://solverai.com	cloud-autonomous	Repo-native autonomous software engineering platform	autonomous SWE channel
+Ona	Ona (formerly Gitpod)	https://ona.com	cloud-autonomous	Gitpod rebranded 2025 into parallel cloud software engineering agents	European ecosystem channel
+Niteshift	Niteshift	https://niteshift.dev	cloud-autonomous	Model-agnostic full-stack cloud for coding agents; $7M Greylock seed (2026, ex-Datadog)	techcrunch.com 2026/06/10
+8090	8090 Labs	https://www.8090.ai	cloud-autonomous	Chamath Palihapitiya's spec-to-deploy AI-native software platform; $135M Series A 2026	techcrunch.com 2026/06/29
+Code Metal	Code Metal	https://www.codemetal.ai	vertical:code translation	Verifiable AI code translation for edge/defense/automotive; $125M Series B	techcrunch unicorns list
+Fume	Fume (YC)	https://fume.app	cloud-autonomous	AI software engineer that fixes bugs from Sentry/Slack	YC directory
+Bismuth	Bismuth	https://www.bismuth.sh	cloud-autonomous	Coding agent focused on finding and fixing bugs autonomously	autonomous SWE channel
+Pythagora	Pythagora	https://www.pythagora.ai	standalone IDE	All-in-one AI dev platform (GPT Pilot core) from prompt to deployed app	web app builder channel
+Devlo	Devlo	https://devlo.ai	cloud-autonomous	GitHub-native AI developer agent for issues and PRs	code review channel
+Omnara	Omnara (YC S25)	https://omnara.com	web	Mobile/web command center to launch and steer coding agents from anywhere	YC directory
+Agent FM	Agent FM (YC)	https://www.ycombinator.com/companies/agent-fm	standalone IDE	Desktop group-chat cockpit to hear and steer multiple coding agents	cbinsights.com YC Spring25 agentic AI
+Murmell	Murmell	https://murmell.com	web	Shared cloud canvas where teams and multiple coding agents work one repo together	producthunt.com/products/murmell
+Greplica	Greplica	https://www.producthunt.com/products/greplica	vertical:agent memory	Self-updating codebase wiki/shared memory for coding agents (OSS core + managed)	Product Hunt launches
+CrewTower	CrewTower	https://www.producthunt.com/categories/ai-coding-agents	vertical:agent supervision	Control and approval layer for coding-agent workflows	Product Hunt AI coding agents category
+Chiplab	Chiplab	https://www.producthunt.com/categories/ai-coding-agents	vertical:firmware testing	Virtual firmware testing/debugging without physical hardware	Product Hunt AI coding agents category
+Refact.ai	Refact	https://refact.ai	IDE plugin	Open-source-core agentic assistant with enterprise self-hosting	CLI/plugin channel
+Reflection AI	Reflection	https://reflection.ai	vertical:code understanding	Asimov code-research agent; raised $2B (2025)	funding news channel
+Tessl	Tessl	https://tessl.io	cloud-autonomous	Spec-driven AI-native development framework/registry; $125M raised (UK)	newmarketpitch AI code assistant fundraising
+Famous	Famous.ai	https://famous.ai	web	Prompt-to-app vibe coding platform	web builder channel
+Hostinger Horizons	Hostinger	https://www.hostinger.com/horizons	web	Hosted no-code AI web app builder	web builder channel
+Same	Same (YC)	https://same.new	web	Agent that clones and rebuilds websites from a URL/prompt	YC directory
+Townie	Val Town	https://www.val.town	web	AI assistant that writes and deploys server vals/apps	web builder channel
+Websim	Websim	https://websim.com	web	Imaginary-web app generator turned consumer vibe-coding site	web builder channel
+Creatr	Creatr	https://getcreatr.com	web	Prompt-to-web-app/landing page builder	web builder channel
+Framer AI	Framer	https://www.framer.com	web	AI site generation (Wireframer/Workshop) inside Framer	web builder channel
+Webflow AI Assistant	Webflow	https://webflow.com	web	AI page/component generation in Webflow	web builder channel
+Airtable Omni	Airtable	https://www.airtable.com	web	AI app-building agent inside Airtable	web builder channel
+Retool AI	Retool	https://retool.com	web	AI app generation and agents for internal tools	web builder channel
+Clark	Superblocks	https://www.superblocks.com	web	Enterprise AI internal-app builder agent; $23M raise	funding news channel
+Glide AI	Glide	https://www.glideapps.com	web	AI-generated business apps from prompts/data	web builder channel
+Builder.ai	Builder.ai	https://www.builder.ai	web	"AI-powered" app assembly platform; collapsed into insolvency 2025	en.wikipedia.org/wiki/Builder.ai
+Instance	Instance	https://apps.apple.com/app/id6744366024	web	iOS vibe-coding app for building mobile apps without code	App Store / mobile channel
+Firebender	Firebender (YC W24)	https://firebender.com	IDE plugin	Coding agent for Android Studio with emulator and LSP access	firebender.com / YC directory
+Alex Sidebar	Alex	https://www.alexcodes.app	IDE plugin	AI coding sidebar for Xcode/iOS developers	G2 / mobile dev channel
+Subframe	Subframe	https://www.subframe.com	vertical:UI generation	AI UI editor generating production React	UI generation channel
+Polymet	Polymet	https://polymet.ai	vertical:UI generation	AI product designer producing design + code	UI generation channel
+Locofy	Locofy	https://www.locofy.ai	vertical:UI generation	Design-to-code with AI (LocoAI/Lightning)	UI generation channel
+Builder.io Fusion	Builder.io	https://www.builder.io	vertical:UI generation	Visual Copilot/Fusion: design-to-code and AI visual editing agents	UI generation channel
+Uizard	Miro	https://uizard.io	vertical:UI generation	AI UI design/prototype generator; acquired by Miro 2024	UI generation channel
+Kombai	Kombai	https://kombai.com	vertical:UI generation	Frontend-specialized coding agent for complex UI codebases	UI generation channel
+UX Pilot	UX Pilot	https://uxpilot.ai	vertical:UI generation	AI UI design generation with code export	UI generation channel
+Codia AI	Codia	https://codia.ai	vertical:UI generation	Screenshot/Figma-to-code AI	UI generation channel
+cubic	cubic (YC X25)	https://cubic.dev	vertical:code review	AI code review that cuts review bottlenecks	cbinsights YC Spring25
+Baz	Baz	https://baz.co	vertical:code review	AI-native code review platform (Israel)	code review channel
+Panto AI	Panto	https://www.pantoai.com	vertical:code review	AI code review with business context	code review channel
+Korbit	Korbit AI	https://www.korbit.ai	vertical:code review	AI mentor/code review for PRs	code review channel
+CodeAnt AI	CodeAnt (YC W24)	https://www.codeant.ai	vertical:code review	Code review + security analysis; $2M seed 2025 (India)	india.entrepreneur.com
+Codacy	Codacy	https://www.codacy.com	vertical:code review	Code quality platform with AI review/fixes	code review channel
+DeepSource	DeepSource	https://deepsource.com	vertical:code review	Static analysis with AI Autofix agents	developersdigest code review roundup
+Diamond	Graphite	https://graphite.dev	vertical:code review	Graphite's AI code review agent; $52M Series B	code review channel
+Optibot	Optimal AI	https://getoptimal.ai	vertical:code review	AI code review agent for engineering teams	getoptimal.ai blog
+Macroscope	Macroscope	https://macroscope.com	vertical:code review	AI that summarizes and reviews code changes	macroscope.com content
+Entelligence	Entelligence AI	https://www.entelligence.ai	vertical:code review	AI engineering intelligence + PR review	code review channel
+Wispbit	Wispbit (YC)	https://wispbit.com	vertical:code review	Codebase-standards enforcement for AI-generated code	YC directory
+Recurse ML	Recurse ML	https://recurse.ml	vertical:code review	ML-driven bug detection on diffs	code review channel
+mrge	mrge (YC X25)	https://www.mrge.io	vertical:code review	AI-native code review workspace	YC directory
+Kodus	Kodus	https://kodus.io	vertical:code review	Open-source-core AI code review agent (Brazil)	code review channel
+LinearB AI	LinearB	https://linearb.io	vertical:code review	gitStream + AI code review inside eng-ops platform	code review channel
+Jazzberry	Jazzberry (YC X25)	https://jazzberry.ai	vertical:bug finding	AI agent that finds bugs in pull requests	cbinsights YC Spring25
+Momentic	Momentic	https://momentic.ai	vertical:testing	AI E2E testing platform; $18.7M raised, customers Notion/Retool	agentmarketcap.ai 2026/04/08
+QA Wolf	QA Wolf	https://www.qawolf.com	vertical:testing	AI + human-backed 80% automated E2E coverage service	testing channel
+Ranger	Ranger	https://www.ranger.net	vertical:testing	AI QA agents with human review ("cyborg" QA)	testing channel
+Spur	Spur (YC S24)	https://www.ycombinator.com/companies/spur	vertical:testing	AI QA engineer that tests web apps from plain-English flows	YC directory
+Meticulous	Meticulous	https://www.meticulous.ai	vertical:testing	Auto-generated visual/E2E tests from recorded user sessions	testing channel
+Checksum	Checksum	https://checksum.ai	vertical:testing	AI-generated E2E tests from production sessions	testing channel
+TestSprite	TestSprite	https://www.testsprite.com	vertical:testing	Autonomous testing agent for AI-generated code	testing channel
+Autify	Autify	https://autify.com	vertical:testing	No-code AI testing (Nova/Zenes) (Japan)	testing channel
+mabl	mabl	https://www.mabl.com	vertical:testing	AI-native test automation with agentic workflows	quashbugs emerging AI QA
+testRigor	testRigor	https://testrigor.com	vertical:testing	Plain-English AI test automation	testing channel
+Functionize	Functionize	https://www.functionize.com	vertical:testing	Agentic cloud test automation	testing channel
+Testim	Tricentis	https://www.testim.io	vertical:testing	AI-stabilized UI test automation; acquired by Tricentis	testing channel
+KaneAI	LambdaTest	https://www.lambdatest.com/kane-ai	vertical:testing	GenAI native test agent on LambdaTest cloud	testing channel
+Keploy	Keploy	https://keploy.io	vertical:testing	Open-source-core API/unit test generation platform (India)	testing channel
+Stably	Stably AI	https://www.stably.ai	vertical:testing	AI-powered E2E test automation	testing channel
+Propolis	Propolis (YC X25)	https://www.ycombinator.com/companies/propolis	vertical:testing	Swarms of browser agents that autonomously QA web apps	cbinsights YC Spring25
+Operative	Operative (YC)	https://www.ycombinator.com/companies/operative	vertical:testing	Browser agents that test what coding agents build	cbinsights YC Spring25
+Quash	Quash	https://quashbugs.com	vertical:mobile testing	AI QA for mobile apps (India)	quashbugs.com blog
+Shiplight	Shiplight AI	https://www.shiplight.ai	vertical:testing	Agentic QA platform	shiplight.ai blog
+BlinqIO	BlinqIO	https://blinq.io	vertical:testing	AI test engineer (multi-agent) for web apps (Israel)	codenote.net AI testing startups 2026
+Qualiti	Qualiti	https://www.qualiti.ai	vertical:testing	AI-driven automated QA service	testing channel
+Bug0	Bug0	https://bug0.com	vertical:testing	Autonomous QA agents + human oversight	testing channel
+Carbonate	Carbonate	https://carbonate.dev	vertical:testing	Plain-English AI browser test generation (UK)	testing channel
+Askui	AskUI	https://www.askui.com	vertical:UI testing	Vision-based UI automation agent (Germany)	European ecosystem channel
+Symflower	Symflower	https://symflower.com	vertical:test generation	Static-analysis-driven unit test generation for Java/Go (Austria)	dev.to Qodo vs Diffblue
+Early	Early (startearly.ai)	https://www.startearly.ai	vertical:test generation	AI agent generating verified unit tests (Israel)	testing channel
+Pixee	Pixee	https://www.pixee.ai	vertical:security fixing	Automated code-hardening/remediation agent (pixeebot)	pixee.ai remediation roundup
+Mobb	Mobb	https://mobb.ai	vertical:security fixing	Auto-fixes SAST findings across scanners (Israel)	cyberflow auto-remediation market map
+Corgea	Corgea	https://corgea.com	vertical:security fixing	AI SAST with automatic vulnerability fixes	corgea.com
+ZeroPath	ZeroPath	https://zeropath.com	vertical:security fixing	AI-native scanning + verified security patches; RSAC 2026 Innovation Sandbox	securityboulevard.com RSAC 2026
+Amplify Security	Amplify	https://www.amplify.security	vertical:security fixing	Auto-remediation of code vulnerabilities in CI	security channel
+DryRun Security	DryRun	https://www.dryrun.security	vertical:security review	AI-native contextual security code review	security channel
+Aikido Autofix	Aikido Security	https://www.aikido.dev	vertical:security fixing	AI autofix PRs for vulnerabilities (Belgium)	security channel
+Nullify	Nullify	https://www.nullify.ai	vertical:security fixing	AI AppSec engineer for finding/fixing vulns	security channel
+XBOW	XBOW	https://xbow.com	vertical:offensive security	Autonomous pentesting agent that writes/executes exploits	codenote.net AI testing startups
+Sentry Seer	Sentry	https://sentry.io	vertical:debugging	AI debugging agent: RCA from telemetry + fix PRs + PR review	sentry.io press release
+Resolve.ai	Resolve AI	https://resolve.ai	vertical:SRE/debugging	AI production engineer for incident RCA and remediation	AI SRE channel
+Traversal	Traversal	https://traversal.com	vertical:SRE/debugging	AI SRE for root-cause analysis in complex systems	fluidify.ai AI SRE tools 2026
+Cleric	Cleric	https://cleric.ai	vertical:SRE/debugging	Self-learning AI SRE agent; Gartner Cool Vendor 2025	betterstack cleric alternatives
+Parity	Parity (YC)	https://www.ycombinator.com/companies/parity	vertical:SRE/debugging	AI SRE that investigates alerts before you open your laptop	YC directory
+Deductive AI	Deductive	https://www.deductive.ai	vertical:debugging	Code-aware reasoning engine for production issue RCA	AI SRE channel
+PlayerZero	PlayerZero	https://www.playerzero.ai	vertical:debugging	AI that connects product defects to code changes and fixes	debugging channel
+Bits AI	Datadog	https://www.datadoghq.com	vertical:SRE/debugging	Datadog's AI agents for incident investigation and dev fixes	AI SRE channel
+incident.io AI SRE	incident.io	https://incident.io	vertical:SRE/debugging	Autonomous incident investigation agent (UK)	AI SRE channel
+Latta	Latta AI	https://latta.ai	vertical:debugging	AI bug-fixing agent from runtime error snapshots (Czechia)	European ecosystem channel
+RunLLM	RunLLM	https://www.runllm.com	vertical:support/debugging	AI support engineer that debugs product issues from logs/code	debugging channel
+Mintlify	Mintlify	https://mintlify.com	vertical:documentation	AI-native docs platform with autonomous writing agent	docuwriter/techiehub docs roundups
+Swimm	Swimm	https://swimm.io	vertical:documentation	Code-coupled docs + legacy/mainframe code understanding (Israel)	docs channel
+Komment	Komment	https://komment.ai	vertical:documentation	Pipeline-driven codebase documentation generation	docs channel
+DocuWriter	DocuWriter.ai	https://www.docuwriter.ai	vertical:documentation	AI code and API doc generation	docs channel
+Theneo	Theneo (YC)	https://www.theneo.io	vertical:API documentation	AI-generated Stripe-quality API docs	YC directory
+Unblocked	Unblocked	https://getunblocked.com	vertical:code Q&A	AI answers about your codebase from code+Slack+Jira context	docs channel
+Driver AI	Driver	https://www.driver.ai	vertical:code understanding	Explains massive legacy/embedded codebases for modernization; $50M+ raised	docs channel
+DeepWiki	Cognition	https://deepwiki.com	vertical:code understanding	Auto-generated interactive wikis for any repo (Devin infrastructure)	docs channel
+Nia	Nia (YC)	https://www.trynia.ai	vertical:agent context	Codebase+docs context API feeding coding agents	YC directory
+Seek AI	Seek	https://www.seek.ai	vertical:SQL	Natural-language-to-SQL enterprise data agent	sketricgen text-to-SQL roundup
+TextQL	TextQL	https://textql.com	vertical:SQL/data	AI analyst (Ana) generating SQL/python over enterprise data	aiagentslist.com TextQL
+Numbers Station	Numbers Station	https://numbersstation.ai	vertical:data/SQL	AI agents for enterprise data stack automation	data channel
+Gibson AI	GibsonAI	https://gibsonai.com	vertical:database	Text-to-database design/migration agent	data channel
+dbt Copilot	dbt Labs	https://www.getdbt.com	vertical:data engineering	AI engineer in dbt for models, tests, docs	data channel
+Mechanical Orchard	Mechanical Orchard	https://www.mechanical-orchard.com	vertical:mainframe migration	AI-driven mainframe rewrite platform (Imogen); Gartner Cool Vendor	businesswire / modernization channel
+Moderne	Moderne	https://www.moderne.io	vertical:refactoring/migration	Mass-scale automated refactoring (OpenRewrite core) + Moddy agent	modernization channel
+Codemod	Codemod	https://codemod.com	vertical:migration	Agentic large-scale code migration platform (open-source core)	tracxn.com/codemod
+ModelCode	ModelCode AI	https://www.modelcode.ai	vertical:migration	AI legacy code modernization at scale	modernization channel
+Lingo.dev	Lingo.dev (ex Replexica)	https://lingo.dev	vertical:i18n	AI localization engineer that ships translated code (YC)	YC directory
+Stakpak	Stakpak	https://stakpak.dev	vertical:DevOps	AI DevOps agent for infrastructure code	YC directory
+Cased	Cased	https://cased.com	vertical:DevOps	AI DevOps/deployment automation agents	DevOps channel
+Kubiya	Kubiya	https://www.kubiya.ai	vertical:DevOps	Agentic DevOps automation (Israel)	DevOps channel
+Pulumi Neo	Pulumi	https://www.pulumi.com	vertical:IaC	AI agent that writes/updates infrastructure-as-code	DevOps channel
+CodeParrot	CodeParrot	https://codeparrot.ai	vertical:UI generation	Figma-to-code VS Code extension (India)	Indian ecosystem channel
+IntelliCode	Microsoft	https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode	62222124	AI-assisted development	vscode-marketplace
+IntelliPHP - AI Suggestions for PHP	DEVSENSE	https://marketplace.visualstudio.com/items?itemName=DEVSENSE.intelli-php-vscode	5862779	Offline AI-assisted development for PHP	vscode-marketplace
+BLACKBOXAI #1 AI Coding Agent and Coding Copilot	BLACKBOXAI	https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox	5350400	AI coding assistant with real-time code completion, documentation, and debugging suggestions	vscode-marketplace
+IntelliCode for C# Dev Kit	Microsoft	https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp	4305860	AI-assisted development for C# Dev Kit	vscode-marketplace
+TraeCode: Coding Assistant	MarsCode	https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension	1907486	ByteDance Trae/MarsCode AI coding assistant	vscode-marketplace
+Mintlify Doc Writer	Mintlify	https://marketplace.visualstudio.com/items?itemName=mintlify.document	1383223	AI powered documentation writer for all major languages	vscode-marketplace
+Bito AI Code Reviews	Bito	https://marketplace.visualstudio.com/items?itemName=Bito.Bito	948073	Agentic, codebase-aware AI code reviews in the IDE without creating a PR	vscode-marketplace
+Kade: AI Coding Agent	kade	https://open-vsx.org/extension/kade/kade	919943	Cline/RooCode/Kilo fork for AI-assisted coding, planning, and development	open-vsx
+Agentforce Vibes	Salesforce	https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-einstein-gpt	887091	Generative AI development for the Salesforce Platform	vscode-marketplace
+Atlassian: Jira, Rovo Dev, Bitbucket	atlassian	https://open-vsx.org/extension/atlassian/atlascode	741258	Atlassian Rovo Dev coding agent plus Jira/Bitbucket integration in VS Code	open-vsx
+ChatGPT [deprecated]	Ali Gençay	https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt	556875	Unofficial VS Code ChatGPT integration with code generation/editing	vscode-marketplace
+Sixth AI Coding Assistant	Sixth	https://marketplace.visualstudio.com/items?itemName=Sixth.sixth-ai	460740	Lightweight AI coding platform with agent, copilot, debugger, code generation across many models	vscode-marketplace
+Code Web Chat	robertpiosik	https://open-vsx.org/extension/robertpiosik/gemini-coder	410960	AI coding with static context (CWC)	open-vsx
+SASVA - Generative and Deterministic AI Platform	Persistent	https://marketplace.visualstudio.com/items?itemName=Persistent.sasva	303329	Persistent Systems generative AI software engineering platform	vscode-marketplace
+Codaro	Codaro	https://open-vsx.org/extension/Codaro/Codaro	262709	Agentic code review catching security leaks, logic errors, and AI hallucinations locally	open-vsx
+DeepSeek R1	colourafredi	https://marketplace.visualstudio.com/items?itemName=colourafredi.vscode-deepseek	257012	Write, review, explain, refactor, and test code with DeepSeek models	vscode-marketplace
+WAVE AI Code Review & Analysis	Developer Productivity	https://marketplace.visualstudio.com/items?itemName=devprod.vulnerability-extension	209077	AI-powered code review and analysis inside VS Code	vscode-marketplace
+OpenChamber	FedaykinDev	https://open-vsx.org/extension/FedaykinDev/openchamber	204632	AI coding assistant powered by OpenCode	open-vsx
+Volar	VolarTools	https://marketplace.visualstudio.com/items?itemName=VolarTools.volar-ai	147752	Plan, Review & Build with AI	vscode-marketplace
+DeepSeek Code Generator	Peter' Studio	https://marketplace.visualstudio.com/items?itemName=DavidDai.deepseek-code-generator	143828	Generate code using DeepSeek AI	vscode-marketplace
+Pieces for VS Code	Mesh Intelligent Technologies	https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode	142339	On-device storage agent and AI coding assistant across the toolchain	vscode-marketplace
+Azad Coder (GPT 5 & Claude)	kodu-ai	https://marketplace.visualstudio.com/items?itemName=kodu-ai.claude-dev-experimental	138901	AI pair programmer powered by Claude and GPT-5 (Cline fork)	vscode-marketplace
+twinny - AI Code Completion and Chat	rjmacarthy	https://open-vsx.org/extension/rjmacarthy/twinny	128863	Locally hosted AI code completion and chat plugin	open-vsx
+Metabob: Debug and Refactor with AI	Metabob	https://marketplace.visualstudio.com/items?itemName=Metabob.metabob	112512	Generative AI to automate debugging and refactoring Python code	vscode-marketplace
+Kodezi AI	Kodezi	https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi	105361	AI autocorrect and dev-tool platform for programming productivity	vscode-marketplace
+Zoo Code	ZooCodeOrganization	https://open-vsx.org/extension/ZooCodeOrganization/zoo-code	94345	A whole dev team of AI agents in your editor (Roo fork)	open-vsx
+CodeMate AI - Full Stack Coding Agent	CodeMate AI	https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate	83817	On-device AI coding agent automating the software development flow	vscode-marketplace
+Llama Coder	Steve Korshakov	https://marketplace.visualstudio.com/items?itemName=ex3ndr.llama-coder	82449	Self-hosted GitHub Copilot replacement using local Llama models	vscode-marketplace
+llm-vscode	Hugging Face	https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode	75004	LLM powered development with Hugging Face models	vscode-marketplace
+AppMap	AppMap	https://marketplace.visualstudio.com/items?itemName=appland.appmap	71709	AI chat (Navie) with runtime understanding of your code for building solutions	vscode-marketplace
+Abacus AI Agent	abacusai	https://open-vsx.org/extension/abacusai/abacusai-agent	69579	AI-powered coding assistant/agent for VS Code	open-vsx
+AI QuickFix	Double Technologies	https://marketplace.visualstudio.com/items?itemName=HaselerDev.aiquickfix	68510	One-click ChatGPT/GPT-4 lightbulb fixes for linter and editor problems	vscode-marketplace
+Bandit Stealth	BurtsonLabs	https://open-vsx.org/extension/BurtsonLabs/bandit-stealth	66848	Local-first coding agent running Ollama models with tool use, diff approvals, and voice	open-vsx
+VSCode Ollama	warm3snow	https://marketplace.visualstudio.com/items?itemName=warm3snow.vscode-ollama	65402	Integrates Ollama local LLM capabilities into development workflow	vscode-marketplace
+ABAP remote filesystem	Marcello Urbani	https://marketplace.visualstudio.com/items?itemName=murbani.vscode-abap-remote-fs	64028	VS Code-based agentic AI platform for SAP ABAP development	vscode-marketplace
+Double	Double Technologies	https://marketplace.visualstudio.com/items?itemName=doublebot.doublebot	61759	AI coding assistant: chat, delegated edits, autocomplete with DeepSeek R1, o1, Sonnet	vscode-marketplace
+Refact – Open-Source AI Agent	smallcloud	https://marketplace.visualstudio.com/items?itemName=smallcloud.codify	60557	Open-source AI agent that autonomously handles engineering tasks end-to-end	vscode-marketplace
+Frontier: Figma to React	AnimaApp	https://marketplace.visualstudio.com/items?itemName=AnimaApp.vscode-anima	60175	AI frontend assistant converting Figma to React using your design system	vscode-marketplace
+ContextCode by ContextStream	contextstream	https://open-vsx.org/extension/contextstream/contextcode	58937	Context-native coding agent with memory, model routing, and reviewable output	open-vsx
+CodeArts Agent	Huawei Cloud	https://marketplace.visualstudio.com/items?itemName=HuaweiCloud.vscode-codebot	50964	Huawei Cloud AI coding agent	vscode-marketplace
+Ponicode	Ponicode	https://marketplace.visualstudio.com/items?itemName=ponicode.ponicode	48068	AI-powered JavaScript unit test generation	vscode-marketplace
+AI Smart Coder	Ainity	https://marketplace.visualstudio.com/items?itemName=Ainity.SmartAICoder	47428	AI-generated unit tests, code review, documentation, and error fixes with ChatGPT	vscode-marketplace
+StackSpot AI	Stackspot AI	https://marketplace.visualstudio.com/items?itemName=StackspotAI.StackSpotAI	45404	AI tool with code generation and chat capabilities	vscode-marketplace
+Alva - AI Assistant, Chat & Code Lab	Alva AI	https://marketplace.visualstudio.com/items?itemName=AlvaAI.Alva	44026	Autocorrect, secure, test, and improve code with AI	vscode-marketplace
+MPLAB AI Coding Assistant	Microchip Technology	https://marketplace.visualstudio.com/items?itemName=Microchip.mplab-ai-coding-assistant	43507	AI code assistant optimized for Microchip embedded products	vscode-marketplace
+Aide	nicepkg	https://marketplace.visualstudio.com/items?itemName=nicepkg.aide-pro	41538	One-click comments, conversions, UI-to-code, and AI batch processing of files	vscode-marketplace
+llama-vscode	ggml.ai	https://marketplace.visualstudio.com/items?itemName=ggml-org.llama-vscode	41188	Local LLM-assisted code completion using llama.cpp	vscode-marketplace
+Monica Code	Monica Team	https://marketplace.visualstudio.com/items?itemName=MonicaIM.monica-code	40589	The Monica AI code assistant	vscode-marketplace
+Rubberduck - ChatGPT for Visual Studio Code	Rubberduck AI	https://marketplace.visualstudio.com/items?itemName=Rubberduck.rubberduck-vscode	40266	Generate code, edit code, generate tests, find bugs, diagnose errors with ChatGPT	vscode-marketplace
+Koda	Koda	https://marketplace.visualstudio.com/items?itemName=Koda.koda	39030	Russian AI service for developers (AI coding assistant)	vscode-marketplace
+Verdent for VS Code	verdentai	https://open-vsx.org/extension/verdentai/verdent	37402	All-in-one coding agent orchestrating top-tier AI models; high SWE-bench Verified score	open-vsx
+Zhanlu - AI Coding Assistant	湛卢	https://marketplace.visualstudio.com/items?itemName=ecloud.zhanlu	36032	Chinese AI coding partner with automatic code generation	vscode-marketplace
+Safurai - AI Assistant	Safurai	https://marketplace.visualstudio.com/items?itemName=Safurai.Safurai	35222	AI assistant plugin for searching, changing, and improving code	vscode-marketplace
+AI Commit	Sitoi	https://marketplace.visualstudio.com/items?itemName=Sitoi.ai-commit	34210	OpenAI/Gemini/Claude-based git change review and conventional commit generation	vscode-marketplace
+Mistral Code Enterprise	Mistral AI	https://marketplace.visualstudio.com/items?itemName=mistralai.mistral-code	33758	AI coding copilot powered by Mistral coding models	vscode-marketplace
+Antigravity for VS Code	lyadhgod	https://marketplace.visualstudio.com/items?itemName=lyadhgod.antigravity-vscode	33603	Brings Google's Antigravity CLI agentic coding companion into VS Code	vscode-marketplace
+WiseGPT (Coding Assistant by DhiWise)	DhiWise	https://marketplace.visualstudio.com/items?itemName=dhiwisepvtltd.dhiwisecodesync	32570	Analyzes your codebase to produce personalized production-ready code	vscode-marketplace
+Monk	monk	https://open-vsx.org/extension/monk/vscode-monk	30963	Autonomous DevOps agent working inside the IDE	open-vsx
+Captain Stack	Captain Stack	https://marketplace.visualstudio.com/items?itemName=captainstack.captain-stack	30788	Code suggestions from AI and StackOverflow/Gist	vscode-marketplace
+AI Assistant by JetBrains	JetBrains	https://marketplace.visualstudio.com/items?itemName=JetBrains.jetbrains-ai-assistant	29257	JetBrains AI coding agent, chat, and code completion for VS Code	vscode-marketplace
+Preqorsor for VS Code	silimate	https://open-vsx.org/extension/silimate/preqorsor	28923	Copilot for chip designers	open-vsx
+ACP Client	Jun Han	https://marketplace.visualstudio.com/items?itemName=formulahendry.acp-client	25922	Agent Client Protocol client connecting Copilot, Claude Code, Gemini CLI, Qwen Code, Codex CLI, OpenCode	vscode-marketplace
+SRD CodeFree	China Telecom Research Institute	https://marketplace.visualstudio.com/items?itemName=srdcloud.srd-copilot-vscode	25354	China Telecom AI programming assistant	vscode-marketplace
+Nova Act	amazonwebservices	https://open-vsx.org/extension/amazonwebservices/amazon-nova-act-extension	25216	Generate, debug, and run web automation scripts with natural language	open-vsx
+Aone Copilot	Aone	https://marketplace.visualstudio.com/items?itemName=Aone.aone-copilot	24870	Alibaba internal AI code completion plugin	vscode-marketplace
+Qiskit Code Assistant (Beta)	qiskit	https://marketplace.visualstudio.com/items?itemName=qiskit.qiskit-vscode	23784	Generative AI assistant for writing and optimizing Qiskit quantum code	vscode-marketplace
+Orbital AI Coding Agent / AI Code Reviews	matterai	https://open-vsx.org/extension/matterai/axon-code	22796	AI coding agent for planning, building, fixing code with AI code review	open-vsx
+TestFox	TestFox	https://open-vsx.org/extension/TestFox/testfox	22683	AI-powered comprehensive testing with 18+ test categories including security	open-vsx
+Hope AI	bit	https://open-vsx.org/extension/bit/hope-ai	22041	Bit's Hope AI component-driven code generation	open-vsx
+EarlyAI	EarlyAI	https://marketplace.visualstudio.com/items?itemName=Early-AI.EarlyAI	19743	Auto-generates verified unit tests for JavaScript, TypeScript, Python	vscode-marketplace
+Flexpilot	Flexpilot	https://marketplace.visualstudio.com/items?itemName=flexpilot.flexpilot-vscode-extension	16761	Open-source native GitHub Copilot alternative	vscode-marketplace
+GenAIScript	Microsoft	https://marketplace.visualstudio.com/items?itemName=genaiscript.genaiscript-vscode	14869	Generative AI scripting for automating code and file transformations	vscode-marketplace
+VSCode Reborn AI	chris-hayes	https://open-vsx.org/extension/chris-hayes/chatgpt-reborn	14701	Code with AI in VSCode with your choice of model	open-vsx
+Samurai Agent	SamuraiAgent	https://open-vsx.org/extension/SamuraiAgent/samurai-agent	14242	Shows regression risk after AI code edits and reviews risky JS/TS changes	open-vsx
+Crispy	the-sylvester	https://open-vsx.org/extension/the-sylvester/crispy	13562	GUI for Claude Code and Codex with multi-agent orchestration and adversarial verification	open-vsx
+MyFlicker	kuaishou	https://marketplace.visualstudio.com/items?itemName=kuaishou.kwaipilot	13377	Kuaishou intelligent coding tool with agent mode, code continuation, edit prediction	vscode-marketplace
+Nsight Copilot	NVIDIA	https://open-vsx.org/extension/NVIDIA/nsight-copilot	12499	NVIDIA's accelerated computing programming assistant	open-vsx
+DeepSource Autofix AI	DeepSource Corp	https://marketplace.visualstudio.com/items?itemName=DeepSourceCorp.deepsource-vscode	12150	Static analysis with AI-powered autofix	vscode-marketplace
+Agentforce Vibes 2.0	salesforce	https://open-vsx.org/extension/salesforce/salesforcedx-agentforce-vibes-2	11762	Turn-based Salesforce agent combining Claude Agent SDK or OpenAI Agents SDK	open-vsx
+Calva Backseat Driver	betterthantomorrow	https://open-vsx.org/extension/betterthantomorrow/calva-backseat-driver	11475	Makes Copilot an interactive Clojure programmer with REPL tools	open-vsx
+Trae AI Helper	trae	https://open-vsx.org/extension/trae/ai-ide	11340	ByteDance Trae AI helper	open-vsx
+Debugg AI	debugg-ai	https://open-vsx.org/extension/debugg-ai/debugg-ai	11230	Zero-config fully AI-managed end-to-end testing	open-vsx
+ChatIDE	ChatIDE	https://marketplace.visualstudio.com/items?itemName=ChatIDE.chatide	10874	Open-source coding and debugging assistant supporting GPT and Claude	vscode-marketplace
+Privy	Privy	https://marketplace.visualstudio.com/items?itemName=privy.privy-vscode	10744	Local AI coding autocomplete, chat, test generation, bug finding	vscode-marketplace
+UnodeAi — Multi-Model AI Team	unode	https://open-vsx.org/extension/unode/unodeai	9960	Project manager delegates coding across role agents on different models with receipts	open-vsx
+CodeRider	JiHu-GitLab	https://marketplace.visualstudio.com/items?itemName=Jihu-GitLab.coderider-kilo	9629	GitLab China (JiHu) agentic coding extension	vscode-marketplace
+Cypress Copilot	Suresh Nettur	https://marketplace.visualstudio.com/items?itemName=SureshNettur.ccaia	9510	Automates web testing by generating Cypress and Cucumber/BDD code	vscode-marketplace
+App Developer Copilot	Sinduja Ramaraj	https://marketplace.visualstudio.com/items?itemName=sindujaramaraj.app-developer-copilot	9275	App developer agent for creating web and mobile apps	vscode-marketplace
+Zode	youzan	https://open-vsx.org/extension/youzan/zode	9030	Youzan's AI code agent	open-vsx
+ChatGPT Batch	Chad Bumstead	https://marketplace.visualstudio.com/items?itemName=ChadBumstead.vscode-chatgpt-batch	8943	Multi-file batch changes such as refactoring and unit test generation via ChatGPT	vscode-marketplace
+Perplexity Pro AI Chat	Muzzafar Rather	https://marketplace.visualstudio.com/items?itemName=MuzzafarRather.perplexity-pro-ai-chat	8472	Mimics Copilot Chat agent functionality using Perplexity Pro as backend	vscode-marketplace
+MutyAgent – AI Agent	mutyai	https://open-vsx.org/extension/mutyai/mutyagent	8258	Proactive AI agent for writing, coding, research, and data analysis	open-vsx
+A11yResolver	A11ySolutions	https://open-vsx.org/extension/A11ySolutions/a11y-resolver-vscode-chat	8110	AI-powered accessibility fixing agent	open-vsx
+IBM Bob Premium Package for Java Modernization	IBM	https://open-vsx.org/extension/IBM/bob-java	7957	Java modernization agent with guided upgrades, migration, and unit test generation	open-vsx
+PixelPilot Copilot: FiveM AI Agent	PixelPilotAILabs	https://open-vsx.org/extension/PixelPilotAILabs/PixelPilot-copilot	7936	AI agent for FiveM/GTA5 development writing production Lua and auto-fixing errors	open-vsx
+Jovyan AI	jovyan-ai	https://open-vsx.org/extension/jovyan-ai/jovyan	7842	AI copilot for data science in Jupyter notebooks using natural language	open-vsx
+Granite.Code	redhat	https://open-vsx.org/extension/redhat/granitecode	7306	Red Hat open-source coding assistant with local Granite AI models	open-vsx
+Pi Coding Agent	pi0	https://marketplace.visualstudio.com/items?itemName=pi0.pi-vscode	7295	VS Code extension for the pi coding agent	vscode-marketplace
+Gemini Unit Test Generator	Zazmic	https://marketplace.visualstudio.com/items?itemName=Zazmic.palm-api-test-generator	7290	Generate unit tests with Gemini language models	vscode-marketplace
+Syntx Agentic Workforce	OrangecatAI	https://marketplace.visualstudio.com/items?itemName=OrangecatTechPvtLtd.syntx	7246	Cursor-for-VSCode plus Cline/Roo features combined: AI peer programmer	vscode-marketplace
+HuoHuaAI	huohuaai	https://marketplace.visualstudio.com/items?itemName=huohuaai.huohuaai	7246	Chinese AI programming assistant with completion, debugging, project creation	vscode-marketplace
+AllAi Code	OSF Digital	https://marketplace.visualstudio.com/items?itemName=OSFDigital.wingman	6718	AI coding assistant for Salesforce professionals	vscode-marketplace
+Devin Sessions - AI Coding Assistant	Thanks Ben	https://marketplace.visualstudio.com/items?itemName=thanksben.devin-sessions	6644	View, manage, chat with, and create Devin AI sessions in the editor	vscode-marketplace
+Haka AI Studio	HakaLabChile	https://open-vsx.org/extension/HakaLabChile/haka-ai-studio	6518	AI test automation studio for Playwright and Selenium generating Gherkin tests	open-vsx
+Vibe Kanban	bloop	https://marketplace.visualstudio.com/items?itemName=bloop.vibe-kanban	6439	Control your Vibe Kanban coding agents from within VS Code	vscode-marketplace
+Free Repo Agent	SUMITKUMARSINGH	https://open-vsx.org/extension/SUMITKUMARSINGH/free-repo-agent	6308	Free repo-aware autonomous coding agent (DeepSeek) that edits files and runs commands	open-vsx
+Wingman-AI	WingMan	https://marketplace.visualstudio.com/items?itemName=WingMan.wing-man	6016	AI agentic coding assistant working with Anthropic, OpenAI, Azure and Ollama	vscode-marketplace
+watsonx Code Assistant for Enterprise Java Applications	IBM	https://marketplace.visualstudio.com/items?itemName=IBM.wca-eja	5473	Enterprise Java modernization with generative AI	vscode-marketplace
+Groqopilot	Unclecode	https://marketplace.visualstudio.com/items?itemName=Unclecode.groqopilot	5466	Llama3 + Groq fast coding assistant	vscode-marketplace
+Claude Autopilot	benbasha	https://open-vsx.org/extension/benbasha/claude-autopilot	5423	Automated Claude Code task management with queue processing and auto-resume	open-vsx
+Tunor AI	tunor-ai	https://open-vsx.org/extension/tunor-ai/tunor-ai	5224	AI automation of Playwright tests	open-vsx
+Dev Agent (小D同学)	DEDE-cn F	https://plugins.jetbrains.com/plugin/29207---d---	58	Dev Agent is an AI-powered intelligent development assistant plugin for IntelliJ Platform	jetbrains-marketplace
+ProxyAI	Proxy OÜ	https://plugins.jetbrains.com/plugin/21056-proxyai	951588	AI-powered code assistant (formerly CodeGPT); BYO-model alternative to Cursor/Copilot	jetbrains-marketplace
+ChatGPT-Plus	yuxin	https://plugins.jetbrains.com/plugin/21230-chatgpt-plus	183596	Chinese AI assistant plugin; ask AI to help write code in the IDE	jetbrains-marketplace
+CalEx-JavaAI : AI Coding Assistant	feisuanyz	https://plugins.jetbrains.com/plugin/26766-calex-javaai--ai-coding-assistant	122425	Chinese agentic coding platform for Java	jetbrains-marketplace
+Machinet AI GPT-4 Chat and Unit Tests	Machinet Inc.	https://plugins.jetbrains.com/plugin/17510-machinet-ai-gpt-4-chat-and-unit-tests	115923	Context-aware AI chat and unit test generation	jetbrains-marketplace
+TalkX - ChatGPT GPT-4 Free AI code assistant	huxiao.mail	https://plugins.jetbrains.com/plugin/22181-talkx--chatgpt-gpt-4-free-ai-code-assistant	91793	Free AI programming assistant based on OpenAI GPT-4 (Chinese vendor)	jetbrains-marketplace
+DevoxxGenie	Devoxx	https://plugins.jetbrains.com/plugin/24169-devoxxgenie	90221	Open-source AI coding assistant supporting local and cloud LLMs	jetbrains-marketplace
+AI Coding Assistant	Andrew Charneski	https://plugins.jetbrains.com/plugin/20724-ai-coding-assistant	64264	Open-source IntelliJ AI coding assistant with code generation tools	jetbrains-marketplace
+ClaudeMind	Clinde	https://plugins.jetbrains.com/plugin/25082-claudemind	59791	Claude-powered AI coding assistant in JetBrains workflow	jetbrains-marketplace
+LaraAssist - AI Assistant for Laravel	Afjalur Rahman Rana	https://plugins.jetbrains.com/plugin/21187-laraassist--ai-assistant-for-laravel	21822	AI assistant for Laravel developers	jetbrains-marketplace
+FlutterGPT	unknown	https://plugins.jetbrains.com/plugin/21568-fluttergpt	16593	Open-source ChatGPT assistant for Flutter code in-IDE	jetbrains-marketplace
+ChatCode - Chinaunicom AI Coding Assistant	ChatCode	https://plugins.jetbrains.com/plugin/26237-chatcode--chinaunicom-ai-coding-assistant	14222	China Unicom Yuanjing intelligent R&D assistance tool	jetbrains-marketplace
+CodeMaker AI	CodeMaker AI Inc.	https://plugins.jetbrains.com/plugin/21445-codemaker-ai	12351	Tools and automation for writing, testing, documenting code with AI	jetbrains-marketplace
+Agent Workbench	Vladimir Krivosheev	https://plugins.jetbrains.com/plugin/30926-agent-workbench	10192	Renamed to AIR; agent workbench for running AI coding agents in JetBrains	jetbrains-marketplace
+AI Code Review	Yonatha Almeida	https://plugins.jetbrains.com/plugin/21106-ai-code-review	10155	Code reviews using ChatGPT, Bard, and other AI	jetbrains-marketplace
+Kwaipilot	kuaishou	https://plugins.jetbrains.com/plugin/23920-kwaipilot	9387	Kuaishou LLM-based AI coding assistant	jetbrains-marketplace
+AI Predictive Coding	aicodes	https://plugins.jetbrains.com/plugin/9203-ai-predictive-coding	9016	AI autocomplete ranking and comment-to-code inference	jetbrains-marketplace
+TestSpark	JetBrains s.r.o.	https://plugins.jetbrains.com/plugin/21024-testspark	8737	Unit test generation plugin integrating AI-based test generation (JetBrains Research)	jetbrains-marketplace
+Onuro - AI Code Assistant	onuro	https://plugins.jetbrains.com/plugin/22895-onuro--ai-code-assistant	8393	AI code assistant across all JetBrains IDEs	jetbrains-marketplace
+Explyt AI Agent	Explicit Insights LLC	https://plugins.jetbrains.com/plugin/27979-explyt-ai-agent	8262	IDE-native AI agent using JetBrains IDE APIs instead of terminal commands	jetbrains-marketplace
+QAX CodeGen	QI-ANXIN GROUP	https://plugins.jetbrains.com/plugin/24156-qax-codegen	5018	Open-source AI coding agent (Chinese security vendor)	jetbrains-marketplace
+Flow Coder	CI&T Flow	https://plugins.jetbrains.com/plugin/27434-flow-coder	4638	Create custom AI code assistants via CI&T Flow	jetbrains-marketplace
+gpt-copilot	wei ku	https://plugins.jetbrains.com/plugin/21238-gpt-copilot	3619	Personal GPT-based code assistant	jetbrains-marketplace
+AI Assistant Providers / Sessions	Daniel Espendiller	https://plugins.jetbrains.com/plugin/29900-ai-assistant-providers--sessions	3528	Configure multiple AI providers inside JetBrains AI Assistant	jetbrains-marketplace
+Vajra - AI Coding Assistant	Ashish Sharda	https://plugins.jetbrains.com/plugin/29033-vajra--ai-coding-assistant	3365	Free open-source AI coding assistant for JetBrains IDEs	jetbrains-marketplace
+Verdent	verdent	https://plugins.jetbrains.com/plugin/29473-verdent	3006	AI-powered agentic coding assistant for JetBrains	jetbrains-marketplace
+Shire - AI Coding Agent Language	Phodal Huang	https://plugins.jetbrains.com/plugin/24549-shire--ai-coding-agent-language	2789	AI coding and agent DSL enabling LLM-IDE communication	jetbrains-marketplace
+NexChat	vrisego	https://plugins.jetbrains.com/plugin/31263-nexchat	2507	All-in-one AI coding assistant	jetbrains-marketplace
+RefactorGPT	Hyesong Kim	https://plugins.jetbrains.com/plugin/22014-refactorgpt	2481	Refactor selected code using ChatGPT	jetbrains-marketplace
+AgentHub	AgentHub	https://plugins.jetbrains.com/plugin/32310-agenthub	2306	Toolbar button launching any popular CLI coding agent	jetbrains-marketplace
+CodeAntAI	CodeAnt AI	https://plugins.jetbrains.com/plugin/23405-codeantai	1988	Automated AI code reviewer catching bugs at commit time	jetbrains-marketplace
+Harness AI Code Assistant	Harness Inc	https://plugins.jetbrains.com/plugin/26296-harness-ai-code-assistant	1963	Harness's AI code assistant for JetBrains	jetbrains-marketplace
+Coding By DeepSeek Or ChatGPT Or OtherAI	jiangze	https://plugins.jetbrains.com/plugin/27594-coding-by-deepseek-or-chatgpt-or-otherai	1651	IDE-based AI coding assistant covering five workflows	jetbrains-marketplace
+ChainlessChain IDE Bridge	chainlesschain	https://plugins.jetbrains.com/plugin/32208-chainlesschain-ide-bridge	1608	Brings the ChainlessChain cc agent CLI into JetBrains as a side-panel coding agent	jetbrains-marketplace
+JAIPilot - One-Click AI Agent for Java Unit Testing	JAIPilot	https://plugins.jetbrains.com/plugin/27706-jaipilot--one-click-ai-agent-for-java-unit-testing	1547	AI agent that generates, runs, and fixes Java unit tests	jetbrains-marketplace
+Azure Coding	小白菜	https://plugins.jetbrains.com/plugin/22194-azure-coding	1319	Use Azure OpenAI to write, interpret, and optimize code	jetbrains-marketplace
+CPS Agent	Steffen Schubert	https://plugins.jetbrains.com/plugin/25434-cps-agent	1253	Conversational LLM-based agent for programming tasks	jetbrains-marketplace
+QTA SmartTest	QTA	https://plugins.jetbrains.com/plugin/29217-qta-smarttest	1058	Tencent QTA AI testing plugin with one-click unit test generation	jetbrains-marketplace
+Llamatik Code	Llamatik AI	https://plugins.jetbrains.com/plugin/31304-llamatik-code	1015	Local-first AI coding assistant	jetbrains-marketplace
+LQCodeMind	lq-developer	https://plugins.jetbrains.com/plugin/29215-lqcodemind	1001	AI agent for development tasks plus source-controlled AI checks	jetbrains-marketplace
+Claude Review	kmfink	https://plugins.jetbrains.com/plugin/30307-claude-review	961	Runs Claude Code on unstaged git diffs on save	jetbrains-marketplace
+On-Device AI Code Review	JEONYOUNGHO	https://plugins.jetbrains.com/plugin/25074-on-device-ai-code-review	905	Ollama-powered AI code reviews entirely on-device	jetbrains-marketplace
+AgentellIJ	AgentelliJ	https://plugins.jetbrains.com/plugin/31082-agentellij	886	Hosts terminal-based AI coding agents in IntelliJ	jetbrains-marketplace
+GPT CodeHelper	daodao97	https://plugins.jetbrains.com/plugin/22235-gpt-codehelper	867	GPT-based personal code assistant	jetbrains-marketplace
+Code Assistant	vyibc ai	https://plugins.jetbrains.com/plugin/28486-code-assistant	865	AI code translation, explanation, and chat via multiple providers	jetbrains-marketplace
+Pi Agent Launcher	haokanjiang	https://plugins.jetbrains.com/plugin/31737-pi-agent-launcher	837	One-click launcher keeping the Pi coding agent CLI inside the IDE	jetbrains-marketplace
+AICodeTransformer	sualpha	https://plugins.jetbrains.com/plugin/28570-aicodetransformer	810	Trigger custom AI instructions via shortcuts	jetbrains-marketplace
+By AI Code Review	ByAICodeReview	https://plugins.jetbrains.com/plugin/25869-by-ai-code-review	770	LLM-based code review assistant (Chinese vendor)	jetbrains-marketplace
+Rikki Coding Agent	Creeper5261	https://plugins.jetbrains.com/plugin/30315-rikki-coding-agent	753	Lightweight AI coding assistant connecting directly to LLM APIs	jetbrains-marketplace
+Oraclia AI	Pavel Ch	https://plugins.jetbrains.com/plugin/27674-oraclia-ai	721	AI-powered code assistant for JetBrains	jetbrains-marketplace
+AgentPort	AgentPort	https://plugins.jetbrains.com/plugin/30472-agentport	698	Universal ACP client connecting any Agent Client Protocol agent to JetBrains	jetbrains-marketplace
+RX GUI	68110923	https://plugins.jetbrains.com/plugin/32054-rx-gui	643	Reasonix AI coding assistant sidebar	jetbrains-marketplace
+Guidewire AI Agent	Arka	https://plugins.jetbrains.com/plugin/32462-guidewire-ai-agent	617	Enterprise agentic IDE plugin for Guidewire development	jetbrains-marketplace
+DeepSeek Code Assistant	Lingxi	https://plugins.jetbrains.com/plugin/29569-deepseek-code-assistant	549	DeepSeek-API-powered code modification tool	jetbrains-marketplace
+Jitera	Jitera	https://plugins.jetbrains.com/plugin/25696-jitera	527	AI programming agent/context system automating code	jetbrains-marketplace
+Refio	jclab	https://plugins.jetbrains.com/plugin/30487-refio	523	Local-first AI coding assistant with native IntelliJ integration	jetbrains-marketplace
+OmniCode Agent	OmniCode	https://plugins.jetbrains.com/plugin/33002-omnicode-agent	488	Provider-neutral AI coding and research agent with editable Plan Board	jetbrains-marketplace
+CybeDefend	CybeDefend	https://plugins.jetbrains.com/plugin/27580-cybedefend	477	AI-powered coding agent and security scanner	jetbrains-marketplace
+Naixt	stephen-chancetop	https://plugins.jetbrains.com/plugin/26662-naixt	448	Coding agent with configurable LLM endpoint	jetbrains-marketplace
+KaiTester	Valentin Podkopaev	https://plugins.jetbrains.com/plugin/26141-kaitester	445	AI-powered unit test generator for Kotlin	jetbrains-marketplace
+CodeFlux	CodeFlux	https://plugins.jetbrains.com/plugin/26937-codeflux	440	Open-source AI coding assistant; connect any model	jetbrains-marketplace
+Agent GUI	matsumo0922	https://plugins.jetbrains.com/plugin/30428-agent-gui	422	Native chat GUI for AI coding agents inside JetBrains	jetbrains-marketplace
+QA CoPilot	Piyush Joshi	https://plugins.jetbrains.com/plugin/31496-qa-copilot	386	AI-powered API test generation for Spring Boot	jetbrains-marketplace
+ETRX Code Reviewer	Chiny Chiu	https://plugins.jetbrains.com/plugin/28439-etrx-code-reviewer	363	AI code review with customizable prompts	jetbrains-marketplace
+CodeSense AI	chenp	https://plugins.jetbrains.com/plugin/31277-codesense-ai	347	LLM-powered intelligent code assistant (Chinese)	jetbrains-marketplace
+AxxCodeIDX	devopts	https://plugins.jetbrains.com/plugin/23016-axxcodeidx	346	AI coding assistant with real-time completion and chat	jetbrains-marketplace
+AI Agent CLI Bridge	Hannos	https://plugins.jetbrains.com/plugin/31364-ai-agent-cli-bridge	345	Launch preconfigured AI terminal sessions with IDE context	jetbrains-marketplace
+Sypha	Sypha	https://plugins.jetbrains.com/plugin/30512-sypha	338	AI coding assistant for planning, improvising, debugging	jetbrains-marketplace
+AI Tests By Mavka	Clear Solutions	https://plugins.jetbrains.com/plugin/27702-ai-tests-by-mavka	330	AI-powered unit test generation	jetbrains-marketplace
+LISA AI Assistant	trinadhkoya	https://plugins.jetbrains.com/plugin/29577-lisa-ai-assistant	321	Language-Integrated Smart Agent AI companion	jetbrains-marketplace
+Auto Git CR	KanDaWa	https://plugins.jetbrains.com/plugin/29692-auto-git-cr	309	Automatic AI code review after git commit	jetbrains-marketplace
+SmartDoc	Vahid Etemadi	https://plugins.jetbrains.com/plugin/28786-smartdoc	300	AI agent for method documentation updates	jetbrains-marketplace
+Sigil - Coding Assistant	José M. Nieves	https://plugins.jetbrains.com/plugin/32492-sigil--coding-assistant	299	AI-assisted development plugin powered by OpenCode	jetbrains-marketplace
+JDC Pre-Commit Code Review	jdctools	https://plugins.jetbrains.com/plugin/27669-jdc-pre-commit-code-review	285	Automatic AI-driven code reviews before Git commits	jetbrains-marketplace
+codayinid	ptitcoutu	https://plugins.jetbrains.com/plugin/25806-codayinid	273	Integration of the Coday AI agent orchestrator in IntelliJ	jetbrains-marketplace
+Code Review Helper 1.1.0	Rohit Phutane	https://plugins.jetbrains.com/plugin/27318-code-review-helper-1-1-0	266	Lightweight AI code reviewer for Java files during commit	jetbrains-marketplace
+Sema Code	SemaCode	https://plugins.jetbrains.com/plugin/32783-sema-code	241	AI coding assistant / code copilot for JetBrains	jetbrains-marketplace
+3TG TaaS	Coding Creed Technologies	https://plugins.jetbrains.com/plugin/30365-3tg-taas	222	Behavior-first AI test generation for TypeScript and React	jetbrains-marketplace
+SpecBuddy	SpecBuddy	https://plugins.jetbrains.com/plugin/32645-specbuddy	221	Structured plan-to-step control layer over AI coding agents	jetbrains-marketplace
+iHomeCoder-Win	iHomeCoder-Win	https://plugins.jetbrains.com/plugin/32575-ihomecoder-win	218	Intelligent development assistant with AI code completion (Chinese vendor)	jetbrains-marketplace
+AI Git Code Review	mahairong	https://plugins.jetbrains.com/plugin/28479-ai-git-code-review	210	AI-powered code review of Git merge requests	jetbrains-marketplace
+TNG Test Generator	tng.sh	https://plugins.jetbrains.com/plugin/28919-tng-test-generator	210	Generate tests using TNG for multiple languages	jetbrains-marketplace
+Simple AI Code Reviewer	NeoZhou	https://plugins.jetbrains.com/plugin/28311-simple-ai-code-reviewer	208	AI code review on commit with Markdown reports	jetbrains-marketplace
+DD Code GUI	ddcode	https://plugins.jetbrains.com/plugin/32827-dd-code-gui	205	AI coding assistant supporting Claude Agent SDK, Codex SDK, DeepSeek	jetbrains-marketplace
+EasyAgent	hyqf98	https://plugins.jetbrains.com/plugin/31751-easyagent	203	Aggregates Claude Code, OpenCode, and Codex CLI into one IDE experience	jetbrains-marketplace
+Sentra	Sentra	https://plugins.jetbrains.com/plugin/27479-sentra	199	Automated unit test generator	jetbrains-marketplace
+QonQrete	QonQrete	https://plugins.jetbrains.com/plugin/30764-qonqrete	193	Deterministic AI coding agent in secure sandboxes	jetbrains-marketplace
+kluster.ai	kluster.ai	https://plugins.jetbrains.com/plugin/30646-kluster-ai	192	Real-time AI code review catching bugs and vulnerabilities	jetbrains-marketplace
+AI Code Reviewer	AI Code Reviewer	https://plugins.jetbrains.com/plugin/31071-ai-code-reviewer	185	AI-powered code review and refactoring	jetbrains-marketplace
+CodeSetu	CodeSetu	https://plugins.jetbrains.com/plugin/31900-codesetu	182	Open-source multi-provider Copilot/Cursor alternative (India)	jetbrains-marketplace
+Quanta AI	Quanta Dance	https://plugins.jetbrains.com/plugin/29113-quanta-ai	173	Agentic coding assistant: plan, implement, review, refactor	jetbrains-marketplace
+CLI Agent Dock	Rwcoder	https://plugins.jetbrains.com/plugin/32765-cli-agent-dock	164	Dedicated tool window bringing CLI coding agents into JetBrains	jetbrains-marketplace
+Lucid Chat	Turknet DevOps Team	https://plugins.jetbrains.com/plugin/29373-lucid-chat	164	Chat and agent modes via Ollama	jetbrains-marketplace
+EggShell	Best Practice	https://plugins.jetbrains.com/plugin/31171-eggshell	156	Embeds terminal sessions dedicated to AI CLI coding agents	jetbrains-marketplace
+Ceres AI Coding Assistant with Voice	Andreas Express	https://plugins.jetbrains.com/plugin/32670-ceres-ai-coding-assistant-with-voice	150	Coding help with voice input and code review	jetbrains-marketplace
+OmniPilot - Bring Your Own Model	Tejas Soni	https://plugins.jetbrains.com/plugin/32760-omnipilot--bring-your-own-model	145	Fully autonomous BYO-model AI coding assistant	jetbrains-marketplace
+Kf-CR	He Zhixian	https://plugins.jetbrains.com/plugin/28113-kf-cr	143	AI code review analyzing local changes through Git	jetbrains-marketplace
+HuiCai AI	ChenBo	https://plugins.jetbrains.com/plugin/32855-huicai-ai	141	JetBrains edition of the HuiCai AI assistant with agent core	jetbrains-marketplace
+CrickCoder AI IDE	CrickCoder	https://plugins.jetbrains.com/plugin/31468-crickcoder-ai-ide	139	Fully autonomous coding assistant for JetBrains	jetbrains-marketplace
+JetPilot	QuantumLeapProjects	https://plugins.jetbrains.com/plugin/31736-jetpilot	138	Offline AI co-pilot via Ollama with tool calling	jetbrains-marketplace
+AIVory Genie	AIVory, Inc.	https://plugins.jetbrains.com/plugin/32420-aivory-genie	129	Bring-your-own AI coding agent with edit-to-prompt tracing	jetbrains-marketplace
+Karato - Agent for Sakana AI fugu	Imperial architects	https://plugins.jetbrains.com/plugin/32504-karato--agent-for-sakana-ai-fugu	124	In-IDE agent driving Codex CLI with Sakana AI's Fugu models	jetbrains-marketplace
+AI Free Chat & Agent	Staks-sor	https://plugins.jetbrains.com/plugin/33364-ai-free-chat--agent	120	DeepSeek, Qwen, ChatGPT chats and coding agents in PyCharm	jetbrains-marketplace
+MSB CodeGen	MSB	https://plugins.jetbrains.com/plugin/28517-msb-codegen	119	AI coding assistant suggesting code in real time	jetbrains-marketplace
+Java ADK Assistant	Java ADK Assistant	https://plugins.jetbrains.com/plugin/31464-java-adk-assistant	116	AI assistant powered by Google Agent Development Kit	jetbrains-marketplace
+flai	Andrei Isachenko	https://plugins.jetbrains.com/plugin/31958-flai	103	Turns IntelliJ into an agent runtime with YAML pipelines	jetbrains-marketplace
+AI Dev MCP	Kush Patel	https://plugins.jetbrains.com/plugin/31053-ai-dev-mcp	102	Self-hosted AI coding agent running Qwen2.5-Coder locally	jetbrains-marketplace
+Cyclops	Joseph Ferrara	https://plugins.jetbrains.com/plugin/31917-cyclops	96	AI coding agent orchestration: dispatch agents to implement issues	jetbrains-marketplace
+Smart Push Review	Nishant Baranwal	https://plugins.jetbrains.com/plugin/29738-smart-push-review	95	AI-powered code review step in the Git commit workflow	jetbrains-marketplace
+AI Lingshi	AI灵侍	https://plugins.jetbrains.com/plugin/32539-ai-lingshi	95	Chinese AI coding assistant connecting to local or Zhipu cloud models	jetbrains-marketplace
+MaaS CodeAI	hx shi	https://plugins.jetbrains.com/plugin/28048-maas-codeai	92	Code generation and automated unit test creation	jetbrains-marketplace
+AI Review	SmartToolboxOrg	https://plugins.jetbrains.com/plugin/30378-ai-review	91	GitHub PR-style code reviews in-IDE powered by Claude Code CLI	jetbrains-marketplace
+Lean AI	lean-ai	https://plugins.jetbrains.com/plugin/31110-lean-ai	88	Agentic coding assistant with local LLM via Ollama	jetbrains-marketplace
+WingCode	WingCode	https://plugins.jetbrains.com/plugin/29374-wingcode	76	AI coding assistant with intelligent completion	jetbrains-marketplace
+Claude/Codex Sub Autocomplete	Kristjan Koemets	https://plugins.jetbrains.com/plugin/33230-claude-codex-sub-autocomplete	74	Native IntelliJ autocomplete using Claude Code or Codex subscriptions	jetbrains-marketplace
+igni	Ignite Ember	https://plugins.jetbrains.com/plugin/32377-igni	74	AI coding assistant running parallel multi-agent workflows	jetbrains-marketplace
+Whailion AI	Whailion	https://plugins.jetbrains.com/plugin/30085-whailion-ai	72	AI-assisted development with specialized AI agents	jetbrains-marketplace
+Tell Me	EaseStack	https://plugins.jetbrains.com/plugin/30101-tell-me	62	Local AI assistant via Ollama LLMs	jetbrains-marketplace
+LiyaAI Coding Agent	LiyaLabs	https://plugins.jetbrains.com/plugin/30623-liyaai-coding-agent	62	Chat agent that can read, write, and edit project files	jetbrains-marketplace
+Converse	2 Small Cats LLC	https://plugins.jetbrains.com/plugin/31796-converse	61	Multiple AI agent sessions side-by-side	jetbrains-marketplace
+PromptMate	Rising Mind Systems	https://plugins.jetbrains.com/plugin/30891-promptmate	60	AI-powered coding assistant	jetbrains-marketplace
+AICR	aicr	https://plugins.jetbrains.com/plugin/32905-aicr	59	Automated AI code review system with knowledge base	jetbrains-marketplace
+Azure DevOps AI Reviewer	thegeeky	https://plugins.jetbrains.com/plugin/32239-azure-devops-ai-reviewer	55	AI code review for Azure DevOps PRs in Rider	jetbrains-marketplace
+Lattice Agent AI	moorror	https://plugins.jetbrains.com/plugin/32759-lattice-agent-ai	52	AI coding agent built on ProxyAI	jetbrains-marketplace
+Claude Subscription ACP Agent	Vanssa	https://plugins.jetbrains.com/plugin/33150-claude-subscription-acp-agent	46	Adds a Claude Subscription agent to JetBrains AI chat	jetbrains-marketplace
+Celebrimbot	GiacomoSaccaggi	https://plugins.jetbrains.com/plugin/32055-celebrimbot	37	Full multi-agent AI system that reads, writes, executes	jetbrains-marketplace
+Copilot Agent	JetBrains s.r.o.	https://plugins.jetbrains.com/plugin/32938-copilot-agent	35	JetBrains integration providing GitHub Copilot agent functionality	jetbrains-marketplace
+Voder	Guoshujiang	https://plugins.jetbrains.com/plugin/30760-voder	34	AI coding assistant with multi-model chat and team agent workflows	jetbrains-marketplace
+Raplify	Raplify	https://plugins.jetbrains.com/plugin/33194-raplify	33	GUI for AI coding agents with four tool windows	jetbrains-marketplace
+HarmonyOS Dev Assistant	agc-connect	https://plugins.jetbrains.com/plugin/32572-harmonyos-dev-assistant	30	AI coding assistant for HarmonyOS developers	jetbrains-marketplace
+Wave Code Chat	Wave 代码智聊	https://plugins.jetbrains.com/plugin/33466-wave-code-chat	29	Enterprise-grade AI coding assistant (Chinese)	jetbrains-marketplace
+DeepSeek Harness WebUI	0139	https://plugins.jetbrains.com/plugin/33556-deepseek-harness-webui	29	Docks the DeepSeek Harness agent web UI into an IDE tool window	jetbrains-marketplace
+Diffzu	Diffzu	https://plugins.jetbrains.com/plugin/32964-diffzu	27	Reviews large AI-generated diffs by grouping into change-sets	jetbrains-marketplace
+Opus Swarm Live	EpochCore	https://plugins.jetbrains.com/plugin/30408-opus-swarm-live	23	52-agent multi-model AI swarm orchestration plugin	jetbrains-marketplace
+Local Keep AI	Local Keep AI	https://plugins.jetbrains.com/plugin/33470-local-keep-ai	22	Local-first AI coding assistant with local models	jetbrains-marketplace
+betool - AI Code Assistant	beTool IA	https://plugins.jetbrains.com/plugin/31225-betool--ai-code-assistant	21	Bridges AI coding assistants with the IDE via a local server	jetbrains-marketplace
+Karate Dojo	Felipe Farias	https://plugins.jetbrains.com/plugin/33029-karate-dojo	21	AI companion for Karate Framework test generation	jetbrains-marketplace
+AI Code Reviews	lyreruin	https://plugins.jetbrains.com/plugin/31312-ai-code-reviews	17	Reviews selected commit changes pre-commit	jetbrains-marketplace
+xpreiIDE	BABBROS LLP	https://plugins.jetbrains.com/plugin/33142-xpreiide	17	BYO-model AI coding assistant with agentic multi-file coder	jetbrains-marketplace
+Llmrix Devtool	llmrix	https://plugins.jetbrains.com/plugin/31463-llmrix-devtool	15	Integrates the Llmrix multi-agent AI platform into JetBrains	jetbrains-marketplace
+AI Wrench Agent	JetBrains s.r.o.	https://plugins.jetbrains.com/plugin/28185-ai-wrench-agent	13	JetBrains integration providing AI Wrench agent functionality	jetbrains-marketplace
+AlignAI	AlignAI	https://plugins.jetbrains.com/plugin/31709-alignai	11	AI code review driven by rules from CLAUDE.md/AGENTS.md	jetbrains-marketplace
+CurdoAI	CurdoAI	https://plugins.jetbrains.com/plugin/33311-curdoai	9	AI coding assistant (蝌蚪AI, Chinese)	jetbrains-marketplace
+Just Bruce AI	Just Bruce AI	https://plugins.jetbrains.com/plugin/33525-just-bruce-ai	7	AI-powered coding assistant built into JetBrains IDEs	jetbrains-marketplace
+Swades Agent	xerv	https://plugins.jetbrains.com/plugin/33117-swades-agent	6	Autonomous AI software engineering agent ReAct loop in IntelliJ terminal	jetbrains-marketplace
+Intellego Grok AI Assistant	Diligite Iustitiam LLC	https://plugins.jetbrains.com/plugin/29268-intellego-grok-ai-assistant	4537	Native Grok for JetBrains with agentic mode via Grok Build CLI	jetbrains-marketplace
+Worklink Copilot	yealinkai	https://plugins.jetbrains.com/plugin/24680-worklink-copilot	4992	Yealink modular AI software development system	jetbrains-marketplace
+UnitTestBot	UnitTest Bot	https://plugins.jetbrains.com/plugin/19445-unittestbot	11815	Automated unit test generation with ready-to-use test cases	jetbrains-marketplace
