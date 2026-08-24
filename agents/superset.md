@@ -2,7 +2,7 @@
 name: "Superset"
 slug: "superset"
 layout: "agent.njk"
-category: "multiplexer"
+category: multiplexer
 maker: "superset-sh"
 license: "Elastic License 2.0 (ELv2)"
 url: "https://github.com/superset-sh/superset"

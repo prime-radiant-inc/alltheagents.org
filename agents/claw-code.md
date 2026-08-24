@@ -2,7 +2,7 @@
 name: "Claw Code"
 slug: "claw-code"
 layout: "agent.njk"
-category: "agent"
+category: harness
 maker: "ultraworkers"
 license: "MIT"
 url: "https://github.com/ultraworkers/claw-code"

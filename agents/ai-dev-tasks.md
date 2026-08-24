@@ -2,7 +2,7 @@
 name: "ai-dev-tasks"
 slug: "ai-dev-tasks"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "snarktank"
 license: "Apache-2.0"
 url: "https://github.com/snarktank/ai-dev-tasks"

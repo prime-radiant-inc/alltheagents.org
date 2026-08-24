@@ -1,9 +1,9 @@
 ---
 layout: base.njk
 eleventyComputed:
-  title: "By Maker — Harness Census"
+  title: "Harnesses by Maker — Harness Census"
 ---
-<h1>Coding Agents by Maker</h1>
+<h1>Coding Agent Harnesses by Maker</h1>
 {% set groups = collections.agent | groupBy("maker") %}
 {% set allKeys = groups | keys %}
 {% for key in allKeys %}

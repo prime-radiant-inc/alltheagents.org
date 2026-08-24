@@ -628,7 +628,7 @@
   {
     "name": "agency-agents-zh",
     "slug": "agency-agents-zh",
-    "category": "agent",
+    "category": "tool",
     "maker": "jnMetaCode",
     "license": "MIT",
     "url": "https://github.com/jnMetaCode/agency-agents-zh",
@@ -2108,7 +2108,7 @@
   {
     "name": "AgentScope",
     "slug": "agentscope",
-    "category": "agent",
+    "category": "tool",
     "maker": "agentscope-ai",
     "license": "Apache-2.0",
     "url": "https://github.com/modelscope/agentscope",
@@ -2147,7 +2147,7 @@
   {
     "name": "agents.md",
     "slug": "agentsmd",
-    "category": "agent",
+    "category": "tool",
     "maker": "agentsmd",
     "license": "MIT",
     "url": "https://github.com/agentsmd/agents.md",
@@ -3006,7 +3006,7 @@
   {
     "name": "ai-dev-tasks",
     "slug": "ai-dev-tasks",
-    "category": "agent",
+    "category": "tool",
     "maker": "snarktank",
     "license": "Apache-2.0",
     "url": "https://github.com/snarktank/ai-dev-tasks",
@@ -3612,7 +3612,7 @@
   {
     "name": "ai-website-cloner-template",
     "slug": "ai-website-cloner-template",
-    "category": "agent",
+    "category": "tool",
     "maker": "JCodesMore",
     "license": "MIT",
     "url": "https://github.com/JCodesMore/ai-website-cloner-template",
@@ -4292,7 +4292,7 @@
   },
   {
     "name": "Amplifier",
-    "slug": "amplifier-agent",
+    "slug": "amplifier",
     "category": "agent",
     "maker": "microsoft",
     "license": "MIT",
@@ -4593,7 +4593,7 @@
   {
     "name": "Aperant",
     "slug": "aperant",
-    "category": "agent",
+    "category": "harness",
     "maker": "AndyMik90",
     "license": "AGPL-3.0",
     "url": "https://github.com/AndyMik90/Aperant",
@@ -4667,7 +4667,7 @@
   {
     "name": "AppAgent",
     "slug": "appagent",
-    "category": "agent",
+    "category": "something-else",
     "maker": "TencentQQGYLab",
     "license": "MIT",
     "url": "https://github.com/mnotgod96/AppAgent",
@@ -4889,7 +4889,7 @@
   {
     "name": "Archon",
     "slug": "archon",
-    "category": "agent",
+    "category": "tool",
     "maker": "coleam00",
     "license": "MIT",
     "url": "https://github.com/coleam00/Archon",
@@ -5526,7 +5526,7 @@
   {
     "name": "AutoGen",
     "slug": "autogen",
-    "category": "agent",
+    "category": "tool",
     "maker": "microsoft",
     "license": "MIT",
     "url": "https://github.com/microsoft/autogen",
@@ -6754,7 +6754,7 @@
   {
     "name": "BMAD-METHOD",
     "slug": "bmad-method",
-    "category": "agent",
+    "category": "tool",
     "maker": "bmad-code-org",
     "license": "MIT",
     "url": "https://github.com/bmad-code-org/BMAD-METHOD",
@@ -7765,7 +7765,7 @@
   {
     "name": "ChatDev",
     "slug": "chatdev",
-    "category": "agent",
+    "category": "harness",
     "maker": "OpenBMB",
     "license": "Apache-2.0",
     "url": "https://github.com/OpenBMB/ChatDev",
@@ -7990,7 +7990,7 @@
   {
     "name": "Claude Agent SDK (Python)",
     "slug": "claude-agent-sdk-python",
-    "category": "agent",
+    "category": "tool",
     "maker": "anthropics",
     "license": "MIT",
     "url": "https://github.com/anthropics/claude-agent-sdk-python",
@@ -8413,7 +8413,7 @@
   {
     "name": "claude-flow",
     "slug": "claude-flow",
-    "category": "agent",
+    "category": "multiplexer",
     "maker": "ruvnet",
     "license": "MIT",
     "url": "https://github.com/ruvnet/claude-flow",
@@ -8862,7 +8862,7 @@
   {
     "name": "Claurst",
     "slug": "claurst",
-    "category": "agent",
+    "category": "harness",
     "maker": "Kuberwastaken",
     "license": "GPL-3.0",
     "url": "https://github.com/Kuberwastaken/claurst",
@@ -8940,7 +8940,7 @@
   {
     "name": "Claw Code",
     "slug": "claw-code",
-    "category": "agent",
+    "category": "harness",
     "maker": "ultraworkers",
     "license": "MIT",
     "url": "https://github.com/ultraworkers/claw-code",
@@ -9863,7 +9863,7 @@
   {
     "name": "Code2Prompt",
     "slug": "code2prompt",
-    "category": "agent",
+    "category": "tool",
     "maker": "mufeedvh",
     "license": "MIT",
     "url": "https://github.com/mufeedvh/code2prompt",
@@ -11543,7 +11543,7 @@
   {
     "name": "Codex Security",
     "slug": "codex-security",
-    "category": "agent",
+    "category": "harness",
     "maker": "openai",
     "license": "Apache-2.0",
     "url": "https://github.com/openai/codex-security",
@@ -12623,7 +12623,7 @@
   {
     "name": "context-engineering-intro",
     "slug": "context-engineering-intro",
-    "category": "agent",
+    "category": "something-else",
     "maker": "coleam00",
     "license": "MIT",
     "url": "https://github.com/coleam00/context-engineering-intro",
@@ -12658,7 +12658,7 @@
   {
     "name": "context-hub",
     "slug": "context-hub",
-    "category": "agent",
+    "category": "tool",
     "maker": "andrewyng",
     "license": "MIT",
     "url": "https://github.com/andrewyng/context-hub",
@@ -13231,7 +13231,7 @@
   {
     "name": "coze-studio",
     "slug": "coze-studio",
-    "category": "agent",
+    "category": "something-else",
     "maker": "coze-dev",
     "license": "Apache-2.0",
     "url": "https://github.com/coze-dev/coze-studio",
@@ -13451,7 +13451,7 @@
   {
     "name": "CrewAI",
     "slug": "crewai",
-    "category": "agent",
+    "category": "tool",
     "maker": "crewAIInc",
     "license": "MIT",
     "url": "https://github.com/joaomdmoura/crewai",
@@ -14145,7 +14145,7 @@
   {
     "name": "Dagger",
     "slug": "dagger",
-    "category": "agent",
+    "category": "tool",
     "maker": "dagger",
     "license": "Apache-2.0",
     "url": "https://github.com/dagger/dagger",
@@ -14712,7 +14712,7 @@
   {
     "name": "deepsec",
     "slug": "deepsec",
-    "category": "agent",
+    "category": "tool",
     "maker": "vercel-labs",
     "license": "Apache-2.0",
     "url": "https://github.com/vercel-labs/deepsec",
@@ -15048,7 +15048,7 @@
   {
     "name": "DeerFlow",
     "slug": "deerflow",
-    "category": "agent",
+    "category": "harness",
     "maker": "bytedance",
     "license": "MIT",
     "url": "https://github.com/bytedance/deer-flow",
@@ -16714,7 +16714,7 @@
   {
     "name": "electric",
     "slug": "electric",
-    "category": "agent",
+    "category": "tool",
     "maker": "electric-sql",
     "license": "Apache-2.0",
     "url": "https://github.com/electric-sql/electric",
@@ -17792,7 +17792,7 @@
   {
     "name": "FinRobot",
     "slug": "finrobot",
-    "category": "agent",
+    "category": "something-else",
     "maker": "AI4Finance-Foundation",
     "license": "Apache-2.0",
     "url": "https://github.com/AI4Finance-Foundation/FinRobot",
@@ -18126,7 +18126,7 @@
   {
     "name": "Flue",
     "slug": "flue",
-    "category": "agent",
+    "category": "tool",
     "maker": "withastro",
     "license": "Apache-2.0",
     "url": "https://github.com/withastro/flue",
@@ -19531,7 +19531,7 @@
   {
     "name": "GitIngest",
     "slug": "gitingest",
-    "category": "agent",
+    "category": "tool",
     "maker": "coderamp-labs",
     "license": "MIT",
     "url": "https://github.com/coderamp-labs/gitingest",
@@ -19644,7 +19644,7 @@
   {
     "name": "GLM-5",
     "slug": "glm-5",
-    "category": "agent",
+    "category": "something-else",
     "maker": "zai-org",
     "license": "Apache-2.0",
     "url": "https://github.com/zai-org/GLM-5",
@@ -19945,7 +19945,7 @@
   {
     "name": "GPT Engineer",
     "slug": "gpt-engineer",
-    "category": "agent",
+    "category": "harness",
     "maker": "AntonOsika",
     "license": "MIT",
     "url": "https://github.com/AntonOsika/gpt-engineer",
@@ -19988,7 +19988,7 @@
   {
     "name": "GPT Migrate",
     "slug": "gpt-migrate",
-    "category": "agent",
+    "category": "harness",
     "maker": "joshpxyne",
     "license": "MIT",
     "url": "https://github.com/0xpayne/gpt-migrate",
@@ -20292,7 +20292,7 @@
   {
     "name": "Graphql-Playground",
     "slug": "graphql-playground",
-    "category": "agent",
+    "category": "tool",
     "maker": "graphql",
     "license": "MIT",
     "url": "https://github.com/graphql/graphql-playground",
@@ -21502,7 +21502,7 @@
   {
     "name": "Hindsight",
     "slug": "hindsight",
-    "category": "agent",
+    "category": "tool",
     "maker": "vectorize-io",
     "license": "MIT",
     "url": "https://github.com/vectorize-io/hindsight",
@@ -21988,7 +21988,7 @@
   {
     "name": "humanlayer",
     "slug": "humanlayer",
-    "category": "agent",
+    "category": "tool",
     "maker": "humanlayer",
     "license": "NOASSERTION",
     "url": "https://github.com/humanlayer/humanlayer",
@@ -22351,7 +22351,7 @@
   {
     "name": "InkOS",
     "slug": "inkos",
-    "category": "agent",
+    "category": "something-else",
     "maker": "Narcooo",
     "license": "AGPL-3.0",
     "url": "https://github.com/Narcooo/inkos",
@@ -22391,7 +22391,7 @@
   {
     "name": "InsForge",
     "slug": "insforge",
-    "category": "agent",
+    "category": "tool",
     "maker": "InsForge",
     "license": "Apache-2.0",
     "url": "https://github.com/InsForge/InsForge",
@@ -24244,7 +24244,7 @@
   {
     "name": "LangChain JS Tools",
     "slug": "langchain-js-tools",
-    "category": "agent",
+    "category": "tool",
     "maker": "langchain-ai",
     "license": "MIT",
     "url": "https://github.com/langchain-ai/langchainjs",
@@ -24504,7 +24504,7 @@
   {
     "name": "learn-coding-agent",
     "slug": "learn-coding-agent",
-    "category": "agent",
+    "category": "something-else",
     "maker": "sanbuphy",
     "license": null,
     "url": "https://github.com/sanbuphy/learn-coding-agent",
@@ -25206,37 +25206,41 @@
     }
   },
   {
-    "name": "\"Llm",
-    "slug": null,
+    "name": "Llm---Detect-Ai-Generated-Text",
+    "slug": "llm-detect-ai-generated-text",
     "category": "agent",
-    "maker": null,
+    "maker": "pinskyrobin",
     "license": null,
-    "url": null,
-    "source_code_url": null,
-    "source_available": null,
+    "url": "https://github.com/pinskyrobin/LLM---Detect-AI-Generated-Text",
+    "source_code_url": "https://github.com/pinskyrobin/LLM---Detect-AI-Generated-Text",
+    "source_available": "Source-visible (no OSS license)",
     "platforms": [],
-    "first_released": null,
-    "current_release": null,
+    "first_released": "2024-01-18",
+    "current_release": "2024-01-18",
     "stars": null,
-    "language": null,
+    "language": "Jupyter Notebook",
     "homepage": null,
-    "description": "Detect-Ai-Generated-Text\"\nslug: \"llm-detect-ai-generated-text\"\nlayout: agent.njk\ncategory: agent\nmaker: \"pinskyrobin\"\nlicense: null\nurl: \"https://github.com/pinskyrobin/LLM---Detect-AI-Generated-Text\"",
-    "mcp_support": null,
-    "plugin_support": null,
-    "claude_code_plugin": null,
-    "subagents": null,
-    "hooks": null,
-    "plan_mode": null,
+    "description": "Demo code and dataset for offline debugging of the 'LLM - Detect AI Generated Text' Kaggle competition. Not a coding agent harness.",
+    "mcp_support": "no",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
     "model_providers": null,
-    "pricing": null,
+    "pricing": "open-source",
     "install_method": null,
     "docs_url": null,
     "plugin_docs_url": null,
     "config_docs_url": null,
     "download_url": null,
-    "maintained": null,
-    "sources": [],
-    "source_urls": {}
+    "maintained": "abandoned",
+    "sources": [
+      "jim"
+    ],
+    "source_urls": {
+      "jim": "https://github.com/jim-schwoebel/awesome_ai_agents"
+    }
   },
   {
     "name": "Llm_Rag",
@@ -26942,7 +26946,7 @@
   {
     "name": "MetaGPT",
     "slug": "metagpt",
-    "category": "agent",
+    "category": "harness",
     "maker": "FoundationAgents",
     "license": "MIT",
     "url": "https://github.com/geekan/MetaGPT",
@@ -29412,7 +29416,7 @@
   {
     "name": "oh-my-claudecode",
     "slug": "oh-my-claudecode",
-    "category": "agent",
+    "category": "multiplexer",
     "maker": "Yeachan-Heo",
     "license": "MIT",
     "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
@@ -30658,7 +30662,7 @@
   {
     "name": "OpenCodeReview",
     "slug": "opencodereview",
-    "category": "agent",
+    "category": "tool",
     "maker": "alibaba",
     "license": "Apache-2.0",
     "url": "https://github.com/alibaba/open-code-review",
@@ -30697,7 +30701,7 @@
   {
     "name": "OpenCodex",
     "slug": "opencodex",
-    "category": "agent",
+    "category": "tool",
     "maker": "lidge-jun",
     "license": "MIT",
     "url": "https://github.com/lidge-jun/opencodex",
@@ -31010,7 +31014,7 @@
   {
     "name": "OpenSpec",
     "slug": "openspec",
-    "category": "agent",
+    "category": "tool",
     "maker": "Fission-AI",
     "license": "MIT",
     "url": "https://github.com/Fission-AI/OpenSpec",
@@ -31045,7 +31049,7 @@
   {
     "name": "OpenWiki",
     "slug": "openwiki",
-    "category": "agent",
+    "category": "tool",
     "maker": "langchain-ai",
     "license": "MIT",
     "url": "https://github.com/langchain-ai/openwiki",
@@ -32138,7 +32142,7 @@
   {
     "name": "Pentestgpt",
     "slug": "pentestgpt",
-    "category": "agent",
+    "category": "tool",
     "maker": "GreyDGL",
     "license": "MIT",
     "url": "https://github.com/GreyDGL/PentestGPT",
@@ -33570,7 +33574,7 @@
   {
     "name": "PR-Agent",
     "slug": "pr-agent",
-    "category": "agent",
+    "category": "tool",
     "maker": "The-PR-Agent",
     "license": "MIT",
     "url": "https://github.com/Codium-ai/pr-agent",
@@ -33607,7 +33611,7 @@
   {
     "name": "PraisonAI",
     "slug": "praisonai",
-    "category": "agent",
+    "category": "tool",
     "maker": "MervinPraison",
     "license": "MIT",
     "url": "https://github.com/MervinPraison/PraisonAI/",
@@ -33682,7 +33686,7 @@
   {
     "name": "Prime Agent",
     "slug": "prime-agent",
-    "category": "agent",
+    "category": "harness",
     "maker": "PrimeIntellect-ai",
     "license": "MIT",
     "url": "https://github.com/PrimeIntellect-ai/prime-agent",
@@ -34393,7 +34397,7 @@
   {
     "name": "Qwen-Agent",
     "slug": "qwen-agent",
-    "category": "agent",
+    "category": "tool",
     "maker": "QwenLM",
     "license": "Apache-2.0",
     "url": "https://github.com/QwenLM/Qwen-Agent",
@@ -34698,7 +34702,7 @@
   {
     "name": "ralph",
     "slug": "ralph",
-    "category": "agent",
+    "category": "harness",
     "maker": "snarktank",
     "license": "MIT",
     "url": "https://github.com/snarktank/ralph",
@@ -35410,7 +35414,7 @@
   {
     "name": "Roo Code CLI",
     "slug": "roo-code-cli",
-    "category": "agent",
+    "category": "harness",
     "maker": "RooCodeInc",
     "license": "Apache-2.0",
     "url": "https://github.com/RooCodeInc/Roo-Code",
@@ -36153,7 +36157,7 @@
   {
     "name": "sealos",
     "slug": "sealos",
-    "category": "agent",
+    "category": "tool",
     "maker": "labring",
     "license": "Sealos Sustainable Use License (custom, not OSI-approved)",
     "url": "https://github.com/labring/sealos",
@@ -36739,7 +36743,7 @@
   {
     "name": "Smol Developer",
     "slug": "smol-developer",
-    "category": "agent",
+    "category": "harness",
     "maker": "smol-ai",
     "license": "MIT",
     "url": "https://github.com/smol-ai/developer",
@@ -37711,7 +37715,7 @@
   {
     "name": "Strands Agents SDK",
     "slug": "strands-agents-sdk",
-    "category": "agent",
+    "category": "tool",
     "maker": "strands-agents",
     "license": "Apache-2.0",
     "url": "https://github.com/strands-agents/sdk-python",
@@ -38231,7 +38235,7 @@
   {
     "name": "Swarms",
     "slug": "swarms",
-    "category": "agent",
+    "category": "tool",
     "maker": "kyegomez",
     "license": "Apache-2.0",
     "url": "https://github.com/kyegomez/swarms/",
@@ -38639,7 +38643,7 @@
   {
     "name": "Sweep",
     "slug": "sweep",
-    "category": "agent",
+    "category": "harness",
     "maker": "sweepai",
     "license": "MIT (Free Software) + Enterprise Edition (EE License)",
     "url": "https://github.com/sweepai/sweep",
@@ -40447,7 +40451,7 @@
   {
     "name": "TypeChat",
     "slug": "typechat",
-    "category": "agent",
+    "category": "tool",
     "maker": "microsoft",
     "license": "MIT",
     "url": "https://github.com/microsoft/TypeChat",
@@ -40711,7 +40715,7 @@
   {
     "name": "valuecell",
     "slug": "valuecell",
-    "category": "agent",
+    "category": "something-else",
     "maker": "ValueCell-ai",
     "license": "Apache-2.0",
     "url": "https://github.com/ValueCell-ai/valuecell",
@@ -41557,7 +41561,7 @@
   {
     "name": "video-use",
     "slug": "video-use",
-    "category": "agent",
+    "category": "tool",
     "maker": "browser-use",
     "license": "MIT",
     "url": "https://github.com/browser-use/video-use",
@@ -43028,7 +43032,7 @@
   {
     "name": "Yeoman",
     "slug": "yeoman",
-    "category": "agent",
+    "category": "tool",
     "maker": "yeoman",
     "license": "BSD",
     "url": "https://github.com/yeoman/yeoman",

@@ -2,7 +2,7 @@
 name: "PR-Agent"
 slug: "pr-agent"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "The-PR-Agent"
 license: "MIT"
 url: "https://github.com/Codium-ai/pr-agent"

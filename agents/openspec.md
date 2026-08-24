@@ -2,7 +2,7 @@
 name: "OpenSpec"
 slug: "openspec"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "Fission-AI"
 license: "MIT"
 url: "https://github.com/Fission-AI/OpenSpec"

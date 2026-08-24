@@ -2,7 +2,7 @@
 name: "Aperant"
 slug: "aperant"
 layout: "agent.njk"
-category: "agent"
+category: harness
 maker: "AndyMik90"
 license: "AGPL-3.0"
 url: "https://github.com/AndyMik90/Aperant"

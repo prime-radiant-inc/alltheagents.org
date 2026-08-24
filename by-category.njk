@@ -1,0 +1,87 @@
+---
+layout: base.njk
+eleventyComputed:
+  title: "By Category — Harness Census"
+---
+<h1>Entries by Category</h1>
+<p>Audit buckets for the corpus: harnesses own a coding-agent loop, multiplexers run or coordinate other coding agents, tools support agents or developers without owning the loop, and something else covers related but out-of-scope discoveries.</p>
+
+<section class="category-group">
+  <h2>Harnesses ({{ collections.agent | size }})</h2>
+  <table class="agent-table">
+    <thead>
+      <tr><th>Name</th><th>Maker</th><th>Platform</th><th>Stars</th></tr>
+    </thead>
+    <tbody>
+      {% set sorted = collections.agent | sortByStars %}
+      {% for agent in sorted %}
+      <tr>
+        <td><a href="{{ ('/agents/' ~ agent.data.slug ~ '/') | url }}">{{ agent.data.name }}</a></td>
+        <td>{{ agent.data.maker or "—" }}</td>
+        <td>{{ agent.data.platforms | join(", ") }}</td>
+        <td>{{ agent.data.stars | starFmt }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<section class="category-group">
+  <h2>Multiplexers ({{ collections.multiplexer | size }})</h2>
+  <table class="agent-table">
+    <thead>
+      <tr><th>Name</th><th>Maker</th><th>Platform</th><th>Stars</th></tr>
+    </thead>
+    <tbody>
+      {% set sorted = collections.multiplexer | sortByStars %}
+      {% for agent in sorted %}
+      <tr>
+        <td><a href="{{ ('/agents/' ~ agent.data.slug ~ '/') | url }}">{{ agent.data.name }}</a></td>
+        <td>{{ agent.data.maker or "—" }}</td>
+        <td>{{ agent.data.platforms | join(", ") }}</td>
+        <td>{{ agent.data.stars | starFmt }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<section class="category-group">
+  <h2>Tools ({{ collections.tool | size }})</h2>
+  <table class="agent-table">
+    <thead>
+      <tr><th>Name</th><th>Maker</th><th>Platform</th><th>Stars</th></tr>
+    </thead>
+    <tbody>
+      {% set sorted = collections.tool | sortByStars %}
+      {% for agent in sorted %}
+      <tr>
+        <td><a href="{{ ('/agents/' ~ agent.data.slug ~ '/') | url }}">{{ agent.data.name }}</a></td>
+        <td>{{ agent.data.maker or "—" }}</td>
+        <td>{{ agent.data.platforms | join(", ") }}</td>
+        <td>{{ agent.data.stars | starFmt }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<section class="category-group">
+  <h2>Something Else ({{ collections.somethingElse | size }})</h2>
+  <table class="agent-table">
+    <thead>
+      <tr><th>Name</th><th>Maker</th><th>Platform</th><th>Stars</th></tr>
+    </thead>
+    <tbody>
+      {% set sorted = collections.somethingElse | sortByStars %}
+      {% for agent in sorted %}
+      <tr>
+        <td><a href="{{ ('/agents/' ~ agent.data.slug ~ '/') | url }}">{{ agent.data.name }}</a></td>
+        <td>{{ agent.data.maker or "—" }}</td>
+        <td>{{ agent.data.platforms | join(", ") }}</td>
+        <td>{{ agent.data.stars | starFmt }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>

@@ -2,7 +2,7 @@
 name: "sealos"
 slug: "sealos"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "labring"
 license: "Sealos Sustainable Use License (custom, not OSI-approved)"
 url: "https://github.com/labring/sealos"

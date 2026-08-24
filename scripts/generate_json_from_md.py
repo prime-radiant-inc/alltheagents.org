@@ -7,13 +7,13 @@ AGENTS_DIR = os.path.join(SRCDIR, "agents")
 DATA_DIR = os.path.join(SRCDIR, "_data")
 
 def parse_frontmatter(content):
-    if not content.startswith("---"):
+    if not content.startswith("---\n"):
         return {}, content
-    parts = content.split("---", 2)
-    if len(parts) < 3:
+    end = content.find("\n---", 4)
+    if end == -1:
         return {}, content
-    fm_text = parts[1]
-    body = parts[2].lstrip("\n")
+    fm_text = content[4:end]
+    body = content[end + 4:].lstrip("\n")
     fm = {}
     current_key = None
     current_list = None
@@ -60,9 +60,15 @@ if os.path.exists(source_urls_path):
 
 agents_data = []
 for md_path in sorted(glob.glob(os.path.join(AGENTS_DIR, "*.md"))):
+    if os.path.basename(md_path) == "_TEMPLATE.md":
+        continue
+
     with open(md_path, encoding="utf-8") as f:
         content = f.read()
     fm, body = parse_frontmatter(content)
+    if not fm.get("name") or not fm.get("slug"):
+        raise ValueError(f"Missing required search fields in {md_path}")
+
     sources = fm.get("sources", []) or []
     agents_data.append({
         "name": fm.get("name"),

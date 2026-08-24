@@ -2,7 +2,7 @@
 name: "Sweep"
 slug: "sweep"
 layout: "agent.njk"
-category: "agent"
+category: harness
 maker: "sweepai"
 license: "MIT (Free Software) + Enterprise Edition (EE License)"
 url: "https://github.com/sweepai/sweep"

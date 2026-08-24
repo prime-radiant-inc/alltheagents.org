@@ -2,7 +2,7 @@
 name: "Code2Prompt"
 slug: "code2prompt"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "mufeedvh"
 license: "MIT"
 url: "https://github.com/mufeedvh/code2prompt"

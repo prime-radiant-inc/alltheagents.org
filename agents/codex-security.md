@@ -2,7 +2,7 @@
 name: "Codex Security"
 slug: "codex-security"
 layout: "agent.njk"
-category: "agent"
+category: harness
 maker: "openai"
 license: "Apache-2.0"
 url: "https://github.com/openai/codex-security"

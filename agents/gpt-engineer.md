@@ -2,7 +2,7 @@
 name: "GPT Engineer"
 slug: "gpt-engineer"
 layout: "agent.njk"
-category: "agent"
+category: harness
 maker: "AntonOsika"
 license: "MIT"
 url: "https://github.com/AntonOsika/gpt-engineer"

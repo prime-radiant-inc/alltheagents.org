@@ -1,14 +1,14 @@
 ---
 layout: base.njk
 eleventyComputed:
-  title: "All Agents — Harness Census"
+  title: "All Harnesses — Harness Census"
 pagination:
   data: collections.agent
   size: 100
   alias: agents
 ---
 <h1>All Coding Agent Harnesses</h1>
-<p>{{ collections.agent | size }} agents total. Sorted alphabetically.</p>
+<p>{{ collections.agent | size }} harnesses total. Sorted alphabetically.</p>
 
 <table class="agent-table">
   <thead>

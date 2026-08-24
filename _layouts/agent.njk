@@ -37,6 +37,7 @@ eleventyComputed:
     <h2>Details</h2>
     <table class="detail-table">
       <tr><th>Name</th><td>{{ name }}</td></tr>
+      <tr><th>Category</th><td>{{ category | categoryLabel }}</td></tr>
       {% if maker and maker != "null" %}<tr><th>Maker</th><td>{{ maker }}</td></tr>{% endif %}
       {% if license and license != "null" %}<tr><th>License</th><td>{{ license }}</td></tr>{% endif %}
       <tr><th>Source Available</th><td>{{ source_available or "—" }}</td></tr>

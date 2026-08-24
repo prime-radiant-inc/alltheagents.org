@@ -2,7 +2,7 @@
 name: "Paseo"
 slug: "paseo"
 layout: "agent.njk"
-category: "multiplexer"
+category: multiplexer
 maker: "getpaseo"
 license: "AGPL-3.0"
 url: "https://github.com/getpaseo/paseo"

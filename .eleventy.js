@@ -8,10 +8,25 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy({ "_data/agents.json": "agents.json" });
 
-  // Collection: all agent harnesses (exclude multiplexers)
+  function categoryOf(item) {
+    return item.data.category || "agent";
+  }
+
+  function isHarness(item) {
+    const category = categoryOf(item);
+    return category === "harness" || category === "agent";
+  }
+
+  // Collection: all entries
+  eleventyConfig.addCollection("entry", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("agents/*.md");
+  });
+
+  // Collection: all coding agent harnesses. `agent` is the legacy value for
+  // pages not yet migrated to the four-bucket category taxonomy.
   eleventyConfig.addCollection("agent", function(collectionApi) {
     return collectionApi.getFilteredByGlob("agents/*.md").filter(
-      item => item.data.category !== "multiplexer"
+      item => isHarness(item)
     );
   });
 
@@ -19,6 +34,20 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("multiplexer", function(collectionApi) {
     return collectionApi.getFilteredByGlob("agents/*.md").filter(
       item => item.data.category === "multiplexer"
+    );
+  });
+
+  // Collection: tools that support agents/developers without owning the loop
+  eleventyConfig.addCollection("tool", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("agents/*.md").filter(
+      item => item.data.category === "tool"
+    );
+  });
+
+  // Collection: entries that are related discoveries but not harnesses/tools
+  eleventyConfig.addCollection("somethingElse", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("agents/*.md").filter(
+      item => item.data.category === "something-else"
     );
   });
 
@@ -80,6 +109,17 @@ module.exports = function(eleventyConfig) {
       }
     }
     return groups;
+  });
+
+  eleventyConfig.addFilter("categoryLabel", function(category) {
+    const labels = {
+      "agent": "Harness",
+      "harness": "Harness",
+      "multiplexer": "Multiplexer",
+      "tool": "Tool",
+      "something-else": "Something else",
+    };
+    return labels[category] || "Unknown";
   });
 
   // Filter: filter open source

@@ -6,16 +6,16 @@ eleventyComputed:
 <section class="hero">
   <h1>Coding Agent Harness Census</h1>
   <p class="hero-subtitle">The maintained catalog of every coding agent harness.</p>
-  <p class="hero-count"><strong>{{ collections.agent | size }}</strong> agents catalogued and counting.</p>
+  <p class="hero-count"><strong>{{ collections.agent | size }}</strong> harnesses catalogued and counting.</p>
 </section>
 
 <section class="search-section">
-  <input type="text" id="search" placeholder="Search agents..." class="search-input">
+  <input type="text" id="search" placeholder="Search entries..." class="search-input">
   <div id="search-results" class="search-results"></div>
 </section>
 
 <section class="featured">
-  <h2>Top Agents by Stars</h2>
+  <h2>Top Harnesses by Stars</h2>
   <table class="agent-table">
     <thead>
       <tr><th>Name</th><th>Maker</th><th>License</th><th>Platform</th><th>Stars</th><th>First Released</th></tr>
@@ -34,13 +34,13 @@ eleventyComputed:
       {% endfor %}
     </tbody>
   </table>
-  <p class="see-all"><a href="{{ '/all/' | url }}">See all {{ collections.agent | size }} agents →</a></p>
+  <p class="see-all"><a href="{{ '/all/' | url }}">See all {{ collections.agent | size }} harnesses →</a></p>
 </section>
 
 <section class="stats">
   <div class="stat-card">
     <h3>{{ collections.agent | size }}</h3>
-    <p>Total Agents</p>
+    <p>Total Harnesses</p>
   </div>
   <div class="stat-card">
     <h3>{{ collections.agent | isOpenSource | size }}</h3>

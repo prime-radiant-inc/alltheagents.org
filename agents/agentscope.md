@@ -2,7 +2,7 @@
 name: "AgentScope"
 slug: "agentscope"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "agentscope-ai"
 license: "Apache-2.0"
 url: "https://github.com/modelscope/agentscope"

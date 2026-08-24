@@ -2,7 +2,7 @@
 name: "OpenCodeReview"
 slug: "opencodereview"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "alibaba"
 license: "Apache-2.0"
 url: "https://github.com/alibaba/open-code-review"

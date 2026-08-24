@@ -2,7 +2,7 @@
 name: "context-hub"
 slug: "context-hub"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "andrewyng"
 license: "MIT"
 url: "https://github.com/andrewyng/context-hub"

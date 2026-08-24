@@ -8,8 +8,10 @@ name: null                    # canonical product name
 slug: null                    # url slug, must match the filename; on collision, register an
                               # override in scripts/slug_overrides.json rather than improvising
 layout: "agent.njk"
-category: "agent"             # agent = codes itself (owns its own agentic loop)
-                              # multiplexer = orchestrates/runs OTHER agents rather than coding
+category: "harness"           # harness = owns an LLM loop that can create/modify software
+                              # multiplexer = orchestrates/runs OTHER coding agents
+                              # tool = supports agents/developers without owning the coding loop
+                              # something-else = related discovery outside the census scope
 maker: null                   # key of a record in _data/makers.json (maker = creator, one concept).
                               # Maker records carry: maker_type (individual | company | community),
                               # country (ISO 3166-1 alpha-2 or null), makes_models (bool),

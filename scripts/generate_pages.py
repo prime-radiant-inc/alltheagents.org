@@ -20,9 +20,47 @@ def yaml_escape(s):
     s = str(s).replace('"', '\\"')
     return f'"{s}"'
 
+def load_existing_categories():
+    categories = {}
+    category_re = re.compile(r'^category:\s*["\']?([^"\'\n]+)["\']?\s*$', re.MULTILINE)
+    slug_re = re.compile(r'^slug:\s*["\']?([^"\'\n]+)["\']?\s*$', re.MULTILINE)
+
+    if not os.path.exists(AGENTS_DIR):
+        return categories
+
+    for filename in os.listdir(AGENTS_DIR):
+        if not filename.endswith(".md") or filename == "_TEMPLATE.md":
+            continue
+        path = os.path.join(AGENTS_DIR, filename)
+        with open(path, encoding="utf-8") as f:
+            content = f.read()
+        category_match = category_re.search(content)
+        if not category_match:
+            continue
+        slug_match = slug_re.search(content)
+        slug = slug_match.group(1).strip() if slug_match else filename[:-3]
+        categories[slug] = category_match.group(1).strip()
+
+    return categories
+
+def choose_category(slug, existing_categories, multiplexer_slugs):
+    existing = existing_categories.get(slug)
+    audited_categories = {"harness", "tool", "something-else"}
+
+    if existing in audited_categories:
+        return existing
+    if slug in multiplexer_slugs or existing == "multiplexer":
+        return "multiplexer"
+    if existing == "agent":
+        return "agent"
+    return "harness"
+
 def main():
     os.makedirs(AGENTS_DIR, exist_ok=True)
     os.makedirs(DATA_DIR, exist_ok=True)
+    existing_categories = load_existing_categories()
+    if existing_categories:
+        print(f"Loaded {len(existing_categories)} existing categories")
     
     overrides_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "slug_overrides.json")
     slug_overrides = {}
@@ -85,7 +123,7 @@ def main():
                     r[field] = str(value)
                     print(f"  Override: set '{field}' to '{value}' for {name} ({url})")
         
-        category = "multiplexer" if slug in multiplexer_slugs else "agent"
+        category = choose_category(slug, existing_categories, multiplexer_slugs)
         
         # Build frontmatter
         fm_lines = ["---"]

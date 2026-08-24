@@ -2,7 +2,7 @@
 name: "Graphql-Playground"
 slug: "graphql-playground"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "graphql"
 license: "MIT"
 url: "https://github.com/graphql/graphql-playground"

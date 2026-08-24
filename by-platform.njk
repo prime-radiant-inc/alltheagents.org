@@ -3,7 +3,7 @@ layout: base.njk
 eleventyComputed:
   title: "By Platform — Harness Census"
 ---
-<h1>Coding Agents by Platform</h1>
+<h1>Coding Agent Harnesses by Platform</h1>
 {% set groups = collections.agent | groupBy("platforms") %}
 {% set allKeys = groups | keys %}
 {% for key in allKeys %}

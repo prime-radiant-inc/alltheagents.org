@@ -2,7 +2,7 @@
 name: "Omnigent"
 slug: "omnigent"
 layout: "agent.njk"
-category: "multiplexer"
+category: multiplexer
 maker: "omnigent-ai"
 license: "Apache-2.0"
 url: "https://github.com/omnigent-ai/omnigent"

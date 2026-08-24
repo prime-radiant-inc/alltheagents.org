@@ -2,7 +2,7 @@
 name: "agency-agents-zh"
 slug: "agency-agents-zh"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "jnMetaCode"
 license: "MIT"
 url: "https://github.com/jnMetaCode/agency-agents-zh"

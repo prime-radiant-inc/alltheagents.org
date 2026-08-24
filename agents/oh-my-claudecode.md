@@ -2,7 +2,7 @@
 name: "oh-my-claudecode"
 slug: "oh-my-claudecode"
 layout: "agent.njk"
-category: "agent"
+category: multiplexer
 maker: "Yeachan-Heo"
 license: "MIT"
 url: "https://github.com/Yeachan-Heo/oh-my-claudecode"

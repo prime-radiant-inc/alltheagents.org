@@ -2,7 +2,7 @@
 name: "TypeChat"
 slug: "typechat"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "microsoft"
 license: "MIT"
 url: "https://github.com/microsoft/TypeChat"

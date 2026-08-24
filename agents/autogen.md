@@ -2,7 +2,7 @@
 name: "AutoGen"
 slug: "autogen"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "microsoft"
 license: "MIT"
 url: "https://github.com/microsoft/autogen"

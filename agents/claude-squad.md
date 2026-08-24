@@ -2,7 +2,7 @@
 name: "Claude Squad"
 slug: "claude-squad"
 layout: "agent.njk"
-category: "multiplexer"
+category: multiplexer
 maker: "smtg-ai"
 license: "AGPL-3.0"
 url: "https://github.com/smtg-ai/claude-squad"

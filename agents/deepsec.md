@@ -2,7 +2,7 @@
 name: "deepsec"
 slug: "deepsec"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "vercel-labs"
 license: "Apache-2.0"
 url: "https://github.com/vercel-labs/deepsec"

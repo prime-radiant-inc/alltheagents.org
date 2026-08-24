@@ -2,7 +2,7 @@
 name: "DeerFlow"
 slug: "deerflow"
 layout: "agent.njk"
-category: "agent"
+category: harness
 maker: "bytedance"
 license: "MIT"
 url: "https://github.com/bytedance/deer-flow"

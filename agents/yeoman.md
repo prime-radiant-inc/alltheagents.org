@@ -2,7 +2,7 @@
 name: "Yeoman"
 slug: "yeoman"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "yeoman"
 license: "BSD"
 url: "https://github.com/yeoman/yeoman"

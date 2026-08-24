@@ -2,7 +2,7 @@
 name: "OpenCodex"
 slug: "opencodex"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "lidge-jun"
 license: "MIT"
 url: "https://github.com/lidge-jun/opencodex"

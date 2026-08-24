@@ -2,7 +2,7 @@
 name: "BMAD-METHOD"
 slug: "bmad-method"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "bmad-code-org"
 license: "MIT"
 url: "https://github.com/bmad-code-org/BMAD-METHOD"

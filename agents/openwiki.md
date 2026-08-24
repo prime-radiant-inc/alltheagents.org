@@ -2,7 +2,7 @@
 name: "OpenWiki"
 slug: "openwiki"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "langchain-ai"
 license: "MIT"
 url: "https://github.com/langchain-ai/openwiki"

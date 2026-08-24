@@ -2,7 +2,7 @@
 name: "yao"
 slug: "yao"
 layout: "agent.njk"
-category: "multiplexer"
+category: multiplexer
 maker: "YaoApp"
 license: "Apache-2.0 (modified, commercial restrictions)"
 url: "https://github.com/YaoApp/yao"

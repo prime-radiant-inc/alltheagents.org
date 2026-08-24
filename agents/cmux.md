@@ -2,7 +2,7 @@
 name: "cmux"
 slug: "cmux"
 layout: "agent.njk"
-category: "multiplexer"
+category: multiplexer
 maker: "manaflow-ai"
 license: "GPL-3.0-or-later"
 url: "https://github.com/manaflow-ai/cmux"

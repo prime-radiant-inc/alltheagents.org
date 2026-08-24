@@ -2,7 +2,7 @@
 name: "Swarms"
 slug: "swarms"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "kyegomez"
 license: "Apache-2.0"
 url: "https://github.com/kyegomez/swarms/"

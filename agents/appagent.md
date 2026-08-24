@@ -2,7 +2,7 @@
 name: "AppAgent"
 slug: "appagent"
 layout: "agent.njk"
-category: "agent"
+category: something-else
 maker: "TencentQQGYLab"
 license: "MIT"
 url: "https://github.com/mnotgod96/AppAgent"

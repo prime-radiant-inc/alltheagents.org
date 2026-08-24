@@ -2,14 +2,14 @@
 
 Comprehensive census of coding agent harnesses — systems that let an LLM autonomously write, modify, debug, or run code.
 
-**1101 agents catalogued.** Browse the live site at [harness-census](https://prime-radiant-inc.github.io/harness-census/).
+**1101 harnesses catalogued.** Browse the live site at [harness-census](https://prime-radiant-inc.github.io/harness-census/).
 
 ## Contents
 
 - `coding_agent_harnesses.tsv` — tab-separated data (1101 entries)
 - `coding_agent_harnesses.csv` — comma-separated data (1101 entries)
 - `coding_agent_harnesses.md` — markdown table with summary
-- `agents/` — individual agent pages (Markdown with YAML frontmatter)
+- `agents/` — individual entry pages (Markdown with YAML frontmatter)
 - `_data/agents.json` — JSON data for client-side search
 - `_layouts/`, `*.njk` — Eleventy templates
 - `css/style.css` — dark theme stylesheet
@@ -43,6 +43,7 @@ Output goes to `_site/`.
 | Field | Description |
 |-------|-------------|
 | name | Name of the harness |
+| category | Entry bucket: harness, multiplexer, tool, or something-else |
 | maker | Company or individual that makes it |
 | license | License (MIT, Apache-2.0, Proprietary, etc.) |
 | url | Primary URL |

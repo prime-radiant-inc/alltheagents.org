@@ -2,7 +2,7 @@
 name: "electric"
 slug: "electric"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "electric-sql"
 license: "Apache-2.0"
 url: "https://github.com/electric-sql/electric"

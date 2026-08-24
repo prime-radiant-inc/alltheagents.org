@@ -2,7 +2,7 @@
 name: "ChatDev"
 slug: "chatdev"
 layout: "agent.njk"
-category: "agent"
+category: harness
 maker: "OpenBMB"
 license: "Apache-2.0"
 url: "https://github.com/OpenBMB/ChatDev"

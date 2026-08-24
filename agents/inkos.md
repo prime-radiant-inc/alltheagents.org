@@ -2,7 +2,7 @@
 name: "InkOS"
 slug: "inkos"
 layout: "agent.njk"
-category: "agent"
+category: something-else
 maker: "Narcooo"
 license: "AGPL-3.0"
 url: "https://github.com/Narcooo/inkos"

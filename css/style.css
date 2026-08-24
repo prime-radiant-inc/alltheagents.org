@@ -139,8 +139,8 @@ a:hover { color: var(--accent-hover); text-decoration: underline; }
 .detail-table tr { border-bottom: 1px solid var(--border); }
 
 /* Groups */
-.license-group, .platform-group, .maker-group { margin-bottom: 2rem; }
-.license-group h2, .platform-group h2, .maker-group h2 {
+.license-group, .platform-group, .maker-group, .category-group { margin-bottom: 2rem; }
+.license-group h2, .platform-group h2, .maker-group h2, .category-group h2 {
   font-size: 1.3rem;
   color: var(--text-bright);
   margin-bottom: 0.5rem;

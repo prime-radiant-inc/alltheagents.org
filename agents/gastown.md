@@ -2,7 +2,7 @@
 name: "gastown"
 slug: "gastown"
 layout: "agent.njk"
-category: "multiplexer"
+category: multiplexer
 maker: "gastownhall"
 license: "MIT"
 url: "https://github.com/steveyegge/gastown"

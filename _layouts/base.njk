@@ -9,7 +9,8 @@
 <body>
   <nav class="nav">
     <a href="{{ '/' | url }}" class="nav-logo">Harness Census</a>
-    <a href="{{ '/all/' | url }}" class="nav-link">All Agents</a>
+    <a href="{{ '/all/' | url }}" class="nav-link">All Harnesses</a>
+    <a href="{{ '/by-category/' | url }}" class="nav-link">By Category</a>
     <a href="{{ '/by-license/' | url }}" class="nav-link">By License</a>
     <a href="{{ '/by-platform/' | url }}" class="nav-link">By Platform</a>
     <a href="{{ '/by-maker/' | url }}" class="nav-link">By Maker</a>
@@ -21,7 +22,7 @@
     {{ content | safe }}
   </main>
   <footer class="footer">
-    <p><a href="https://github.com/prime-radiant-inc/harness-census">Harness Census</a> — {{ collections.agent | size }} agents + {{ collections.multiplexer | size }} multiplexers catalogued.</p>
+    <p><a href="https://github.com/prime-radiant-inc/harness-census">Harness Census</a> — {{ collections.agent | size }} harnesses + {{ collections.multiplexer | size }} multiplexers + {{ collections.tool | size }} tools + {{ collections.somethingElse | size }} other entries catalogued.</p>
   </footer>
   {{ extraScripts | safe }}
 </body>

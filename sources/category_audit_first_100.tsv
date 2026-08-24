@@ -1,0 +1,101 @@
+batch	source	row	slug	name	category	confidence	evidence
+first-100	agents	1	claw-code	Claw Code	harness	high	Clean-room Claude Code-style coding agent.
+first-100	agents	2	deerflow	DeerFlow	harness	high	Long-horizon coding harness with terminal workbench and sandboxed workspaces.
+first-100	agents	3	metagpt	MetaGPT	harness	high	Multi-agent software company loop that returns PRD, design, tasks, or repo.
+first-100	agents	4	claude-flow	claude-flow	multiplexer	high	Deploys and coordinates multi-agent swarms rather than being a single coding loop.
+first-100	agents	5	openspec	OpenSpec	tool	high	Spec-driven development aid for AI coding assistants.
+first-100	agents	6	autogen	AutoGen	tool	high	General LLM multi-agent application framework.
+first-100	agents	7	crewai	CrewAI	tool	high	General role-playing agent orchestration framework.
+first-100	agents	8	gpt-engineer	GPT Engineer	harness	high	Generates complete codebases from a prompt.
+first-100	agents	9	bmad-method	BMAD-METHOD	tool	high	Guided workflow framework; does not own the coding-agent loop.
+first-100	agents	10	orca	Orca	multiplexer	high	Fleet workspace for running parallel coding agents.
+first-100	agents	11	oh-my-claudecode	oh-my-claudecode	multiplexer	high	Teams-first orchestration layer for Claude Code.
+first-100	agents	12	chatdev	ChatDev	harness	high	Virtual software company of agents that designs, codes, tests, and documents.
+first-100	agents	13	ai-website-cloner-template	ai-website-cloner-template	tool	medium	Template/workflow that uses AI coding agents to clone sites.
+first-100	agents	14	agentscope	AgentScope	tool	high	Framework for building LLM-powered multi-agent applications.
+first-100	agents	15	cmux	cmux	multiplexer	high	Terminal environment built to run and monitor multiple coding agents.
+first-100	agents	16	roo-code-cli	Roo Code CLI	harness	high	Multi-mode CLI/IDE coding agent.
+first-100	agents	17	agentsmd	agents.md	tool	high	Configuration format for guiding coding agents.
+first-100	agents	18	archon	Archon	tool	high	Harness builder and repeatability layer for AI coding.
+first-100	agents	19	opcode	opcode	multiplexer	high	GUI/toolkit for managing Claude Code sessions and background agents.
+first-100	agents	20	ralph	ralph	harness	high	Autonomous AI coding loop that repeats until PRD items are complete.
+first-100	agents	21	coze-studio	coze-studio	something-else	medium	General AI agent development platform, not specifically a coding-agent harness.
+first-100	agents	22	video-use	video-use	tool	medium	Video-editing helper intended to be used with coding agents.
+first-100	agents	23	opencodereview	OpenCodeReview	tool	high	Code review CLI for scans and diffs.
+first-100	agents	24	hindsight	Hindsight	tool	high	Memory layer for agents.
+first-100	agents	25	agency-agents-zh	agency-agents-zh	tool	high	Persona library and companion orchestration assets for existing agent tools.
+first-100	agents	26	sealos	sealos	tool	medium	Deployment and operations platform for projects produced by coding agents.
+first-100	agents	27	langchain-js-tools	LangChain JS Tools	tool	high	General LangChain tool/library package.
+first-100	agents	28	gastown	gastown	multiplexer	high	Multi-agent orchestration with persistent work tracking.
+first-100	agents	29	prime-agent	Prime Agent	harness	high	Self-improving coding agent with persistent execution kernel.
+first-100	agents	30	qwen-agent	Qwen-Agent	tool	high	General Qwen agent framework and application toolkit.
+first-100	agents	31	dagger	Dagger	tool	high	Containerized pipelines-as-code tool.
+first-100	agents	32	openwiki	OpenWiki	tool	high	Documentation/wiki agent for codebase memory rather than a coding harness.
+first-100	agents	33	gitingest	GitIngest	tool	high	Prepares repositories for LLM context windows.
+first-100	agents	34	pentestgpt	Pentestgpt	tool	medium	Penetration-testing assistant, not a software-writing harness.
+first-100	agents	35	aperant	Aperant	harness	medium	Autonomous multi-session AI coding.
+first-100	agents	36	paseo	Paseo	multiplexer	high	Orchestrates multiple coding agents across desktop and mobile.
+first-100	agents	37	context-hub	context-hub	tool	high	Context-management tool for agent workflows.
+first-100	agents	38	context-engineering-intro	context-engineering-intro	something-else	high	Educational/context-engineering repository.
+first-100	agents	39	superset	Superset	multiplexer	high	Terminal for orchestrating parallel agent sessions.
+first-100	agents	40	insforge	InsForge	tool	high	Backend platform/infrastructure for agentic coding.
+first-100	agents	41	pr-agent	PR-Agent	tool	high	PR review, description, and improvement assistant.
+first-100	agents	42	learn-coding-agent	learn-coding-agent	something-else	high	Research/learning material about coding agents.
+first-100	agents	43	smol-developer	Smol Developer	harness	high	Minimal agent for code generation and iteration.
+first-100	agents	44	opencodex	OpenCodex	tool	high	Provider proxy for Codex-compatible APIs.
+first-100	agents	45	humanlayer	humanlayer	tool	high	Human approval/workflow layer for AI coding agents.
+first-100	agents	46	valuecell	valuecell	something-else	high	Financial multi-agent platform rather than coding-agent harness.
+first-100	agents	47	electric	electric	tool	medium	Sync infrastructure positioned for agent platforms.
+first-100	agents	48	claurst	Claurst	harness	high	Rust rewrite of Claude Code architecture.
+first-100	agents	49	yeoman	Yeoman	tool	high	Traditional development workflow automation toolkit.
+first-100	agents	50	codex-security	Codex Security	harness	high	Runs Codex over a repo to find, validate, and patch security issues.
+first-100	agents	51	agent-orchestrator-ao	Agent Orchestrator (AO)	multiplexer	high	Supervises many coding agents in parallel.
+first-100	agents	52	inkos	InkOS	something-else	high	Autonomous novel-writing agent, not software development.
+first-100	agents	53	omnigent	Omnigent	multiplexer	high	Meta-harness over Claude Code, Codex, Cursor, OpenCode, Hermes, Kiro, and Pi.
+first-100	agents	54	praisonai	PraisonAI	tool	high	Low-code multi-agent framework built around AutoGen and CrewAI.
+first-100	agents	55	graphql-playground	Graphql-Playground	tool	high	GraphQL IDE/developer tool.
+first-100	agents	56	typechat	TypeChat	tool	high	Schema-engineering library for natural language interfaces.
+first-100	agents	57	claude-squad	Claude Squad	multiplexer	high	tmux harness for side-by-side Claude Code sessions.
+first-100	agents	58	flue	Flue	tool	medium	Sandbox agent framework rather than a coding loop.
+first-100	agents	59	claude-agent-sdk-python	Claude Agent SDK (Python)	tool	high	SDK for building agents on the Claude Code loop.
+first-100	agents	60	finrobot	FinRobot	something-else	high	Financial analysis agent platform.
+first-100	agents	61	ai-dev-tasks	ai-dev-tasks	tool	high	Task management system for AI development agents.
+first-100	agents	62	deepsec	deepsec	tool	high	Agent-powered vulnerability scanner.
+first-100	agents	63	yao	yao	multiplexer	high	Workspace for agents and tasks across devices.
+first-100	agents	64	sweep	Sweep	harness	high	Transforms GitHub issues into pull requests.
+first-100	agents	65	code2prompt	Code2Prompt	tool	high	Codebase-to-prompt conversion CLI.
+first-100	agents	66	swarms	Swarms	tool	high	General multi-agent collaboration framework.
+first-100	agents	67	glm-5	GLM-5	something-else	high	Model entry, not a harness or tool.
+first-100	agents	68	gpt-migrate	GPT Migrate	harness	medium	Codebase migration agent that generates and tests migrated software.
+first-100	agents	69	strands-agents-sdk	Strands Agents SDK	tool	high	SDK for building AI agents.
+first-100	agents	70	appagent	AppAgent	something-else	high	Mobile app operation agent, not software creation/modification.
+first-100	gap_report	1	google-ai-studio-build	Google AI Studio Build	harness	high	Full-stack vibe-coding product with Antigravity agent and Firebase.
+first-100	gap_report	2	google-opal	Google Opal	harness	medium	No-code mini-app builder that chains prompts into shareable apps.
+first-100	gap_report	3	aws-transform	AWS Transform	harness	high	Agentic modernization for .NET, mainframe, and VMware codebases.
+first-100	gap_report	4	xcode-coding-intelligence	Xcode Coding Intelligence	harness	high	IDE-integrated coding agent with ChatGPT and Claude backends.
+first-100	gap_report	5	rovo-dev	Rovo Dev	harness	high	CLI coding agent with Jira and Bitbucket integration.
+first-100	gap_report	6	agentforce-for-developers	Agentforce for Developers	harness	high	AI coding agent for Apex and Salesforce development.
+first-100	gap_report	7	sap-joule-for-developers	SAP Joule for Developers	harness	medium	Developer agents for ABAP and SAP Build Code.
+first-100	gap_report	8	oracle-code-assist	Oracle Code Assist	tool	medium	Enterprise coding assistant; own agentic loop not established in source row.
+first-100	gap_report	9	databricks-assistant	Databricks Assistant	tool	medium	Assistant for notebooks, SQL, and pipelines; own loop not established in source row.
+first-100	gap_report	10	netlify-ai	Netlify AI	harness	high	Agent Runners build and deploy web apps from prompts.
+first-100	gap_report	11	doubao-marscode	Doubao MarsCode	harness	medium	Cloud IDE/AI assistant folded into Trae coding-agent brand.
+first-100	gap_report	12	iflow-cli	iFlow CLI	harness	high	Terminal coding agent.
+first-100	gap_report	13	baidu-comate	Baidu Comate	harness	medium	AI coding assistant with Zulu agent.
+first-100	gap_report	14	raccoon-code	Raccoon Code	tool	medium	Code assistant; own agentic loop not established in source row.
+first-100	gap_report	15	codegeex	CodeGeeX	tool	high	Multilingual coding assistant/open-source core, not clearly agentic.
+first-100	gap_report	16	minimax-agent	MiniMax Agent	harness	high	Builds and deploys full-stack web apps from prompts.
+first-100	gap_report	17	youware	Youware	harness	high	Vibe-coding web app/site builder.
+first-100	gap_report	18	trickle	Trickle	harness	high	AI website/app builder with agent workflow.
+first-100	gap_report	19	blitzy	Blitzy	harness	high	Batch autonomous engineering platform.
+first-100	gap_report	20	charlie-labs	Charlie Labs	harness	high	GitHub-native AI engineer for issues-to-PRs.
+first-100	gap_report	21	tembo	Tembo	harness	high	Production-error-to-PR autonomous development agent.
+first-100	gap_report	22	gitar	Gitar	harness	high	Code-change automation agents for migrations, cleanup, and PRs.
+first-100	gap_report	23	solver	Solver	harness	high	Repo-native autonomous software engineering platform.
+first-100	gap_report	24	ona	Ona	harness	high	Parallel cloud software engineering agents.
+first-100	gap_report	25	niteshift	Niteshift	tool	medium	Full-stack cloud/infrastructure for coding agents.
+first-100	gap_report	26	8090	8090	harness	high	Spec-to-deploy AI-native software platform.
+first-100	gap_report	27	code-metal	Code Metal	harness	medium	AI code translation for software systems.
+first-100	gap_report	28	fume	Fume	harness	high	AI software engineer that fixes bugs from Sentry or Slack.
+first-100	gap_report	29	bismuth	Bismuth	harness	high	Autonomously finds and fixes bugs.
+first-100	gap_report	30	pythagora	Pythagora	harness	high	All-in-one AI development platform with GPT Pilot core.

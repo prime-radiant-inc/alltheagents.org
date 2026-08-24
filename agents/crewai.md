@@ -2,7 +2,7 @@
 name: "CrewAI"
 slug: "crewai"
 layout: "agent.njk"
-category: "agent"
+category: tool
 maker: "crewAIInc"
 license: "MIT"
 url: "https://github.com/joaomdmoura/crewai"
