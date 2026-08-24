@@ -1,0 +1,52 @@
+# Open-source harnesses on paseo's list — for Jesse's deep-dive tool
+
+Extracted from master.tsv (43 harnesses researched, 2026-08-24). 'partial' = repo exists but core agent closed.
+
+## Open
+- **Codex CLI** (codex-cli): yes https://github.com/openai/codex (CLI/core Apache-2.0; Codex cloud service, IDE extension binary, ChatGPT desktop app and models not open)
+- **OpenCode** (opencode): yes https://github.com/anomalyco/opencode (full client: TUI, desktop, web UI, server, SDK, plugin API, GitHub Action are MIT; hosted Zen/Go/Enterprise are services)
+- **Pi** (pi): yes https://github.com/earendil-works/pi (entire monorepo MIT; maker says core stays MIT, paid tiers contemplated)
+- **Oh My Pi** (oh-my-pi): yes https://github.com/can1357/oh-my-pi (full monorepo TS+Rust+Python MIT)
+- **Gemini CLI** (gemini-cli): yes https://github.com/google-gemini/gemini-cli (full CLI source Apache-2.0; successor Antigravity CLI repo publishes only README/changelog with no license)
+- **goose** (goose): yes https://github.com/aaif-goose/goose (entire repo Apache-2.0: Rust core, Electron desktop, docs, ACP TUI; block/goose 301-redirects there)
+- **Qwen Code** (qwen-code): yes https://github.com/QwenLM/qwen-code (full 18-package monorepo Apache-2.0 incl. cli/core/desktop/webui/IDE companions/ACP bridge/channels/SDKs)
+- **Kilo Code** (kilo-code): yes (clients) https://github.com/Kilo-Org/kilocode (extension/plugin/CLI/agent runtime MIT, LICENSE credits opencode; hosted Gateway/Cloud Agents/Code Reviews/KiloClaw/Gas Town/Teams dashboard are proprietary services)
+- **Mistral Vibe** (mistral-vibe): yes https://github.com/mistralai/mistral-vibe (full CLI Apache-2.0; hosted web Code Mode, cloud remote-agent sandboxes and Mistral-hosted closed models are not open; Devstral models are open-weight)
+- **Kimi Code CLI** (kimi-code-cli): yes https://github.com/MoonshotAI/kimi-code (full monorepo MIT: CLI, ACP adapter, agent core, VS Code extension app, local server; legacy Python kimi-cli is Apache-2.0)
+- **Grok Build** (grok-build): yes https://github.com/xai-org/grok-build (full Rust harness Apache-2.0 since 2026-07-15; one-way bot sync, external contributions not accepted; models and service side closed; 0 releases/tags)
+- **Hermes Agent** (hermes-agent): yes https://github.com/NousResearch/hermes-agent (full agent MIT, Python + TS desktop/docs site in-repo; Nous Portal is the hosted service)
+- **DeepAgents** (deep-agents-code): yes https://github.com/langchain-ai/deepagents (MIT monorepo: SDK, dcode, ACP server, CLI, talon, partners, openwiki; JS SDK in langchain-ai/deepagentsjs; LangSmith is the commercial service)
+- **VT Code** (vt-code): yes https://github.com/vinhnx/VTCode (full source, MIT OR Apache-2.0; core reusable as crates; no product site — repo/wiki is the whole surface)
+- **Autohand Code CLI** (autohand-code-cli): yes https://github.com/autohandai/code-cli (full source; license effectively dual — Apache-2.0 text + ARR-gated commercial requirement Apache itself does not permit)
+- **CodeWhale** (codewhale): yes https://github.com/Hmbown/CodeWhale (full Rust source MIT; third-party notices for adapted code; the agent and a bot commit to their own repo)
+- **Crow** (crow-cli): yes https://github.com/crow-cli/crow-cli (full source; sibling crow-ui/crow-ade editor repos are 1-3-star early code)
+- **Dirac** (dirac): yes https://github.com/dirac-run/dirac (full TS source incl. per-task eval diffs in-repo)
+- **fast-agent** (fast-agent): yes https://github.com/evalstate/fast-agent (full source; began as a fork/derivative of lastmile-ai/mcp-agent, acknowledged)
+- **Minion Code** (minion-code): yes https://github.com/femto/minion-code (full source; MIT-vs-AGPL license conflict unresolved until the LICENSE file is read)
+- **GLM Agent** (glm-acp-agent): yes https://github.com/stefandevo/glm-acp-agent (full TS source)
+- **siGit Code** (sigit): yes https://github.com/getsigit/sigit (agent source; LICENSE is verbatim Apache-2.0 though the GitHub API reads NOASSERTION; a 'claude' bot account is the #3 committer)
+- **Stakpak** (stakpak): yes https://github.com/stakpak/agent (full Rust source; hosted API closed; repo last pushed 2026-07-06)
+
+## Partial
+- **Claude Code** (claude-code): partial https://github.com/anthropics/claude-code (issues, changelog, plugins/examples, GitHub Action public; CLI ships as closed native binary, LICENSE all-rights-reserved; Agent SDK wrapper repos public)
+- **Cline** (cline): partial https://github.com/cline/cline (extension, CLI, SDK, Kanban Apache-2.0; JetBrains plugin closed per README; desktop-app source location unverified; hosted account/API/Enterprise console are services)
+- **Kiro** (kiro): partial (https://github.com/kirodotdev/Kiro is issues/feedback only; IDE and CLI closed — the aws/amazon-q-developer-cli README calls Kiro CLI closed-source; open: KiroCrew and the powers registry, both Apache-2.0)
+- **CodeBuddy Code** (codebuddy-code): partial https://cnb.cool/codebuddy/codebuddy-code (repo on Tencent's CNB platform, README MIT, 123 stars/781 issues; npm tarball is the actual distribution and core-source completeness unverified — treat as proprietary with a source-hosting repo)
+- **Agoragentic** (agoragentic): partial (https://github.com/rhein1/agoragentic-integrations — MIT relay/adapters open, npm package lives in its mcp/ dir; hosted Triptych OS router/marketplace closed)
+
+## Not open
+- **GitHub Copilot CLI** (github-copilot-cli): no (https://github.com/github/copilot-cli holds only README/LICENSE/changelog/install.sh; binary under proprietary no-derivatives license; Copilot SDK and plugin marketplaces are MIT)
+- **Cursor** (cursor): no (https://github.com/cursor/cursor holds only README/SECURITY/issue templates; IDE, CLI and cloud agent all closed; only research code like the Mixture-of-Kittens megakernel is open)
+- **Amp** (amp): no (closed Bun-compiled single-file binary, npm license 'SEE LICENSE IN LICENSE.md'; github.com/ampcode holds only amp.nvim, contrib, examples, tap and an SDK demo — amp.nvim is Apache-2.0)
+- **Devin** (devin-ai): no (https://github.com/CognitionAI/devin-cli is release/issue-only, 1 star, license null; ACP registry lists Devin as proprietary; adjacent open repos: blockdiff, deepwiki, devin-swebench-results, plugin templates)
+- **Factory Droid** (droid): no (https://github.com/Factory-AI/factory holds README/docs/issues only, created 2026-07-29; CLI ships as closed per-platform binaries, npm license UNLICENSED, 'All rights reserved'; open satellites: factory-plugins, droid-sdk-python, legacy-bench, Zed extension, all Apache-2.0)
+- **Junie** (junie-cli): no (https://github.com/JetBrains/junie holds install scripts/update registries/templates/issue tracker only; CLI ships as ~420 MB binary zips; LICENSE all-rights-reserved under JetBrains AI Service ToS)
+- **TRAE CLI** (trae-agent): no (the commercial product is closed; the separate OSS https://github.com/bytedance/trae-agent is an MIT Python research agent — 'research-friendly' per README, SWE-bench Verified 75.20% per its arXiv paper — but is dormant since 2026-02-05 with zero releases ever, has no ACP, and is NOT what Paseo drives)
+- **Poolside (pool CLI)** (poolside-ai): no (https://github.com/poolsideai/pool holds README/CHANGELOG/LICENSE and release binaries only, all-rights-reserved EULA; the Laguna models are open-weight — OpenMDW-1.1 / Apache-2.0 on Hugging Face)
+- **Auggie CLI** (auggie): no (https://github.com/augmentcode/auggie is scaffolding — README, examples, plugin marketplace dir, no agent source; npm ships a bundled augment.mjs; MIT satellites: GitHub Actions, Zed ACP extension, context-connectors, augment-swebench-agent)
+- **Qoder CLI** (qoder-cli): no (no product repo exists — census URL github.com/qoder-cli/qoder-cli returns 404; official org QoderAI holds only changelogs/action/samples/better-harness; npm package has no license field; ancillary MIT/Apache repos only)
+- **Cortex Code** (cortex-code-cli): no (CLI is a closed binary installed via ai.snowflake.com script, no public source or license; open satellites: Snowflake-Labs/snowflake-ai-kit routing plugin + skills, Apache-2.0 code + Snowflake Skills License)
+- **MiniMax Code** (minimax-code): no (github.com/MiniMax-AI/minimax-code is an issue tracker for the desktop app only; npm CLI is MIT-labeled bundled JS with no source repo; desktop all-rights-reserved)
+- **DimCode** (dimcode): no (https://github.com/arcships/dimcode is an issues-only tracker; distribution is ~175MB compiled per-platform binaries; no LICENSE anywhere)
+- **Nova** (nova-compass): no (npm ships a minified bundle; GitHub Compass-Agentic-Platform/nova is a docs shell stale since 2026-03; development is private Azure DevOps oakpeak-devops/Kore)
+- **Corust Agent** (corust-agent): no in practice (https://github.com/Corust-ai/corust-agent-release holds LICENSE + extension.toml + icon + release binaries only; GPLv3 text without corresponding source anywhere in the org's 8 public repos; companion corust-cli installer repo is MIT)

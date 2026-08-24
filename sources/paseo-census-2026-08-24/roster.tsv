@@ -1,0 +1,44 @@
+tier	paseo_id	name	maker	primary_url	census_slug	notes
+1	claude	Claude Code	Anthropic	https://github.com/anthropics/claude-code	claude-code	
+1	codex	Codex CLI	OpenAI	https://github.com/openai/codex	codex-cli	
+1	copilot	GitHub Copilot CLI	GitHub (Microsoft)	https://github.com/features/copilot/cli/	github-copilot-cli	
+1	opencode	OpenCode	Anomaly (anomalyco)	https://github.com/anomalyco/opencode	opencode	
+1	pi	Pi	earendil-works	https://pi.dev	pi	
+1	omp	Oh My Pi	can1357	https://github.com/can1357/oh-my-pi	oh-my-pi	paseo: enabledByDefault false
+2	agoragentic-acp	Agoragentic	Agoragentic	https://agoragentic.com	NEW	agent marketplace over MCP; likely fails own-loop test
+2	amp-acp	Amp	Sourcegraph	https://sourcegraph.com/amp	amp	paseo uses third-party ACP wrapper tao12345666333/amp-acp
+2	auggie	Auggie CLI	Augment Code	https://www.augmentcode.com/	auggie	
+2	autohand	Autohand Code	Autohand AI	https://www.autohand.ai/cli/	autohand-code-cli	
+2	cline	Cline	Cline	https://cline.bot/cli	cline	
+2	codebuddy-code	CodeBuddy Code	Tencent Cloud	https://www.codebuddy.cn/cli/	NEW	census `codebuddy` is an unrelated archived project
+2	codewhale	CodeWhale	CodeWhale	https://codewhale.net/	NEW	
+2	cortex-code	Cortex Code	Snowflake	https://docs.snowflake.com/en/user-guide/cortex-code/cortex-code-cli	cortex-code-cli	
+2	corust-agent	Corust Agent	Corust AI	https://github.com/Corust-ai/corust-agent-release	NEW	
+2	crow-cli	crow-cli	Crow AI	https://crow-ai.dev/	NEW	
+2	cursor	Cursor (cursor-agent)	Anysphere	https://docs.cursor.com/en/cli/overview	cursor	
+2	deepagents	DeepAgents	LangChain	https://docs.langchain.com/oss/javascript/deepagents/overview	deep-agents-code	
+2	devin	Devin CLI	Cognition	https://cli.devin.ai/docs	devin-ai	
+2	dimcode	DimCode	DimCode	https://dimcode.dev/docs/acp.html	NEW	
+2	dirac	Dirac	Dirac	https://dirac.run	NEW	
+2	factory-droid	Factory Droid	Factory AI	https://factory.ai/product/cli	droid	company page also exists as census `factory`
+2	fast-agent	fast-agent	fast-agent	https://fast-agent.ai/acp/	NEW	
+2	gemini	Gemini CLI	Google	https://geminicli.com	gemini-cli	
+2	glm-acp-agent	GLM Agent	stefandevo (third-party)	https://github.com/stefandevo/glm-acp-agent	NEW	third-party ACP agent for Zhipu GLM models; verify it owns a loop
+2	goose	goose	Block	https://block.github.io/goose/	goose	
+2	grok	Grok (grok agent)	xAI	https://docs.x.ai/build/overview	grok-build	verify mapping: census grok-build = xai-org/grok-build
+2	hermes	Hermes Agent	Nous Research	https://hermes-agent.nousresearch.com/docs/user-guide/features/acp	NEW	
+2	junie	Junie	JetBrains	https://junie.jetbrains.com/docs/junie-cli-acp.html	junie-cli	
+2	kilo	Kilo	Kilo Code	https://kilo.ai/docs/code-with-ai/platforms/cli	kilo-code	
+2	kiro	Kiro CLI	Amazon (AWS)	https://kiro.dev/docs/cli/acp/	kiro	
+2	kimi	Kimi Code CLI	Moonshot AI	https://github.com/MoonshotAI/kimi-code	kimi-code-cli	census says maintained=abandoned; verify
+2	minimax-code	MiniMax Code	MiniMax	https://agent.minimax.io	NEW	
+2	minion-code	Minion Code	femto	https://github.com/femto/minion-code	NEW	
+2	mistral-vibe	Mistral Vibe	Mistral AI	https://github.com/mistralai/mistral-vibe	mistral-vibe	
+2	nova	Nova	Compass AI	https://www.compassap.ai/portfolio/nova.html	NEW	
+2	poolside	Poolside (pool CLI)	Poolside	https://docs.poolside.ai/cli/pool	poolside-ai	
+2	qoder	Qoder CLI	Qoder (Alibaba)	https://qoder.com	qoder	census also has qoder-cli
+2	qwen-code	Qwen Code	Alibaba (QwenLM)	https://qwenlm.github.io/qwen-code-docs/en/users/overview	qwen-code	
+2	sigit	siGit Code	siGit	https://github.com/getsigit/sigit	NEW	
+2	stakpak	Stakpak	Stakpak	https://stakpak.dev/	NEW	DevOps agent; check specialization
+2	traecli	TRAE CLI	ByteDance	https://docs.trae.cn/cli_get-started-with-trae-cli	NEW	Paseo drives the commercial TRAE CLI (traecli acp serve), NOT census trae-agent (dormant MIT research agent, no ACP) - two entries needed per dossier
+2	vtcode	VT Code	vinhnx	https://github.com/vinhnx/VTCode	vt-code	

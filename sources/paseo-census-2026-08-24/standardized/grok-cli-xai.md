@@ -1,0 +1,24 @@
+# Standardized differentiation extraction: Grok Build (census mapping: grok-build; Paseo entry "Grok")
+
+Run per PRI-2927 standard prompt, 2026-08-24. Official materials only (see Sources).
+
+1. **One-sentence self-description:** An extensible, terminal-based coding agent that understands a codebase, edits files, runs shell commands, searches the web, and manages long-running tasks — usable interactively (TUI), headlessly in scripts, or embedded in other apps via the Agent Client Protocol.
+
+2. **Claimed differentiators** (in order of prominence):
+   - Plan-first execution for complex work: start in plan mode, then "approve the plan, comment on individual steps, or rewrite it entirely before execution begins" — workflow — https://x.ai/news/grok-build-cli
+   - Extensibility as the headline trait ("a powerful and extensible coding agent"): skills, plugins, marketplaces, hooks, MCP servers, and subagents, managed from one extensions modal — capability/integration — https://docs.x.ai/build/overview, https://docs.x.ai/build/features/skills-plugins-marketplaces
+   - Zero-configuration Claude Code compatibility: "Grok is fully compatible with Claude Code with zero configuration needed" — automatically reads Claude Code marketplaces, plugins, skills, MCPs, agents, hooks, and instruction files, plus the AGENTS.md family — integration — https://docs.x.ai/build/features/skills-plugins-marketplaces
+   - Open source (harness published so users can inspect and self-host): "Publishing the code is the most direct way to build toward a robust and reliable harness"; compile it and point it at your own inference via config.toml — openness/trust-safety — https://x.ai/news/grok-build-open-source
+   - One binary, three surfaces: fullscreen mouse-interactive TUI, headless `-p` with JSON/streaming-JSON output for scripts/CI, and `grok agent stdio` as an ACP agent for IDE/tool embedding; plus custom/BYO models via `~/.grok/config.toml` — capability/model — https://docs.x.ai/build/overview, https://docs.x.ai/build/cli/headless-scripting
+
+3. **Stated audience:** "professional software engineering and complex coding work"; available to SuperGrok and X Premium Plus subscribers (https://x.ai/news/grok-build-cli); enterprise deployments get a dedicated guide (MDM-managed config, corporate OIDC, ZDR) (https://docs.x.ai/build/enterprise). No team-size or language/stack claims.
+
+4. **Positioning against others:** No competitor is named. Claude Code and Cursor are referenced only as compatibility targets (Grok reads their plugin/hook/MCP/instruction files and accepts Claude Code flag aliases) — https://docs.x.ai/build/features/skills-plugins-marketplaces, https://docs.x.ai/build/enterprise, https://docs.x.ai/build/cli/reference. Otherwise not claimed.
+
+5. **Evidence offered for claims:** Essentially none in the harness materials — no benchmarks, adoption numbers, or customer names in the launch or open-source posts. The only evidence-like claim is model positioning: grok-4.6 is "the most intelligent and fastest model we've built," recommended for code and "the same model that powers Grok Build" (https://docs.x.ai/developers/models, https://docs.x.ai/build/overview), and the published source itself as proof of openness (https://github.com/xai-org/grok-build).
+
+6. **Notable silences:** No usage/adoption metrics; no benchmark scores for the harness; no pricing figures (subscription tiers linked, not priced, in the launch post); no SDK for the agent loop; no multi-vendor model marketing (BYO models documented but not promoted as differentiation); no mention of the July 2026 data-upload incident in the open-source post; no security/sandboxing marketing on the overview page (sandbox exists only as feature docs); no IDE extension of its own (ACP only); no cloud/background-fleet story in the CLI materials (Grok Bot is documented as a separate product).
+
+7. **Confidence: medium-high.** The docs are extensive and current, and two official launch posts exist, so claims 1-5 are well grounded; confidence is not "high" because the product page (x.ai/cli) and changelog were unreachable (403), so any positioning made only there is unseen, and the launch post carries no bylines or numbers to corroborate emphasis.
+
+Sources: https://docs.x.ai/build/overview; https://x.ai/news/grok-build-cli; https://x.ai/news/grok-build-open-source; https://docs.x.ai/build/features/skills-plugins-marketplaces; https://docs.x.ai/build/features/hooks; https://docs.x.ai/build/features/subagents; https://docs.x.ai/build/features/mcp-servers; https://docs.x.ai/build/features/permissions; https://docs.x.ai/build/features/plan-mode; https://docs.x.ai/build/cli/headless-scripting; https://docs.x.ai/build/cli/reference; https://docs.x.ai/build/modes-and-commands; https://docs.x.ai/build/enterprise; https://docs.x.ai/developers/models; https://github.com/xai-org/grok-build (README)
