@@ -1,0 +1,14 @@
+{
+  "_comment": "Shared publication-eligibility cases. Read by tests/test_classification.py and, once Task 7 lands, by the Node suite for lib/publication.js. Both implementations must agree on every row; see categorization.md section 8.",
+  "cases": [
+    {"name": "verified harness is public",        "record": {"category": "harness",        "classification_status": "verified"},   "expected_public": true},
+    {"name": "verified multiplexer is public",    "record": {"category": "multiplexer",    "classification_status": "verified"},   "expected_public": true},
+    {"name": "verified support is public",        "record": {"category": "support",        "classification_status": "verified"},   "expected_public": true},
+    {"name": "something-else is never public",    "record": {"category": "something-else", "classification_status": "verified"},   "expected_public": false},
+    {"name": "researched harness is not public",  "record": {"category": "harness",        "classification_status": "researched"}, "expected_public": false},
+    {"name": "disputed harness is not public",    "record": {"category": "harness",        "classification_status": "disputed"},   "expected_public": false},
+    {"name": "unreviewed null is not public",     "record": {"category": null,             "classification_status": "unreviewed"}, "expected_public": false},
+    {"name": "legacy agent label is not public",  "record": {"category": "agent",          "classification_status": "verified"},   "expected_public": false},
+    {"name": "missing status is not public",      "record": {"category": "harness"},                                               "expected_public": false}
+  ]
+}
