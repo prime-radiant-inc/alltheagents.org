@@ -59,10 +59,19 @@ if os.path.exists(source_urls_path):
         source_urls = json.load(f)
 
 agents_data = []
+# Mirrors .eleventy.js: the template is documentation, and support and
+# something-else are tracked but never published. Leaving them in the index made
+# them findable in site search and linked them to pages that do not exist.
+UNPUBLISHED = {"support", "something-else"}
+
 for md_path in sorted(glob.glob(os.path.join(AGENTS_DIR, "*.md"))):
+    if os.path.basename(md_path) == "_TEMPLATE.md":
+        continue
     with open(md_path, encoding="utf-8") as f:
         content = f.read()
     fm, body = parse_frontmatter(content)
+    if fm.get("category") in UNPUBLISHED:
+        continue
     sources = fm.get("sources", []) or []
     agents_data.append({
         "name": fm.get("name"),

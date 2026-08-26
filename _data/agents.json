@@ -4292,7 +4292,7 @@
   },
   {
     "name": "Amplifier",
-    "slug": "amplifier-agent",
+    "slug": "amplifier",
     "category": "agent",
     "maker": "microsoft",
     "license": "MIT",
