@@ -178,18 +178,22 @@ No record carries `harness`, `support` or `something-else` today. The corpus sti
 labels — `agent` on 1,053 records, `multiplexer` on 111 — where `agent` means "not a multiplexer"
 and is not a verdict about anything.
 
-**The records are `agents/*.md`.** `_data/agents.json` is a build artifact — both
-`scripts/generate_json_from_md.py` and `scripts/generate_pages.py` write it, and Eleventy copies it
-to the site as the search index. Edit it by hand and the next build discards the edit.
+**The records are `agents/*.md`.** `_data/agents.json` is a build artifact — `scripts/generate_json_from_md.py`
+writes it and Eleventy copies it to the site as the search index. Edit it by hand and the next build
+discards the edit.
 
-Two things have to change before a record can take a new value.
+Two things used to stand in the way of a record taking a new value. Both are fixed in this change.
 
-**The site publishes everything that isn't a multiplexer.** `.eleventy.js` builds its main
-collection as `category !== "multiplexer"`, so the moment a record is labelled `support` or
-`something-else` it appears in the public list instead of being held back. The collection needs to
-exclude those two, while still accepting both the legacy `agent` label and `harness` during the
-migration.
+**The site published everything that wasn't a multiplexer.** `.eleventy.js` built its main
+collection as `category !== "multiplexer"`, so the moment a record was labelled `support` it would
+have appeared in the public list. It now excludes both unpublished categories, and
+`scripts/generate_json_from_md.py` applies the same rule so hidden records don't linger in site
+search. It still accepts the legacy `agent` label alongside `harness`, because filtering on
+`harness` alone would empty the site today. Verified a no-op against the current corpus: 1,053 in
+the main collection and 111 multiplexers, before and after.
 
-**The generator overwrites the field.** `scripts/generate_pages.py` derives `category` from
-`scripts/multiplexer_slugs.json` on every run. Whatever you write into frontmatter is gone the
-next time it runs.
+**The generator overwrote the field.** `scripts/generate_pages.py` rebuilt every record from the
+TSV on every run, taking `category` from a hardcoded `scripts/multiplexer_slugs.json`. It now
+creates only missing records and never touches an existing one. The category was the least of it —
+1,129 of 1,164 records have a hand-written body that a run would have flattened. To rebuild a
+record from the TSV, delete the file first.
