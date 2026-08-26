@@ -1,5 +1,16 @@
 #!/usr/bin/env python3
-"""Convert coding_agent_harnesses.tsv into individual YAML-frontmatter Markdown files for Eleventy."""
+"""Create missing agents/*.md records from coding_agent_harnesses.tsv.
+
+Existing records are never touched. They are edited by hand after they are
+created -- category, narrative body, enrichment -- and none of that lives in the
+TSV, so regenerating in place silently reverted it. To rebuild a record from the
+TSV, delete the file first and mean it.
+
+This script no longer writes _data/agents.json. That index is built from the
+records themselves by scripts/generate_json_from_md.py, which carries every
+field; the version built here carried 14 of the 31 and disagreed with the
+records it shipped alongside.
+"""
 import os, csv, re, json, sys
 
 SRCDIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -56,7 +67,7 @@ def main():
     print(f"Read {len(rows)} entries from TSV")
     
     used_slugs = {}
-    agents_data = []
+    created = skipped = 0
     
     for row_num, r in enumerate(rows, start=2):
         name = r.get("name", "").strip()
@@ -136,31 +147,16 @@ def main():
         description = r.get("what_makes_it_special", "").strip() or "No description available."
         
         md_path = os.path.join(AGENTS_DIR, f"{slug}.md")
+        if os.path.exists(md_path):
+            skipped += 1
+            continue
         with open(md_path, "w", encoding="utf-8") as f:
             f.write("\n".join(fm_lines) + "\n\n" + description + "\n")
-        
-        agents_data.append({
-            "name": name,
-            "slug": slug,
-            "category": category,
-            "maker": r.get("maker","").strip() or None,
-            "license": r.get("license","").strip() or None,
-            "url": r.get("url","").strip() or None,
-            "source_code_url": r.get("source_code_url","").strip() or None,
-            "platforms": platforms,
-            "stars": int(stars) if stars.isdigit() else None,
-            "first_released": r.get("first_released","").strip() or None,
-            "language": r.get("language","").strip() or None,
-            "description": description[:200],
-            "sources": sources,
-            "source_urls": {s: source_urls.get(s) for s in sources if s in source_urls},
-        })
-    
-    with open(os.path.join(DATA_DIR, "agents.json"), "w", encoding="utf-8") as f:
-        json.dump(agents_data, f, ensure_ascii=False, indent=2)
-    
-    print(f"Generated {len(agents_data)} agent pages in {AGENTS_DIR}/")
-    print(f"Generated search index: {os.path.join(DATA_DIR, 'agents.json')}")
+        created += 1
+
+    print(f"Created {created} new records in {AGENTS_DIR}/")
+    print(f"Left {skipped} existing records untouched")
+    print("Search index not written here -- run scripts/generate_json_from_md.py")
 
 if __name__ == "__main__":
     main()
