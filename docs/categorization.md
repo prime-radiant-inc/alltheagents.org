@@ -23,9 +23,14 @@ anything whose output isn't software.
 
 ## Where each one goes
 
-`harness`, `multiplexer` and `support` are the public directory. `something-else` stays in the
-repo and never reaches the site — it's the record of what was looked at and ruled out, not a
-category to delete.
+**`harness` and `multiplexer` are the public directory.** That's what the site shows.
+
+**`support` and `something-else` are tracked but never published.** They stay in `agents/` like
+everything else and keep their own categories, so the four groups stay separable — they just don't
+reach the site.
+
+They are never deleted. The point is that nothing gets researched twice: an item ruled out today is
+still on file, with the reason, if the directory's scope ever widens.
 
 ## Ask in this order
 
@@ -170,9 +175,11 @@ to the site as the search index. Edit it by hand and the next build discards the
 
 Two things have to change before a record can take a new value.
 
-**The site has nowhere to put them.** `.eleventy.js` builds its two collections as
-`category !== "multiplexer"` and `category === "multiplexer"`. Label something `support` and it
-lands in the main agent list, silently.
+**The site publishes everything that isn't a multiplexer.** `.eleventy.js` builds its main
+collection as `category !== "multiplexer"`, so the moment a record is labelled `support` or
+`something-else` it appears in the public list instead of being held back. The collection needs to
+exclude those two, while still accepting both the legacy `agent` label and `harness` during the
+migration.
 
 **The generator overwrites the field.** `scripts/generate_pages.py` derives `category` from
 `scripts/multiplexer_slugs.json` on every run. Whatever you write into frontmatter is gone the
