@@ -8,10 +8,17 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy({ "_data/agents.json": "agents.json" });
 
-  // Collection: all agent harnesses (exclude multiplexers)
+  // Categories tracked in the repo but never published. The records and their
+  // categories stay so nothing has to be researched twice; they just do not
+  // reach the site. See docs/categorization.md.
+  const UNPUBLISHED = new Set(["support", "something-else"]);
+
+  // Collection: harnesses. Accepts the legacy "agent" label alongside "harness"
+  // for as long as the corpus carries both.
   eleventyConfig.addCollection("agent", function(collectionApi) {
     return collectionApi.getFilteredByGlob("agents/*.md").filter(
       item => item.data.category !== "multiplexer"
+        && !UNPUBLISHED.has(item.data.category)
     );
   });
 
