@@ -8,8 +8,12 @@ name: null                    # canonical product name
 slug: null                    # url slug, must match the filename; on collision, register an
                               # override in scripts/slug_overrides.json rather than improvising
 layout: "agent.njk"
-category: "agent"             # agent = codes itself (owns its own agentic loop)
-                              # multiplexer = orchestrates/runs OTHER agents rather than coding
+category: "agent"             # harness | multiplexer | support | something-else --
+                              # see docs/categorization.md for the four definitions and the
+                              # order to apply them in. "agent" is the legacy value still
+                              # carried by every non-multiplexer record; it means "not a
+                              # multiplexer" and is not a verdict about anything.
+category_note: null           # the sentence the call rests on, quoted verbatim from source
 maker: null                   # key of a record in _data/makers.json (maker = creator, one concept).
                               # Maker records carry: maker_type (individual | company | community),
                               # country (ISO 3166-1 alpha-2 or null), makes_models (bool),
