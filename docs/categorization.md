@@ -37,12 +37,20 @@ still on file, with the reason, if the directory's scope ever widens.
 The order decides the answer. The same product lands in a different bucket depending on which
 question you ask first, so ask them in sequence and stop at the first yes.
 
-1. **Is the work something other than software?** → `something-else`
-2. **Is the thing itself an SDK, library or framework?** → `support`
-3. **Does a separately named coding agent make the edits?** → `multiplexer`
-4. **Does it own the loop and edit code itself?** → `harness`
+1. **Does it take a software task, run the loop, and edit the code itself?** → `harness`
+2. **Is the work something other than software?** → `something-else`
+3. **Is the thing itself an SDK, library or framework?** → `support`
+4. **Does a separately named coding agent make the edits?** → `multiplexer`
 5. **Does it materially help developers or coding agents?** → `support`
 6. **Anything else** → `something-else`
+
+Question 1 goes first because a thing can be an SDK *and* a real coding agent. The Claude Agent SDK
+ships the Claude Code CLI and runs a genuine loop; when something is both, what it does beats what
+it's called.
+
+Note the word *software* in question 1. An agent that runs a full loop and edits video, or one that
+investigates and reports on security, fails question 1 and falls through to question 2. Doing agent
+things is not the test; doing them to a codebase is.
 
 Marketing copy — "agent", "autonomous", "AI developer" — tells you where to look. It never tells
 you the answer.
@@ -51,10 +59,11 @@ you the answer.
 
 | Entry | Lands on | The question that settled it |
 |---|---|---|
-| PentestGPT | `something-else` | 1 — drives coding agents, but the work is security |
-| Claude Agent SDK | `support` | 2 — ships Claude Code and runs a real loop, but it's an SDK |
-| Codex Security | `multiplexer` | 3 — scans on its own; Codex writes the patches |
-| MiniMax Code | `harness` | 4 — "the coding harness built for MiniMax models" |
+| Claude Agent SDK | `harness` | 1 — an SDK, but it ships Claude Code and runs a real loop |
+| MiniMax Code | `harness` | 1 — "the coding harness built for MiniMax models" |
+| PentestGPT | `something-else` | 2 — drives coding agents, but the work is security |
+| LangChain | `support` | 3 — a framework for building agents; the agent you build owns the loop |
+| Codex Security | `multiplexer` | 4 — scans on its own; Codex writes the patches |
 | deepsec | `support` | 5 — unattended agentic scanner that never edits code |
 | MiniMax Agent | `something-else` | 6 — general-purpose; builds artifacts, not codebases |
 
@@ -65,7 +74,7 @@ inline.
 
 | The case | The call |
 |---|---|
-| The named thing is an SDK, library or framework | `support`, even when it ships a complete loop |
+| The named thing is an SDK, library or framework | `support` — unless it runs the loop and edits code itself, which question 1 catches first |
 | It owns a loop but never edits project code | `support` |
 | The brand covers both a model and a product | Classify the product |
 | Discontinued, archived or acquired | Category doesn't move; the lifecycle fields carry that news |
