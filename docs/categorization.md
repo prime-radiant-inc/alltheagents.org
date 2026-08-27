@@ -70,6 +70,13 @@ bundles the Claude Code CLI, so every loop signal is genuinely true — but the 
 SDK, and the application a developer ships is theirs. A product that merely *ships* an SDK
 alongside a different primary unit is not covered; it is decided by the delegation test instead.
 
+**The nominal test reads what a developer installs, not what the vendor calls it.** An SDK, library
+or framework is something you build *your own* agent with: you write code against it and ship the
+result. A product you run, that does the work itself and hands you the output, is not one, whatever
+its README title says — taglines reach for "framework" because it sounds foundational. The test is
+whether the thing still needs you to write the agent. Get this backwards and a runnable product
+with a grand tagline derives `support` at question 2 and never reaches the loop test at all.
+
 **Question 3 is the only multiplexer test, and running the session counts as delegating.**
 "Coordinating, launching or supervising other agents without delegating the code-changing step
 does not make a multiplexer; such a product falls through to step 5" — but a terminal, workspace
@@ -146,7 +153,7 @@ inline.
 | The work isn't software | `something-else`, however agentic it looks |
 | General-purpose agent that can also code | `something-else` — unless it acts on a codebase: file editing in a project context, repository or workspace awareness, *and* a documented software-task workflow. Never settle this one from the record alone; read the source. |
 | No-code platform for building agents | `support` |
-| It builds a new codebase from a prompt | `harness` — question 1 says "software creation *or* modification", so writing the project counts |
+| It builds a new codebase from a prompt | `harness` if it runs or tests what it wrote; `support` if it emits the code and stops. Question 1 says "software creation *or* modification", so writing the project clears the domain gate either way — but question 4 still wants the loop |
 | Wrapper around a single coding agent, first-party included | `multiplexer`, if it hands off the edits |
 
 ## Writing it down
