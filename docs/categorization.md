@@ -84,6 +84,14 @@ its README title says — taglines reach for "framework" because it sounds found
 whether the thing still needs you to write the agent. Get this backwards and a runnable product
 with a grand tagline derives `support` at question 2 and never reaches the loop test at all.
 
+**When both surfaces are first-class, ask whose software comes out.** A product may document a
+runnable command and a library mode side by side, each presented as a real way to use it. If the
+application that results is the developer's own — they wrote it, the package helped — the unit is a
+framework and this question fires. If the product wrote the software and the library is just
+another way to invoke the same thing, it does not: the runnable surface is the unit, and the loop
+test decides. This is why a bundled CLI does not turn a framework into a product, and a library
+mode does not turn a product into a framework.
+
 **Question 3 is the only multiplexer test, and running the session counts as delegating.**
 "Coordinating, launching or supervising other agents without delegating the code-changing step
 does not make a multiplexer; such a product falls through to step 5" — but a terminal, workspace
