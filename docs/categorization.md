@@ -54,8 +54,7 @@ gate, the SDK rule and the delegation test before its own loop matters.
 3. **Is the code-changing step performed by a separately named coding agent?** → `multiplexer`
 4. **Does it accept a software task, choose its next action, use tools, modify project code
    directly, and iterate on results?** → `harness`
-5. **Does it materially help developers or coding agents *in an AI-assisted workflow*?**
-   → `support`
+5. **Does it materially help developers or coding agents?** → `support`
 6. **Anything else** → `something-else`
 
 **Question 1 is about the work product, not the mechanism.** "A product built exactly like a
@@ -64,13 +63,6 @@ software." PentestGPT produces security findings and is `something-else`; deepse
 repository* and "the only thing it adds to your repository is a `.deepsec/` folder", so its domain
 is software and it falls through to question 5. Doing agent things is not the test; doing them to
 a codebase is.
-
-**Building a new project counts as the software domain.** Question 1 says "software creation *or*
-modification", so a tool that writes a codebase from a prompt clears the domain gate the same way
-one that edits an existing repository does. That is all it does: clearing question 1 is not a
-verdict. Whether the thing is a `harness` is still decided at question 4, and question 4 wants the
-loop — a generator that produces a codebase once and hands it back has not iterated on results, and
-lands on `support`.
 
 **Question 2 is nominal, and it beats the loop.** "The nominal test wins over the functional one
 for this class, even when the package ships a runnable complete loop." The Claude Agent SDK
@@ -135,7 +127,6 @@ not software? If the answer takes more than a sentence, the note should say so.
 | Zellij | `multiplexer` | 3 — general-purpose, but it is where the agents run |
 | MiniMax Code | `harness` | 4 — "the coding harness built for MiniMax models" |
 | DeerFlow | `harness` | 4 — ships sandbox, bash access and file-write tools, and documents repository tasks |
-| Smol Developer | `support` | 4 — writes a whole codebase from a spec, but the run is one-shot; the human reruns it |
 | postmortemthis | `support` | 5 — launches every major agent, but read-only, so nothing is delegated |
 | deepsec | `support` | 5 — unattended agentic scanner that never edits code |
 | MiniMax Agent | `something-else` | 6 — general-purpose; builds artifacts, not codebases |
@@ -155,8 +146,8 @@ inline.
 | The work isn't software | `something-else`, however agentic it looks |
 | General-purpose agent that can also code | `something-else` — unless it acts on a codebase: file editing in a project context, repository or workspace awareness, *and* a documented software-task workflow. Never settle this one from the record alone; read the source. |
 | No-code platform for building agents | `support` |
+| It builds a new codebase from a prompt | `harness` — question 1 says "software creation *or* modification", so writing the project counts |
 | Wrapper around a single coding agent, first-party included | `multiplexer`, if it hands off the edits |
-| A developer tool with no AI or agentic dimension | `something-else` — however useful it is. Question 5 is about help inside an AI-assisted workflow, not usefulness to developers at large |
 
 ## Writing it down
 
