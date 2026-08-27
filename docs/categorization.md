@@ -97,6 +97,11 @@ integrations, models and UI without once saying whether the thing edits code, or
 code *for*, has answered neither, however confident the rest of it reads. This is the rule that
 catches the records which don't look like they need a fetch — the ones that get decided wrongly.
 
+**Before you write the category down, try to disprove it** using the strongest neighbouring one.
+For a `harness`: what if the coding is delegated? For a `multiplexer`: does it edit code itself?
+For `support`: does it run a complete loop after all? For `something-else`: is the domain really
+not software? If the answer takes more than a sentence, the note should say so.
+
 ## How that plays out
 
 | Entry | Lands on | The question that settled it |
@@ -144,7 +149,32 @@ category_note: "README: 'an SDK for building agents' — no loop of its own."
 
 Quote the source in `category_note`. Don't summarise it. In the audit behind this page, every row
 carrying a direct quote came through every pass intact; every row carrying a paraphrase is where
-the errors turned up.
+the errors turned up. That warning applies to this page too: two of the rulings below were
+paraphrased out of the methodology this replaces, and both paraphrases changed the call.
+
+## Checking a batch
+
+Two passes over each batch before it merges. Neither adds a field — the first is a read over
+records that already exist, the second decides where a disagreement gets written down.
+
+**Read each batch by cluster, not by row.** Sort the batch by kind — agent frameworks and SDKs,
+terminals and session managers, IDE assistants, prompt-to-app builders, scanners and reviewers,
+context and memory tools, prompt packs — and read each cluster as a set. Any record sitting apart
+from its cluster gets corrected or gets a written reason. This is a distinct pass, not something
+that happens by itself while classifying row by row.
+
+It is also the only check here that catches a *confident* error, because it never asks how sure you
+were — only whether you treated like things alike. Measured against the 100-record sample: the
+cluster read flags six records, and four of them were real errors, including two the classifier had
+marked high confidence. Skipping this pass is what left PraisonAI classified as a harness in the
+audit while its five nearest peers had already moved to `support`.
+
+**Route every disagreement to a ruling, not to a row.** When two passes disagree, the output is a
+line in the standing rulings table, not a quiet edit to one record. A disagreement that produces no
+written rule will recur — five passes over one batch of 100 once produced four different answers,
+and about three quarters of that churn was re-litigated policy rather than research failure. The
+rulings table is what makes repeated passes converge instead of oscillate; without it, more
+verification makes the corpus less stable, not more.
 
 ## Adding the gap list
 
@@ -243,7 +273,8 @@ The version this replaces carried 21 fields per record. Two are enough. If a cal
 than `category_note` gives it, write a shorter note — don't add a field.
 
 No confidence scores. No reviewer fields. No capability booleans. No evidence objects. No workflow
-status. No second data model.
+status. No second data model. The checks under [Checking a batch](#checking-a-batch) are process,
+not schema: they read the two fields that already exist and write nothing new.
 
 ## Before you classify anything
 
