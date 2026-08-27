@@ -64,6 +64,13 @@ repository* and "the only thing it adds to your repository is a `.deepsec/` fold
 is software and it falls through to question 5. Doing agent things is not the test; doing them to
 a codebase is.
 
+**For a tool, the domain test asks what it acts on.** It is in the software domain if it acts on
+your code, your build or your deployment, or if it exists to serve coding agents — a scaffolder, a
+delivery pipeline, a docs service for agents, a provider proxy all clear the gate, whether or not
+any AI is involved. It is out if it does neither, however much developers use it: a tool whose work
+is your data, your running services or your APIs is not working on software. "Useful to developers"
+is not the test, and question 5 should not be read as if it were.
+
 **Question 2 is nominal, and it beats the loop.** "The nominal test wins over the functional one
 for this class, even when the package ships a runnable complete loop." The Claude Agent SDK
 bundles the Claude Code CLI, so every loop signal is genuinely true — but the named unit is an
