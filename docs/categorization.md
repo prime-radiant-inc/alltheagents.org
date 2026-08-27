@@ -158,18 +158,45 @@ not software? If the answer takes more than a sentence, the note should say so.
 Ten edge cases, settled once so nobody re-argues them record by record. Change one in a PR, not
 inline.
 
-| The case | The call |
-|---|---|
-| The named thing is an SDK, library or framework | `support` — the nominal test wins even when the package ships a runnable complete loop |
-| It owns a loop but never edits project code | `support` |
-| The brand covers both a model and a product | Classify the product |
-| Discontinued, archived or acquired | Category doesn't move; the lifecycle fields carry that news |
-| It's a template, prompt pack or method | `support` |
-| The work isn't software | `something-else`, however agentic it looks |
-| General-purpose agent that can also code | `something-else` — unless it acts on a codebase: file editing in a project context, repository or workspace awareness, *and* a documented software-task workflow. Never settle this one from the record alone; read the source. |
-| No-code platform for building agents | `support` |
-| It builds a new codebase from a prompt | `harness` if it runs or tests what it wrote; `support` if it emits the code and stops. Question 1 says "software creation *or* modification", so writing the project clears the domain gate either way — but question 4 still wants the loop |
-| Wrapper around a single coding agent, first-party included | `multiplexer`, if it hands off the edits |
+**Each ruling belongs to one question in the ladder, and the middle column says which.** A ruling
+is not an eleventh step and it does not jump the queue: ask the six in order and stop at the first
+yes, exactly as before. The column names the question the ruling settles when you reach it, so two
+readers of the same ruling write down the same number. It is the same number the [worked
+examples](#how-that-plays-out) carry — the question that produced the label, not the last one
+considered.
+
+Two of these rulings work by answering an earlier question *no*. "It owns a loop but never edits
+project code", and the emits-and-stops branch of "it builds a new codebase from a prompt", both
+settle question 4 in the negative, and the label then comes from question 5 — which is why `deepsec`
+is recorded at 5 and not at 4. Two more sit outside the ladder altogether: lifecycle moves nothing,
+and a brand covering both a model and a product names the unit that the six questions are then asked
+about.
+
+| The case | Question | The call |
+|---|---|---|
+| The named thing is an SDK, library or framework | 2 | `support` — the nominal test wins even when the package ships a runnable complete loop |
+| It owns a loop but never edits project code | 5 — question 4 answered no | `support` |
+| The brand covers both a model and a product | — names the unit for all six | Classify the product |
+| Discontinued, archived or acquired | — no ladder question | Category doesn't move; the lifecycle fields carry that news |
+| It's a template, prompt pack or method | 5 | `support` |
+| The work isn't software | 1 | `something-else`, however agentic it looks |
+| General-purpose agent that can also code | 6, or 3–5 once it acts on a codebase | `something-else` — unless it acts on a codebase: file editing in a project context, repository or workspace awareness, *and* a documented software-task workflow. Never settle this one from the record alone; read the source. |
+| No-code platform for building agents | 5 | `support` |
+| It builds a new codebase from a prompt | 4, or 5 if it emits and stops | `harness` if it runs or tests what it wrote; `support` if it emits the code and stops. Question 1 says "software creation *or* modification", so writing the project clears the domain gate either way — but question 4 still wants the loop |
+| Wrapper around a single coding agent, first-party included | 3 | `multiplexer`, if it hands off the edits |
+
+**The no-code case is the one that looks like question 2 and isn't.** A visual builder shares
+question 2's shape — you assemble your own agent and the result is yours — but question 2's nominal
+test asks what a developer installs *and writes code against*, and a no-code platform is not that.
+It fails question 2, fails the delegation and loop tests, and lands on question 5. Read question 2
+literally; stretching it to cover things you never write code against would blur the SDK rule it
+exists to enforce.
+
+**A general-purpose agent falls to 6 rather than failing 1.** Question 1 excludes a domain that is
+definitely something *other* than software — PentestGPT's is security findings. An agent that will
+attempt anything has no such domain to point at, so the gate does not fire; it simply matches
+nothing and reaches the residual, which is where `MiniMax Agent` is recorded. If the codebase test
+in the ruling passes, it never gets that far and questions 3 to 5 decide.
 
 ## Writing it down
 
