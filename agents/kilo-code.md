@@ -7,7 +7,7 @@ maker: "Kilo-Org"
 license: "MIT"
 url: "https://github.com/Kilo-Org/kilocode"
 source_code_url: "https://github.com/Kilo-Org/kilocode"
-source_available: True
+source_available: "True"
 platforms:
   - "IDE"
   - "CLI"
@@ -16,12 +16,12 @@ current_release: "2026-08-20"
 stars: null
 language: "TypeScript"
 homepage: "https://kilo.ai/"
-mcp_support: True
-plugin_support: True
+mcp_support: "True"
+plugin_support: "True"
 claude_code_plugin: null
-subagents: True
+subagents: "True"
 hooks: null
-plan_mode: True
+plan_mode: "True"
 model_providers: "500+ models including OpenAI, Anthropic, Google"
 pricing: "Open pricing — pay the model provider's rate with zero markup; no API keys required to start"
 install_method: "VS Code Marketplace, npm install -g @kilocode/cli, JetBrains Marketplace, curl script, pnpm, bun, Homebrew, AUR, or GitHub Release binaries"
@@ -38,4 +38,4 @@ sources:
 what_makes_it_special: "All-in-one agentic engineering platform for VS Code, JetBrains, or CLI. Features code generation across multiple files, inline autocomplete, self-checking agent that reviews and corrects its own work, terminal and browser control, MCP marketplace, 500+ models with mid-task switching, and specialized agents (Code, Plan, Ask, Debug, Review)."
 ---
 
-All-in-one agentic engineering platform for VS Code, JetBrains, or CLI. Features code generation across multiple files, inline autocomplete, self-checking agent that reviews and corrects its own work, terminal and browser control, MCP marketplace, 500+ models with mid-task switching, and specialized agents (Code, Plan, Ask, Debug, Review).
+Kilo Code consolidates the pieces of an agentic engineering workflow that teams otherwise assemble from separate tools: a VS Code/JetBrains extension, an OpenCode-derived CLI, automated PR code reviews, and a hosted cloud agent. Its agent modes separate planning from coding, review their own output, and can run unattended via kilo run --auto in CI. Models from OpenAI, Anthropic, Google, and others are billed at the provider's rate with no markup, and no API key is required to start. It targets developers who want one install covering interactive IDE work, terminal sessions, and CI pipelines.

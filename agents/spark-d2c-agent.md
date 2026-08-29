@@ -7,7 +7,7 @@ maker: "iFlytek"
 license: "Proprietary"
 url: "https://iflytek.com"
 source_code_url: null
-source_available: False
+source_available: "False"
 platforms:
   - "Web"
 first_released: null
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "iFlytek's design-to-code agent for converting designs to code. Homepage (iflytek.com) did not respond to fetches; could not verify further details."
 ---
 
-iFlytek's design-to-code agent for converting designs to code. Homepage (iflytek.com) did not respond to fetches; could not verify further details.
+The entry is drawn from iFlytek's Spark (讯飞星火) ecosystem, which markets design-to-code generation among its developer-facing AI products. Repeated fetches of the vendor's homepage timed out, and no dedicated product page could be located through the URL recorded in the census, so the mechanism — which design formats are accepted, what frameworks are emitted, whether it runs as a web service or IDE plugin — could not be verified from primary sources. iFlytek is one of China's largest AI vendors, and its Spark line targets Chinese enterprise and consumer markets. The entry should be treated as sparsely verified pending an accessible product page.

@@ -7,7 +7,7 @@ maker: "autohandai"
 license: "Apache-2.0"
 url: "https://github.com/autohandai/code-cli"
 source_code_url: "https://github.com/autohandai/code-cli"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
   - "IDE"
@@ -18,18 +18,18 @@ current_release: "2026-08-19"
 stars: "178"
 language: "TypeScript"
 homepage: "https://www.autohand.ai/code/"
-mcp_support: True
-plugin_support: True
-claude_code_plugin: False
-subagents: True
-hooks: True
-plan_mode: True
+mcp_support: "True"
+plugin_support: "True"
+claude_code_plugin: "False"
+subagents: "True"
+hooks: "True"
+plan_mode: "True"
 model_providers: "Autohand AI, OpenRouter, LLMGateway, OpenAI, AWS Bedrock, DeepSeek, Ollama, llama.cpp, MLX, Z.ai"
 pricing: "Open source (Apache 2.0); free for individuals, non-profits, educational institutions, open source projects, and companies with ARR under $5M; commercial license needed for companies with ARR >= $5M"
 install_method: "curl -fsSL https://autohand.ai/install.sh | bash; or brew install autohandai/code/autohand-code; or clone and build with Bun"
 docs_url: "https://github.com/autohandai/code-cli#readme"
-plugin_docs_url: null
-config_docs_url: null
+plugin_docs_url: "https://github.com/autohandai/code-cli/tree/main/docs"
+config_docs_url: "https://github.com/autohandai/code-cli/tree/main/docs"
 download_url: "https://autohand.ai/install.sh"
 maintained: "active"
 sources:
@@ -37,4 +37,4 @@ sources:
 what_makes_it_special: "Fast, self-improving terminal-native AI coding agent built with Bun and Ink. Features 40+ built-in tools, Agent Skills system with auto-generation, Code Extensions (declarative manifest-based), multi-agent team collaboration (/squad), iOS app pairing for remote control/monitoring, auto-mode for autonomous task loops, session checkpointing with rewind/review/share, 18 language documentation translations, and cross-platform support."
 ---
 
-Fast, self-improving terminal-native AI coding agent built with Bun and Ink. Features 40+ built-in tools, Agent Skills system with auto-generation, Code Extensions (declarative manifest-based), multi-agent team collaboration (/squad), iOS app pairing for remote control/monitoring, auto-mode for autonomous task loops, session checkpointing with rewind/review/share, 18 language documentation translations, and cross-platform support.
+Autohand Code CLI is a terminal-native AI coding agent for planning, editing, testing, and automating work across a codebase. It runs an interactive REPL with slash commands, @-file mentions, $-skill mentions, and Shift+Tab mode cycling (edit/plan/YOLO/auto), plus a command mode (autohand -p) for CI with --dry-run, stream-json output, and --auto-commit. Auto-mode runs standalone iteration loops with git worktree isolation, cost/runtime caps, and checkpoints, while a skills system auto-generates per-project skills compatible with Codex and Claude formats. Multi-provider support spans OpenRouter, OpenAI, Bedrock, DeepSeek, Z.ai, Ollama, llama.cpp, MLX, and Autohand's own cloud, with MCP, hooks, and declarative extensions. It is Apache-2.0 with a commercial carve-out above $5M ARR, built in TypeScript on Bun, and distributed via curl script, Homebrew, or npm.

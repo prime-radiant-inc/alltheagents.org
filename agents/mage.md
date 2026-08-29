@@ -7,19 +7,19 @@ maker: "stable-lab"
 license: "MIT"
 url: "https://github.com/stable-lab/MAGE"
 source_code_url: "https://github.com/stable-lab/MAGE"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2024-11-22"
 current_release: "2025-04-11"
 stars: "133"
 language: "Python"
 homepage: "https://stable-lab.github.io/MAGE/"
-mcp_support: null
-plugin_support: null
-claude_code_plugin: False
-subagents: True
-hooks: null
-plan_mode: null
+mcp_support: "no"
+plugin_support: "no"
+claude_code_plugin: "False"
+subagents: "True"
+hooks: "no"
+plan_mode: "no"
 model_providers: "Anthropic, OpenAI, Google Vertex"
 pricing: "Free (MIT)"
 install_method: "git clone; conda env with Python 3.11; pip install .; install Icarus Verilog v12, Verilator, Pyverilog; set API keys via env or key.cfg"
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Multi-agent LLM-based RTL (Verilog) code generator; automates register transfer level code generation using multi-agent approach; runs against verilog_eval_v1/v2 benchmarks; arxiv paper available"
 ---
 
-Multi-agent LLM-based RTL (Verilog) code generator; automates register transfer level code generation using multi-agent approach; runs against verilog_eval_v1/v2 benchmarks; arxiv paper available
+MAGE brings the agentic generate-and-verify pattern to hardware description, where correctness is checked by simulation rather than unit tests. Orchestration code drives LLM agents (demonstrated with Claude and GPT-4o) through configurable runs against NVIDIA's verilog-eval benchmark, selecting instances by regex and scoring candidates through iverilog simulation, Verilator linting, and Pyverilog parsing, with optional golden testbenches. A companion notebook generates testbenches for new problems. The project accompanies a DAC-track paper and serves hardware-design researchers evaluating LLM code generation for Verilog; it is a research artifact with academic-repo-level activity rather than a production tool.

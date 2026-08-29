@@ -7,7 +7,7 @@ maker: "IncredibleDevHQ"
 license: "Apache-2.0"
 url: "https://github.com/IncredibleDevHQ/Incredible.dev"
 source_code_url: "https://github.com/IncredibleDevHQ/Incredible.dev"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2024-04-10"
 current_release: "2024-05-22"
@@ -16,8 +16,8 @@ language: "Rust"
 homepage: null
 mcp_support: null
 plugin_support: null
-claude_code_plugin: False
-subagents: True
+claude_code_plugin: "False"
+subagents: "True"
 hooks: null
 plan_mode: null
 model_providers: "Up to 8 models including Ollama, Mistral, OpenAI, Anthropic"
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "AI coding co-worker for APIs (code, fix, document, deploy, test); multi-agent architecture with components (coordinator, code-navigator, code-search, code-understanding, ingestion, ai-gateway); the stated goal is to train smaller, task-specific models that outperform large general-purpose models on individual tasks - each agent can use its own model for a heterogeneous, per-task-optimized system. Early preview stage (561 commits, 34 stars)."
 ---
 
-AI coding co-worker for APIs (code, fix, document, deploy, test); multi-agent architecture with components (coordinator, code-navigator, code-search, code-understanding, ingestion, ai-gateway); the stated goal is to train smaller, task-specific models that outperform large general-purpose models on individual tasks - each agent can use its own model for a heterogeneous, per-task-optimized system. Early preview stage (561 commits, 34 stars).
+Incredible.dev was pitched as an AI co-worker specialized for API codebases: one coordinator orchestrates ingestion, code-understanding, code-navigator, and code-search services plus an AI gateway, with each component free to run a different model. The distinguishing bet is training smaller task-specific models that beat large general-purpose ones on narrow tasks rather than routing everything through one frontier model. The Rust implementation ships Docker Compose files, but the README never published promised run instructions, and the last visible commit landed in May 2024. It remains an early research preview rather than an installable product.

@@ -22,7 +22,7 @@ subagents: null
 hooks: null
 plan_mode: null
 model_providers: null
-pricing: null
+pricing: "free"
 install_method: "Install from the JetBrains Marketplace"
 docs_url: null
 plugin_docs_url: null
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "Chat agent that can read, write, and edit project files"
 ---
 
-Chat agent that can read, write, and edit project files
+LiyaAI Coding Agent embeds an autonomous agent loop into JetBrains IDEs: it plans multi-step coding tasks, reads and edits project files, executes terminal commands, and works with Git from a chat tool window. It is the IDE arm of LiyaLabs' broader Cognitive AI Platform, which also produces 3D avatar widgets, voice-enabled assistants, and enterprise integrations. The plugin is free on the JetBrains Marketplace, released in May 2026, with a companion VS Code extension covering the same workflow. It targets developers who want file-level agent execution without leaving JetBrains IDEs.

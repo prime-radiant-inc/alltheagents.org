@@ -7,7 +7,7 @@ maker: "flexpilot-ai"
 license: "GPL-3.0"
 url: "https://github.com/flexpilot-ai/vscode-extension"
 source_code_url: "https://github.com/flexpilot-ai/vscode-extension"
-source_available: True
+source_available: "True"
 platforms:
   - "IDE"
 first_released: "2024-11-01"
@@ -28,10 +28,10 @@ docs_url: "https://docs.flexpilot.ai"
 plugin_docs_url: null
 config_docs_url: "https://docs.flexpilot.ai"
 download_url: null
-maintained: "abandoned"
+maintained: "dormant"
 sources:
   - "github_topic4"
 what_makes_it_special: "Open-source, native GitHub Copilot alternative for VS Code with 100% native VS Code experience (no webviews), BYOK with top AI providers, and flexibility to mix and match models. Successor is Flexpilot IDE."
 ---
 
-Open-source, native GitHub Copilot alternative for VS Code with 100% native VS Code experience (no webviews), BYOK with top AI providers, and flexibility to mix and match models. Successor is Flexpilot IDE.
+Flexpilot exists for developers who want Copilot-style assistance inside VS Code without depending on GitHub's service or paying a subscription; it ships as a native extension rather than a webview overlay. Users configure their own providers, with built-in support for Anthropic, OpenAI, Azure OpenAI, Groq, Google Gemini, Mistral, Ollama, and many OpenAI-compatible local servers such as vLLM and llama-cpp-python. Features include inline completions, panel/inline/quick chat, voice chat, smart variables that reference editor context, and AI-generated commit messages and PR descriptions. The extension itself is discontinued: no new features will land, and development moved to Flexpilot IDE, a VS Code fork with the extension pre-installed, multi-file editing, and a hosted web IDE.

@@ -7,7 +7,7 @@ maker: "divar-ir"
 license: "MIT"
 url: "https://github.com/divar-ir/ai-doc-gen"
 source_code_url: "https://github.com/divar-ir/ai-doc-gen"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2025-07-19"
 current_release: "2026-07-21"
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "AI-powered multi-agent system that analyzes codebases and generates documentation (README.md) plus AI assistant configuration files (CLAUDE.md, AGENTS.md, .cursor/rules/). 5 specialized AI agents run in parallel for deep analysis. Dual-purpose as Claude Code plugin (no API keys needed). GitLab cronjob automation discovers active projects and opens MRs with fresh docs. Production-ready with Docker, Helm, OpenTelemetry/Langfuse observability."
 ---
 
-AI-powered multi-agent system that analyzes codebases and generates documentation (README.md) plus AI assistant configuration files (CLAUDE.md, AGENTS.md, .cursor/rules/). 5 specialized AI agents run in parallel for deep analysis. Dual-purpose as Claude Code plugin (no API keys needed). GitLab cronjob automation discovers active projects and opens MRs with fresh docs. Production-ready with Docker, Helm, OpenTelemetry/Langfuse observability.
+Documentation and AI-assistant config files go stale the moment a codebase changes, and most generators produce one-shot summaries with no intermediate evidence. ai-doc-gen runs five specialized analysis agents concurrently over the repository — each producing a document in .ai/docs/ — then feeds them to a DocumenterAgent that writes the README and an AIRulesGeneratorAgent that emits CLAUDE.md, AGENTS.md, and .cursor/rules files from the same analysis. Agents are built on pydantic-ai with YAML/Jinja2 prompts and only file-read/list tools, with worker-pool concurrency tuned by environment variable and observability via logfire/OpenTelemetry and Langfuse. It is distributed both as a Python CLI (Python 3.13, uv) and as a Claude Code plugin installable from a marketplace, and a GitLab cron mode can discover active projects and open merge requests with refreshed docs. Divar uses it internally to keep assistant context files aligned with the actual codebase.

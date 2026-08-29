@@ -2,12 +2,12 @@
 name: "claude-code-plus"
 slug: "claude-code-plus"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "touwaeriol"
 license: "MIT"
 url: "https://github.com/touwaeriol/claude-code-plus"
 source_code_url: "https://github.com/touwaeriol/claude-code-plus"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
   - "IDE"
@@ -16,23 +16,23 @@ current_release: "2026-04-15"
 stars: "147"
 language: "Kotlin"
 homepage: "https://plugins.jetbrains.com/plugin/28343-claude-code-plus"
-mcp_support: True
-plugin_support: True
-claude_code_plugin: True
-subagents: null
-hooks: null
-plan_mode: null
+mcp_support: "True"
+plugin_support: "True"
+claude_code_plugin: "True"
+subagents: "no"
+hooks: "no"
+plan_mode: "no"
 model_providers: "Anthropic, OpenAI, Google"
 pricing: "Free (MIT license; requires Claude Code subscription or Anthropic API key)"
-install_method: "JetBrains Marketplace (search \"Claude Code Plus\") or manual install via GitHub Releases zip"
-docs_url: null
-plugin_docs_url: null
-config_docs_url: null
-download_url: null
+install_method: "JetBrains Marketplace (search 'Claude Code Plus') or manual install via GitHub Releases zip"
+docs_url: "https://plugins.jetbrains.com/plugin/28343-claude-code-plus"
+plugin_docs_url: "https://plugins.jetbrains.com/plugin/28343-claude-code-plus"
+config_docs_url: "https://plugins.jetbrains.com/plugin/28343-claude-code-plus"
+download_url: "https://plugins.jetbrains.com/plugin/28343-claude-code-plus"
 maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Provides a rich GUI for Claude Code (and Codex/Gemini CLI) inside JetBrains IDEs with @-mention file context, tool call visualization, multi-session chat, permission dialogs, model switching, keyboard shortcuts, MCP support, and dark theme compatibility."
 ---
 
-Provides a rich GUI for Claude Code (and Codex/Gemini CLI) inside JetBrains IDEs with @-mention file context, tool call visualization, multi-session chat, permission dialogs, model switching, keyboard shortcuts, MCP support, and dark theme compatibility.
+Running CLI coding agents in a raw terminal forfeits IDE navigation, diff review, and permission UX. Claude Code Plus embeds the agents as a JetBrains tool window and translates their activity into structured UI: chat with multi-session support, tool-call cards for reads/writes/edits with diffs, permission dialogs before writes, clickable file navigation, and interrupt handling. It bundles Claude and Codex agent SDKs and an MCP transport, and supports @-mentions to attach files as context. Developers who live in IntelliJ-family IDEs use it to keep agent work visible next to the editor; it is MIT-licensed and free, requiring the user's own Claude subscription or API key.

@@ -2,7 +2,7 @@
 name: "Vocode"
 slug: "vocode"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "vocodedev"
 license: "MIT"
 url: "https://github.com/vocodedev/vocode-python"
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Open-source library for building voice-based LLM apps (phone calls, Zoom meetings) with real-time streaming conversations, transcription, and synthesis integrations."
 ---
 
-Open-source library for building voice-based LLM apps (phone calls, Zoom meetings) with real-time streaming conversations, transcription, and synthesis integrations.
+Vocode exists to remove the plumbing from real-time voice LLM applications: managing interruptible streaming audio, transcription, and synthesis across many vendors. It provides a modular Python pipeline where pluggable transcription backends (Deepgram, AssemblyAI, Whisper, Google, Azure) feed an LLM from OpenAI or Anthropic, whose output goes to pluggable speech synthesis from ElevenLabs, Azure, Polly, Cartesia, and others, deployable to phone calls, Zoom meetings, and system audio. A companion React SDK covers browser-side voice interfaces. The repo has been seeking community maintainers, indicating the core team has moved on. It serves developers embedding outbound-call or voice-assistant flows into their own applications.

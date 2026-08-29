@@ -2,30 +2,30 @@
 name: "Weaver"
 slug: "weaver"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "sean35mm"
 license: "MIT"
 url: "https://github.com/sean35mm/weaver"
 source_code_url: "https://github.com/sean35mm/weaver"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2026-06-01"
 current_release: "2026-07-24"
 stars: "2"
 language: "TypeScript"
 homepage: "https://sean35mm.github.io/weaver/"
-mcp_support: False
-plugin_support: False
-claude_code_plugin: False
-subagents: False
-hooks: True
-plan_mode: False
+mcp_support: "False"
+plugin_support: "False"
+claude_code_plugin: "False"
+subagents: "False"
+hooks: "True"
+plan_mode: "False"
 model_providers: "Claude Code, Codex, OpenCode, Pi (any agent that can run shell commands)"
 pricing: "Free / open-source (MIT)"
 install_method: "curl -fsSL https://raw.githubusercontent.com/sean35mm/weaver/main/install.sh | sh (installs binary to ~/.local/bin/weaver); then run weaver init (project or global). macOS/Linux arm64/x64; Windows via WSL2."
 docs_url: "https://sean35mm.github.io/weaver/"
-plugin_docs_url: null
-config_docs_url: null
+plugin_docs_url: "https://sean35mm.github.io/weaver/"
+config_docs_url: "https://sean35mm.github.io/weaver/"
 download_url: "https://raw.githubusercontent.com/sean35mm/weaver/main/install.sh"
 maintained: "active"
 sources:
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Local-only, serverless coordination layer for multiple AI coding agents in the same repo. Provides cross-agent presence, advisory file claims, durable notes that survive context compaction, recent activity tracking, and live views — all via a small CLI over local SQLite files (~/.weaver/). No telemetry, no account, no network calls. Git remains source of truth; claims are advisory, never blocking. Explicitly not an MCP server."
 ---
 
-Local-only, serverless coordination layer for multiple AI coding agents in the same repo. Provides cross-agent presence, advisory file claims, durable notes that survive context compaction, recent activity tracking, and live views — all via a small CLI over local SQLite files (~/.weaver/). No telemetry, no account, no network calls. Git remains source of truth; claims are advisory, never blocking. Explicitly not an MCP server.
+Weaver solves the problem of multiple AI coding agents (Claude Code, Codex, OpenCode, Pi, or plain terminals) colliding in the same repository without any cloud service. It provides a coordination-lite loop — status, task, claim, done — where advisory, TTL-bound file claims detect overlap (exit 1 signals overlap) and git remains authoritative for code. State lives in a per-repo SQLite database under ~/.weaver/, supplemented by durable Repository Facts that survive context compaction, optional Markdown scratchpads, a loopback-only web dashboard, and a preflight command that verifies claims before commit or push. The CLI installs protocol blocks into CLAUDE.md/AGENTS.md and optional Claude Code hooks or OpenCode plugins. It targets developers running several agents in parallel on one repo, fully locally.

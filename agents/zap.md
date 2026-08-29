@@ -7,7 +7,7 @@ maker: "zap-coding-agent"
 license: "MIT"
 url: "https://github.com/zap-coding-agent/zap-coding-agent"
 source_code_url: "https://github.com/zap-coding-agent/zap-coding-agent"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
 first_released: "2026-05-16"
@@ -15,18 +15,18 @@ current_release: "2026-08-19"
 stars: "32"
 language: "Rust"
 homepage: "https://zap.justpush.cloud"
-mcp_support: True
-plugin_support: True
-claude_code_plugin: False
-subagents: True
-hooks: True
-plan_mode: False
+mcp_support: "True"
+plugin_support: "True"
+claude_code_plugin: "False"
+subagents: "True"
+hooks: "True"
+plan_mode: "False"
 model_providers: "Anthropic, OpenAI, Google Gemini (incl. keyless gcloud ADC), LM Studio, Ollama, Groq, OpenRouter, DeepSeek, xAI, Together AI, Mistral, Perplexity, Cohere, any OpenAI-compatible endpoint"
 pricing: "Free/open source (MIT)"
 install_method: "macOS/Linux: curl -fsSL https://raw.githubusercontent.com/zap-coding-agent/zap-coding-agent/main/install.sh | bash; Windows: download zip from releases; Build: cargo build --release; also on crates.io"
 docs_url: "https://zap.justpush.cloud/docs.html"
-plugin_docs_url: null
-config_docs_url: null
+plugin_docs_url: "https://zap.justpush.cloud/docs.html"
+config_docs_url: "https://zap.justpush.cloud/docs.html"
 download_url: "https://github.com/zap-coding-agent/zap-coding-agent/releases/latest"
 maintained: "active"
 sources:
@@ -35,4 +35,4 @@ sources:
 what_makes_it_special: "Terminal-first, local AI coding agent built in Rust (single statically-linked binary, ~20 MB idle memory, millisecond cold start). AST-powered code indexing (tree-sitter + SQLite) — deliberately opposite to Claude Code's no-index approach; knows what exists before writing. Skill-first prompt architecture (~1.8k token baseline vs ~8-10k in competitors). Lazy-loaded MCP with zero token cost until a server is needed. SLM support with structured plan execution. Automated session continuity and 25+ pattern secret scanner."
 ---
 
-Terminal-first, local AI coding agent built in Rust (single statically-linked binary, ~20 MB idle memory, millisecond cold start). AST-powered code indexing (tree-sitter + SQLite) — deliberately opposite to Claude Code's no-index approach; knows what exists before writing. Skill-first prompt architecture (~1.8k token baseline vs ~8-10k in competitors). Lazy-loaded MCP with zero token cost until a server is needed. SLM support with structured plan execution. Automated session continuity and 25+ pattern secret scanner.
+Zap is a Rust, terminal-first coding agent distributed as a single statically-linked binary with a millisecond cold start and roughly 20 MB idle memory, designed around eliminating prompt bloat. Startup builds a tree-sitter-plus-SQLite symbol index that powers code_map, find_definition, find_references, ripple_analysis, and LSP-backed diagnostics across Rust, Python, TypeScript, JavaScript, Go, and Java, with ripgrep as fallback. Its prompt architecture is skill-first: 23 built-in markdown skills inject only on keyword triggers, compatible with the SKILL.md standard and importable from Claude Code, Cursor, and Kiro. MCP servers load lazily via mcp_connect() so unused tool schemas cost zero tokens, and per-task model routing can split coding and review across different models. Security features include permission modes, Docker/Podman shell sandboxing, a 25-pattern secret scanner, full audit logging, and per-edit undo.

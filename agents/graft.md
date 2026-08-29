@@ -2,7 +2,7 @@
 name: "Graft"
 slug: "graft"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "NanoNets"
 license: "MIT"
 url: "https://github.com/NanoNets/Graft"
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Open-source context layer that builds a linked markdown graph of a codebase once, then feeds it to coding agents (Claude Code, Cursor, Codex, Gemini) for faster, cheaper, better-contextualized work; up to 4x cheaper and +12 pts on SWE-bench Verified."
 ---
 
-Open-source context layer that builds a linked markdown graph of a codebase once, then feeds it to coding agents (Claude Code, Cursor, Codex, Gemini) for faster, cheaper, better-contextualized work; up to 4x cheaper and +12 pts on SWE-bench Verified.
+Graft addresses the cost and error rate that come from coding agents re-deriving codebase structure on every task. On initialization it builds a graft/ directory of linked markdown nodes describing subsystems with typed relationships such as depends_on, alongside a per-symbol wiring graph produced by tree-sitter parsing with no model calls. Registered coding agents — Claude Code, Cursor, Codex, Gemini, Copilot, Windsurf, and others — consume this graph through instruction files, lifecycle hooks that warn about blast radius and re-sync the graph, and an MCP server exposing six lookup tools like graft_find_code and graft_trace_calls. The structural analysis is local and free; optional LLM-written summaries use the developer's own API key across OpenAI, Anthropic, OpenRouter, Fireworks, Groq, or local models. NanoNets maintains it as an open-source project and reports measured gains on SWE-bench Verified alongside per-repo cost and latency reductions.

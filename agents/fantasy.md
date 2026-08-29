@@ -2,12 +2,12 @@
 name: "Fantasy"
 slug: "fantasy"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "charmbracelet"
 license: "Apache-2.0"
 url: "https://github.com/charmbracelet/fantasy"
 source_code_url: "https://github.com/charmbracelet/fantasy"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
 first_released: "2025-08-15"
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "A unified Go library for building AI agents with a single API across many LLM providers and models, compiling to native machine code; built to power Charm's Crush coding agent."
 ---
 
-A unified Go library for building AI agents with a single API across many LLM providers and models, compiling to native machine code; built to power Charm's Crush coding agent.
+Fantasy came out of Charmbracelet's work on Crush, their terminal coding agent, when the team needed a multi-provider LLM layer in Go that could compile to a single native binary. It exposes fantasy.NewAgent() with system prompts and typed tools, normalizes streaming, retries, JSON repair, and structured output generation across providers, and ships dedicated packages for OpenRouter, Azure, and Bedrock plus a generic openaicompat layer for everything else. Because it is a library, decisions about the loop, the UI, and permissions belong to the embedding program — Crush being the reference implementation. Go developers building terminal-native AI tools use it to avoid writing provider adapters themselves.

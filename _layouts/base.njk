@@ -16,12 +16,13 @@
     <a href="{{ '/stars/' | url }}" class="nav-link">By Stars</a>
     <a href="{{ '/newest/' | url }}" class="nav-link">Newest</a>
     <a href="{{ '/multiplexers/' | url }}" class="nav-link">Multiplexers</a>
+    <a href="{{ '/agent-sdks/' | url }}" class="nav-link">Agent SDKs</a>
   </nav>
   <main class="container">
     {{ content | safe }}
   </main>
   <footer class="footer">
-    <p><a href="https://github.com/prime-radiant-inc/harness-census">Harness Census</a> — {{ collections.agent | size }} agents + {{ collections.multiplexer | size }} multiplexers catalogued.</p>
+    <p><a href="https://github.com/prime-radiant-inc/harness-census">Harness Census</a> — {{ collections.agent | size }} agents + {{ collections.multiplexer | size }} multiplexers + {{ collections["agent-sdk"] | size }} SDKs catalogued.</p>
   </footer>
   {{ extraScripts | safe }}
 </body>

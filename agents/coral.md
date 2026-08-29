@@ -2,12 +2,12 @@
 name: "CORAL"
 slug: "coral"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "Human-Agent-Society"
 license: "Apache-2.0"
 url: "https://github.com/Human-Agent-Society/CORAL"
 source_code_url: "https://github.com/Human-Agent-Society/CORAL"
-source_available: True
+source_available: "True"
 platforms:
   - "Autonomous"
 first_released: "2026-03-16"
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "Infrastructure for autonomous AI agent organizations running experiments, sharing knowledge, and continuously improving solutions; multi-agent self-evolution in parallel git worktrees with shared .coral/public/ state; grader daemon scores every commit; accepted at COLM 2026."
 ---
 
-Infrastructure for autonomous AI agent organizations running experiments, sharing knowledge, and continuously improving solutions; multi-agent self-evolution in parallel git worktrees with shared .coral/public/ state; grader daemon scores every commit; accepted at COLM 2026.
+Running one coding agent against a benchmark is straightforward; running populations of agents that build on each other's results without contaminating evaluation is not, and CORAL supplies that substrate. Each agent works in an isolated git worktree, shared state (attempts, notes, skills) lives in a .coral/public/ directory symlinked into every worktree so agents see each other's progress in real time, and a grader daemon scores each commit so progress is measured rather than claimed. A manager agent injects heartbeat prompts - reflect, consolidate, pivot - to steer long runs, and multi-island runs with migration support evolution-style experiments across isolated agent populations. Docker isolation keeps agents from reading grader answer keys, and rubric-based LLM judges score open-ended tasks. Research groups studying self-improving agent systems use it; the project ships as a pip/uv install with a Claude Code plugin for authoring tasks.

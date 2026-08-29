@@ -7,7 +7,7 @@ maker: "h0x91b"
 license: "Apache-2.0"
 url: "https://github.com/h0x91b/dev-3.0"
 source_code_url: "https://github.com/h0x91b/dev-3.0"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
   - "IDE"
@@ -16,12 +16,12 @@ current_release: "2026-08-19"
 stars: "246"
 language: "TypeScript"
 homepage: "https://dev3.h0x91b.com/"
-mcp_support: True
-plugin_support: False
-claude_code_plugin: True
-subagents: True
-hooks: True
-plan_mode: False
+mcp_support: "True"
+plugin_support: "False"
+claude_code_plugin: "True"
+subagents: "True"
+hooks: "True"
+plan_mode: "False"
 model_providers: "Claude Code, Codex, Gemini CLI, Cursor Agent, opencode, any configurable CLI tool"
 pricing: "Free / open-source"
 install_method: "Homebrew: brew tap h0x91b/dev3 && brew install; Windows zip download; or build from source"
@@ -35,4 +35,4 @@ sources:
 what_makes_it_special: "A Kanban board where every card is a live AI coding agent — each task gets its own git worktree, terminal, and branch, enabling dozens of parallel agents to work simultaneously without file conflicts. Built for solo developers managing fleets of AI agents, explicitly not an IDE. Built on Bun, React 19, Tailwind, Electrobun. Agents integrate through MCP. Includes bug hunters (parallel read-only review agents) and sibling task variants."
 ---
 
-A Kanban board where every card is a live AI coding agent — each task gets its own git worktree, terminal, and branch, enabling dozens of parallel agents to work simultaneously without file conflicts. Built for solo developers managing fleets of AI agents, explicitly not an IDE. Built on Bun, React 19, Tailwind, Electrobun. Agents integrate through MCP. Includes bug hunters (parallel read-only review agents) and sibling task variants.
+Running a fleet of coding agents by hand means juggling terminals, branches, and merge conflicts, and existing IDEs assume one human driver. dev-3.0 replaces that with a board: writing a card provisions a git worktree, tmux session, per-project setup script, and reserved ports, then launches the chosen agent CLI inside it. Heavy directories are copy-on-write cloned so a dozen parallel sandboxes stay cheap, and card states (agent working, has questions, ready for review) surface what needs attention without opening a terminal. Review happens on the board through a diff panel with inline comments before merging. It is used by solo developers and small teams running several agents in parallel — a one-person studio.

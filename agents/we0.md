@@ -7,7 +7,7 @@ maker: "we0-dev"
 license: "MIT"
 url: "https://github.com/we0-dev/we0"
 source_code_url: "https://github.com/we0-dev/we0"
-source_available: True
+source_available: "True"
 platforms:
   - "IDE"
 first_released: "2025-02-02"
@@ -25,13 +25,13 @@ model_providers: "DeepSeek, OpenAI-compatible (configurable via THIRD_API_URL/TH
 pricing: "freemium"
 install_method: "npm"
 docs_url: "https://docs.we0.ai/zh/getting-started/product-intro-and-reading-guide"
-plugin_docs_url: null
-config_docs_url: null
-download_url: null
+plugin_docs_url: "https://docs.we0.ai/zh/getting-started/quickstart"
+config_docs_url: "https://docs.we0.ai/zh/resources/pricing-plans-and-delivery-details"
+download_url: "https://github.com/we0-dev/we0"
 maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "AI-native multi-agent website builder — full pipeline from requirement understanding to page planning, design, code generation, CMS content management, SEO, domain binding, and deployment; supports existing project import and WeChat Mini Program preview."
 ---
 
-AI-native multi-agent website builder — full pipeline from requirement understanding to page planning, design, code generation, CMS content management, SEO, domain binding, and deployment; supports existing project import and WeChat Mini Program preview.
+we0 is an open-source AI website-building platform where natural-language requirements become deployable sites through a division of labor among role-based agents (Leader, Design, Development, Ops) covering requirement breakdown, page planning, design, code generation, CMS content management, SEO, domain binding, and publishing. The delivered sites are front-end-plus-backend with SSR, metadata optimization, and structured data for SEO, hosted with serverless publishing and domain binding. It supports importing existing projects for secondary editing, browser-based WebContainer debugging, and WeChat Mini Program developer-tool preview, a China-market capability competitors lack. The open-source monorepo (TypeScript, pnpm) can be self-hosted or run as the hosted we0.ai product with a free trial. It targets marketing sites, portfolios, small e-commerce, and similar non-complex systems.

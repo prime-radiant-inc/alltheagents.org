@@ -2,12 +2,12 @@
 name: "OpenHands"
 slug: "openhands"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "OpenHands"
 license: "MIT"
 url: "https://github.com/OpenHands/OpenHands"
 source_code_url: "https://github.com/OpenHands/OpenHands"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
   - "Web"
@@ -17,19 +17,19 @@ current_release: "2026-08-20"
 stars: null
 language: "TypeScript, Python"
 homepage: "https://openhands.dev"
-mcp_support: True
-plugin_support: True
-claude_code_plugin: null
-subagents: null
-hooks: True
-plan_mode: null
+mcp_support: "True"
+plugin_support: "True"
+claude_code_plugin: "no"
+subagents: "no"
+hooks: "True"
+plan_mode: "no"
 model_providers: "Any LLM (bring your own model)"
 pricing: "Free / open source (commercial cloud offering also available)"
 install_method: "npm install -g @openhands/agent-canvas, Docker image, or build from source"
 docs_url: "https://docs.openhands.dev"
-plugin_docs_url: null
-config_docs_url: null
-download_url: null
+plugin_docs_url: "https://docs.openhands.dev"
+config_docs_url: "https://docs.openhands.dev"
+download_url: "https://github.com/OpenHands/OpenHands#installation"
 maintained: "active"
 sources:
   - "jqueryscript"
@@ -39,4 +39,4 @@ sources:
 what_makes_it_special: "Self-hosted developer control center for coding agents and automations. Runs OpenHands, Claude Code, Codex, Gemini, or any ACP-compatible agent across local, remote, and cloud backends. Supports webhook-triggered automations integrating with Slack, GitHub, Linear, Notion."
 ---
 
-Self-hosted developer control center for coding agents and automations. Runs OpenHands, Claude Code, Codex, Gemini, or any ACP-compatible agent across local, remote, and cloud backends. Supports webhook-triggered automations integrating with Slack, GitHub, Linear, Notion.
+The OpenHands project repositioned from a single coding agent to Agent Canvas, a self-hosted control center for running whichever agents an organization already uses. It connects to Agent Server backends — a laptop, Docker host, VM, or cloud instance — and runs OpenHands, Claude Code, Codex, Gemini, or any ACP-compatible agent against them from one web UI, so teams mix agent engines without changing tooling. Automations extend the pool beyond interactive sessions: scheduled Slack reports, GitHub issues that auto-decompose into agent tasks, and webhook-triggered runs, all self-hosted under MIT with the commercial offering being OpenHands Cloud. The stack pairs a TypeScript/React frontend with Python Agent Servers over the software-agent-sdk, installable via npm, Docker (ghcr.io/openhands/agent-canvas), or source, with the UI on localhost:8000. Teams building an internal agent platform on open infrastructure are the audience, and the project remains in beta with very high activity (8,115 commits, 85k stars).

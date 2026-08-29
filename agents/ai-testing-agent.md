@@ -7,7 +7,7 @@ maker: "furudo-erika"
 license: null
 url: "https://github.com/furudo-erika/ai-testing-agent"
 source_code_url: "https://github.com/furudo-erika/ai-testing-agent"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2024-12-19"
 current_release: "2024-12-19"
@@ -27,10 +27,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: "https://github.com/furudo-erika/ai-testing-agent"
-maintained: "abandoned"
+maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Open-source AI agent for software testing. Uses an LLM via OpenRouter to automatically generate test plans, generate pytest test code for API endpoints, run tests, and iteratively refine based on natural-language feedback. Single LangChain agent with plan/generate/run/feedback tools. Only 1 commit, last activity ~2023."
 ---
 
-Open-source AI agent for software testing. Uses an LLM via OpenRouter to automatically generate test plans, generate pytest test code for API endpoints, run tests, and iteratively refine based on natural-language feedback. Single LangChain agent with plan/generate/run/feedback tools. Only 1 commit, last activity ~2023.
+The agent generates a textual test plan, converts it into pytest code for REST API endpoints, executes the tests, and accepts free-form feedback to extend or correct them, overwriting generated_tests.py on each cycle. Mechanically, a LangChain chat agent invokes tools that spawn api_tester.py subprocesses; the LLM (via an OpenRouter API key) writes the test file, and pytest runs it against a configurable endpoint, with a bundled FastAPI demo app for local trials. It is a single-commit proof of concept: no license file, leftover copy files, 48 stars, and no activity since December 2024. Developers evaluating API test generation can run it by cloning the repo and setting OPENROUTER_API_KEY.

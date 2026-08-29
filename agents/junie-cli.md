@@ -16,8 +16,8 @@ first_released: null
 current_release: null
 stars: null
 language: null
-homepage: null
-mcp_support: null
+homepage: "https://junie.jetbrains.com"
+mcp_support: "no"
 plugin_support: "yes (Agent Skills packages and /commands shared across CLI + IDE via ACP)"
 claude_code_plugin: null
 subagents: null
@@ -37,4 +37,4 @@ sources:
 what_makes_it_special: "LLM-agnostic coding agent powered by IntelliJ IDEA Engine (top performer on SWE-Rebench); model-agnostic BYOK with cost-efficient 'plan on Opus, implement on Flash' strategy; Live Prompting to steer agent mid-task in real time; remote async execution via CLI + web app; human-in-the-loop with dynamic allowlist; SOC 2 certified."
 ---
 
-LLM-agnostic coding agent powered by IntelliJ IDEA Engine (top performer on SWE-Rebench); model-agnostic BYOK with cost-efficient 'plan on Opus, implement on Flash' strategy; Live Prompting to steer agent mid-task in real time; remote async execution via CLI + web app; human-in-the-loop with dynamic allowlist; SOC 2 certified.
+Junie CLI brings JetBrains' coding agent out of the IDE and into terminals, CI, and a phone-monitorable web app. Plans are first-class artifacts — written to .junie/plans before any code changes, reviewable and committable — which enables the deliberate strategy of planning on a frontier model and implementing on a cheap one. Live Prompting lets the user redirect a running task without restarting it. Skills packages and /commands sync between CLI and IDE over ACP, a GitHub Action auto-responds to issues, PRs, and CI failures, and remote execution continues server-side while the user checks progress from another device. Pricing starts at 5 free credits with BYOK at provider rates and tops out at AI Ultimate $25/user/month.

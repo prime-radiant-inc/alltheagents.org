@@ -2,12 +2,12 @@
 name: "agx"
 slug: "agx"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "ramarlina"
 license: "MIT"
 url: "https://github.com/ramarlina/agx"
 source_code_url: "https://github.com/ramarlina/agx"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
   - "Web"
@@ -17,12 +17,12 @@ current_release: "2026-05-06"
 stars: "27"
 language: "TypeScript/JavaScript (Node.js); Next.js + Tailwind dashboard; Electron desktop app"
 homepage: "https://www.runagx.com"
-mcp_support: False
-plugin_support: False
-claude_code_plugin: False
-subagents: True
-hooks: False
-plan_mode: False
+mcp_support: "False"
+plugin_support: "False"
+claude_code_plugin: "False"
+subagents: "True"
+hooks: "False"
+plan_mode: "False"
 model_providers: "Claude (Claude Code CLI), Codex (Codex CLI), Gemini (Gemini CLI), Ollama"
 pricing: "Free/open source (MIT)"
 install_method: "npm install -g @mndrk/agx && agx init; or download macOS desktop app from GitHub Releases; or build from source"
@@ -36,4 +36,4 @@ sources:
 what_makes_it_special: "Local workspace for running AI coding agents across tickets, repos, and PRs. Runs a ticket -> implementation -> PR -> review loop with human-in-the-loop gates at every step. Fully local execution (code never leaves your machine), checkpointed state that survives restarts with constant-cost resumption, unified workspace where tickets/code/PRs/reviews live in one window, and provider-agnostic switching (Claude <-> Codex <-> Gemini <-> Ollama) mid-thread. Integrates with Jira/Linear. Available as local web dashboard, CLI, and macOS desktop app."
 ---
 
-Local workspace for running AI coding agents across tickets, repos, and PRs. Runs a ticket -> implementation -> PR -> review loop with human-in-the-loop gates at every step. Fully local execution (code never leaves your machine), checkpointed state that survives restarts with constant-cost resumption, unified workspace where tickets/code/PRs/reviews live in one window, and provider-agnostic switching (Claude <-> Codex <-> Gemini <-> Ollama) mid-thread. Integrates with Jira/Linear. Available as local web dashboard, CLI, and macOS desktop app.
+Running coding agents ad hoc means state lives in terminal scrollback and review discipline depends on memory. AGX gives every ticket a durable home — objectives, scheduled jobs, chat threads, and terminal sessions under a project, with SQLite (WAL) state that survives restarts — and connects it to Jira or Linear intake. Agents draft implementations in worktree isolation, a reviewer agent does first-pass PR review so humans judge only contested changes, and nothing irreversible proceeds without an explicit approve/reject gate. Agents can be switched mid-thread between Claude, Codex, Gemini, and Ollama, and role-grouped teams route work by tag. The tool ships as a CLI, a Next.js dashboard, and an Electron macOS app, and its own repository documents 167+ merged PRs authored by the agents it manages.

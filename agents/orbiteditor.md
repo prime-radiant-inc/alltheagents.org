@@ -7,7 +7,7 @@ maker: "ashish200729"
 license: "Apache-2.0"
 url: "https://github.com/ashish200729/orbiteditor"
 source_code_url: "https://github.com/ashish200729/orbiteditor"
-source_available: True
+source_available: "True"
 platforms:
   - "IDE"
   - "Desktop"
@@ -16,18 +16,18 @@ current_release: "2026-08-13"
 stars: "57"
 language: "TypeScript"
 homepage: "https://orbiteditorai.com"
-mcp_support: True
-plugin_support: null
-claude_code_plugin: False
-subagents: True
-hooks: False
-plan_mode: True
+mcp_support: "True"
+plugin_support: "yes"
+claude_code_plugin: "False"
+subagents: "True"
+hooks: "False"
+plan_mode: "True"
 model_providers: "OpenAI, Anthropic, Google, local (BYOK)"
 pricing: "Free/open source"
 install_method: "curl -fsSL https://raw.githubusercontent.com/ashish200729/orbiteditor/main/install.sh | bash, or download .dmg from Releases"
 docs_url: "https://orbiteditorai.com"
-plugin_docs_url: null
-config_docs_url: null
+plugin_docs_url: "https://github.com/ashish200729/orbiteditor/blob/main/docs/orbit-subagents.md"
+config_docs_url: "https://github.com/ashish200729/orbiteditor/blob/main/docs/plan-mode.md"
 download_url: "https://github.com/ashish200729/orbiteditor/releases"
 maintained: "active"
 sources:
@@ -35,4 +35,4 @@ sources:
 what_makes_it_special: "Open-source AI code editor (Cursor alternative) forked from Void Editor/VS Code; BYOK with any provider, local model support, subagents, plan mode, MCP integration, checkpoints and change visualization, no data retention."
 ---
 
-Open-source AI code editor (Cursor alternative) forked from Void Editor/VS Code; BYOK with any provider, local model support, subagents, plan mode, MCP integration, checkpoints and change visualization, no data retention.
+Closed AI editors retain code and prompts on vendor servers, which is a non-starter for some teams. Orbit Editor continues the Void Editor's approach — a VS Code fork that sends messages straight to the chosen provider with no data retention — and layers an agent system on top: subagents with tool policies, a documented plan mode, MCP integration for external tools, Skills for reusable workflows, and checkpoints with change visualization. Providers are BYOK across OpenAI, Anthropic, Google, and local models. It ships as a macOS beta (Apple Silicon and Intel) via a signed install script or DMG, with Windows and Linux marked as coming soon, and its VS Code base keeps the standard extensions directory. The codebase guide and plan-mode/subagent docs in-repo serve as documentation alongside a Discord community. It is a single-maintainer beta project (58 stars, 229 commits), so maturity is unproven, but it is one of the few fully open editor forks still actively carrying the agent stack forward.

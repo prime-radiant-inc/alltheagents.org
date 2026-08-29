@@ -7,19 +7,19 @@ maker: "Mistral AI"
 license: "Apache-2.0"
 url: "https://mistral.ai/news/devstral-2-vibe-cli/"
 source_code_url: null
-source_available: True
+source_available: "True"
 platforms: []
 first_released: null
 current_release: null
 stars: null
 language: "Python"
 homepage: null
-mcp_support: True
-plugin_support: True
-claude_code_plugin: False
-subagents: True
-hooks: True
-plan_mode: True
+mcp_support: "True"
+plugin_support: "True"
+claude_code_plugin: "False"
+subagents: "True"
+hooks: "True"
+plan_mode: "True"
 model_providers: "Mistral AI"
 pricing: "Free via API during launch; Devstral 2 $0.40/$2.00 per million tokens (input/output); Devstral Small 2 $0.10/$0.30 per million tokens"
 install_method: "curl -LsSf https://mistral.ai/vibe/install.sh | bash; or uv tool install mistral-vibe; or pip install mistral-vibe"
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Mistral Vibe CLI is a native terminal-based coding agent with MCP server support (HTTP, streamable-HTTP, stdio), a Skills plugin system with custom slash commands, subagents via task delegation with built-in explore agent, lifecycle hooks (pre_tool, post_tool, post_agent), and plan mode. Devstral 2 model achieves 72.2% on SWE-bench Verified with only 123B parameters, 256K context window, and up to 7x more cost-efficient than Claude Sonnet. Devstral Small 2 runs locally on consumer hardware. 4.9k stars on GitHub."
 ---
 
-Mistral Vibe CLI is a native terminal-based coding agent with MCP server support (HTTP, streamable-HTTP, stdio), a Skills plugin system with custom slash commands, subagents via task delegation with built-in explore agent, lifecycle hooks (pre_tool, post_tool, post_agent), and plan mode. Devstral 2 model achieves 72.2% on SWE-bench Verified with only 123B parameters, 256K context window, and up to 7x more cost-efficient than Claude Sonnet. Devstral Small 2 runs locally on consumer hardware. 4.9k stars on GitHub.
+Mistral built Vibe CLI as the reference client for Devstral 2 and as an open counterweight to proprietary terminal agents: it scans the project and git state for context, exposes @-file and !-shell references, and orchestrates multi-file edits with architecture-level reasoning. The extension points mirror the Claude Code model — MCP servers over stdio or HTTP, an Agent Skills spec directory tree that doubles as slash commands, TOML-declared hooks, and custom subagents declared in config with a read-only plan agent built in. It runs against the Mistral API or any compatible endpoint and integrates into IDEs through ACP. Teams already standardized on Devstral use it to keep both model and harness under their own control.

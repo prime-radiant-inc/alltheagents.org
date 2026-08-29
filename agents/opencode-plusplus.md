@@ -7,26 +7,26 @@ maker: "whut09"
 license: "MIT"
 url: "https://github.com/whut09/opencode-plusplus"
 source_code_url: "https://github.com/whut09/opencode-plusplus"
-source_available: True
+source_available: "True"
 platforms:
   - "IDE"
 first_released: "2026-05-24"
 current_release: "2026-08-19"
 stars: "109"
 language: "TypeScript"
-homepage: null
-mcp_support: True
-plugin_support: True
-claude_code_plugin: False
-subagents: False
-hooks: True
-plan_mode: null
-model_providers: null
+homepage: "https://github.com/whut09/opencode-plusplus"
+mcp_support: "True"
+plugin_support: "True"
+claude_code_plugin: "False"
+subagents: "False"
+hooks: "True"
+plan_mode: "no"
+model_providers: "none of its own (works offline against the single active OpenCode model)"
 pricing: "Free/open-source (MIT)"
 install_method: "Download opencode-plusplus-setup-win-x64.exe from GitHub Releases; quit OpenCode Desktop; double-click EXE; reopen OpenCode Desktop (no admin rights needed, writes to %USERPROFILE%/.config/opencode)"
 docs_url: "https://github.com/whut09/opencode-plusplus/tree/main/docs"
-plugin_docs_url: null
-config_docs_url: null
+plugin_docs_url: "https://github.com/whut09/opencode-plusplus/blob/main/docs/README.md"
+config_docs_url: "https://github.com/whut09/opencode-plusplus/blob/main/docs/README.md"
 download_url: "https://github.com/whut09/opencode-plusplus/releases"
 maintained: "active"
 sources:
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "Narrow-scope reliability harness/plugin for OpenCode Desktop (Windows) that patches the command dispatcher (only 3 exact command names) to enable model-free local state control; adds guard rails (edit boundaries, dangerous command blocking, protected paths), evidence capture (redacted, hashed), and a closed-loop verify-and-repair workflow via /plusplus-task and /plusplus-verify slash commands; user-level Windows plugin requiring no admin privileges and no second desktop shell; ships internal dev/test-only MCP server."
 ---
 
-Narrow-scope reliability harness/plugin for OpenCode Desktop (Windows) that patches the command dispatcher (only 3 exact command names) to enable model-free local state control; adds guard rails (edit boundaries, dangerous command blocking, protected paths), evidence capture (redacted, hashed), and a closed-loop verify-and-repair workflow via /plusplus-task and /plusplus-verify slash commands; user-level Windows plugin requiring no admin privileges and no second desktop shell; ships internal dev/test-only MCP server.
+OpenCode Desktop's agent produces diffs, but nothing forces it to work from verified repository context or to prove its commands actually ran against the current tree. OpenCode++ inserts that layer as an in-process Windows plugin: a context registry selects files with justification, a guard layer enforces protected paths and command policies, and an evidence module matches command and CI results to the working-tree hash before any decision is recorded. Work flows through a dashboard pipeline — Plan, Prepare, Retrieve, Execute, Collect, Evaluate, Decide, Persist, Finalize — with an intervention ledger tracking what was observed, prevented, repaired, or verified, and sanitized artifacts written to .agent-context/ for audit. Installation is a signed Windows x64 setup EXE from GitHub Releases that requires no admin, followed by selecting the OpenCode++ mode. It stays offline by default, operating on whatever model OpenCode already has, and bilingual English/Chinese docs serve its mixed audience.

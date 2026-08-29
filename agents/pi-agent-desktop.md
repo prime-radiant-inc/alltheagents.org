@@ -7,7 +7,7 @@ maker: "abcwyc"
 license: "MIT"
 url: "https://github.com/abcwyc/pi-agent-desktop"
 source_code_url: "https://github.com/abcwyc/pi-agent-desktop"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
   - "Desktop"
@@ -16,13 +16,13 @@ current_release: "2026-08-16"
 stars: "217"
 language: "TypeScript/JavaScript (Next.js), Rust (Tauri)"
 homepage: "https://pi.348580.xyz"
-mcp_support: null
-plugin_support: True
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
+mcp_support: "no"
+plugin_support: "True"
+claude_code_plugin: "no"
+subagents: "no"
+hooks: "no"
+plan_mode: "no"
+model_providers: "Multi-provider via pi runtime (model and API-key management in-app)"
 pricing: "Free"
 install_method: "Download from GitHub Releases (.dmg Apple Silicon, .deb Linux x64, x64-setup.exe Windows)"
 docs_url: "https://pi.348580.xyz"
@@ -35,4 +35,4 @@ sources:
 what_makes_it_special: "Local AI agent desktop app for macOS, Windows, and Linux that packages the agent capabilities of pi into a standalone installable application — bringing the Claude Code experience to your desktop. Manages models, OAuth/API keys, skills, and plugins."
 ---
 
-Local AI agent desktop app for macOS, Windows, and Linux that packages the agent capabilities of pi into a standalone installable application — bringing the Claude Code experience to your desktop. Manages models, OAuth/API keys, skills, and plugins.
+pi-agent-desktop exists for developers who want pi's terminal-grade coding agent without maintaining a CLI environment, packaging the agent core, the pi-web interface, and the Pi SDK into a Tauri application for macOS (Apple Silicon), Windows, and Linux (x64). The app reads pi's existing local data directory, so prior sessions, model credentials, and configuration carry over, and it manages models, API keys, skills, and plugins through a GUI instead of CLI flags. A signed auto-updater ships complete new builds in-app, with daily GitHub workflows syncing upstream pi and pi-web releases and gating publishing on conflict-free merges. Server requests honor standard proxy variables, and keys stay local. Its users are pi-curious developers on macOS or Windows who want the agent without a terminal setup, and the project tracks upstream pi releases automatically.

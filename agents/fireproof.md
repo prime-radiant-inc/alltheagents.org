@@ -2,12 +2,12 @@
 name: "fireproof"
 slug: "fireproof"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "fireproof-storage"
 license: "Apache-2.0"
 url: "https://github.com/fireproof-storage/fireproof"
 source_code_url: "https://github.com/fireproof-storage/fireproof"
-source_available: True
+source_available: "True"
 platforms:
   - "Web"
 first_released: "2023-08-17"
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "Lightweight embedded document database with encrypted live sync and git-like versioning via hash history (cryptographic causal consistency). Encrypted content-addressed blob replication, CRDT-based multi-writer safe real-time collaboration. Runs anywhere (browser, Node, Deno, Bun, edge), offline-first with no loading/error states, small package with no WASM. Designed to fit in LLM context windows for AI code generation."
 ---
 
-Lightweight embedded document database with encrypted live sync and git-like versioning via hash history (cryptographic causal consistency). Encrypted content-addressed blob replication, CRDT-based multi-writer safe real-time collaboration. Runs anywhere (browser, Node, Deno, Bun, edge), offline-first with no loading/error states, small package with no WASM. Designed to fit in LLM context windows for AI code generation.
+Fireproof addresses the persistence gap in AI-built applications: an LLM can generate a React app in seconds, but wiring up a real database, sync, and conflict handling traditionally breaks the flow. As an embedded library (@fireproof/core, use-fireproof), it runs in the browser, Node, Deno, and Bun with live queries through React hooks, CRDT-based multi-writer collaboration, and a hash-chain version history that gives git-like rollback without a server. Content-addressed encrypted blob replication means data syncs between devices without a trusted server, which suits local-first and collaborative apps. Its growth tracks the vibe-coding ecosystem — it is frequently the database an AI app builder reaches for — while remaining a general-purpose embedded database for any JavaScript application.

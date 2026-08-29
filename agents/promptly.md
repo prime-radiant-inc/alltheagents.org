@@ -2,7 +2,7 @@
 name: "Promptly"
 slug: "promptly"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: null
 license: "Custom (Acceptance License — non-standard, not OSI-approved)"
 url: "https://www.trypromptly.com/"
@@ -16,7 +16,7 @@ current_release: null
 stars: null
 language: "Python"
 homepage: null
-mcp_support: null
+mcp_support: "no"
 plugin_support: "yes (embeddable widgets; integrations with Slack, Discord, Zapier, Webflow, Hubspot)"
 claude_code_plugin: null
 subagents: null
@@ -35,4 +35,4 @@ sources:
 what_makes_it_special: "No-code platform for building generative AI agents, apps, and chatbots (not a coding agent); no-code RAG pipelines; model chaining across multiple providers; multi-tenant architecture; built-in vector database; SOC 2 Type II certified. Open-source core (LLMStack) with commercial cloud (Promptly)."
 ---
 
-No-code platform for building generative AI agents, apps, and chatbots (not a coding agent); no-code RAG pipelines; model chaining across multiple providers; multi-tenant architecture; built-in vector database; SOC 2 Type II certified. Open-source core (LLMStack) with commercial cloud (Promptly).
+Promptly targets teams that need AI applications — chatbots, web apps, Slack and Discord bots — without maintaining the underlying model infrastructure. Builders assemble apps from templates, chain models from different providers through processors, and attach retrieval-augmented data sources ranging from PDFs and web sitemaps to YouTube and Google Drive, all without writing code. A multi-tenant architecture with granular permissions supports organization-wide sharing, embedding, and streaming APIs for developers who need programmatic access. The platform is SOC 2 Type II certified and offers enterprise controls such as self-hosted vector databases, allowed-model restrictions, and usage analytics. Its open-source core, LLMStack, is installable via pip for teams that want to run the stack themselves, while the hosted product targets enterprises deploying customer-facing bots and internal AI tools.

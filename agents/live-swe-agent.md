@@ -7,7 +7,7 @@ maker: "OpenAutoCoder"
 license: "MIT"
 url: "https://github.com/OpenAutoCoder/live-swe-agent"
 source_code_url: "https://github.com/OpenAutoCoder/live-swe-agent"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2025-11-13"
 current_release: "2026-01-19"
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "First runtime self-evolving software engineering agent that treats agents as software systems which can modify their own behavior at runtime; achieves SOTA 79.2% on SWE-bench Verified (Claude Opus 4.5) and 45.8% on SWE-Bench Pro with a minimal open scaffold"
 ---
 
-First runtime self-evolving software engineering agent that treats agents as software systems which can modify their own behavior at runtime; achieves SOTA 79.2% on SWE-bench Verified (Claude Opus 4.5) and 45.8% on SWE-Bench Pro with a minimal open scaffold
+Live-SWE-agent rests on the observation that an agent is itself software, so an LLM-driven agent can extend and revise its own behavior while working — the implementation is deliberately a small config delta on mini-swe-agent rather than a new scaffold. Published results claim 79.2% on SWE-bench Verified with Claude Opus 4.5 and 45.8% on SWE-Bench Pro, self-reported through the project's own public leaderboard, which also serves as a platform for apples-to-apples model comparison. Trajectories, patches, and full run artifacts are published on Hugging Face for verification. Agent researchers use it to study runtime self-evolution and as a minimal baseline for fair model comparisons.

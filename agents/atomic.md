@@ -24,8 +24,8 @@ model_providers: "OpenAI, Anthropic, GitHub Copilot, OpenRouter, xAI, DeepSeek, 
 pricing: "open-source"
 install_method: "npm"
 docs_url: "https://docs.bastani.ai/"
-plugin_docs_url: null
-config_docs_url: null
+plugin_docs_url: "https://docs.bastani.ai"
+config_docs_url: "https://docs.bastani.ai"
 download_url: "https://www.npmjs.com/package/@bastani/atomic"
 maintained: "active"
 sources:
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Verifiable coding agent runtime — build engineering processes as explicit, checkable execution graphs (workflows) with stages, checks, artifacts, and approval gates. Fork of Pi. Core differentiator is verification built into the execution model: explicit DAG execution graphs, executable checks & review gates (failures route into bounded repair loops), durability & resume (runs checkpoint to disk), human-in-the-loop approval gates anywhere in the graph, planner-worker intercom coordination. 9 bundled specialized subagents with scoped context and worktree isolation. 27+ model providers. Compatible with Claude Code skills (Agent Skills standard) without rewriting them. Reported: ~95% merge rate, 0% revert rate."
 ---
 
-Verifiable coding agent runtime — build engineering processes as explicit, checkable execution graphs (workflows) with stages, checks, artifacts, and approval gates. Fork of Pi. Core differentiator is verification built into the execution model: explicit DAG execution graphs, executable checks & review gates (failures route into bounded repair loops), durability & resume (runs checkpoint to disk), human-in-the-loop approval gates anywhere in the graph, planner-worker intercom coordination. 9 bundled specialized subagents with scoped context and worktree isolation. 27+ model providers. Compatible with Claude Code skills (Agent Skills standard) without rewriting them. Reported: ~95% merge rate, 0% revert rate.
+Atomic, by bastani-inc, is a fork of Pi focused on making coding-agent behavior verifiable instead of hopeful. Engineering processes are defined as explicit execution graphs in TypeScript workflow files, with stages that can prompt agents, run tools, save artifacts, branch, run in parallel, retry within bounds, and checkpoint so runs survive interruption. Executable checks and fresh reviewers generate evidence, and failures route into bounded repair loops until gates pass, with human approval gates placeable anywhere in the graph. Nine specialist subagents cover workers, debugging, codebase analysis, and research, running in worktree-isolated parallel, and bundled workflows include fan-out-and-synthesize, adversarial-verification, loop-until-done, goal, and ralph loops. It stays Pi-compatible with providers, MCP servers, skills, and extensions, is installed via npm or a self-contained install script, and targets teams wanting deterministic, auditable agent pipelines.

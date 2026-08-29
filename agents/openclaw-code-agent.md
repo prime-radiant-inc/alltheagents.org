@@ -7,25 +7,25 @@ maker: "goldmar"
 license: "MIT"
 url: "https://github.com/goldmar/openclaw-code-agent"
 source_code_url: "https://github.com/goldmar/openclaw-code-agent"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2026-02-21"
 current_release: "2026-08-19"
 stars: "44"
 language: "TypeScript (with shell scripts)"
 homepage: "https://www.npmjs.com/package/openclaw-code-agent"
-mcp_support: null
-plugin_support: True
-claude_code_plugin: null
-subagents: True
-hooks: True
-plan_mode: True
+mcp_support: "no"
+plugin_support: "True"
+claude_code_plugin: "no"
+subagents: "True"
+hooks: "True"
+plan_mode: "True"
 model_providers: "Claude Code, Codex, OpenCode"
-pricing: null
+pricing: "open-source"
 install_method: "openclaw plugins install openclaw-code-agent, then openclaw plugins enable openclaw-code-agent"
 docs_url: "https://github.com/goldmar/openclaw-code-agent/blob/main/docs/REFERENCE.md"
-plugin_docs_url: null
-config_docs_url: null
+plugin_docs_url: "https://github.com/goldmar/openclaw-code-agent/blob/main/docs/REFERENCE.md"
+config_docs_url: "https://github.com/goldmar/openclaw-code-agent/blob/main/docs/REFERENCE.md"
 download_url: "https://www.npmjs.com/package/openclaw-code-agent"
 maintained: "active"
 sources:
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Stateful coding agent plugin for OpenClaw that runs Claude Code, Codex, and experimental OpenCode as managed background coding sessions launched from Telegram, Discord, or other OpenClaw-supported chat channels. Adds plan approval, session lifecycle, wake routing, worktree isolation, merge/PR follow-through, and explicit goal loops. Default launch mode is 'plan' with delegate plan review. Modes: plan, ask, off, manual, auto-merge, auto-pr. Session persistence/recovery across restarts, routed outcome summaries back to originating chat threads."
 ---
 
-Stateful coding agent plugin for OpenClaw that runs Claude Code, Codex, and experimental OpenCode as managed background coding sessions launched from Telegram, Discord, or other OpenClaw-supported chat channels. Adds plan approval, session lifecycle, wake routing, worktree isolation, merge/PR follow-through, and explicit goal loops. Default launch mode is 'plan' with delegate plan review. Modes: plan, ask, off, manual, auto-merge, auto-pr. Session persistence/recovery across restarts, routed outcome summaries back to originating chat threads.
+Coding-agent sessions are ephemeral by default, which makes them a poor fit for chat platforms where a task spans hours and multiple follow-ups. This OpenClaw plugin treats each launched task as a managed session: Claude Code, Codex, or OpenCode runs in a git worktree in the background, the plan appears in the Telegram or Discord thread for approval, and subsequent plain-language replies steer the session — 'add unit tests', 'stop this session' — with wake routing deciding which session handles each message. Lifecycle operations go beyond launch: sessions suspend, resume, fork, and recover after restarts, and completed work surfaces as Merge, Open PR, Later, or Discard buttons. Optional goal loops run verifier-driven or 'Ralph-style' iterations unattended. Cost visibility comes from agent_stats, which reports per-session USD spend. OpenClaw users who want durable, approvable coding sessions from messaging apps are the audience.

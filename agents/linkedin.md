@@ -2,12 +2,12 @@
 name: "linkedin"
 slug: "linkedin"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: null
 license: null
 url: "https://www.linkedin.com/company/91154103/"
 source_code_url: null
-source_available: False
+source_available: "False"
 platforms:
   - "Web"
 first_released: null
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "LinkedIn company page for LlamaCloud/LlamaIndex"
 ---
 
-LinkedIn company page for LlamaCloud/LlamaIndex
+This entry is the LinkedIn company profile associated with LlamaCloud and LlamaIndex, the retrieval and managed-data platform built by the LlamaIndex team. The page carries company information — description, followers, updates — about the vendor rather than any software artifact, and there is no agent, harness, multiplexer, or tool-loop functionality at this URL. It was captured in the census as a source reference for the LlamaIndex ecosystem. Its category is 'other' because the URL itself is a social-media page, not software.

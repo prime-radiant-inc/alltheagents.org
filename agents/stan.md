@@ -2,12 +2,12 @@
 name: "Stan"
 slug: "stan"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "kaifcoder"
 license: null
 url: "https://github.com/kaifcoder/Stan"
 source_code_url: "https://github.com/kaifcoder/Stan"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2023-09-27"
 current_release: "2024-10-23"
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Text analysis tool that summarizes long texts and answers questions (What/When/Who) using a locally deployed LLM. Works fully offline — no internet required, ensuring data privacy and security. Uses Hugging Face Transformers with Chroma & LangChain. (Streamlit app; not a coding agent harness.)"
 ---
 
-Text analysis tool that summarizes long texts and answers questions (What/When/Who) using a locally deployed LLM. Works fully offline — no internet required, ensuring data privacy and security. Uses Hugging Face Transformers with Chroma & LangChain. (Streamlit app; not a coding agent harness.)
+Stan is a Streamlit application for environments without internet access: long documents are summarized and queried (what, when, who) using a locally deployed LLM, with retrieval via Chroma and orchestration via LangChain, so no text or data leaves the machine. The repository holds six commits, a Streamlit interface, and no license file, meaning the code is technically all-rights-reserved despite being public. Development stopped in late 2024 with no issues, releases, or ongoing maintenance. It appears in this census only as a mislabeled sweep result — there is no coding loop, file editing, or tool use of any kind.

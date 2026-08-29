@@ -7,7 +7,7 @@ maker: "cline"
 license: "Apache-2.0"
 url: "https://github.com/cline/cline"
 source_code_url: "https://github.com/cline/cline"
-source_available: True
+source_available: "True"
 platforms:
   - "IDE"
   - "CLI"
@@ -16,19 +16,19 @@ current_release: "2026-08-20"
 stars: null
 language: "TypeScript"
 homepage: "https://cline.bot"
-mcp_support: True
-plugin_support: True
-claude_code_plugin: null
-subagents: True
-hooks: True
-plan_mode: True
+mcp_support: "True"
+plugin_support: "True"
+claude_code_plugin: "no"
+subagents: "True"
+hooks: "True"
+plan_mode: "True"
 model_providers: "Anthropic, OpenAI, Google, OpenRouter, Vercel AI Gateway, AWS Bedrock, Azure, GCP Vertex, Cerebras, Groq, Ollama, LM Studio, any OpenAI-compatible API"
 pricing: "Free / open source (BYOK to providers)"
 install_method: "npm i -g cline (CLI), VS Code Marketplace, JetBrains Marketplace, npm install @cline/sdk (SDK), npm i -g kanban (Kanban)"
 docs_url: "https://docs.cline.bot"
-plugin_docs_url: null
-config_docs_url: null
-download_url: null
+plugin_docs_url: "https://docs.cline.bot"
+config_docs_url: "https://docs.cline.bot"
+download_url: "https://github.com/cline/cline/releases"
 maintained: "active"
 sources:
   - "jqueryscript"
@@ -42,4 +42,4 @@ sources:
 what_makes_it_special: "Autonomous coding agent available as SDK, IDE extension, or CLI. Features Plan/Act modes, multi-agent teams with coordinator delegating to specialist agents, kanban-style parallel agent task boards, scheduled agents, messaging integrations (Slack, Telegram, Discord), and headless CI/CD mode."
 ---
 
-Autonomous coding agent available as SDK, IDE extension, or CLI. Features Plan/Act modes, multi-agent teams with coordinator delegating to specialist agents, kanban-style parallel agent task boards, scheduled agents, messaging integrations (Slack, Telegram, Discord), and headless CI/CD mode.
+Cline's design premise is that autonomy must remain inspectable: every edit appears as a diff, every command can require approval, and checkpoints allow undo, which separates it from fire-and-forget agents. Plan/Act separation lets users review strategy before execution, and the same core powers an IDE extension, a headless CLI for pipelines, and an SDK for building custom agents, all reading the same .clinerules. Multi-agent teams coordinate through a coordinator that delegates to specialists with their own tools, and scheduled agents run recurring jobs like dependency checks. Apache-2.0 and model-agnostic across all major providers plus local runtimes, it is one of the most widely adopted open-source agents in this census.

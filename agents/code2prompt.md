@@ -2,12 +2,12 @@
 name: "Code2Prompt"
 slug: "code2prompt"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "mufeedvh"
 license: "MIT"
 url: "https://github.com/mufeedvh/code2prompt"
 source_code_url: "https://github.com/mufeedvh/code2prompt"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
 first_released: "2024-03-09"
@@ -27,11 +27,11 @@ install_method: "cargo, brew, pip, binary"
 docs_url: "https://code2prompt.dev/docs/welcome/"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
+download_url: "https://github.com/mufeedvh/code2prompt/releases"
 maintained: "active"
 sources:
   - "namphuong"
 what_makes_it_special: "Converts a codebase into a well-structured LLM prompt with source tree, Handlebars templating, token tracking, git integration, and .gitignore support. Complete ecosystem: Rust core + CLI + Python SDK + MCP server, with a TUI. Provider-agnostic — outputs prompts for any LLM."
 ---
 
-Converts a codebase into a well-structured LLM prompt with source tree, Handlebars templating, token tracking, git integration, and .gitignore support. Complete ecosystem: Rust core + CLI + Python SDK + MCP server, with a TUI. Provider-agnostic — outputs prompts for any LLM.
+Code2Prompt automates the context-building step that precedes most LLM-assisted coding work. It walks a repository, respects .gitignore and glob filters, renders the file tree and selected sources through Handlebars templates, counts tokens against configurable model budgets, and can embed git diffs, logs, and branch comparisons in the output. The engine ships as a Rust CLI with an interactive TUI, a Python SDK (code2prompt-rs on PyPI), and an MCP server mode that lets MCP-capable agents query the codebase on demand instead of receiving one large dump. It calls no model itself — output is provider-agnostic text suitable for any LLM — and is installed via Cargo, Homebrew, pip, or prebuilt binaries.

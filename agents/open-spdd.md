@@ -2,7 +2,7 @@
 name: "open-spdd"
 slug: "open-spdd"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "gszhangwei"
 license: "MIT"
 url: "https://github.com/gszhangwei/open-spdd"
@@ -13,19 +13,19 @@ first_released: "2026-03-09"
 current_release: "2026-07-02"
 stars: "727"
 language: "Go"
-homepage: null
+homepage: "https://github.com/gszhangwei/open-spdd"
 mcp_support: "no"
 plugin_support: "no"
 claude_code_plugin: "no"
 subagents: "no"
 hooks: "no"
 plan_mode: "yes"
-model_providers: null
+model_providers: "none (generates commands/skills consumed by Cursor, Claude Code, GitHub Copilot, Antigravity, OpenCode, Codex)"
 pricing: "open-source"
 install_method: "brew"
 docs_url: "https://github.com/gszhangwei/open-spdd/tree/main/docs"
-plugin_docs_url: null
-config_docs_url: null
+plugin_docs_url: "https://github.com/gszhangwei/open-spdd#readme"
+config_docs_url: "https://github.com/gszhangwei/open-spdd#readme"
 download_url: "https://github.com/gszhangwei/open-spdd/releases"
 maintained: "active"
 sources:
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Methodology and cross-platform CLI that transforms AI coding prompts into executable design contracts using the REASONS Canvas framework (7 dimensions: Requirements, Entities, Approach, Structure, Operations, Norms, Safeguards). Supports bidirectional sync between design and code (/spdd-sync reverse-syncs code changes back to design). Works across Cursor, Claude Code, GitHub Copilot, Antigravity, OpenCode, Codex via generated command templates. Install also via go install and binary releases."
 ---
 
-Methodology and cross-platform CLI that transforms AI coding prompts into executable design contracts using the REASONS Canvas framework (7 dimensions: Requirements, Entities, Approach, Structure, Operations, Norms, Safeguards). Supports bidirectional sync between design and code (/spdd-sync reverse-syncs code changes back to design). Works across Cursor, Claude Code, GitHub Copilot, Antigravity, OpenCode, Codex via generated command templates. Install also via go install and binary releases.
+AI coding sessions tend to skip design discipline: requirements stay implicit in chat, and the resulting code drifts from what was actually asked for. OpenSPDD packages a methodology called Structured Prompt-Driven Development with a cross-platform Go CLI that turns a prompt into an 'executable design contract' organized along the REASONS Canvas — Requirements, Entities, Approach, Structure, Operations, Norms, Safeguards. Running openspdd init detects the installed AI tool (Cursor, Claude Code, Copilot, Antigravity, OpenCode, Codex) and generates native slash commands or skills for it; the workflow then runs /spdd-analysis, /spdd-reasons-canvas, /spdd-generate, and /spdd-sync, the last of which reverse-syncs code changes back into the design document. A single Go binary with embedded templates installs via Homebrew, go install, or release binaries. It targets enterprise feature work and team collaboration where the design document needs to outlive the chat session.

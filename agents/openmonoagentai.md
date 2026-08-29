@@ -7,14 +7,14 @@ maker: "StartupHakk"
 license: "AGPL-3.0"
 url: "https://github.com/StartupHakk/OpenMonoAgent.ai"
 source_code_url: "https://github.com/StartupHakk/OpenMonoAgent.ai"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
 first_released: "2026-04-30"
 current_release: "2026-08-20"
 stars: "1775"
 language: "C# / .NET 10"
-homepage: null
+homepage: "https://github.com/StartupHakk/OpenMonoAgent.ai"
 mcp_support: "yes - stdio; auto-detects code-review-graph MCP server, configurable in settings.json"
 plugin_support: "yes - Playbooks (YAML workflows)"
 claude_code_plugin: "no"
@@ -27,11 +27,11 @@ install_method: "binary - one-command curl install script"
 docs_url: "https://github.com/StartupHakk/OpenMonoAgent.ai/blob/main/docs/SETUP.md"
 plugin_docs_url: "https://github.com/StartupHakk/OpenMonoAgent.ai/blob/main/docs/PLAYBOOKS.md"
 config_docs_url: "https://github.com/StartupHakk/OpenMonoAgent.ai/blob/main/docs/CONFIG.md"
-download_url: null
+download_url: "https://github.com/StartupHakk/OpenMonoAgent.ai/blob/main/get-openmono.sh"
 maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "100% local-first coding agent bundled with llama.cpp in Docker; zero per-token cost, zero data egress. Auto-detects hardware (NVIDIA/CPU/Apple Silicon), supports distributed inference (agent on laptop, inference on remote GPU box), 20 built-in tools with 12-step pipeline, Docker sandboxing, Roslyn + LSP deep code intelligence, self-hosted SearXNG private web search, vision support, and a VS Code/Cursor extension. Philosophy: 'AI as infrastructure you own, not a subscription you rent.'"
 ---
 
-100% local-first coding agent bundled with llama.cpp in Docker; zero per-token cost, zero data egress. Auto-detects hardware (NVIDIA/CPU/Apple Silicon), supports distributed inference (agent on laptop, inference on remote GPU box), 20 built-in tools with 12-step pipeline, Docker sandboxing, Roslyn + LSP deep code intelligence, self-hosted SearXNG private web search, vision support, and a VS Code/Cursor extension. Philosophy: 'AI as infrastructure you own, not a subscription you rent.'
+Local-first coding agents usually stop at supporting whatever inference server the user happens to run, leaving setup as the user's problem. OpenMono bundles the whole stack: a .NET 10 CLI paired with a llama.cpp server in Docker that auto-detects NVIDIA GPUs, Apple Silicon, or plain CPU and ships Qwen model defaults tuned per backend, so one install script yields a working agent with no API keys and no network egress. Around the core it layers 20 built-in tools, five sub-agents, Docker-sandboxed execution, and Roslyn-powered code intelligence, with OpenAI/Anthropic/Ollama providers marked work-in-progress. A free relay at app.openmonoagent.ai enables distributed inference — the agent on a laptop, compute elsewhere — and iOS, Android, and VS Code/Cursor clients exist alongside the CLI. The project is a public beta under AGPL-3.0 with hardware demands (64 GB RAM recommended on Apple Silicon, 24 GB NVIDIA on Linux). Privacy-sensitive developers and offline environments are the audience.

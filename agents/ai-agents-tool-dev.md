@@ -27,10 +27,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: "https://github.com/aydinfer/ai-agents-tool-dev"
-maintained: "abandoned"
+maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Multi-agent AI development system for automated tool creation and testing. The GitHub repository is no longer accessible (returns 404)."
 ---
 
-Multi-agent AI development system for automated tool creation and testing. The GitHub repository is no longer accessible (returns 404).
+The project was recorded as a multi-agent AI development system for automated tool creation and testing, which would place it among agent frameworks. Its GitHub repository is no longer accessible, returning 404, so the description, code, license, and activity level are all unverifiable. Without the primary source, no field beyond the historical description can be established. The entry stands as a record that the repository existed and is now gone.

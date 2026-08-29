@@ -7,7 +7,7 @@ maker: "Gitlawb"
 license: "MIT"
 url: "https://github.com/Gitlawb/zero"
 source_code_url: "https://github.com/Gitlawb/zero"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2026-05-28"
 current_release: "2026-08-19"
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Fully local, user-owned terminal coding agent emphasizing control and privacy. Model-agnostic (25+ providers), explicit permission-gated safety model (file writes, shell, network, elevated actions all sandboxed; secrets redacted), dual-mode operation (rich interactive TUI + scriptable headless 'zero exec' with stream-JSON I/O for CI). Sessions stored on disk, searchable, resumable, never uploaded. Extensible via MCP, plugins, hooks, skills, and specialist subagents. Reads AGENTS.md/ZERO.md hierarchically. Platform binaries ship as optional npm dependencies to avoid trust concerns."
 ---
 
-Fully local, user-owned terminal coding agent emphasizing control and privacy. Model-agnostic (25+ providers), explicit permission-gated safety model (file writes, shell, network, elevated actions all sandboxed; secrets redacted), dual-mode operation (rich interactive TUI + scriptable headless 'zero exec' with stream-JSON I/O for CI). Sessions stored on disk, searchable, resumable, never uploaded. Extensible via MCP, plugins, hooks, skills, and specialist subagents. Reads AGENTS.md/ZERO.md hierarchically. Platform binaries ship as optional npm dependencies to avoid trust concerns.
+Zero targets the trust gap that keeps some developers from adopting terminal coding agents: hosted tools that upload context, opaque approval models, and single-vendor lock-in. Written in Go and installed via npm (wrapping optional platform binaries, a packaging choice made deliberately to limit supply-chain surface), the agent keeps everything local — sessions persist to disk, remain searchable and resumable, and never leave the machine. Its safety model is explicit rather than gradient: workspace-only file writes by default, individually gated shell, network, and elevated actions, secret redaction in context, and an autonomous mode that must be opted into. The interactive TUI covers daily use with plan rendering, image input, and slash commands, while a headless zero exec mode emits stream-JSON and proper exit codes so the same agent drives CI jobs, with a documented GitHub Action. Extensibility is layered: MCP servers and a built-in MCP server mode, plugins declaring tools and hooks in manifest files, lifecycle hooks on tool calls and session events, skills, and specialist subagents for named roles. Configuration and context come from hierarchical AGENTS.md and ZERO.md files. Model support spans 25+ providers including local Ollama and LM Studio, matching the local-first premise; the audience is developers who want Claude Code-class capability without ceding custody of their code or credentials.

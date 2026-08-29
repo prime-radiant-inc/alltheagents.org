@@ -2,7 +2,7 @@
 name: "CodeContests"
 slug: "codecontests"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "google-deepmind"
 license: "Apache-2.0"
 url: "https://github.com/google-deepmind/code_contests"
@@ -27,10 +27,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: "gs://dm-code_contests"
-maintained: "archived"
+maintained: "dead"
 sources:
   - "brandonhimpfen"
 what_makes_it_special: "A competitive programming dataset used to train DeepMind's AlphaCode, containing programming problems from multiple contest sites (Aizu, AtCoder, CodeChef, Codeforces, HackerEarth) with paired test cases and both correct/incorrect human solutions in multiple languages."
 ---
 
-A competitive programming dataset used to train DeepMind's AlphaCode, containing programming problems from multiple contest sites (Aizu, AtCoder, CodeChef, Codeforces, HackerEarth) with paired test cases and both correct/incorrect human solutions in multiple languages.
+CodeContests is the dataset DeepMind built to train and evaluate AlphaCode, the competitive-programming system published in Science in 2022. It aggregates problems from five contest platforms — Aizu, AtCoder, CodeChef, Codeforces, and HackerEarth — pairing each problem with test cases and both correct and incorrect human solutions in multiple languages, the negative examples being deliberate: models learn from failed submissions as well as correct ones. The roughly 3 GiB dataset lives on Google Cloud Storage as ContestProblem protocol buffers in Riegeli format with train/validation/test splits, and the repository provides C++ and Python utilities built with Bazel for loading, executing, and evaluating candidate solutions. The repository was archived on December 6, 2024 and is read-only.

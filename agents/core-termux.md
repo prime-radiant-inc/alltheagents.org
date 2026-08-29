@@ -2,12 +2,12 @@
 name: "core-termux"
 slug: "core-termux"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "DevCoreXOfficial"
 license: "MIT"
 url: "https://github.com/DevCoreXOfficial/core-termux"
 source_code_url: "https://github.com/DevCoreXOfficial/core-termux"
-source_available: True
+source_available: "True"
 platforms:
   - "IDE"
 first_released: "2023-12-06"
@@ -16,11 +16,11 @@ stars: "399"
 language: "Shell (Bash)"
 homepage: "https://devcorex-web.vercel.app/core-termux"
 mcp_support: null
-plugin_support: True
-claude_code_plugin: True
+plugin_support: "True"
+claude_code_plugin: "True"
 subagents: null
 hooks: null
-plan_mode: True
+plan_mode: "True"
 model_providers: "OpenAI-compatible (Cactus Engine, Ollama), Gemini, Qwen, Mistral"
 pricing: "Free / open-source"
 install_method: "curl -fsSL https://raw.githubusercontent.com/DevCoreXOfficial/core-termux/main/install.sh | bash"
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "Turns Android/Termux into a complete dev workstation with 30+ AI coding agents, modular install/update/uninstall, project scaffolding, voice-to-agent, second-brain memory system, and local LLM inference — all from one `core` CLI."
 ---
 
-Turns Android/Termux into a complete dev workstation with 30+ AI coding agents, modular install/update/uninstall, project scaffolding, voice-to-agent, second-brain memory system, and local LLM inference — all from one `core` CLI.
+Coding agents assume a laptop, which leaves phone-first developers and tinkerers without a path to use them. core-termux is a modular package manager for Termux that closes that gap: a single `core` CLI installs and updates language toolchains, databases, editors, and - through its `ai` module - 35-plus coding agent CLIs including Claude Code, Codex, Gemini CLI, OpenCode, Kimi Code, and Hermes Agent, each selectable with install flags. Beyond packaging, it adds a small built-in agent backed by a local OpenAI-compatible endpoint (Gemma via the Cactus Engine) with plan and build modes, voice-to-agent input, and a `core brain` markdown store for cross-session memory. Modules cover languages, databases, Neovim, shell tooling, and project scaffolding for common frameworks. It runs only on Termux and serves Android users building a mobile development environment.

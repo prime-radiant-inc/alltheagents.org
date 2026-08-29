@@ -2,12 +2,12 @@
 name: "AgentPack"
 slug: "agentpack"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "vishal2612200"
 license: "AGPL-3.0"
 url: "https://github.com/vishal2612200/agentpack"
 source_code_url: "https://github.com/vishal2612200/agentpack"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
 first_released: "2026-04-28"
@@ -15,12 +15,12 @@ current_release: "2026-08-19"
 stars: "24"
 language: "Python"
 homepage: "https://vishal2612200.github.io/agentpack/"
-mcp_support: True
-plugin_support: True
-claude_code_plugin: False
-subagents: null
-hooks: True
-plan_mode: null
+mcp_support: "True"
+plugin_support: "True"
+claude_code_plugin: "False"
+subagents: "no"
+hooks: "True"
+plan_mode: "no"
 model_providers: null
 pricing: "Free / open-source"
 install_method: "pipx install agentpack-cli (recommended), or npm install --global @vishal2612200/agentpack"
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "Local, agent-neutral reliability layer for AI software development — no repository upload required, everything stored locally under .agentpack/. Provides evidence-backed context selection with receipts, cited PR review artifacts, structured handoffs across sessions/agents, and a four-command workflow (work, learn, finish, doctor). Connects project evidence across multiple coding agents without replacing them."
 ---
 
-Local, agent-neutral reliability layer for AI software development — no repository upload required, everything stored locally under .agentpack/. Provides evidence-backed context selection with receipts, cited PR review artifacts, structured handoffs across sessions/agents, and a four-command workflow (work, learn, finish, doctor). Connects project evidence across multiple coding agents without replacing them.
+Coding agents lose time rediscovering project structure, ownership rules, and prior decisions on every task, and context injected by generic retrieval is rarely auditable. AgentPack keeps task state, repository rules, prior decisions, and review evidence under .agentpack/ and exposes them through a four-command loop (work, learn, finish, doctor) plus an MCP server that surfaces readiness, related files, and cited PR evidence to agents like Claude Code, Codex, and Cursor. Every context selection is recorded with a receipt explaining inclusion or omission, and a trust order keeps source files, diffs, and test results above any summary it produces. The project publishes measured numbers for what it can prove (file-selection recall and token precision) and explicitly declines to claim improvements it has not benchmarked. Python and JavaScript/TypeScript repositories get the strongest semantic mapping; coordination remains advisory by design.

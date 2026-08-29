@@ -19,8 +19,8 @@ mcp_support: "yes (transport not documented; MCP server at open-codereview.ai/do
 plugin_support: "yes (plugins for Claude Code, Codex, Cursor, OpenCode, VSCode extension)"
 claude_code_plugin: "yes (review slash commands plugin)"
 subagents: "yes (smart file bundling, each bundle runs as a sub-agent with isolated context)"
-hooks: null
-plan_mode: null
+hooks: "no"
+plan_mode: "no"
 model_providers: "OpenAI, Anthropic, BYOK (custom endpoints)"
 pricing: "open-source (Apache-2.0), BYOK"
 install_method: "npm"
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "Hybrid architecture code review tool combining deterministic engineering pipelines with an LLM agent, achieving higher precision than general-purpose agents while using ~1/9 of the tokens. Battle-tested at Alibaba scale, serving tens of thousands of developers."
 ---
 
-Hybrid architecture code review tool combining deterministic engineering pipelines with an LLM agent, achieving higher precision than general-purpose agents while using ~1/9 of the tokens. Battle-tested at Alibaba scale, serving tens of thousands of developers.
+Running a general-purpose coding agent over every pull request is expensive and imprecise, which is why Alibaba built OpenCodeReview: two years of internal use across tens of thousands of developers shaped a design it calls Deterministic Engineering x Agent Hybrid. Deterministic stages select files, bundle them intelligently (i18n properties grouped, each bundle an isolated sub-agent), match template rules, and position comments precisely; a scenario-tuned LLM agent with a distilled toolset reads full files, searches the codebase, and makes the judgment calls. The ocr CLI reads Git diffs or scans whole trees, and a Delegation Mode lets an existing agent (Claude Code, Codex, Cursor, OpenCode) run the review with its own model — no separate API key. Distribution covers npm, install scripts, release binaries, CI integrations (GitHub Actions, GitLab, Gerrit), a VS Code extension, MCP server, and per-harness plugins. Alibaba publishes AACR-Bench alongside, claiming higher precision at roughly one-ninth the token cost of general-purpose agents.

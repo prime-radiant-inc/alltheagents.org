@@ -7,7 +7,7 @@ maker: "Aider-AI"
 license: "Apache-2.0"
 url: "https://github.com/Aider-AI/aider"
 source_code_url: "https://github.com/Aider-AI/aider"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
 first_released: "2023-05-09"
@@ -38,4 +38,4 @@ sources:
 what_makes_it_special: "AI pair programming in the terminal. Features codebase mapping, git integration with auto-commits, automated linting/testing, voice-to-code, IDE integration via watch mode, image/web page context, and copy/paste to web chat. Works with 100+ code languages and almost any LLM."
 ---
 
-AI pair programming in the terminal. Features codebase mapping, git integration with auto-commits, automated linting/testing, voice-to-code, IDE integration via watch mode, image/web page context, and copy/paste to web chat. Works with 100+ code languages and almost any LLM.
+Aider works against existing codebases as well as greenfield projects: launch it in a repo, request changes in natural language, and it edits files directly while committing automatically with descriptive messages. It supports voice-to-code, image and web-page context, watch mode for IDE collaboration, and an extensive benchmarking culture — its leaderboard is a standard reference for model coding performance. Nearly any LLM works, including local models through Ollama or OpenRouter, with Claude, DeepSeek, and GPT models recommended. Installation is a pip one-liner via the aider-install bootstrapper, documentation lives at aider.chat, and the Apache-2.0 project remains one of the most starred AI coding tools on GitHub.

@@ -22,16 +22,16 @@ subagents: null
 hooks: null
 plan_mode: null
 model_providers: null
-pricing: null
+pricing: "freemium"
 install_method: "Install from the JetBrains Marketplace"
 docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: "https://plugins.jetbrains.com/plugin/27580-cybedefend"
-maintained: null
+maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI-powered coding agent and security scanner"
 ---
 
-AI-powered coding agent and security scanner
+CybeDefend ships a JetBrains plugin (IntelliJ, PyCharm, WebStorm and friends) whose agent can plan and implement changes, fix issues, and run security scans without leaving the IDE. The plugin pairs the coding agent with the vendor's vulnerability-scanning service, and its source is published on GitHub under the CybeDefend organization with a free pricing model. The product sits at the intersection of AI coding assistance and application security, aimed at teams that want automated fixes for findings their scanners produce. It is a young distribution: roughly 480 downloads since its April 2026 release, with the vendor's main platform hosted separately at cybedefend.com.

@@ -7,7 +7,7 @@ maker: "agentforce314"
 license: "MIT"
 url: "https://github.com/agentforce314/clawcodex"
 source_code_url: "https://github.com/agentforce314/clawcodex"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2026-04-20"
 current_release: "2026-08-17"
@@ -26,11 +26,11 @@ install_method: "pip"
 docs_url: "https://clawcodex.app"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
+download_url: "https://github.com/agentforce314/clawcodex/releases"
 maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Production-oriented Python rebuild of Claude Code (~310K lines); Terminal-Bench 2.1 score 80.9%; 30 model providers vs Claude Code's Claude-only limitation; /eco token compression (80% fewer Bash-output tokens); DeepSeek prefix cache (~230x cheaper); three UIs (TUI, Web, Desktop)."
 ---
 
-Production-oriented Python rebuild of Claude Code (~310K lines); Terminal-Bench 2.1 score 80.9%; 30 model providers vs Claude Code's Claude-only limitation; /eco token compression (80% fewer Bash-output tokens); DeepSeek prefix cache (~230x cheaper); three UIs (TUI, Web, Desktop).
+ClawCodex keeps Claude Code's architecture - the same query loop, tool set, two-tier state, and hooks - while removing its single-vendor constraint: thirty providers from Anthropic and OpenAI to DeepSeek, MiniMax, Ollama, and vLLM are supported, plus subscription OAuth for Claude Pro/Max and ChatGPT. Its /eco toggle applies deterministic output filters (failure-focused test summaries, git and package-manager ceremony stripping, log dedup) to cut Bash output tokens by roughly 80 percent, with full output teed to disk so nothing is lost. The agent core is shared by CLI, TUI, Desktop, and Web surfaces, and releases ship weekly with published benchmark claims. Engineers who want the Claude Code workflow on cheaper or local models are the target users.

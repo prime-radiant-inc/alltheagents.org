@@ -7,7 +7,7 @@ maker: "agentlas-ai"
 license: "Apache-2.0"
 url: "https://github.com/agentlas-ai/Agentlas-OS"
 source_code_url: "https://github.com/agentlas-ai/Agentlas-OS"
-source_available: True
+source_available: "True"
 platforms:
   - "Web"
 first_released: "2026-06-04"
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "Engine-neutral agent standard: agents are portable, owner-scoped packages (not trapped in one vendor workspace). Separates Build/Borrow/Own. Package contract is a 'method document' with routing cards, memory boundaries, verification gates. Local-first execution; works across multiple LLM hosts with the same agent package. Per-runtime plugin drivers for Claude Code, Codex, etc. Multi-agent teams with PM Orchestrator, Memory Curator, Policy Gate, QA."
 ---
 
-Engine-neutral agent standard: agents are portable, owner-scoped packages (not trapped in one vendor workspace). Separates Build/Borrow/Own. Package contract is a 'method document' with routing cards, memory boundaries, verification gates. Local-first execution; works across multiple LLM hosts with the same agent package. Per-runtime plugin drivers for Claude Code, Codex, etc. Multi-agent teams with PM Orchestrator, Memory Curator, Policy Gate, QA.
+Agent definitions are usually trapped inside a single vendor's workspace, so Agentlas OS specifies a package format that separates the LLM (the worker), the runtime (files, shell, browser facilities), and the agent package (procedures, judgement rules, I/O contracts, stop conditions). A package-contract.json plus a verification script enforce that every build emits required artifacts such as intake and output schemas, and provenance markers (extracted, read, graded, absent) keep package claims auditable. Runtime drivers adapt the same package to Claude Code, Codex, Gemini CLI/Antigravity, Cursor, OpenCode, OpenClaw, Hermes, Grok, Kimi, Goose, Ollama, and API hosts through slash commands like /agentlas build or Codex $hephaestus-* skills. Supporting subsystems include a meta-agent factory, a briefing interview engine that freezes work briefs after ambiguity gates, Stormbreaker verification-gated execution, and a local SQLite/FTS5 ontology runtime. Developers who want agent assets to outlive any one vendor workspace are the target audience.

@@ -7,7 +7,7 @@ maker: "tomlin7"
 license: "MIT"
 url: "https://github.com/tomlin7/biscuit"
 source_code_url: "https://github.com/tomlin7/biscuit"
-source_available: True
+source_available: "True"
 platforms:
   - "IDE"
 first_released: "2021-10-04"
@@ -15,18 +15,18 @@ current_release: "2026-08-05"
 stars: "264"
 language: "Python"
 homepage: "https://biscuit.tomlin7.com"
-mcp_support: False
-plugin_support: True
-claude_code_plugin: False
-subagents: False
-hooks: False
-plan_mode: False
+mcp_support: "False"
+plugin_support: "True"
+claude_code_plugin: "False"
+subagents: "False"
+hooks: "False"
+plan_mode: "False"
 model_providers: "Gemini, Anthropic, Ollama (via extension, deprecated)"
 pricing: "Free / open-source (MIT)"
 install_method: "pip install biscuit-editor; or uv tool install biscuit-editor"
 docs_url: "https://tomlin7.github.io/biscuit"
 plugin_docs_url: "https://github.com/tomlin7/biscuit-extensions"
-config_docs_url: null
+config_docs_url: "https://tomlin7.github.io/biscuit/getting-started/quick-start/"
 download_url: "https://pypi.org/project/biscuit-editor/"
 maintained: "active"
 sources:
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "Lightweight (<20MB), fast native code editor with AI agents, tree-sitter based code intelligence, DAP debugging, extension marketplace, ripgrep-based fast search, vim mode — all in a compact, extensible Python-based editor."
 ---
 
-Lightweight (<20MB), fast native code editor with AI agents, tree-sitter based code intelligence, DAP debugging, extension marketplace, ripgrep-based fast search, vim mode — all in a compact, extensible Python-based editor.
+Biscuit targets developers who want a fast, hackable editor without the gigabyte-scale installs of Electron IDEs. Built in Python on Tk, it ships tree-sitter syntax parsing, completions, LSP integration via extensions, ripgrep-powered search, git operations with split diffs, and a DAP debugging client in a package under 20MB installed with pip. Its AI layer supports Gemini and Anthropic models with a planning agent that wields ReadFile, EditFile, Grep, and RunTerminalCmd tools, plus file-attach chat context and LLM calls directly in terminals. An extension marketplace, GUI and CLI-based, adds language servers, debuggers, and themes, and vim mode plus DAP debugging round out the editing core. It is MIT-licensed, actively maintained, and aimed at developers who want a lightweight, extensible editor with built-in agentic assistance.

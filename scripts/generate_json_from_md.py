@@ -60,6 +60,8 @@ if os.path.exists(source_urls_path):
 
 agents_data = []
 for md_path in sorted(glob.glob(os.path.join(AGENTS_DIR, "*.md"))):
+    if os.path.basename(md_path) == "_TEMPLATE.md":
+        continue  # the schema template is documentation, not an entry
     with open(md_path, encoding="utf-8") as f:
         content = f.read()
     fm, body = parse_frontmatter(content)

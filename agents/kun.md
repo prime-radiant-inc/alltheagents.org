@@ -7,7 +7,7 @@ maker: "KunAgent"
 license: "PolyForm Noncommercial 1.0.0"
 url: "https://github.com/KunAgent/Kun"
 source_code_url: "https://github.com/KunAgent/Kun"
-source_available: True
+source_available: "True"
 platforms:
   - "Desktop"
 first_released: "2026-05-21"
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "Local-first AI agent workspace with a dual interface — desktop GUI and terminal TUI share a single local 'kun serve' runtime (not two separate sessions). Evidence-based delivery: plans, todos, tool calls, file changes, browser/terminal results, and approvals are all linked to tasks. Two-mode workflow: Code (software delivery with Design canvas) and Work (writing/docs/presentations). Plans persist into version control. Supports Scheduled tasks, Loops, Hooks, MCP, Skills, and installable extensions."
 ---
 
-Local-first AI agent workspace with a dual interface — desktop GUI and terminal TUI share a single local 'kun serve' runtime (not two separate sessions). Evidence-based delivery: plans, todos, tool calls, file changes, browser/terminal results, and approvals are all linked to tasks. Two-mode workflow: Code (software delivery with Design canvas) and Work (writing/docs/presentations). Plans persist into version control. Supports Scheduled tasks, Loops, Hooks, MCP, Skills, and installable extensions.
+Kun treats agent work as evidence-based delivery rather than chat: tasks move through goal clarification, planning, execution, and inspection of diffs, tests, and reviews, with plans and todos saved into the project for version control. The Code mode covers file editing, terminals, git worktrees, and review, while the Work mode handles markdown, PDF/Office analysis, spreadsheets, and outline-to-presentation output. Automation comes from scheduled tasks, loops, hooks, MCP, skills, and installable extensions, with provider presets from Claude and Codex through Ollama, DeepSeek, and Kimi. It is licensed PolyForm Noncommercial 1.0.0, so individuals and researchers use it free while commercial deployment requires a separate agreement.

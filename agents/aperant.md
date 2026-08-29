@@ -2,7 +2,7 @@
 name: "Aperant"
 slug: "aperant"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "AndyMik90"
 license: "AGPL-3.0"
 url: "https://github.com/AndyMik90/Aperant"
@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "Autonomous multi-agent coding framework that plans, builds, and validates software using Claude Code. It runs up to 12 parallel agents in isolated git worktrees with self-validating QA loops, AI-powered merge conflict resolution, and a Kanban board for visual task management."
 ---
 
-Autonomous multi-agent coding framework that plans, builds, and validates software using Claude Code. It runs up to 12 parallel agents in isolated git worktrees with self-validating QA loops, AI-powered merge conflict resolution, and a Kanban board for visual task management.
+Aperant (formerly Auto Claude) addresses the throughput ceiling of single-agent coding: it decomposes a goal into tasks, runs them concurrently in isolated worktrees, validates each with automated QA, and merges results with AI-assisted conflict resolution, holding session memory across runs and integrating GitHub, GitLab, and Linear. It drives the Claude Code CLI rather than bundling its own model access, so users need a Claude Pro/Max subscription. The AGPL-3.0 desktop app is free with prebuilt binaries for all three platforms; version 3.0 is a ground-up rebuild in a separate repo with cloud features, placing 2.x in maintenance mode with code PRs paused. Around 14.5k stars and an active Discord community, with docs in the repo guides/ and at aperant.com.

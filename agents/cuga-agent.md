@@ -7,7 +7,7 @@ maker: "cuga-project"
 license: "Apache-2.0"
 url: "https://github.com/cuga-project/cuga-agent"
 source_code_url: "https://github.com/cuga-project/cuga-agent"
-source_available: True
+source_available: "True"
 platforms:
   - "Web"
 first_released: "2025-09-11"
@@ -31,7 +31,7 @@ download_url: null
 maintained: "active"
 sources:
   - "github_topic"
-what_makes_it_special: "Open-source generalist agent harness ranked #1 on AppWorld and WebArena benchmarks; enterprise-first design with policy system (5 policy types) and HITL approval gates; hybrid API+browser execution in a single workflow; built-in RAG via Docling; IBM Research backed."
+what_makes_it_special: "\"Open-source generalist agent harness ranked"
 ---
 
-Open-source generalist agent harness ranked #1 on AppWorld and WebArena benchmarks; enterprise-first design with policy system (5 policy types) and HITL approval gates; hybrid API+browser execution in a single workflow; built-in RAG via Docling; IBM Research backed.
+CUGA, developed at IBM Research, targets enterprises that need agents to operate web applications and APIs under policy constraints rather than a developer's local code editor. Its architecture composes tools from OpenAPI specs, MCP servers, and LangChain integrations, layers a five-type policy system and human-in-the-loop approval gates over execution, and can delegate to specialized sub-agents through a supervisor that mixes local and remote A2A agents. The project's benchmark record (top of AppWorld from July 2025 and WebArena from February 2025) anchors its credibility, and deployment paths range from a local uv-managed install to Docker and Helm charts on Kubernetes. Users are enterprise automation teams, with models provisioned through OpenAI-compatible endpoints, watsonx, and other providers.

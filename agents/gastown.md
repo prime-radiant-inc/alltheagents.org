@@ -19,18 +19,18 @@ plugin_support: "yes (plugins/ directory and plugin-system design doc)"
 claude_code_plugin: "yes (Claude Code is a primary runtime; uses .claude/settings.json hooks)"
 subagents: "yes (Polecats — worker agents with persistent identity, spawned for tasks)"
 hooks: "yes (git worktree-based persistent storage; lifecycle hooks for session events)"
-plan_mode: null
+plan_mode: "no"
 model_providers: "claude, gemini, codex, kiro, cursor, auggie, amp, opencode, copilot, pi, omp; custom agents configurable"
 pricing: "open-source (MIT)"
 install_method: "brew"
-docs_url: null
+docs_url: "https://github.com/gastownhall/gastown/blob/main/docs/"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
+download_url: "https://github.com/gastownhall/gastown/releases"
 maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Multi-agent orchestration system that coordinates 20-30+ AI coding agents working on different tasks simultaneously, using git-backed hooks for persistent work state that survives agent crashes and restarts, with built-in merge queue, scheduling, escalation, and federation features."
 ---
 
-Multi-agent orchestration system that coordinates 20-30+ AI coding agents working on different tasks simultaneously, using git-backed hooks for persistent work state that survives agent crashes and restarts, with built-in merge queue, scheduling, escalation, and federation features.
+Coordinating dozens of coding agents by hand collapses quickly: sessions die, work is lost, and nobody merges anything. Gastown, from steveyegge and now under gastownhall, organizes a workspace into Rigs staffed by persistent worker agents (Polecats) and a Mayor — typically a Claude Code instance — that decomposes work into convoys tracked in the Beads issue ledger. State is git-backed so crashes and restarts lose nothing, a Refinery merge queue serializes landing, and Witness/Deacon watchdogs plus scheduling and federation (Wasteland via DoltHub) handle the operational surface. It is Go, MIT-licensed, installable via brew or go install, and at 17.8k stars with 7,770 commits it is one of the most active multi-agent orchestrators in the ecosystem.

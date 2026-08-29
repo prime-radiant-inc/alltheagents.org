@@ -7,25 +7,25 @@ maker: "ZaxbyHub"
 license: "MIT"
 url: "https://github.com/ZaxbyHub/opencode-swarm"
 source_code_url: "https://github.com/ZaxbyHub/opencode-swarm"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2026-01-27"
 current_release: "2026-08-20"
 stars: "447"
 language: "TypeScript"
-homepage: null
-mcp_support: null
-plugin_support: True
-claude_code_plugin: null
-subagents: True
-hooks: True
-plan_mode: True
+homepage: "https://swarmai.site/"
+mcp_support: "no"
+plugin_support: "True"
+claude_code_plugin: "no"
+subagents: "True"
+hooks: "True"
+plan_mode: "True"
 model_providers: "OpenCode Zen, Anthropic, Google, Z.ai, MiniMax, Kimi"
 pricing: "Free (MIT); works with OpenCode Zen's free model roster"
 install_method: "bunx opencode-swarm install (requires Bun) or npm install -g opencode-swarm && opencode-swarm install"
 docs_url: "https://github.com/ZaxbyHub/opencode-swarm/blob/main/docs/index.md"
-plugin_docs_url: null
-config_docs_url: null
+plugin_docs_url: "https://github.com/ZaxbyHub/opencode-swarm/tree/main/docs"
+config_docs_url: "https://github.com/ZaxbyHub/opencode-swarm/blob/main/docs/CONFIGURATION.md"
 download_url: "https://www.npmjs.com/package/opencode-swarm"
 maintained: "active"
 sources:
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "OpenCode plugin that turns one AI coding session into an architect-led team of 20 specialized agents with a gated pipeline (code never ships without reviewer + test engineer approval), shell write detection, scope enforcement, resumable sessions, built-in security scanning, and context budget guard"
 ---
 
-OpenCode plugin that turns one AI coding session into an architect-led team of 20 specialized agents with a gated pipeline (code never ships without reviewer + test engineer approval), shell write detection, scope enforcement, resumable sessions, built-in security scanning, and context budget guard
+A single coding agent grades its own homework: it writes the code, decides the work is done, and moves on. opencode-swarm restructures the session into a hub-and-spoke swarm where an architect plans, a coder implements, and dedicated reviewer, test-engineer, critic, security, and documentation agents gate the result through a pipeline that blocks shipping until every required approval lands. State persists in .swarm/ so interrupted sessions resume, shell writes are detected and policed against scope, and SAST plus secrets scanning run before completion; thirteen language profiles tune behavior per stack. Installation is one command (bunx opencode-swarm install) and it works with OpenCode Zen's free model roster without an API key, or with any BYO provider. With 4,300 commits, 6,000+ tests, and an active release cadence, it is one of the heavier OpenCode plugins. Teams that want enforceable multi-agent review discipline on top of OpenCode are the audience.

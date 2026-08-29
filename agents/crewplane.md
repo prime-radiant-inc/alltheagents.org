@@ -7,7 +7,7 @@ maker: "crewplaneai"
 license: "Apache-2.0"
 url: "https://github.com/crewplaneai/crewplane"
 source_code_url: "https://github.com/crewplaneai/crewplane"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
   - "IDE"
@@ -18,10 +18,10 @@ language: "Python 3.13+"
 homepage: null
 mcp_support: null
 plugin_support: null
-claude_code_plugin: False
+claude_code_plugin: "False"
 subagents: null
 hooks: null
-plan_mode: True
+plan_mode: "True"
 model_providers: "Claude Code, Codex, Gemini, Copilot CLI, any CLI-based tool; built-in mock provider for deterministic testing"
 pricing: "Free / open-source (Apache-2.0)"
 install_method: "uv tool install crewplane (recommended); or python -m pip install crewplane; or npm install -g crewplane. Also supports pipx, Homebrew, and an install script. Crewplane does not install or manage provider CLIs or credentials."
@@ -35,4 +35,4 @@ sources:
 what_makes_it_special: "Provider-neutral control plane for human-designed coding-agent workflows; turns AI agent calls into structured, repeatable DAGs defined in Markdown (versioned, reviewable in PRs, shareable); CLI-first design invokes provider CLIs directly instead of wrapping them in vendor SDKs - if a tool has a command line, Crewplane can orchestrate it; saves every input, output, and decision to disk and resumes from validated stage boundaries on failure; mix-and-match providers within a single workflow for provider handoffs; mock mode for zero-config first runs without API keys; optional tmux live dashboard for real-time DAG progress and log tails."
 ---
 
-Provider-neutral control plane for human-designed coding-agent workflows; turns AI agent calls into structured, repeatable DAGs defined in Markdown (versioned, reviewable in PRs, shareable); CLI-first design invokes provider CLIs directly instead of wrapping them in vendor SDKs - if a tool has a command line, Crewplane can orchestrate it; saves every input, output, and decision to disk and resumes from validated stage boundaries on failure; mix-and-match providers within a single workflow for provider handoffs; mock mode for zero-config first runs without API keys; optional tmux live dashboard for real-time DAG progress and log tails.
+Crewplane targets teams whose coding-agent usage has outgrown ad-hoc prompting but who do not want a vendor's hosted orchestration layer. Workflows are declared in Markdown as DAGs of stages, agent assignments, prompts, handoffs, and review gates; Crewplane validates them, routes work to CLIs like Claude Code and Codex while leaving each agent's models, tools, and MCP servers under native control, and records per-stage artifacts for resumption and audit. The CLI-first design keeps definitions in git, so process changes go through normal code review. Its audience is engineering teams on Linux, macOS, or WSL who want repeatable, observable agent pipelines without giving up control of the underlying agents.

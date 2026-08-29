@@ -5,8 +5,8 @@ eleventyComputed:
 ---
 <section class="hero">
   <h1>Coding Agent Harness Census</h1>
-  <p class="hero-subtitle">The maintained catalog of every coding agent harness.</p>
-  <p class="hero-count"><strong>{{ collections.agent | size }}</strong> agents catalogued and counting.</p>
+  <p class="hero-subtitle">The maintained catalog of every coding agent harness, multiplexer, and agent SDK.</p>
+  <p class="hero-count"><strong>{{ collections.agent | size }}</strong> agents · <strong>{{ collections.multiplexer | size }}</strong> multiplexers · <strong>{{ collections["agent-sdk"] | size }}</strong> SDKs catalogued.</p>
 </section>
 
 <section class="search-section">

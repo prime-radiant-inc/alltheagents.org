@@ -2,24 +2,24 @@
 name: "R2E-Gym"
 slug: "r2e-gym"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "R2E-Gym"
 license: "Apache-2.0"
 url: "https://github.com/R2E-Gym/R2E-Gym"
 source_code_url: "https://github.com/R2E-Gym/R2E-Gym"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2025-04-06"
 current_release: "2025-07-13"
 stars: "321"
 language: "Python"
 homepage: "https://r2e-gym.github.io/"
-mcp_support: False
-plugin_support: False
-claude_code_plugin: False
+mcp_support: "False"
+plugin_support: "False"
+claude_code_plugin: "False"
 subagents: null
-hooks: False
-plan_mode: False
+hooks: "False"
+plan_mode: "False"
 model_providers: "Anthropic (Claude 3.5 Sonnet), OpenAI (GPT-4o), vLLM-hosted R2E-Gym models, DeepSWE"
 pricing: "Free/open-source (Apache-2.0); cost depends on LLM API provider"
 install_method: "Install uv; uv venv; activate; uv sync && uv pip install -e ."
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Largest procedurally curated environment (8.1K+ problems across 13 repos) for training real-world SWE agents. Introduces SWE-GEN (synthetic environment curation from commits, no human PRs/tests needed) and Hybrid Test-time Scaling (execution-based + execution-free verifiers). First open-weight SWE agent to reach 51% on SWE-Bench Verified, competitive with proprietary models like o1."
 ---
 
-Largest procedurally curated environment (8.1K+ problems across 13 repos) for training real-world SWE agents. Introduces SWE-GEN (synthetic environment curation from commits, no human PRs/tests needed) and Hybrid Test-time Scaling (execution-based + execution-free verifiers). First open-weight SWE agent to reach 51% on SWE-Bench Verified, competitive with proprietary models like o1.
+R2E-Gym attacks the data bottleneck in training software-engineering agents: curated benchmarks like SWE-bench depend on human-written PRs and tests, which cap scale. Its SWE-GEN recipe instead synthesizes task environments directly from repository commits — Dockerized environments, executable tests, and natural-language task descriptions — producing over 8,100 problems across 13 real repos without human curation. On top of the environment it provides an agent harness (RepoEnv plus agent APIs), parallelized trajectory collection, and an SFT training pipeline that produced open-weight agents evaluated on SWE-bench Verified with hybrid test-time scaling. The pipeline and recipes were released by UC Berkeley and ANU researchers and published at COLM 2025, and Agentica used them to train the DeepSWE models. Machine-learning researchers use it to generate training environments and reproduce reinforcement-learning and SFT pipelines rather than as a day-to-day coding tool.

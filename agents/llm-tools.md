@@ -2,24 +2,24 @@
 name: "Llm-Tools"
 slug: "llm-tools"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "gkorepanov"
 license: "MIT"
 url: "https://github.com/gkorepanov/llm-tools"
 source_code_url: "https://github.com/gkorepanov/llm-tools"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2023-05-11"
 current_release: "2025-12-06"
 stars: "5"
 language: "Python"
 homepage: null
-mcp_support: False
-plugin_support: False
-claude_code_plugin: False
-subagents: False
-hooks: False
-plan_mode: False
+mcp_support: "False"
+plugin_support: "False"
+claude_code_plugin: "False"
+subagents: "False"
+hooks: "False"
+plan_mode: "False"
 model_providers: "LangChain LLMs"
 pricing: "Free / open-source (MIT)"
 install_method: null
@@ -27,10 +27,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: "https://github.com/gkorepanov/llm-tools"
-maintained: "abandoned"
+maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Ad-hoc coding tools for working with LLMs, including a production-ready async text streaming wrapper around LangChain LLMs and tools for translating UI interface texts to multiple languages. Minimal activity (28 commits)."
 ---
 
-Ad-hoc coding tools for working with LLMs, including a production-ready async text streaming wrapper around LangChain LLMs and tools for translating UI interface texts to multiple languages. Minimal activity (28 commits).
+The repository gathers two utilities its author needed while working with LLMs: an async streaming wrapper that delivers tokens from LangChain chat models incrementally in production settings, and tooling that translates UI interface strings across languages. Neither implements an agent loop, file editing, or any coding-harness behavior; with 28 commits, one stalled PR, and no releases, the repository is a dormant personal toolbox rather than a maintained project.

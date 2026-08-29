@@ -7,7 +7,7 @@ maker: "madarco"
 license: "MIT"
 url: "https://github.com/madarco/agentbox"
 source_code_url: "https://github.com/madarco/agentbox"
-source_available: True
+source_available: "True"
 platforms:
   - "IDE"
   - "Web"
@@ -16,13 +16,13 @@ current_release: "2026-08-03"
 stars: "367"
 language: "TypeScript"
 homepage: "https://agent-box.sh"
-mcp_support: null
-plugin_support: True
-claude_code_plugin: True
-subagents: null
-hooks: null
-plan_mode: null
-model_providers: null
+mcp_support: "no"
+plugin_support: "True"
+claude_code_plugin: "True"
+subagents: "no"
+hooks: "no"
+plan_mode: "no"
+model_providers: "Claude Code, Codex, OpenCode (agent CLIs hosted per box)"
 pricing: "Free / open-source (MIT)"
 install_method: "npm -g install @madarco/agentbox, then agentbox install"
 docs_url: "https://agent-box.sh/docs"
@@ -35,4 +35,4 @@ sources:
 what_makes_it_special: "Runs multiple coding agents in parallel in sandboxed VMs/containers with one command; teleports entire project (skills, plugins, settings) into dedicated VM/container; sub-second startup from checkpoints; full computer per box (browser, screen sharing, persistent shells, warmed-up VS Code/Cursor); git credentials stay local with permission-gated pushes; supports local Docker and multiple cloud providers (Hetzner, Daytona, Vercel, E2B, DigitalOcean)."
 ---
 
-Runs multiple coding agents in parallel in sandboxed VMs/containers with one command; teleports entire project (skills, plugins, settings) into dedicated VM/container; sub-second startup from checkpoints; full computer per box (browser, screen sharing, persistent shells, warmed-up VS Code/Cursor); git credentials stay local with permission-gated pushes; supports local Docker and multiple cloud providers (Hetzner, Daytona, Vercel, E2B, DigitalOcean).
+Running three coding agents on one laptop means shared credentials, clobbered working trees, and contention, so AgentBox gives each agent its own box: a sandboxed VM or container created with one command and loaded with the project's skills, plugins, and settings via a teleport step. Checkpoints make box startup sub-second and auto-pause idle boxes, each box is a full computer with a browser, persistent shells, screen sharing over noVNC, and warmed-up VS Code or Cursor, while git credentials stay on the host with pushes gated behind permissions. Boxes run on local Docker or OrbStack or on cloud providers including Hetzner, Daytona, Vercel, E2B, and DigitalOcean. Developers running several agents in parallel who want isolation without workflow friction are the users.

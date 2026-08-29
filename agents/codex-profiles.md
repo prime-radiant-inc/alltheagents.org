@@ -2,12 +2,12 @@
 name: "codex-profiles"
 slug: "codex-profiles"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "Ducksss"
 license: "MIT"
 url: "https://github.com/Ducksss/codex-profiles"
 source_code_url: "https://github.com/Ducksss/codex-profiles"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
   - "Desktop"
@@ -18,7 +18,7 @@ language: "Bash"
 homepage: "https://ducksss.github.io/codex-profiles/"
 mcp_support: null
 plugin_support: null
-claude_code_plugin: False
+claude_code_plugin: "False"
 subagents: null
 hooks: null
 plan_mode: null
@@ -36,4 +36,4 @@ sources:
 what_makes_it_special: "Isolates CODEX_HOME and Electron user data per named profile without copying, parsing, or migrating tokens; on macOS opens separate named ChatGPT windows with their own local state using the original signed ChatGPT.app (no cloning/patching/re-signing); --share-with shares config selectively without sharing auth or runtime state; workspace binding auto-selects profile per directory; dependency-free single Bash script. Community-maintained, not affiliated with OpenAI."
 ---
 
-Isolates CODEX_HOME and Electron user data per named profile without copying, parsing, or migrating tokens; on macOS opens separate named ChatGPT windows with their own local state using the original signed ChatGPT.app (no cloning/patching/re-signing); --share-with shares config selectively without sharing auth or runtime state; workspace binding auto-selects profile per directory; dependency-free single Bash script. Community-maintained, not affiliated with OpenAI.
+Codex-profiles solves a workflow problem for people who use Codex across separate contexts — personal, work, client, and test accounts — where mixing conversation history, config, and authentication state causes friction. A wrapper maps each profile name to its own CODEX_HOME directory and, on macOS, to a named ChatGPT Desktop window with isolated Electron user data, using the original signed application binary rather than a clone. The script deliberately never reads, copies, or migrates auth.json, so account separation is at the local-state level rather than a security boundary, and the README states this explicitly. Workspace binding selects a profile automatically per project directory, --share-with shares specific configuration without sharing authentication, and a doctor command verifies the setup. It is distributed as a single dependency-free Bash script via npm, Homebrew, curl, and Nix.

@@ -2,12 +2,12 @@
 name: "deep-swe"
 slug: "deep-swe"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "datacurve-ai"
 license: "Apache-2.0"
 url: "https://github.com/datacurve-ai/deep-swe"
 source_code_url: "https://github.com/datacurve-ai/deep-swe"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2026-05-15"
 current_release: "2026-08-06"
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Benchmark for frontier coding agents on original, long-horizon software engineering tasks drawn from active open-source repos (113 tasks across 5 languages). Real-world tasks rather than synthetic/curated examples, designed for multi-step sustained engineering. Behavior-based verification: accepts any solution with correct observable behavior regardless of internal structure/symbol names - reference patches held out and never used at grading time. Uses a fork of Harbor (Pier) with per-agent network allowlists for air-gapped tasks; agents work in a sandbox and commits extracted/graded in a pristine container. Runs model-agnostic mini-swe-agent plus native CLI agents (Claude Code, Codex, Gemini CLI, opencode), with optional parallel sandboxes on Modal."
 ---
 
-Benchmark for frontier coding agents on original, long-horizon software engineering tasks drawn from active open-source repos (113 tasks across 5 languages). Real-world tasks rather than synthetic/curated examples, designed for multi-step sustained engineering. Behavior-based verification: accepts any solution with correct observable behavior regardless of internal structure/symbol names - reference patches held out and never used at grading time. Uses a fork of Harbor (Pier) with per-agent network allowlists for air-gapped tasks; agents work in a sandbox and commits extracted/graded in a pristine container. Runs model-agnostic mini-swe-agent plus native CLI agents (Claude Code, Codex, Gemini CLI, opencode), with optional parallel sandboxes on Modal.
+DeepSWE is a benchmark for measuring frontier coding agents on realistic, long-horizon software engineering work. Each of its 113 tasks comes from a live open-source repository — spanning TypeScript, Go, Python, JavaScript, and Rust — and ships as a Harbor-format package with an isolated Docker environment and a programmatic verifier, so scores reflect whether real tests pass rather than model self-assessment. The companion Pier harness executes candidate agents (mini-swe-agent, Claude Code, Codex, Gemini CLI, opencode) with per-agent network allowlists, optionally on Modal sandboxes. Datacurve publishes the leaderboard from Pier runs of mini-swe-agent; benchmark consumers are AI labs and teams comparing agents under identical, reproducible conditions.

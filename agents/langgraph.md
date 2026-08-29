@@ -2,12 +2,12 @@
 name: "LangGraph"
 slug: "langgraph"
 layout: "agent.njk"
-category: "agent"
+category: "agent-sdk"
 maker: null
 license: null
 url: "https://langchain-ai.github.io/langgraph/"
 source_code_url: null
-source_available: True
+source_available: "True"
 platforms: []
 first_released: null
 current_release: null
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Low-level orchestration framework and runtime for long-running, stateful agents; combines deterministic and agentic steps in one graph; durable execution, streaming, human-in-the-loop, persistence, comprehensive memory; inspired by Pregel and Apache Beam; fine-grained control focused on agent orchestration."
 ---
 
-Low-level orchestration framework and runtime for long-running, stateful agents; combines deterministic and agentic steps in one graph; durable execution, streaming, human-in-the-loop, persistence, comprehensive memory; inspired by Pregel and Apache Beam; fine-grained control focused on agent orchestration.
+LangGraph exists because prompt-loop agents fail at production concerns: they lose state across restarts, cannot pause for human approval, and interleave poorly with deterministic logic. It represents workflows as graphs where nodes share state, cycles are first-class, and every step checkpoints to durable storage, so long-running agents survive crashes and resume exactly. Human-in-the-loop interrupts, time-travel debugging, and persistence make it the substrate teams choose when building their own coding agents rather than adopting one. Klarna, Uber, LinkedIn, Elastic, Replit, and Cloudflare have publicly described using it, primarily from Python with a JavaScript port alongside.

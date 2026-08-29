@@ -7,7 +7,7 @@ maker: "YaoApp"
 license: "Apache-2.0 (modified, commercial restrictions)"
 url: "https://github.com/YaoApp/yao"
 source_code_url: "https://github.com/YaoApp/yao"
-source_available: True
+source_available: "True"
 platforms:
   - "Web"
   - "Desktop"
@@ -23,11 +23,11 @@ subagents: "no"
 hooks: "no"
 plan_mode: "no"
 model_providers: "OpenAI, DeepSeek"
-pricing: null
+pricing: "open-source"
 install_method: "binary"
 docs_url: "https://yaoagents.com/docs"
-plugin_docs_url: null
-config_docs_url: null
+plugin_docs_url: "https://yaoagents.com/docs"
+config_docs_url: "https://yaoagents.com/docs"
 download_url: "https://yaoagents.com/download"
 maintained: "active"
 sources:
@@ -35,4 +35,4 @@ sources:
 what_makes_it_special: "Self-hosted, local-first, own-your-data agent platform where agents run on your own devices across desktop/mobile/browser/API. Workspaces are isolated, conversations become tasks on a board, and expert/task agents integrate into apps via Open API (SSE and WebSocket)."
 ---
 
-Self-hosted, local-first, own-your-data agent platform where agents run on your own devices across desktop/mobile/browser/API. Workspaces are isolated, conversations become tasks on a board, and expert/task agents integrate into apps via Open API (SSE and WebSocket).
+Yao began as a Go application engine and has been repositioned as a self-hosted, local-first AI agent platform where agents run on the owner's own devices and data stays local. Each workspace is isolated, and work accumulated across a user's computers accumulates into documents that form a knowledge base readable by agents on any node. Conversations become tasks on a board, and tasks repeated over time grow into purpose-built agents that can connect to apps or be shared, with expert and task agents integrated through an Open API supporting SSE and WebSocket. MCP registry integration and an integrated DeepSeek harness are built in, and access spans desktop, mobile, browser, and API, with Yao Desktop on yaoagents.com. The project is open source (Go), actively developed, with a 7.8k-star community and Discord support.

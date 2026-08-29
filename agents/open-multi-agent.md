@@ -7,7 +7,7 @@ maker: "open-multi-agent"
 license: "MIT"
 url: "https://github.com/open-multi-agent/open-multi-agent"
 source_code_url: "https://github.com/open-multi-agent/open-multi-agent"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2026-03-31"
 current_release: "2026-08-19"
@@ -24,13 +24,13 @@ model_providers: "OpenAI, Anthropic, Google Gemini, DeepSeek, Ollama, OpenAI-com
 pricing: "open-source"
 install_method: "npm"
 docs_url: "https://open-multi-agent.com/getting-started/introduction/"
-plugin_docs_url: null
-config_docs_url: null
-download_url: null
+plugin_docs_url: "https://github.com/open-multi-agent/open-multi-agent/tree/main/docs"
+config_docs_url: "https://open-multi-agent.com/getting-started/introduction/"
+download_url: "https://www.npmjs.com/package/@open-multi-agent/core"
 maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "'Describe the goal, not the graph' — the coordinator agent builds the task DAG at runtime from the goal rather than hand-wiring workflow graphs. Controlled execution lets users preview/approve/durably suspend plans, task dispatches, and tool calls; approved plans can be frozen for deterministic replay. Built-in offline Run Viewer, resume from checkpoints, append-only plan repair, and air-gapped/offline capability."
 ---
 
-'Describe the goal, not the graph' — the coordinator agent builds the task DAG at runtime from the goal rather than hand-wiring workflow graphs. Controlled execution lets users preview/approve/durably suspend plans, task dispatches, and tool calls; approved plans can be frozen for deterministic replay. Built-in offline Run Viewer, resume from checkpoints, append-only plan repair, and air-gapped/offline capability.
+Multi-agent frameworks typically require developers to hand-wire workflow graphs before knowing what the work actually requires, which makes them brittle for open-ended goals. Open Multi-Agent (OMA), a TypeScript library for Node.js backends, replaces the fixed graph with a coordinator that plans a task DAG at runtime from a plain goal, then executes it with a deterministic scheduler. Every layer is inspectable: plans, task dispatches, and tool calls can be previewed and approved, runs durably suspend and resume, and approved plans freeze for replay through an offline Run Viewer with span waterfalls. Reliability features — checkpoint/resume, append-only plan repair, retries, loop detection, token and cost budgets, multi-agent consensus verification — target production use, and external agents like Claude Code, Gemini CLI, and Codex join the same DAG via process and ACP backends. It installs as @open-multi-agent/core or via a create-oma-app scaffold and suits backend teams building reliable multi-agent systems in TypeScript.

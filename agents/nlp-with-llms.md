@@ -2,12 +2,12 @@
 name: "Nlp-With-Llms"
 slug: "nlp-with-llms"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "jonkrohn"
 license: "MIT"
 url: "https://github.com/jonkrohn/NLP-with-LLMs"
 source_code_url: "https://github.com/jonkrohn/NLP-with-LLMs"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2023-04-26"
 current_release: "2024-05-22"
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Educational repository accompanying Jon Krohn's ODSC East 2023 half-day training on NLP with GPT-4 and other LLMs (training to deployment with Hugging Face and PyTorch Lightning); includes Jupyter Notebooks for Google Colab and .py scripts; features unique 'repo art' generated using Midjourney v5."
 ---
 
-Educational repository accompanying Jon Krohn's ODSC East 2023 half-day training on NLP with GPT-4 and other LLMs (training to deployment with Hugging Face and PyTorch Lightning); includes Jupyter Notebooks for Google Colab and .py scripts; features unique 'repo art' generated using Midjourney v5.
+The repository holds Jupyter notebooks and Python scripts supporting Jon Krohn's ODSC East 2023 half-day training on NLP with GPT-4-class models, from training through deployment with Hugging Face and PyTorch Lightning. Code is organized for Google Colab execution with command-line alternatives, and the README cautions that the material accompanies live instruction rather than standing alone. Dependency management uses Poetry, and the repo includes setup instructions and generated repo art. Activity is limited to the 2023 course window with minimal subsequent maintenance, and the MIT license permits reuse in other training contexts.

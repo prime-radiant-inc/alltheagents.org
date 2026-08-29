@@ -2,7 +2,7 @@
 name: "Llmstack"
 slug: "llmstack"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "trypromptly"
 license: "PolyForm Noncommercial (custom, source-available)"
 url: "https://github.com/trypromptly/LLMStack"
@@ -14,8 +14,8 @@ current_release: "2024-12-11"
 stars: "2309"
 language: "Python"
 homepage: "https://llmstack.trypromptly.com"
-mcp_support: null
-plugin_support: null
+mcp_support: "no"
+plugin_support: "yes"
 claude_code_plugin: "no"
 subagents: null
 hooks: null
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "No-code platform for building generative AI agents, workflows, and chatbots by chaining multiple LLMs. Features multi-tenant support, data import/vectorization out-of-the-box, Slack/Discord triggers, and on-premise or cloud deployment — all without coding."
 ---
 
-No-code platform for building generative AI agents, workflows, and chatbots by chaining multiple LLMs. Features multi-tenant support, data import/vectorization out-of-the-box, Slack/Discord triggers, and on-premise or cloud deployment — all without coding.
+LLMStack targets organizations that want production AI workflows without an engineering team maintaining inference plumbing: operators connect data sources (CSV, PDF, Google Drive, Notion, websites), chain multiple LLM providers into processing pipelines, and expose the result as APIs, chatbots, or Slack/Discord-triggered automations. Multi-tenant organization and user management make it viable for internal tooling across teams, and multimedia generation (text, images, video, audio) extends it beyond text chains. Deployment is self-hosted via pip or the vendor's Promptly cloud. Its PolyForm-style noncommercial license keeps the source visible while restricting commercial self-hosting.

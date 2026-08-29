@@ -2,7 +2,7 @@
 name: "Ai-Agent-Test"
 slug: "ai-agent-test"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "sfelkner"
 license: null
 url: "https://github.com/sfelkner/ai-agent-test"
@@ -14,12 +14,12 @@ current_release: "2024-12-07"
 stars: null
 language: "HTML"
 homepage: null
-mcp_support: null
-plugin_support: null
-claude_code_plugin: null
-subagents: null
-hooks: null
-plan_mode: null
+mcp_support: "no"
+plugin_support: "no"
+claude_code_plugin: "no"
+subagents: "no"
+hooks: "no"
+plan_mode: "no"
 model_providers: null
 pricing: null
 install_method: null
@@ -27,10 +27,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: "https://github.com/sfelkner/ai-agent-test"
-maintained: "archived"
+maintained: "dead"
 sources:
   - "jim"
 what_makes_it_special: "A test repository for AI agent interactions, archived by the owner on Jun 12, 2026."
 ---
 
-A test repository for AI agent interactions, archived by the owner on Jun 12, 2026.
+This repository existed to exercise AI agent interactions against a real GitHub repository, containing only an index.html file. The owner archived it on June 12, 2026, making it read-only, with two open issues left as-is. There is no implementation, documentation, or community to evaluate. It functions in the census as an artifact of agent testing behavior rather than as a usable project.

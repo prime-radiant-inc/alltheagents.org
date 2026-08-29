@@ -2,7 +2,7 @@
 name: "context-hub"
 slug: "context-hub"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "andrewyng"
 license: "MIT"
 url: "https://github.com/andrewyng/context-hub"
@@ -20,7 +20,7 @@ claude_code_plugin: "yes (drop SKILL.md into ~/.claude/skills/)"
 subagents: "no"
 hooks: "no"
 plan_mode: "no"
-model_providers: null
+model_providers: "None (a CLI serving markdown documentation; no model inference)"
 pricing: "open-source (MIT)"
 install_method: "npm"
 docs_url: "https://github.com/andrewyng/context-hub/blob/main/docs/cli-reference.md"
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Provides curated, versioned API documentation as open markdown that coding agents can fetch via CLI, reducing API hallucinations. Enables self-improving agents through local annotations that persist across sessions and community feedback (up/down ratings) that flows back to doc authors."
 ---
 
-Provides curated, versioned API documentation as open markdown that coding agents can fetch via CLI, reducing API hallucinations. Enables self-improving agents through local annotations that persist across sessions and community feedback (up/down ratings) that flows back to doc authors.
+Coding agents hallucinate APIs because their training data lags current library versions, and pasting entire documentation sites into context wastes tokens. Context Hub maintains curated, versioned API documentation as plain markdown in a git repository: an agent searches the catalog, fetches exactly the pages needed for its language and version, and writes correct calls against current APIs. Two feedback mechanisms make the corpus self-improving - agents leave local annotations that persist across sessions and are re-injected into later fetches, and users vote pages up or down so authors see which content needs fixing. Installation is a global npm package, and a SKILL.md lets Claude Code load it as a skill. Developers wiring agents to third-party APIs are the users, and the corpus grows through community pull requests.

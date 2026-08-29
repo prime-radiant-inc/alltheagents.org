@@ -7,7 +7,7 @@ maker: "Mybono"
 license: "NOASSERTION"
 url: "https://github.com/Mybono/ai-orchestrator"
 source_code_url: "https://github.com/Mybono/ai-orchestrator"
-source_available: True
+source_available: "True"
 platforms: []
 first_released: "2026-04-03"
 current_release: "2026-07-22"
@@ -33,4 +33,4 @@ sources:
 what_makes_it_special: "Zero dependency, portable, role-based local LLM orchestration via Bash, works with any language stack; being rebuilt on a new core engine (not an iteration, a replacement)"
 ---
 
-Zero dependency, portable, role-based local LLM orchestration via Bash, works with any language stack; being rebuilt on a new core engine (not an iteration, a replacement)
+The project paired Claude Code with local Ollama models in defined roles (plan, code, review, commit), aiming for a portable, zero-dependency setup that works against any language stack. That implementation is gone: the repository was reset to a single commit containing LICENSE, community files, and a README announcing a ground-up rebuild on a new engine being developed privately. Nothing is currently installable, and the roughly 100 stars predate the reset. The author has promised an announcement when the replacement ships, so the entry describes the pre-reset design rather than runnable code.

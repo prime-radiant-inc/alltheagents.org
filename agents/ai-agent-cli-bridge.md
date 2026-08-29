@@ -34,4 +34,4 @@ sources:
 what_makes_it_special: "Launch preconfigured AI terminal sessions with IDE context"
 ---
 
-Launch preconfigured AI terminal sessions with IDE context
+Developers working in JetBrains IDEs who use terminal-based coding agents lose IDE context when they switch to a shell. This plugin launches AI terminal sessions preconfigured with the IDE's current context, so the agent starts with the project state rather than requiring manual setup. It occupies the bridge layer between IDE and CLI agent, without itself providing chat, completion, or an agentic loop. Its users are JetBrains-centric developers who run Claude Code-style CLI agents alongside the IDE.

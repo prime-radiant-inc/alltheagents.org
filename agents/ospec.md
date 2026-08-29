@@ -2,12 +2,12 @@
 name: "ospec"
 slug: "ospec"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "clawplays"
 license: "MIT"
 url: "https://github.com/clawplays/ospec"
 source_code_url: "https://github.com/clawplays/ospec"
-source_available: True
+source_available: "True"
 platforms:
   - "CLI"
   - "IDE"
@@ -16,23 +16,23 @@ current_release: "2026-08-19"
 stars: "487"
 language: "TypeScript"
 homepage: "https://ospec.ai"
-mcp_support: True
-plugin_support: True
-claude_code_plugin: null
-subagents: True
-hooks: True
-plan_mode: True
-model_providers: null
-pricing: null
+mcp_support: "True"
+plugin_support: "True"
+claude_code_plugin: "yes"
+subagents: "True"
+hooks: "True"
+plan_mode: "True"
+model_providers: "agent-agnostic (Claude Code, Codex/GPT, Gemini, OpenCode, MCP-based agents)"
+pricing: "open-source"
 install_method: "npm install -g @clawplays/ospec-cli"
 docs_url: "https://ospec.ai/"
-plugin_docs_url: null
-config_docs_url: null
-download_url: null
+plugin_docs_url: "https://github.com/clawplays/ospec/blob/main/docs/skills-installation.md"
+config_docs_url: "https://github.com/clawplays/ospec/blob/main/docs/usage.md"
+download_url: "https://www.npmjs.com/package/@clawplays/ospec-cli"
 maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Spec-driven development (SDD) + 'Loop Engineering' — a verifiable plan -> act -> verify goal loop that persists proposals, designs, plans, tasks, reviews, and verification evidence as repo files instead of chat history, enabling any AI agent to resume work mid-stream across different harnesses (Claude Code, Codex/GPT, Gemini, OpenCode). Native subagent dispatch, hooks, and skills system."
 ---
 
-Spec-driven development (SDD) + 'Loop Engineering' — a verifiable plan -> act -> verify goal loop that persists proposals, designs, plans, tasks, reviews, and verification evidence as repo files instead of chat history, enabling any AI agent to resume work mid-stream across different harnesses (Claude Code, Codex/GPT, Gemini, OpenCode). Native subagent dispatch, hooks, and skills system.
+Long agentic tasks fail in chat history: context scrolls away, decisions lose their rationale, and a fresh session cannot resume mid-change. OSpec moves the workflow into the repository — ospec init creates a .ospec/ protocol shell, and changes persist proposals, designs, plans, tasks, reviews, and verification evidence as files any agent can read and extend. A verifiable plan-act-verify goal loop governs execution: token-bounded ticks dispatch tasks to subagents through per-harness adapters, heartbeats track liveness, reviewer gates hold work until checks pass, and ospec verify plus finalize validate and archive the change. It ships as an npm CLI with a SKILL.md-based skill bundle for Claude Code, a hook bundle that hard-blocks subagent dispatch during pending decisions, and equivalents for Codex, Gemini, and OpenCode. Install is npm -g @clawplays/ospec-cli under Node 18+. Teams running multi-hour agent workflows that must survive session boundaries are the audience.

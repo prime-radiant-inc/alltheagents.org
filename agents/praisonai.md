@@ -2,12 +2,12 @@
 name: "PraisonAI"
 slug: "praisonai"
 layout: "agent.njk"
-category: "agent"
+category: "agent-sdk"
 maker: "MervinPraison"
 license: "MIT"
 url: "https://github.com/MervinPraison/PraisonAI/"
 source_code_url: "https://github.com/MervinPraison/PraisonAI"
-source_available: True
+source_available: "True"
 platforms:
   - "Web"
   - "Autonomous"
@@ -28,11 +28,11 @@ install_method: "pip"
 docs_url: "https://docs.praison.ai"
 plugin_docs_url: null
 config_docs_url: null
-download_url: null
+download_url: "https://github.com/MervinPraison/PraisonAI"
 maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "AI agent framework for autonomous, self-improving multi-agent systems. Unique five-layer agent stack (Prompt -> Context -> Harness -> Loop -> Graph) plus a Managed Agents outer layer for cloud sandboxes (Docker, E2B, Modal, Daytona, Fly.io). MCP support via stdio, HTTP, WebSocket, and SSE transports. Doom-loop detection, context compaction, model routing for cost optimization. No-code YAML workflows, visual flow builder, bot gateway for Telegram/Discord/Slack. ~14us agent instantiation. Covers all five layers out-of-the-box. Also available as JavaScript SDK."
 ---
 
-AI agent framework for autonomous, self-improving multi-agent systems. Unique five-layer agent stack (Prompt -> Context -> Harness -> Loop -> Graph) plus a Managed Agents outer layer for cloud sandboxes (Docker, E2B, Modal, Daytona, Fly.io). MCP support via stdio, HTTP, WebSocket, and SSE transports. Doom-loop detection, context compaction, model routing for cost optimization. No-code YAML workflows, visual flow builder, bot gateway for Telegram/Discord/Slack. ~14us agent instantiation. Covers all five layers out-of-the-box. Also available as JavaScript SDK.
+PraisonAI is a Python-first multi-agent framework for building autonomous systems that research, plan, code, and execute, with a CLI and SDK surface rather than a fixed product shape. Its signature is the five-layer stack — prompt, context, harness, loop, graph — which gives developers a debugging vocabulary: when an agent misbehaves, the layer tells you where to look, whether that is a missing guardrail, a runaway loop, or a routing decision. The harness layer carries tools, MCP servers, approval gates, hooks, and sandboxing, while the graph layer composes agents through sequential flows, parallel fan-out, loops, and handoffs with doom-loop detection enabled by default. A Managed Agents layer can run any agent or tool set on Docker, E2B, Modal, or Daytona sandboxes, and orchestration extends to external coding CLIs like Claude Code and Codex. Teams use it to build production agent workflows with 100+ LLMs across 24 providers, YAML no-code configurations, and a visual flow builder.

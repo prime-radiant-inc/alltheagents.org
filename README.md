@@ -1,20 +1,31 @@
 # Harness Census
 
-Comprehensive census of coding agent harnesses — systems that let an LLM autonomously write, modify, debug, or run code.
+Comprehensive census of coding agent harnesses — systems that let an LLM autonomously write, modify, debug, or run code — plus the multiplexers that manage them and the SDKs used to build them.
 
-**1101 agents catalogued.** Browse the live site at [harness-census](https://prime-radiant-inc.github.io/harness-census/).
+**1,316 entries catalogued**: 623 agents, 210 multiplexers, 17 agent SDKs, 466 other (gateways, frameworks, tooling, and adjacent artifacts). Browse the live site at [harness-census](https://prime-radiant-inc.github.io/harness-census/).
+
+## Categorization
+
+Every entry carries exactly one category, decided against these definitions:
+
+- **agent** — a coding agent or harness: something that uses tools in a loop to create or modify software. Expansive and inclusive.
+- **multiplexer** — not an agent: a tool that helps manage a set of agents with a human-facing UI (orchestrates/runs other agents rather than coding itself).
+- **agent-sdk** — a general agent-building framework, SDK, or toolkit that ships no coding agent of its own (e.g. AutoGen, CrewAI, LangGraph).
+- **other** — neither of the above: model gateways, prompt libraries, eval tooling, MCP tool servers, datasets, tutorials, link-only artifacts.
+
+Every decision, with a one-line rationale, is recorded in [`CATEGORIZATION_LEDGER.md`](CATEGORIZATION_LEDGER.md) (machine-readable copy: `scripts/categorization_ledger.json`). The 2026-08-28 review pass reclassified 539 entries and was independently verified by three reviewer passes over the full list.
 
 ## Contents
 
-- `coding_agent_harnesses.tsv` — tab-separated data (1101 entries)
-- `coding_agent_harnesses.csv` — comma-separated data (1101 entries)
-- `coding_agent_harnesses.md` — markdown table with summary
-- `agents/` — individual agent pages (Markdown with YAML frontmatter)
+- `agents/` — individual agent pages (Markdown with YAML frontmatter; see `agents/_TEMPLATE.md` for the schema)
+- `CATEGORIZATION_LEDGER.md` — per-entry category decisions with rationale
 - `_data/agents.json` — JSON data for client-side search
+- `coding_agent_harnesses.tsv` / `.csv` / `.md` — flat data exports (original discovery pass)
 - `_layouts/`, `*.njk` — Eleventy templates
 - `css/style.css` — dark theme stylesheet
-- `scripts/generate_pages.py` — TSV-to-markdown page generator
+- `scripts/` — page generators, JSON builders, and enrichment merge tooling
 - `sources/` — raw source data, scripts, and intermediate files
+- `metrics/` — per-entry traction history (stars/downloads over time)
 
 ## Website
 
@@ -38,25 +49,27 @@ npx @11ty/eleventy
 
 Output goes to `_site/`.
 
-## Columns
+## Entry schema
+
+Each `agents/<slug>.md` file is YAML frontmatter plus a narrative body. Key fields:
 
 | Field | Description |
 |-------|-------------|
-| name | Name of the harness |
-| maker | Company or individual that makes it |
+| name | Canonical product name |
+| category | agent \| multiplexer \| agent-sdk \| other |
+| maker | Key into `_data/makers.json` |
 | license | License (MIT, Apache-2.0, Proprietary, etc.) |
 | url | Primary URL |
-| source_code_url | URL to source code if available |
 | source_available | Whether source code is available |
-| what_makes_it_special | 1-2 sentence description |
 | platforms | CLI, IDE, Web, Desktop, Autonomous |
-| first_released | First release date (YYYY-MM-DD) |
-| current_release | Most recent release/update date |
-| stars | GitHub stars |
-| language | Primary programming language |
-| homepage | Homepage URL |
-| source_list | Which source list(s) it was found in |
+| autonomy_level | autocomplete, pair-programmer, agentic, autonomous-background, one-shot-generative |
+| maintained | active, dormant, dead, acquired, renamed |
+| mcp_support, plugin_support, hooks, plan_mode, subagents | Extensibility booleans |
+| model_providers, pricing | Model access and cost model |
+| what_makes_it_special | 1-2 sentence description (frontmatter only) |
+
+The body is a short narrative — why the harness exists, how it works, and who uses it — kept distinct from the frontmatter fields.
 
 ## Methodology
 
-Built from 15 "awesome" aggregation lists, 5 rounds of GitHub topic/keyword searches, GitHub API enrichment of 1,516 repos, and manual research of 25 commercial products.
+Built from 15 "awesome" aggregation lists, 5 rounds of GitHub topic/keyword searches, GitHub API enrichment of 1,516 repos, and manual research of commercial products. The 2026-08-28 pass re-researched every entry's primary URL, filled null fields, rewrote all 1,316 narrative bodies, and categorized every entry per the definitions above; ambiguous calls were adjudicated after three independent full-list review passes.

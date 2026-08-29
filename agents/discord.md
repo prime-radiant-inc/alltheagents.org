@@ -2,7 +2,7 @@
 name: "discord"
 slug: "discord"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: null
 license: null
 url: "https://discord.gg/VmEEUrc7dg"
@@ -29,10 +29,10 @@ docs_url: null
 plugin_docs_url: null
 config_docs_url: null
 download_url: null
-maintained: null
+maintained: "dead"
 sources:
   - "jim"
 what_makes_it_special: "Associated link: a Discord invite (discord.gg/VmEEUrc7dg); server could not be resolved from the invite page; not a standalone agent harness"
 ---
 
-Associated link: a Discord invite (discord.gg/VmEEUrc7dg); server could not be resolved from the invite page; not a standalone agent harness
+This census entry records a Discord invite URL rather than a tool. The invite page exposed no server name, bot, or product; nothing about an agent harness can be verified from it. It is retained as an association link only.
