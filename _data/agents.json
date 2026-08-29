@@ -250,6 +250,46 @@
     "source_urls": {}
   },
   {
+    "name": "49IDE",
+    "slug": "49agents",
+    "category": "multiplexer",
+    "maker": "alpbahadur",
+    "license": "BSL-1.1 (free for individuals and small teams; converts to MIT 2030-02-26)",
+    "url": "https://github.com/alpbahadur/49Agents",
+    "source_code_url": "https://github.com/alpbahadur/49Agents",
+    "source_available": "True",
+    "platforms": [
+      "Web",
+      "Desktop"
+    ],
+    "first_released": "2026-02-27",
+    "current_release": "2026-08-18",
+    "stars": 408,
+    "language": "JavaScript",
+    "homepage": "https://49agents.com",
+    "description": "49Agents bills itself as the first 2D agentic IDE — all agents, all terminals, all projects, all machines, one unified space. Instead of tabs and splits, panes live on an infinite zoomable canvas you ",
+    "mcp_support": null,
+    "plugin_support": null,
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "delegates to the connected agent CLIs",
+    "pricing": "free",
+    "install_method": "Self-host via ./49ctl setup and ./49ctl start (localhost:1071), or download the macOS desktop app (.dmg)",
+    "docs_url": "https://github.com/alpbahadur/49Agents/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://github.com/alpbahadur/49Agents/releases",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "5dive",
     "slug": "5dive",
     "category": "multiplexer",
@@ -988,6 +1028,45 @@
     "plugin_docs_url": null,
     "config_docs_url": null,
     "download_url": "https://www.npmjs.com/package/@cardor/agent-harness-kit",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
+    "name": "Agent-Manager",
+    "slug": "agent-manager",
+    "category": "multiplexer",
+    "maker": "YoanWai",
+    "license": "Apache-2.0",
+    "url": "https://github.com/YoanWai/agent-manager",
+    "source_code_url": "https://github.com/YoanWai/agent-manager",
+    "source_available": "True",
+    "platforms": [
+      "CLI"
+    ],
+    "first_released": "2026-07-15",
+    "current_release": "2026-08-27",
+    "stars": 372,
+    "language": "Go",
+    "homepage": "https://agent-manager.dev",
+    "description": "Agent-Manager is a thin layer over the agent CLIs you already have installed: each agent — Claude Code, Codex, OpenCode, Grok Build, Gemini CLI, Pi, Command Code, or Hermes Agent — runs in its own per",
+    "mcp_support": "yes",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "delegates to the connected agents (Claude Code, Codex, OpenCode, Grok Build, Gemini CLI, Pi, Command Code, Hermes Agent)",
+    "pricing": "free",
+    "install_method": "Homebrew, install script, Arch AUR, mise, go install, or prebuilt binaries; requires tmux 3.1+ and git",
+    "docs_url": "https://github.com/YoanWai/agent-manager/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://github.com/YoanWai/agent-manager/releases",
     "maintained": "active",
     "sources": [
       "hackernews"
@@ -5178,6 +5257,45 @@
     }
   },
   {
+    "name": "Ante",
+    "slug": "ante",
+    "category": "agent",
+    "maker": "Antigma Labs",
+    "license": "Apache-2.0",
+    "url": "https://github.com/AntigmaLabs/ante",
+    "source_code_url": "https://github.com/AntigmaLabs/ante",
+    "source_available": "True",
+    "platforms": [
+      "CLI"
+    ],
+    "first_released": "2025-12-23",
+    "current_release": "2026-08-28",
+    "stars": 1915,
+    "language": "Rust",
+    "homepage": "https://antigma.ai",
+    "description": "Ante is a terminal coding agent from Antigma Labs that works like Claude Code or Codex but ships as one compressed Rust binary with zero runtime dependencies, reflecting a design thesis of tiny, verif",
+    "mcp_support": "yes",
+    "plugin_support": "yes",
+    "claude_code_plugin": "no",
+    "subagents": "yes",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "Anthropic, OpenAI, Google Gemini, xAI Grok, DeepSeek, OpenRouter, local GGUF (built-in llama.cpp), any OpenAI-compatible endpoint",
+    "pricing": "free",
+    "install_method": "curl -fsSL https://ante.run/install.sh | bash",
+    "docs_url": "https://docs.antigma.ai",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://github.com/AntigmaLabs/ante/releases",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "Antigravity CLI",
     "slug": "antigravity-cli",
     "category": "agent",
@@ -7177,6 +7295,45 @@
     "source_urls": {}
   },
   {
+    "name": "Benzi",
+    "slug": "benzi",
+    "category": "agent",
+    "maker": "Variant Technologies",
+    "license": "Proprietary",
+    "url": "https://benzi.fly.dev/about",
+    "source_code_url": "https://github.com/oooscoos/Benzi",
+    "source_available": "True",
+    "platforms": [
+      "Web"
+    ],
+    "first_released": "2026-07-29",
+    "current_release": null,
+    "stars": 37,
+    "language": "Python",
+    "homepage": "https://benzi.fly.dev",
+    "description": "Benzi is a coding agent harness from Variant Technologies built on the observation that Claude Code greps, Cursor embeds, and Aider maps signatures, while Benzi resolves. Before the agent loop runs, i",
+    "mcp_support": null,
+    "plugin_support": null,
+    "claude_code_plugin": "no",
+    "subagents": null,
+    "hooks": null,
+    "plan_mode": "no",
+    "model_providers": "DeepSeek, Anthropic",
+    "pricing": "free",
+    "install_method": null,
+    "docs_url": "https://benzi.fly.dev/about",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": null,
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "Bernstein",
     "slug": "bernstein",
     "category": "multiplexer",
@@ -8266,6 +8423,46 @@
       "github_topic5"
     ],
     "source_urls": {}
+  },
+  {
+    "name": "Bullet",
+    "slug": "bullet",
+    "category": "agent",
+    "maker": "trybullet",
+    "license": "Proprietary",
+    "url": "https://www.codewithbullet.com",
+    "source_code_url": null,
+    "source_available": "False",
+    "platforms": [
+      "CLI",
+      "Desktop"
+    ],
+    "first_released": "2026-08-07",
+    "current_release": "2026-08-28",
+    "stars": null,
+    "language": null,
+    "homepage": "https://www.codewithbullet.com",
+    "description": "Bullet is a YC-backed coding agent built by a team that got frustrated waiting on agent runs while building with Claude Code, and its whole pitch is keeping up with the developer rather than the other",
+    "mcp_support": null,
+    "plugin_support": null,
+    "claude_code_plugin": "no",
+    "subagents": null,
+    "hooks": null,
+    "plan_mode": "no",
+    "model_providers": "multi-model routing (fast models for simple work, deeper reasoning on escalation)",
+    "pricing": "free",
+    "install_method": "npm install -g @trybullet/cli (Node 18+), or download the desktop app",
+    "docs_url": null,
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://github.com/trybullet/bullet-releases",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
   },
   {
     "name": "bumpgen",
@@ -9383,6 +9580,45 @@
       "gap-2026-08-20"
     ],
     "source_urls": {}
+  },
+  {
+    "name": "claude-code-merge-queue",
+    "slug": "claude-code-merge-queue",
+    "category": "other",
+    "maker": "funador",
+    "license": "MIT",
+    "url": "https://github.com/funador/claude-code-merge-queue",
+    "source_code_url": "https://github.com/funador/claude-code-merge-queue",
+    "source_available": "True",
+    "platforms": [
+      "CLI"
+    ],
+    "first_released": "2026-07-10",
+    "current_release": "2026-08-24",
+    "stars": 124,
+    "language": "TypeScript",
+    "homepage": "https://www.npmjs.com/package/claude-code-merge-queue",
+    "description": "claude-code-merge-queue is the git plumbing for running many Claude Code agents in parallel on one repository. It manages numbered lanes as git worktrees so several agents can build and test simultane",
+    "mcp_support": "no",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "yes",
+    "plan_mode": "no",
+    "model_providers": null,
+    "pricing": "free",
+    "install_method": "npm (claude-code-merge-queue); requires Node 18+",
+    "docs_url": "https://github.com/funador/claude-code-merge-queue/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://www.npmjs.com/package/claude-code-merge-queue",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
   },
   {
     "name": "Claude-Code-Multi-Agent",
@@ -14046,6 +14282,45 @@
       "github_deep"
     ],
     "source_urls": {}
+  },
+  {
+    "name": "Concord",
+    "slug": "concord-mcp",
+    "category": "other",
+    "maker": "Get-Concord-AI",
+    "license": "MIT",
+    "url": "https://github.com/Get-Concord-AI/concord-mcp",
+    "source_code_url": "https://github.com/Get-Concord-AI/concord-mcp",
+    "source_available": "True",
+    "platforms": [
+      "CLI"
+    ],
+    "first_released": "2026-07-14",
+    "current_release": "2026-08-25",
+    "stars": 283,
+    "language": "TypeScript",
+    "homepage": "https://getconcord.ai",
+    "description": "Concord is the shared nervous system for a set of coding agents working in the same repository: a single MCP server, local-first with SQLite state in a .concord/ folder at the repo root, that lets age",
+    "mcp_support": "yes",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": null,
+    "pricing": "free",
+    "install_method": "npm (@concord-ai/concord-mcp); state in a .concord/ folder at the repo root, shared by all agents in that repo",
+    "docs_url": "https://github.com/Get-Concord-AI/concord-mcp/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://www.npmjs.com/package/@concord-ai/concord-mcp",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
   },
   {
     "name": "Conductor",
@@ -19208,6 +19483,45 @@
     "source_urls": {}
   },
   {
+    "name": "Episko",
+    "slug": "episko",
+    "category": "multiplexer",
+    "maker": "respeak-io",
+    "license": "MIT",
+    "url": "https://episko.dev/",
+    "source_code_url": "https://github.com/respeak-io/episko",
+    "source_available": "True",
+    "platforms": [
+      "Desktop"
+    ],
+    "first_released": "2026-07-16",
+    "current_release": "2026-08-28",
+    "stars": 20,
+    "language": "TypeScript",
+    "homepage": "https://episko.dev/",
+    "description": "Episko — from the Greek episkopos, the one who watches over — is a desktop cockpit for herding Claude Code agents. Each Claude Code session gets its own live terminal (or connects to Ghostty, Terminal",
+    "mcp_support": null,
+    "plugin_support": null,
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "delegates to Claude Code",
+    "pricing": "free",
+    "install_method": "Download the macOS .dmg (Apple silicon) or Windows .msi from episko.dev; requires Claude Code on PATH",
+    "docs_url": "https://episko.dev/",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://episko.dev/",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "Erdos",
     "slug": "erdos",
     "category": "agent",
@@ -23550,6 +23864,46 @@
     "source_urls": {}
   },
   {
+    "name": "HarnessRouter",
+    "slug": "harnessrouter",
+    "category": "multiplexer",
+    "maker": "harnessrouter",
+    "license": "Apache-2.0",
+    "url": "https://github.com/harnessrouter/harnessrouter",
+    "source_code_url": "https://github.com/harnessrouter/harnessrouter",
+    "source_available": "True",
+    "platforms": [
+      "Web",
+      "CLI"
+    ],
+    "first_released": "2026-08-09",
+    "current_release": "2026-08-28",
+    "stars": 634,
+    "language": "Python",
+    "homepage": "https://harnessrouter.ai/",
+    "description": "HarnessRouter Community Edition is the self-hosted Apache-2.0 sibling of the hosted HarnessRouter Cloud, and its purpose is to make every agent CLI look identical to callers. The Docker container inst",
+    "mcp_support": null,
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "BYOK — delegates to the installed harnesses (Codex, Claude Code, Hermes, Pi, DeepSeek Harness, OpenCode)",
+    "pricing": "free",
+    "install_method": "docker run harnessrouter/harnessrouter (console on port 3000, loopback-bound by default)",
+    "docs_url": "https://github.com/harnessrouter/harnessrouter/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://hub.docker.com/r/harnessrouter/harnessrouter",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "harnss",
     "slug": "harnss",
     "category": "multiplexer",
@@ -23588,6 +23942,45 @@
       "github_topic3"
     ],
     "source_urls": {}
+  },
+  {
+    "name": "HashAgent",
+    "slug": "hashagent",
+    "category": "agent",
+    "maker": "mason131928",
+    "license": "MIT",
+    "url": "https://hashagent.pages.dev/",
+    "source_code_url": "https://github.com/mason131928/hashagent",
+    "source_available": "True",
+    "platforms": [
+      "Web"
+    ],
+    "first_released": "2026-08-08",
+    "current_release": null,
+    "stars": 10,
+    "language": "TypeScript",
+    "homepage": "https://hashagent.pages.dev/",
+    "description": "HashAgent compresses an entire agent into a shareable URL. The agent's definition — a name, an emoji, a system prompt, an opening message, a model choice, and a temperature — is serialized into the UR",
+    "mcp_support": "no",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "local WebGPU models (Llama 3.2 1B, Qwen, Phi-4, SmolLM class, 360M-8B)",
+    "pricing": "free",
+    "install_method": "Open https://hashagent.pages.dev/ in a WebGPU-capable browser",
+    "docs_url": null,
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": null,
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
   },
   {
     "name": "HASS-AI-Orchestrator",
@@ -24483,6 +24876,45 @@
       "web_search_multilingual"
     ],
     "source_urls": {}
+  },
+  {
+    "name": "HUD",
+    "slug": "hud-mode",
+    "category": "multiplexer",
+    "maker": "adrida",
+    "license": "MIT",
+    "url": "https://github.com/adrida/hud-mode",
+    "source_code_url": "https://github.com/adrida/hud-mode",
+    "source_available": "True",
+    "platforms": [
+      "CLI"
+    ],
+    "first_released": "2026-08-05",
+    "current_release": null,
+    "stars": 28,
+    "language": "JavaScript",
+    "homepage": "https://tracerml.ai",
+    "description": "HUD is a terminal front-end for coding agents built by adrida at tracer: rather than a scrolling wall of tool-call output, it renders the session as gauges — status, model, message count, elapsed time",
+    "mcp_support": "no",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "delegates to the connected agents (Claude Code, Codex, OpenCode)",
+    "pricing": "free",
+    "install_method": "npm install -g adrida/hud-mode && hud install (Node >= 18)",
+    "docs_url": "https://github.com/adrida/hud-mode/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": null,
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
   },
   {
     "name": "HuiCai AI",
@@ -29654,6 +30086,46 @@
     "source_urls": {}
   },
   {
+    "name": "MarbleOS",
+    "slug": "marbleos",
+    "category": "multiplexer",
+    "maker": "withmarbleai",
+    "license": "Proprietary",
+    "url": "https://marbleos.com",
+    "source_code_url": null,
+    "source_available": "False",
+    "platforms": [
+      "Desktop",
+      "Web"
+    ],
+    "first_released": null,
+    "current_release": null,
+    "stars": null,
+    "language": null,
+    "homepage": "https://marbleos.com",
+    "description": "MarbleOS is an AI workspace whose pitch is AI for the rest of us: instead of a conversation buried in chat threads, work appears as files, tools, tasks, and outputs you can inspect. You give it a task",
+    "mcp_support": null,
+    "plugin_support": null,
+    "claude_code_plugin": "no",
+    "subagents": null,
+    "hooks": null,
+    "plan_mode": "no",
+    "model_providers": "locked",
+    "pricing": "free",
+    "install_method": "Download for macOS from marbleos.com, or try it in the browser",
+    "docs_url": "https://marbleos.com/learn",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://marbleos.com/downloads/MarbleOS-latest.dmg",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "Marblism",
     "slug": "marblism",
     "category": "other",
@@ -30293,6 +30765,45 @@
     "source_urls": {}
   },
   {
+    "name": "MicroCodex",
+    "slug": "microcodex",
+    "category": "agent",
+    "maker": "paoloanzn",
+    "license": "Apache-2.0",
+    "url": "https://github.com/paoloanzn/microcodex",
+    "source_code_url": "https://github.com/paoloanzn/microcodex",
+    "source_available": "True",
+    "platforms": [
+      "CLI"
+    ],
+    "first_released": "2026-07-30",
+    "current_release": "2026-08-06",
+    "stars": 37,
+    "language": "C++",
+    "homepage": null,
+    "description": "MicroCodex is an independently written C++ client for the OpenAI Codex service: a terminal coding agent offering one-shot prompts and an interactive TUI, local coding tools for file read/write/edit, b",
+    "mcp_support": "no",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "locked",
+    "pricing": "free",
+    "install_method": "curl -fsSL https://github.com/paoloanzn/microcodex/releases/latest/download/install.sh | sh",
+    "docs_url": "https://github.com/paoloanzn/microcodex/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://github.com/paoloanzn/microcodex/releases/latest",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "Microsoft Agent Framework",
     "slug": "microsoft-agent-framework",
     "category": "agent-sdk",
@@ -30920,6 +31431,45 @@
       "gap-2026-08-20"
     ],
     "source_urls": {}
+  },
+  {
+    "name": "Mole",
+    "slug": "mole",
+    "category": "other",
+    "maker": "lajosdeme",
+    "license": "Apache-2.0",
+    "url": "https://github.com/lajosdeme/mole",
+    "source_code_url": "https://github.com/lajosdeme/mole",
+    "source_available": "True",
+    "platforms": [
+      "CLI"
+    ],
+    "first_released": "2026-08-01",
+    "current_release": "2026-08-13",
+    "stars": 293,
+    "language": "Go",
+    "homepage": null,
+    "description": "Mole is a Go deep-research agent, not a coding agent: it takes a research question, decomposes it into sub-questions, searches the web and academic sources (Crossref, OpenAlex, arXiv, PubMed), reads s",
+    "mcp_support": "yes",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "yes",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "configurable",
+    "pricing": "free",
+    "install_method": "Static binaries (mole + mole-mcp) from the repo releases",
+    "docs_url": "https://github.com/lajosdeme/mole/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://github.com/lajosdeme/mole/releases",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
   },
   {
     "name": "momo-code",
@@ -31573,6 +32123,45 @@
     "source_urls": {}
   },
   {
+    "name": "Munder Difflin",
+    "slug": "munder-difflin",
+    "category": "multiplexer",
+    "maker": "chaitanyagiri",
+    "license": "MIT",
+    "url": "https://github.com/chaitanyagiri/munder-difflin",
+    "source_code_url": "https://github.com/chaitanyagiri/munder-difflin",
+    "source_available": "True",
+    "platforms": [
+      "Desktop"
+    ],
+    "first_released": "2026-05-31",
+    "current_release": "2026-08-27",
+    "stars": 5234,
+    "language": "JavaScript",
+    "homepage": "https://munderdiffl.in",
+    "description": "Munder Difflin is an office-themed desktop app that wraps the CLI coding agents you already use — Claude Code, Codex, Grok, Kimi Code, Gemini CLI, Cursor, Copilot, Qwen, OpenCode, Crush, Pi, and Antig",
+    "mcp_support": null,
+    "plugin_support": null,
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "delegates to the connected agents (Claude Code, Codex, Grok, Kimi Code, Gemini CLI, Cursor, Copilot, Qwen, OpenCode, Crush, Pi, Antigravity)",
+    "pricing": "freemium",
+    "install_method": "Download the desktop app from GitHub Releases",
+    "docs_url": "https://github.com/chaitanyagiri/munder-difflin/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://github.com/chaitanyagiri/munder-difflin/releases",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "Murmell",
     "slug": "murmell",
     "category": "multiplexer",
@@ -32025,6 +32614,43 @@
       "agent_infra"
     ],
     "source_urls": {}
+  },
+  {
+    "name": "Needle2",
+    "slug": "needle2",
+    "category": "other",
+    "maker": "cactus-compute",
+    "license": "Apache-2.0",
+    "url": "https://cactuscompute.com/needle",
+    "source_code_url": "https://github.com/cactus-compute/needle",
+    "source_available": "True",
+    "platforms": [],
+    "first_released": "2026-02-24",
+    "current_release": null,
+    "stars": 9588,
+    "language": "Python",
+    "homepage": "https://cactuscompute.com/needle",
+    "description": "Needle2 is Cactus Compute's foundation model for tiny devices — phones, wearables, smart home, and robots — not a coding agent or framework. It is a 45M-parameter model specialized for agentic tool ca",
+    "mcp_support": null,
+    "plugin_support": null,
+    "claude_code_plugin": "no",
+    "subagents": null,
+    "hooks": null,
+    "plan_mode": "no",
+    "model_providers": "locked",
+    "pricing": "free",
+    "install_method": "Python package or single dependency-free C++ binary from the repo",
+    "docs_url": "https://cactuscompute.com/needle",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://github.com/cactus-compute/needle",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
   },
   {
     "name": "nefi",
@@ -33609,6 +34235,47 @@
       "gap-2026-08-20"
     ],
     "source_urls": {}
+  },
+  {
+    "name": "OneCLI",
+    "slug": "onecli",
+    "category": "agent",
+    "maker": "onecli",
+    "license": "Apache-2.0 (with enterprise features under the OneCLI Enterprise License)",
+    "url": "https://github.com/onecli/onecli",
+    "source_code_url": "https://github.com/onecli/onecli",
+    "source_available": "True",
+    "platforms": [
+      "CLI",
+      "Web",
+      "Autonomous"
+    ],
+    "first_released": "2026-03-08",
+    "current_release": "2026-08-29",
+    "stars": 3423,
+    "language": "TypeScript",
+    "homepage": "https://onecli.sh",
+    "description": "OneCLI is an open-source, YC-backed agent platform that gives every employee a personal AI agent in a sealed sandbox, originally built as a Rust credential vault for AI agents and repivoted to team-ba",
+    "mcp_support": null,
+    "plugin_support": null,
+    "claude_code_plugin": "no",
+    "subagents": null,
+    "hooks": null,
+    "plan_mode": "no",
+    "model_providers": "configurable (gateway-mediated)",
+    "pricing": "freemium",
+    "install_method": "Self-host via Node/pnpm monorepo with Docker and PostgreSQL, or use the cloud at onecli.sh (free tier: $5 AI credits, 500 calls/month)",
+    "docs_url": null,
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": null,
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
   },
   {
     "name": "onUI",
@@ -35794,6 +36461,45 @@
     }
   },
   {
+    "name": "Parley",
+    "slug": "parley",
+    "category": "other",
+    "maker": "weldra",
+    "license": "Proprietary",
+    "url": "https://parley.weldra.dev",
+    "source_code_url": null,
+    "source_available": "False",
+    "platforms": [
+      "Web"
+    ],
+    "first_released": null,
+    "current_release": null,
+    "stars": null,
+    "language": null,
+    "homepage": "https://parley.weldra.dev",
+    "description": "Parley is a hosted coordination hub from Weldra that connects a team's coding agents across people, machines, and vendors so they hand work to each other asynchronously instead of interrupting a human",
+    "mcp_support": "yes",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "yes",
+    "plan_mode": "no",
+    "model_providers": null,
+    "pricing": "freemium",
+    "install_method": "Agents connect via MCP using a URL and token (works with Claude Code, Cursor, Codex, Copilot, Antigravity, and any MCP client)",
+    "docs_url": "https://parley.weldra.dev",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": null,
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "Paseo",
     "slug": "paseo",
     "category": "multiplexer",
@@ -37974,6 +38680,46 @@
     }
   },
   {
+    "name": "Proliferate",
+    "slug": "proliferate",
+    "category": "multiplexer",
+    "maker": "proliferate-ai",
+    "license": "AGPL-3.0",
+    "url": "https://github.com/proliferate-ai/proliferate",
+    "source_code_url": "https://github.com/proliferate-ai/proliferate",
+    "source_available": "True",
+    "platforms": [
+      "Desktop",
+      "Web"
+    ],
+    "first_released": "2026-04-30",
+    "current_release": "2026-08-27",
+    "stars": 440,
+    "language": "Rust",
+    "homepage": "https://proliferate.com",
+    "description": "Proliferate is a workspace for running many coding agents at once rather than a coding agent itself: each task gets an isolated git worktree and the agent of your choice drives it through its native h",
+    "mcp_support": "yes",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "yes",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "delegates to the connected agents (Claude Code, Codex, OpenCode, Cursor, Grok)",
+    "pricing": "free",
+    "install_method": "Desktop app for macOS, or self-host the control plane via Docker Compose, one-click AWS CloudFormation, GCP, Azure, Kubernetes, or air-gapped deployment",
+    "docs_url": "https://proliferate.com/docs",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": null,
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "Prometheus",
     "slug": "prometheus",
     "category": "agent",
@@ -38680,6 +39426,46 @@
       "gap-2026-08-20"
     ],
     "source_urls": {}
+  },
+  {
+    "name": "QuillCode",
+    "slug": "quillcode",
+    "category": "agent",
+    "maker": "Lore-Hex",
+    "license": "Apache-2.0",
+    "url": "https://github.com/Lore-Hex/QuillCode",
+    "source_code_url": "https://github.com/Lore-Hex/QuillCode",
+    "source_available": "True",
+    "platforms": [
+      "Desktop",
+      "CLI"
+    ],
+    "first_released": "2026-06-20",
+    "current_release": null,
+    "stars": 17,
+    "language": "Swift",
+    "homepage": "https://github.com/Lore-Hex/QuillCode/releases/tag/tester-latest",
+    "description": "QuillCode is the repo behind Quill Cowork, a SwiftUI-native coding agent and AI coworker inspired by Codex, Claude Code, and Cline, built entirely in Swift 6 rather than wrapping a web view. The deskt",
+    "mcp_support": "yes",
+    "plugin_support": "yes",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "yes",
+    "plan_mode": "no",
+    "model_providers": "via TrustedRouter model catalog or named profiles",
+    "pricing": "usage",
+    "install_method": "Download the tester release from GitHub Releases, or build with swift run quill-code-desktop (Swift 6, Swift Package Manager)",
+    "docs_url": "https://github.com/Lore-Hex/QuillCode/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://github.com/Lore-Hex/QuillCode/releases/tag/tester-latest",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
   },
   {
     "name": "Qwen-Agent",
@@ -40806,6 +41592,45 @@
     "source_urls": {}
   },
   {
+    "name": "Seed",
+    "slug": "seed",
+    "category": "agent",
+    "maker": "vivekhaldar",
+    "license": "Sovereign Source License v0.3",
+    "url": "https://github.com/vivekhaldar/seed",
+    "source_code_url": "https://github.com/vivekhaldar/seed",
+    "source_available": "True",
+    "platforms": [
+      "CLI"
+    ],
+    "first_released": "2026-08-20",
+    "current_release": null,
+    "stars": 102,
+    "language": "Python",
+    "homepage": null,
+    "description": "Seed is Vivek Haldar's deliberately minimal agent experiment: one Python file that calls a language model with a single tool, exec, and nothing else, drawing on McCarthy's metacircular evaluator and h",
+    "mcp_support": "no",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "OpenAI (Codex), Anthropic, Google Gemini, OpenRouter (via the llm library)",
+    "pricing": "free",
+    "install_method": "uvx --from git+https://github.com/vivekhaldar/seed.git seed",
+    "docs_url": null,
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": null,
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "self-improving-agents",
     "slug": "self-improving-agents",
     "category": "agent",
@@ -41207,6 +42032,46 @@
     "source_urls": {}
   },
   {
+    "name": "Singular",
+    "slug": "singular-lite",
+    "category": "multiplexer",
+    "maker": "alex-reysa",
+    "license": "GPL-3.0",
+    "url": "https://github.com/alex-reysa/singular-lite",
+    "source_code_url": "https://github.com/alex-reysa/singular-lite",
+    "source_available": "True",
+    "platforms": [
+      "CLI",
+      "Autonomous"
+    ],
+    "first_released": "2026-06-10",
+    "current_release": null,
+    "stars": 37,
+    "language": "Shell",
+    "homepage": null,
+    "description": "Singular (repo singular-lite) is a bash-and-python orchestration engine for running many autonomous coding agents against one repository. Its three-tier scheduling model puts an L0 origin scheduler th",
+    "mcp_support": "no",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "yes",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "delegates to the installed runner CLIs (claude, codex)",
+    "pricing": "free",
+    "install_method": "./install.sh installs to ~/.singular with a per-repo version pin; requires bash >= 4, python3, git",
+    "docs_url": "https://github.com/alex-reysa/singular-lite/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": null,
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "singulary",
     "slug": "singulary",
     "category": "agent",
@@ -41277,6 +42142,45 @@
       "gap-2026-08-20"
     ],
     "source_urls": {}
+  },
+  {
+    "name": "SKI",
+    "slug": "ski",
+    "category": "other",
+    "maker": "pattern-ai-labs",
+    "license": "Proprietary",
+    "url": "https://heyski.io/",
+    "source_code_url": null,
+    "source_available": "False",
+    "platforms": [
+      "Desktop"
+    ],
+    "first_released": "2026-07-27",
+    "current_release": "2026-07-27",
+    "stars": null,
+    "language": null,
+    "homepage": "https://heyski.io/",
+    "description": "SKI is a free desktop app from Pattern AI Labs that adds voice to the coding agent you already use. You speak, on-device speech recognition transcribes it, the text goes to Claude Code, Codex, Cursor,",
+    "mcp_support": "no",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "delegates to the connected agents (Claude Code, Codex, Cursor, Gemini CLI, Windsurf, OpenClaw)",
+    "pricing": "freemium",
+    "install_method": "Download the desktop app from heyski.io (macOS 14.4+ Apple Silicon, Windows 10/11 x64, Ubuntu/Debian x64)",
+    "docs_url": "https://heyski.io/",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://github.com/pattern-ai-labs/ski-releases",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
   },
   {
     "name": "Slate",
@@ -42024,6 +42928,47 @@
     ],
     "source_urls": {
       "jim": "https://github.com/jim-schwoebel/awesome_ai_agents"
+    }
+  },
+  {
+    "name": "Sprocket",
+    "slug": "sprocket",
+    "category": "agent",
+    "maker": "spikonado",
+    "license": "FSL-1.1-ALv2 (Functional Source License, converts to Apache-2.0)",
+    "url": "https://github.com/spikonado/sprocket",
+    "source_code_url": "https://github.com/spikonado/sprocket",
+    "source_available": "True",
+    "platforms": [
+      "Web",
+      "Desktop",
+      "CLI"
+    ],
+    "first_released": "2026-04-13",
+    "current_release": "2026-08-28",
+    "stars": 19,
+    "language": "TypeScript",
+    "homepage": "https://spikonado.com",
+    "description": "Sprocket is Spikonado's agent for building complete technology systems — apps, robots, devices, and the glue between them — rather than just code. It retrieves web context for everything it does and c",
+    "mcp_support": null,
+    "plugin_support": null,
+    "claude_code_plugin": "no",
+    "subagents": null,
+    "hooks": null,
+    "plan_mode": "no",
+    "model_providers": "BYOK (self-hosted setup requires model-provider API keys)",
+    "pricing": "free",
+    "install_method": "npx @spikonado/sprocket (also Electron desktop installers for Linux, macOS, Windows; state in $HOME/.sprocket)",
+    "docs_url": "https://github.com/spikonado/sprocket/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://github.com/spikonado/sprocket/releases",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
     }
   },
   {
@@ -44373,6 +45318,45 @@
     "source_urls": {}
   },
   {
+    "name": "Devx",
+    "slug": "termux-devx",
+    "category": "agent",
+    "maker": "apvcode",
+    "license": "MIT",
+    "url": "https://github.com/apvcode/Termux-Dev",
+    "source_code_url": "https://github.com/apvcode/Termux-Dev",
+    "source_available": "True",
+    "platforms": [
+      "CLI"
+    ],
+    "first_released": "2026-08-24",
+    "current_release": "2026-08-28",
+    "stars": 14,
+    "language": "TypeScript",
+    "homepage": null,
+    "description": "Devx (npm package termux-dev) is a terminal AI coding agent whose primary target is Android via Termux, though it also runs on Windows, macOS, and Linux. Its dual-mode architecture separates an intera",
+    "mcp_support": "yes",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "yes",
+    "model_providers": "OpenRouter, Google Gemini, DeepSeek, Groq, Mistral, OpenAI, Anthropic, Alibaba, Ollama, LM Studio",
+    "pricing": "free",
+    "install_method": "npm install -g termux-dev (Node.js >= 20)",
+    "docs_url": "https://github.com/apvcode/Termux-Dev/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://www.npmjs.com/package/termux-dev",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "terragon-oss",
     "slug": "terragon-oss",
     "category": "multiplexer",
@@ -45318,6 +46302,46 @@
     "source_urls": {}
   },
   {
+    "name": "TrueForge",
+    "slug": "trueforge",
+    "category": "agent-sdk",
+    "maker": "truefoundry",
+    "license": "MIT",
+    "url": "https://github.com/truefoundry/trueforge",
+    "source_code_url": "https://github.com/truefoundry/trueforge",
+    "source_available": "True",
+    "platforms": [
+      "CLI",
+      "Web"
+    ],
+    "first_released": "2026-07-23",
+    "current_release": "2026-08-27",
+    "stars": 4821,
+    "language": "TypeScript",
+    "homepage": "https://trueforge.dev",
+    "description": "TrueForge is TrueFoundry's open-source agent harness: the execution loop behind an agent rather than an agent product itself. It handles model calls across OpenAI, Anthropic, Gemini, and OpenAI-compat",
+    "mcp_support": "yes",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "yes",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "OpenAI, Anthropic, Google Gemini, any OpenAI-compatible endpoint",
+    "pricing": "free",
+    "install_method": "npx (Node >= 22.14), Docker/Docker Compose, or Helm chart on Kubernetes",
+    "docs_url": "https://trueforge.dev",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://www.npmjs.com/package/@truefoundry/trueforge-sdk",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "TryCase",
     "slug": "trycase",
     "category": "agent",
@@ -45421,6 +46445,45 @@
     "plugin_docs_url": null,
     "config_docs_url": null,
     "download_url": "https://twill.ai",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
+    "name": "Twing",
+    "slug": "twing",
+    "category": "other",
+    "maker": "twing",
+    "license": "AGPL-3.0",
+    "url": "https://twing.dev/",
+    "source_code_url": "https://github.com/Twing-dev/twing-cli",
+    "source_available": "True",
+    "platforms": [
+      "CLI"
+    ],
+    "first_released": "2026-08-09",
+    "current_release": "2026-08-27",
+    "stars": 3,
+    "language": "TypeScript",
+    "homepage": "https://twing.dev/",
+    "description": "Twing is aimed at engineering leaders running fleets of AI coding agents, on the observation that agents write whole features in parallel on the same codebase and duplicate work, contradict each other",
+    "mcp_support": "no",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "yes",
+    "plan_mode": "no",
+    "model_providers": null,
+    "pricing": "freemium",
+    "install_method": "npm install -g @twing/cli (Node >= 20); twing init installs the twing-hook Go binary and wires it into Claude Code hooks",
+    "docs_url": "https://github.com/Twing-dev/twing-cli/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://www.npmjs.com/package/@twing/cli",
     "maintained": "active",
     "sources": [
       "hackernews"
@@ -45840,6 +46903,45 @@
     ],
     "source_urls": {
       "e2b": "https://github.com/e2b-dev/awesome-sdks-for-ai-agents"
+    }
+  },
+  {
+    "name": "Vendo",
+    "slug": "vendo",
+    "category": "agent-sdk",
+    "maker": "runvendo",
+    "license": "Apache-2.0",
+    "url": "https://github.com/runvendo/vendo",
+    "source_code_url": "https://github.com/runvendo/vendo",
+    "source_available": "True",
+    "platforms": [
+      "Web"
+    ],
+    "first_released": "2026-06-30",
+    "current_release": null,
+    "stars": 590,
+    "language": "TypeScript",
+    "homepage": "https://vendo.run",
+    "description": "Vendo is a YC-backed open-source layer for B2B SaaS teams that want to give their customers in-product customization without shipping a plugin platform of their own. The embedded agent executes throug",
+    "mcp_support": "yes",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "any AI SDK LanguageModel",
+    "pricing": "free",
+    "install_method": "npm packages (@vendoai/vendo) in a pnpm monorepo; PGlite by default, Postgres in production; deployable on Railway",
+    "docs_url": null,
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://www.npmjs.com/package/@vendoai/vendo",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
     }
   },
   {
@@ -47211,6 +48313,45 @@
     }
   },
   {
+    "name": "Waku",
+    "slug": "waku",
+    "category": "multiplexer",
+    "maker": "egoist",
+    "license": "GPL-3.0",
+    "url": "https://waku.sh",
+    "source_code_url": "https://github.com/egoist/waku",
+    "source_available": "True",
+    "platforms": [
+      "Desktop"
+    ],
+    "first_released": "2026-07-31",
+    "current_release": "2026-08-24",
+    "stars": 1278,
+    "language": "Rust",
+    "homepage": "https://waku.sh",
+    "description": "Waku is a native macOS app from EGOIST that aggregates the coding agent CLIs you already run into a single window it calls graphite. It connects to each agent through its strongest native protocol and",
+    "mcp_support": null,
+    "plugin_support": null,
+    "claude_code_plugin": "no",
+    "subagents": null,
+    "hooks": null,
+    "plan_mode": "no",
+    "model_providers": "delegates to the connected agent CLIs",
+    "pricing": "free",
+    "install_method": "Download from waku.sh (signed, notarized, auto-updated via Sparkle)",
+    "docs_url": "https://github.com/egoist/waku/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://waku.sh",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
+  },
+  {
     "name": "wallfacer",
     "slug": "wallfacer",
     "category": "multiplexer",
@@ -47246,6 +48387,45 @@
       "github_topic"
     ],
     "source_urls": {}
+  },
+  {
+    "name": "Warp Agent CLI",
+    "slug": "warp-agent-cli",
+    "category": "agent",
+    "maker": "warpdotdev",
+    "license": "Proprietary",
+    "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+    "source_code_url": null,
+    "source_available": "False",
+    "platforms": [
+      "CLI"
+    ],
+    "first_released": "2026-08-04",
+    "current_release": null,
+    "stars": null,
+    "language": null,
+    "homepage": "https://www.warp.dev",
+    "description": "The Warp Agent CLI (announced August 4, 2026) takes the multi-model agent built into Warp Terminal and makes it runnable in any terminal — Ghostty, iTerm 2, VS Code, or the built-in Windows and Mac te",
+    "mcp_support": "yes",
+    "plugin_support": "no",
+    "claude_code_plugin": "no",
+    "subagents": "yes",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": "Warp-provided models, custom model routers via YAML config, bring-your-own API keys and OpenAI-compatible endpoints",
+    "pricing": "freemium",
+    "install_method": "curl -fsSL https://app.warp.dev/download/agent-cli | bash (Mac/Linux); PowerShell one-liner on Windows",
+    "docs_url": "https://docs.warp.dev/agents/cli/",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://app.warp.dev/download/agent-cli",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
+    }
   },
   {
     "name": "Warp",
@@ -47703,6 +48883,45 @@
     ],
     "source_urls": {
       "jim": "https://github.com/jim-schwoebel/awesome_ai_agents"
+    }
+  },
+  {
+    "name": "Wienerdog",
+    "slug": "wienerdog",
+    "category": "other",
+    "maker": "wienerdog-ai",
+    "license": "MIT",
+    "url": "https://github.com/wienerdog-ai/wienerdog",
+    "source_code_url": "https://github.com/wienerdog-ai/wienerdog",
+    "source_available": "True",
+    "platforms": [
+      "CLI"
+    ],
+    "first_released": "2026-07-02",
+    "current_release": "2026-08-03",
+    "stars": 14,
+    "language": "JavaScript",
+    "homepage": "https://www.npmjs.com/package/wienerdog",
+    "description": "Wienerdog is an enhancement layer for the AI coding assistants you already have — Claude Code and Codex CLI — rather than an agent itself. It generates a CLAUDE.md or AGENTS.md profile through an inte",
+    "mcp_support": "no",
+    "plugin_support": "no",
+    "claude_code_plugin": "yes",
+    "subagents": "no",
+    "hooks": "no",
+    "plan_mode": "no",
+    "model_providers": null,
+    "pricing": "free",
+    "install_method": "npx wienerdog@latest init",
+    "docs_url": "https://github.com/wienerdog-ai/wienerdog/blob/main/README.md",
+    "plugin_docs_url": null,
+    "config_docs_url": null,
+    "download_url": "https://www.npmjs.com/package/wienerdog",
+    "maintained": "active",
+    "sources": [
+      "hackernews"
+    ],
+    "source_urls": {
+      "hackernews": "https://news.ycombinator.com"
     }
   },
   {

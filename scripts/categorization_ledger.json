@@ -7894,5 +7894,191 @@
   "name": "Zugabot",
   "category": "agent",
   "rationale": "Recorded as an AI coding agent API and nothing contradicts that classification, but the domain is dead and no product evidence remains to verify any behavior."
+ },
+ {
+  "slug": "needle2",
+  "name": "Needle2",
+  "category": "other",
+  "rationale": "A 45M-parameter open-weights model for tool calling on tiny devices \u2014 a model an agent could call, not an agent or framework itself."
+ },
+ {
+  "slug": "munder-difflin",
+  "name": "Munder Difflin",
+  "category": "multiplexer",
+  "rationale": "Desktop app that wraps 12 existing coding-agent CLIs as persistent clones with a monitoring UI; the agents code, it orchestrates."
+ },
+ {
+  "slug": "ante",
+  "name": "Ante",
+  "category": "agent",
+  "rationale": "Self-contained Rust terminal coding agent with its own agentic loop, 17 provider presets, MCP, skills, and multi-agent support."
+ },
+ {
+  "slug": "marbleos",
+  "name": "MarbleOS",
+  "category": "multiplexer",
+  "rationale": "A workspace GUI that manages agent activity as visible files, tools, tasks, and outputs rather than coding via its own agentic loop."
+ },
+ {
+  "slug": "sprocket",
+  "name": "Sprocket",
+  "category": "agent",
+  "rationale": "An agent that develops both hardware and software \u2014 schematics, BOMs, assembly instructions, and code \u2014 using web tools in a loop."
+ },
+ {
+  "slug": "bullet",
+  "name": "Bullet",
+  "category": "agent",
+  "rationale": "YC-backed coding agent with its own loop, model-routing, and parallel tool execution, shipped as desktop app and CLI."
+ },
+ {
+  "slug": "warp-agent-cli",
+  "name": "Warp Agent CLI",
+  "category": "agent",
+  "rationale": "Standalone CLI coding agent from Warp with its own multi-model harness, subagent orchestration, and pty-based terminal multiplexing."
+ },
+ {
+  "slug": "mole",
+  "name": "Mole",
+  "category": "other",
+  "rationale": "Deep-research agent with budget enforcement and verified quotes; complements coding agents via MCP rather than creating or modifying software itself."
+ },
+ {
+  "slug": "agent-manager",
+  "name": "Agent-Manager",
+  "category": "multiplexer",
+  "rationale": "tmux TUI that runs Claude Code, Codex, OpenCode and other agents side by side with status, prompts, and diff review \u2014 it manages agents, not code."
+ },
+ {
+  "slug": "onecli",
+  "name": "OneCLI",
+  "category": "agent",
+  "rationale": "Sandboxed per-employee agent platform with its own agent, gateway-injected credentials, and policy enforcement \u2014 the harness itself codes."
+ },
+ {
+  "slug": "vendo",
+  "name": "Vendo",
+  "category": "agent-sdk",
+  "rationale": "Embedded agent SDK that lets SaaS customers build features on a host product; a framework shipping no coding agent of its own."
+ },
+ {
+  "slug": "seed",
+  "name": "Seed",
+  "category": "agent",
+  "rationale": "Minimal single-file Python coding agent with one exec tool that grows its own capabilities by self-editing; it owns its agentic loop."
+ },
+ {
+  "slug": "hashagent",
+  "name": "HashAgent",
+  "category": "agent",
+  "rationale": "Browser agent encoded in a URL with local WebGPU inference and web tools; an inclusive fit for the expansive agent definition, though not repo-scale coding."
+ },
+ {
+  "slug": "claude-code-merge-queue",
+  "name": "claude-code-merge-queue",
+  "category": "other",
+  "rationale": "Local git merge-queue plumbing for parallel Claude Code agents \u2014 tooling around the agent, with no agentic loop of its own."
+ },
+ {
+  "slug": "waku",
+  "name": "Waku",
+  "category": "multiplexer",
+  "rationale": "Native desktop app aggregating existing coding-agent CLIs into one window with sessions, transcripts, and checkpoints."
+ },
+ {
+  "slug": "proliferate",
+  "name": "Proliferate",
+  "category": "multiplexer",
+  "rationale": "Open-source AI IDE that runs Claude Code, Codex, OpenCode and others in parallel worktrees through their native harnesses."
+ },
+ {
+  "slug": "trueforge",
+  "name": "TrueForge",
+  "category": "agent-sdk",
+  "rationale": "The runtime layer that turns an LLM into a working agent, exposed as chat UI, HTTP API, and embeddable SDK \u2014 ships no coding agent itself."
+ },
+ {
+  "slug": "hud-mode",
+  "name": "HUD",
+  "category": "multiplexer",
+  "rationale": "Terminal heads-up display that instruments Claude Code, Codex, and OpenCode sessions \u2014 a human-facing UI over agents, not an agent."
+ },
+ {
+  "slug": "microcodex",
+  "name": "MicroCodex",
+  "category": "agent",
+  "rationale": "Ultra-lightweight C++ terminal coding agent with its own tools (files, bash, glob) that talks to the Codex service via OAuth."
+ },
+ {
+  "slug": "ski",
+  "name": "SKI",
+  "category": "other",
+  "rationale": "Voice interface layer for coding agents \u2014 on-device speech-to-text and spoken replies over plain files; the connected agent does the coding."
+ },
+ {
+  "slug": "quillcode",
+  "name": "QuillCode",
+  "category": "agent",
+  "rationale": "Native Swift macOS coding agent with its own local tools, Git workflows, Computer Use, plugins, hooks, and MCP."
+ },
+ {
+  "slug": "termux-devx",
+  "name": "Devx",
+  "category": "agent",
+  "rationale": "Termux-first terminal coding agent with its own PLAN/AGENT modes, file editing, bash execution, and self-healing diagnostics."
+ },
+ {
+  "slug": "episko",
+  "name": "Episko",
+  "category": "multiplexer",
+  "rationale": "Cockpit dashboard that gathers Claude Code sessions into one view with monitoring, permissions, and usage tracking."
+ },
+ {
+  "slug": "benzi",
+  "name": "Benzi",
+  "category": "agent",
+  "rationale": "Coding agent harness that compiles codebases into queryable tree-sitter maps and gates every edit through parser-verified checks."
+ },
+ {
+  "slug": "49agents",
+  "name": "49IDE",
+  "category": "multiplexer",
+  "rationale": "2D canvas IDE for supervising many coding agents in tmux sessions across machines with broadcast input \u2014 manages agents, not code."
+ },
+ {
+  "slug": "harnessrouter",
+  "name": "HarnessRouter",
+  "category": "multiplexer",
+  "rationale": "Self-hosted unified interface exposing multiple agent harnesses through one Responses-compatible API and web console."
+ },
+ {
+  "slug": "twing",
+  "name": "Twing",
+  "category": "other",
+  "rationale": "Coordination and conflict-gating layer installed into coding agents via hooks; it registers designs and blocks conflicting edits but never codes."
+ },
+ {
+  "slug": "singular-lite",
+  "name": "Singular",
+  "category": "multiplexer",
+  "rationale": "Local orchestration engine that schedules L2 worker agents (claude/codex CLIs) across worktrees with leases, gates, and audits \u2014 it orchestrates other agents."
+ },
+ {
+  "slug": "parley",
+  "name": "Parley",
+  "category": "other",
+  "rationale": "Hosted store-and-forward messaging relay that coding agents connect to via MCP \u2014 communication infrastructure, not an agent."
+ },
+ {
+  "slug": "concord-mcp",
+  "name": "Concord",
+  "category": "other",
+  "rationale": "Local MCP server giving agents shared work state (messaging, file claims, handoffs); explicitly not an orchestrator or agent."
+ },
+ {
+  "slug": "wienerdog",
+  "name": "Wienerdog",
+  "category": "other",
+  "rationale": "Memory, skills, and routines layer for Claude Code and Codex CLI implemented as plain files \u2014 an enhancement layer, not an agent."
  }
 ]

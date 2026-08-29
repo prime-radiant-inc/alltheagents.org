@@ -1,6 +1,6 @@
 # Categorization Ledger
 
-Category decision for every entry in the census. Reviewed and re-adjudicated 2026-08-28 after three independent reviewer passes.
+Category decision for every entry in the census. Reviewed and re-adjudicated 2026-08-28 after three independent reviewer passes; extended 2026-08-28 with entries from the Hacker News 30-day sweep.
 
 ## Definitions
 
@@ -11,9 +11,9 @@ Category decision for every entry in the census. Reviewed and re-adjudicated 202
 
 ## Summary
 
-**1316 entries**: 623 agent, 210 multiplexer, 17 agent-sdk, 466 other.
+**1347 entries**: 634 agent, 220 multiplexer, 19 agent-sdk, 474 other.
 
-Reclassifications from the previous census state: agent->agent-sdk ×17, agent->multiplexer ×76, agent->other ×460, multiplexer->agent ×4, multiplexer->other ×6.
+Of these, 31 entries were added from the 2026-08-28 Hacker News sweep (sources: hackernews).
 
 ## Decisions
 
@@ -26,6 +26,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `2024-swe-new-grad` | 2024-SWE-New-Grad | other | A curated, script-updated job listings list with no AI agent, tool loop, or software-modification capability; it is job-board data with a scraping updater. |
 | `2code` | 2code | other | A desktop workspace that hosts agent terminals and reads their status from terminal output; it neither codes itself nor orchestrates other agents, so it is neither agent nor multiplexer. |
 | `30-agents-every-ai-engineer-must-build` | 30-Agents-Every-AI-Engineer-Must-Build | other | Companion code for a Packt book — 30 educational agent-architecture notebooks, not a harness that uses tools in a loop to create or modify software. |
+| `49agents` | 49IDE | multiplexer | 2D canvas IDE for supervising many coding agents in tmux sessions across machines with broadcast input — manages agents, not code. |
 | `5dive` | 5dive | multiplexer | A multi-agent orchestrator: each agent is an official coding CLI (claude, codex, devin, etc.) run as a systemd service; 5dive creates, assigns, and coordinates them rather than coding itself. |
 | `8090` | 8090 | other | An AI-native SDLC control plane and enterprise delivery service centered on governance and audit trails rather than a tool-loop harness itself. |
 | `9remote` | 9remote | multiplexer | A remote-access client that lets a phone or browser reach and drive AI coding agents (Claude Code, Codex CLI, Gemini CLI) on the dev machine; it manages access to agents rather than coding itself. |
@@ -46,6 +47,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `agent-fm` | Agent FM | multiplexer | A desktop group-chat cockpit for monitoring and steering external coding agents (Claude Code, Codex, OpenCode); it coordinates agents rather than coding itself. |
 | `agent-gui` | Agent GUI | multiplexer | A JetBrains GUI wrapper that hosts and drives external coding agents (currently Claude Code CLI); the plugin manages chat and permissions rather than coding itself. |
 | `agent-harness-kit` | Agent-harness-kit | multiplexer | A provider-agnostic scaffolding kit that structures multi-agent coding workflows — task backlog, 5-agent role workflow, SQLite action log, health gate — with an ahk CLI and local MCP server; it scaffolds and governs the loop that coding agents run. [Reclassified 2026-08-28 after three-reviewer adjudication.] |
+| `agent-manager` | Agent-Manager | multiplexer | tmux TUI that runs Claude Code, Codex, OpenCode and other agents side by side with status, prompts, and diff review — it manages agents, not code. |
 | `agent-md` | agent-md | other | An installer for rules files, hooks, and state files that constrain external coding agents; it runs no loop and codes nothing itself. |
 | `agent-of-empires` | agent-of-empires | multiplexer | A session manager (TUI + web) that runs other coding agents in parallel tmux sessions with git-branch isolation; it orchestrates agents rather than coding itself. |
 | `agent-orchestrator` | agent-orchestrator | multiplexer | A terminal orchestrator wrapping the Claude, Codex, and Gemini CLIs with failover and routing; the wrapped CLIs do the coding. |
@@ -158,6 +160,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `angles-cli` | angles-cli | agent | angles-cli is a terminal agentic coding assistant: a tool loop over 30 built-in tools that reads, writes, and runs code, with plan mode added in v0.4.1. |
 | `anima` | Anima | other | Anima is a smart-home Agent OS that controls physical devices; it uses tools in a loop but not to create or modify software, so it falls outside the harness definition. |
 | `announcement` | announcement | other | IvyCheck is a real-time safety-classification API for AI applications (prompt injection, PII, faithfulness) — model infrastructure, not an agent or multiplexer. |
+| `ante` | Ante | agent | Self-contained Rust terminal coding agent with its own agentic loop, 17 provider presets, MCP, skills, and multi-agent support. |
 | `antigravity-cli` | Antigravity CLI | agent | Google's terminal-first surface for autonomous Antigravity coding agents — background subagents, shell execution, and MCP-backed tool use make it an agent, not a manager of other agents. |
 | `antigravity-for-vs-code` | Antigravity for VS Code | multiplexer | The extension bundles no agent: it drives the locally installed Google agy CLI from a VS Code panel — a third-party UI wrapper around someone else's agent. |
 | `antigravity-jules-orchestration` | antigravity-jules-orchestration | other | It is an MCP orchestration server exposing 65 tools that coordinate external agents (Antigravity for planning, Jules for codegen) — the glue and tool supply, not a coding loop itself. |
@@ -211,6 +214,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `bb` | bb | agent | bb is an agentic IDE whose surfaces (desktop, web, CLI, HTTP API) drive live agent threads that read and modify code - an agentic IDE, not a manager of other agents. |
 | `bbarit-agent-oss` | bbarit-agent-oss | agent | bbarit is a single-binary Rust terminal AI coding agent with file/shell tools, subagent orchestration, MCP support, and multi-provider sessions. |
 | `beehive` | beehive | multiplexer | Beehive orchestrates external coding agents across isolated git workspaces with a human-facing UI (hives/combs/panes) - it launches and manages other agents rather than coding itself. |
+| `benzi` | Benzi | agent | Coding agent harness that compiles codebases into queryable tree-sitter maps and gates every edit through parser-verified checks. |
 | `bernstein` | Bernstein | multiplexer | bernstein drives CLI coding agents through a deterministic decompose-spawn-verify-merge pipeline, actively participating in the coding loop rather than just hosting panes. [Reclassified 2026-08-28 after three-reviewer adjudication.] |
 | `betool-ai-code-assistant` | betool - AI Code Assistant | multiplexer | betool is a bridge: the JetBrains plugin displays AI-proposed diffs from the betool CLI for Accept/Reject, presenting other agents' output rather than coding itself. |
 | `better-agent` | Better Agent | multiplexer | Better Agent orchestrates and hosts other agents (Claude, Codex, Gemini, Antigravity) in a unified local workspace - it does not code itself. |
@@ -240,6 +244,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `builderio-fusion` | Builder.io Fusion | agent | Fusion is an agentic visual coding platform whose Builder Agent commits code changes to live repos through Git workflows — an agent harness. |
 | `building-intelligent-apps-with-anaconda` | building-intelligent-apps-with-anaconda | other | A 10-module hands-on curriculum of demos and notebooks for PyCon 2026, not a shipped agent tool. |
 | `buildware-ai` | buildware-ai | agent | An issue-to-PR coding automation system (GitHub issue in, AI-coded pull request out) — an agent harness, though no longer maintained. |
+| `bullet` | Bullet | agent | YC-backed coding agent with its own loop, model-routing, and parallel tool execution, shipped as desktop app and CLI. |
 | `bumpgen` | bumpgen | agent | bumpgen is an AI agent that bumps npm dependencies and fixes breaking changes through a plan-graph tool loop — a narrow-purpose coding agent. |
 | `bwee` | Bwee | multiplexer | Bwee is a native Mac wrapper around Claude Code that hosts agent-built UIs and session state — it manages and surfaces an existing agent rather than coding itself. |
 | `calex-javaai` | CalEx-JavaAI | agent | An agentic Java coding platform (agent mode with tool use, planning agent, terminal commands, MCP) distributed as a JetBrains plugin. |
@@ -271,6 +276,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `claude-agent-sdk-typescript` | Claude Agent SDK (TypeScript) | agent | The official SDK that embeds Claude Code's agentic loop (file editing, command execution, workflow orchestration) into Node.js applications — an agent harness, not a multiplexer. |
 | `claude-autopilot` | Claude Autopilot | multiplexer | It does not run a tool loop or generate code itself; it queues, schedules, monitors, and auto-resumes Claude Code CLI processes, which do the actual coding. |
 | `claude-code` | Claude Code | agent | Anthropic's official agentic coding tool that runs its own tool-use loop (file edits, shell, subagents) across terminal, IDE, desktop, web, and GitHub surfaces. |
+| `claude-code-merge-queue` | claude-code-merge-queue | other | Local git merge-queue plumbing for parallel Claude Code agents — tooling around the agent, with no agentic loop of its own. |
 | `claude-code-multi-agent` | Claude-Code-Multi-Agent | agent | It layers a hook-driven agentic workspace (session hooks, skill loading, autonomous context injection) on top of Claude Code, making Claude Code itself the loop rather than managing separate agent binaries. |
 | `claude-code-plus` | claude-code-plus | multiplexer | A JetBrains GUI wrapper that launches and renders external CLI agents (Claude Code, Codex, Gemini CLI); the plugin visualizes and controls them, the CLIs do the coding. |
 | `claude-code-skeleton` | claude-code | other | The repository no longer exists (GitHub returns 404) and even before removal it was a mirror of leaked source, not a runnable or original harness. |
@@ -394,6 +400,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `companion` | companion | other | A FastAPI backend serving code chat and team-guideline management for the Quack extension - an API service, not an agentic harness; archived October 2024. |
 | `companion-vscode` | companion-vscode | other | A VS Code chat/linting extension (linting disabled, completion never shipped) with no tool loop; archived October 2024. |
 | `conch` | conch | agent | A stateless cloud coding agent that drives Claude's tool-use loop to read repos, write patches, and open PRs from Crustocean chat. |
+| `concord-mcp` | Concord | other | Local MCP server giving agents shared work state (messaging, file claims, handoffs); explicitly not an orchestrator or agent. |
 | `conductor` | Conductor | multiplexer | A platform that runs Claude Code, Codex, Cursor, and OpenCode in Firecracker microVM sandboxes with multiplayer workspaces - it orchestrates first-party agents, not code itself. |
 | `conduit-release` | conduit-release | multiplexer | A terminal-centric workspace manager (closed-source macOS app) that orchestrates user-defined coding agents across terminal/editor/browser tabs - a workspace multiplexer, not an agent. |
 | `construct` | construct | multiplexer | A daemon-backed terminal ADE ('tmux for agent fleets') that manages sessions of external agent CLIs (Codex, Claude Code, OpenCode, etc.) - session orchestration, not coding. |
@@ -530,6 +537,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `enola` | enola | other | Deterministic architectural regression-testing gate (tree-sitter dependency graph + exit code); agent-aware via MCP/hooks but not an agent. |
 | `entroly` | Entroly | other | Context-assurance layer (proxy/MCP/plugin) that compresses and verifies context for existing agents; it writes no code itself. |
 | `entwinellm` | EntwineLLM | agent | Visual Studio extension performing agentic refactor/test-gen/review through local LLMs in a tool loop. |
+| `episko` | Episko | multiplexer | Cockpit dashboard that gathers Claude Code sessions into one view with monitoring, permissions, and usage tracking. |
 | `erdos` | Erdos | agent | AI-powered data science IDE with an agentic assistant that reads/writes notebooks and code; product page now dead (dead). |
 | `even` | Even | multiplexer | Agent-native workspace hosting external agents (Claude Code, Codex) inside its terminal/browser/Stacks surfaces under policy — the agents do the coding. |
 | `evener` | Evener | agent | Go coding agent with its own tool-calling loop delivered through CLI/TUI/Hub; the Hub orchestrates Evener's own sessions. |
@@ -645,7 +653,9 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `harness-engineering-from-cc-to-ai-coding` | harness-engineering-from-cc-to-ai-coding | other | A Chinese-language technical book reverse-engineering Claude Code's source, not a harness — it is documentation/analysis rather than a tool with a coding loop. |
 | `harness-starter-kit` | Harness Starter Kit | other | A prompt-first collection of repo-engineering artifacts (instructions, checks, memory, evaluation) that existing coding agents consume; it contains no agent loop of its own. |
 | `harness-terminal` | harness-terminal | multiplexer | A native macOS terminal emulator with agent detection, notifications, and harness-cli automation — it hosts and monitors coding agents rather than coding itself. |
+| `harnessrouter` | HarnessRouter | multiplexer | Self-hosted unified interface exposing multiple agent harnesses through one Responses-compatible API and web console. |
 | `harnss` | harnss | multiplexer | harnss is an Electron desktop client that hosts and manages multiple coding agents (Claude Code, Codex, ACP agents) side by side; the agents do the coding, harnss provides the human-facing UI. |
+| `hashagent` | HashAgent | agent | Browser agent encoded in a URL with local WebGPU inference and web tools; an inclusive fit for the expansive agent definition, though not repo-scale coding. |
 | `hass-ai-orchestrator` | HASS-AI-Orchestrator | other | A Home Assistant add-on for smart-home automation with LLM reasoning and safety gates; it orchestrates home devices, not software development. |
 | `hax` | hax | agent | A terminal coding agent written in C with its own tool loop (file edits, shell commands), provider-agnostic model support, and local-model first-class support. |
 | `hcf` | hcf | agent | A Claude Code plugin that runs its own plan-then-orchestrate workflow: dependency-aware parallel TDD workers execute tasks autonomously after a human-approved plan. |
@@ -670,6 +680,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `hostinger-horizons` | Hostinger Horizons | agent | A hosted no-code AI builder with an explicit agentic mode that iteratively creates and modifies full web applications (frontend, backend, database, payments) from natural-language prompts. |
 | `httpclientcodegenerator` | HttpClientCodeGenerator | other | A Roslyn compile-time source generator for HttpClient boilerplate with no AI component, no tool loop, and no agent behavior. |
 | `huawei-codearts` | Huawei CodeArts | agent | Huawei Cloud's platform embeds a code intelligent agent (formerly CodeArts Snap) that plans and executes coding tasks across its DevOps pipeline, which is an agentic loop rather than autocomplete. |
+| `hud-mode` | HUD | multiplexer | Terminal heads-up display that instruments Claude Code, Codex, and OpenCode sessions — a human-facing UI over agents, not an agent. |
 | `huicai-ai` | HuiCai AI | agent | The plugin runs a local agent tool loop (file read/write with inline diffs, command execution, sub-agent dispatch) inside JetBrains IDEs, so it is an agent, not a chat wrapper. |
 | `humanlayer` | humanlayer | agent | HumanLayer built human-in-the-loop approval infrastructure and an agent IDE for coding agents like Claude Code and Codex, so it is an agent tooling platform rather than a multiplexer or model proxy. |
 | `huohuaai` | HuoHuaAI | agent | It is a Roo/Cline-style agentic assistant that plans tasks, edits files with diffs, runs terminal commands, and self-corrects errors — a full tool loop, not just completion. |
@@ -809,6 +820,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `mantlecore-ai` | Mantlecore AI | agent | A hosted platform that runs general-purpose autonomous agents (Agent Zero, Hermes) on persistent cloud computers, where those agents write and execute code; it hosts and runs agents rather than managing third-party agent sessions. |
 | `manus` | Manus | agent | A general-purpose autonomous cloud agent that plans and executes multi-step tasks - building websites, slides, research reports - with tools in a loop, which places it in the expansive agent category. |
 | `mapcoder` | MapCoder | agent | A multi-agent code-generation framework whose retrieval, planning, coding, and debugging agents run a tool-using pipeline over programming problems; a research harness, now explicitly unmaintained. |
+| `marbleos` | MarbleOS | multiplexer | A workspace GUI that manages agent activity as visible files, tools, tasks, and outputs rather than coding via its own agentic loop. |
 | `marblism` | Marblism | other | An AI-employee SaaS for business operations (email, social media, lead generation, SEO, calls, legal); apart from a website-builder worker it does not create or modify software and is not a coding harness. |
 | `marg-reviewer` | marg-reviewer | other | A research demo that generates peer reviews of scientific papers with multiple agent strategies; it reviews papers, not code, and ships no coding loop. |
 | `mastra` | Mastra | agent-sdk | A TypeScript framework for building AI agents - its core objects are tool-using agents with loops, workflows, memory, and subagents, and it ships a Harness subsystem aimed at coding agents, placing it inside the expansive agent definition rather than in gateway or eval tooling. [Reclassified 2026-08-28: general agent-building framework/SDK; ships no coding agent itself — new agent-sdk category.] |
@@ -826,6 +838,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `mervelas` | Mervelas | agent | A terminal coding CLI with a tool/execute loop, provider choice, and MCP integration — an agent harness, though an experimental 5-commit one. |
 | `metagpt` | MetaGPT | agent | A multi-agent software-generation system whose role agents produce runnable projects from one-line requirements through SOP-chained loops. |
 | `micro-agent` | Micro Agent | agent | BuilderIO's bounded coding agent writes a unit test then iterates code until tests pass; the census URL's empty repo is unrelated to this real product. |
+| `microcodex` | MicroCodex | agent | Ultra-lightweight C++ terminal coding agent with its own tools (files, bash, glob) that talks to the Codex service via OAuth. |
 | `microsoft-agent-framework` | Microsoft Agent Framework | agent-sdk | A general SDK for building AI agents (AutoGen/Semantic Kernel successor), not itself a tool-using coding harness. [Reclassified 2026-08-28: general agent-building framework/SDK; ships no coding agent itself — new agent-sdk category.] |
 | `microsoft-magentic-one` | Microsoft Magentic-One | agent-sdk | A generalist multi-agent system for web/file tasks with a coding specialist inside — not a dedicated software-development harness. [Reclassified 2026-08-28: general agent-building framework/SDK; ships no coding agent itself — new agent-sdk category.] |
 | `miii-cli` | miii-cli | agent | A terminal coding agent with a Plan-Act-Observe tool loop over permission-gated file/shell tools, running entirely on local models. |
@@ -843,6 +856,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `mocha` | Mocha | other | A vertically integrated consumer AI app builder (auth/db/backend/hosting included), not a developer harness — and it shut down August 1, 2026. |
 | `modelcode` | ModelCode | agent | Its Morph product plans and executes legacy-code modernization milestones through ModelDaemon, a self-hosted agent running builds and tests — an agentic code-modification loop. |
 | `moderne` | Moderne | agent | Ships Moddy, a first-party agent that plans and executes multi-repository refactors over OpenRewrite recipes, though deterministic recipe execution is the platform's core. |
+| `mole` | Mole | other | Deep-research agent with budget enforcement and verified quotes; complements coding agents via MCP rather than creating or modifying software itself. |
 | `momo-code` | momo-code | agent | An opencode-based terminal coding agent with a full tool loop, subagent DAGs, MCP, and 25+ providers; its self-evolution loops modify the agent itself. |
 | `monk` | Monk | agent | An autonomous DevOps agent inside the IDE that plans and executes infrastructure/DevOps operations from the editor. |
 | `monkeycode` | MonkeyCode | agent | An open-source enterprise AI development platform whose agents execute coding tasks in cloud dev environments with automated PR/MR review — a full coding platform, not a manager of other agents. |
@@ -861,6 +875,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `multiagent-debate` | Multiagent Debate | other | A research implementation of multiagent debate for LLM factuality on math/biography/MMLU benchmarks — no tools, no code modification, no software development. |
 | `multiagentworkflow` | Multiagentworkflow | other | The repository is completely empty (no code, README, or commits), so there is no tool to categorize. |
 | `multiplayer` | multiplayer | agent | An open-source debugging agent that runs its own loop — capturing production runtime data, triaging errors, prompting coding agents, and creating PRs. |
+| `munder-difflin` | Munder Difflin | multiplexer | Desktop app that wraps 12 existing coding-agent CLIs as persistent clones with a monitoring UI; the agents code, it orchestrates. |
 | `murmell` | Murmell | multiplexer | A cloud canvas that runs existing coding agents (Claude Code, Codex, Kimi, OpenCode) side by side with file-reservation locking — it coordinates other agents and writes no code itself. |
 | `muse-code` | Muse Code | other | The cited repository (github.com/meta-ai/muse-code) returns 404 and no official Meta product named Muse Code is verifiable — nothing exists to classify as an agent or multiplexer. |
 | `mutableai` | mutable.ai | other | Its shipped products were codebase documentation (AI Wiki), chat, and PR summaries; the Codegen agent never launched, and the company is defunct (domain unresolvable). |
@@ -873,6 +888,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `nano-bots` | Nano-Bots | agent | YAML cartridge bots with tool/function calling run in a loop by CLI/editor/API implementations, fitting the expansive agent definition. |
 | `nanocoder` | Nanocoder | agent | A terminal agentic coding assistant with its own tool loop, MCP, skills, subagents, and plan mode. |
 | `nasiko` | nasiko | other | A self-hosted developer control plane that proxies, secures, and observes A2A-protocol agent traffic — infrastructure, not a coding agent or a human-facing agent manager. |
+| `needle2` | Needle2 | other | A 45M-parameter open-weights model for tool calling on tiny devices — a model an agent could call, not an agent or framework itself. |
 | `nefi` | nefi | agent | An AI agent that performs git operations, package management, and file edits in Next.js codebases from natural-language commands. |
 | `nehemiah` | nehemiah | other | Supplies disposable Firecracker microVM compute environments for AI agents; it does not itself use tools to create or modify software. |
 | `neocode` | NeoCode | agent | A terminal-native coding agent with plan/build modes, MCP, and the NeoLens execution-replay explorer. |
@@ -915,6 +931,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `omnigent` | Omnigent | multiplexer | A meta-harness that supervises, swaps, and governs external coding agents (Claude Code, Codex, Cursor, OpenCode, Pi, custom) rather than coding itself. |
 | `omnipilot-bring-your-own-model` | OmniPilot - Bring Your Own Model | agent | A JetBrains plugin with an autonomous Agent Mode that runs coding edits in a tool loop against bring-your-own OpenAI-compatible models. |
 | `ona` | Ona | agent | Ona (formerly Gitpod, now part of OpenAI) runs autonomous background coding agents that execute engineering work and return pull requests in governed cloud environments. |
+| `onecli` | OneCLI | agent | Sandboxed per-employee agent platform with its own agent, gateway-injected credentials, and policy enforcement — the harness itself codes. |
 | `onui` | onUI | other | A browser extension plus local MCP server that supplies annotated UI context to external coding agents; it has no agentic loop and writes no code. |
 | `onuro-ai-code-assistant` | Onuro - AI Code Assistant | agent | A JetBrains AI code assistant whose premium tier runs an autonomous agent that edits files, creates files, and runs terminal commands. |
 | `opcode` | opcode | multiplexer | A desktop GUI command center that manages sessions, custom agents, MCP servers, and analytics for the Claude Code CLI without coding itself. |
@@ -973,6 +990,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `paperbanana-pro` | PaperBanana-Pro | other | PaperBanana-Pro generates scientific illustrations and statistical plots from paper text; it does not use tools in a loop to create or modify software. |
 | `par` | par | agent-sdk | PAR is a general-purpose agent runtime SDK (the ReAct loop, tool dispatch, and persistence layer); the coding agent built on it is a separate project (par-code), so the runtime itself is framework tooling rather than a harness. [Reclassified 2026-08-28: general agent-building framework/SDK; ships no coding agent itself — new agent-sdk category.] |
 | `parallel-code` | Parallel Code | multiplexer | Parallel Code runs external coding-agent CLIs (Claude Code, Codex, Gemini CLI, Antigravity, Copilot) in parallel and manages their diffs; it does no coding itself, making it a multiplexer. |
+| `parley` | Parley | other | Hosted store-and-forward messaging relay that coding agents connect to via MCP — communication infrastructure, not an agent. |
 | `paseo` | Paseo | multiplexer | Paseo orchestrates external coding agents (Claude Code, Codex, Copilot, OpenCode, Pi) through a self-hosted daemon; the agents do the coding, so Paseo is a multiplexer. |
 | `patapim` | PATAPIM | multiplexer | PATAPIM wraps and manages multiple terminals running Claude Code, Codex, Antigravity, and other agent CLIs — the agents do the coding while PATAPIM supplies the grid, computer control, and remote access, fitting the multiplexer definition. |
 | `patchwork` | Patchwork | agent | Patchwork is a self-hosted CLI that runs LLM-assisted patchflows (AutoFix, ResolveIssue, PRReview) which scan code, call models, edit files, and open PRs — automated code modification in a pipeline loop. |
@@ -1031,6 +1049,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `project-codeguard` | project-codeguard | other | A vendor-neutral security rules/skills framework that agents consume as static content or via an MCP rules server — it supplies rules, not a tool loop. |
 | `project-os-for-codex` | project-os-for-codex | multiplexer | A project-record/control-plane layer around OpenAI Codex that supplies context and records progress through a two-tool MCP server; it explicitly does not run or code agents itself. |
 | `project-socrates` | Project-S.O.C.R.A.T.E.S. | agent | Was described as a multi-agent AI coding template, but the repository is deleted (404), leaving only the archived description. |
+| `proliferate` | Proliferate | multiplexer | Open-source AI IDE that runs Claude Code, Codex, OpenCode and others in parallel worktrees through their native harnesses. |
 | `prometheus` | Prometheus | agent | A multi-agent autonomous system that reproduces, repairs, and verifies fixes for GitHub issues using a Neo4j codebase knowledge graph — a genuine coding agent platform. |
 | `promptengineering` | Promptengineering | other | A personal collection of engineered prompts with no tooling, runtime, or agent loop — a prompt library, not a harness. |
 | `promptly` | Promptly | other | A no-code platform for building AI chatbots, apps, and RAG pipelines — application building without an agentic coding loop. |
@@ -1050,6 +1069,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `qodo` | Qodo | other | An AI code review and quality-governance platform whose specialized agents analyze PRs — it verifies code rather than writing it in a tool loop. |
 | `qonqrete` | QonQrete | agent | A deterministic AI coding agent that runs plan-build-validate-inspect loops inside containerized sandboxes with bounded repair iterations. |
 | `quanta-ai` | Quanta AI | agent | A JetBrains agentic coding assistant using OpenAI models with project-aware tools, guarded edits, terminal/test execution, and MCP integration. |
+| `quillcode` | QuillCode | agent | Native Swift macOS coding agent with its own local tools, Git workflows, Computer Use, plugins, hooks, and MCP. |
 | `qwen-agent` | Qwen-Agent | other | A general LLM application framework (RAG, browser agents, tool use) whose code interpreter is one tool among many — not a harness that codes. |
 | `qwen-cli-coder` | qwen_cli_coder | agent | A community fork of Gemini CLI retargeted to Qwen models — a full CLI coding agent with subagent coordination and MCP management, now unmaintained. |
 | `qwen-code` | Qwen Code | agent | Alibaba's official agentic coding CLI (forked from Gemini CLI) with subagents, hooks, plan mode, MCP, skills, and multi-provider model support. |
@@ -1107,6 +1127,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `sealos` | sealos | other | A Kubernetes-based cloud operating system (cloud IDEs, app launchpad, managed databases, app store); its AI-native positioning refers to hosting AI-built applications, and it runs no coding agent loop itself. |
 | `seance` | seance | multiplexer | A terminal multiplexer that hosts external agents (Claude Code, Codex, Pi) and surfaces their state; the agents do the coding while Séance provides panes, tracking, and notifications. |
 | `secure-ai-agent-boundary` | secure-ai-agent-boundary | other | CodeBoundary is a described governance framework for sandboxing AI access to code; the repository contains only a README and landing page with no executable agent or tooling. |
+| `seed` | Seed | agent | Minimal single-file Python coding agent with one exec tool that grows its own capabilities by self-editing; it owns its agentic loop. |
 | `self-improving-agents` | self-improving-agents | agent | Implements runnable code-modifying agent loops (including agents that rewrite their own source and adversarial agent-vs-test co-evolution) — a research agent framework, not eval tooling or a multiplexer. |
 | `self-improving-coding-agent` | self_improving_coding_agent | agent | SICA is a real coding agent (evaluate on benchmarks, archive, modify its own codebase, repeat) whose self-modification loop is the experiment; a research artifact but functionally an agent. |
 | `sema-code` | Sema Code | agent | Its own description includes subagent management, plan-mode task planning, and MCP support — an agent with a tool loop inside JetBrains, not plain autocomplete. |
@@ -1118,8 +1139,10 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `shotgun` | shotgun | agent | Runs its own multi-agent pipeline (Router, research, specify, plan, tasks agents) with tree-sitter code indexing, generating specs and staged plans with a tool loop even though final execution is left to external agents. |
 | `sigil-coding-assistant` | Sigil - Coding Assistant | agent | Embeds OpenCode's agent (file edits, tool calls, MCP, review commands) inside JetBrains IDEs via a local opencode serve process, so the agentic loop is real and runs locally. |
 | `sinew` | sinew | agent | A desktop coding harness with its own tool loop (bash, edit, search, subagents, swarm); the customization layer shapes what the model can do, not whether it codes. |
+| `singular-lite` | Singular | multiplexer | Local orchestration engine that schedules L2 worker agents (claude/codex CLIs) across worktrees with leases, gates, and audits — it orchestrates other agents. |
 | `singulary` | singulary | agent | Runs a built-in coding agent that reads, writes, and patches files and executes shell commands inside project containers — a self-hosted app-builder agent, not a wrapper around external agents. |
 | `sixth-ai` | Sixth AI | agent | A VS Code agent that plans, executes multi-file edits, runs terminal commands, and self-corrects behind diff approvals — a genuine tool-use coding loop. |
+| `ski` | SKI | other | Voice interface layer for coding agents — on-device speech-to-text and spoken replies over plain files; the connected agent does the coding. |
 | `slate` | Slate | other | An empty placeholder repository with only a one-line README; no agent harness exists to verify. |
 | `small-opencode-orchestrator` | small-opencode-orchestrator | agent | An OpenCode agent configuration running an orchestrator loop that delegates to nine specialized subagents. |
 | `smallest-agent` | Smallest Agent | agent | A functional model-driven coding agent with bash tool access, deliberately minimized to 493 bytes. |
@@ -1140,6 +1163,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `spark-d2c-agent` | Spark D2C Agent | agent | iFlytek's design-to-code product converts designs into frontend code — code generation, though the vendor homepage was unreachable for verification. |
 | `specbuddy` | SpecBuddy | multiplexer | A control layer that drives external agents (Claude Code, Codex) through spec-plan-step-review cycles rather than coding itself. |
 | `speech-to-code` | Speech-To-Code | other | A one-shot speech-to-LLM prompt composer displaying code for copy-out; no agentic tool loop. |
+| `sprocket` | Sprocket | agent | An agent that develops both hardware and software — schematics, BOMs, assembly instructions, and code — using web tools in a loop. |
 | `squarebox` | squarebox | other | A containerized dev environment bundling existing CLI tools and coding assistants — neither an agent nor an orchestrator. |
 | `srd-codefree` | SRD CodeFree | agent | A VS Code AI programming assistant whose agent mode reads/edits files, runs terminal commands, and accepts MCP tools. |
 | `sre` | sre | agent | A runtime and SDK that executes the agent loop for developer-built agents with model/tool/resource orchestration. |
@@ -1203,6 +1227,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `tempo` | Tempo | agent | Tempo runs Claude Code/Codex agents against the user's repository (isolated worktrees, reviewable PRs) inside a product-team workspace, so it is an agent product rather than a passive manager of third-party agents. |
 | `tencent-yuanqi` | Tencent Yuanqi | other | Tencent Yuanqi is a no-code platform for building and hosting conversational agents (customer service, WeChat personas) with no code-generation capability, so it is 'other'. |
 | `terminal` | terminal | agent | BBARIT Terminal is a coding IDE whose built-in agents edit code, run tests, and merge via enforced verify loops, so it is an agent harness (with multiplexer-like multi-CLI hosting as a secondary feature). |
+| `termux-devx` | Devx | agent | Termux-first terminal coding agent with its own PLAN/AGENT modes, file editing, bash execution, and self-healing diagnostics. |
 | `terragon-oss` | terragon-oss | multiplexer | Terragon was a remote orchestrator that ran external coding CLIs (Claude Code, Codex, Amp, Gemini) in cloud sandboxes; it managed other agents rather than coding itself, so it is a multiplexer (now shut down). |
 | `testai-agent` | Testai-Agent | agent | TestAI-Agent is a GitHub Action that dispatches an AI agent (LangGraph-based) to write tests for PR changes, i.e. a tool loop that modifies code, so it is an agent. |
 | `teta` | teta | agent | Teta is an AI app builder that generates Flutter mobile apps from natural-language descriptions — an agentic code-generation product, even though the OSS release only exposes the local editor. |
@@ -1228,9 +1253,11 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `traycer` | Traycer | multiplexer | The open-source Traycer app orchestrates external agent subscriptions via BYOA with unified context; it runs no coding loop of its own. |
 | `traycer-ai` | Traycer AI | multiplexer | Traycer is a planning/orchestration workspace that creates planning artifacts rather than code and connects existing agents (Claude Code, Codex, Cursor, OpenCode) — the external agents code. |
 | `trickle` | Trickle | agent | A natural-language app builder that generates and deploys live web apps through its own build pipeline (agentic workflow split into sister product HappyCapy). |
+| `trueforge` | TrueForge | agent-sdk | The runtime layer that turns an LLM into a working agent, exposed as chat UI, HTTP API, and embeddable SDK — ships no coding agent itself. |
 | `trycase` | TryCase | agent | The live product is a GitHub bot that tests PR changes end-to-end in sandboxes and posts verdicts with demo videos — agentic verification of code changes. |
 | `tutti` | tutti | multiplexer | Its README states Tutti is not a replacement for your coding agent — it is a real-time shared workspace where external agents share context, files, and tasks. |
 | `twill` | Twill | multiplexer | Twill runs third-party coding agents (Claude Code, Codex, OpenCode) inside managed isolated environments and turns triggers into PRs — it orchestrates other agents rather than coding itself. |
+| `twing` | Twing | other | Coordination and conflict-gating layer installed into coding agents via hooks; it registers designs and blocks conflicting edits but never codes. |
 | `twitter` | twitter | other | The X/Twitter account of Nurgo Software (AquaSnap, TidyTabs, BrainSoup) — a vendor social profile, not a harness. |
 | `typechat` | TypeChat | other | A Microsoft library that converts natural language into schema-validated typed objects — no tool loop and no code generation, so neither agent nor multiplexer. |
 | `ultragamestudio` | UltraGameStudio | agent | A Claude Code-style coding agent rebuilt around game development, with its own tool loop, /studio execution harness, parallel subagents, and multi-provider routing. |
@@ -1242,6 +1269,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `v0-vercel` | v0 (Vercel) | agent | v0 plans tasks, writes code, and connects databases in its own agentic build loop before deploying to Vercel — an agentic app builder, not a mockup tool. |
 | `valuecell` | valuecell | other | A multi-agent platform for financial research and trading over market data and exchanges — agentic but operating on financial data, not software, so outside the harness definition. |
 | `vannaai` | Vanna.AI | other | A text-to-SQL agent that queries databases — it generates SQL against data, not software, so it falls outside the coding-harness definition. |
+| `vendo` | Vendo | agent-sdk | Embedded agent SDK that lets SaaS customers build features on a host product; a framework shipping no coding agent of its own. |
 | `verbalcodeai` | VerbalCodeAi | agent | A terminal agent with a 30+ tool agentic mode for codebase navigation, search, and analysis, running local-first over Ollama. |
 | `vercel-doctor` | vercel-doctor | other | A deterministic static-analysis CLI that audits Next.js codebases for Vercel cost patterns — no LLM and no tool loop, only diagnostics plus fix prompts for external agents. |
 | `verdent` | Verdent | agent | An autonomous agentic coding assistant inside JetBrains IDEs: plans tasks, executes multi-step workflows with subagents, approvals, and scoped checkpoints. |
@@ -1279,8 +1307,10 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `vscode-extension` | vscode-extension | agent | A BYOK AI coding assistant extension for VS Code, now discontinued in favor of the Flexpilot IDE fork. |
 | `vt-code` | VT Code | agent | A Rust TUI coding agent with unusually broad protocol coverage (MCP client+server, ACP, A2A) and an approval-gated hook system. |
 | `waii` | Waii | other | A text-to-SQL agent platform (not a software-writing harness); it builds SQL via a compiler plus knowledge graph rather than modifying codebases. [Reclassified 2026-08-28 after three-reviewer adjudication.] |
+| `waku` | Waku | multiplexer | Native desktop app aggregating existing coding-agent CLIs into one window with sessions, transcripts, and checkpoints. |
 | `wallfacer` | wallfacer | multiplexer | A locally-run engineering platform that plans, dispatches, and supervises work across pluggable coding-agent harnesses; it orchestrates other agents. [Reclassified 2026-08-28 after three-reviewer adjudication.] |
 | `warp` | Warp | agent | An agentic development environment combining its own terminal, agent CLI, and cloud agent orchestration; the coding agent itself, not a pure manager of other agents. |
+| `warp-agent-cli` | Warp Agent CLI | agent | Standalone CLI coding agent from Warp with its own multi-model harness, subagent orchestration, and pty-based terminal multiplexing. |
 | `watsonx-code-assistant-for-enterprise-java-applications` | watsonx Code Assistant for Enterprise Java Applications | agent | An IBM VS Code extension that plans and applies Java runtime/version upgrades with generative AI, an agentic modernization workflow. |
 | `we0` | we0 | agent | An open-source AI website-building platform with a role-based multi-agent pipeline rather than a single-shot code generator. |
 | `weaver` | Weaver | multiplexer | A local CLI coordination layer for multiple AI coding agents; it coordinates rather than codes, but has no human-facing agent-management UI, so it sits between categories — closest to agent as a coordination tool in the census's expansive sense. [Reclassified 2026-08-28 after three-reviewer adjudication.] |
@@ -1292,6 +1322,7 @@ Reclassifications from the previous census state: agent->agent-sdk ×17, agent->
 | `westworld-simulation` | “Westworld” simulation | other | A Python multi-agent simulation library for logistics/retail/epidemiology modeling; its agents are simulated actors, not software-writing tool loops. |
 | `whailion-ai` | Whailion AI | agent | A JetBrains AI coding plugin with domain-specialized agents and tool execution (file edits, commands) under user approval. |
 | `whitebox-code-gpt` | Whitebox-Code-Gpt | other | A curated repository of instruction and knowledge files for ChatGPT Custom GPTs; no tool loop, no harness. |
+| `wienerdog` | Wienerdog | other | Memory, skills, and routines layer for Claude Code and Codex CLI implemented as plain files — an enhancement layer, not an agent. |
 | `windsurf` | Windsurf | agent | The Windsurf editor is an AI IDE whose built-in Cascade/Devin Local agent harness does the coding; the page documents the editor itself. |
 | `windsurf-codeium` | Windsurf (Codeium) | agent | An AI-first IDE whose built-in Cascade/Devin Local agent harness writes, runs, and deploys code; the harness is the product. |
 | `wingman-ai` | Wingman-AI | agent | An agentic VS Code extension that implements features autonomously and executes commands, with its own tool loop. |

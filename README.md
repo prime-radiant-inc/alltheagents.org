@@ -2,7 +2,7 @@
 
 Comprehensive census of coding agent harnesses — systems that let an LLM autonomously write, modify, debug, or run code — plus the multiplexers that manage them and the SDKs used to build them.
 
-**1,316 entries catalogued**: 623 agents, 210 multiplexers, 17 agent SDKs, 466 other (gateways, frameworks, tooling, and adjacent artifacts). Browse the live site at [harness-census](https://prime-radiant-inc.github.io/harness-census/).
+**1,347 entries catalogued**: 634 agents, 220 multiplexers, 19 agent SDKs, 474 other (gateways, frameworks, tooling, and adjacent artifacts). Browse the live site at [harness-census](https://prime-radiant-inc.github.io/harness-census/).
 
 ## Categorization
 
@@ -13,7 +13,7 @@ Every entry carries exactly one category, decided against these definitions:
 - **agent-sdk** — a general agent-building framework, SDK, or toolkit that ships no coding agent of its own (e.g. AutoGen, CrewAI, LangGraph).
 - **other** — neither of the above: model gateways, prompt libraries, eval tooling, MCP tool servers, datasets, tutorials, link-only artifacts.
 
-Every decision, with a one-line rationale, is recorded in [`CATEGORIZATION_LEDGER.md`](CATEGORIZATION_LEDGER.md) (machine-readable copy: `scripts/categorization_ledger.json`). The 2026-08-28 review pass reclassified 539 entries and was independently verified by three reviewer passes over the full list.
+Every decision, with a one-line rationale, is recorded in [`CATEGORIZATION_LEDGER.md`](CATEGORIZATION_LEDGER.md) (machine-readable copy: `scripts/categorization_ledger.json`). The 2026-08-28 review pass reclassified 539 entries, was independently verified by three reviewer passes over the full list, and added 31 entries from a 30-day Hacker News sweep.
 
 ## Contents
 
