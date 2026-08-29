@@ -8,10 +8,17 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy({ "_data/agents.json": "agents.json" });
 
-  // Collection: all agent harnesses (exclude multiplexers and agent-sdk frameworks)
+  // Collection: all agent harnesses (only category === "agent")
   eleventyConfig.addCollection("agent", function(collectionApi) {
     return collectionApi.getFilteredByGlob("agents/*.md").filter(
-      item => item.data.category !== "multiplexer" && item.data.category !== "agent-sdk"
+      item => item.data.category === "agent"
+    );
+  });
+
+  // Collection: all entries (for the /all/ page — every category)
+  eleventyConfig.addCollection("all-entries", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("agents/*.md").filter(
+      item => item.data.category !== undefined
     );
   });
 

@@ -1,21 +1,28 @@
 ---
 layout: base.njk
 pagination:
-  data: collections.agent
+  data: collections["all-entries"]
   size: 100
   alias: agents
 eleventyComputed:
-  title: "All Agents — Harness Census"
+  title: "All Entries — Harness Census"
   extraScripts: |
     <script src="{{ '/js/list-view.js' | url }}"></script>
 ---
 <div class="page-header">
-  <h1>All Agents</h1>
-  <p class="page-sub">{{ collections.agent | size }} coding agents and harnesses, sorted alphabetically.</p>
+  <h1>All Entries</h1>
+  <p class="page-sub">{{ collections["all-entries"] | size }} entries catalogued — agents, multiplexers, SDKs, and other. Filter and sort below.</p>
 </div>
 
 <div class="filter-bar" data-filter-bar data-source="agents-only">
   <input type="search" class="filter-search" data-filter-search placeholder="Filter by name, maker, language…">
+  <select data-filter-select data-field="category">
+    <option value="">All categories</option>
+    <option value="agent">Agent</option>
+    <option value="multiplexer">Multiplexer</option>
+    <option value="agent-sdk">Agent SDK</option>
+    <option value="other">Other</option>
+  </select>
   <select data-filter-select data-field="license">
     <option value="">All licenses</option>
   </select>
@@ -42,7 +49,7 @@ eleventyComputed:
   {% set sorted = agents | sortByName %}
   {% for agent in sorted %}
   <a class="agent-card" href="{{ ('/agents/' ~ agent.data.slug ~ '/') | url }}"
-     data-name="{{ agent.data.name }}"
+     data-category="{{ agent.data.category }}"\n     data-name="{{ agent.data.name }}"
      data-maker="{{ agent.data.maker or '' }}"
      data-license="{{ agent.data.license or '' }}"
      data-maintained="{{ agent.data.maintained or '' }}"
@@ -56,6 +63,7 @@ eleventyComputed:
     </div>
     <p class="card-desc">{% if agent.data.what_makes_it_special %}{{ agent.data.what_makes_it_special | truncate(160) }}{% endif %}</p>
     <div class="card-meta">
+      {% if agent.data.category %}<span class="badge badge-cat badge-cat-{{ agent.data.category }}">{{ agent.data.category }}</span>{% endif %}
       {% if agent.data.maker and agent.data.maker != "null" %}<span>{{ agent.data.maker }}</span><span class="dot">·</span>{% endif %}
       {% if agent.data.license and agent.data.license != "null" %}<span>{{ agent.data.license }}</span><span class="dot">·</span>{% endif %}
       {% if agent.data.maintained and agent.data.maintained != "null" %}<span class="badge badge-status badge-status-{{ agent.data.maintained }}">{{ agent.data.maintained }}</span>{% endif %}
@@ -64,7 +72,7 @@ eleventyComputed:
   {% endfor %}
 </div>
 
-<div class="filter-empty" data-filter-empty hidden>No agents match your filters.</div>
+<div class="filter-empty" data-filter-empty hidden>No entries match your filters.</div>
 
 {% if pagination.hrefs.length > 1 %}
 <div class="pagination">
