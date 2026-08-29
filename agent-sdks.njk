@@ -2,24 +2,47 @@
 layout: base.njk
 eleventyComputed:
   title: "Agent SDKs — Harness Census"
+  extraScripts: |
+    <script src="{{ '/js/list-view.js' | url }}"></script>
 ---
-<h1>Agent SDKs &amp; Frameworks</h1>
-<p>General agent-building frameworks, SDKs, and toolkits. These ship no coding agent of their own — developers construct agents from them (AutoGen, CrewAI, LangGraph, and similar).</p>
-<p>{{ collections["agent-sdk"] | size }} SDKs catalogued.</p>
+<div class="page-header">
+  <h1>Agent SDKs &amp; Frameworks</h1>
+  <p class="page-sub">General agent-building frameworks, SDKs, and toolkits. These ship no coding agent of their own — developers construct agents from them (AutoGen, CrewAI, LangGraph, and similar).</p>
+</div>
 
-<table class="agent-table">
-  <thead>
-    <tr><th>Name</th><th>Maker</th><th>License</th><th>Stars</th></tr>
-  </thead>
-  <tbody>
-    {% set sorted = collections["agent-sdk"] | sortByStars %}
-    {% for sdk in sorted %}
-    <tr>
-      <td><a href="{{ ('/agents/' ~ sdk.data.slug ~ '/') | url }}">{{ sdk.data.name }}</a></td>
-      <td>{{ sdk.data.maker or "—" }}</td>
-      <td>{{ sdk.data.license or "—" }}</td>
-      <td>{{ sdk.data.stars | starFmt }}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+<div class="filter-bar" data-filter-bar>
+  <input type="search" class="filter-search" data-filter-search placeholder="Filter by name, maker, language…">
+  <select data-filter-select data-field="license">
+    <option value="">All licenses</option>
+  </select>
+  <select data-filter-sort>
+    <option value="name">Sort: Name</option>
+    <option value="stars">Sort: Stars</option>
+  </select>
+  <span class="filter-count" data-filter-count></span>
+</div>
+
+<div class="card-grid" data-card-grid>
+  {% set sorted = collections["agent-sdk"] | sortByStars %}
+  {% for sdk in sorted %}
+  <a class="agent-card" href="{{ ('/agents/' ~ sdk.data.slug ~ '/') | url }}"
+     data-name="{{ sdk.data.name }}"
+     data-maker="{{ sdk.data.maker or '' }}"
+     data-license="{{ sdk.data.license or '' }}"
+     data-maintained="{{ sdk.data.maintained or '' }}"
+     data-stars="{{ sdk.data.stars or 0 }}"
+     data-language="{{ sdk.data.language or '' }}">
+    <div class="card-top">
+      <span class="card-name">{{ sdk.data.name }}</span>
+      {% if sdk.data.stars and sdk.data.stars != "null" %}<span class="card-stars">★ {{ sdk.data.stars | starFmt }}</span>{% endif %}
+    </div>
+    <p class="card-desc">{% if sdk.data.what_makes_it_special %}{{ sdk.data.what_makes_it_special | truncate(160) }}{% endif %}</p>
+    <div class="card-meta">
+      {% if sdk.data.maker and sdk.data.maker != "null" %}<span>{{ sdk.data.maker }}</span><span class="dot">·</span>{% endif %}
+      {% if sdk.data.maintained and sdk.data.maintained != "null" %}<span class="badge badge-status badge-status-{{ sdk.data.maintained }}">{{ sdk.data.maintained }}</span>{% endif %}
+    </div>
+  </a>
+  {% endfor %}
+</div>
+
+<div class="filter-empty" data-filter-empty hidden>No SDKs match your filters.</div>

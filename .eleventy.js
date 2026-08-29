@@ -29,6 +29,12 @@ module.exports = function(eleventyConfig) {
     );
   });
 
+  // Filter: entries sharing a maker (for related-entries sidebars)
+  eleventyConfig.addFilter("filterByMaker", function(collection, maker) {
+    if (!maker || !collection) return [];
+    return collection.filter(item => item.data && item.data.maker === maker);
+  });
+
   // Filter: format date
   eleventyConfig.addFilter("dateFmt", function(dateStr) {
     if (!dateStr || dateStr === "null") return "—";

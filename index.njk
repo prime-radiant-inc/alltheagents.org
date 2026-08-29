@@ -5,55 +5,78 @@ eleventyComputed:
 ---
 <section class="hero">
   <h1>Coding Agent Harness Census</h1>
-  <p class="hero-subtitle">The maintained catalog of every coding agent harness, multiplexer, and agent SDK.</p>
-  <p class="hero-count"><strong>{{ collections.agent | size }}</strong> agents · <strong>{{ collections.multiplexer | size }}</strong> multiplexers · <strong>{{ collections["agent-sdk"] | size }}</strong> SDKs catalogued.</p>
+  <p class="hero-subtitle">The maintained catalog of every coding agent harness, the multiplexers that manage them, and the SDKs used to build them.</p>
+  <p class="hero-count"><strong>{{ collections.agent | size }}</strong> agents · <strong>{{ collections.multiplexer | size }}</strong> multiplexers · <strong>{{ collections["agent-sdk"] | size }}</strong> SDKs</p>
 </section>
 
 <section class="search-section">
-  <input type="text" id="search" placeholder="Search agents..." class="search-input">
+  <input type="text" id="search" placeholder="Search all 1,347 entries — try 'rust terminal agent' or 'aider'…" class="search-input" autocomplete="off">
   <div id="search-results" class="search-results"></div>
 </section>
 
-<section class="featured">
-  <h2>Top Agents by Stars</h2>
-  <table class="agent-table">
-    <thead>
-      <tr><th>Name</th><th>Maker</th><th>License</th><th>Platform</th><th>Stars</th><th>First Released</th></tr>
-    </thead>
-    <tbody id="agent-list">
-      {% set sorted = collections.agent | sortByStars %}
-      {% for agent in sorted.slice(0, 50) %}
-      <tr>
-        <td><a href="{{ ('/agents/' ~ agent.data.slug ~ '/') | url }}">{{ agent.data.name }}</a></td>
-        <td>{{ agent.data.maker or "—" }}</td>
-        <td>{{ agent.data.license or "—" }}</td>
-        <td>{{ agent.data.platforms | join(", ") }}</td>
-        <td>{{ agent.data.stars | starFmt }}</td>
-        <td>{{ agent.data.first_released | dateFmt }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-  <p class="see-all"><a href="{{ '/all/' | url }}">See all {{ collections.agent | size }} agents →</a></p>
+<section class="stats">
+  <a class="stat-card cat-agent" href="{{ '/all/' | url }}">
+    <div class="stat-icon">🤖</div>
+    <h3>{{ collections.agent | size }}</h3>
+    <p>Agents</p>
+  </a>
+  <a class="stat-card cat-multiplexer" href="{{ '/multiplexers/' | url }}">
+    <div class="stat-icon">🎛️</div>
+    <h3>{{ collections.multiplexer | size }}</h3>
+    <p>Multiplexers</p>
+  </a>
+  <a class="stat-card cat-agent-sdk" href="{{ '/agent-sdks/' | url }}">
+    <div class="stat-icon">🧩</div>
+    <h3>{{ collections["agent-sdk"] | size }}</h3>
+    <p>Agent SDKs</p>
+  </a>
+  <a class="stat-card cat-other" href="{{ '/all/' | url }}">
+    <div class="stat-icon">📦</div>
+    <h3>{{ collections.agent | size + collections.multiplexer | size + collections["agent-sdk"] | size + 474 }}</h3>
+    <p>Total entries</p>
+  </a>
 </section>
 
-<section class="stats">
-  <div class="stat-card">
-    <h3>{{ collections.agent | size }}</h3>
-    <p>Total Agents</p>
+<section class="section">
+  <h2>Top Agents by Stars</h2>
+  <div class="card-grid">
+    {% set sorted = collections.agent | sortByStars %}
+    {% for agent in sorted.slice(0, 6) %}
+    <a class="agent-card" href="{{ ('/agents/' ~ agent.data.slug ~ '/') | url }}">
+      <div class="card-top">
+        <span class="card-name">{{ agent.data.name }}</span>
+        {% if agent.data.stars and agent.data.stars != "null" %}<span class="card-stars">★ {{ agent.data.stars | starFmt }}</span>{% endif %}
+      </div>
+      <p class="card-desc">{{ agent.data.what_makes_it_special | truncate(140) }}</p>
+      <div class="card-meta">
+        {% if agent.data.maker and agent.data.maker != "null" %}<span>{{ agent.data.maker }}</span><span class="dot">·</span>{% endif %}
+        <span class="badge badge-cat badge-cat-agent">agent</span>
+      </div>
+    </a>
+    {% endfor %}
   </div>
-  <div class="stat-card">
-    <h3>{{ collections.agent | isOpenSource | size }}</h3>
-    <p>Open Source</p>
+  <div class="see-all"><a href="{{ '/all/' | url }}">See all {{ collections.agent | size }} agents →</a></div>
+</section>
+
+<section class="section">
+  <h2>Newest Additions <span class="group-count">from the Hacker News sweep</span></h2>
+  <div class="card-grid">
+    {% set newest = collections.agent | sortByDate | reverse %}
+    {% for agent in newest.slice(0, 6) %}
+    <a class="agent-card" href="{{ ('/agents/' ~ agent.data.slug ~ '/') | url }}">
+      <div class="card-top">
+        <span class="card-name">{{ agent.data.name }}</span>
+        {% if agent.data.first_released and agent.data.first_released != "null" %}<span class="card-stars">{{ agent.data.first_released | dateFmt }}</span>{% endif %}
+      </div>
+      <p class="card-desc">{{ agent.data.what_makes_it_special | truncate(140) }}</p>
+      <div class="card-meta">
+        {% if agent.data.maker and agent.data.maker != "null" %}<span>{{ agent.data.maker }}</span><span class="dot">·</span>{% endif %}
+        <span class="badge badge-cat badge-cat-agent">agent</span>
+      </div>
+    </a>
+    {% endfor %}
   </div>
-  <div class="stat-card">
-    <h3>{{ collections.agent | isProprietary | size }}</h3>
-    <p>Proprietary</p>
-  </div>
-  <div class="stat-card">
-    <h3>{{ collections.agent | groupBy("maker") | size }}</h3>
-    <p>Unique Makers</p>
-  </div>
+  <div class="see-all"><a href="{{ '/newest/' | url }}">See newest →</a></div>
 </section>
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
@@ -66,27 +89,29 @@ fetch('{{ '/agents.json' | url }}')
       threshold: 0.3,
       includeScore: true,
     });
-    
+
     const input = document.getElementById('search');
     const results = document.getElementById('search-results');
-    const list = document.getElementById('agent-list');
-    
+
+    const catClass = c => c === 'agent' ? 'badge-cat-agent' : c === 'multiplexer' ? 'badge-cat-multiplexer' : c === 'agent-sdk' ? 'badge-cat-agent-sdk' : 'badge-cat-other';
+
     input.addEventListener('input', (e) => {
       const query = e.target.value.trim();
       if (!query) {
         results.innerHTML = '';
-        list.style.display = '';
         return;
       }
-      
-      const matches = fuse.search(query).slice(0, 20);
-      list.style.display = 'none';
+
+      const matches = fuse.search(query).slice(0, 12);
       results.innerHTML = matches.map(m => `
-        <div class="search-result">
-          <a href="{{ '/agents/' | url }}${m.item.slug}/"><strong>${m.item.name}</strong></a>
-          <span class="result-meta">${m.item.maker || ''} · ${m.item.license || ''} · ${m.item.stars ? (m.item.stars >= 1000 ? (m.item.stars/1000).toFixed(1)+'k' : m.item.stars) : ''}★</span>
-          <p class="result-desc">${m.item.description || ''}</p>
-        </div>
+        <a class="search-result" style="display:block;color:inherit" href="{{ '/agents/' | url }}${m.item.slug}/">
+          <div>
+            <strong>${m.item.name}</strong>
+            <span class="badge badge-cat ${catClass(m.item.category)}" style="margin-left:0.5rem">${m.item.category}</span>
+            <span class="result-meta">${m.item.maker || ''} ${m.item.stars ? '· ★ ' + (m.item.stars >= 1000 ? (m.item.stars/1000).toFixed(1)+'k' : m.item.stars) : ''}</span>
+          </div>
+          <p class="result-desc">${(m.item.description || '').slice(0, 160)}</p>
+        </a>
       `).join('');
     });
   });

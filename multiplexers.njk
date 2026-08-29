@@ -2,24 +2,55 @@
 layout: base.njk
 eleventyComputed:
   title: "Multiplexers — Harness Census"
+  extraScripts: |
+    <script src="{{ '/js/list-view.js' | url }}"></script>
 ---
-<h1>Agent Multiplexers</h1>
-<p>Tools that orchestrate, manage, or run other coding agent harnesses (Claude Code, Codex, Cursor, etc.). These are not agents themselves — they coordinate agents.</p>
-<p>{{ collections.multiplexer | size }} multiplexers catalogued.</p>
+<div class="page-header">
+  <h1>Agent Multiplexers</h1>
+  <p class="page-sub">Tools that orchestrate, manage, or run other coding agent harnesses (Claude Code, Codex, Cursor, etc.). These are not agents themselves — they coordinate agents.</p>
+</div>
 
-<table class="agent-table">
-  <thead>
-    <tr><th>Name</th><th>Maker</th><th>License</th><th>Stars</th></tr>
-  </thead>
-  <tbody>
-    {% set sorted = collections.multiplexer | sortByStars %}
-    {% for mux in sorted %}
-    <tr>
-      <td><a href="{{ ('/agents/' ~ mux.data.slug ~ '/') | url }}">{{ mux.data.name }}</a></td>
-      <td>{{ mux.data.maker or "—" }}</td>
-      <td>{{ mux.data.license or "—" }}</td>
-      <td>{{ mux.data.stars | starFmt }}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+<div class="filter-bar" data-filter-bar>
+  <input type="search" class="filter-search" data-filter-search placeholder="Filter by name, maker, language…">
+  <select data-filter-select data-field="license">
+    <option value="">All licenses</option>
+  </select>
+  <select data-filter-select data-field="maintained">
+    <option value="">Any status</option>
+    <option value="active">Active</option>
+    <option value="dormant">Dormant</option>
+    <option value="dead">Dead</option>
+    <option value="acquired">Acquired</option>
+    <option value="renamed">Renamed</option>
+  </select>
+  <select data-filter-sort>
+    <option value="name">Sort: Name</option>
+    <option value="stars">Sort: Stars</option>
+  </select>
+  <span class="filter-count" data-filter-count></span>
+</div>
+
+<div class="card-grid" data-card-grid>
+  {% set sorted = collections.multiplexer | sortByStars %}
+  {% for mux in sorted %}
+  <a class="agent-card" href="{{ ('/agents/' ~ mux.data.slug ~ '/') | url }}"
+     data-name="{{ mux.data.name }}"
+     data-maker="{{ mux.data.maker or '' }}"
+     data-license="{{ mux.data.license or '' }}"
+     data-maintained="{{ mux.data.maintained or '' }}"
+     data-stars="{{ mux.data.stars or 0 }}"
+     data-language="{{ mux.data.language or '' }}">
+    <div class="card-top">
+      <span class="card-name">{{ mux.data.name }}</span>
+      {% if mux.data.stars and mux.data.stars != "null" %}<span class="card-stars">★ {{ mux.data.stars | starFmt }}</span>{% endif %}
+    </div>
+    <p class="card-desc">{% if mux.data.what_makes_it_special %}{{ mux.data.what_makes_it_special | truncate(160) }}{% endif %}</p>
+    <div class="card-meta">
+      {% if mux.data.maker and mux.data.maker != "null" %}<span>{{ mux.data.maker }}</span><span class="dot">·</span>{% endif %}
+      {% if mux.data.maintained and mux.data.maintained != "null" %}<span class="badge badge-status badge-status-{{ mux.data.maintained }}">{{ mux.data.maintained }}</span>{% endif %}
+    </div>
+  </a>
+  {% endfor %}
+</div>
+
+<div class="filter-empty" data-filter-empty hidden>No multiplexers match your filters.</div>

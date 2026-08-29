@@ -5,12 +5,17 @@ eleventyComputed:
 ---
 <article class="agent-page">
   <header class="agent-header">
+    <div class="agent-platforms" style="margin-top:0">
+      {% if category %}<span class="badge badge-cat badge-cat-{{ category }}">{{ category }}</span>{% endif %}
+      {% if maintained and maintained != "null" %}<span class="badge badge-status badge-status-{{ maintained }}">{{ maintained }}</span>{% endif %}
+    </div>
     <h1>{{ name }}</h1>
     <div class="agent-meta">
       {% if maker and maker != "null" %}<span class="meta-item">Maker: <strong>{{ maker }}</strong></span>{% endif %}
       {% if license and license != "null" %}<span class="meta-item">License: <strong>{{ license }}</strong></span>{% endif %}
       {% if stars and stars != "null" %}<span class="meta-item">Stars: <strong>{{ stars | starFmt }}</strong></span>{% endif %}
       {% if first_released and first_released != "null" %}<span class="meta-item">First released: <strong>{{ first_released | dateFmt }}</strong></span>{% endif %}
+      {% if language and language != "null" %}<span class="meta-item">Language: <strong>{{ language }}</strong></span>{% endif %}
     </div>
   </header>
 
@@ -25,37 +30,71 @@ eleventyComputed:
   <div class="agent-links">
     {% if url and url != "null" %}<a href="{{ url }}" class="btn btn-primary" target="_blank" rel="noopener">Website →</a>{% endif %}
     {% if source_code_url and source_code_url != "null" %}<a href="{{ source_code_url }}" class="btn btn-secondary" target="_blank" rel="noopener">Source Code →</a>{% endif %}
-    {% if homepage and homepage != "null" and homepage != "" %}<a href="{{ homepage }}" class="btn btn-secondary" target="_blank" rel="noopener">Homepage →</a>{% endif %}
+    {% if homepage and homepage != "null" and homepage != "" and homepage != url %}<a href="{{ homepage }}" class="btn btn-secondary" target="_blank" rel="noopener">Homepage →</a>{% endif %}
+    {% if docs_url and docs_url != "null" %}<a href="{{ docs_url }}" class="btn btn-secondary" target="_blank" rel="noopener">Docs →</a>{% endif %}
   </div>
 
-  <section class="agent-description">
-    <h2>About</h2>
-    {{ content | safe }}
-  </section>
+  <div class="agent-body">
+    <div class="agent-main">
+      <section class="agent-description">
+        <h2>About</h2>
+        {{ content | safe }}
+      </section>
 
-  <section class="agent-details">
-    <h2>Details</h2>
-    <table class="detail-table">
-      <tr><th>Name</th><td>{{ name }}</td></tr>
-      {% if maker and maker != "null" %}<tr><th>Maker</th><td>{{ maker }}</td></tr>{% endif %}
-      {% if license and license != "null" %}<tr><th>License</th><td>{{ license }}</td></tr>{% endif %}
-      <tr><th>Source Available</th><td>{{ source_available or "—" }}</td></tr>
-      {% if url and url != "null" %}<tr><th>URL</th><td><a href="{{ url }}">{{ url }}</a></td></tr>{% endif %}
-      {% if source_code_url and source_code_url != "null" %}<tr><th>Source Code</th><td><a href="{{ source_code_url }}">{{ source_code_url }}</a></td></tr>{% endif %}
-      {% if stars and stars != "null" %}<tr><th>GitHub Stars</th><td>{{ stars | starFmt }}</td></tr>{% endif %}
-      {% if language and language != "null" %}<tr><th>Language</th><td>{{ language }}</td></tr>{% endif %}
-      {% if first_released and first_released != "null" %}<tr><th>First Released</th><td>{{ first_released }}</td></tr>{% endif %}
-      {% if current_release and current_release != "null" %}<tr><th>Current Release</th><td>{{ current_release }}</td></tr>{% endif %}
-      {% if platforms and platforms.length > 0 %}
-      <tr><th>Platforms</th><td>{{ platforms | join(", ") }}</td></tr>
+      {% set relA = collections.agent | filterByMaker(maker) %}
+      {% set relM = collections.multiplexer | filterByMaker(maker) %}
+      {% set relS = collections["agent-sdk"] | filterByMaker(maker) %}
+      {% set relCount = relA.length + relM.length + relS.length %}
+      {% if relCount > 1 %}
+      <section class="agent-description">
+        <h2>Other entries by {{ maker }}</h2>
+        <ul class="agent-list">
+          {% for r in relA %}{% if r.data.slug != slug %}
+            <li><a href="{{ ('/agents/' ~ r.data.slug ~ '/') | url }}">{{ r.data.name }}</a> — <span class="badge badge-cat badge-cat-agent">agent</span></li>
+          {% endif %}{% endfor %}
+          {% for r in relM %}{% if r.data.slug != slug %}
+            <li><a href="{{ ('/agents/' ~ r.data.slug ~ '/') | url }}">{{ r.data.name }}</a> — <span class="badge badge-cat badge-cat-multiplexer">multiplexer</span></li>
+          {% endif %}{% endfor %}
+          {% for r in relS %}{% if r.data.slug != slug %}
+            <li><a href="{{ ('/agents/' ~ r.data.slug ~ '/') | url }}">{{ r.data.name }}</a> — <span class="badge badge-cat badge-cat-agent-sdk">agent-sdk</span></li>
+          {% endif %}{% endfor %}
+        </ul>
+      </section>
       {% endif %}
+    </div>
+
+    <aside class="agent-side">
+      <div class="fact-card">
+        <h3>Key facts</h3>
+        {% if maintained and maintained != "null" %}
+        <div class="fact-row"><span class="fact-key">Status</span><span class="fact-val"><span class="badge badge-status badge-status-{{ maintained }}">{{ maintained }}</span></span></div>
+        {% endif %}
+        {% if category %}<div class="fact-row"><span class="fact-key">Category</span><span class="fact-val"><span class="badge badge-cat badge-cat-{{ category }}">{{ category }}</span></span></div>{% endif %}
+        {% if pricing and pricing != "null" %}<div class="fact-row"><span class="fact-key">Pricing</span><span class="fact-val">{{ pricing }}</span></div>{% endif %}
+        {% if model_providers and model_providers != "null" %}<div class="fact-row"><span class="fact-key">Models</span><span class="fact-val">{{ model_providers }}</span></div>{% endif %}
+        {% if mcp_support and mcp_support != "null" %}<div class="fact-row"><span class="fact-key">MCP</span><span class="fact-val">{{ mcp_support }}</span></div>{% endif %}
+        {% if plugin_support and plugin_support != "null" %}<div class="fact-row"><span class="fact-key">Plugins</span><span class="fact-val">{{ plugin_support }}</span></div>{% endif %}
+        {% if subagents and subagents != "null" %}<div class="fact-row"><span class="fact-key">Subagents</span><span class="fact-val">{{ subagents }}</span></div>{% endif %}
+        {% if hooks and hooks != "null" %}<div class="fact-row"><span class="fact-key">Hooks</span><span class="fact-val">{{ hooks }}</span></div>{% endif %}
+        {% if plan_mode and plan_mode != "null" %}<div class="fact-row"><span class="fact-key">Plan mode</span><span class="fact-val">{{ plan_mode }}</span></div>{% endif %}
+        {% if install_method and install_method != "null" %}<div class="fact-row"><span class="fact-key">Install</span><span class="fact-val">{{ install_method }}</span></div>{% endif %}
+        {% if first_released and first_released != "null" %}<div class="fact-row"><span class="fact-key">First release</span><span class="fact-val">{{ first_released }}</span></div>{% endif %}
+        {% if current_release and current_release != "null" %}<div class="fact-row"><span class="fact-key">Latest release</span><span class="fact-val">{{ current_release }}</span></div>{% endif %}
+      </div>
+
       {% if sources and sources.length > 0 %}
-      <tr><th>Discovered via</th><td>
-        {% for s in sources %}{% if source_urls and source_urls[s] %}<a href="{{ source_urls[s] }}" target="_blank" rel="noopener">{{ s }}</a>{% else %}{{ s }}{% endif %}{% if not loop.last %}, {% endif %}{% endfor %}
-      </td></tr>
+      <div class="fact-card">
+        <h3>Provenance</h3>
+        {% for s in sources %}
+        <div class="fact-row"><span class="fact-key">Source</span><span class="fact-val">{% if source_urls and source_urls[s] %}<a href="{{ source_urls[s] }}" target="_blank" rel="noopener">{{ s }}</a>{% else %}{{ s }}{% endif %}</span></div>
+        {% endfor %}
+        {% if last_verified and last_verified != "null" %}
+        <div class="fact-row"><span class="fact-key">Last verified</span><span class="fact-val">{{ last_verified }}</span></div>
+        {% endif %}
+      </div>
       {% endif %}
-    </table>
-  </section>
+    </aside>
+  </div>
 
   <footer class="agent-edit-footer">
     <p>See something wrong? <a href="https://github.com/prime-radiant-inc/harness-census/edit/main/agents/{{ slug }}.md" target="_blank" rel="noopener">Please submit a pull request →</a></p>

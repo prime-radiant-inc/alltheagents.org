@@ -3,8 +3,11 @@ layout: base.njk
 eleventyComputed:
   title: "Newest Agents — Harness Census"
 ---
-<h1>Newest Coding Agent Harnesses</h1>
-<p>Sorted by first release date, newest first.</p>
+<div class="page-header">
+  <h1>Newest Coding Agent Harnesses</h1>
+  <p class="page-sub">Sorted by first release date, newest first.</p>
+</div>
+<div class="table-wrap">
 <table class="agent-table">
   <thead>
     <tr><th>Name</th><th>Maker</th><th>License</th><th>First Released</th><th>Stars</th></tr>
@@ -22,3 +25,4 @@ eleventyComputed:
     {% endfor %}
   </tbody>
 </table>
+</div>
