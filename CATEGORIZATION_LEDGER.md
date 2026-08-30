@@ -5,6 +5,7 @@ Category decision for every entry in the census. Reviewed and re-adjudicated 202
 ## Definitions
 
 - **agent** — a coding agent or harness: something that uses tools in a loop to create or modify software. Expansive and inclusive.
+- **agent** (clarified 2026-08-30) — the agent must OWN its loop: it drives the iterate-decide-invoke cycle (prompt -> model -> tool -> result -> repeat) and invokes at least one tool itself. "Expansive and inclusive" refers to what counts as software and as a tool, not to who owns the loop. A framework that installs personas or workflows into a host agent's loop does not own the loop and is not an agent. Test: if you remove the host, does the product still run a coding task end-to-end?
 - **multiplexer** — not an agent: a tool that helps manage a set of agents with a human-facing UI (orchestrates/runs other agents rather than coding itself).
 - **agent-sdk** — a general agent-building framework, SDK, or toolkit that ships no coding agent of its own (e.g. autogen, crewai, langgraph). Builders construct agents from it.
 - **other** — neither of the above: model gateways/proxies, prompt libraries, eval tooling, MCP tool servers, datasets, chat wrappers, IDE autocomplete without a tool loop, tutorials, resource collections, dead links kept for provenance.

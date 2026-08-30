@@ -9,6 +9,9 @@ slug: null                    # url slug, must match the filename; on collision,
                               # override in scripts/slug_overrides.json rather than improvising
 layout: "agent.njk"
 category: "agent"             # agent = codes itself (owns its own agentic loop)
+                              # The agent OWNS its loop (drives prompt->model->tool->result->repeat
+                              # and invokes at least one tool itself). A framework that installs
+                              # personas/workflows into a host agent's loop does NOT own the loop.
                               # multiplexer = orchestrates/runs OTHER agents rather than coding
                               # agent-sdk = general agent-building framework/SDK/toolkit that
                               # ships no coding agent itself (autogen, crewai, langgraph, ...)
