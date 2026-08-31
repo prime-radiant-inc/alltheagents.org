@@ -2,7 +2,7 @@
 name: "fanbox"
 slug: "fanbox"
 layout: "agent.njk"
-category: "other"
+category: "multiplexer"
 maker: "alchaincyf"
 license: "MIT"
 url: "https://github.com/alchaincyf/fanbox"

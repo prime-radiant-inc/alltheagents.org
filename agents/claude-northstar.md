@@ -2,7 +2,7 @@
 name: "claude-northstar"
 slug: "claude-northstar"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "Nisarg38"
 license: "MIT"
 url: "https://github.com/Nisarg38/claude-northstar"

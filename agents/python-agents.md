@@ -2,7 +2,7 @@
 name: "Python-Agents"
 slug: "python-agents"
 layout: "agent.njk"
-category: "agent"
+category: "agent-sdk"
 maker: "clarisseIO"
 license: "Apache-2.0"
 url: "https://github.com/clarisseIO/python-agents"

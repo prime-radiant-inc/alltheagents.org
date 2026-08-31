@@ -2,7 +2,7 @@
 name: "opencode-swarm"
 slug: "opencode-swarm"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "ZaxbyHub"
 license: "MIT"
 url: "https://github.com/ZaxbyHub/opencode-swarm"

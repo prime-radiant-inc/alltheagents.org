@@ -2,7 +2,7 @@
 name: "Agena"
 slug: "agena"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "aozyildirim"
 license: "MIT"
 url: "https://github.com/aozyildirim/Agena"

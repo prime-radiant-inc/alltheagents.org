@@ -2,7 +2,7 @@
 name: "Pi Coding Agent"
 slug: "pi-coding-agent-vscode"
 layout: "agent.njk"
-category: "multiplexer"
+category: "other"
 maker: "pi0"
 license: null
 url: "https://marketplace.visualstudio.com/items?itemName=pi0.pi-vscode"

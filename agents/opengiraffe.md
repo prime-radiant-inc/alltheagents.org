@@ -2,7 +2,7 @@
 name: "OpenGiraffe"
 slug: "opengiraffe"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "zclllyybb"
 license: null
 url: "https://github.com/zclllyybb/OpenGiraffe"

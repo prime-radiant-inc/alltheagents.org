@@ -2,7 +2,7 @@
 name: "LangChain JS Tools"
 slug: "langchain-js-tools"
 layout: "agent.njk"
-category: "other"
+category: "agent-sdk"
 maker: "langchain-ai"
 license: "MIT"
 url: "https://github.com/langchain-ai/langchainjs"

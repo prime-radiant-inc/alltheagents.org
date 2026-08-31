@@ -2,7 +2,7 @@
 name: "intellegix-code-agent-toolkit"
 slug: "intellegix-code-agent-toolkit"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "intellegix"
 license: "MIT"
 url: "https://github.com/intellegix/intellegix-code-agent-toolkit"

@@ -2,7 +2,7 @@
 name: "HashAgent"
 slug: "hashagent"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "mason131928"
 license: "MIT"
 url: "https://hashagent.pages.dev/"

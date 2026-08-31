@@ -2,7 +2,7 @@
 name: "CodeAGI"
 slug: "codeagi"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "SOPPRA DX"
 license: "Proprietary"
 url: "https://soppradx.com"

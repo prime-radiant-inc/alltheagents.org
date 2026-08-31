@@ -2,7 +2,7 @@
 name: "opencode-plusplus"
 slug: "opencode-plusplus"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "whut09"
 license: "MIT"
 url: "https://github.com/whut09/opencode-plusplus"

@@ -2,7 +2,7 @@
 name: "Zellij"
 slug: "zellij"
 layout: "agent.njk"
-category: "multiplexer"
+category: "other"
 maker: "zellij-org"
 license: "MIT"
 url: "https://github.com/zellij-org/zellij"

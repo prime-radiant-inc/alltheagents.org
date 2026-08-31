@@ -2,7 +2,7 @@
 name: "OneCLI"
 slug: "onecli"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "onecli"
 license: "Apache-2.0 (with enterprise features under the OneCLI Enterprise License)"
 url: "https://github.com/onecli/onecli"

@@ -2,7 +2,7 @@
 name: "WorkGPT"
 slug: "workgpt"
 layout: "agent.njk"
-category: "agent"
+category: "agent-sdk"
 maker: "team-openpm"
 license: "MIT"
 url: "https://github.com/team-openpm/workgpt"

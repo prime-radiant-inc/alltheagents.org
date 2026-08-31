@@ -2,7 +2,7 @@
 name: "CodeFuse-muAgent"
 slug: "codefuse-muagent"
 layout: "agent.njk"
-category: "other"
+category: "agent-sdk"
 maker: "codefuse-ai"
 license: "Apache-2.0"
 url: "https://github.com/codefuse-ai/CodeFuse-muAgent"

@@ -2,7 +2,7 @@
 name: "Agentless"
 slug: "agentless"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "OpenAutoCoder"
 license: "MIT"
 url: "https://github.com/OpenAutoCoder/Agentless"

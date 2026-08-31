@@ -2,7 +2,7 @@
 name: "Mantlecore AI"
 slug: "mantlecore-ai"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "Mantlecore"
 license: "Proprietary"
 url: "https://mantlecore.ai"

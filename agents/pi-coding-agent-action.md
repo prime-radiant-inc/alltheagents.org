@@ -2,7 +2,7 @@
 name: "pi-coding-agent-action"
 slug: "pi-coding-agent-action"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "shaftoe"
 license: "MIT"
 url: "https://github.com/shaftoe/pi-coding-agent-action"

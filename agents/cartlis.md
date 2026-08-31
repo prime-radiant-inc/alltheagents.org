@@ -2,7 +2,7 @@
 name: "Cartlis"
 slug: "cartlis"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "Theneo-Inc"
 license: "MIT"
 url: "https://github.com/Theneo-Inc/Cartlis"

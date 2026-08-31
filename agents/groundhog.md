@@ -2,7 +2,7 @@
 name: "groundhog"
 slug: "groundhog"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "ghuntley"
 license: "AGPL-3.0"
 url: "https://github.com/ghuntley/groundhog"

@@ -2,7 +2,7 @@
 name: "Agenticai"
 slug: "agenticai"
 layout: "agent.njk"
-category: "agent"
+category: "agent-sdk"
 maker: null
 license: null
 url: "https://github.com/YasinOnline/AgenticAI"

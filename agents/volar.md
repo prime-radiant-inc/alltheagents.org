@@ -2,7 +2,7 @@
 name: "Volar"
 slug: "volar"
 layout: "agent.njk"
-category: "multiplexer"
+category: "other"
 maker: "VolarTools"
 license: null
 url: "https://marketplace.visualstudio.com/items?itemName=VolarTools.volar-ai"

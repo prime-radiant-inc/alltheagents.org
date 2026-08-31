@@ -2,7 +2,7 @@
 name: "Raplify"
 slug: "raplify"
 layout: "agent.njk"
-category: "multiplexer"
+category: "other"
 maker: "Raplify"
 license: null
 url: "https://plugins.jetbrains.com/plugin/33194-raplify"

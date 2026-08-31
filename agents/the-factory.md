@@ -2,7 +2,7 @@
 name: "The Factory"
 slug: "the-factory"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "akashgit"
 license: "MIT"
 url: "https://github.com/akashgit/remote-factory"

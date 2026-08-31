@@ -2,7 +2,7 @@
 name: "mbti-coding-agents"
 slug: "mbti-coding-agents"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "weiyangzen"
 license: null
 url: "https://github.com/weiyangzen/mbti-coding-agents"

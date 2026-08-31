@@ -2,7 +2,7 @@
 name: "NetEase Youdao Lobster"
 slug: "netease-youdao-lobster"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "NetEase"
 license: "Proprietary"
 url: "https://youdao.com"

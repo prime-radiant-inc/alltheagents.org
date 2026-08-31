@@ -2,7 +2,7 @@
 name: "Sigil - Coding Assistant"
 slug: "sigil-coding-assistant"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "José M. Nieves"
 license: "MIT"
 url: "https://plugins.jetbrains.com/plugin/32492-sigil--coding-assistant"

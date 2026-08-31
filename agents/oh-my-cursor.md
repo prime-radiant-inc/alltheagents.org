@@ -2,7 +2,7 @@
 name: "oh-my-cursor"
 slug: "oh-my-cursor"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "tmcfarlane"
 license: "MIT"
 url: "https://github.com/tmcfarlane/oh-my-cursor"

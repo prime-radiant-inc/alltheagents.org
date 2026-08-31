@@ -2,7 +2,7 @@
 name: "pi-hermes-memory"
 slug: "pi-hermes-memory"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "chandra447"
 license: "MIT"
 url: "https://github.com/chandra447/pi-hermes-memory"

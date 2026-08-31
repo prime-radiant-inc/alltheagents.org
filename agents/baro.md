@@ -2,7 +2,7 @@
 name: "baro"
 slug: "baro"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "jigjoy-ai"
 license: "MIT"
 url: "https://github.com/jigjoy-ai/baro"

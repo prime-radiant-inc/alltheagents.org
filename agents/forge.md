@@ -2,7 +2,7 @@
 name: "Forge"
 slug: "forge"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "LucasDuys"
 license: "MIT"
 url: "https://github.com/LucasDuys/forge"

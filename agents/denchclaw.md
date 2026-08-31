@@ -2,7 +2,7 @@
 name: "DenchClaw"
 slug: "denchclaw"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "DenchHQ"
 license: "MIT"
 url: "https://github.com/DenchHQ/DenchClaw"

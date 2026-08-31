@@ -2,7 +2,7 @@
 name: "cersei"
 slug: "cersei"
 layout: "agent.njk"
-category: "agent"
+category: "agent-sdk"
 maker: "pacifio"
 license: "MIT"
 url: "https://github.com/pacifio/cersei"

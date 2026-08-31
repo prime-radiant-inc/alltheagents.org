@@ -2,7 +2,7 @@
 name: "arc-kit"
 slug: "arc-kit"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "tractorjuice"
 license: "MIT"
 url: "https://github.com/tractorjuice/arc-kit"

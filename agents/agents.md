@@ -2,7 +2,7 @@
 name: "Agents"
 slug: "agents"
 layout: "agent.njk"
-category: "agent"
+category: "agent-sdk"
 maker: "aiwaves-cn"
 license: "Apache-2.0"
 url: "https://github.com/aiwaves-cn/agents"

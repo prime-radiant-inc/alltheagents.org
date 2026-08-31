@@ -2,7 +2,7 @@
 name: "pi-interactive-shell"
 slug: "pi-interactive-shell"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "nicobailon"
 license: null
 url: "https://github.com/nicobailon/pi-interactive-shell"

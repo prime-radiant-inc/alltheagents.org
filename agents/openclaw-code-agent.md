@@ -2,7 +2,7 @@
 name: "openclaw-code-agent"
 slug: "openclaw-code-agent"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "goldmar"
 license: "MIT"
 url: "https://github.com/goldmar/openclaw-code-agent"

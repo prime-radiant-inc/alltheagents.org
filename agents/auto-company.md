@@ -2,7 +2,7 @@
 name: "auto-company"
 slug: "auto-company"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "nicepkg"
 license: "MIT"
 url: "https://github.com/nicepkg/auto-company"

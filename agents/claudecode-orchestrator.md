@@ -2,7 +2,7 @@
 name: "claudecode-orchestrator"
 slug: "claudecode-orchestrator"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "darrenapfel"
 license: null
 url: "https://github.com/darrenapfel/claudecode-orchestrator"

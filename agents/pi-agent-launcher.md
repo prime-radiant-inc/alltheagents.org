@@ -2,7 +2,7 @@
 name: "Pi Agent Launcher"
 slug: "pi-agent-launcher"
 layout: "agent.njk"
-category: "multiplexer"
+category: "other"
 maker: "haokanjiang"
 license: null
 url: "https://plugins.jetbrains.com/plugin/31737-pi-agent-launcher"

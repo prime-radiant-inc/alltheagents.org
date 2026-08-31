@@ -2,7 +2,7 @@
 name: "Qwen-Agent"
 slug: "qwen-agent"
 layout: "agent.njk"
-category: "other"
+category: "agent-sdk"
 maker: "QwenLM"
 license: "Apache-2.0"
 url: "https://github.com/QwenLM/Qwen-Agent"

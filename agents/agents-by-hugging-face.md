@@ -2,7 +2,7 @@
 name: "Agents by Hugging Face"
 slug: "agents-by-hugging-face"
 layout: "agent.njk"
-category: "agent"
+category: "agent-sdk"
 maker: null
 license: "Apache-2.0"
 url: "https://huggingface.co/docs/transformers/main_classes/agent"

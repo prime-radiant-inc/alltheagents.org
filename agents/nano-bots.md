@@ -2,7 +2,7 @@
 name: "Nano-Bots"
 slug: "nano-bots"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "icebaker"
 license: null
 url: "https://github.com/icebaker/nano-bots"

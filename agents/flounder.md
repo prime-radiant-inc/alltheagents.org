@@ -2,7 +2,7 @@
 name: "flounder"
 slug: "flounder"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "adshao"
 license: "AGPL-3.0"
 url: "https://github.com/adshao/flounder"

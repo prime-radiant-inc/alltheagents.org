@@ -2,7 +2,7 @@
 name: "Arcgentic"
 slug: "arcgentic"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "Arch1eSUN"
 license: "MIT"
 url: "https://github.com/Arch1eSUN/Arcgentic"

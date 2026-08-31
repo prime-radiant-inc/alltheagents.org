@@ -2,7 +2,7 @@
 name: "Agentic-Platform"
 slug: "agentic-platform"
 layout: "agent.njk"
-category: "agent"
+category: "agent-sdk"
 maker: null
 license: null
 url: "https://github.com/bonk1t/agentic-platform"

@@ -2,7 +2,7 @@
 name: "Deep Agents Code"
 slug: "deep-agents-code"
 layout: "agent.njk"
-category: "agent"
+category: "agent-sdk"
 maker: "langchain-ai"
 license: "MIT"
 url: "https://github.com/langchain-ai/deepagents"

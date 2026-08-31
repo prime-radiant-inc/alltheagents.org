@@ -2,7 +2,7 @@
 name: "small-opencode-orchestrator"
 slug: "small-opencode-orchestrator"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "tempont"
 license: "MIT"
 url: "https://github.com/tempont/small-opencode-orchestrator"

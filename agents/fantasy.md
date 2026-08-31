@@ -2,7 +2,7 @@
 name: "Fantasy"
 slug: "fantasy"
 layout: "agent.njk"
-category: "other"
+category: "agent-sdk"
 maker: "charmbracelet"
 license: "Apache-2.0"
 url: "https://github.com/charmbracelet/fantasy"

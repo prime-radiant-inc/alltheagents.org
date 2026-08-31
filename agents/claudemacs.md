@@ -2,7 +2,7 @@
 name: "claudemacs"
 slug: "claudemacs"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "cpoile"
 license: "MIT"
 url: "https://github.com/cpoile/claudemacs"

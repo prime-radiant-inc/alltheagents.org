@@ -2,7 +2,7 @@
 name: "demo2apk"
 slug: "demo2apk"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "DeadWaveWave"
 license: "MIT"
 url: "https://github.com/DeadWaveWave/demo2apk"

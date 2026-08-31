@@ -2,7 +2,7 @@
 name: "TryCase"
 slug: "trycase"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "TryCase"
 license: null
 url: "https://trycase.dev"

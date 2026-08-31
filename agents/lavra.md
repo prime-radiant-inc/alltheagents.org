@@ -2,7 +2,7 @@
 name: "lavra"
 slug: "lavra"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "roberto-mello"
 license: "MIT"
 url: "https://github.com/roberto-mello/lavra"

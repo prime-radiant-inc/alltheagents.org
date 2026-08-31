@@ -2,7 +2,7 @@
 name: "LocoOperator"
 slug: "locooperator"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "LocoreMind"
 license: "MIT"
 url: "https://github.com/LocoreMind/LocoOperator"

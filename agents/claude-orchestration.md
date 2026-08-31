@@ -2,7 +2,7 @@
 name: "claude-orchestration"
 slug: "claude-orchestration"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "mbruhler"
 license: "MIT"
 url: "https://github.com/mbruhler/claude-orchestration"

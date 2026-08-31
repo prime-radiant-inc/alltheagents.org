@@ -2,7 +2,7 @@
 name: "Archon"
 slug: "archon"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "coleam00"
 license: "MIT"
 url: "https://github.com/coleam00/Archon"

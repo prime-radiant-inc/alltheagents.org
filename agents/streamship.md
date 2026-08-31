@@ -2,7 +2,7 @@
 name: "Streamship"
 slug: "streamship"
 layout: "agent.njk"
-category: "agent"
+category: "agent-sdk"
 maker: "steamship-core"
 license: "MIT"
 url: "https://github.com/steamship-core/python-client"

@@ -2,7 +2,7 @@
 name: "hcf"
 slug: "hcf"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "markshust"
 license: "MIT"
 url: "https://github.com/markshust/hcf"

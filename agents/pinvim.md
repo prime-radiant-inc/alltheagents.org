@@ -2,7 +2,7 @@
 name: "pi.nvim"
 slug: "pinvim"
 layout: "agent.njk"
-category: "agent"
+category: "other"
 maker: "pablopunk"
 license: "MIT"
 url: "https://github.com/pablopunk/pi.nvim"

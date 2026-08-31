@@ -2,7 +2,7 @@
 name: "qm"
 slug: "qm"
 layout: "agent.njk"
-category: "agent"
+category: "multiplexer"
 maker: "yc-software"
 license: "MIT"
 url: "https://github.com/yc-software/qm"
