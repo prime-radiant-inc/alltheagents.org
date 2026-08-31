@@ -2,7 +2,7 @@
 name: "giselle"
 slug: "giselle"
 layout: "agent.njk"
-category: "other"
+category: "agent-sdk"
 maker: "giselles-ai"
 license: "Apache-2.0"
 url: "https://github.com/giselles-ai/giselle"

@@ -3176,7 +3176,7 @@
   {
     "slug": "fastagency",
     "name": "FastAgency",
-    "category": "other",
+    "category": "agent-sdk",
     "rationale": "Deployment/serving layer for AG2 (AutoGen) workflows \u2014 explicitly not an agentic framework and not coding-focused."
   },
   {
@@ -3458,7 +3458,7 @@
   {
     "slug": "giselle",
     "name": "giselle",
-    "category": "other",
+    "category": "agent-sdk",
     "rationale": "A visual drag-and-drop agent/workflow builder (an agent studio), not a harness that itself uses tools in a loop to create or modify software."
   },
   {
@@ -4094,7 +4094,7 @@
   {
     "slug": "ix",
     "name": "IX",
-    "category": "other",
+    "category": "agent-sdk",
     "rationale": "IX is a general-purpose visual agent platform (QA bots, research, data work) from the GPT-4 era, not a tool-in-a-loop coding harness \u2014 code generation is one workflow among many, and the project is no longer active."
   },
   {
@@ -6932,7 +6932,7 @@
   {
     "slug": "swe-debate",
     "name": "SWE-Debate",
-    "category": "other",
+    "category": "agent",
     "rationale": "SWE-Debate is a research benchmark/pipeline for fault localization and repair on SWE-bench-style tasks (ICSE 2026), evaluated in Moatless harnesses rather than used as a developer-facing coding tool, so it is 'other' (research agent tooling)."
   },
   {

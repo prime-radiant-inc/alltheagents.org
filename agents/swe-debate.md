@@ -2,7 +2,7 @@
 name: "SWE-Debate"
 slug: "swe-debate"
 layout: "agent.njk"
-category: "other"
+category: "agent"
 maker: "YerbaPage"
 license: "Apache-2.0"
 url: "https://github.com/YerbaPage/SWE-Debate"
