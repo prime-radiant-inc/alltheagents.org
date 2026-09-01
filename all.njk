@@ -11,7 +11,7 @@ eleventyComputed:
 ---
 <div class="page-header">
   <h1>All Entries</h1>
-  <p class="page-sub">{{ collections["all-entries"] | size }} entries catalogued — agents, multiplexers, SDKs, and other. Filter and sort below.</p>
+  <p class="page-sub">{{ collections["all-entries"] | size | numFmt }} entries catalogued — agents, multiplexers, SDKs, and other. Filter and sort below.</p>
 </div>
 
 <div class="filter-bar" data-filter-bar data-source="agents-only">

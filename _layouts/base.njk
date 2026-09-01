@@ -22,7 +22,7 @@
     {{ content | safe }}
   </main>
   <footer class="footer">
-    <p><a href="https://github.com/prime-radiant-inc/harness-census">Harness Census</a> — {{ collections["all-entries"] | size }} entries catalogued · {{ collections.agent | size }} agents · {{ collections.multiplexer | size }} multiplexers · {{ collections["agent-sdk"] | size }} SDKs</p>
+    <p><a href="https://github.com/prime-radiant-inc/harness-census">Harness Census</a> by <a href="https://primeradiant.com">Prime Radiant</a> — {{ collections["all-entries"] | size | numFmt }} entries catalogued · {{ collections.agent | size | numFmt }} agents · {{ collections.multiplexer | size | numFmt }} multiplexers · {{ collections["agent-sdk"] | size | numFmt }} SDKs</p>
   </footer>
   {{ extraScripts | safe }}
 </body>

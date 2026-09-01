@@ -55,6 +55,12 @@ module.exports = function(eleventyConfig) {
     return stars.toString();
   });
 
+  // Filter: format an integer with thousands separators (1347 -> "1,347")
+  eleventyConfig.addFilter("numFmt", function(n) {
+    const num = Number(n);
+    return Number.isFinite(num) ? num.toLocaleString("en-US") : n;
+  });
+
   // Filter: size (for arrays/collections)
   eleventyConfig.addFilter("size", function(arr) {
     if (!arr) return 0;

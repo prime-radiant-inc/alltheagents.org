@@ -55,6 +55,9 @@ body {
   line-height: 1.65;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 a { color: var(--accent); text-decoration: none; transition: color var(--transition); }
@@ -62,7 +65,7 @@ a:hover { color: var(--accent-hover); }
 
 h1, h2, h3, h4 { color: var(--text-bright); line-height: 1.25; letter-spacing: -0.01em; }
 
-.container { max-width: 1240px; margin: 0 auto; padding: 2.5rem 2rem 4rem; }
+.container { max-width: 1240px; margin: 0 auto; padding: 2.5rem 2rem 4rem; flex: 1 0 auto; width: 100%; }
 
 /* ============ Nav ============ */
 .nav {
@@ -121,8 +124,6 @@ h1, h2, h3, h4 { color: var(--text-bright); line-height: 1.25; letter-spacing: -
   max-width: 620px;
   margin: 0 auto 1.25rem;
 }
-.hero-count { font-size: 1rem; color: var(--text); }
-.hero-count strong { color: var(--text-bright); font-weight: 700; }
 
 /* ============ Stat cards (category cards) ============ */
 .stats {
@@ -368,18 +369,6 @@ h1, h2, h3, h4 { color: var(--text-bright); line-height: 1.25; letter-spacing: -
 .page-header h1 { font-size: 1.9rem; font-weight: 800; letter-spacing: -0.02em; }
 .page-header .page-sub { color: var(--text-muted); margin-top: 0.35rem; font-size: 1rem; }
 
-/* ============ Section headers ============ */
-.section { margin: 3rem 0 1rem; }
-.section h2 {
-  font-size: 1.35rem;
-  font-weight: 700;
-  margin-bottom: 1rem;
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-}
-.section .see-all-link { margin-left: auto; font-size: 0.875rem; font-weight: 600; }
-
 /* ============ Agent detail page ============ */
 .agent-page { max-width: 1080px; margin: 0 auto; }
 .agent-header { margin-bottom: 1.5rem; }
@@ -505,6 +494,7 @@ h1, h2, h3, h4 { color: var(--text-bright); line-height: 1.25; letter-spacing: -
   color: var(--text-muted);
   font-size: 0.875rem;
   background: var(--bg-raised);
+  flex-shrink: 0;
 }
 
 /* ============ Agent edit footer ============ */
@@ -532,15 +522,3 @@ h1, h2, h3, h4 { color: var(--text-bright); line-height: 1.25; letter-spacing: -
 @media (max-width: 420px) {
   .stats { grid-template-columns: 1fr; }
 }
-
-/* ============ Utilities ============ */
-.see-all { margin-top: 1rem; text-align: center; }
-.see-all a {
-  display: inline-block;
-  padding: 0.55rem 1.4rem;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  font-weight: 600;
-  font-size: 0.925rem;
-}
-.see-all a:hover { background: var(--bg-hover); border-color: var(--border-strong); text-decoration: none; }
