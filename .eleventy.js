@@ -7,6 +7,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy({ "_data/agents.json": "agents.json" });
+  // Custom domain for GitHub Pages — must land in the built output
+  eleventyConfig.addPassthroughCopy("CNAME");
 
   // Collection: all agent harnesses (only category === "agent")
   eleventyConfig.addCollection("agent", function(collectionApi) {
@@ -131,7 +133,7 @@ module.exports = function(eleventyConfig) {
       layouts: "_layouts",
       data: "_data",
     },
-    pathPrefix: "/harness-census/",
+    pathPrefix: "/",
     templateFormats: ["md", "njk", "html"],
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",

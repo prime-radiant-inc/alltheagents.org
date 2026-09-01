@@ -2,7 +2,7 @@
 
 Comprehensive census of coding agent harnesses — systems that let an LLM autonomously write, modify, debug, or run code — plus the multiplexers that manage them and the SDKs used to build them.
 
-**1,347 entries catalogued**: 634 agents, 220 multiplexers, 19 agent SDKs, 474 other (gateways, frameworks, tooling, and adjacent artifacts). Browse the live site at [harness-census](https://prime-radiant-inc.github.io/harness-census/).
+**1,347 entries catalogued**: 634 agents, 220 multiplexers, 19 agent SDKs, 474 other (gateways, frameworks, tooling, and adjacent artifacts). Browse the live site at [alltheagents.org](https://alltheagents.org).
 
 ## Categorization
 
