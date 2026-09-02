@@ -72,4 +72,4 @@ The body is a short narrative — why the harness exists, how it works, and who 
 
 ## Methodology
 
-Built from "awesome" aggregation lists, repeated rounds of GitHub topic/keyword searches, GitHub API enrichment, and manual research of commercial products. The 2026-08-28 pass re-researched every entry's primary URL, filled null fields, rewrote every entry's narrative body, and categorized every entry per the definitions above; ambiguous calls were adjudicated after three independent full-list review passes.
+Initially built from 15 "awesome" aggregation lists, 5 rounds of GitHub topic/keyword searches, GitHub API enrichment of 1,516 repos, and manual research of commercial products. The 2026-08-28 pass re-researched every entry's primary URL, filled null fields, rewrote all 1,316 narrative bodies, and categorized every entry per the definitions above; ambiguous calls were adjudicated after three independent full-list review passes.
