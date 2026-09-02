@@ -1,12 +1,12 @@
 ---
 layout: base.njk
 eleventyComputed:
-  title: "{{ name }} — Harness Census"
+  title: "{{ name }} — All the Agents"
 ---
 <article class="agent-page">
   <header class="agent-header">
     <div class="agent-platforms" style="margin-top:0">
-      {% if category %}<span class="badge badge-cat badge-cat-{{ category }}">{{ category }}</span>{% endif %}
+      {% if category and category != "other" %}<span class="badge badge-cat badge-cat-{{ category }}">{{ category }}</span>{% endif %}
       {% if maintained and maintained != "null" %}<span class="badge badge-status badge-status-{{ maintained }}">{{ maintained }}</span>{% endif %}
     </div>
     <h1>{{ name }}</h1>
@@ -69,7 +69,7 @@ eleventyComputed:
         {% if maintained and maintained != "null" %}
         <div class="fact-row"><span class="fact-key">Status</span><span class="fact-val"><span class="badge badge-status badge-status-{{ maintained }}">{{ maintained }}</span></span></div>
         {% endif %}
-        {% if category %}<div class="fact-row"><span class="fact-key">Category</span><span class="fact-val"><span class="badge badge-cat badge-cat-{{ category }}">{{ category }}</span></span></div>{% endif %}
+        {% if category and category != "other" %}<div class="fact-row"><span class="fact-key">Category</span><span class="fact-val"><span class="badge badge-cat badge-cat-{{ category }}">{{ category }}</span></span></div>{% endif %}
         {% if pricing and pricing != "null" %}<div class="fact-row"><span class="fact-key">Pricing</span><span class="fact-val">{{ pricing }}</span></div>{% endif %}
         {% if model_providers and model_providers != "null" %}<div class="fact-row"><span class="fact-key">Models</span><span class="fact-val">{{ model_providers }}</span></div>{% endif %}
         {% if mcp_support and mcp_support != "null" %}<div class="fact-row"><span class="fact-key">MCP</span><span class="fact-val">{{ mcp_support }}</span></div>{% endif %}
@@ -97,6 +97,6 @@ eleventyComputed:
   </div>
 
   <footer class="agent-edit-footer">
-    <p>See something wrong? <a href="https://github.com/prime-radiant-inc/harness-census/edit/main/agents/{{ slug }}.md" target="_blank" rel="noopener">Please submit a pull request →</a></p>
+    <p>See something wrong? <a href="https://github.com/prime-radiant-inc/alltheagents.org/edit/main/agents/{{ slug }}.md" target="_blank" rel="noopener">Please submit a pull request →</a></p>
   </footer>
 </article>

@@ -1,0 +1,5 @@
+---
+permalink: /agents.json
+eleventyExcludeFromCollections: true
+---
+{{ collections["all-entries"] | sortByName | searchIndex | dump | safe }}

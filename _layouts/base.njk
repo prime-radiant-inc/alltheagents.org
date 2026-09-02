@@ -8,6 +8,7 @@
 </head>
 <body>
   {% set navLinks = [
+    { url: "/about/", label: "About" },
     { url: "/all/", label: "All Entries" },
     { url: "/by-license/", label: "By License" },
     { url: "/by-platform/", label: "By Platform" },
@@ -18,7 +19,7 @@
     { url: "/agent-sdks/", label: "Agent SDKs" }
   ] %}
   <nav class="nav">
-    <a href="{{ '/' | url }}" class="nav-logo">Harness Census</a>
+    <a href="{{ '/' | url }}" class="nav-logo">All the Agents</a>
     {% for link in navLinks %}
     {% set isActive = page.url == link.url %}
     <a href="{{ link.url | url }}" class="nav-link{% if isActive %} active{% endif %}"{% if isActive %} aria-current="page"{% endif %}>{{ link.label }}</a>
@@ -28,7 +29,7 @@
     {{ content | safe }}
   </main>
   <footer class="footer">
-    <p><a href="https://github.com/prime-radiant-inc/harness-census">Harness Census</a> by <a href="https://primeradiant.com">Prime Radiant</a> — {{ collections["all-entries"] | size | numFmt }} entries catalogued · {{ collections.agent | size | numFmt }} agents · {{ collections.multiplexer | size | numFmt }} multiplexers · {{ collections["agent-sdk"] | size | numFmt }} SDKs</p>
+    <p><a href="https://github.com/prime-radiant-inc/alltheagents.org">All the Agents</a> is an open community project maintained by <a href="https://primeradiant.com">Prime Radiant</a>.</p>
   </footer>
   {{ extraScripts | safe }}
 </body>

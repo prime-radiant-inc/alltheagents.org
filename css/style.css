@@ -1,5 +1,5 @@
 /* ============================================================
-   Harness Census — design system
+   All the Agents — design system
    Dark, GitHub-adjacent but warmer. Tokens first, then
    components: nav, hero, cards, tables, badges, agent page,
    filters, pagination, footer, responsive.
@@ -30,7 +30,7 @@
   --cat-agent: #5ea1ff;
   --cat-multiplexer: #b98cff;
   --cat-agent-sdk: #4fd1a5;
-  --cat-other: #8593a8;
+  --cat-total: #8593a8;
 
   /* status colors */
   --ok: #3fb950;
@@ -129,6 +129,9 @@ h1, h2, h3, h4 { color: var(--text-bright); line-height: 1.25; letter-spacing: -
   max-width: 620px;
   margin: 0 auto 1.25rem;
 }
+.hero-links { font-size: 0.95rem; }
+.hero-links a { color: var(--text-muted); border-bottom: 1px solid var(--border); }
+.hero-links a:hover { color: var(--text-bright); border-bottom-color: currentColor; }
 
 /* ============ Stat cards (category cards) ============ */
 .stats {
@@ -169,8 +172,8 @@ h1, h2, h3, h4 { color: var(--text-bright); line-height: 1.25; letter-spacing: -
 .stat-card.cat-multiplexer h3 { color: var(--cat-multiplexer); }
 .stat-card.cat-agent-sdk { border-top: 3px solid var(--cat-agent-sdk); }
 .stat-card.cat-agent-sdk h3 { color: var(--cat-agent-sdk); }
-.stat-card.cat-other { border-top: 3px solid var(--cat-other); }
-.stat-card.cat-other h3 { color: var(--cat-other); }
+.stat-card.cat-total { border-top: 3px solid var(--cat-total); }
+.stat-card.cat-total h3 { color: var(--cat-total); }
 
 /* ============ Search ============ */
 .search-section { margin: 0 auto 3rem; max-width: 680px; }
@@ -337,7 +340,6 @@ h1, h2, h3, h4 { color: var(--text-bright); line-height: 1.25; letter-spacing: -
 .badge-cat-agent { background: rgba(94, 161, 255, 0.13); color: var(--cat-agent); border-color: rgba(94, 161, 255, 0.3); }
 .badge-cat-multiplexer { background: rgba(185, 140, 255, 0.13); color: var(--cat-multiplexer); border-color: rgba(185, 140, 255, 0.3); }
 .badge-cat-agent-sdk { background: rgba(79, 209, 165, 0.13); color: var(--cat-agent-sdk); border-color: rgba(79, 209, 165, 0.3); }
-.badge-cat-other { background: rgba(133, 147, 168, 0.13); color: var(--cat-other); border-color: rgba(133, 147, 168, 0.3); }
 
 .badge-status { text-transform: capitalize; }
 .badge-status-active { background: rgba(63, 185, 80, 0.13); color: var(--ok); }
@@ -378,6 +380,20 @@ h1, h2, h3, h4 { color: var(--text-bright); line-height: 1.25; letter-spacing: -
 .page-header { margin-bottom: 1.75rem; }
 .page-header h1 { font-size: 1.9rem; font-weight: 800; letter-spacing: -0.02em; }
 .page-header .page-sub { color: var(--text-muted); margin-top: 0.35rem; font-size: 1rem; }
+
+/* ============ Prose pages (About) ============ */
+.prose { max-width: 760px; }
+.prose p, .prose ul { margin-bottom: 1.1rem; line-height: 1.65; }
+.prose h2 {
+  font-size: 1.25rem;
+  margin: 2.25rem 0 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.prose ul { padding-left: 1.4rem; }
+.prose li { margin-bottom: 0.6rem; }
+.prose li .badge { margin-right: 0.35rem; vertical-align: middle; }
+.prose strong { color: var(--text-bright); }
 
 /* ============ Agent detail page ============ */
 .agent-page { max-width: 1080px; margin: 0 auto; }
