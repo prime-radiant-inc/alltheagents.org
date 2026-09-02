@@ -7,22 +7,28 @@
   <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
 </head>
 <body>
+  {% set navLinks = [
+    { url: "/all/", label: "All Entries" },
+    { url: "/by-license/", label: "By License" },
+    { url: "/by-platform/", label: "By Platform" },
+    { url: "/by-maker/", label: "By Maker" },
+    { url: "/stars/", label: "By Stars" },
+    { url: "/newest/", label: "Newest" },
+    { url: "/multiplexers/", label: "Multiplexers" },
+    { url: "/agent-sdks/", label: "Agent SDKs" }
+  ] %}
   <nav class="nav">
     <a href="{{ '/' | url }}" class="nav-logo">Harness Census</a>
-    <a href="{{ '/all/' | url }}" class="nav-link">All Agents</a>
-    <a href="{{ '/by-license/' | url }}" class="nav-link">By License</a>
-    <a href="{{ '/by-platform/' | url }}" class="nav-link">By Platform</a>
-    <a href="{{ '/by-maker/' | url }}" class="nav-link">By Maker</a>
-    <a href="{{ '/stars/' | url }}" class="nav-link">By Stars</a>
-    <a href="{{ '/newest/' | url }}" class="nav-link">Newest</a>
-    <a href="{{ '/multiplexers/' | url }}" class="nav-link">Multiplexers</a>
-    <a href="{{ '/agent-sdks/' | url }}" class="nav-link">Agent SDKs</a>
+    {% for link in navLinks %}
+    {% set isActive = page.url == link.url %}
+    <a href="{{ link.url | url }}" class="nav-link{% if isActive %} active{% endif %}"{% if isActive %} aria-current="page"{% endif %}>{{ link.label }}</a>
+    {% endfor %}
   </nav>
   <main class="container">
     {{ content | safe }}
   </main>
   <footer class="footer">
-    <p><a href="https://github.com/prime-radiant-inc/harness-census">Harness Census</a> — {{ collections["all-entries"] | size }} entries catalogued · {{ collections.agent | size }} agents · {{ collections.multiplexer | size }} multiplexers · {{ collections["agent-sdk"] | size }} SDKs</p>
+    <p><a href="https://github.com/prime-radiant-inc/harness-census">Harness Census</a> by <a href="https://primeradiant.com">Prime Radiant</a> — {{ collections["all-entries"] | size | numFmt }} entries catalogued · {{ collections.agent | size | numFmt }} agents · {{ collections.multiplexer | size | numFmt }} multiplexers · {{ collections["agent-sdk"] | size | numFmt }} SDKs</p>
   </footer>
   {{ extraScripts | safe }}
 </body>
