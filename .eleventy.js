@@ -7,6 +7,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy({ "_data/agents.json": "agents.json" });
+  // Custom domain for GitHub Pages — must land in the built output
+  eleventyConfig.addPassthroughCopy("CNAME");
 
   // Collection: all agent harnesses (only category === "agent")
   eleventyConfig.addCollection("agent", function(collectionApi) {
@@ -53,6 +55,12 @@ module.exports = function(eleventyConfig) {
     if (!stars || stars === "null") return "—";
     if (stars >= 1000) return (stars / 1000).toFixed(1) + "k";
     return stars.toString();
+  });
+
+  // Filter: format an integer with thousands separators (1347 -> "1,347")
+  eleventyConfig.addFilter("numFmt", function(n) {
+    const num = Number(n);
+    return Number.isFinite(num) ? num.toLocaleString("en-US") : n;
   });
 
   // Filter: size (for arrays/collections)
@@ -125,7 +133,7 @@ module.exports = function(eleventyConfig) {
       layouts: "_layouts",
       data: "_data",
     },
-    pathPrefix: "/harness-census/",
+    pathPrefix: "/",
     templateFormats: ["md", "njk", "html"],
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",

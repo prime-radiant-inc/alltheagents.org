@@ -6,77 +6,34 @@ eleventyComputed:
 <section class="hero">
   <h1>Coding Agent Harness Census</h1>
   <p class="hero-subtitle">The maintained catalog of every coding agent harness, the multiplexers that manage them, and the SDKs used to build them.</p>
-  <p class="hero-count"><strong>{{ collections.agent | size }}</strong> agents · <strong>{{ collections.multiplexer | size }}</strong> multiplexers · <strong>{{ collections["agent-sdk"] | size }}</strong> SDKs</p>
 </section>
 
 <section class="search-section">
-  <input type="text" id="search" placeholder="Search all 1,347 entries — try 'rust terminal agent' or 'aider'…" class="search-input" autocomplete="off">
+  <input type="text" id="search" placeholder="Search all {{ collections['all-entries'] | size | numFmt }} entries — try 'rust terminal agent' or 'aider'…" class="search-input" autocomplete="off">
   <div id="search-results" class="search-results"></div>
 </section>
 
 <section class="stats">
   <a class="stat-card cat-agent" href="{{ '/all/' | url }}">
     <div class="stat-icon">🤖</div>
-    <h3>{{ collections.agent | size }}</h3>
+    <h3>{{ collections.agent | size | numFmt }}</h3>
     <p>Agents</p>
   </a>
   <a class="stat-card cat-multiplexer" href="{{ '/multiplexers/' | url }}">
     <div class="stat-icon">🎛️</div>
-    <h3>{{ collections.multiplexer | size }}</h3>
+    <h3>{{ collections.multiplexer | size | numFmt }}</h3>
     <p>Multiplexers</p>
   </a>
   <a class="stat-card cat-agent-sdk" href="{{ '/agent-sdks/' | url }}">
     <div class="stat-icon">🧩</div>
-    <h3>{{ collections["agent-sdk"] | size }}</h3>
+    <h3>{{ collections["agent-sdk"] | size | numFmt }}</h3>
     <p>Agent SDKs</p>
   </a>
   <a class="stat-card cat-other" href="{{ '/all/' | url }}">
     <div class="stat-icon">📦</div>
-    <h3>{{ collections["all-entries"] | size }}</h3>
+    <h3>{{ collections["all-entries"] | size | numFmt }}</h3>
     <p>Total entries</p>
   </a>
-</section>
-
-<section class="section">
-  <h2>Top Agents by Stars</h2>
-  <div class="card-grid">
-    {% set sorted = collections.agent | sortByStars %}
-    {% for agent in sorted.slice(0, 6) %}
-    <a class="agent-card" href="{{ ('/agents/' ~ agent.data.slug ~ '/') | url }}">
-      <div class="card-top">
-        <span class="card-name">{{ agent.data.name }}</span>
-        {% if agent.data.stars and agent.data.stars != "null" %}<span class="card-stars">★ {{ agent.data.stars | starFmt }}</span>{% endif %}
-      </div>
-      <p class="card-desc">{{ agent.data.what_makes_it_special | truncate(140) }}</p>
-      <div class="card-meta">
-        {% if agent.data.maker and agent.data.maker != "null" %}<span>{{ agent.data.maker }}</span><span class="dot">·</span>{% endif %}
-        <span class="badge badge-cat badge-cat-agent">agent</span>
-      </div>
-    </a>
-    {% endfor %}
-  </div>
-  <div class="see-all"><a href="{{ '/all/' | url }}">See all {{ collections.agent | size }} agents →</a></div>
-</section>
-
-<section class="section">
-  <h2>Newest Additions <span class="group-count">from the Hacker News sweep</span></h2>
-  <div class="card-grid">
-    {% set newest = collections.agent | sortByDate | reverse %}
-    {% for agent in newest.slice(0, 6) %}
-    <a class="agent-card" href="{{ ('/agents/' ~ agent.data.slug ~ '/') | url }}">
-      <div class="card-top">
-        <span class="card-name">{{ agent.data.name }}</span>
-        {% if agent.data.first_released and agent.data.first_released != "null" %}<span class="card-stars">{{ agent.data.first_released | dateFmt }}</span>{% endif %}
-      </div>
-      <p class="card-desc">{{ agent.data.what_makes_it_special | truncate(140) }}</p>
-      <div class="card-meta">
-        {% if agent.data.maker and agent.data.maker != "null" %}<span>{{ agent.data.maker }}</span><span class="dot">·</span>{% endif %}
-        <span class="badge badge-cat badge-cat-agent">agent</span>
-      </div>
-    </a>
-    {% endfor %}
-  </div>
-  <div class="see-all"><a href="{{ '/newest/' | url }}">See newest →</a></div>
 </section>
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
