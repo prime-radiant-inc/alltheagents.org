@@ -1,0 +1,169 @@
+name: Add an entry
+description: Suggest a coding agent, multiplexer, or agent SDK that is missing from the catalog.
+title: "Add: "
+labels: ["new-entry"]
+body:
+  - type: markdown
+    attributes:
+      value: One entry per issue. Leave unknown optional fields blank.
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Primary URL
+    validations:
+      required: true
+
+  - type: input
+    id: source_code_url
+    attributes:
+      label: Source code URL
+      description: Leave blank if closed source.
+
+  - type: input
+    id: maker
+    attributes:
+      label: Maker
+      description: The person, company, or community behind it.
+    validations:
+      required: true
+
+  - type: input
+    id: license
+    attributes:
+      label: License
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: "Agent test: without any host tool, does it still run a coding task end to end?"
+      options:
+        - "agent: codes itself and owns its own tool loop"
+        - "multiplexer: runs or coordinates other agents rather than coding"
+        - "agent-sdk: a toolkit for building agents that ships no coding agent itself"
+        - "other: none of the above"
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Category rationale
+      description: One sentence. Becomes the entry's row in the categorization ledger.
+    validations:
+      required: true
+
+  - type: textarea
+    id: what_makes_it_special
+    attributes:
+      label: What makes it special
+      description: One or two sentences.
+    validations:
+      required: true
+
+  - type: textarea
+    id: narrative
+    attributes:
+      label: Narrative
+      description: About a paragraph. Why it exists, how it works, who uses it. Do not repeat the fields above.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: platforms
+    attributes:
+      label: Platforms
+      options:
+        - label: CLI
+        - label: IDE
+        - label: Web
+        - label: Desktop
+        - label: Autonomous
+
+  - type: input
+    id: language
+    attributes:
+      label: Implementation language
+
+  - type: input
+    id: first_released
+    attributes:
+      label: First released
+      placeholder: YYYY-MM-DD
+
+  - type: input
+    id: current_release
+    attributes:
+      label: Most recent release
+      placeholder: YYYY-MM-DD
+
+  - type: dropdown
+    id: maintained
+    attributes:
+      label: Maintained
+      options:
+        - active
+        - dormant
+        - dead
+        - acquired
+        - renamed
+
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Pricing
+      options:
+        - free
+        - freemium
+        - subscription
+        - usage
+        - BYOK
+
+  - type: input
+    id: model_providers
+    attributes:
+      label: Model providers
+      placeholder: "Anthropic, OpenAI, Ollama (or \"locked\" if single-provider)"
+
+  - type: input
+    id: install_method
+    attributes:
+      label: Install method
+
+  - type: input
+    id: docs_url
+    attributes:
+      label: Docs URL
+
+  - type: checkboxes
+    id: extensibility
+    attributes:
+      label: Extensibility
+      description: Check everything it supports.
+      options:
+        - label: MCP
+        - label: Plugins
+        - label: Subagents
+        - label: Hooks
+        - label: Plan mode
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched the catalog and this is not already listed.
+          required: true

@@ -1,0 +1,59 @@
+name: Fix an entry
+description: Report a correction or update to one existing entry.
+title: "Fix: "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: One entry per issue.
+
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      description: Name, or a link to its page.
+    validations:
+      required: true
+
+  - type: textarea
+    id: changes
+    attributes:
+      label: What changed?
+      description: One line per field, old value and new value.
+      placeholder: |
+        license: MIT -> Apache-2.0
+        maintained: active -> dormant
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Changelog, release page, license file, docs, or "I maintain this project".
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: New category
+      description: Only if the category itself is wrong.
+      options:
+        - No change
+        - agent
+        - multiplexer
+        - agent-sdk
+        - other
+      default: 0
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Category rationale
+      description: Required if the category changed. One sentence.
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?

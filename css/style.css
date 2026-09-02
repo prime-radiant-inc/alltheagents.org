@@ -166,13 +166,9 @@ h1, h2, h3, h4 { color: var(--text-bright); line-height: 1.25; letter-spacing: -
   font-size: 0.9rem;
   font-weight: 500;
 }
-.stat-card.cat-agent { border-top: 3px solid var(--cat-agent); }
 .stat-card.cat-agent h3 { color: var(--cat-agent); }
-.stat-card.cat-multiplexer { border-top: 3px solid var(--cat-multiplexer); }
 .stat-card.cat-multiplexer h3 { color: var(--cat-multiplexer); }
-.stat-card.cat-agent-sdk { border-top: 3px solid var(--cat-agent-sdk); }
 .stat-card.cat-agent-sdk h3 { color: var(--cat-agent-sdk); }
-.stat-card.cat-total { border-top: 3px solid var(--cat-total); }
 .stat-card.cat-total h3 { color: var(--cat-total); }
 
 /* ============ Search ============ */
