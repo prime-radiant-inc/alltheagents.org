@@ -1,11 +1,12 @@
 ---
 layout: base.njk
 eleventyComputed:
-  title: "Harness Census — {{ collections.agent | size }} Coding Agent Harnesses"
+  title: "All the Agents — {{ collections.agent | size }} Coding Agent Harnesses"
 ---
 <section class="hero">
-  <h1>Coding Agent Harness Census</h1>
+  <h1>All the Agents</h1>
   <p class="hero-subtitle">The maintained catalog of every coding agent harness, the multiplexers that manage them, and the SDKs used to build them.</p>
+  <p class="hero-links"><a href="https://github.com/prime-radiant-inc/alltheagents.org" target="_blank" rel="noopener">Open source on GitHub →</a></p>
 </section>
 
 <section class="search-section">
@@ -25,11 +26,11 @@ eleventyComputed:
     <p>Multiplexers</p>
   </a>
   <a class="stat-card cat-agent-sdk" href="{{ '/agent-sdks/' | url }}">
-    <div class="stat-icon">🧩</div>
+    <div class="stat-icon">🧰</div>
     <h3>{{ collections["agent-sdk"] | size | numFmt }}</h3>
     <p>Agent SDKs</p>
   </a>
-  <a class="stat-card cat-other" href="{{ '/all/' | url }}">
+  <a class="stat-card cat-total" href="{{ '/all/' | url }}">
     <div class="stat-icon">📦</div>
     <h3>{{ collections["all-entries"] | size | numFmt }}</h3>
     <p>Total entries</p>
@@ -50,7 +51,8 @@ fetch('{{ '/agents.json' | url }}')
     const input = document.getElementById('search');
     const results = document.getElementById('search-results');
 
-    const catClass = c => c === 'agent' ? 'badge-cat-agent' : c === 'multiplexer' ? 'badge-cat-multiplexer' : c === 'agent-sdk' ? 'badge-cat-agent-sdk' : 'badge-cat-other';
+    const shownCats = ['agent', 'multiplexer', 'agent-sdk'];
+    const catBadge = c => shownCats.includes(c) ? `<span class="badge badge-cat badge-cat-${c}" style="margin-left:0.5rem">${c}</span>` : '';
 
     input.addEventListener('input', (e) => {
       const query = e.target.value.trim();
@@ -64,7 +66,7 @@ fetch('{{ '/agents.json' | url }}')
         <a class="search-result" style="display:block;color:inherit" href="{{ '/agents/' | url }}${m.item.slug}/">
           <div>
             <strong>${m.item.name}</strong>
-            <span class="badge badge-cat ${catClass(m.item.category)}" style="margin-left:0.5rem">${m.item.category}</span>
+            ${catBadge(m.item.category)}
             <span class="result-meta">${m.item.maker || ''} ${m.item.stars ? '· ★ ' + (m.item.stars >= 1000 ? (m.item.stars/1000).toFixed(1)+'k' : m.item.stars) : ''}</span>
           </div>
           <p class="result-desc">${(m.item.description || '').slice(0, 160)}</p>

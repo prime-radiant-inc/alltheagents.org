@@ -1,4 +1,4 @@
-# Harness Census
+# All the Agents
 
 Comprehensive census of coding agent harnesses — systems that let an LLM autonomously write, modify, debug, or run code — plus the multiplexers that manage them and the SDKs used to build them.
 
@@ -11,7 +11,7 @@ Every entry carries exactly one category, decided against these definitions:
 - **agent** — a coding agent or harness: something that uses tools in a loop to create or modify software. The agent **owns its own loop** — it drives the iterate-decide-invoke cycle (prompt -> model -> tool -> result -> repeat) and invokes at least one tool itself. "Expansive and inclusive" refers to what counts as software and as a tool, not to who owns the loop. A framework that installs personas or workflows into a host agent's loop (Claude Code, Cursor, etc.) does not own the loop and is not an agent. Test: if you remove the host, does the product still run a coding task end-to-end? If yes, it is an agent.
 - **multiplexer** — not an agent: a tool that helps manage a set of agents with a human-facing UI (orchestrates/runs other agents rather than coding itself). A multiplexer launches, schedules, or coordinates other agents' loops but does not code itself.
 - **agent-sdk** — a general agent-building framework, SDK, or toolkit that ships no coding agent of its own (e.g. AutoGen, CrewAI, LangGraph). Developers use its primitives to build something that would own a loop; the SDK itself does not own one.
-- **other** — neither of the above: model gateways, prompt libraries, workflow packs installed into a host agent, eval tooling, MCP tool servers, memory layers, datasets, tutorials, link-only artifacts. These may use tools or appear in loops, but they do not own the loop or invoke tools themselves.
+- **other** — neither of the above: model gateways, prompt libraries, workflow packs installed into a host agent, eval tooling, MCP tool servers, memory layers, datasets, tutorials, link-only artifacts. These may use tools or appear in loops, but they do not own the loop or invoke tools themselves. Entries in this category are recorded here but are not published on the website.
 
 Every decision, with a one-line rationale, is recorded in [`CATEGORIZATION_LEDGER.md`](CATEGORIZATION_LEDGER.md) (machine-readable copy: `scripts/categorization_ledger.json`). The 2026-08-28 review pass reclassified entries against the tightened definitions, was independently verified by three reviewer passes over the full list, and folded in a 30-day Hacker News sweep.
 

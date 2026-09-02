@@ -6,7 +6,6 @@ module.exports = function(eleventyConfig) {
   // Passthrough for static assets
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
-  eleventyConfig.addPassthroughCopy({ "_data/agents.json": "agents.json" });
   // Custom domain for GitHub Pages — must land in the built output
   eleventyConfig.addPassthroughCopy("CNAME");
 
@@ -17,11 +16,30 @@ module.exports = function(eleventyConfig) {
     );
   });
 
-  // Collection: all entries (for the /all/ page — every category)
+  // Collection: all published entries (for the /all/ page — every category except "other")
   eleventyConfig.addCollection("all-entries", function(collectionApi) {
     return collectionApi.getFilteredByGlob("agents/*.md").filter(
-      item => item.data.category !== undefined
+      item => item.data.category !== undefined && item.data.category !== "other"
     );
+  });
+
+  // Filter: build the homepage search index from a collection, so it can never
+  // drift from the published entries (fields match what index.njk's Fuse setup uses)
+  eleventyConfig.addFilter("searchIndex", function(items) {
+    return (items || []).map(item => {
+      const d = item.data;
+      const body = String(item.rawInput || "").replace(/^---[\s\S]*?---\s*/, "");
+      return {
+        name: d.name,
+        slug: d.slug,
+        category: d.category,
+        maker: d.maker,
+        license: d.license,
+        language: d.language,
+        stars: d.stars,
+        description: body.trim().slice(0, 200),
+      };
+    });
   });
 
   // Collection: multiplexers (tools that orchestrate/run other agent harnesses)

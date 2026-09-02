@@ -1,0 +1,41 @@
+---
+layout: base.njk
+eleventyComputed:
+  title: "About — All the Agents"
+---
+<div class="page-header">
+  <h1>About All the Agents</h1>
+  <p class="page-sub">A census of coding agent harnesses, the multiplexers that manage them, and the SDKs used to build them.</p>
+</div>
+
+<div class="prose">
+  <p>All the Agents catalogs coding agent harnesses: systems that let a large language model autonomously write, modify, debug, or run code. Alongside the agents themselves it tracks the multiplexers that orchestrate them and the SDKs developers use to build their own. The catalog currently holds {{ collections["all-entries"] | size | numFmt }} entries and is continually updated.</p>
+
+  <p>It is an open community project maintained by <a href="https://primeradiant.com">Prime Radiant</a>. Everything on this site, including every entry page, lives in a public repository on <a href="https://github.com/prime-radiant-inc/alltheagents.org" target="_blank" rel="noopener">GitHub</a>.</p>
+
+  <h2>Categories</h2>
+  <p>Every entry carries exactly one category, decided against these definitions:</p>
+  <ul>
+    <li><span class="badge badge-cat badge-cat-agent">agent</span> A coding agent or harness: something that uses tools in a loop to create or modify software. The agent <strong>owns its own loop</strong>. It drives the prompt → model → tool → result → repeat cycle and invokes at least one tool itself. A framework that installs personas or workflows into a host agent's loop (Claude Code, Cursor, and the like) does not own the loop and is not an agent. The test: if you remove the host, does the product still run a coding task end to end? If yes, it is an agent.</li>
+    <li><span class="badge badge-cat badge-cat-multiplexer">multiplexer</span> Not an agent: a tool with a human-facing UI that helps manage a set of agents. A multiplexer launches, schedules, or coordinates other agents' loops but does not code itself.</li>
+    <li><span class="badge badge-cat badge-cat-agent-sdk">agent-sdk</span> A general agent-building framework, SDK, or toolkit that ships no coding agent of its own, such as AutoGen, CrewAI, or LangGraph. Developers use its primitives to build something that would own a loop; the SDK itself does not own one.</li>
+  </ul>
+  <p>Adjacent projects that fit none of these definitions, such as model gateways, prompt libraries, workflow packs installed into a host agent, eval tooling, MCP tool servers, memory layers, datasets, and tutorials, are tracked in the repository but not published on this site.</p>
+  <p>Every category decision, with a one-line rationale, is recorded in the <a href="https://github.com/prime-radiant-inc/alltheagents.org/blob/main/CATEGORIZATION_LEDGER.md" target="_blank" rel="noopener">categorization ledger</a>.</p>
+
+  <h2>What each entry records</h2>
+  <p>Each entry is a Markdown file with structured fields plus a short narrative: why the harness exists, how it works, and who uses it. The structured fields cover:</p>
+  <ul>
+    <li><strong>Identity</strong>: canonical name, maker, license, primary URL, source availability, docs and download links, and install method.</li>
+    <li><strong>Classification</strong>: platforms (CLI, IDE, Web, Desktop, Autonomous), autonomy level (autocomplete through autonomous background), specialization, and implementation language.</li>
+    <li><strong>Lifecycle</strong>: first and latest release dates, and maintenance status (active, dormant, dead, acquired, or renamed).</li>
+    <li><strong>Extensibility</strong>: MCP support, plugins, hooks, plan mode, and subagents.</li>
+    <li><strong>Models and pricing</strong>: which model providers it works with and how it is paid for.</li>
+  </ul>
+
+  <h2>Methodology</h2>
+  <p>The catalog was initially built from fifteen "awesome" aggregation lists, five rounds of GitHub topic and keyword searches, GitHub API enrichment of over 1,500 repositories, and manual research of commercial products. A full review pass on 2026-08-28 re-researched every entry's primary URL, filled in missing fields, rewrote every narrative, and categorized every entry against the definitions above. Ambiguous calls were adjudicated after three independent full-list review passes.</p>
+
+  <h2>Contributing</h2>
+  <p>Corrections and new entries are welcome. Every entry page has a link to edit its source file on GitHub, and new entries follow the template in the repository. Open a pull request at <a href="https://github.com/prime-radiant-inc/alltheagents.org" target="_blank" rel="noopener">github.com/prime-radiant-inc/alltheagents.org</a>.</p>
+</div>
