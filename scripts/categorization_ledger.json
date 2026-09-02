@@ -8080,5 +8080,81 @@
     "name": "Wienerdog",
     "category": "other",
     "rationale": "Memory, skills, and routines layer for Claude Code and Codex CLI implemented as plain files \u2014 an enhancement layer, not an agent."
+  },
+  {
+    "slug": "breakaway-agent",
+    "category": "agent"
+  },
+  {
+    "slug": "hex",
+    "category": "agent"
+  },
+  {
+    "slug": "nanoclaw",
+    "category": "multiplexer"
+  },
+  {
+    "slug": "tracker",
+    "category": "multiplexer"
+  },
+  {
+    "slug": "ourocodus",
+    "category": "multiplexer"
+  },
+  {
+    "slug": "coven",
+    "category": "multiplexer"
+  },
+  {
+    "slug": "fleet-control",
+    "category": "multiplexer"
+  },
+  {
+    "slug": "mux-rs",
+    "category": "agent-sdk"
+  },
+  {
+    "slug": "dippin-lang",
+    "category": "agent-sdk"
+  },
+  {
+    "slug": "2389-agent-rust",
+    "category": "agent-sdk"
+  },
+  {
+    "slug": "thrifty",
+    "category": "other"
+  },
+  {
+    "slug": "binary-re",
+    "category": "other"
+  },
+  {
+    "slug": "sift",
+    "category": "other"
+  },
+  {
+    "slug": "simmer",
+    "category": "other"
+  },
+  {
+    "slug": "coven-gateway",
+    "category": "other"
+  },
+  {
+    "slug": "gossip",
+    "category": "other"
+  },
+  {
+    "slug": "packnplay",
+    "category": "other"
+  },
+  {
+    "slug": "translator",
+    "category": "other"
+  },
+  {
+    "slug": "claude-plugins-2389",
+    "category": "other"
   }
 ]
