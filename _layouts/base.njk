@@ -30,6 +30,9 @@
   </main>
   <footer class="footer">
     <p><a href="https://github.com/prime-radiant-inc/alltheagents.org">All the Agents</a> is an open community project maintained by <a href="https://primeradiant.com">Prime Radiant</a>.</p>
+    {% if page.url != "/about/" %}
+    <p><a href="https://github.com/prime-radiant-inc/alltheagents.org/issues/new/choose" target="_blank" rel="noopener">Add or fix an entry →</a></p>
+    {% endif %}
   </footer>
   {{ extraScripts | safe }}
 </body>
