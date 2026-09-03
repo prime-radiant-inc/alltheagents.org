@@ -119,11 +119,15 @@ For fix issues:
 
 `check --built` is a separate mode used after writing: it runs
 `npx @11ty/eleventy` and confirms `_site/agents/<slug>/index.html` exists
-and `_data/agents.json` contains the slug.
+and `_data/agents.json` contains the slug. On success it writes
+`work/issue-N/built.ok`, the marker `pr` requires.
 
 ### `write work/issue-N/verified.json`
 
-Creates a new entry from the agent's verified data. Steps, in order:
+Creates a new entry from the agent's verified data. It first validates
+`entry` with the same enum and required-field rules `check` applies to the
+form, so an agent cannot write a value the form could not have submitted.
+Steps, in order:
 
 1. Write `agents/<slug>.md` in the canonical format: quoted strings, `null`
    unquoted, lists as `  - "value"`, booleans as `"True"` / `"False"`,
