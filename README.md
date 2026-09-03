@@ -24,6 +24,7 @@ Every decision, with a one-line rationale, is recorded in [`CATEGORIZATION_LEDGE
 - `_layouts/`, `*.njk` — Eleventy templates
 - `css/style.css` — dark theme stylesheet
 - `scripts/` — page generators, JSON builders, and enrichment merge tooling
+- `docs/issue-to-pr.md` — runbook for turning an issue form into a PR (`scripts/entry_bot.py` does the mechanical parts)
 - `sources/` — raw source data, scripts, and intermediate files
 - `metrics/` — per-entry traction history (stars/downloads over time)
 
