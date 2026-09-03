@@ -16,6 +16,43 @@ import shutil  # noqa: E402
 import tempfile  # noqa: E402
 
 from entrybot import checks, repo as repo_mod  # noqa: E402
+from entrybot import writer  # noqa: E402
+
+
+def real_parse_frontmatter():
+    """The parser the site build uses, pulled out of the generator script
+    without running its module-level code."""
+    src = (SCRIPTS / "generate_json_from_md.py").read_text()
+    block = src[src.index("def parse_frontmatter"):src.index("# Load source URLs")]
+    ns = {}
+    exec(block, ns)
+    return ns["parse_frontmatter"]
+
+
+VERIFIED_ADD = {
+    "number": 12,
+    "kind": "add",
+    "slug": "foo-agent",
+    "entry": {
+        "name": "Foo Agent",
+        "category": "agent",
+        "maker": "foo-inc",
+        "license": None,
+        "url": "https://foo.dev",
+        "source_code_url": "https://github.com/foo-inc/foo-agent",
+        "source_available": True,
+        "platforms": ["CLI", "Web"],
+        "maintained": "active",
+        "pricing": "BYOK",
+        "stars": 42,
+        "what_makes_it_special": "Runs entirely offline against local models.",
+    },
+    "body": "Foo Agent started as a weekend project.",
+    "rationale": "Drives its own prompt-model-tool loop.",
+    "maker_record": {"name": "Foo Inc", "maker_type": "company", "country": None,
+                     "makes_models": False, "revenue_model": [], "website": "https://foo.dev"},
+    "evidence": {},
+}
 
 ADD_TEMPLATE = ROOT / ".github" / "ISSUE_TEMPLATE" / "add-agent.yml"
 FIX_TEMPLATE = ROOT / ".github" / "ISSUE_TEMPLATE" / "update-agent.yml"
@@ -139,6 +176,40 @@ class ChecksTest(unittest.TestCase):
 
         problems = checks.check_add(fields, self.repo, url_ok=lambda url: False)
         self.assertIn("primary URL not reachable: https://foo.dev", problems)
+
+
+class WriterTest(unittest.TestCase):
+    def setUp(self):
+        self.repo = make_repo()
+        self.addCleanup(shutil.rmtree, self.repo.root)
+
+    def test_write_entry_round_trip_and_ledger(self):
+        touched = writer.write_entry(self.repo, VERIFIED_ADD, today="2026-09-03")
+        text = (self.repo.agents_dir / "foo-agent.md").read_text()
+        fm, body = real_parse_frontmatter()(text)
+        self.assertEqual(fm["name"], "Foo Agent")
+        self.assertEqual(fm["slug"], "foo-agent")
+        self.assertEqual(fm["layout"], "agent.njk")
+        self.assertIsNone(fm["license"])
+        self.assertEqual(fm["source_available"], "True")
+        self.assertEqual(fm["platforms"], ["CLI", "Web"])
+        self.assertEqual(fm["autonomy_level"], [])
+        self.assertEqual(fm["stars"], "42")
+        self.assertEqual(fm["sources"], ["github-issue"])
+        self.assertEqual(fm["last_verified"], "2026-09-03")
+        self.assertEqual(body.strip(), VERIFIED_ADD["body"])
+
+        ledger = self.repo.ledger_md.read_text()
+        self.assertIn("**3 entries**: 2 agent, 1 multiplexer, 0 agent-sdk, 0 other.", ledger)
+        self.assertLess(ledger.index("| `foo-agent` |"), ledger.index("| `zed-thing` |"))
+        self.assertEqual(self.repo.ledger_json_rows()[-1]["slug"], "foo-agent")
+        self.assertEqual(self.repo.makers()["foo-inc"]["name"], "Foo Inc")
+        self.assertEqual(
+            sorted(p.name for p in touched),
+            ["CATEGORIZATION_LEDGER.md", "categorization_ledger.json", "foo-agent.md", "makers.json"],
+        )
+        with self.assertRaises(FileExistsError):
+            writer.write_entry(self.repo, VERIFIED_ADD, today="2026-09-03")
 
 
 if __name__ == "__main__":
