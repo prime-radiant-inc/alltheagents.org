@@ -79,14 +79,29 @@ def pr(repo, issue, verified, touched, work, base="main"):
     body_file.write_text(build_pr_body(issue, verified), encoding="utf-8")
 
     start = gh.run(["git", "rev-parse", "--abbrev-ref", "HEAD"], cwd=repo.root).strip()
-    gh.run(["git", "checkout", "-b", branch], cwd=repo.root)
+    pushed = False
     try:
+        gh.run(["git", "checkout", "-b", branch], cwd=repo.root)
         gh.run(["git", "add", "--", *touched], cwd=repo.root)
         gh.run(["git", "commit", "-m", title], cwd=repo.root)
         gh.run(["git", "push", "-u", remote, branch], cwd=repo.root)
+        pushed = True
         url = gh.pr_create(title, body_file, base, branch)
-    finally:
+    except Exception:
         gh.run(["git", "checkout", start], cwd=repo.root)
+        try:
+            gh.run(["git", "branch", "-D", branch], cwd=repo.root)
+        except Exception:
+            pass
+        if pushed:
+            raise RuntimeError(
+                f"pushed branch {branch} to {remote} but failed to open the PR; "
+                f"the branch and commit are on the remote with no PR. "
+                f"Recover manually with: gh pr create --base {base} --head {branch} "
+                f'--title "{title}" --body-file {body_file}'
+            )
+        raise
+    gh.run(["git", "checkout", start], cwd=repo.root)
     return url
 
 
