@@ -128,7 +128,10 @@ def cmd_apply_fix(args):
 
 
 def finish_write(verified, touched):
-    cmd_regen(None)
+    try:
+        cmd_regen(None)
+    except RuntimeError as err:
+        fail(str(err).splitlines())
     rel = [str(p.relative_to(ROOT)) for p in touched] + ["_data/agents.json"]
     save(work_dir(verified["number"]) / "touched.json", rel)
 
