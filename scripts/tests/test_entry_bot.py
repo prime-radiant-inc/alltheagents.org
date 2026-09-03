@@ -211,6 +211,32 @@ class WriterTest(unittest.TestCase):
         with self.assertRaises(FileExistsError):
             writer.write_entry(self.repo, VERIFIED_ADD, today="2026-09-03")
 
+    def test_apply_fix_touches_only_target_lines(self):
+        path = self.repo.agents_dir / "alpha.md"
+        before = path.read_text().splitlines()
+        verified = {"number": 13, "kind": "fix", "slug": "alpha",
+                    "entry": {"license": "Apache-2.0", "platforms": ["CLI", "IDE"]},
+                    "body": None, "rationale": None, "not_applied": [], "evidence": {}}
+        touched = writer.apply_fix(self.repo, verified, today="2026-09-03")
+        after = path.read_text().splitlines()
+        self.assertIn('license: "Apache-2.0"', after)
+        self.assertIn('last_verified: "2026-09-03"', after)
+        self.assertEqual(after[after.index("platforms:") + 1:after.index("platforms:") + 3], ['  - "CLI"', '  - "IDE"'])
+        changed_prefixes = ("license:", "platforms:", "  - ", "last_verified:")
+        keep = lambda lines: [l for l in lines if not l.startswith(changed_prefixes)]
+        self.assertEqual(keep(after), keep(before))
+        self.assertEqual([p.name for p in touched], ["alpha.md"])
+
+        verified = {"number": 14, "kind": "fix", "slug": "alpha",
+                    "entry": {"category": "multiplexer"}, "body": "New body.",
+                    "rationale": "Now orchestrates agents.", "not_applied": [], "evidence": {}}
+        touched = writer.apply_fix(self.repo, verified, today="2026-09-03")
+        self.assertIn("**2 entries**: 0 agent, 2 multiplexer, 0 agent-sdk, 0 other.", self.repo.ledger_md.read_text())
+        self.assertIn("| `alpha` | Alpha | multiplexer | Now orchestrates agents. |", self.repo.ledger_md.read_text())
+        self.assertEqual(self.repo.ledger_json_rows()[0]["category"], "multiplexer")
+        self.assertTrue(path.read_text().endswith("---\n\nNew body.\n"))
+        self.assertEqual(sorted(p.name for p in touched), ["CATEGORIZATION_LEDGER.md", "alpha.md", "categorization_ledger.json"])
+
 
 if __name__ == "__main__":
     unittest.main()
