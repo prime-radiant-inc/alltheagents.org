@@ -110,6 +110,7 @@ def cmd_check(args):
 def cmd_write(args):
     repo = Repo(ROOT)
     verified = load(args.file)
+    (work_dir(verified["number"]) / "built.ok").unlink(missing_ok=True)
     try:
         touched = writer.write_entry(repo, verified)
     except (ValueError, FileExistsError) as err:
@@ -120,6 +121,7 @@ def cmd_write(args):
 def cmd_apply_fix(args):
     repo = Repo(ROOT)
     verified = load(args.file)
+    (work_dir(verified["number"]) / "built.ok").unlink(missing_ok=True)
     try:
         touched = writer.apply_fix(repo, verified)
     except (ValueError, FileNotFoundError) as err:
@@ -175,7 +177,10 @@ def main(argv=None):
     s.add_argument("--reason-file", required=True); s.set_defaults(fn=cmd_reject)
 
     args = p.parse_args(argv)
-    args.fn(args)
+    try:
+        args.fn(args)
+    except (RuntimeError, OSError, json.JSONDecodeError) as err:
+        fail(str(err).splitlines())
 
 
 if __name__ == "__main__":

@@ -33,8 +33,7 @@ def build_pr_body(issue, verified):
     ]
     evidence = verified.get("evidence") or {}
     for field, ev in evidence.items():
-        src = ev.get("source") or "—"
-        lines.append(f"| {field} | {_display(ev.get('submitted'))} | {_display(ev.get('verified'))} | {src} |")
+        lines.append(f"| {field} | {_display(ev.get('submitted'))} | {_display(ev.get('verified'))} | {_display(ev.get('source'))} |")
     if not evidence:
         lines.append("| — | — | — | — |")
 
@@ -55,11 +54,19 @@ def build_pr_body(issue, verified):
     return "\n".join(lines)
 
 
-def _remote():
-    names = gh.run(["git", "remote"]).split()
+def _remote(root):
+    names = gh.run(["git", "remote"], cwd=root).split()
     if not names:
         raise RuntimeError("no git remote configured")
     return "origin" if "origin" in names else names[0]
+
+
+def _local_branch_exists(root, branch):
+    try:
+        gh.run(["git", "rev-parse", "--verify", "--quiet", f"refs/heads/{branch}"], cwd=root)
+        return True
+    except RuntimeError:
+        return False
 
 
 def pr(repo, issue, verified, touched, work, base="main"):
@@ -69,38 +76,52 @@ def pr(repo, issue, verified, touched, work, base="main"):
     if not (work / "built.ok").exists():
         raise RuntimeError("refusing to open a PR: run `check --built` first")
     branch = f"issue-{number}-{slug}" if kind == "add" else f"issue-{number}-fix-{slug}"
-    remote = _remote()
+    remote = _remote(repo.root)
     if gh.remote_branch_exists(remote, branch):
         raise RuntimeError(f"branch already exists on {remote}: {branch}")
+    if _local_branch_exists(repo.root, branch):
+        raise RuntimeError(
+            f"local branch already exists from a previous run: {branch}; "
+            f"push it or delete it with `git branch -D {branch}`"
+        )
 
     name = (verified.get("entry") or {}).get("name") or slug
     title = f"{'Add' if kind == 'add' else 'Fix'} entry: {name} (#{number})"
     body_file = work / "pr-body.md"
     body_file.write_text(build_pr_body(issue, verified), encoding="utf-8")
+    recover_cmd = (f"gh pr create --base {base} --head {branch} "
+                   f'--title "{title}" --body-file {body_file}')
 
     start = gh.run(["git", "rev-parse", "--abbrev-ref", "HEAD"], cwd=repo.root).strip()
+    committed = False
     pushed = False
     try:
         gh.run(["git", "checkout", "-b", branch], cwd=repo.root)
         gh.run(["git", "add", "--", *touched], cwd=repo.root)
         gh.run(["git", "commit", "-m", title], cwd=repo.root)
+        committed = True
         gh.run(["git", "push", "-u", remote, branch], cwd=repo.root)
         pushed = True
         url = gh.pr_create(title, body_file, base, branch)
     except Exception:
         gh.run(["git", "checkout", start], cwd=repo.root)
-        try:
-            gh.run(["git", "branch", "-D", branch], cwd=repo.root)
-        except Exception:
-            pass
-        if pushed:
+        if not committed:
+            try:
+                gh.run(["git", "branch", "-D", branch], cwd=repo.root)
+            except Exception:
+                pass
+            raise
+        if not pushed:
             raise RuntimeError(
-                f"pushed branch {branch} to {remote} but failed to open the PR; "
-                f"the branch and commit are on the remote with no PR. "
-                f"Recover manually with: gh pr create --base {base} --head {branch} "
-                f'--title "{title}" --body-file {body_file}'
+                f"commit is on local branch {branch} but was not pushed; the "
+                f"working tree is back on {start}. Recover manually with: "
+                f"git push -u {remote} {branch} && {recover_cmd}"
             )
-        raise
+        raise RuntimeError(
+            f"pushed branch {branch} to {remote} but failed to open the PR; "
+            f"the branch and commit are on the remote with no PR. "
+            f"Recover manually with: {recover_cmd}"
+        )
     gh.run(["git", "checkout", start], cwd=repo.root)
     return url
 

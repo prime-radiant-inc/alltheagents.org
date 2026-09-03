@@ -16,9 +16,15 @@ source, then write down what you found. You never hand-edit
 gh auth status          # must succeed; the script pushes and opens PRs with this login
 git status --short      # must be empty
 git checkout main && git pull
+python3 scripts/entry_bot.py regen
+git status --short      # must be empty again
 npm ci                  # once per checkout; the build check needs eleventy
 python3 -m unittest scripts/tests/test_entry_bot.py   # must pass
 ```
+
+If `regen` changed `_data/agents.json`, the committed data is stale: commit
+that regeneration on its own and merge it before processing any issue, so
+the entry PR does not carry unrelated changes.
 
 Everything the run produces lives in `work/issue-<N>/` (gitignored).
 
@@ -34,6 +40,11 @@ python3 scripts/entry_bot.py check work/issue-<N>/issue.json
 fails, skip to step 5 and use its output as the reason. Warnings
 (`warning:` lines) do not stop you, but mention them in the PR body's
 notes.
+
+`check` may report the primary URL as unreachable when the site blocks
+automated requests. If you can load the URL yourself in a browser, re-run
+`check --offline` and note in the PR body that you verified the URL
+manually. A reachability failure is not by itself a reason to reject.
 
 Read `agents/_TEMPLATE.md` now. It defines every frontmatter key and the
 meaning of `null` versus `"False"`.
@@ -56,12 +67,15 @@ section.
 | `maintained` | Dates above, plus `.archived` | `active` if pushed within 6 months; `dormant` within 18; `dead` beyond that or archived. `acquired` / `renamed` only with a source that says so. |
 | `maker` | Repo owner, or the company on the site's footer or about page | First look for an existing key in `_data/makers.json` (keys are lowercase slugs; match on `name` too). If none, choose a lowercase slug and supply `maker_record`. `maker_type` is `individual`, `company`, or `community`; `gh api users/{owner} --jq .type` says `User` or `Organization`. |
 | `category` | The README or product page | Apply the test in `README.md`: with the host tool removed, does this still run a coding task end to end? Yes: `agent`. Runs or coordinates other agents: `multiplexer`. Ships primitives but no agent: `agent-sdk`. Otherwise `other`. Disagreeing with the submitter is a discrepancy, not a reject. Write a one-sentence rationale of your own if you change the category. |
-| `platforms`, `mcp_support`, `plugin_support`, `subagents`, `hooks`, `plan_mode`, `model_providers`, `pricing`, `install_method` | The docs or README | Confirmed present: `true`. Confirmed absent: `false`. Not confirmed: `null`. Never guess. `pricing` is one of `free`, `freemium`, `subscription`, `usage`, `BYOK`. |
+| `platforms`, `mcp_support`, `plugin_support`, `subagents`, `hooks`, `plan_mode`, `model_providers`, `pricing`, `install_method` | The docs or README | Confirmed present: `true`. Confirmed absent: `false`. Not confirmed: `null`. Never guess. `pricing` is one of `free`, `freemium`, `subscription`, `usage`, `BYOK`. The form's `extensibility` checkbox list maps onto five of these booleans: `MCP` -> `mcp_support`, `Plugins` -> `plugin_support`, `Subagents` -> `subagents`, `Hooks` -> `hooks`, `Plan mode` -> `plan_mode`. A checked box is the submitter's claim, to verify like any other; an unchecked box means unknown, not `false`. |
 | `what_makes_it_special`, narrative | The submission, edited | Light edits for house style only: one or two sentences for the first, about a paragraph for the narrative, no sentence repeated between them, and nothing the sources do not support. Remove claims you could not confirm rather than softening them. |
 
 Fill `evidence` for every field you looked at, including the ones that
 matched. `submitted` is the form's value, `verified` is yours, `source` is
 the URL that settles it, and `note` says why they differ when they do.
+
+The form's `notes` field is context for you, the agent; it is never
+copied into the entry.
 
 Reject at this step only when you cannot confirm that the product exists
 and does what the issue says it does.
@@ -126,12 +140,19 @@ are written as `null`.
 
 `issue.json` has `slug`, `changes` (one object per `field: old -> new`
 line), `unparsed` (lines that did not fit that pattern; read them, they
-may be a change written loosely), and `fields.source`.
+may be a change written loosely), `fields.source`, `fields.category`
+(the form's "New category" dropdown, `null` when unchanged), and
+`fields.rationale`.
 
 For each change open the cited source and confirm the new value using the
 rules in the table above. A change the source does not support goes in
 `not_applied` with a one-line reason, not in `entry`. If no change
 survives, go to step 5.
+
+A non-null `fields.category` is a category change you must verify like
+any other: confirm it against the rules in the table above, then put it
+into `entry` with its rationale, exactly as you would a `category: old ->
+new` change line.
 
 `work/issue-<N>/verified.json`:
 

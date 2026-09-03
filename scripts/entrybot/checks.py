@@ -1,6 +1,4 @@
 """Deterministic pre-flight checks. Each returns a list of problem strings."""
-from pathlib import Path
-
 from . import gh
 from .repo import FIELD_ORDER, normalize_url
 
@@ -14,16 +12,19 @@ ENTRY_REQUIRED = ("name", "url", "maker", "category")
 FIX_FIELDS = set(FIELD_ORDER) | {"narrative"}
 
 
-def enum_problems(values):
+def enum_problems(values, new_entry=True):
     problems = []
-    checks = (("category", CATEGORIES), ("maintained", MAINTAINED), ("pricing", PRICING))
+    checks = [("category", CATEGORIES), ("maintained", MAINTAINED)]
+    if new_entry:
+        checks.append(("pricing", PRICING))
     for key, allowed in checks:
         val = values.get(key)
         if val is not None and val not in allowed:
             problems.append(f"{key} not one of {sorted(allowed)}: {val}")
-    for plat in values.get("platforms") or []:
-        if plat not in PLATFORMS:
-            problems.append(f"platform not one of {sorted(PLATFORMS)}: {plat}")
+    if new_entry:
+        for plat in values.get("platforms") or []:
+            if plat not in PLATFORMS:
+                problems.append(f"platform not one of {sorted(PLATFORMS)}: {plat}")
     return problems
 
 
@@ -71,7 +72,7 @@ def check_fix(issue, repo):
             warnings.append(f"{ch['field']}: submitted old value {ch['old']!r} but entry has {current_str!r}")
         if ch["new"] is None:
             problems.append(f"{ch['field']}: new value is empty")
-    problems += enum_problems({ch["field"]: ch["new"] for ch in changes if ch["field"] != "platforms"})
+    problems += enum_problems({ch["field"]: ch["new"] for ch in changes if ch["field"] != "platforms"}, new_entry=False)
     if issue["fields"].get("category") and not issue["fields"].get("rationale"):
         problems.append("category change needs a rationale")
     return problems, warnings

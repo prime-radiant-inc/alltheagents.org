@@ -1,5 +1,6 @@
 """Write entry files, ledger rows, and maker records in the repo's exact format."""
 import json
+import re
 from datetime import date
 
 from .checks import ENTRY_REQUIRED, enum_problems
@@ -35,9 +36,25 @@ def render_entry(entry, body):
     return "\n".join(lines) + "\n\n" + body.strip() + "\n"
 
 
+def scalar_problems(values):
+    """Problems for string values that would break frontmatter: newlines,
+    carriage returns, or backslashes."""
+    problems = []
+    for key, val in values.items():
+        if isinstance(val, str) and any(c in val for c in ("\n", "\r", "\\")):
+            problems.append(f"{key} contains a newline or backslash")
+    return problems
+
+
+def validate_slug(slug):
+    if not re.fullmatch(r"[a-z0-9][a-z0-9._-]*", slug):
+        raise ValueError(f"invalid slug: {slug!r}")
+
+
 def validate_entry(entry):
     problems = [f"required entry field blank: {k}" for k in ENTRY_REQUIRED if not entry.get(k)]
     problems += enum_problems(entry)
+    problems += scalar_problems(entry)
     unknown = sorted(set(entry) - set(FIELD_ORDER))
     if unknown:
         problems.append(f"unknown entry fields: {unknown}")
@@ -63,11 +80,11 @@ def insert_ledger_row(rows, new):
 
 
 def dump_ledger_json(rows):
-    return json.dumps(rows, ensure_ascii=False, indent=2)
+    return json.dumps(rows, ensure_ascii=True, indent=2)
 
 
 def dump_makers(makers):
-    return json.dumps(makers, ensure_ascii=False, indent=2) + "\n"
+    return json.dumps(makers, ensure_ascii=True, indent=2) + "\n"
 
 
 def write_entry(repo, verified, today=None):
@@ -78,13 +95,14 @@ def write_entry(repo, verified, today=None):
     """
     today = today or date.today().isoformat()
     slug = verified["slug"]
+    validate_slug(slug)
     entry = {**DEFAULTS, **verified["entry"]}
     entry["slug"] = slug
     entry["last_verified"] = today
     problems = validate_entry(entry)
-    if not verified.get("body", "").strip():
+    if not (verified.get("body") or "").strip():
         problems.append("body (narrative) is empty")
-    if not verified.get("rationale", "").strip():
+    if not (verified.get("rationale") or "").strip():
         problems.append("rationale is empty")
     if problems:
         raise ValueError("\n".join(problems))
@@ -95,7 +113,7 @@ def write_entry(repo, verified, today=None):
 
     writes = {path: render_entry(entry, verified["body"])}
 
-    row = {"slug": slug, "name": entry["name"], "category": entry["category"],
+    row = {"slug": slug, "name": ledger_cell(entry["name"]), "category": entry["category"],
            "rationale": ledger_cell(verified["rationale"])}
     writes[repo.ledger_md] = repo.render_ledger(insert_ledger_row(repo.ledger_rows(), row))
     writes[repo.ledger_json] = dump_ledger_json(repo.ledger_json_rows() + [row])
@@ -147,11 +165,13 @@ def apply_fix(repo, verified, today=None):
     """Edit only the changed fields of an existing entry. Returns touched paths."""
     today = today or date.today().isoformat()
     slug = verified["slug"]
+    validate_slug(slug)
     path = repo.agents_dir / f"{slug}.md"
     if not path.exists():
         raise FileNotFoundError(f"no entry: {path}")
     changes = dict(verified.get("entry") or {})
-    problems = enum_problems(changes)
+    problems = enum_problems(changes, new_entry=False)
+    problems += scalar_problems(changes)
     unknown = sorted(set(changes) - set(FIELD_ORDER))
     if unknown:
         problems.append(f"unknown entry fields: {unknown}")
