@@ -44,6 +44,23 @@ def issue_view(number):
                     "number,title,body,labels,author,url,comments"])
 
 
+# gh caps list output; 500 is far above this repo's open-issue and open-PR
+# counts. Raise it if `list` ever seems to miss issues.
+LIST_LIMIT = "500"
+
+
+def issue_list():
+    """Open issues: number, title, label names."""
+    return gh_json(["issue", "list", "--state", "open", "--limit", LIST_LIMIT,
+                    "--json", "number,title,labels"])
+
+
+def pr_list():
+    """Open pull requests: number, head branch name."""
+    return gh_json(["pr", "list", "--state", "open", "--limit", LIST_LIMIT,
+                    "--json", "number,headRefName"])
+
+
 def issue_comment(number, body_file):
     run(["gh", "issue", "comment", str(number), "--body-file", str(body_file)])
 
