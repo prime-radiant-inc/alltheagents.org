@@ -156,11 +156,8 @@ def main():
             "source_urls": {s: source_urls.get(s) for s in sources if s in source_urls},
         })
     
-    with open(os.path.join(DATA_DIR, "agents.json"), "w", encoding="utf-8") as f:
-        json.dump(agents_data, f, ensure_ascii=False, indent=2)
-    
-    print(f"Generated {len(agents_data)} agent pages in {AGENTS_DIR}/")
-    print(f"Generated search index: {os.path.join(DATA_DIR, 'agents.json')}")
+    # The search index is built by Eleventy from agents/*.md (agents-index.json.njk);
+    # nothing is written to _data/agents.json any more.
 
 if __name__ == "__main__":
     main()

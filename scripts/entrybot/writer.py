@@ -91,7 +91,7 @@ def dump_makers(makers):
     text = json.dumps(dict(sorted(makers.items())), ensure_ascii=True, indent=2)
     scalar = r'(?:"[^"]*"|null|true|false|-?\d+(?:\.\d+)?)'
     text = re.sub(r"\[\s+(" + scalar + r"(?:,\s+" + scalar + r")*)\s+\]",
-                  lambda m: "[" + ", ".join(x.strip() for x in m.group(1).split(",")) + "]", text)
+                  lambda m: json.dumps(json.loads("[" + m.group(1) + "]"), ensure_ascii=True), text)
     return text + "\n"
 
 

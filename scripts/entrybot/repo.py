@@ -2,8 +2,8 @@
 
 `parse_frontmatter` is the line-based parser the repo's original
 generator (scripts/generate_json_from_md.py, removed 2026-09-03) used to
-read entry files; `slugify` is copied from scripts/generate_pages.py, which
-runs its generator at import time and so cannot be imported. The site
+read entry files; `slugify` is copied from scripts/generate_pages.py so this package does
+not depend on that legacy importer being on sys.path. The site
 itself parses frontmatter with gray-matter inside Eleventy; the unit test
 round-trips written entries through that parser.
 """

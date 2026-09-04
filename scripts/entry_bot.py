@@ -88,11 +88,16 @@ def cmd_check(args):
     repo = Repo(ROOT)
     data = load(args.file)
     if args.built:
-        problems = checks.check_built(repo, data["slug"])
+        category = (data.get("entry") or {}).get("category")
+        if not category:
+            entry = repo.entries().get(data["slug"])
+            category = entry["fm"].get("category") if entry else None
+        problems = checks.check_built(repo, data["slug"], category)
         if problems:
             fail(problems)
         (work_dir(data["number"]) / "built.ok").write_text("ok\n")
-        print("build ok; page rendered; slug in the built search index")
+        state = "not published (other category)" if category == "other" else "page rendered and slug in the built search index"
+        print(f"build ok; {state}")
         return
     if data["kind"] == "add":
         url_ok = (lambda url: True) if args.offline else None

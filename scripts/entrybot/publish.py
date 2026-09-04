@@ -27,7 +27,7 @@ def build_pr_body(issue, verified):
         "## Why?", "",
         f"Submitted through the \"{form}\" form by @{author}. Every field below was checked against the linked source.", "",
         "## How did you test it?", "",
-        "`python3 scripts/entry_bot.py check --built` passed: the Eleventy build succeeded, the page rendered, and the slug is in the built search index.", "",
+        "`python3 scripts/entry_bot.py check --built` passed: the Eleventy build succeeded and the entry's publication state matches its category (a page and a search-index row, or neither for `other`).", "",
         "## Verification", "",
         "| Field | Submitted | Verified | Evidence |", "|---|---|---|---|",
     ]

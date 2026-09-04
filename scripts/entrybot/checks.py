@@ -79,18 +79,24 @@ def check_fix(issue, repo):
     return problems, warnings
 
 
-def check_built(repo, slug):
-    """Run the Eleventy build and confirm the entry rendered."""
-    problems = []
+def check_built(repo, slug, category):
+    """Run the Eleventy build and confirm the entry's publication state.
+
+    Entries in every category but `other` get a page and a search-index
+    row; `other` entries are recorded in the ledger but deliberately not
+    published (agents/agents.11tydata.js), so for them the check is the
+    inverse."""
     try:
         gh.run(["npx", "@11ty/eleventy"], cwd=repo.root)
     except RuntimeError as err:
         return [f"eleventy build failed:\n{err}"]
     page = repo.root / "_site" / "agents" / slug / "index.html"
-    if not page.exists():
-        problems.append(f"page not rendered: {page.relative_to(repo.root)}")
     index = repo.root / "_site" / "agents.json"
     indexed = {e.get("slug") for e in json.loads(index.read_text(encoding="utf-8"))} if index.exists() else set()
-    if slug not in indexed:
-        problems.append(f"slug missing from the built search index _site/agents.json: {slug}")
+    published = category != "other"
+    problems = []
+    if page.exists() != published:
+        problems.append(f"page {'not rendered' if published else 'rendered for an other-category entry'}: {page.relative_to(repo.root)}")
+    if (slug in indexed) != published:
+        problems.append(f"slug {'missing from' if published else 'present in'} the built search index _site/agents.json: {slug}")
     return problems
