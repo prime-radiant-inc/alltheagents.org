@@ -17,7 +17,7 @@ category: "agent"             # agent = codes itself (owns its own agentic loop)
                               # ships no coding agent itself (autogen, crewai, langgraph, ...)
                               # other = neither (gateways, prompt libs, eval tooling, datasets,
                               # tutorials, link-only artifacts). Every decision + rationale lives
-                              # in CATEGORIZATION_LEDGER.md (see also scripts/categorization_ledger.json)
+                              # in CATEGORIZATION_LEDGER.md
 maker: null                   # key of a record in _data/makers.json (maker = creator, one concept).
                               # Maker records carry: maker_type (individual | company | community),
                               # country (ISO 3166-1 alpha-2 or null), makes_models (bool),

@@ -3,3 +3,5 @@ __pycache__/
 node_modules/
 _site/
 .claude/
+work/
+.superpowers/

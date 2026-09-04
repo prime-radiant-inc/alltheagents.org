@@ -3,6 +3,11 @@ module.exports = function(eleventyConfig) {
   // entirely (collections, pages, and the agents.json search index pipeline).
   eleventyConfig.ignores.add("agents/_TEMPLATE.md");
 
+  // Internal docs and agent pointer files are not site pages.
+  eleventyConfig.ignores.add("docs/**");
+  eleventyConfig.ignores.add("AGENTS.md");
+  eleventyConfig.ignores.add("CLAUDE.md");
+
   // Passthrough for static assets
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
