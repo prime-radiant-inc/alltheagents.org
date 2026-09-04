@@ -1,4 +1,12 @@
 {
+  "aider-ai": {
+    "name": "Aider AI",
+    "maker_type": "company",
+    "country": "US",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://aider.chat/"
+  },
   "anthropic": {
     "name": "Anthropic",
     "maker_type": "company",
