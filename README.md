@@ -13,13 +13,12 @@ Every entry carries exactly one category, decided against these definitions:
 - **agent-sdk** — a general agent-building framework, SDK, or toolkit that ships no coding agent of its own (e.g. AutoGen, CrewAI, LangGraph). Developers use its primitives to build something that would own a loop; the SDK itself does not own one.
 - **other** — neither of the above: model gateways, prompt libraries, workflow packs installed into a host agent, eval tooling, MCP tool servers, memory layers, datasets, tutorials, link-only artifacts. These may use tools or appear in loops, but they do not own the loop or invoke tools themselves. Entries in this category are recorded here but are not published on the website.
 
-Every decision, with a one-line rationale, is recorded in [`CATEGORIZATION_LEDGER.md`](CATEGORIZATION_LEDGER.md) (machine-readable copy: `scripts/categorization_ledger.json`). The 2026-08-28 review pass reclassified entries against the tightened definitions, was independently verified by three reviewer passes over the full list, and folded in a 30-day Hacker News sweep.
+Every decision, with a one-line rationale, is recorded in [`CATEGORIZATION_LEDGER.md`](CATEGORIZATION_LEDGER.md). The 2026-08-28 review pass reclassified entries against the tightened definitions, was independently verified by three reviewer passes over the full list, and folded in a 30-day Hacker News sweep.
 
 ## Contents
 
 - `agents/` — individual agent pages (Markdown with YAML frontmatter; see `agents/_TEMPLATE.md` for the schema)
 - `CATEGORIZATION_LEDGER.md` — per-entry category decisions with rationale
-- `_data/agents.json` — JSON data for client-side search
 - `coding_agent_harnesses.tsv` / `.csv` / `.md` — flat data exports (original discovery pass)
 - `_layouts/`, `*.njk` — Eleventy templates
 - `css/style.css` — dark theme stylesheet

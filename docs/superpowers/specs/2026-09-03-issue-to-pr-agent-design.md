@@ -332,3 +332,27 @@ All `gh` and HTTP calls go through one function, patched in tests.
 - `github-issue` entry in `_data/source_urls.json` and
   `scripts/source_urls.json`
 - `work/` added to `.gitignore`
+
+## Amendment 2026-09-03: no generated data files
+
+Decided after the first implementation, to let many entry PRs merge without
+conflicts and to drop the one-issue-per-run limit later.
+
+- `_data/agents.json` is deleted along with `scripts/generate_json_from_md.py`.
+  Nothing read it: the search index the site serves at `/agents.json` is built
+  by Eleventy from the entry files (`agents-index.json.njk`). The `regen`
+  subcommand is gone; `write` and `apply-fix` no longer regenerate anything;
+  `check --built` confirms the slug in the built `_site/agents.json`.
+- `scripts/categorization_ledger.json` is deleted. Its 19 rows missing from the
+  markdown table were migrated in with the note that no rationale was recorded.
+  The table in `CATEGORIZATION_LEDGER.md` is the single source of category
+  decisions.
+- The `**N entries**: ...` summary line in the ledger is replaced by a pointer
+  to the About page, which computes counts at build time. The script no longer
+  recomputes counts.
+- `_data/makers.json` is written with sorted keys so a new maker is inserted at
+  its alphabetical position rather than appended.
+
+A bot PR now touches the entry file, one ledger row, and at most one maker
+record. Statements above about `regen`, `_data/agents.json`, the ledger JSON
+copy, and the summary line are superseded.

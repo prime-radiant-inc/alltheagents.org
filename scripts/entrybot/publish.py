@@ -27,7 +27,7 @@ def build_pr_body(issue, verified):
         "## Why?", "",
         f"Submitted through the \"{form}\" form by @{author}. Every field below was checked against the linked source.", "",
         "## How did you test it?", "",
-        "`python3 scripts/entry_bot.py check --built` passed: the Eleventy build succeeded, the page rendered, and the slug is in `_data/agents.json`.", "",
+        "`python3 scripts/entry_bot.py check --built` passed: the Eleventy build succeeded, the page rendered, and the slug is in the built search index.", "",
         "## Verification", "",
         "| Field | Submitted | Verified | Evidence |", "|---|---|---|---|",
     ]

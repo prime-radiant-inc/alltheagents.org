@@ -4,12 +4,11 @@
 Subcommands, in the order a run uses them:
   fetch N        gh issue -> work/issue-N/issue.json
   check FILE     pre-flight on issue.json (exit 1 on any problem)
-  write FILE     verified.json -> new entry + ledger + makers + regen
-  apply-fix FILE verified.json -> edited entry (+ ledger) + regen
+  write FILE     verified.json -> new entry + ledger row + makers
+  apply-fix FILE verified.json -> edited entry (+ ledger row)
   check --built FILE   eleventy build + page rendered -> work/issue-N/built.ok
   pr N           branch, commit, push, open PR
   reject N --reason-file F   comment + needs-info label, no PR
-  regen          rebuild _data/agents.json
 """
 import argparse
 import json
@@ -93,7 +92,7 @@ def cmd_check(args):
         if problems:
             fail(problems)
         (work_dir(data["number"]) / "built.ok").write_text("ok\n")
-        print("build ok; page rendered; slug in agents.json")
+        print("build ok; page rendered; slug in the built search index")
         return
     if data["kind"] == "add":
         url_ok = (lambda url: True) if args.offline else None
@@ -130,16 +129,8 @@ def cmd_apply_fix(args):
 
 
 def finish_write(verified, touched):
-    try:
-        cmd_regen(None)
-    except RuntimeError as err:
-        fail(str(err).splitlines())
-    rel = [str(p.relative_to(ROOT)) for p in touched] + ["_data/agents.json"]
+    rel = [str(p.relative_to(ROOT)) for p in touched]
     save(work_dir(verified["number"]) / "touched.json", rel)
-
-
-def cmd_regen(args):
-    print(gh.run([sys.executable, str(ROOT / "scripts/generate_json_from_md.py")]).strip())
 
 
 def cmd_pr(args):
@@ -168,7 +159,6 @@ def main(argv=None):
 
     s = sub.add_parser("write"); s.add_argument("file"); s.set_defaults(fn=cmd_write)
     s = sub.add_parser("apply-fix"); s.add_argument("file"); s.set_defaults(fn=cmd_apply_fix)
-    s = sub.add_parser("regen"); s.set_defaults(fn=cmd_regen)
 
     s = sub.add_parser("pr"); s.add_argument("number", type=int)
     s.add_argument("--base", default="main"); s.set_defaults(fn=cmd_pr)

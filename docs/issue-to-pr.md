@@ -7,8 +7,9 @@ human can follow it too. Read it top to bottom before starting.
 You run `python3 scripts/entry_bot.py <subcommand>` for every mechanical
 step. Your own work is research: confirm every claim against a primary
 source, then write down what you found. You never hand-edit
-`CATEGORIZATION_LEDGER.md`, `scripts/categorization_ledger.json`,
-`_data/makers.json`, or `_data/agents.json`. The script owns them.
+`CATEGORIZATION_LEDGER.md` or `_data/makers.json`. The script owns them.
+The site's search index is generated from the entry files at build time,
+so there is no data file to regenerate.
 
 ## Preconditions
 
@@ -16,15 +17,9 @@ source, then write down what you found. You never hand-edit
 gh auth status          # must succeed; the script pushes and opens PRs with this login
 git status --short      # must be empty
 git checkout main && git pull
-python3 scripts/entry_bot.py regen
-git status --short      # must be empty again
 npm ci                  # once per checkout; the build check needs eleventy
 python3 -m unittest scripts/tests/test_entry_bot.py   # must pass
 ```
-
-If `regen` changed `_data/agents.json`, the committed data is stale: commit
-that regeneration on its own and merge it before processing any issue, so
-the entry PR does not carry unrelated changes.
 
 Everything the run produces lives in `work/issue-<N>/` (gitignored).
 
@@ -210,7 +205,7 @@ what you posted. You are done.
 
 ## Never
 
-- Edit the ledger, the JSON data files, or `makers.json` by hand.
+- Edit the ledger or `makers.json` by hand.
 - Invent a value for a field the sources do not confirm. `null` is correct.
 - Open a PR for an issue that failed `check`.
 - Process a second issue in the same run.

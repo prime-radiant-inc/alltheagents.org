@@ -1,4 +1,5 @@
 """Deterministic pre-flight checks. Each returns a list of problem strings."""
+import json
 from . import gh
 from .repo import FIELD_ORDER, normalize_url
 
@@ -88,6 +89,8 @@ def check_built(repo, slug):
     page = repo.root / "_site" / "agents" / slug / "index.html"
     if not page.exists():
         problems.append(f"page not rendered: {page.relative_to(repo.root)}")
-    if f'"slug": "{slug}"' not in repo.agents_json.read_text(encoding="utf-8"):
-        problems.append(f"slug missing from _data/agents.json: {slug}")
+    index = repo.root / "_site" / "agents.json"
+    indexed = {e.get("slug") for e in json.loads(index.read_text(encoding="utf-8"))} if index.exists() else set()
+    if slug not in indexed:
+        problems.append(f"slug missing from the built search index _site/agents.json: {slug}")
     return problems

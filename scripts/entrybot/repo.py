@@ -1,9 +1,11 @@
 """Read and update repo state: entries, ledger, makers.
 
-`parse_frontmatter` and `slugify` are copied from
-scripts/generate_json_from_md.py and scripts/generate_pages.py. Those
-scripts run their generators at import time, so they cannot be imported.
-Keep the copies byte-for-byte in sync with the originals.
+`parse_frontmatter` is the line-based parser the repo's original
+generator (scripts/generate_json_from_md.py, removed 2026-09-03) used to
+read entry files; `slugify` is copied from scripts/generate_pages.py, which
+runs its generator at import time and so cannot be imported. The site
+itself parses frontmatter with gray-matter inside Eleventy; the unit test
+round-trips written entries through that parser.
 """
 import json
 import re
@@ -24,13 +26,11 @@ FIELD_ORDER = [
 LIST_FIELDS = {"platforms", "autonomy_level", "sources"}
 
 LEDGER_ROW = re.compile(r"^\| `([^`]+)` \| (.*?) \| (\S+) \| (.*) \|$")
-SUMMARY_RE = re.compile(r"^\*\*\d+ entries\*\*: .*$", re.M)
 TABLE_HEADER = "| Slug | Name | Category | Rationale |"
-CATEGORY_ORDER = ("agent", "multiplexer", "agent-sdk", "other")
 
 
 def parse_frontmatter(content):
-    """Copied from scripts/generate_json_from_md.py."""
+    """Line-based frontmatter parser (see module docstring)."""
     if not content.startswith("---"):
         return {}, content
     parts = content.split("---", 2)
@@ -103,10 +103,8 @@ class Repo:
         self.root = Path(root)
         self.agents_dir = self.root / "agents"
         self.ledger_md = self.root / "CATEGORIZATION_LEDGER.md"
-        self.ledger_json = self.root / "scripts" / "categorization_ledger.json"
         self.makers_json = self.root / "_data" / "makers.json"
         self.slug_overrides = self.root / "scripts" / "slug_overrides.json"
-        self.agents_json = self.root / "_data" / "agents.json"
 
     def entries(self):
         out = {}
@@ -155,24 +153,15 @@ class Repo:
                              "category": m.group(3), "rationale": m.group(4)})
         return rows
 
-    def ledger_json_rows(self):
-        return json.loads(self.ledger_json.read_text(encoding="utf-8"))
-
     def render_ledger(self, rows):
-        """The ledger file with `rows` as its table and a recomputed summary.
+        """The ledger file with `rows` as its table; everything above the
+        table is kept verbatim.
 
         Row order is preserved as given so a single insert makes a
         one-line diff.
         """
         text = self.ledger_md.read_text(encoding="utf-8")
         head = text[: text.index(TABLE_HEADER)]
-        counts = {c: 0 for c in CATEGORY_ORDER}
-        for row in rows:
-            counts[row["category"]] = counts.get(row["category"], 0) + 1
-        summary = (f"**{len(rows)} entries**: {counts['agent']} agent, "
-                   f"{counts['multiplexer']} multiplexer, {counts['agent-sdk']} agent-sdk, "
-                   f"{counts['other']} other.")
-        head = SUMMARY_RE.sub(summary, head, count=1)
         table = [TABLE_HEADER, "|------|------|----------|-----------|"]
         for row in rows:
             table.append(f"| `{row['slug']}` | {row['name']} | {row['category']} | {row['rationale']} |")

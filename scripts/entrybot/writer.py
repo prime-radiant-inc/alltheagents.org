@@ -1,4 +1,8 @@
-"""Write entry files, ledger rows, and maker records in the repo's exact format."""
+"""Write entry files, ledger rows, and maker records in the repo's exact format.
+
+The ledger table in CATEGORIZATION_LEDGER.md is the single source of category
+decisions; the site's search index is generated from the entry files at build
+time, so nothing here regenerates data files."""
 import json
 import re
 from datetime import date
@@ -79,12 +83,16 @@ def insert_ledger_row(rows, new):
     return rows
 
 
-def dump_ledger_json(rows):
-    return json.dumps(rows, ensure_ascii=True, indent=2)
-
-
 def dump_makers(makers):
-    return json.dumps(makers, ensure_ascii=True, indent=2) + "\n"
+    """Top-level keys sorted so a new maker lands at its alphabetical position
+    rather than at the end of the file, where concurrent PRs would collide.
+    Record fields keep their order, and arrays of scalars stay on one line,
+    matching the committed file byte for byte."""
+    text = json.dumps(dict(sorted(makers.items())), ensure_ascii=True, indent=2)
+    scalar = r'(?:"[^"]*"|null|true|false|-?\d+(?:\.\d+)?)'
+    text = re.sub(r"\[\s+(" + scalar + r"(?:,\s+" + scalar + r")*)\s+\]",
+                  lambda m: "[" + ", ".join(x.strip() for x in m.group(1).split(",")) + "]", text)
+    return text + "\n"
 
 
 def write_entry(repo, verified, today=None):
@@ -116,7 +124,6 @@ def write_entry(repo, verified, today=None):
     row = {"slug": slug, "name": ledger_cell(entry["name"]), "category": entry["category"],
            "rationale": ledger_cell(verified["rationale"])}
     writes[repo.ledger_md] = repo.render_ledger(insert_ledger_row(repo.ledger_rows(), row))
-    writes[repo.ledger_json] = dump_ledger_json(repo.ledger_json_rows() + [row])
 
     makers = repo.makers()
     if entry["maker"] not in makers:
@@ -196,13 +203,11 @@ def apply_fix(repo, verified, today=None):
     if "category" in changes:
         rationale = ledger_cell(verified["rationale"])
         rows = repo.ledger_rows()
-        json_rows = repo.ledger_json_rows()
-        for row in rows + json_rows:
+        for row in rows:
             if row["slug"] == slug:
                 row["category"] = changes["category"]
                 row["rationale"] = rationale
         writes[repo.ledger_md] = repo.render_ledger(rows)
-        writes[repo.ledger_json] = dump_ledger_json(json_rows)
 
     for target, content in writes.items():
         target.write_text(content, encoding="utf-8")
