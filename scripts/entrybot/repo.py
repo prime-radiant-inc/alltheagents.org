@@ -2,8 +2,8 @@
 
 `parse_frontmatter` is the line-based parser the repo's original
 generator (scripts/generate_json_from_md.py, removed 2026-09-03) used to
-read entry files; `slugify` is copied from scripts/generate_pages.py so this package does
-not depend on that legacy importer being on sys.path. The site
+read entry files; `slugify` is the rule the original importer (scripts/generate_pages.py,
+removed 2026-09-04) used, kept so new slugs match existing ones. The site
 itself parses frontmatter with gray-matter inside Eleventy; the unit test
 round-trips written entries through that parser.
 """
@@ -77,7 +77,7 @@ def parse_frontmatter(content):
 
 
 def slugify(name):
-    """Copied from scripts/generate_pages.py."""
+    """Slug rule of the original importer (see module docstring)."""
     slug = name.lower().strip()
     slug = re.sub(r"[^\w\s-]", "", slug)
     slug = re.sub(r"[\s_-]+", "-", slug)

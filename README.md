@@ -19,12 +19,10 @@ Every decision, with a one-line rationale, is recorded in [`CATEGORIZATION_LEDGE
 
 - `agents/` — individual agent pages (Markdown with YAML frontmatter; see `agents/_TEMPLATE.md` for the schema)
 - `CATEGORIZATION_LEDGER.md` — per-entry category decisions with rationale
-- `coding_agent_harnesses.tsv` / `.csv` / `.md` — flat data exports (original discovery pass)
 - `_layouts/`, `*.njk` — Eleventy templates
 - `css/style.css` — dark theme stylesheet
-- `scripts/` — page generators, JSON builders, and enrichment merge tooling
+- `scripts/` — the issue-to-PR bot (`entry_bot.py`) and its tests
 - `docs/issue-to-pr.md` — runbook for turning an issue form into a PR (`scripts/entry_bot.py` does the mechanical parts)
-- `sources/` — raw source data, scripts, and intermediate files
 - `metrics/` — per-entry traction history (stars/downloads over time)
 
 ## Website
@@ -72,4 +70,4 @@ The body is a short narrative — why the harness exists, how it works, and who 
 
 ## Methodology
 
-Initially built from 15 "awesome" aggregation lists, 5 rounds of GitHub topic/keyword searches, GitHub API enrichment of 1,516 repos, and manual research of commercial products. The 2026-08-28 pass re-researched every entry's primary URL, filled null fields, rewrote all 1,316 narrative bodies, and categorized every entry per the definitions above; ambiguous calls were adjudicated after three independent full-list review passes.
+Initially built from 15 "awesome" aggregation lists, 5 rounds of GitHub topic/keyword searches, GitHub API enrichment of 1,516 repos, and manual research of commercial products. The 2026-08-28 pass re-researched every entry's primary URL, filled null fields, rewrote all 1,316 narrative bodies, and categorized every entry per the definitions above; ambiguous calls were adjudicated after three independent full-list review passes. The discovery pipeline's working files (source lists, candidate tables, enrichment batches, and the scripts that turned them into entry files) were removed on 2026-09-04 once the entry files became the only source; they remain in git history.

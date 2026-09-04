@@ -22,8 +22,8 @@ maker: null                   # key of a record in _data/makers.json (maker = cr
                               # Maker records carry: maker_type (individual | company | community),
                               # country (ISO 3166-1 alpha-2 or null), makes_models (bool),
                               # revenue_model (subset of [tokens, subscriptions]; empty = neither).
-                              # Corrections to generated/enriched fields belong in
-                              # scripts/field_overrides.json, not hand-edits that regeneration wipes.
+                              # Entry files are the only source: correct a field by editing the
+                              # file (or opening a Fix issue); nothing regenerates them.
 license: null                 # MIT, Apache-2.0, Proprietary, ...
 url: null                     # primary URL
 source_code_url: null
