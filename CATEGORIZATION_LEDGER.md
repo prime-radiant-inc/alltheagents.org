@@ -626,6 +626,7 @@ Every entry file in `agents/` has one row here. Entries in the `other` category 
 | `gocodeo` | GoCodeo | agent | A VS Code extension with agentic BUILD/TEST flows — code generation, project setup, test execution, deployment via MCP-powered agents — that modifies software itself. |
 | `golutra` | golutra | multiplexer | A Tauri desktop workspace that runs and orchestrates existing CLI agents (Claude Code, Gemini CLI, Codex, OpenCode) in parallel with monitoring and prompt injection — it writes no code itself. |
 | `google-ai-studio-build` | Google AI Studio Build | agent | AI Studio's Build tab conversationally generates, iterates, and deploys working Gemini-powered apps from natural language — an app-creating agent loop in the expansive census sense. |
+| `goose` | Goose | agent | A general-purpose agent that plans, runs tools, and edits and tests code in its own loop across CLI, desktop, and API surfaces; it does not manage other agents. |
 | `gossip` | Gossip | other | Rationale not recorded when the entry was added on 2026-09-01; category taken from the entry. |
 | `gpt-all-star` | gpt-all-star | agent | It generates real web-application code from scratch via a collaborating team of autonomous agents — squarely an agent, however research-flavored. |
 | `gpt-code-assistant` | Gpt-Code-Assistant | other | A privacy-focused codebase Q&A and code-search CLI — it answers questions about code, not an agent loop that creates or modifies software. |
