@@ -167,7 +167,10 @@ login, and opens the PR with `gh pr create`. The body follows
 `.github/pull_request_template.md` and adds:
 
 - a verification table with one row per field: submitted, verified, evidence
-- a "Discrepancies" list when any verified value differs from the submission
+- a "Discrepancies" list for submitted values the sources contradicted, a
+  "Filled in from sources" line naming fields the form left blank, and a
+  "Notes" list for fields whose value matched but carry a note (amended
+  2026-09-04 after the first test run)
 - `Closes #N`
 
 It refuses to run if `check --built` has not passed in this run (it looks

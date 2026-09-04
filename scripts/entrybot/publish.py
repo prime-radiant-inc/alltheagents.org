@@ -4,6 +4,10 @@ from . import gh
 FOOTER = "Opened by the issue-to-PR runbook (`docs/issue-to-pr.md`)."
 
 
+def _empty(value):
+    return value is None or value == "" or value == []
+
+
 def _display(value):
     if value is None:
         return "—"
@@ -37,12 +41,27 @@ def build_pr_body(issue, verified):
     if not evidence:
         lines.append("| — | — | — | — |")
 
-    discrepancies = [(f, ev) for f, ev in evidence.items() if ev.get("submitted") != ev.get("verified")]
+    # A discrepancy is a submitted value the sources contradicted. Fields the
+    # form left blank and the research filled in are listed separately, and a
+    # note on a field whose value matched (a rewritten rationale, say) is
+    # surfaced under Notes rather than lost.
+    discrepancies = [(f, ev) for f, ev in evidence.items()
+                     if not _empty(ev.get("submitted")) and ev.get("submitted") != ev.get("verified")]
+    filled = [f for f, ev in evidence.items()
+              if _empty(ev.get("submitted")) and not _empty(ev.get("verified"))]
+    notes = [(f, ev) for f, ev in evidence.items()
+             if ev.get("submitted") == ev.get("verified") and ev.get("note")]
     if discrepancies:
         lines += ["", "## Discrepancies", ""]
         for field, ev in discrepancies:
             note = f" {ev['note']}" if ev.get("note") else ""
             lines.append(f"- **{field}**: submitted {_display(ev.get('submitted'))}, verified {_display(ev.get('verified'))}.{note}")
+    if filled:
+        lines += ["", "## Filled in from sources", "", "Left blank on the form: " + ", ".join(f"`{f}`" for f in filled) + "."]
+    if notes:
+        lines += ["", "## Notes", ""]
+        for field, ev in notes:
+            lines.append(f"- **{field}**: {ev['note']}")
 
     not_applied = verified.get("not_applied") or []
     if not_applied:
