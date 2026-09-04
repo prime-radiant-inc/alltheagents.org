@@ -1,8 +1,14 @@
 # Processing an issue into a pull request
 
-This is the procedure for turning one filled-in issue form into one pull
-request. It is written for a coding agent that has never seen this repo. A
-human can follow it too. Read it top to bottom before starting.
+This is the procedure for turning filled-in issue forms into pull
+requests, one PR per issue. It is written for a coding agent that has never
+seen this repo. A human can follow it too. Read it top to bottom before
+starting.
+
+Told "process issue N": do steps 1 to 5 for that issue. Told "process every
+open entry issue": run step 0, then do steps 1 to 5 for each issue it lists,
+in order, finishing one (PR opened or rejection posted) before starting the
+next. A rejected issue does not stop the loop.
 
 You run `python3 scripts/entry_bot.py <subcommand>` for every mechanical
 step. Your own work is research: confirm every claim against a primary
@@ -22,6 +28,16 @@ python3 -m unittest scripts/tests/test_entry_bot.py   # must pass
 ```
 
 Everything the run produces lives in `work/issue-<N>/` (gitignored).
+
+## 0. List what is waiting
+
+```bash
+python3 scripts/entry_bot.py list
+```
+
+One line per open issue from either form that has no `needs-info` label and
+no open PR on an `issue-<N>-...` branch: the issue number, `add` or `fix`,
+and the title. An empty list means nothing to do.
 
 ## 1. Fetch and check
 
@@ -185,8 +201,8 @@ the enums. `check --built` runs the site build and confirms the page
 rendered. `pr` creates branch `issue-<N>-<slug>` (or
 `issue-<N>-fix-<slug>`), commits only the touched files, pushes, opens
 the PR with the verification table and `Closes #<N>`, and returns you to
-the branch you started on. It refuses to run without a passing build or
-when the branch already exists.
+the branch you started on, so the next issue starts from a clean tree. It
+refuses to run without a passing build or when the branch already exists.
 
 Report the PR URL. You are done.
 
@@ -208,5 +224,5 @@ what you posted. You are done.
 - Edit the ledger or `makers.json` by hand.
 - Invent a value for a field the sources do not confirm. `null` is correct.
 - Open a PR for an issue that failed `check`.
-- Process a second issue in the same run.
+- Start the next issue before the current one has a PR or a rejection.
 - Push to `main`.

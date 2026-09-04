@@ -2,6 +2,7 @@
 """Turn an issue form into an entry PR. See docs/issue-to-pr.md for the procedure.
 
 Subcommands, in the order a run uses them:
+  list           open issues waiting for the bot: "N<TAB>add|fix<TAB>title" per line
   fetch N        gh issue -> work/issue-N/issue.json
   check FILE     pre-flight on issue.json (exit 1 on any problem)
   write FILE     verified.json -> new entry + ledger row + makers
@@ -18,13 +19,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from entrybot import checks, forms, gh, publish, writer  # noqa: E402
+from entrybot import checks, forms, gh, publish, queue, writer  # noqa: E402
 from entrybot.repo import Repo  # noqa: E402
 
 TEMPLATES = {"add": ROOT / ".github/ISSUE_TEMPLATE/add-agent.yml",
              "fix": ROOT / ".github/ISSUE_TEMPLATE/update-agent.yml"}
-KIND_LABELS = {"new-entry": "add", "correction": "fix"}
-KIND_PREFIXES = {"Add:": "add", "Fix:": "fix"}
 
 
 def work_dir(number):
@@ -49,15 +48,12 @@ def save(path, data):
 
 
 def detect_kind(labels, title, explicit):
-    if explicit:
-        return explicit
-    for label in labels:
-        if label in KIND_LABELS:
-            return KIND_LABELS[label]
-    for prefix, kind in KIND_PREFIXES.items():
-        if (title or "").startswith(prefix):
-            return kind
-    return None
+    return explicit or queue.issue_kind(labels, title)
+
+
+def cmd_list(args):
+    for number, kind, title in queue.waiting(gh.issue_list(), gh.pr_list()):
+        print(f"{number}\t{kind}\t{title}")
 
 
 def cmd_fetch(args):
@@ -152,6 +148,8 @@ def cmd_reject(args):
 def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = p.add_subparsers(dest="cmd", required=True)
+
+    s = sub.add_parser("list"); s.set_defaults(fn=cmd_list)
 
     s = sub.add_parser("fetch"); s.add_argument("number", type=int)
     s.add_argument("--body-file"); s.add_argument("--kind", choices=["add", "fix"]); s.add_argument("--title")
