@@ -458,6 +458,7 @@ Of these, 31 entries were added from the 2026-08-28 Hacker News sweep (sources: 
 | `dance-ai-research-project` | Dance-Ai-Research-Project | other | ML research project on interactive dance agents, unrelated to building or modifying software. |
 | `darce` | Darce | agent | Tiny terminal coding agent with a seven-tool loop reading, editing, and executing code. |
 | `databutton` | Databutton | agent | Agentic app builder where users collaborated with an AI agent to build software (since pivoted/renamed to Riff). |
+| `datasette-agent` | Datasette Agent | agent | A Datasette plugin whose LLM assistant owns its own tool loop, writing and running SQL against SQLite databases with human approval for writes and spawning background agents, rather than riding inside a host agent. |
 | `dbt-copilot` | dbt Copilot | agent | AI assistant that generates and modifies dbt models, tests, and documentation within the development workflow. |
 | `dd-code-gui` | DD Code GUI | multiplexer | JetBrains GUI wrapping Claude Agent SDK, Codex SDK, and DeepSeek behind one interface with multi-agent mode. |
 | `debroid` | debroid | other | JDWP debugger CLI invoked by AI agents as a tool via skills; not an agent or MCP server itself. |
