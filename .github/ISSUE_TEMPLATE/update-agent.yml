@@ -5,7 +5,8 @@ labels: ["correction"]
 body:
   - type: markdown
     attributes:
-      value: One entry per issue.
+      value: |
+        One entry per issue. Each change is checked against the source you cite before a pull request is opened; a change the source does not support is left out and listed in the PR. You get either a PR that closes this issue or one comment saying what would unblock it.
 
   - type: input
     id: entry

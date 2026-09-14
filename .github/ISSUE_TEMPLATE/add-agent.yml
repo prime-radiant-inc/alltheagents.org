@@ -5,7 +5,8 @@ labels: ["new-entry"]
 body:
   - type: markdown
     attributes:
-      value: One entry per issue. Leave unknown optional fields blank.
+      value: |
+        One entry per issue. Every field is checked against primary sources (the repo, the docs, the license file) before a pull request is opened, so leave unknown optional fields blank rather than guessing. You get either a PR that closes this issue or one comment saying what would unblock it.
 
   - type: input
     id: name

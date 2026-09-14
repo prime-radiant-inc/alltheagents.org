@@ -350,3 +350,22 @@ One comment, no PR. Report what you posted. You are done.
 - Open a PR for an issue that failed the pre-check.
 - Start the next issue before the current one has a PR or a rejection.
 - Push to `main`.
+
+## Reviewing a bot PR
+
+For the human reviewing what a run opened. The PR body carries the evidence;
+these are the four things to read before merging.
+
+- **The category.** Apply the test in `README.md` yourself, and check that
+  the ledger rationale is one sentence in the style of the rows around it.
+- **Every item under Discrepancies.** Each is a place the run disagreed with
+  the submitter and says why. Dates follow the table's rules (for a GitHub
+  project `first_released` is usually the repo creation date), so a later
+  announcement date from the submitter is a discrepancy, not an error; edit
+  the PR if you prefer the other value.
+- **One or two evidence links**, especially any value confirmed from source
+  code rather than documentation.
+- **The diff.** An add is exactly one new entry file, one ledger row plus the
+  recounted summary line, and at most one maker record. A fix touches only
+  the entry file, and the ledger only when the category changed. Anything
+  else means the run touched what it should not have.
