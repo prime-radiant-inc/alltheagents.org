@@ -7,6 +7,14 @@
     "revenue_model": ["tokens", "subscriptions"],
     "website": "https://www.anthropic.com"
   },
+  "datasette": {
+    "name": "Datasette",
+    "maker_type": "community",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://datasette.io/"
+  },
   "microsoft": {
     "name": "Microsoft",
     "maker_type": "company",
