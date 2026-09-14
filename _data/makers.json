@@ -22,5 +22,13 @@
     "makes_models": false,
     "revenue_model": [],
     "website": "https://cline.bot"
+  },
+  "scgopi": {
+    "name": "Srinivasa Chaitanya Gopireddy",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://graphcode.app"
   }
 }
