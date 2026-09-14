@@ -15,15 +15,22 @@ Every entry carries exactly one category, decided against these definitions:
 
 Every decision, with a one-line rationale, is recorded in [`CATEGORIZATION_LEDGER.md`](CATEGORIZATION_LEDGER.md) (machine-readable copy: `scripts/categorization_ledger.json`). The 2026-08-28 review pass reclassified entries against the tightened definitions, was independently verified by three reviewer passes over the full list, and folded in a 30-day Hacker News sweep.
 
+## Adding or fixing an entry
+
+Open an issue with the [Add an entry](https://github.com/prime-radiant-inc/alltheagents.org/issues/new?template=add-agent.yml) or [Fix an entry](https://github.com/prime-radiant-inc/alltheagents.org/issues/new?template=update-agent.yml) form. Every field is checked against primary sources before anything lands, so leave a field blank rather than guess. You get either a pull request that closes your issue or one comment saying what would unblock it.
+
+Maintainers: from a clean, current `main`, run `claude "Process issue N"` (or `claude "Process every waiting issue"`). Claude Code follows [`docs/issue-to-pr.md`](docs/issue-to-pr.md), which verifies each field, writes the entry, builds the site, and opens one PR per issue. Read the PR's Discrepancies section first; the review checklist is at the end of the runbook.
+
 ## Contents
 
 - `agents/` — individual agent pages (Markdown with YAML frontmatter; see `agents/_TEMPLATE.md` for the schema)
 - `CATEGORIZATION_LEDGER.md` — per-entry category decisions with rationale
-- `_data/agents.json` — JSON data for client-side search
+- `_data/makers.json` — maker records keyed by the `maker` field (`_data/agents.json` is an earlier export that nothing reads; the site's search index at `/agents.json` is built by Eleventy from `agents/*.md`)
 - `coding_agent_harnesses.tsv` / `.csv` / `.md` — flat data exports (original discovery pass)
 - `_layouts/`, `*.njk` — Eleventy templates
 - `css/style.css` — dark theme stylesheet
 - `scripts/` — page generators, JSON builders, and enrichment merge tooling
+- `docs/issue-to-pr.md` — runbook for turning an issue form into a pull request (`scripts/issue_to_pr.mts` does the mechanical parts)
 - `sources/` — raw source data, scripts, and intermediate files
 - `metrics/` — per-entry traction history (stars/downloads over time)
 

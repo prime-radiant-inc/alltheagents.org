@@ -3,6 +3,10 @@ module.exports = function(eleventyConfig) {
   // entirely (collections, pages, and the agents.json search index pipeline).
   eleventyConfig.ignores.add("agents/_TEMPLATE.md");
 
+  // The runbook and the Claude Code pointer file are not site pages.
+  eleventyConfig.ignores.add("docs/**");
+  eleventyConfig.ignores.add("CLAUDE.md");
+
   // Passthrough for static assets
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
