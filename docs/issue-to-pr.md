@@ -239,7 +239,7 @@ when the narrative changes. `rationale` is required when `category` is in
 ## 4. Write, build, open the PR
 
 For an add issue, the helper writes the entry file, the ledger row (sorted by
-slug, summary counts updated), and the maker record if new:
+slug), and the maker record if new:
 
 ```bash
 node scripts/issue_to_pr.mts write work/issue-<N>/verified.json
@@ -257,8 +257,7 @@ closing `---`. Set `last_verified` to today. A new narrative replaces
 everything after the closing `---`, as one blank line and the paragraph. When
 `category` changes, also edit that slug's row in `CATEGORIZATION_LEDGER.md`
 (`grep -n '^| `<slug>`' CATEGORIZATION_LEDGER.md`), new category and
-rationale, and move one count in the `**N entries**` summary line. Touch
-nothing else.
+rationale. Touch nothing else.
 
 Then build and confirm the page rendered:
 
@@ -365,7 +364,7 @@ these are the four things to read before merging.
   the PR if you prefer the other value.
 - **One or two evidence links**, especially any value confirmed from source
   code rather than documentation.
-- **The diff.** An add is exactly one new entry file, one ledger row plus the
-  recounted summary line, and at most one maker record. A fix touches only
+- **The diff.** An add is exactly one new entry file, one ledger row, and at
+  most one maker record. A fix touches only
   the entry file, and the ledger only when the category changed. Anything
   else means the run touched what it should not have.

@@ -123,8 +123,9 @@ function renderField(key: string, value: Json): string[] {
 }
 
 const cell = (s: Json) => String(s).replace(/\|/g, "\\|").replace(/\s*\n\s*/g, " ").trim();
-// The ledger file with the new row at its sorted position and the summary line
-// recounted; everything else is kept byte for byte.
+// The ledger file with the new row at its sorted position; everything else is
+// kept byte for byte. No count lives in the file (the site computes counts at
+// build time), so two entry PRs never edit the same line.
 function ledgerWith(row: { slug: string; name: string; category: string; rationale: string }) {
   const text = read(LEDGER);
   const rows = text.split("\n").flatMap((line) => {
@@ -134,9 +135,7 @@ function ledgerWith(row: { slug: string; name: string; category: string; rationa
   if (rows.some((r) => r.slug === row.slug)) fail(`${LEDGER} already has a row for ${row.slug}`);
   const at = rows.findIndex((r) => r.slug > row.slug);
   rows.splice(at < 0 ? rows.length : at, 0, row);
-  const count = (c: string) => rows.filter((r) => r.category === c).length;
-  const summary = `**${rows.length} entries**: ${count("agent")} agent, ${count("multiplexer")} multiplexer, ${count("agent-sdk")} agent-sdk, ${count("other")} other.`;
-  const head = text.slice(0, text.indexOf(LEDGER_HEADER)).replace(/^\*\*\d+ entries\*\*:.*$/m, summary);
+  const head = text.slice(0, text.indexOf(LEDGER_HEADER));
   const table = rows.map((r) => `| \`${r.slug}\` | ${r.name} | ${r.category} | ${r.rationale} |`);
   return head + [LEDGER_HEADER, "|------|------|----------|-----------|", ...table].join("\n") + "\n";
 }

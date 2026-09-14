@@ -12,9 +12,9 @@ Category decision for every entry in the census. Reviewed and re-adjudicated 202
 
 ## Summary
 
-**1347 entries**: 634 agent, 220 multiplexer, 19 agent-sdk, 474 other.
+Counts are not kept in this file. They are computed from the entry files at build time and shown on the site: agents and SDKs on the home page, the published total on the About page. A tally here would make every entry PR edit the same line.
 
-Of these, 31 entries were added from the 2026-08-28 Hacker News sweep (sources: hackernews).
+31 entries were added from the 2026-08-28 Hacker News sweep (sources: hackernews).
 
 ## Decisions
 
