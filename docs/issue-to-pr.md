@@ -69,11 +69,13 @@ the category dropdown keeps only the text before the colon.
 
 Before researching, check:
 
-- Add: `name`, `url`, `maker`, `category`, `rationale`,
-  `what_makes_it_special`, and `narrative` are not null. The slug (table
-  below) has no file in `agents/`. Neither `url` nor `source_code_url` is
-  already listed: `grep -il "github.com/owner/repo" agents/*.md`, grepping
-  without the scheme, `www.`, trailing slash, or `.git`.
+- Add: `name` and `url` are not null. The slug (table below) has no file in
+  `agents/`. Neither `url` nor `source_code_url` is already listed: `grep -il
+  "github.com/owner/repo" agents/*.md`, grepping without the scheme, `www.`,
+  trailing slash, or `.git`. Every other field is optional on the form and
+  comes back null when the submitter left it blank; supply it from research in
+  step 2 (`maker`, `category`, `rationale`, `what_makes_it_special`,
+  `narrative`, and the rest) rather than treating the blank as a rejection.
 - Fix: the entry resolves to exactly one slug. `slug_hint` is set when the
   form linked the entry's page; otherwise `grep -il '^name: "<entry>"'
   agents/*.md`. `changes` holds one object per `field: old -> new` line and

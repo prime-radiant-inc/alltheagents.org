@@ -17,7 +17,7 @@ Every decision, with a one-line rationale, is recorded in [`CATEGORIZATION_LEDGE
 
 ## Adding or fixing an entry
 
-Open an issue with the [Add an entry](https://github.com/prime-radiant-inc/alltheagents.org/issues/new?template=add-agent.yml) or [Fix an entry](https://github.com/prime-radiant-inc/alltheagents.org/issues/new?template=update-agent.yml) form. Every field is checked against primary sources before anything lands, so leave a field blank rather than guess. You get either a pull request that closes your issue or one comment saying what would unblock it.
+Open an issue with the [Add an entry](https://github.com/prime-radiant-inc/alltheagents.org/issues/new?template=add-agent.yml) or [Fix an entry](https://github.com/prime-radiant-inc/alltheagents.org/issues/new?template=update-agent.yml) form. The add form asks only for a name, a primary URL, and confirmation that you searched first; everything else is optional, so leave a field blank rather than guess. A maintainer checks each answer against primary sources before anything lands. You get either a pull request that closes your issue or one comment saying what would unblock it.
 
 Maintainers: from a clean, current `main`, run `claude "Process issue N"` (or `claude "Process every waiting issue"`). Claude Code follows [`docs/issue-to-pr.md`](docs/issue-to-pr.md), which verifies each field, writes the entry, builds the site, and opens one PR per issue. Read the PR's Discrepancies section first; the review checklist is at the end of the runbook.
 
