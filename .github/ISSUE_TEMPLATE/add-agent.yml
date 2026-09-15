@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        One entry per issue. Every field is checked against primary sources (the repo, the docs, the license file) before a pull request is opened, so leave unknown optional fields blank rather than guessing. You get either a PR that closes this issue or one comment saying what would unblock it.
+        One entry per issue. Only the name, the primary URL, and the search confirmation at the bottom are required; fill in whatever else you know and leave the rest blank. A maintainer checks every answer against primary sources (the repo, the docs, the license file) before a pull request is opened, so a guess is worse than a blank. You get either a PR that closes this issue or one comment saying what would unblock it.
 
   - type: input
     id: name
@@ -33,8 +33,6 @@ body:
     attributes:
       label: Maker
       description: The person, company, or community behind it.
-    validations:
-      required: true
 
   - type: input
     id: license
@@ -51,32 +49,24 @@ body:
         - "multiplexer: runs or coordinates other agents rather than coding"
         - "agent-sdk: a toolkit for building agents that ships no coding agent itself"
         - "other: none of the above"
-    validations:
-      required: true
 
   - type: textarea
     id: rationale
     attributes:
       label: Category rationale
       description: One sentence. Becomes the entry's row in the categorization ledger.
-    validations:
-      required: true
 
   - type: textarea
     id: what_makes_it_special
     attributes:
       label: What makes it special
       description: One or two sentences.
-    validations:
-      required: true
 
   - type: textarea
     id: narrative
     attributes:
       label: Narrative
       description: About a paragraph. Why it exists, how it works, who uses it. Do not repeat the fields above.
-    validations:
-      required: true
 
   - type: checkboxes
     id: platforms
