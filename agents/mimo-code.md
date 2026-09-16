@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-06-10"
 current_release: "2026-08-19"
-stars: null
+stars: "13135"
 language: "TypeScript"
 homepage: "https://mimo.xiaomi.com/mimocode"
 mcp_support: "True"

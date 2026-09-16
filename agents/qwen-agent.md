@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2023-09-22"
 current_release: "2026-03-04"
-stars: "16992"
+stars: "17102"
 language: "Python"
 homepage: "https://pypi.org/project/qwen-agent/"
 mcp_support: "yes (stdio transport)"

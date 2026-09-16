@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-07-30"
 current_release: "2026-08-06"
-stars: 37
+stars: "40"
 language: "C++"
 homepage: null
 mcp_support: "no"

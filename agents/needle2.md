@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-24"
 current_release: null
-stars: 9588
+stars: "11059"
 language: "Python"
 homepage: "https://cactuscompute.com/needle"
 mcp_support: null

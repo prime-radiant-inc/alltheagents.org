@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-06-05"
 current_release: "2026-08-18"
-stars: "329"
+stars: "512"
 language: "TypeScript"
 homepage: "https://flounders.xyz"
 mcp_support: null

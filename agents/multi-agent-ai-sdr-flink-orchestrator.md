@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-03-03"
 current_release: "2025-05-19"
-stars: "46"
+stars: "45"
 language: "Python (agents) and JavaScript/TypeScript (NextJS web app)"
 homepage: null
 mcp_support: null

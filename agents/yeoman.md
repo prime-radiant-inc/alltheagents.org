@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2012-04-13"
 current_release: "2022-10-18"
-stars: "10101"
+stars: "10107"
 language: "JavaScript"
 homepage: "http://yeoman.io"
 mcp_support: "no"

@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-03-05"
 current_release: "2026-08-10"
-stars: "33"
+stars: "37"
 language: "TypeScript"
 homepage: "https://vibe-replay.com"
 mcp_support: "False"

@@ -15,7 +15,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-02-21"
 current_release: "2026-08-17"
-stars: "1951"
+stars: "2128"
 language: "TypeScript"
 homepage: "https://agentteams.live"
 mcp_support: "yes (built-in mcp-server, .mcp.json config)"

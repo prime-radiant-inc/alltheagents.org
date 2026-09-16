@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2023-03-20"
 current_release: "2024-09-15"
-stars: "1274"
+stars: "1276"
 language: "TypeScript"
 homepage: "https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode"
 mcp_support: "no"

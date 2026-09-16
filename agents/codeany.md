@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-01"
 current_release: "2026-04-04"
-stars: "185"
+stars: "183"
 language: "Go"
 homepage: null
 mcp_support: "True"

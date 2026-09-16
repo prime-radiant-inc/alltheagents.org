@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2026-03-06"
 current_release: "2026-08-17"
-stars: "19613"
+stars: "20721"
 language: "Markdown, Shell, JavaScript"
 homepage: "https://ao.aiolaola.com/experts"
 mcp_support: "no (includes an MCP Builder agent for creating MCP servers, but no MCP server itself)"

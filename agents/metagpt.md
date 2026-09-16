@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2023-06-30"
 current_release: "2026-01-21"
-stars: "69901"
+stars: "70426"
 language: "Python"
 homepage: "https://atoms.dev/"
 mcp_support: null

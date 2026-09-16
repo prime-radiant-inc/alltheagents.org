@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-02-27"
 current_release: "2026-08-19"
-stars: "392"
+stars: "466"
 language: "TypeScript"
 homepage: "https://runpane.com/"
 mcp_support: "True"

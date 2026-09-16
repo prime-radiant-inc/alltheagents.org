@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-12-04"
 current_release: "2026-06-14"
-stars: "14536"
+stars: "14563"
 language: "TypeScript (Electron desktop app)"
 homepage: "https://aperant.com"
 mcp_support: null

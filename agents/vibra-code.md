@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-06"
 current_release: "2026-03-06"
-stars: "120"
+stars: "130"
 language: "TypeScript"
 homepage: "https://mintlify.wiki/sa4hnd/vibra-code"
 mcp_support: "no"

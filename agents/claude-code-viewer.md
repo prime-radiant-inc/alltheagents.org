@@ -14,7 +14,7 @@ platforms:
   - "Web"
 first_released: "2025-08-31"
 current_release: "2026-08-18"
-stars: "1272"
+stars: "1286"
 language: "TypeScript"
 homepage: "https://www.npmjs.com/package/@kimuson/claude-code-viewer"
 mcp_support: "yes"

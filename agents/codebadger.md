@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-10-01"
 current_release: "2026-08-03"
-stars: "153"
+stars: "168"
 language: "Python"
 homepage: "https://dl.acm.org/doi/pdf/10.1145/3786165.3788441"
 mcp_support: "True"

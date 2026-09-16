@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2023-02-06"
 current_release: "2026-08-20"
-stars: "18118"
+stars: "18193"
 language: "TypeScript"
 homepage: "https://docs.langchain.com/langchain/"
 mcp_support: null

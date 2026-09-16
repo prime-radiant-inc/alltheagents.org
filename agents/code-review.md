@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-09-09"
 current_release: "2026-03-10"
-stars: "531"
+stars: "533"
 language: "Markdown / Gemini CLI extension definitions"
 homepage: null
 mcp_support: "True"

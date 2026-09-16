@@ -11,7 +11,7 @@ source_available: "yes"
 platforms: []
 first_released: "2026-04-22"
 current_release: "2026-08-18"
-stars: "710"
+stars: "736"
 language: "Rust, TypeScript, C#"
 homepage: null
 mcp_support: "no"

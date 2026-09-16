@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2024-08-23"
 current_release: "2026-08-20"
-stars: null
+stars: "54352"
 language: "Rust"
 homepage: "https://goose-docs.ai/"
 mcp_support: "True"

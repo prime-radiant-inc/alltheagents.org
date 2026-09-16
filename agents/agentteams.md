@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-21"
 current_release: "2026-08-19"
-stars: "5443"
+stars: "5629"
 language: "Multi-runtime (Node.js, Python)"
 homepage: "https://www.aliyun.com/product/agentteams"
 mcp_support: "yes"

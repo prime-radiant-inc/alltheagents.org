@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2024-12-19"
 current_release: "2024-12-07"
-stars: null
+stars: "0"
 language: "TypeScript"
 homepage: "https://tinylabs.com"
 mcp_support: "no"

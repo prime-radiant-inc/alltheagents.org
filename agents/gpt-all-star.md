@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2023-12-20"
 current_release: "2026-08-13"
-stars: "238"
+stars: "240"
 language: "Python"
 homepage: "https://kyaukyuai.github.io/gpt-all-star/"
 mcp_support: "False"

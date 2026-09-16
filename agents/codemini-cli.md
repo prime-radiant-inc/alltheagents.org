@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-03-27"
 current_release: "2026-08-19"
-stars: "191"
+stars: "192"
 language: "JavaScript (Node.js)"
 homepage: null
 mcp_support: "True"

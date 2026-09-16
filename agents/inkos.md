@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-12"
 current_release: "2026-08-17"
-stars: "9137"
+stars: "9913"
 language: "TypeScript"
 homepage: null
 mcp_support: "no"

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-12-01"
 current_release: "2026-08-18"
-stars: "175"
+stars: "186"
 language: "Go"
 homepage: "https://zjrosen.github.io/perles"
 mcp_support: "no"

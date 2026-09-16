@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-06-21"
 current_release: "2026-08-19"
-stars: "3021"
+stars: "3056"
 language: "Rust"
 homepage: "https://athas.dev"
 mcp_support: null

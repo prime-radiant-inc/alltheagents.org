@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2025-10-14"
 current_release: "2026-08-19"
-stars: "2192"
+stars: "2235"
 language: "Python"
 homepage: "https://arckit.org/"
 mcp_support: "yes (bundles 6 MCP servers: AWS Knowledge, Microsoft Learn, Google Developer Knowledge, GovRepoScrape, uk-tenders, plus diagnostics)"

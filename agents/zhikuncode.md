@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-04-06"
 current_release: "2026-08-13"
-stars: "456"
+stars: "494"
 language: "Java, TypeScript, Python"
 homepage: null
 mcp_support: "True"

@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-02-11"
 current_release: "2026-02-12"
-stars: "185"
+stars: "190"
 language: "Shell"
 homepage: null
 mcp_support: "False"

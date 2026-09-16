@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-02-16"
 current_release: "2026-08-13"
-stars: "1796"
+stars: "1816"
 language: "TypeScript"
 homepage: "https://phodal.github.io/routa/"
 mcp_support: "yes (MCP, ACP, A2A, AG-UI, A2UI, REST, SSE)"

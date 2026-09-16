@@ -5,8 +5,8 @@ layout: "agent.njk"
 category: "agent-sdk"
 maker: null
 license: null
-url: "https://github.com/bonk1t/agentic-platform"
-source_code_url: "https://github.com/bonk1t/agentic-platform"
+url: null
+source_code_url: null
 source_available: "False"
 platforms:
   - "Web"

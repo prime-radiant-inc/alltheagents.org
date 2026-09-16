@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2025-03-24"
 current_release: "2026-08-18"
-stars: "645"
+stars: "650"
 language: "TypeScript"
 homepage: "https://dexto.ai"
 mcp_support: "yes"

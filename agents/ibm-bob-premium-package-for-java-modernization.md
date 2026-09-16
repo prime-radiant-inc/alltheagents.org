@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-08-06"
 current_release: null
-stars: null
+stars: "1"
 language: null
 homepage: "https://bob.ibm.com"
 mcp_support: "no"

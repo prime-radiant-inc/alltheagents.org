@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2026-05-21"
 current_release: "2026-08-17"
-stars: "6141"
+stars: "6311"
 language: "TypeScript"
 homepage: "https://www.kun-agent.com"
 mcp_support: "yes"

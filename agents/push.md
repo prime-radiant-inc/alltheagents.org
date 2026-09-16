@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-24"
 current_release: "2026-08-06"
-stars: "227"
+stars: "229"
 language: "Shell"
 homepage: "https://pu.dev"
 mcp_support: "no"

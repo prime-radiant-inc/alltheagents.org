@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-01-18"
 current_release: "2026-08-15"
-stars: "561"
+stars: "584"
 language: "TypeScript"
 homepage: "https://github.com/nicobailon/pi-interactive-shell"
 mcp_support: "no"

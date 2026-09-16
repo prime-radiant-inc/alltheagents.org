@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-17"
 current_release: "2026-08-18"
-stars: "33"
+stars: "35"
 language: "JavaScript/Node.js"
 homepage: null
 mcp_support: "False"

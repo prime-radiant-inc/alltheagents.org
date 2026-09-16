@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-07-06"
 current_release: "2025-09-15"
-stars: "495"
+stars: "494"
 language: "TOML, JavaScript, Markdown"
 homepage: null
 mcp_support: "no"

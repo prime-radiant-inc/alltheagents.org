@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: null
 current_release: null
-stars: "24"
+stars: "25"
 language: "Go"
 homepage: "https://dippin.org"
 mcp_support: "no"

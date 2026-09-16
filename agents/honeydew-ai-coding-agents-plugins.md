@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-23"
 current_release: "2026-08-18"
-stars: "39"
+stars: "40"
 language: "Shell"
 homepage: "https://honeydew.ai"
 mcp_support: "True"

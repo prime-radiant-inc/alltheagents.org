@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2026-01-21"
 current_release: "2026-08-19"
-stars: "2290"
+stars: "2372"
 language: "Swift"
 homepage: "https://supacode.sh"
 mcp_support: null

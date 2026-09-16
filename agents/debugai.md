@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2024-01-29"
 current_release: "2024-01-29"
-stars: null
+stars: "0"
 language: null
 homepage: null
 mcp_support: null

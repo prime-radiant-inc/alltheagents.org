@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-03-31"
 current_release: "2026-08-09"
-stars: "1061"
+stars: "1112"
 language: "TypeScript, Rust, Python, Go, Java"
 homepage: "https://liumengxuan04.github.io/MiniCode/"
 mcp_support: "yes (stdio, HTTP)"

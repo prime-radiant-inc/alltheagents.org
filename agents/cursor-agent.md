@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-03-22"
 current_release: "2025-07-13"
-stars: "133"
+stars: "135"
 language: "Python"
 homepage: "https://civai.co"
 mcp_support: "no"

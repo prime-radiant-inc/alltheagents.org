@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2024-07-09"
 current_release: "2026-08-20"
-stars: null
+stars: "12198"
 language: "TypeScript"
 homepage: "https://freebuff.com"
 mcp_support: null

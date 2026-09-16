@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-07-17"
 current_release: "2026-08-16"
-stars: "357"
+stars: "359"
 language: "TypeScript"
 homepage: "https://klaatai.com"
 mcp_support: "True"

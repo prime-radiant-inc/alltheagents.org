@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2024-08-06"
 current_release: "2026-08-20"
-stars: "27318"
+stars: "28103"
 language: "TypeScript"
 homepage: "https://mastra.ai"
 mcp_support: "yes"

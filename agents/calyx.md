@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-03-08"
 current_release: "2026-08-17"
-stars: "292"
+stars: "318"
 language: "Swift"
 homepage: "https://help.getcalyx.app/"
 mcp_support: "True"

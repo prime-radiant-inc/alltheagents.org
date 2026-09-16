@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-01-31"
 current_release: "2026-08-17"
-stars: "286"
+stars: "288"
 language: "Rust, TypeScript, Python, Go"
 homepage: "https://backbay.io"
 mcp_support: "True"

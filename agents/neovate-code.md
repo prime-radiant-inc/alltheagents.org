@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-03-11"
 current_release: "2026-03-24"
-stars: null
+stars: "1558"
 language: "TypeScript"
 homepage: "https://neovateai.dev/"
 mcp_support: "yes"

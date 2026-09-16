@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-05-22"
 current_release: "2026-08-19"
-stars: "3951"
+stars: "4006"
 language: "TypeScript"
 homepage: "https://pilotdeck.openbmb.cn"
 mcp_support: "yes"

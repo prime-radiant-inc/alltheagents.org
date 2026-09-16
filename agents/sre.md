@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2025-06-07"
 current_release: "2026-04-03"
-stars: "1291"
+stars: "1292"
 language: "TypeScript"
 homepage: "https://smythos.com"
 mcp_support: "yes"

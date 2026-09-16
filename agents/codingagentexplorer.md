@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-08"
 current_release: "2026-08-02"
-stars: "48"
+stars: "49"
 language: "C# / .NET 10 (vanilla HTML/JS/CSS frontend)"
 homepage: "https://nestenius.se/ai/introducing-the-coding-agent-explorer-net/"
 mcp_support: "True"

@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2023-02-24"
 current_release: "2024-11-15"
-stars: "3784"
+stars: "3793"
 language: "Python"
 homepage: "https://vocode.dev"
 mcp_support: null

@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2023-08-07"
 current_release: "2024-10-01"
-stars: "233"
+stars: "234"
 language: "TypeScript"
 homepage: "https://docs.quackai.com"
 mcp_support: "no"

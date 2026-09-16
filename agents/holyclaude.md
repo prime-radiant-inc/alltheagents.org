@@ -14,7 +14,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-22"
 current_release: "2026-08-16"
-stars: "2505"
+stars: "2566"
 language: "Shell"
 homepage: "https://holyclaude.coderluii.dev"
 mcp_support: "yes"

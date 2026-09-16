@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2024-11-01"
 current_release: "2025-02-01"
-stars: "814"
+stars: "810"
 language: "TypeScript"
 homepage: "https://flexpilot.ai"
 mcp_support: "no"

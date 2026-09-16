@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-08"
 current_release: "2026-05-27"
-stars: "128"
+stars: "133"
 language: "Zig"
 homepage: "https://no1msd.github.io/seance"
 mcp_support: "no"

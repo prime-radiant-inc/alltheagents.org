@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2025-10-30"
 current_release: "2026-08-19"
-stars: "1525"
+stars: "1722"
 language: "TypeScript (Electron) + Swift (iOS)"
 homepage: "https://nimbalyst.com/"
 mcp_support: "yes"

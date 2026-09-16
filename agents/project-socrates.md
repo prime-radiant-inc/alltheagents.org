@@ -5,8 +5,8 @@ layout: "agent.njk"
 category: "agent"
 maker: null
 license: null
-url: "https://github.com/Hams-Ollo/Project-S.O.C.R.A.T.E.S."
-source_code_url: "https://github.com/Hams-Ollo/Project-S.O.C.R.A.T.E.S."
+url: null
+source_code_url: null
 source_available: "False"
 platforms: []
 first_released: null

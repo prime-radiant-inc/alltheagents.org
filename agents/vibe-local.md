@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-22"
 current_release: "2026-07-19"
-stars: "802"
+stars: "803"
 language: "Python, Shell"
 homepage: "https://github.com/ochyai/vibe-local"
 mcp_support: "no"

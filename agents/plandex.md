@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2023-10-24"
 current_release: "2025-10-03"
-stars: null
+stars: "15639"
 language: "Go"
 homepage: "https://plandex.ai"
 mcp_support: "no"

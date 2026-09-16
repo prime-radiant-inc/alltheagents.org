@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-06"
 current_release: "2026-06-14"
-stars: "41"
+stars: "43"
 language: "Bash"
 homepage: "https://runautoco.com"
 mcp_support: null

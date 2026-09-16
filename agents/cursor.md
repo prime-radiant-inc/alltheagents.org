@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2023-03-12"
 current_release: "2026-05-12"
-stars: null
+stars: "33245"
 language: "TypeScript (VS Code fork)"
 homepage: "https://cursor.com"
 mcp_support: "True"

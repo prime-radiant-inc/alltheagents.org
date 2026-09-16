@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-07-31"
 current_release: null
-stars: null
+stars: "9"
 language: null
 homepage: "https://github.com/sumitsingh4411/repo-agent#readme"
 mcp_support: "yes"

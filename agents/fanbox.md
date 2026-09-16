@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-10"
 current_release: "2026-08-18"
-stars: "991"
+stars: "1015"
 language: "JavaScript"
 homepage: "https://github.com/alchaincyf/fanbox/releases/latest"
 mcp_support: "no"

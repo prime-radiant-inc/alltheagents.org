@@ -14,7 +14,7 @@ platforms:
   - "Desktop"
 first_released: "2025-07-29"
 current_release: "2026-07-25"
-stars: "266"
+stars: "268"
 language: "TypeScript"
 homepage: "https://sahithvibudhi.github.io/vibe-tree/"
 mcp_support: "False"

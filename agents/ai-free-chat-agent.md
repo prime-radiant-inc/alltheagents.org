@@ -6,13 +6,13 @@ category: "agent"
 maker: "Staks-sor"
 license: "Custom (personal-use-only, non-standard)"
 url: "https://plugins.jetbrains.com/plugin/33364-ai-free-chat--agent"
-source_code_url: null
+source_code_url: "https://github.com/Staks-sor/ai-free"
 source_available: "Yes"
 platforms:
   - "IDE"
 first_released: "2026-08-21"
 current_release: "0.4.25"
-stars: null
+stars: "210"
 language: "JavaScript"
 homepage: "https://github.com/Staks-sor/ai-free"
 mcp_support: "no"

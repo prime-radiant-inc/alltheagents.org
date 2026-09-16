@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-12-13"
 current_release: "2026-01-18"
-stars: "284"
+stars: "285"
 language: "Markdown, Python"
 homepage: null
 mcp_support: "no"

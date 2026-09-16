@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-06-16"
 current_release: "2026-08-19"
-stars: "968"
+stars: "996"
 language: "Clojure"
 homepage: "http://eca.dev"
 mcp_support: "yes (stdio) — supports MCP resources and prompts for additional code context"

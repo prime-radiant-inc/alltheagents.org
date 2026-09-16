@@ -15,7 +15,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-06-29"
 current_release: "2026-08-19"
-stars: "4"
+stars: "13"
 language: "Go"
 homepage: "https://github.com/Podiom/Podiom/tree/master/docs"
 mcp_support: "True"

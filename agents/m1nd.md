@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-03-12"
 current_release: "2026-08-15"
-stars: "22"
+stars: "21"
 language: "Rust"
 homepage: "https://m1nd.world"
 mcp_support: "True"

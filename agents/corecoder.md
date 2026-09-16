@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-04-01"
 current_release: "2026-08-04"
-stars: "1657"
+stars: "1746"
 language: "Python 3.10+"
 homepage: "https://pypi.org/project/corecoder/"
 mcp_support: "no - explicitly listed as a missing feature to add in a fork"

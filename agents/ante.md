@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-12-23"
 current_release: "2026-08-28"
-stars: 1915
+stars: "1956"
 language: "Rust"
 homepage: "https://antigma.ai"
 mcp_support: "yes"

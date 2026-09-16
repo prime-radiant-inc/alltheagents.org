@@ -14,7 +14,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-08"
 current_release: "2026-08-29"
-stars: 3423
+stars: "3485"
 language: "TypeScript"
 homepage: "https://onecli.sh"
 mcp_support: null

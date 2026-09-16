@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-05-26"
 current_release: "2026-08-10"
-stars: "176"
+stars: "179"
 language: "Emacs Lisp"
 homepage: null
 mcp_support: "False"

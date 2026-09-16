@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-23"
 current_release: "2026-08-12"
-stars: "60"
+stars: "61"
 language: "Rust, TypeScript"
 homepage: "https://www.beehiveapp.dev"
 mcp_support: null

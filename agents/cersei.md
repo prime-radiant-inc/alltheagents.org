@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-04-02"
 current_release: "2026-08-06"
-stars: "443"
+stars: "457"
 language: "Rust"
 homepage: "https://cersei.tryatlas.cc/docs/"
 mcp_support: "True"

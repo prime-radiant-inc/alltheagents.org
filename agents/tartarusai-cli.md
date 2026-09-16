@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-05-20"
 current_release: "2026-06-22"
-stars: "100"
+stars: "80"
 language: null
 homepage: "https://tartarusai.dev"
 mcp_support: null

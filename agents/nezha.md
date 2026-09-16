@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-03-22"
 current_release: "2026-08-01"
-stars: "1872"
+stars: "1901"
 language: "TypeScript"
 homepage: "https://nezha.hanshutx.com/"
 mcp_support: null

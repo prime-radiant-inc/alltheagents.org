@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-04-23"
 current_release: "2026-08-17"
-stars: "347"
+stars: "438"
 language: "TypeScript"
 homepage: "https://github.com/chandra447/pi-hermes-memory"
 mcp_support: "no"

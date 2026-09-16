@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-05-11"
 current_release: null
-stars: null
+stars: "28"
 language: null
 homepage: "https://github.com/TheSylvester/crispy"
 mcp_support: null

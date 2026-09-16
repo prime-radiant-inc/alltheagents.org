@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-04-02"
 current_release: "2026-04-07"
-stars: "1111"
+stars: "1165"
 language: "Python"
 homepage: "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent"
 mcp_support: "no"

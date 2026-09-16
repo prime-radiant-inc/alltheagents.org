@@ -11,7 +11,7 @@ source_available: "yes"
 platforms: []
 first_released: "2026-03-09"
 current_release: "2026-07-02"
-stars: "727"
+stars: "785"
 language: "Go"
 homepage: "https://github.com/gszhangwei/open-spdd"
 mcp_support: "no"

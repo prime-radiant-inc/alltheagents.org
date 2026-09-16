@@ -5,9 +5,9 @@ layout: "agent.njk"
 category: "other"
 maker: "launsion-boop"
 license: "MIT"
-url: "https://github.com/launsion-boop/EchoCoding"
-source_code_url: "https://github.com/launsion-boop/EchoCoding"
-source_available: "True"
+url: null
+source_code_url: null
+source_available: "False"
 platforms:
   - "CLI"
   - "Web"

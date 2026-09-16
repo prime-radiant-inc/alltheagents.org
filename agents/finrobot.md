@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-02-27"
 current_release: "2026-07-27"
-stars: "7812"
+stars: "8013"
 language: "Python"
 homepage: "https://finrobot.ai"
 mcp_support: "no"

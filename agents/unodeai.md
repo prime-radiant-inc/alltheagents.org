@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-08-27"
 current_release: "2026-08-28"
-stars: null
+stars: "0"
 language: "TypeScript"
 homepage: "https://www.unodetech.xyz"
 mcp_support: "yes"

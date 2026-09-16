@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-04-18"
 current_release: "2026-08-19"
-stars: "187"
+stars: "195"
 language: "Rust"
 homepage: "https://atomcode.atomgit.com/"
 mcp_support: "True"

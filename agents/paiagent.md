@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-11-25"
 current_release: "2026-06-17"
-stars: "633"
+stars: "678"
 language: "Java, TypeScript"
 homepage: "https://github.com/itwanger/PaiAgent"
 mcp_support: "no"

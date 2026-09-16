@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-13"
 current_release: "2026-07-21"
-stars: "43"
+stars: "47"
 language: "TypeScript (Node.js)"
 homepage: "https://www.npmjs.com/package/@jo-inc/pi-reflect"
 mcp_support: "no"

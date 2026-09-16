@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2023-12-11"
 current_release: "2026-01-21"
-stars: "160"
+stars: "159"
 language: "Shell"
 homepage: null
 mcp_support: null

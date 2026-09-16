@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-07-13"
 current_release: "2026-08-12"
-stars: "781"
+stars: "821"
 language: "TypeScript"
 homepage: null
 mcp_support: "yes (stdio; mcp section in settings; --mcp-contract, --invoke-mcp; contract v1)"

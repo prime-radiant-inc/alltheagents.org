@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-09-08"
 current_release: "2026-08-20"
-stars: "272"
+stars: "280"
 language: "TypeScript"
 homepage: "https://www.augmentcode.com/"
 mcp_support: null

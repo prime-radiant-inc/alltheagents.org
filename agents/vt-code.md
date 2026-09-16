@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-08-29"
 current_release: "2026-08-19"
-stars: "783"
+stars: "846"
 language: "Rust"
 homepage: "https://github.com/vinhnx/VTCode/wiki"
 mcp_support: "yes (MCP client/server modes; docs/guides/mcp-integration.md; /mcp slash command)"

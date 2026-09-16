@@ -6,14 +6,14 @@ category: "other"
 maker: "IDEA Research Institute"
 license: "MIT"
 url: "https://www.moonbitlang.com"
-source_code_url: "https://github.com/moonbitlang/moonbit-doc"
+source_code_url: "https://github.com/moonbitlang/moonbit-docs"
 source_available: "True"
 platforms:
   - "CLI"
   - "IDE"
 first_released: "2024"
 current_release: "2026"
-stars: null
+stars: "2416"
 language: "MoonBit"
 homepage: null
 mcp_support: null

@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2026-05-05"
 current_release: "2026-07-08"
-stars: "1087"
+stars: "1102"
 language: "Rust, TypeScript, Swift"
 homepage: "https://deeptide.sh"
 mcp_support: "yes"

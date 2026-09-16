@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-19"
 current_release: "2026-06-26"
-stars: "228"
+stars: "232"
 language: "Python (backend), React 19 (frontend viewer)"
 homepage: "https://agi-is-going-to-arrive.github.io/ahadiff/"
 mcp_support: "True"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-23"
 current_release: "2026-08-14"
-stars: "437"
+stars: "434"
 language: "TypeScript"
 homepage: "https://ai.deepagent.ltd/"
 mcp_support: "True"

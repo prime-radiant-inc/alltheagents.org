@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-01-05"
 current_release: "2026-08-19"
-stars: null
+stars: "19768"
 language: "Rust"
 homepage: "https://jcode.sh"
 mcp_support: "True"

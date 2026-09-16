@@ -11,7 +11,7 @@ source_available: "Source-available (no OSS license)"
 platforms: []
 first_released: "2023-08-06"
 current_release: "2024-12-11"
-stars: "2309"
+stars: "2310"
 language: "Python"
 homepage: "https://llmstack.trypromptly.com"
 mcp_support: "no"

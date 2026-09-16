@@ -5,8 +5,8 @@ layout: "agent.njk"
 category: "agent"
 maker: null
 license: null
-url: "https://github.com/RaheesAhmed/devstream"
-source_code_url: "https://github.com/RaheesAhmed/devstream"
+url: null
+source_code_url: null
 source_available: "False"
 platforms:
   - "Web"

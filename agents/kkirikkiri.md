@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-28"
 current_release: "2026-07-06"
-stars: "51"
+stars: "58"
 language: "JavaScript"
 homepage: null
 mcp_support: null

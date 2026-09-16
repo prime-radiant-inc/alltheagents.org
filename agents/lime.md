@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-12-13"
 current_release: "2026-08-19"
-stars: "1467"
+stars: "1471"
 language: "TypeScript, Rust, JavaScript (Electron + React + Vite, Rust App Server)"
 homepage: "https://limeai.run"
 mcp_support: "yes - tool discovery and external tool integration"

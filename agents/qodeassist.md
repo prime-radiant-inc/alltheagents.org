@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-08-27"
 current_release: "2026-08-03"
-stars: "435"
+stars: "439"
 language: "C++, QML"
 homepage: null
 mcp_support: "True"

@@ -11,7 +11,7 @@ source_available: "Source-visible (no OSS license)"
 platforms: []
 first_released: "2025-02-24"
 current_release: "2025-09-15"
-stars: "2184"
+stars: "2189"
 language: "TypeScript"
 homepage: null
 mcp_support: "no"

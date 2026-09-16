@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-11-30"
 current_release: "2026-08-06"
-stars: "1482"
+stars: "1587"
 language: "Chinese (Markdown course) + Python/JavaScript examples"
 homepage: "https://themodernsoftware.dev/"
 mcp_support: "n/a - covered as curriculum topic (Week 2: building custom MCP servers)"

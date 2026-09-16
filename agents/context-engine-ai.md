@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-01"
 current_release: "2026-03-16"
-stars: null
+stars: "0"
 language: "TypeScript"
 homepage: "https://quinnod345.github.io/context-engine/"
 mcp_support: "True"

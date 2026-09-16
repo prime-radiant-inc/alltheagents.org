@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-02-13"
 current_release: "2026-08-19"
-stars: "58"
+stars: "67"
 language: "Go"
 homepage: "https://github.com/stacklok/brood-box"
 mcp_support: "True"

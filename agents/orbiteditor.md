@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-01-29"
 current_release: "2026-08-13"
-stars: "57"
+stars: "60"
 language: "TypeScript"
 homepage: "https://orbiteditorai.com"
 mcp_support: "True"

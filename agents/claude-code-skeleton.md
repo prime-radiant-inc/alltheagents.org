@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-03-31"
 current_release: "2026-04-04"
-stars: "3963"
+stars: "7"
 language: "TypeScript"
 homepage: "https://github.com/yasasbanukaofficial/claude-code"
 mcp_support: "yes"

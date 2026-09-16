@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2025-10-30"
 current_release: "2026-05-31"
-stars: "13929"
+stars: "13981"
 language: "JavaScript"
 homepage: null
 mcp_support: "no"

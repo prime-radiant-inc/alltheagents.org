@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-08-23"
 current_release: "2026-08-20"
-stars: "3893"
+stars: "3938"
 language: "TypeScript"
 homepage: "https://sourcebot.dev"
 mcp_support: "no"

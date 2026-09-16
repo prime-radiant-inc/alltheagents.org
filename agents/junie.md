@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2025-04-07"
 current_release: "2026-08-19"
-stars: "397"
+stars: "437"
 language: "Shell"
 homepage: "https://junie.jetbrains.com"
 mcp_support: null

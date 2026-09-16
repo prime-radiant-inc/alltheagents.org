@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-04-19"
 current_release: "2026-06-18"
-stars: "466"
+stars: "547"
 language: "TypeScript"
 homepage: "https://hivehq.dev"
 mcp_support: "no"

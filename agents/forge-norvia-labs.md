@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-07-22"
 current_release: "2026-08-20"
-stars: "6"
+stars: "8"
 language: "Rust"
 homepage: "https://forge.norvialabs.com"
 mcp_support: "True"

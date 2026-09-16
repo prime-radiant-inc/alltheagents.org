@@ -14,7 +14,7 @@ platforms:
   - "Web"
 first_released: "2026-03-03"
 current_release: "2026-08-19"
-stars: "151"
+stars: "157"
 language: "JavaScript"
 homepage: "https://clideck.dev"
 mcp_support: "no"

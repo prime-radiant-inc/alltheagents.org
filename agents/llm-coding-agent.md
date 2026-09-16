@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-07-02"
 current_release: "2026-07-04"
-stars: "35"
+stars: "37"
 language: "Python"
 homepage: "https://github.com/simonw/llm-coding-agent"
 mcp_support: "no"

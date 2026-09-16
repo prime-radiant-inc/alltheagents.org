@@ -6,13 +6,13 @@ category: "agent"
 maker: "xerv"
 license: "MIT"
 url: "https://plugins.jetbrains.com/plugin/33117-swades-agent"
-source_code_url: null
+source_code_url: "https://github.com/Xerv-Org/Swades-Agent"
 source_available: "yes"
 platforms:
   - "IDE"
 first_released: "2026-07-24"
 current_release: null
-stars: null
+stars: "1"
 language: "JavaScript"
 homepage: "https://github.com/Xerv-Org/Swades-Agent"
 mcp_support: null

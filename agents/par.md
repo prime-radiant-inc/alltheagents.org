@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-05-28"
 current_release: "2026-08-14"
-stars: "67"
+stars: "64"
 language: "OCaml"
 homepage: "https://jcz2020.github.io/par/"
 mcp_support: "True"

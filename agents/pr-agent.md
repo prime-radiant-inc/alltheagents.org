@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-07-05"
 current_release: "2026-08-19"
-stars: "12623"
+stars: "13021"
 language: "Python"
 homepage: "https://www.pr-agent.ai"
 mcp_support: "no"

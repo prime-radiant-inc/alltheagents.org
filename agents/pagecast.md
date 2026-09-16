@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-06-04"
 current_release: "2026-08-18"
-stars: "187"
+stars: "189"
 language: "JavaScript (Node.js)"
 homepage: "https://pagecasthq.pages.dev"
 mcp_support: "True"

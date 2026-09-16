@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-01-11"
 current_release: "2026-03-17"
-stars: "48"
+stars: "49"
 language: "Kotlin (JetBrains plugin, Gradle)"
 homepage: "https://plugins.jetbrains.com/plugin/29744-opencode-ui"
 mcp_support: "no"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2019-11-12"
 current_release: "2024-02-20"
-stars: "599"
+stars: "600"
 language: "PHP"
 homepage: null
 mcp_support: "no"

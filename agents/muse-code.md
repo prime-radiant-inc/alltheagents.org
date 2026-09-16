@@ -5,7 +5,7 @@ layout: "agent.njk"
 category: "other"
 maker: "Meta"
 license: "Proprietary"
-url: "https://github.com/meta-ai/muse-code"
+url: null
 source_code_url: null
 source_available: "False"
 platforms:

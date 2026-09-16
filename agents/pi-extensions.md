@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-03-17"
 current_release: "2026-08-14"
-stars: "405"
+stars: "540"
 language: "TypeScript"
 homepage: "https://github.com/ogulcancelik/pi-extensions"
 mcp_support: "no"

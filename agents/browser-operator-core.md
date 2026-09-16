@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2025-05-10"
 current_release: "2026-03-19"
-stars: "500"
+stars: "507"
 language: "C++, JavaScript, TypeScript"
 homepage: "https://browseroperator.io/"
 mcp_support: "True"

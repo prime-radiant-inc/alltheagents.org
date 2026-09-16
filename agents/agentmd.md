@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-07-09"
 current_release: "2025-07-10"
-stars: "89"
+stars: "100"
 language: "Markdown"
 homepage: "https://agent.md"
 mcp_support: "no"

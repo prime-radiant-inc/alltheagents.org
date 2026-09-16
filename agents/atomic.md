@@ -11,7 +11,7 @@ source_available: "yes"
 platforms: []
 first_released: "2025-10-23"
 current_release: "2026-08-20"
-stars: "648"
+stars: "800"
 language: "TypeScript"
 homepage: "https://bastani.ai/"
 mcp_support: "yes"

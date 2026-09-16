@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-07-31"
 current_release: "2026-05-12"
-stars: "719"
+stars: "718"
 language: "Kotlin, TypeScript"
 homepage: null
 mcp_support: "no"

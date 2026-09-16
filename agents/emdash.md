@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-08-28"
 current_release: "2026-08-19"
-stars: "5446"
+stars: "5754"
 language: "TypeScript"
 homepage: "https://emdash.com"
 mcp_support: "no"

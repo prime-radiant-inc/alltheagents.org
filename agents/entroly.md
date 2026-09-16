@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-03-07"
 current_release: "2026-08-19"
-stars: "437"
+stars: "445"
 language: "Python, Rust, TypeScript"
 homepage: "https://juyterman1000.github.io/entroly/docs/index.html"
 mcp_support: "True"

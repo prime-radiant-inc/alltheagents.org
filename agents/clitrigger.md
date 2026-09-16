@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-03-24"
 current_release: "2026-08-18"
-stars: "13"
+stars: "14"
 language: "TypeScript"
 homepage: "https://www.npmjs.com/package/clitrigger"
 mcp_support: "True"

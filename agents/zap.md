@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-05-16"
 current_release: "2026-08-19"
-stars: "32"
+stars: "33"
 language: "Rust"
 homepage: "https://zap.justpush.cloud"
 mcp_support: "True"

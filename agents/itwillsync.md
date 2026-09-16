@@ -14,7 +14,7 @@ platforms:
   - "Web"
 first_released: "2026-02-26"
 current_release: "2026-08-07"
-stars: "97"
+stars: "99"
 language: "TypeScript"
 homepage: "https://shrijayan.github.io/itwillsync/"
 mcp_support: "no"

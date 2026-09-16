@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-01-28"
 current_release: "2026-08-20"
-stars: "26251"
+stars: "27153"
 language: "Swift"
 homepage: null
 mcp_support: null

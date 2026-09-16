@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-03"
 current_release: "2026-08-18"
-stars: "122"
+stars: "146"
 language: "TypeScript"
 homepage: "https://www.looptroop.ovh/"
 mcp_support: "no"

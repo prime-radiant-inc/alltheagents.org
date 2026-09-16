@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-03"
 current_release: "2026-08-19"
-stars: "910"
+stars: "943"
 language: "Go"
 homepage: "https://sandboxd.io/"
 mcp_support: "no"

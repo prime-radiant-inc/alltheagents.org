@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-03-03"
 current_release: "2026-08-12"
-stars: "220"
+stars: "232"
 language: "Go (CLI), Swift (iOS/macOS app), Rust (sandbox backend)"
 homepage: "https://hermagent.com"
 mcp_support: "no"

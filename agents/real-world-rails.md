@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-23"
 current_release: "2026-08-17"
-stars: "537"
+stars: "539"
 language: "Ruby"
 homepage: null
 mcp_support: "no"

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-10-13"
 current_release: "2026-08-19"
-stars: "14355"
+stars: "17461"
 language: "TypeScript"
 homepage: "https://paseo.sh"
 mcp_support: "yes (packages/server includes an MCP server; transport not specified)"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-09-01"
 current_release: "2026-03-09"
-stars: "11003"
+stars: "11009"
 language: "Python, React"
 homepage: "https://valuecell.ai"
 mcp_support: "yes"

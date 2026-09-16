@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-02-22"
 current_release: "2026-08-20"
-stars: null
+stars: "145301"
 language: "TypeScript, JavaScript (Node.js)"
 homepage: "https://code.claude.com/docs/en/overview"
 mcp_support: "True"

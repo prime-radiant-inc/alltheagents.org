@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-10-29"
 current_release: "2025-01-23"
-stars: "72"
+stars: "71"
 language: "Python"
 homepage: "https://maven.com/shaw-talebi/ai-builders-bootcamp"
 mcp_support: "no"

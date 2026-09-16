@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-05-29"
 current_release: "2026-08-19"
-stars: "14"
+stars: "21"
 language: "Rust"
 homepage: "https://repomon.alihamzaazam.com"
 mcp_support: "True"

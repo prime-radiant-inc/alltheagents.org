@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-01-09"
 current_release: "2026-08-19"
-stars: "3102"
+stars: "3256"
 language: "Rust"
 homepage: "http://www.agent-of-empires.com/"
 mcp_support: "no"

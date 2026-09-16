@@ -11,7 +11,7 @@ source_available: "yes"
 platforms: []
 first_released: "2026-04-02"
 current_release: "2026-08-19"
-stars: "706"
+stars: "741"
 language: "TypeScript, Python"
 homepage: "https://math-ai-org.github.io/mathcode"
 mcp_support: "yes"

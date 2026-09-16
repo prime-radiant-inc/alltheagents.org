@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-12-03"
 current_release: "2026-08-17"
-stars: "754"
+stars: "906"
 language: "Go"
 homepage: "https://discord.gg/e4xSs6NBN8"
 mcp_support: "yes (built-in MCP Manager with socket pooling; stdio; 85-90% memory reduction)"

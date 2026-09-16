@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-15"
 current_release: "2026-07-12"
-stars: "144"
+stars: "149"
 language: "Python"
 homepage: "https://larens94.github.io/codedna"
 mcp_support: null

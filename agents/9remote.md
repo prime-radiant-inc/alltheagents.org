@@ -14,7 +14,7 @@ platforms:
   - "Desktop"
 first_released: "2026-04-18"
 current_release: "2026-04-20"
-stars: "521"
+stars: "570"
 language: "TypeScript, JavaScript"
 homepage: "https://9remote.cc"
 mcp_support: "no"

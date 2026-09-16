@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-08-06"
 current_release: "2026-08-06"
-stars: "302"
+stars: "304"
 language: "Python"
 homepage: "https://github.com/Prorise-cool/Claude-Code-Multi-Agent"
 mcp_support: "True"

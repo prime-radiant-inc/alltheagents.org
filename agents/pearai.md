@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-10-03"
 current_release: "2025-05-20"
-stars: "706"
+stars: "713"
 language: "TypeScript"
 homepage: "https://trypear.ai"
 mcp_support: "yes"

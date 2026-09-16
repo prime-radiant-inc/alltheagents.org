@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-01-31"
 current_release: "2026-06-11"
-stars: "27"
+stars: "28"
 language: "Kotlin"
 homepage: "https://github.com/mulkymalikuldhrs"
 mcp_support: "no"

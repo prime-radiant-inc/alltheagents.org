@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-08-13"
 current_release: "2025-01-04"
-stars: "166"
+stars: "165"
 language: "Python"
 homepage: "https://code.leez.tech/doc"
 mcp_support: "no"

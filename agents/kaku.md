@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-02-07"
 current_release: "2026-08-16"
-stars: "5790"
+stars: "5913"
 language: "Rust"
 homepage: "https://kaku.fun"
 mcp_support: "no"

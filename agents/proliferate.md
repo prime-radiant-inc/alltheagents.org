@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-04-30"
 current_release: "2026-08-27"
-stars: 440
+stars: "503"
 language: "Rust"
 homepage: "https://proliferate.com"
 mcp_support: "yes"

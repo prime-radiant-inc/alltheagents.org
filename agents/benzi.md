@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-07-29"
 current_release: null
-stars: 37
+stars: "71"
 language: "Python"
 homepage: "https://benzi.fly.dev"
 mcp_support: null

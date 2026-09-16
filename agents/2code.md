@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-02-10"
 current_release: "2026-08-17"
-stars: "25"
+stars: "26"
 language: "TypeScript"
 homepage: "https://2code.akr.moe"
 mcp_support: "no"

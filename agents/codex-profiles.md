@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-04-25"
 current_release: "2026-08-09"
-stars: "96"
+stars: "157"
 language: "Bash"
 homepage: "https://ducksss.github.io/codex-profiles/"
 mcp_support: null

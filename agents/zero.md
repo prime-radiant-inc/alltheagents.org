@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-05-28"
 current_release: "2026-08-19"
-stars: "1590"
+stars: "1671"
 language: "Go"
 homepage: "https://zero.gitlawb.com"
 mcp_support: "yes - stdio; zero mcp manages MCP servers/tools, zero serve --mcp exposes Zero tools over MCP"

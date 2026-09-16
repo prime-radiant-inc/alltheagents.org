@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-05-26"
 current_release: "2026-06-18"
-stars: "111"
+stars: "113"
 language: "Markdown,Python"
 homepage: "https://harnessworks.github.io/harness-starter-kit/"
 mcp_support: "True"

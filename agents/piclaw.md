@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-02-17"
 current_release: "2026-08-19"
-stars: "823"
+stars: "861"
 language: "TypeScript"
 homepage: "https://rcarmo.github.io/projects/piclaw/"
 mcp_support: "yes (built-in via pi-mcp-adapter)"

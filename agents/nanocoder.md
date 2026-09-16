@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-07-30"
 current_release: "2026-08-20"
-stars: null
+stars: "2477"
 language: "TypeScript"
 homepage: "https://docs.nanocollective.org/nanocoder"
 mcp_support: "True"

@@ -20,6 +20,24 @@ def yaml_escape(s):
     s = str(s).replace('"', '\\"')
     return f'"{s}"'
 
+def parse_stars(raw):
+    """Parse a star count from a TSV cell into an int, or None when absent.
+
+    Star counts must be plain integers from the GitHub API. Anything else raises
+    rather than being coerced: the old `int(stars) if stars.isdigit() else None`
+    silently wrote `stars: null` for values like "193k", which dropped 51
+    well-known entries out of the /stars/ ranking without a warning.
+    """
+    s = (raw or "").strip().replace(",", "")
+    if not s:
+        return None
+    if s.isdigit():
+        return int(s)
+    raise ValueError(
+        f"star count must be a GitHub star count or empty; got {raw!r}. "
+        f"Populate it from sources/fetch_stars.py rather than typing a value."
+    )
+
 def main():
     os.makedirs(AGENTS_DIR, exist_ok=True)
     os.makedirs(DATA_DIR, exist_ok=True)
@@ -106,8 +124,8 @@ def main():
             fm_lines.append("platforms: []")
         fm_lines.append(f"first_released: {yaml_escape(r.get('first_released','').strip() or None)}")
         fm_lines.append(f"current_release: {yaml_escape(r.get('current_release','').strip() or None)}")
-        stars = r.get("stars","").strip()
-        fm_lines.append(f"stars: {int(stars) if stars.isdigit() else 'null'}")
+        stars = parse_stars(r.get("stars",""))
+        fm_lines.append(f"stars: {stars if stars is not None else 'null'}")
         fm_lines.append(f"language: {yaml_escape(r.get('language','').strip() or None)}")
         fm_lines.append(f"homepage: {yaml_escape(r.get('homepage','').strip() or None)}")
         # New enrichment fields (empty until enriched)
@@ -148,7 +166,7 @@ def main():
             "url": r.get("url","").strip() or None,
             "source_code_url": r.get("source_code_url","").strip() or None,
             "platforms": platforms,
-            "stars": int(stars) if stars.isdigit() else None,
+            "stars": stars,
             "first_released": r.get("first_released","").strip() or None,
             "language": r.get("language","").strip() or None,
             "description": description[:200],

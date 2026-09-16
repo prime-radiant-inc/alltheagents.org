@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-05-17"
 current_release: "2025-05-31"
-stars: "1045"
+stars: "1054"
 language: "Python"
 homepage: "https://github.com/shyamsaktawat/OpenAlpha_Evolve"
 mcp_support: "no"

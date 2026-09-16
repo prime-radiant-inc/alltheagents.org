@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-02-25"
 current_release: "2026-08-07"
-stars: "221"
+stars: "227"
 language: "C# / .NET"
 homepage: "https://codealta.github.io"
 mcp_support: null

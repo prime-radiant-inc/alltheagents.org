@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-11-11"
 current_release: "2026-08-13"
-stars: "223"
+stars: "225"
 language: "Go (backend), Vue 3 + TypeScript (frontend)"
 homepage: null
 mcp_support: null

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-21"
 current_release: "2026-08-04"
-stars: "1023"
+stars: "1036"
 language: "Python, TypeScript"
 homepage: "https://graperoot.dev"
 mcp_support: "yes (stdio)"

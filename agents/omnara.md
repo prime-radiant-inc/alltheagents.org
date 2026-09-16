@@ -13,7 +13,7 @@ platforms:
   - "Mobile"
 first_released: "2025-01-01"
 current_release: "2026-08-20"
-stars: "2747"
+stars: "2852"
 language: "TypeScript"
 homepage: "https://www.omnara.com"
 mcp_support: "yes"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-01-04"
 current_release: "2026-08-18"
-stars: "192"
+stars: "214"
 language: "TypeScript"
 homepage: "https://supercodeai.vercel.app"
 mcp_support: null

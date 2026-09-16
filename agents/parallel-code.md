@@ -14,7 +14,7 @@ platforms:
   - "Desktop"
 first_released: "2026-02-18"
 current_release: "2026-08-18"
-stars: "981"
+stars: "1011"
 language: "TypeScript"
 homepage: "https://parallelcode.app"
 mcp_support: "no"

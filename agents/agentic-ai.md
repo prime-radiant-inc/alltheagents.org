@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-12-16"
 current_release: "2025-01-10"
-stars: "1"
+stars: "2"
 language: "Python (FastAPI)"
 homepage: null
 mcp_support: "False"

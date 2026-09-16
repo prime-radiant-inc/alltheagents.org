@@ -5,8 +5,8 @@ layout: "agent.njk"
 category: "agent-sdk"
 maker: null
 license: null
-url: "https://github.com/YasinOnline/AgenticAI"
-source_code_url: "https://github.com/YasinOnline/AgenticAI"
+url: null
+source_code_url: null
 source_available: "False"
 platforms:
   - "Autonomous"

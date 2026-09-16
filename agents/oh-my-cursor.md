@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-02-07"
 current_release: "2026-07-02"
-stars: "107"
+stars: "109"
 language: "Markdown config, shell scripts"
 homepage: null
 mcp_support: "no"

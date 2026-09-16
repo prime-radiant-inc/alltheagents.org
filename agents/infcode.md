@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-10-29"
 current_release: "2025-11-25"
-stars: "62"
+stars: "63"
 language: "Python"
 homepage: "https://www.tokfinity.com/infcode"
 mcp_support: "no"

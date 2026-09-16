@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-01-05"
 current_release: "2026-01-19"
-stars: "211"
+stars: "216"
 language: "Swift"
 homepage: null
 mcp_support: "False"

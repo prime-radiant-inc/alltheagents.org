@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2010-06-30"
 current_release: "2026-08-17"
-stars: "3794"
+stars: "3812"
 language: "Java"
 homepage: "https://async-io.live"
 mcp_support: "yes (atmosphere-mcp module; MCP 2026-07-28 spec with Tasks, MCP Apps, OAuth resource server; transports over WebSocket/SSE/gRPC)"

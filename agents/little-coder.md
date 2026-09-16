@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2026-04-11"
 current_release: "2026-08-15"
-stars: "2457"
+stars: "2597"
 language: "TypeScript"
 homepage: "https://itayinbarr.github.io/little-coder/"
 mcp_support: null

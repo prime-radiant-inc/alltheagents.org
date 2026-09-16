@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-06-30"
 current_release: null
-stars: 590
+stars: "620"
 language: "TypeScript"
 homepage: "https://vendo.run"
 mcp_support: "yes"

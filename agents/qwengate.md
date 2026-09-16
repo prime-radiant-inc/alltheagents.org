@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-05-22"
 current_release: "2026-08-14"
-stars: "162"
+stars: "196"
 language: "TypeScript"
 homepage: "https://github.com/youssefvdel/qwen-gate"
 mcp_support: "no"

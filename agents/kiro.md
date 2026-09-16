@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-06-17"
 current_release: "2026-06-22"
-stars: "4201"
+stars: "4302"
 language: "TypeScript"
 homepage: "https://kiro.dev"
 mcp_support: "yes"

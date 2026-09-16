@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-05-13"
 current_release: "2026-07-29"
-stars: "65"
+stars: "64"
 language: "Rust, TypeScript"
 homepage: "https://sinew-ide.com/"
 mcp_support: "True"

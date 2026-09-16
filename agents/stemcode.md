@@ -14,7 +14,7 @@ platforms:
   - "Desktop"
 first_released: "2026-04-18"
 current_release: "2026-08-19"
-stars: "31"
+stars: "32"
 language: "C# / .NET"
 homepage: "https://rizwan3d.github.io/StemCode/"
 mcp_support: "True"

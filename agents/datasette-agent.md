@@ -33,7 +33,7 @@ plugin_docs_url: null
 config_docs_url: null
 model_providers: "OpenAI, Anthropic, Google Gemini, and any tool-calling model with an LLM plugin, including local models"
 pricing: "free"
-stars: "116"
+stars: "117"
 sources:
   - "github-issue"
 last_verified: "2026-09-11"

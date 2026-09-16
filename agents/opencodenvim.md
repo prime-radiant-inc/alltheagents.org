@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-06-27"
 current_release: "2026-08-18"
-stars: "926"
+stars: "941"
 language: "Lua"
 homepage: "https://github.com/sudo-tee/opencode.nvim"
 mcp_support: "yes — mcp_picker keymap and /mcp command to manage MCP server connections"

@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-12-23"
 current_release: "2026-08-17"
-stars: "72"
+stars: "74"
 language: "TypeScript"
 homepage: "https://github.com/AizenvoltPrime/damocles"
 mcp_support: "True"

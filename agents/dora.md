@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-01-17"
 current_release: "2026-03-10"
-stars: "108"
+stars: "109"
 language: "TypeScript"
 homepage: "https://dora-cli.dev"
 mcp_support: "True"

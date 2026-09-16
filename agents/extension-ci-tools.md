@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-02-26"
 current_release: "2026-08-10"
-stars: "52"
+stars: "53"
 language: "YAML, Shell, Makefile"
 homepage: null
 mcp_support: "False"

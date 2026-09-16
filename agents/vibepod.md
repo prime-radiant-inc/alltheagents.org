@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-02-10"
 current_release: "2026-08-18"
-stars: "134"
+stars: "163"
 language: "Python"
 homepage: "https://vibepod.dev"
 mcp_support: "no"

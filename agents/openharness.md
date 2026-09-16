@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-03-31"
 current_release: "2026-05-12"
-stars: "96"
+stars: "97"
 language: "TypeScript"
 homepage: "https://www.npmjs.com/package/@zhijiewang/openharness"
 mcp_support: "True"

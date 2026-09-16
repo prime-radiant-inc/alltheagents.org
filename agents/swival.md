@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-02-24"
 current_release: "2026-08-19"
-stars: "324"
+stars: "338"
 language: "Python"
 homepage: "https://swival.dev"
 mcp_support: "True"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-03"
 current_release: "2026-07-30"
-stars: "27"
+stars: "28"
 language: "Python"
 homepage: "https://datasciencemonkey.github.io/coding-agents-databricks-apps/"
 mcp_support: "True"

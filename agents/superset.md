@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2025-10-21"
 current_release: "2026-08-20"
-stars: "13105"
+stars: "14295"
 language: "TypeScript (Bun, React, Electron)"
 homepage: "https://superset.sh"
 mcp_support: "yes (MCP server; transport not specified)"

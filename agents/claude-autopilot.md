@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-08-21"
 current_release: "2025-08-21"
-stars: null
+stars: "249"
 language: "TypeScript"
 homepage: "https://github.com/benbasha/Claude-Autopilot#readme"
 mcp_support: "no"

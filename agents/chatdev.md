@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2023-08-28"
 current_release: "2026-07-24"
-stars: "34058"
+stars: "34319"
 language: "Python"
 homepage: "https://arxiv.org/abs/2307.07924"
 mcp_support: "yes (mcp_example directory, Blender MCP integration)"

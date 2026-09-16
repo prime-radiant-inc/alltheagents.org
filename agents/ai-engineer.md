@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-01-07"
 current_release: "2026-05-12"
-stars: "111"
+stars: "115"
 language: null
 homepage: "https://www.youtube.com/@aiDotEngineer/videos"
 mcp_support: "no"

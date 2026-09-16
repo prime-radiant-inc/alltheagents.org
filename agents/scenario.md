@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-04-04"
 current_release: "2026-08-19"
-stars: "952"
+stars: "965"
 language: "Python, TypeScript"
 homepage: "https://scenario.langwatch.ai"
 mcp_support: "no"

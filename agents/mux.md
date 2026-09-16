@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2025-09-17"
 current_release: "2026-08-20"
-stars: "1977"
+stars: "2022"
 language: "TypeScript"
 homepage: "https://mux.coder.com"
 mcp_support: "yes (.mcp.json config present)"

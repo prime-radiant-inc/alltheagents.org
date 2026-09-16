@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-01"
 current_release: "2026-08-10"
-stars: "971"
+stars: "1233"
 language: "TypeScript"
 homepage: "https://empryo.com/"
 mcp_support: "yes"

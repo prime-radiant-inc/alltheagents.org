@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-04-18"
 current_release: "2026-08-16"
-stars: "234"
+stars: "235"
 language: "Python"
 homepage: "https://pypi.org/project/hey-mindsdb/"
 mcp_support: "no"

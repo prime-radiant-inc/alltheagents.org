@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-25"
 current_release: "2026-08-19"
-stars: "1121"
+stars: "1146"
 language: "TypeScript"
 homepage: "https://docs.videodb.io/examples-and-tutorials/ai-copilots/call-md"
 mcp_support: "yes (stdio, HTTP)"

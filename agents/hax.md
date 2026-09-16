@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-24"
 current_release: "2026-08-19"
-stars: "262"
+stars: "790"
 language: "C"
 homepage: "https://usehax.dev"
 mcp_support: "False"

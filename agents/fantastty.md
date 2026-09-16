@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2026-02-06"
 current_release: "2026-07-03"
-stars: "47"
+stars: "48"
 language: "Swift (SwiftUI; uses Zig for Ghostty dependency)"
 homepage: null
 mcp_support: null

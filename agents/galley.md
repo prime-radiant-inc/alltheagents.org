@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-05-07"
 current_release: "2026-08-19"
-stars: "17"
+stars: "18"
 language: "Go"
 homepage: null
 mcp_support: "no"

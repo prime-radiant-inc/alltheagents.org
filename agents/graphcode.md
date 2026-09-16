@@ -32,7 +32,7 @@ plugin_docs_url: null
 config_docs_url: null
 model_providers: "Claude Code, GitHub Copilot CLI, Codex CLI, OpenCode (the agent CLIs bring their own providers)"
 pricing: "free"
-stars: "102"
+stars: "121"
 sources:
   - "github-issue"
 last_verified: "2026-09-11"

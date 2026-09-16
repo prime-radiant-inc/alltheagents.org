@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-07-27"
 current_release: "2026-08-20"
-stars: null
+stars: "29476"
 language: "Python"
 homepage: "https://docs.langchain.com/deepagents"
 mcp_support: "True"

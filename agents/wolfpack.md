@@ -15,7 +15,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-01-30"
 current_release: "2026-08-19"
-stars: "37"
+stars: "39"
 language: "TypeScript, JavaScript (Bun), Rust (PTY broker)"
 homepage: "https://get-wolfpack.netlify.app/"
 mcp_support: "no"

@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-07-05"
 current_release: "2026-08-18"
-stars: "92"
+stars: "114"
 language: "Rust"
 homepage: "https://aizen-stack.vercel.app"
 mcp_support: "True"

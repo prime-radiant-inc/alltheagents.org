@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-11"
 current_release: "2026-05-19"
-stars: "95"
+stars: "100"
 language: "Python"
 homepage: null
 mcp_support: null

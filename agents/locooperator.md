@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-21"
 current_release: "2026-02-25"
-stars: "160"
+stars: "159"
 language: "Python"
 homepage: "https://locoremind.com/blog/loco-operator"
 mcp_support: "no"

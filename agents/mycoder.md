@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-02-07"
 current_release: "2026-01-07"
-stars: "566"
+stars: "568"
 language: "TypeScript"
 homepage: "https://mycoder.ai"
 mcp_support: "yes"

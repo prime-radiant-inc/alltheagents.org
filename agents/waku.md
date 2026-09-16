@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2026-07-31"
 current_release: "2026-08-24"
-stars: 1278
+stars: "1494"
 language: "Rust"
 homepage: "https://waku.sh"
 mcp_support: null

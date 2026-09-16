@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-02-11"
 current_release: "2026-06-29"
-stars: "245"
+stars: "244"
 language: "Rust"
 homepage: "https://amrit110.github.io/oli/"
 mcp_support: "False"

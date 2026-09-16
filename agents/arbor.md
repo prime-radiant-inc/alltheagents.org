@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-03-04"
 current_release: "2026-06-12"
-stars: "802"
+stars: "814"
 language: "Rust"
 homepage: "https://penso.github.io/arbor/"
 mcp_support: "yes (arbor-mcp stdio server)"

@@ -6,8 +6,8 @@ category: "agent"
 maker: "mutyai"
 license: "Apache-2.0"
 url: "https://open-vsx.org/extension/mutyai/mutyagent"
-source_code_url: "https://github.com/mutyai/mutyai.git"
-source_available: "True"
+source_code_url: null
+source_available: "False"
 platforms:
   - "IDE"
 first_released: "2026-05-30"

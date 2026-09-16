@@ -13,7 +13,7 @@ platforms:
   - "CLI"
 first_released: "2024-07-06"
 current_release: "2026-08-20"
-stars: null
+stars: "68200"
 language: "TypeScript"
 homepage: "https://cline.bot"
 mcp_support: "True"

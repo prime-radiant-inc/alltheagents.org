@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2026-05-31"
 current_release: "2026-08-27"
-stars: 5234
+stars: "7341"
 language: "JavaScript"
 homepage: "https://munderdiffl.in"
 mcp_support: null

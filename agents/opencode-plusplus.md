@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-05-24"
 current_release: "2026-08-19"
-stars: "109"
+stars: "110"
 language: "TypeScript"
 homepage: "https://github.com/whut09/opencode-plusplus"
 mcp_support: "True"

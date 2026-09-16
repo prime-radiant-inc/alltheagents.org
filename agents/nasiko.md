@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-12"
 current_release: "2026-08-19"
-stars: "4959"
+stars: "6608"
 language: "Rust"
 homepage: "https://www.nasiko.com"
 mcp_support: "yes"

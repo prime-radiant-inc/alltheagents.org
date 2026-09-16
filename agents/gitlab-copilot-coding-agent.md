@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-11-20"
 current_release: "2025-12-11"
-stars: "41"
+stars: "42"
 language: "Python"
 homepage: null
 mcp_support: null

@@ -15,7 +15,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-12-12"
 current_release: "2026-08-19"
-stars: "178"
+stars: "192"
 language: "TypeScript"
 homepage: "https://www.autohand.ai/code/"
 mcp_support: "True"

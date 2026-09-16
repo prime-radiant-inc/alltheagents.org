@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2024-04-02"
 current_release: "2026-08-17"
-stars: null
+stars: "20339"
 language: "Python"
 homepage: "https://swe-agent.com"
 mcp_support: "no"

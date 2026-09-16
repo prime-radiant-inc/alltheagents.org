@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-01-17"
 current_release: "2026-08-02"
-stars: "198"
+stars: "205"
 language: "Go"
 homepage: "https://github.com/mattolson/agent-sandbox"
 mcp_support: "no"

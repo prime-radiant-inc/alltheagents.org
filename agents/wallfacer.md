@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-02-16"
 current_release: "2026-08-09"
-stars: "76"
+stars: "107"
 language: "Go"
 homepage: "https://wf.latere.ai/"
 mcp_support: null

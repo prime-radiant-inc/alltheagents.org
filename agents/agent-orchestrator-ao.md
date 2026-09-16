@@ -15,7 +15,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-02-13"
 current_release: "2026-08-19"
-stars: "9640"
+stars: "12103"
 language: "TypeScript"
 homepage: "http://aoagents.dev/"
 mcp_support: "no"

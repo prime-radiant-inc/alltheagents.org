@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-09"
 current_release: "2026-02-09"
-stars: "57"
+stars: "63"
 language: "Python"
 homepage: "https://medium.com/@fareedkhandev/building-modern-ai-agentic-systemagentic-system-optimization-for-effective-planning-and-tool-f698e831d730"
 mcp_support: "False"

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-19"
 current_release: "2026-05-31"
-stars: "657"
+stars: "694"
 language: "Markdown"
 homepage: null
 mcp_support: "no"

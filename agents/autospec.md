@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2024-05-20"
 current_release: "2026-05-15"
-stars: "61"
+stars: "62"
 language: "TypeScript"
 homepage: "https://autospec.dev"
 mcp_support: "no"

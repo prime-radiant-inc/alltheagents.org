@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-01"
 current_release: "2026-08-18"
-stars: "57"
+stars: "72"
 language: "Markdown, YAML, Shell"
 homepage: null
 mcp_support: "False"

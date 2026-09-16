@@ -11,7 +11,7 @@ source_available: "yes"
 platforms: []
 first_released: "2025-05-01"
 current_release: "2026-08-17"
-stars: "746"
+stars: "770"
 language: "Python"
 homepage: "https://swesmith.com/"
 mcp_support: "no"

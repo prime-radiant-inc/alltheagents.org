@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2024-10-20"
 current_release: "2025-02-20"
-stars: "53"
+stars: "54"
 language: "TypeScript"
 homepage: "https://github.com/lengff123/cursor-bridge"
 mcp_support: "False"

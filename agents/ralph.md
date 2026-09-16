@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-01-07"
 current_release: "2026-02-02"
-stars: "21543"
+stars: "21798"
 language: "Bash"
 homepage: "https://x.com/ryancarson/status/2008548371712135632"
 mcp_support: "no"

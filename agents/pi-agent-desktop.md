@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-07-22"
 current_release: "2026-08-16"
-stars: "217"
+stars: "403"
 language: "TypeScript/JavaScript (Next.js), Rust (Tauri)"
 homepage: "https://pi.348580.xyz"
 mcp_support: "no"

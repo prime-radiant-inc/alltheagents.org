@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-06-26"
 current_release: "2026-08-20"
-stars: null
+stars: "27894"
 language: "TypeScript"
 homepage: "https://qwenlm.github.io/qwen-code-docs/en/users/overview"
 mcp_support: "True"

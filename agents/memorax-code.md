@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-08-01"
 current_release: "2026-08-19"
-stars: "399"
+stars: "1298"
 language: "TypeScript"
 homepage: "https://code.memorax.net/"
 mcp_support: null

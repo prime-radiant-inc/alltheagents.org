@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-08-21"
 current_release: "2026-08-03"
-stars: "554"
+stars: "556"
 language: "TypeScript"
 homepage: "https://giselles.ai"
 mcp_support: "no"

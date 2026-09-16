@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-08"
 current_release: "2026-06-27"
-stars: "50"
+stars: "51"
 language: "JavaScript, TypeScript"
 homepage: "https://lavra.dev"
 mcp_support: null

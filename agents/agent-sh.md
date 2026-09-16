@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-04-08"
 current_release: "2026-08-14"
-stars: "66"
+stars: "68"
 language: "TypeScript"
 homepage: "https://agent-sh.dev"
 mcp_support: "False"

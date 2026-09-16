@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-21"
 current_release: "2026-08-08"
-stars: "62"
+stars: "69"
 language: "TypeScript"
 homepage: "https://github.com/shaftoe/pi-coding-agent-action"
 mcp_support: "no"

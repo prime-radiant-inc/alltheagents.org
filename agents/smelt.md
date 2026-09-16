@@ -14,7 +14,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-02-25"
 current_release: "2026-08-18"
-stars: "39"
+stars: "45"
 language: "Rust"
 homepage: "https://leonardcser.github.io/smelt/"
 mcp_support: null

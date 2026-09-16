@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-05-13"
 current_release: "2024-04-07"
-stars: "12186"
+stars: "12192"
 language: "Python"
 homepage: "https://twitter.com/SmolModels"
 mcp_support: "no"

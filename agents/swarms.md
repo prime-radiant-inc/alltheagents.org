@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2023-05-11"
 current_release: "2026-08-19"
-stars: "7069"
+stars: "7175"
 language: "Python"
 homepage: "https://docs.swarms.world"
 mcp_support: "yes"

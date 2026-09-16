@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-03-23"
 current_release: "2026-01-08"
-stars: "71"
+stars: "74"
 language: "TypeScript"
 homepage: "https://docs.aws.amazon.com/bedrock/latest/userguide/agents-multi-agent-collaboration.html"
 mcp_support: "False"

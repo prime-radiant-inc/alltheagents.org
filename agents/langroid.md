@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2023-04-16"
 current_release: "2026-08-18"
-stars: "4101"
+stars: "4104"
 language: "Python"
 homepage: "https://langroid.github.io/langroid/"
 mcp_support: "yes"

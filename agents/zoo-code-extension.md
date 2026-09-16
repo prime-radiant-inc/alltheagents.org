@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-08-23"
 current_release: "3.81.100414 (2026-08-28)"
-stars: null
+stars: "1857"
 language: null
 homepage: "https://zoocode.dev"
 mcp_support: "True"

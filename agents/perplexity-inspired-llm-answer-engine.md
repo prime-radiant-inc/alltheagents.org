@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-03-07"
 current_release: "2026-04-29"
-stars: "5038"
+stars: "5037"
 language: "TypeScript"
 homepage: "https://developersdigest.tech"
 mcp_support: "no"

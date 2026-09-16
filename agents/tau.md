@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-06-11"
 current_release: "2026-08-18"
-stars: "2368"
+stars: "2776"
 language: "Python"
 homepage: "http://twotimespi.dev/"
 mcp_support: "no"

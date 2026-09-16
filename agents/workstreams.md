@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-03-07"
 current_release: "2026-04-22"
-stars: "76"
+stars: "77"
 language: "TypeScript"
 homepage: "https://github.com/workstream-labs/workstreams"
 mcp_support: "no"

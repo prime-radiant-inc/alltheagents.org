@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2025-08-25"
 current_release: "2026-08-19"
-stars: "5323"
+stars: "5361"
 language: "TypeScript"
 homepage: "https://build.cloudflare.dev"
 mcp_support: "no"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-11-07"
 current_release: "2026-05-25"
-stars: "464"
+stars: "478"
 language: "TypeScript, Rust"
 homepage: "https://talkcody.com"
 mcp_support: "True"

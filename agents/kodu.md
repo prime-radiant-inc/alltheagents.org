@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2024-09-01"
 current_release: "2025-04-30"
-stars: null
+stars: "5222"
 language: "TypeScript"
 homepage: "https://www.kodu.ai"
 mcp_support: null

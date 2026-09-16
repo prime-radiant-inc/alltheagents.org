@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-04-21"
 current_release: "2026-08-19"
-stars: "168"
+stars: "173"
 language: "TypeScript"
 homepage: "https://kimiflare.com"
 mcp_support: "True"

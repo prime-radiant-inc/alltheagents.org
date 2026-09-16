@@ -5,9 +5,9 @@ layout: "agent.njk"
 category: "other"
 maker: "Independent"
 license: "MIT"
-url: "https://github.com/continous-ai/continous"
-source_code_url: "https://github.com/continous-ai/continous"
-source_available: "True"
+url: null
+source_code_url: null
+source_available: "False"
 platforms:
   - "CLI"
 first_released: "2025"

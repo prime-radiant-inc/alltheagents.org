@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2025-06-29"
 current_release: "2025-07-05"
-stars: "60"
+stars: "61"
 language: "TypeScript"
 homepage: null
 mcp_support: "True"

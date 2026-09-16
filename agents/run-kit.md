@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-03-02"
 current_release: "2026-08-19"
-stars: "56"
+stars: "59"
 language: "TypeScript"
 homepage: "https://shll.ai/run-kit"
 mcp_support: "False"

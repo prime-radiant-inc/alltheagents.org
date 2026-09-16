@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-06-04"
 current_release: "2026-08-19"
-stars: "1158"
+stars: "1113"
 language: "Shell, Python"
 homepage: "https://agentlas.cloud"
 mcp_support: "yes"

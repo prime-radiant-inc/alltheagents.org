@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-03-10"
 current_release: "2026-08-01"
-stars: "144"
+stars: "163"
 language: "TypeScript"
 homepage: "https://www.orch.one/"
 mcp_support: "no"

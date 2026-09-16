@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2021-09-06"
 current_release: "2026-08-19"
-stars: "7724"
+stars: "7962"
 language: "Go"
 homepage: "https://yaoagents.com"
 mcp_support: "yes"

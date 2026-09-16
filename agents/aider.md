@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2023-05-09"
 current_release: "2026-05-22"
-stars: null
+stars: "48995"
 language: "Python"
 homepage: "https://aider.chat/"
 mcp_support: null

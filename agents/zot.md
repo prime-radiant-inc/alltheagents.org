@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-17"
 current_release: "2026-08-17"
-stars: "319"
+stars: "342"
 language: "Go"
 homepage: "https://zot.sh"
 mcp_support: "no"

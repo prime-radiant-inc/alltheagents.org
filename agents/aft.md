@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-15"
 current_release: "2026-08-19"
-stars: "254"
+stars: "292"
 language: "Rust"
 homepage: "https://discord.gg/DSa65w8wuf"
 mcp_support: "False"

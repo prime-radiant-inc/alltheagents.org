@@ -14,7 +14,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-07-29"
 current_release: "2026-08-17"
-stars: "5"
+stars: "23"
 language: "TypeScript"
 homepage: "https://factory.ai"
 mcp_support: "yes"

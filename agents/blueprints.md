@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2024-01-29"
 current_release: "2024-09-09"
-stars: "61"
+stars: "62"
 language: "Ruby"
 homepage: "https://blueprints.sublayer.com"
 mcp_support: "no"

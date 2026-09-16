@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-06-25"
 current_release: "2026-08-19"
-stars: "4481"
+stars: "4713"
 language: "Multi-language (frontend, backend, desktop, mobile)"
 homepage: "https://monkeycode-ai.net/"
 mcp_support: "no"

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-07-29"
 current_release: "2026-08-19"
-stars: "1079"
+stars: "1296"
 language: "Python"
 homepage: "https://awslabs.github.io/cli-agent-orchestrator/"
 mcp_support: "yes"

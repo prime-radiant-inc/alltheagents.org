@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2019-11-20"
 current_release: "2026-08-19"
-stars: "16182"
+stars: "16255"
 language: "Go"
 homepage: "https://dagger.io"
 mcp_support: null

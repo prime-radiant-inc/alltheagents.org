@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-12-19"
 current_release: "2024-12-19"
-stars: "47"
+stars: "49"
 language: "Python (FastAPI, LangChain, pytest)"
 homepage: null
 mcp_support: null

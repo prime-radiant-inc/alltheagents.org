@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-02-07"
 current_release: "2026-08-17"
-stars: "64"
+stars: "67"
 language: "Python"
 homepage: "https://untether.cc"
 mcp_support: "no"

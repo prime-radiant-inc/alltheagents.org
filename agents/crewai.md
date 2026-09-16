@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2023-10-27"
 current_release: "2026-08-20"
-stars: "57338"
+stars: "58655"
 language: "Python"
 homepage: "https://crewai.com"
 mcp_support: "yes (MCP/A2A support)"

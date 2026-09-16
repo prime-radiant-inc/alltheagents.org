@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2017-12-20"
 current_release: "2026-08-15"
-stars: null
+stars: "3959"
 language: null
 homepage: "https://commandcode.ai"
 mcp_support: null

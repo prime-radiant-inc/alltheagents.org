@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-06-18"
 current_release: "2026-08-18"
-stars: "41"
+stars: "48"
 language: "Python"
 homepage: "https://haizhaoyang.github.io/research/autoresearch.html"
 mcp_support: "no"

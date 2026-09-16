@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-08-26"
 current_release: "2026-08-26"
-stars: null
+stars: "9924"
 language: "TypeScript"
 homepage: "https://github.com/openchamber/openchamber#readme"
 mcp_support: null

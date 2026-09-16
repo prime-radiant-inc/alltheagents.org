@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-12-25"
 current_release: "2026-08-19"
-stars: "1703"
+stars: "1835"
 language: "TypeScript/Node.js + Rust components"
 homepage: "https://www.theopenengine.com"
 mcp_support: "no"

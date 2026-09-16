@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-05-30"
 current_release: "2026-08-17"
-stars: "289"
+stars: "303"
 language: "TypeScript, Rust"
 homepage: "https://github.com/wellingfeng/UltraGameStudio"
 mcp_support: "no"

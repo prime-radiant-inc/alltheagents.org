@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-09-11"
 current_release: "2026-03-23"
-stars: "6174"
+stars: "6172"
 language: "Python"
 homepage: "https://microsoft.github.io/TaskWeaver/"
 mcp_support: "no"

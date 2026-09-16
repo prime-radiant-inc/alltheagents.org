@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-04-13"
 current_release: "2026-08-19"
-stars: "52089"
+stars: "53096"
 language: "JavaScript"
 homepage: "https://docs.bmad-method.org"
 mcp_support: "no"

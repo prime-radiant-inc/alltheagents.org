@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-04-18"
 current_release: "2024-12-15"
-stars: "6"
+stars: "7"
 language: "Python"
 homepage: "https://arxiv.org/pdf/2406.08689"
 mcp_support: "False"

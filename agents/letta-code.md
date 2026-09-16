@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-10-25"
 current_release: "2026-08-20"
-stars: null
+stars: "3355"
 language: "TypeScript"
 homepage: "https://www.letta.com/agent"
 mcp_support: null

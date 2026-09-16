@@ -14,7 +14,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-01-16"
 current_release: "2026-02-10"
-stars: "257"
+stars: "259"
 language: "TypeScript"
 homepage: "https://www.terragonlabs.com/"
 mcp_support: "True"

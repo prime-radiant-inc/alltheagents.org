@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-02-18"
 current_release: "2026-08-19"
-stars: "246"
+stars: "260"
 language: "TypeScript"
 homepage: "https://dev3.h0x91b.com/"
 mcp_support: "True"

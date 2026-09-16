@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2026-06-12"
 current_release: "2026-08-20"
-stars: "3311"
+stars: "3752"
 language: "Go"
 homepage: "https://tutti.sh/"
 mcp_support: "no"

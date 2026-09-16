@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-01"
 current_release: "2026-07-24"
-stars: "2"
+stars: "3"
 language: "TypeScript"
 homepage: "https://sean35mm.github.io/weaver/"
 mcp_support: "False"

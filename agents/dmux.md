@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-08-20"
 current_release: "2026-08-16"
-stars: "1744"
+stars: "1773"
 language: "TypeScript / Node.js"
 homepage: "https://dmux.ai"
 mcp_support: "no - .playwright-mcp dir present but not a documented feature"

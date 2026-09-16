@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2025-05-03"
 current_release: "2025-07-25"
-stars: "2240"
+stars: "2258"
 language: "Python"
 homepage: null
 mcp_support: "yes (SSE and stdio)"

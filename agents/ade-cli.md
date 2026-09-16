@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-03-12"
 current_release: "2026-08-19"
-stars: "2404"
+stars: "2417"
 language: "Python"
 homepage: "https://docs.landing.ai/ade/ade-overview"
 mcp_support: "no"

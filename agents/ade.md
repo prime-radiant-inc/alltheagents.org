@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-10"
 current_release: "2026-08-20"
-stars: "89"
+stars: "106"
 language: "JavaScript/TypeScript"
 homepage: "https://www.ade-app.dev"
 mcp_support: null

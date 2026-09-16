@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-07-19"
 current_release: "2025-01-27"
-stars: "601"
+stars: "600"
 language: "Python, YAML"
 homepage: "https://github.com/ErikBjare/are-copilots-local-yet"
 mcp_support: "n/a"

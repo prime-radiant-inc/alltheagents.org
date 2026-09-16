@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-05-12"
 current_release: "2026-08-19"
-stars: "1583"
+stars: "1673"
 language: "Rust"
 homepage: "https://gi-dellav.github.io/zerostack/"
 mcp_support: "yes - optional compile-time feature"

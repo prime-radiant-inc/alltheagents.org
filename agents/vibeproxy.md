@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2025-10-04"
 current_release: "2026-08-20"
-stars: "3295"
+stars: "3357"
 language: "Swift"
 homepage: "https://github.com/automazeio/vibeproxy"
 mcp_support: "no"

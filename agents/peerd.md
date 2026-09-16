@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-06-22"
 current_release: "2026-08-20"
-stars: "392"
+stars: "408"
 language: "JavaScript"
 homepage: "https://peerd.ai"
 mcp_support: "no"

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-20"
 current_release: "2026-08-19"
-stars: "14"
+stars: "21"
 language: "TypeScript"
 homepage: "https://agi-cli.sh"
 mcp_support: "True"

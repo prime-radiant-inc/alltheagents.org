@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-11-15"
 current_release: "2026-03-12"
-stars: "230"
+stars: "233"
 language: null
 homepage: "https://trl.mx/conduit"
 mcp_support: null

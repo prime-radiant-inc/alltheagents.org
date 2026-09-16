@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-09"
 current_release: "2026-04-19"
-stars: "233"
+stars: "235"
 language: "TypeScript/JavaScript (Bun)"
 homepage: "https://vibe-stack.github.io/ggez/"
 mcp_support: "no"

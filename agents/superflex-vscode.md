@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-06-25"
 current_release: "2025-11-19"
-stars: "392"
+stars: "393"
 language: "TypeScript"
 homepage: "https://superflex.ai/"
 mcp_support: null

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-28"
 current_release: "2026-08-19"
-stars: "24"
+stars: "25"
 language: "Python"
 homepage: "https://vishal2612200.github.io/agentpack/"
 mcp_support: "True"

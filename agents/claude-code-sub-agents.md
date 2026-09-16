@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-06-16"
 current_release: "2025-06-16"
-stars: "43"
+stars: "42"
 language: "Markdown"
 homepage: "https://github.com/yzyydev/claude_code_sub_agents"
 mcp_support: "no"

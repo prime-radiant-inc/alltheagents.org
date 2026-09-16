@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-03-31"
 current_release: "2026-07-16"
-stars: "4598"
+stars: "4609"
 language: "TypeScript"
 homepage: "https://chef.convex.dev"
 mcp_support: "no"

@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-05-07"
 current_release: "2026-08-19"
-stars: "572"
+stars: "771"
 language: "TypeScript"
 homepage: "https://pi-web.dev/"
 mcp_support: "no"

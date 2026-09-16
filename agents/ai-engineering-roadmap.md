@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-05-13"
 current_release: "2026-06-03"
-stars: "1037"
+stars: "1135"
 language: "N/A (curriculum/educational resource)"
 homepage: null
 mcp_support: "no"

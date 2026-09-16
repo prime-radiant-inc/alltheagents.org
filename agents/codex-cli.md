@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-04-13"
 current_release: "2026-08-19"
-stars: null
+stars: "124693"
 language: "Rust, TypeScript"
 homepage: "https://developers.openai.com/codex"
 mcp_support: "True"

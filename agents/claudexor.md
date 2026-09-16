@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-06-05"
 current_release: "2026-08-20"
-stars: "416"
+stars: "468"
 language: "TypeScript, Swift"
 homepage: "https://claudexor.ai/"
 mcp_support: "True"

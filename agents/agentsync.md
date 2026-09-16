@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-01-15"
 current_release: "2026-08-19"
-stars: "54"
+stars: "57"
 language: "Rust, TypeScript"
 homepage: "https://dallay.github.io/agentsync/"
 mcp_support: "True"

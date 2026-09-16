@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-08-04"
 current_release: "2026-08-14"
-stars: "1217"
+stars: "3347"
 language: "HTML"
 homepage: "https://www.fuxicode.com"
 mcp_support: "yes (stdio; both MCP client and server)"

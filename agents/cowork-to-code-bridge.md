@@ -15,7 +15,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-05-28"
 current_release: "2026-08-07"
-stars: "12"
+stars: "13"
 language: "Python"
 homepage: "https://github.com/abhinaykrupa/cowork-to-code-bridge#install--two-pastes-total"
 mcp_support: "True"

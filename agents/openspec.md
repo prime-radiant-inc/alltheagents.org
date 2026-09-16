@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2025-08-05"
 current_release: "2026-08-19"
-stars: "65558"
+stars: "68500"
 language: "TypeScript"
 homepage: "https://openspec.dev/"
 mcp_support: "no"

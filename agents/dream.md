@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-05-11"
 current_release: "2026-08-19"
-stars: "41"
+stars: "42"
 language: "TypeScript"
 homepage: "https://dreamide.app"
 mcp_support: null

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2020-09-01"
 current_release: "2026-08-20"
-stars: "35002"
+stars: "35429"
 language: "Rust"
 homepage: "https://zellij.dev"
 mcp_support: "no"

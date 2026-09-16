@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-04-09"
 current_release: "2026-05-07"
-stars: "102"
+stars: "106"
 language: "Go"
 homepage: "https://www.npmjs.com/package/stacklit"
 mcp_support: "True"

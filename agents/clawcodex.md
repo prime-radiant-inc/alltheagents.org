@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-04-20"
 current_release: "2026-08-17"
-stars: "864"
+stars: "899"
 language: "Python"
 homepage: "https://clawcodex.app"
 mcp_support: "partial — MCP-oriented tools and wiring implemented; clawcodex mcp serve re-exposes tools as MCP stdio server; OAuth server auth; full protocol polish ongoing"

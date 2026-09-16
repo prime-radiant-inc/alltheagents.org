@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-04-30"
 current_release: "2026-08-20"
-stars: null
+stars: "207847"
 language: "TypeScript, JavaScript (Node.js, Bun, Turborepo monorepo)"
 homepage: "https://opencode.ai"
 mcp_support: "True"

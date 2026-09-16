@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2022-12-06"
 current_release: "2026-08-15"
-stars: null
+stars: "6021"
 language: "TypeScript"
 homepage: "https://marketplace.visualstudio.com/items?itemName=pkrd.ocursor"
 mcp_support: "True"

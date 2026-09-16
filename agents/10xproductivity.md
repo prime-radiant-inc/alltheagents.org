@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-03-17"
 current_release: "2026-07-13"
-stars: "467"
+stars: "474"
 language: "Python"
 homepage: "https://github.com/ZhixiangLuo/10xProductivity"
 mcp_support: "no"

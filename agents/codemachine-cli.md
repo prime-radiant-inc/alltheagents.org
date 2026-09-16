@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-09-28"
 current_release: "2026-02-25"
-stars: "2512"
+stars: "2510"
 language: "TypeScript"
 homepage: "https://codemachine.co/"
 mcp_support: null

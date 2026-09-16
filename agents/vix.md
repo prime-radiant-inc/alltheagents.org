@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-04-07"
 current_release: "2026-07-28"
-stars: "264"
+stars: "277"
 language: "Go"
 homepage: "https://getvix.dev"
 mcp_support: "True"

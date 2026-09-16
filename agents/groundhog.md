@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-03-03"
 current_release: "2025-08-20"
-stars: "403"
+stars: "405"
 language: "Rust"
 homepage: "https://ghuntley.com/specs"
 mcp_support: "no"

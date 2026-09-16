@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2026-04-15"
 current_release: "2026-08-19"
-stars: "171"
+stars: "194"
 language: "C#"
 homepage: "https://tendril.ivy.app"
 mcp_support: null

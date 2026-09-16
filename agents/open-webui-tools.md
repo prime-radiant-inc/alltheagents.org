@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2024-11-09"
 current_release: "2026-08-19"
-stars: "794"
+stars: "811"
 language: "Python"
 homepage: "https://openwebui.com/u/Haervwe"
 mcp_support: "yes (Planner Agent v3 with MCP support, connection deduplication, parallelism patches)"

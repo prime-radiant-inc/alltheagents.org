@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-02-13"
 current_release: "2026-08-17"
-stars: "246"
+stars: "247"
 language: "Python"
 homepage: "https://www.codeflash.ai"
 mcp_support: "False"

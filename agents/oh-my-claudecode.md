@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2026-01-09"
 current_release: "2026-08-18"
-stars: "38670"
+stars: "39196"
 language: "TypeScript"
 homepage: "https://oh-my-claudecode.dev"
 mcp_support: "partial (.mcp.json exists; v4.4.0 removed Codex/Gemini MCP servers in favor of CLI-first tmux workers)"

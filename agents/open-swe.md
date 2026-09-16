@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-05-21"
 current_release: "2026-08-19"
-stars: null
+stars: "10729"
 language: "Python"
 homepage: "https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents"
 mcp_support: "True"

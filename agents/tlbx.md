@@ -14,7 +14,7 @@ platforms:
   - "Desktop"
 first_released: "2025-12-29"
 current_release: "2026-08-18"
-stars: "102"
+stars: "110"
 language: ".NET 10 Native AOT, TypeScript, xterm.js"
 homepage: "https://tlbx.ai"
 mcp_support: "no"

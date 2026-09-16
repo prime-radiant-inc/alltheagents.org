@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-09-16"
 current_release: "2026-03-30"
-stars: "48"
+stars: "49"
 language: "TypeScript / JavaScript (Node.js)"
 homepage: "https://github.com/shinpr/agentic-code"
 mcp_support: "True"

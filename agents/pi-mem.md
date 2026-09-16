@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-11"
 current_release: "2026-07-21"
-stars: "73"
+stars: "77"
 language: "TypeScript"
 homepage: "https://www.npmjs.com/package/@jo-inc/pi-mem"
 mcp_support: "no"

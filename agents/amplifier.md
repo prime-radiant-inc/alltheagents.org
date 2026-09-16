@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-09-09"
 current_release: "2026-08-19"
-stars: "3117"
+stars: "3125"
 language: "Shell"
 homepage: null
 mcp_support: "True"

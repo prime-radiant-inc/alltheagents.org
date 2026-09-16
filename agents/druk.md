@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-07-24"
 current_release: "2026-08-19"
-stars: "596"
+stars: "690"
 language: "TypeScript"
 homepage: "https://druk.sh"
 mcp_support: "no"

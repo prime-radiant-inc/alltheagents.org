@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-03-31"
 current_release: "2026-04-01"
-stars: "9"
+stars: "10"
 language: "TypeScript"
 homepage: "https://cli.darce.dev"
 mcp_support: "no"

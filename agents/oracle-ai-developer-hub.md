@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-01-16"
 current_release: "2026-08-18"
-stars: "4339"
+stars: "4376"
 language: "Python"
 homepage: "https://oracle-devrel.github.io/oracle-ai-developer-hub/"
 mcp_support: "yes"

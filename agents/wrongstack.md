@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-05-12"
 current_release: "2026-08-19"
-stars: "236"
+stars: "323"
 language: "TypeScript"
 homepage: "https://wrongstack.com/"
 mcp_support: "True"
