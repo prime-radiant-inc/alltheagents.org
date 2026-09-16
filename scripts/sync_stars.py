@@ -219,6 +219,18 @@ def main():
         for e, why in unresolved:
             print(f"  {e['name'][:32]:34} {e['repo'][:40]:42} {why}")
 
+    # A repo the API serves under a different name was renamed or transferred.
+    # Usually that is the same project and the count is right, but it is also how
+    # an out-of-date URL ends up reporting a different project's stars (the NeMo
+    # Agent Toolkit entry pointed at NVIDIA/NeMo, which is now the Speech repo),
+    # so surface them for a look.
+    renamed = [(k, v.get("full_name")) for k, v in snapshot.items()
+               if v.get("full_name") and v["full_name"].lower() != k.lower()]
+    if renamed:
+        print(f"\nRenamed/transferred repos ({len(renamed)}) -- confirm each is the same project:")
+        for k, fn in sorted(renamed):
+            print(f"  {k:44} -> {fn}")
+
     if args.report:
         if updates:
             print("\nWould update (showing 15):")

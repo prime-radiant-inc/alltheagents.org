@@ -33408,7 +33408,7 @@
     "maker": "NVIDIA",
     "license": "Apache-2.0",
     "url": "https://developer.nvidia.com/nemo-agent-toolkit",
-    "source_code_url": "https://github.com/NVIDIA/NeMo",
+    "source_code_url": "https://github.com/NVIDIA/NeMo-Agent-Toolkit",
     "source_available": "True",
     "platforms": [
       "CLI",
@@ -33416,7 +33416,7 @@
     ],
     "first_released": "2024",
     "current_release": "2026",
-    "stars": 18463,
+    "stars": 2634,
     "language": "Python",
     "homepage": "https://developer.nvidia.com/nemo-agent-toolkit",
     "description": "NeMo Agent Toolkit connects teams of AI agents to data sources and tools without requiring replatforming onto NVIDIA's stack, wrapping existing frameworks rather than replacing them. Workflows are dec",

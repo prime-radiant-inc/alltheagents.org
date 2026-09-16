@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T14:54:58+00:00",
+  "fetched_at": "2026-09-16T14:58:02+00:00",
   "repos": {
     "0xpayne/gpt-migrate": {
       "archived": false,
@@ -3849,6 +3849,12 @@
       "error": null,
       "full_name": "NVIDIA-NeMo/Speech",
       "stargazers_count": 18463
+    },
+    "nvidia/nemo-agent-toolkit": {
+      "archived": false,
+      "error": null,
+      "full_name": "NVIDIA/NeMo-Agent-Toolkit",
+      "stargazers_count": 2634
     },
     "obbylabs/obby-dev": {
       "archived": true,

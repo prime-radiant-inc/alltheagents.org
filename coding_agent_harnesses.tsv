@@ -1012,7 +1012,7 @@ Eigent AI	Eigent	Open-source	https://eigent.ai	https://github.com/eigent-ai/eige
 MCPlato	MCPlato	Proprietary	https://mcplato.com		No (proprietary)	Agent OS and software engineer platform	Web	2025	2026				web_search_multilingual
 Factory	Factory AI	Proprietary	https://www.factory.ai		No (proprietary)	Autonomous software engineer for $10 pricing handling full dev workflows	Web	2024	2026				web_search_multilingual
 Engine	Engine Labs	Proprietary	https://enginelabs.ai		No (proprietary)	Autonomous software engineer with high SWE-bench scores	Web;CLI	2025	2026				web_search_multilingual
-NVIDIA NeMo Agent Toolkit	NVIDIA	Apache-2.0	https://developer.nvidia.com/nemo-agent-toolkit	https://github.com/NVIDIA/NeMo	Yes	AI code generation agent toolkit from NVIDIA	CLI;Library	2024	2026	18463			web_search_multilingual
+NVIDIA NeMo Agent Toolkit	NVIDIA	Apache-2.0	https://developer.nvidia.com/nemo-agent-toolkit	https://github.com/NVIDIA/NeMo-Agent-Toolkit	Yes	AI code generation agent toolkit from NVIDIA	CLI;Library	2024	2026	2634			web_search_multilingual
 Canva AI Coding	Canva	Proprietary	https://www.canva.com/ai-coding/		No (proprietary)	Free AI coding tool by Canva for generating apps and designs	Web	2025	2026				web_search_multilingual
 CodeAGI	SOPPRA DX	Proprietary	https://soppradx.com		No (proprietary)	Program auto-generation AI app	Web	2024	2026				web_search_multilingual
 Otto	Otto	Open-source	https://github.com/otto-ai/otto	https://github.com/otto-ai/otto	Yes	Autonomous software engineer that runs in the browser	Web	2024	2026				web_search_multilingual
