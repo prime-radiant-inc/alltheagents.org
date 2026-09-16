@@ -38,5 +38,13 @@
     "makes_models": false,
     "revenue_model": [],
     "website": "https://graphcode.app"
+  },
+  "shisa-ai": {
+    "name": "shisa.ai",
+    "maker_type": "company",
+    "country": "JP",
+    "makes_models": true,
+    "revenue_model": [],
+    "website": "https://shisa.ai"
   }
 }
