@@ -36,6 +36,7 @@ pricing: "free"
 stars: "117"
 sources:
   - "github-issue"
+date_added: "2025-11-09"
 last_verified: "2026-09-11"
 what_makes_it_special: "It works with hundreds of tool-calling models, any model with an LLM plugin, and other Datasette plugins can register extra tools for it. With the Datasette Apps plugin installed alongside it, it can also build HTML applications that run in sandboxed frames against your databases."
 ---

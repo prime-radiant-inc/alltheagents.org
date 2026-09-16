@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Local-first AI engineering CLI implementing a 'compounding engineering' philosophy: every todo resolution automatically codifies learnings into a knowledge base that informs all future AI operations. Features 10+ parallel specialized review agents (security, performance, architecture), ReAct-based file editing with zero hallucination, isolated git worktrees, built on the DSPy framework."
+date_added: "2025-11-29"
 ---
 
 Most agent tools forget everything between tasks; this CLI's premise is that each unit of engineering work should make the next one easier. Every todo resolution codifies what was learned into a local knowledge base, and that knowledge base is injected into subsequent planning, review, and editing operations, so recurring issues stop recurring. Under that loop, DSPy programs run ten-plus specialized reviewers in parallel (security, performance, architecture, data integrity), a ReAct file editor gathers context before touching files, and plans can pull live documentation from the web. Work executes in isolated git worktrees with parallel workers, and a local knowledge base keeps code on the machine. It fits solo engineers or small teams who want review-and-implementation automation that accumulates institutional memory.

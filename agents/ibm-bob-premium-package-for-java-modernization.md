@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Java modernization agent with guided upgrades, migration, and unit test generation"
+date_added: "2026-08-06"
 ---
 
 IBM Bob Premium Package for Java Modernization targets enterprises running legacy WebSphere and Java EE estates that need structured, repeatable upgrades rather than ad-hoc chat. Each workflow runs inside IBM Bob: Java upgrades apply OpenRewrite-style recipes with agentic fix loops for compile errors, Liberty replatforming consumes an IBM AMA analysis report and injects server.xml and Containerfiles, and unit test generation uses JaCoCo coverage and can scope to changed code only. The UI modernization path splits JSF/Struts monoliths into a Java backend plus React frontend with REST APIs, and the vulnerability workflow scores Maven and Gradle dependencies against OSV.dev with optional fixes. It requires an IBM Bob subscription plus the Premium Package; the open-vsx listing is the distribution point.

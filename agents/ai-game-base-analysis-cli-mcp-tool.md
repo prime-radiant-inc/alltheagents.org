@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Game codebase analysis tool analyzing Unity/UE5/Axmol/.NET/C++ projects in <0.5s; provides dependency graphs, impact analysis, circular dep detection, dead code detection, call flow tracing (C++ to Blueprint), lint (19 anti-pattern rules), architecture advice, wiki cache for AI agents"
+date_added: "2026-03-22"
 ---
 
 Game codebases defeat ordinary static analysis because logic is split between scripts and engine assets, so the tool pairs a .NET parser (gdep.dll) with a Python CLI (gdep) and an npm-distributed MCP server (gdep-mcp). It builds dependency graphs, impact analysis, circular-dependency and dead-code detection, and call-flow tracing, then exposes them as MCP tools such as analyze_impact_and_risk and trace_gameplay_flow for Claude Desktop, Cursor, or any MCP client. A gdep init step writes a .gdep/AGENTS.md file so agents pick up project context automatically. Solo-dev team, 65 stars, Apache-2.0, distributed on PyPI and npm with multi-language READMEs.

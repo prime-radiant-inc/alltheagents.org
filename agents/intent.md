@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "AI-powered workspace by Augment Code where human teams and AI agents collaborate to plan and build software. Unifies code (repos, files, branches, diffs), context (specs, notes, scratchpads), and agents (fine-tuned/custom AI specialists). A built-in 'Coordinator' breaks goals into scoped tasks and delegates them to AI agents."
+date_added: "2026-08-19"
 ---
 
 Intent reframes the developer's role around direction-setting: tasks are declared at the level of outcomes, and a Coordinator agent decomposes each into a Living Spec that every assigned agent works from, keeping a durable record of decisions. Tasks run in isolated workspaces so agents never collide, and agents chain onward — watching for changes and starting the next task — while git handles commit, review, merge, and CI checks. Task panels expose agents, context, changes, files, browser, and shell; agents ask permission for actions like dependency installs and can be swapped for your own CLI agents per workspace. Figma integration supplies design context, and the app is distributed as open releases from intent-hq.

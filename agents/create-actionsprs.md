@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Automates creation of PRs across many repos to install/update GitHub Actions workflows (e.g., CodeQL). Three targeting modes: all repos in an org via API, custom file list of repos, auto-detect CodeQL-eligible repos. NOTE: This is a GitHub Actions automation script, not an AI coding agent harness."
+date_added: "2020-04-11"
 ---
 
 Before agents, keeping GitHub Actions workflows consistent across an organization meant repetitive manual PRs. Create-ActionsPRs automates that with a single PowerShell script: authenticate with a GitHub token, choose a targeting mode (every repo in an org via API, an explicit list of repositories, or all repos eligible for CodeQL using a bundled workflow file), and the script opens one pull request per repository installing or updating the workflow. It requires only PowerShell, git, the GitHub CLI, and a token with repo scope, and includes a ready-made CodeQL workflow for the third mode. The last meaningful development dates to 2023 and the repo is dormant, but security teams rolling out CodeQL at scale still fork it. It belongs in the census as 'other': classic automation that predates and contains no AI.

@@ -34,6 +34,7 @@ sources:
   - "caramaschi"
   - "tiennm"
 what_makes_it_special: "Local, open-source AI app builder for power users. Alternative to v0/Lovable/Replit/Bolt. Cross-platform, runs on your machine, bring your own API keys without vendor lock-in."
+date_added: "2025-04-11"
 ---
 
 Dyad moves the hosted app-builder pattern onto the user's machine: code is generated and edited in a local workspace, previewed in a bundled runtime, and iterated conversationally, with git under the hood for every change. Because the user supplies their own API keys, model choice and cost stay with the developer instead of a platform, and projects remain plain code on disk that can be opened in any editor. The desktop app targets Windows and macOS, installs without an account, and syncs with a community of builders on Reddit. It serves the same crowd as Bolt or Lovable — people shipping web apps from prompts — but those who want local execution and no vendor lock-in.

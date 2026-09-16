@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Repository of well-documented, readability-first ComfyUI workflow examples for learning Stable Diffusion techniques (basic, upscale, text2img, image conditioning, in/out painting, guided composition); almost all workflows run on vanilla ComfyUI without plugins."
+date_added: "2023-08-21"
 ---
 
 This repository collects documented ComfyUI workflow examples for Stable Diffusion, ordered as a learning path from basic text-to-image through upscaling, word weighting and embeddings, image conditioning, inpainting and outpainting, and ControlNet-guided composition. Each workflow is a JSON file arranged for readability - flowing left to right, mostly working without plugins - so a reader can trace how data moves through the graph. An experiments directory covers advanced techniques beyond the core path. The cubiq repository became a standard reference for people learning node-based image generation, and it has no connection to coding agents; its census slot reflects a data-entry mismatch rather than a judgment call about category boundaries.

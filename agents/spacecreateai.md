@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "NOTE: Not a coding agent harness. Solana blockchain agent built with SEND AI technology that automatically creates an agent, deploys a token, and airdrops tokens once launched. Very early stage (3 commits, 1 star)."
+date_added: "2024-12-21"
 ---
 
 The repository applies the SEND AI Solana agent kit (sendaifun/solana-agent-kit) to a single narrow flow: automatically creating an agent, deploying a token, and airdropping once launched. It is a small TypeScript monorepo with client, scripts, and test directories, Docker configuration, and devnet-oriented setup requiring a funded keypair. Development stopped at three commits in December 2024 with no releases, one star, and no issues or pull requests, so the project never progressed past an early experiment. It is not a coding harness in any sense — nothing in it edits or generates software — and enters this census only as a name-based false positive.

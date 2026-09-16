@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "A desktop GUI command center for Claude Code built with Tauri 2 (Rust + React), featuring session/project management, custom AI agents running in isolated background processes, timeline & checkpoints with session branching, and a usage analytics dashboard with real-time cost tracking."
+date_added: "2025-06-19"
 ---
 
 opcode is a desktop command center built around the Claude Code CLI, which remains a prerequisite for any use. It browses and resumes sessions from ~/.claude/projects, and its CC Agents feature defines custom agents with system prompts, model selection, and per-agent file and network permissions running in isolated background processes. Usage analytics track cost and token breakdowns by model, project, and time period, and MCP server management centralizes registry configuration with Claude Desktop import. A timeline and checkpoint system versions sessions for branching and one-click restore. The app is built with Tauri 2 and React, stores everything locally with no telemetry, and is developed by the Asterisk team unaffiliated with Anthropic.

@@ -28,6 +28,7 @@ maintained: "active"
 sources:
   - "user_reported"
 what_makes_it_special: "Production-ready Rust implementation of the 2389 Agent Protocol — a standard for interoperable AI agents communicating via MQTT in distributed systems. Provides an agent runtime (deployable agent binaries), a Rust library (agent2389 on crates.io), multi-LLM support, extensible JSON-schema-validated tool system, MQTT transport with QoS 1, agent discovery/capability matching, and observability (health endpoints, metrics)."
+date_added: "2026-09-01"
 ---
 
 This is the production-ready Rust implementation of the 2389 Agent Protocol, a standard for interoperable AI agents that communicate over MQTT in distributed systems. It ships an agent runtime as deployable binaries and a Rust library (agent2389 on crates.io) for embedding the protocol elsewhere. Agents advertise capabilities through discovery and capability matching, transport runs over MQTT with QoS 1, and tools are extensible and JSON-schema-validated so an agent's tool surface is describable and checkable. Multi-LLM support spans OpenAI and Anthropic, and observability comes via health endpoints and metrics. It is a framework for building interoperable agents, not a coding agent itself. The audience is developers wiring agents together across processes and machines who need a real protocol rather than ad-hoc HTTP.

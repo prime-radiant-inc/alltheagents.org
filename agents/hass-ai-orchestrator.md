@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "Policy-aware control plane for the home combining LLM reasoning with deterministic safety controls: Model proposes, Code validates, Humans remain in control, Home Assistant executes. Dry-run-by-default, schema validation, plan interception/approval, atomic checkpointed replay, audit trails, sandboxed generated dashboards, episodic memory (RAG via ChromaDB)."
+date_added: "2025-12-15"
 ---
 
 HASS-AI-Orchestrator brings LLM reasoning to Home Assistant without giving the model unsupervised control. An agent observes entity states, areas, and device metadata, then proposes changes as recorded intents with risk summaries; a deterministic kernel validates each proposal against tool schemas, domain allowlists, and blocked domains (such as shell_command), and a human approves before checkpointed, replayable execution — the model never holds authority over what actually runs. Three reasoning profiles (Rapid, Balanced, Deep) trade iteration depth against latency on a single local or cloud model, and proactive triggers fire on schedules or state changes with cooldowns. Memory combines ChromaDB-backed entity knowledge and past episodes with RAG over manuals, and a React dashboard handles audits, approvals, and generated dashboards in a sandboxed studio. It targets Home Assistant users who want agentic automation under explicit human policy control.

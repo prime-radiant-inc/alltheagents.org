@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "AI-native IDE built for modernizing legacy systems, developing firmware, and migrating regulated codebases; open-source Cursor alternative with AI chat, inline edit, autocomplete, autonomous coding agent, firmware development tools, and legacy modernization pipeline. Power Mode includes concurrent sub-agents."
+date_added: "2026-05-14"
 ---
 
 NeuralInverse is a VS Code fork aimed at engineering work that generic AI editors handle poorly: modernizing legacy systems, developing embedded firmware, and migrating regulated codebases. Power Mode runs an autonomous agent with more than twenty tools and concurrent sub-agents, while the firmware mode bundles an MCU database, SVD register maps, serial monitoring, and compliance checking. The legacy path runs migrations through a structured five-stage pipeline with a knowledge base and audit trail suited to regulated environments. Models come either from Neural Inverse Cloud's free hosted models or from twenty bring-your-own providers, with API keys kept on the machine. The Apache-2.0 OSS edition carries a commercial distribution with additional features.

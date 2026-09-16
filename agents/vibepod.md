@@ -34,6 +34,7 @@ sources:
   - "brad"
   - "ishandutta"
 what_makes_it_special: "Unified CLI for running AI coding agents in isolated Docker/Podman containers with zero config; collects local metrics (HTTP traffic, token usage) and provides an analytics dashboard to compare agents side-by-side; privacy-first, all data stays local"
+date_added: "2026-02-10"
 ---
 
 VibePod exists because evaluating or running several coding agents means installing a dozen CLIs, each with its own dependencies and permission flags, and no way to compare their behavior afterward. One Python CLI launches any supported agent — Claude, Gemini, Codex, Copilot, Auggie, Qwen, OpenCode, and others — inside a Docker or Podman container built from maintained images, with optional per-project overlay fragments adding dependencies without forking images. An --ikwid flag auto-appends each agent's auto-approval flag for hands-off runs, and while agents work, a local dashboard records HTTP traffic, token usage, and per-agent metrics for side-by-side comparison. Developers choosing between agents, or isolating them from their host machine, use it; it is MIT-licensed, installable via pip/Homebrew/conda, and under steady development with images published to Docker Hub.

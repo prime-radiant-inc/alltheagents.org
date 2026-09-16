@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "hackernews"
 what_makes_it_special: "Runs 100% locally with no OpenAI API key, translating natural language into shell commands via small local models or Ollama, and executes nothing without explicit per-command user confirmation."
+date_added: "2025-03-29"
 ---
 
 Most terminal coding assistants require cloud API keys, which blocks offline use and raises cost concerns for simple tasks. Open Codex takes the opposite position: a lightweight Python CLI inspired by OpenAI Codex that converts natural-language requests into shell commands using local models or an Ollama backend such as llama3 or mistral on localhost:11434. The interaction is deliberately one-shot — prompt, suggested command, then confirm, copy, or abort — with execution gated behind explicit user approval, so nothing runs without consent. It installs via Homebrew, pipx, or Debian packaging and runs on macOS, Linux, and Windows. The project is early-stage (36 commits, 696 stars), with interactive chat, TUI, function calling, and a plugin system listed as unimplemented future plans. It fits users who want an offline, zero-API-cost natural-language shell helper rather than a full agentic harness.

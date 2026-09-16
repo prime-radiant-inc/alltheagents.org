@@ -32,6 +32,7 @@ maintained: "dead"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Free Chinese terminal coding agent"
+date_added: "2026-08-19"
 ---
 
 iFlow CLI put Alibaba-affiliated open platform models — Kimi K2, Qwen3 Coder, DeepSeek V3, GLM 4.5 — behind a free terminal agent built on the Gemini CLI codebase. It ran four permission modes including plan mode, dispatched preconfigured SubAgents with automatic context compression at 70%, and installed MCP tools and workflows from a curated marketplace. Configuration stayed OpenAI-compatible via ~/.iflow/settings.json, and plugins reached VS Code and JetBrains IDEs. The economics relied on the iFlow open platform absorbing model costs, which is the part that ended: the team announced service shutdown for April 17, 2026 and pointed users to Qoder CLI for migration.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "A basic test repository showcasing information about AI Agents, containing a single HTML file."
+date_added: "2024-11-29"
 ---
 
 The repository consists of a single index.html file whose text discusses AI agents, committed in a handful of November 2024 changes with no README, license, releases, or documentation. Its name and single-file shape indicate a test artifact, plausibly output from an AI coding session, rather than a maintained project. There is no agent, loop, tooling, or interface to assess, and the repo has seen no activity since creation, so it functions in this census only as an example of AI-generated test content rather than a harness.

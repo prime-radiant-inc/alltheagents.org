@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Django manage.py context tool for coding agents and tab completion. Provides a cache file (.django-completion-cache.json) that AI agents read to learn all management commands, flags, and migration names without booting Django (readable in under a millisecond). Works even when settings are broken or dependencies are missing. No telemetry, network calls, or database access. Also provides project-aware bash/zsh tab completion for custom commands, flags, app labels, and migration names."
+date_added: "2026-04-25"
 ---
 
 Coding agents routinely misinvoke django-admin because the available commands, flags, and migration names live only in --help output, which is expensive to discover at runtime. django-completion pre-computes that inventory into a JSON cache in the repo, so an agent reads one small file and emits correct manage.py commands and migration references on the first try. The same cache powers zsh/bash tab completion for human developers, which keeps the tool useful outside agent workflows. It is aimed at Django maintainers who wire context files into their agents' system prompts or toolchains.

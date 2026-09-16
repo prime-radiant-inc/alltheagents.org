@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "LLM-agnostic terminal-native AI coding agent by JetBrains; IDE/CI-CD integration; GitHub Action for auto-responding to issues/PRs/CI failures; multiple update channels (stable, EAP, nightly, experimental)."
+date_added: "2025-04-07"
 ---
 
 This repository is the front door for Junie, JetBrains' LLM-agnostic coding agent — installer scripts for stable, EAP, nightly, and experimental channels, version registries, and issue tracking, while the agent implementation itself stays closed under JetBrains AI Service Terms. The agent runs in terminals, JetBrains IDEs, and CI: a GitHub Action lets Junie respond to issues, review PRs, and react to CI failures autonomously. Authentication goes through JetBrains Account, Junie API keys, or BYOK across Anthropic, OpenAI, Google, xAI, OpenRouter, and Copilot. Users track bugs via /feedback or GitHub issues, and the Discord community handles support alongside docs at junie.jetbrains.com/docs.

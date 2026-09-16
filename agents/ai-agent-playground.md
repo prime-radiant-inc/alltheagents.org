@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "A test repository for developing AI agents aimed at office workers, featuring an Autogen agent with ReAct thought process, Tavily API search tool, and conversation memory."
+date_added: "2024-10-24"
 ---
 
 The repository serves as its author's test bed for building AI agents aimed at office workers. The implemented stack is deliberately small: an AutoGen agent that follows a ReAct thought process, a Tavily API search tool, and a memory function that carries earlier conversation into later turns. With four commits, no stars, and no releases, it is a personal playground rather than a maintained project. Its value to the census is as a representative example of small AutoGen-based experiments rather than as a tool others adopt.

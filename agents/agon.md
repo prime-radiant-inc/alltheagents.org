@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Autonomous AI research system built on the 'Prompt Economy' concept. Agents (scientist, coder, auditor, reviewer) plan, implement, audit, and review each other in closed loops with all handoffs via files on disk for recoverability and auditability. Runs unattended for hours. Deployable across 10+ research domains. No human-written experimental code needed."
+date_added: "2026-06-18"
 ---
 
 Running AI research loops unattended for hours usually produces unrecoverable messes, and the engineering effort of orchestrating agents lands on the human. Agon, distributed as a Claude Code plugin, pushes all coordination into disk files: topics, ideas, proposals, and experiments live in a side-by-side agon-artifacts repository, so any run can be inspected, resumed, or forked independently of the plugin code. Slash commands drive role-structured loops — /idea-tick, /proposal-tick, and /experiment-tick, which coordinates scientist, coder, auditor, and reviewer roles per workspace — with prompts, code, and research data versioned independently. Loops run under --dangerously-skip-permissions for genuinely unattended operation, and wrapper scripts let the same plugin run Claude Code backed by DeepSeek or other providers via CLIProxyAPI. It targets researchers automating the topic-to-running-experiment pipeline across domains.

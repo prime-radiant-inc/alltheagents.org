@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Static landing/marketing page hosted on GitHub Pages for 'XuanJi', a Chinese-market Claude Code Agent SaaS product. The repo only contains index.html, logo.svg, and promotional images. The actual agent product code is not in this repo."
+date_added: "2026-05-08"
 ---
 
 xuanji-landing hosts only the promotional landing page (index.html, logo, screenshots) for XuanJi, a Chinese-market SaaS that resells Claude access including Claude Code agent usage through a self-managed account pool, explicitly marketed as a claude-mirror/claude-proxy service with no-refund terms. The actual agent product code is not in this repository, which contains only a landing page, logo, and product images served via GitHub Pages. Pricing is subscription-based with monthly tiers from roughly ¥49.9 to ¥1829 plus pay-as-you-go, marketed as an unofficial Claude mirror. The repo itself is static marketing material (27 commits, single contributor) rather than product code, and the service carries gray-market reseller risk. Anyone evaluating the underlying agent should treat this entry as a marketing page for a third-party proxy.

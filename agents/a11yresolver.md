@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI-powered accessibility fixing agent"
+date_added: "2026-07-30"
 ---
 
 Accessibility problems usually surface in audits or user complaints, long after the code was written, and fixing them requires knowing WCAG rules that most working developers never learned. A11yResolver, from publisher A11ySolutions, is a VS Code chat extension (beta preview) that acts as an accessibility agent inside the editor: developers point it at violations and it proposes or applies fixes in place. It reached version 0.7.5 across 19 releases within roughly a month of its late-July 2026 debut, with 8,200 installs. Frontend teams remediating accessibility debt inside their normal editor workflow are the intended users.

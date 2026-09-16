@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI-powered coding assistant built into JetBrains IDEs"
+date_added: "2026-08-13"
 ---
 
 Just Bruce AI 2.0.0 is a ground-up rebuild of a small JetBrains assistant into something closer to an in-IDE agent. It scans the project, then works across files — reading, creating, editing, and reverting via applied diffs — while running build, test, and terminal commands and tracking git state. Conversation and project memory persist across sessions, and a slash-command system covers common actions. Model access is user-configured: OpenAI-compatible providers plus Ollama for fully local operation, with connection testing and live provider status. Adoption is minimal (13 installs at review time), making this a very early-stage entrant in the JetBrains assistant field.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "AI coding co-worker for APIs (code, fix, document, deploy, test); multi-agent architecture with components (coordinator, code-navigator, code-search, code-understanding, ingestion, ai-gateway); the stated goal is to train smaller, task-specific models that outperform large general-purpose models on individual tasks - each agent can use its own model for a heterogeneous, per-task-optimized system. Early preview stage (561 commits, 34 stars)."
+date_added: "2024-04-10"
 ---
 
 Incredible.dev was pitched as an AI co-worker specialized for API codebases: one coordinator orchestrates ingestion, code-understanding, code-navigator, and code-search services plus an AI gateway, with each component free to run a different model. The distinguishing bet is training smaller task-specific models that beat large general-purpose ones on narrow tasks rather than routing everything through one frontier model. The Rust implementation ships Docker Compose files, but the README never published promised run instructions, and the last visible commit landed in May 2024. It remains an early research preview rather than an installable product.

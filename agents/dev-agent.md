@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Dev Agent is an AI-powered intelligent development assistant plugin for IntelliJ Platform"
+date_added: "2025-11-30"
 ---
 
 Dev Agent wraps a web-based AI development service inside IntelliJ so tasks can be submitted and monitored from the IDE instead of a browser tab. Tasks run in parallel, the assistant modifies code against stated requirements, and a knowledge base feeds project-specific context into later requests. The IDE surface shows progress and lets the developer request modifications mid-task. Its tiny install base and unverified vendor mean it is effectively an early-stage experiment rather than an established tool.

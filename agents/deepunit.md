@@ -31,6 +31,7 @@ maintained: "dead"
 sources:
   - "jim"
 what_makes_it_special: "AI agent that generates unit tests for complete code coverage across a project, requiring only your repository as input"
+date_added: "2026-08-19"
 ---
 
 Deepunit attacked the chore side of testing: instead of asking a model for one test at a time, it ingested a repository and worked toward coverage of the whole project, a workflow that suits teams maintaining legacy code with thin test suites. The only surviving artifact is a GitHub Action (DeepUnitAction) from late 2023 that ran the generator on pull requests. With the website's DNS record gone and the org dormant since 2023, the census entry is retained as a historical agent rather than an installable tool.

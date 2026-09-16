@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "github_topic"
 what_makes_it_special: "Educational AI coding assistant built to teach how Cursor and other coding agents work under the hood; built incrementally as part of an educational series. Not a production tool."
+date_added: "2025-03-03"
 ---
 
 groundhog is an educational coding assistant built in public by Ghuntley to show how tools like Cursor actually work under the hood, developed increment-by-increment with its audience following along at ghuntley.com/specs. The implementation is Rust-based with a CLI surface that currently offers an explain command for code snippets and files, with further commands planned and documented in a specs directory covering architecture, CLI, commands, and telemetry. The author explicitly frames it as a teaching artifact rather than a production tool, directing users who need finished software to established agents and asking that bug reports be held while the community model is decided. Development has stalled at a single commit, so it functions today as a reference for anyone studying how agent harnesses are assembled from first principles.

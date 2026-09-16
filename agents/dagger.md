@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "namphuong"
 what_makes_it_special: "Programmable, local-first automation engine for software delivery that provides SDKs in 8 languages, typed artifacts, incremental content-addressed caching, and built-in OpenTelemetry tracing — allowing the same workflows to run identically across local, CI, and cloud environments."
+date_added: "2019-11-20"
 ---
 
 Dagger is a programmable automation engine for software delivery: teams write build, test, and deploy pipelines as code using SDKs in Go, Python, TypeScript, PHP, Java, .NET, Elixir, or Rust, and the engine executes each operation in containerized, sandboxed steps with incremental content-addressed caching. Every operation emits OpenTelemetry traces, which gives CI-grade observability without extra instrumentation, and pipelines run identically locally, in CI, or in Dagger Cloud. Although its core identity is CI/CD infrastructure rather than an agent, the project now embraces LLM workflows — including first-class support for wiring coding agents into DAG pipelines — which is why it appears in harnesses-adjacent catalogs. It is Apache-2.0, written in Go, and widely used by platform teams replacing brittle YAML pipelines.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Verifiable AI code translation for edge/defense/automotive; $125M Series B"
+date_added: "2026-08-19"
 ---
 
 Code Metal targets code translation in industries where correctness must be demonstrated, not assumed: defense, aerospace, automotive, semiconductor, and robotics. Its pipeline statically analyzes a repository to segment code into verifiable components, generates test suites targeting full functional and MCDC coverage, translates code across languages and architectures, and verifies functional equivalence before applying target-specific optimization. Typical engagements include moving Python research code to standards-compliant low-level software for aerospace, porting automotive code off vendor-specific chips to avoid lock-in, and memory-safety migrations. The product is commercial and closed-source, sold through enterprise contact, and no public model-provider or integration details are disclosed.

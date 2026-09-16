@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "CLI that converts a SCIP (Sourcegraph Code Intelligence Protocol) index into a queryable SQLite database, letting AI agents query codebases in milliseconds via SQL/CLI instead of token-expensive file exploration; combines SCIP for precise symbol/reference data and Tree-sitter (WASM) for complexity/signatures/code smells; output defaults to TOON (compact JSON format optimized for LLM token efficiency) with --json fallback; built-in MCP server (dora mcp); agent integration (hooks, skills, AGENTS.md snippets) for Claude Code, OpenCode, Cursor, Windsurf; explicitly designed as an alternative to grep/find/glob for AI agents."
+date_added: "2026-01-17"
 ---
 
 AI agents burn most of their tokens walking a codebase: reading files, grepping patterns, tracing imports by hand. dora replaces that loop with precomputation — a language SCIP indexer produces exact symbol and reference tables, Tree-sitter adds complexity metrics and signatures, and the combined graph lands in SQLite that queries in milliseconds. Results default to the TOON compact format to minimize tokens, and an MCP server plus hook/skill integrations wire it into Claude Code, OpenCode, Cursor, and Windsurf. It is explicitly positioned as a substitute for grep/find/glob inside agent workflows.

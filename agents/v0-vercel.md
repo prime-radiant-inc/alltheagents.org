@@ -33,6 +33,7 @@ sources:
   - "caramaschi"
   - "vinkius"
 what_makes_it_special: "Agentic-by-default AI app builder — plans, creates tasks, and connects to databases automatically; one-click deploy to Vercel; GitHub repo sync; design mode for visual fine-tuning; templates and design systems; iOS app for building on the go."
+date_added: "2026-08-19"
 ---
 
 v0 exists to collapse the distance between an idea and a deployed web application: rather than scaffolding a repo, choosing a stack, and wiring a database by hand, a user describes the product and v0 plans the work, generates the code, and connects databases and APIs as part of its build loop. The result deploys to Vercel in one click, can sync to a GitHub repository, and can be refined visually in design mode with live preview; reusable design systems, community templates, and integrations reduce repeated setup work. Frontend-leaning founders, designers, and developers use it to ship landing pages, dashboards, and full applications without managing infrastructure; pricing spans a free tier with daily message limits through Plus, Business, and Enterprise, with Vercel hosting the output.

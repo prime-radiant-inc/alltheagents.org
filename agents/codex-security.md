@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "AI-driven end-to-end security workflow CLI/SDK: discovers, validates, and auto-patches vulnerabilities, verifies fixes, and opens GitHub PRs. Deep multi-agent scans with --subagents flag. Interactive finding review, scan comparison by root cause, Linear issue publishing. Containerized bulk scans with AppArmor hardening. Pluggable inference providers. Extensibility via scan prompt files and knowledge bases."
+date_added: "2026-07-13"
 ---
 
 Security review rarely keeps pace with code changes, and static scanners produce noise that nobody remediates. Codex Security applies an agent loop to that gap: discovery runs scan a codebase, each candidate finding is validated before reporting, generated patches are verified, and verified fixes become GitHub pull requests for human review. The CLI wraps a TypeScript SDK so teams can embed scans in CI with an API key or authenticate interactively through ChatGPT, with Trusted Access gating for sensitive finding categories. A findings service stores results in SQLite, deduplicates them by embedding similarity, and serves a dashboard. Security teams and maintainers use it to move from scanner output to verified remediation, and Docker Compose configurations support bulk scans across repository sets.

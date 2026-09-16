@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "TUI for running multiple coding agents in parallel using tmux sessions with git worktree-based isolated workspaces; no wrappers - works directly with existing agents (Claude Code, Codex, Gemini, Amp, OpenCode, Droid)."
+date_added: "2025-12-31"
 ---
 
 Running three coding agents on one repo means three agents trampling the same working tree; amux solves this with tmux sessions per agent and git worktrees per workspace, so parallel work stays isolated and merges back cleanly. The Go TUI gives keyboard-and-mouse control over starting, diffing, committing, and merging workspaces, with per-workspace port allocation and extensive env-var hooks for scripting. Agents — Claude Code, Codex, OpenCode, Droid, Cursor, Grok, Amp, Cline — are configured per-user in ~/.amux/config.json while workspaces are per-project in .amux/workspaces.json. Actively maintained Go project (869 commits, GoReleaser, CI, Discord) licensed MIT for Linux and macOS.

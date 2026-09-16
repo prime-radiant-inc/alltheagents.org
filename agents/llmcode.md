@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Agentic terminal-based coding assistant that understands your codebase and helps you code faster via natural language commands (file ops, context gathering, AI assistance)"
+date_added: "2025-02-25"
 ---
 
 LLMCode demonstrates how much of the Claude Code workflow a compact terminal REPL can reproduce: gather context with /context or /#, request changes in natural language, and write the result with /write or /append, with workspace navigation and configuration handled by further commands. Because any OpenAI-compatible endpoint works, it ran against DeepSeek-R1 and local Llama 3 servers as readily as OpenAI itself, with settings stored in ~/.llm_code_config.json. The repository describes itself as under active development and partially built with its own assistance, but work stalled at 11 commits, leaving a prototype rather than a maintained tool.

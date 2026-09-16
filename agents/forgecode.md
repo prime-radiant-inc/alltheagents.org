@@ -33,6 +33,7 @@ sources:
   - "jqueryscript"
   - "ishandutta"
 what_makes_it_special: "ZSH plugin with colon prefix system (use AI without leaving shell), three-mode architecture (TUI/CLI one-shot/ZSH plugin), semantic code search, conversation management with branching/cloning, sandbox mode via git worktrees, custom agents/skills/commands system, 300+ models."
+date_added: "2024-12-08"
 ---
 
 ForgeCode, built by Tailcall HQ, offers three surfaces over one Rust core: an interactive TUI, a one-shot CLI (`forge -p` for prompts, `forge commit` for AI commit messages, `forge suggest` for natural-language shell commands), and a ZSH plugin where colon-prefixed commands invoke agents without leaving the shell. Three built-in agents divide labor — forge implements code, sage researches read-only, muse writes plans — drawing on 300+ models across OpenAI, Anthropic, Google Vertex AI, Bedrock, OpenRouter, Groq, and OpenAI-compatible endpoints. Conversations persist with resume, clone, and compact operations, semantic workspace indexing speeds context assembly, and forge.yaml plus AGENTS.md configure rules and tool limits. A sandboxed git-worktree mode and restricted shell give teams a safety story for daily-driver adoption.

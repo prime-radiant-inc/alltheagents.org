@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "github_topic3"
 what_makes_it_special: "Curated list/catalog of CLI-based agentic coding tools similar to Claude Code, presented as a table with project links, model backends, licenses, and implementation languages; a reference list rather than a software tool."
+date_added: "2025-11-19"
 ---
 
 The repository serves as a static taxonomy of the CLI-agent field: a single table comparing roughly fifteen terminal coding tools on model backends, licensing, and language, maintained alongside the author's writing site. It exists because the tool landscape became dense enough that orientation by category (CLI-only versus IDE-coupled, open versus proprietary) became valuable before evaluation. It has no runtime, API, or installable artifact, and its value is as a snapshot of the ecosystem rather than as software. The list has seen only occasional updates since late 2025.

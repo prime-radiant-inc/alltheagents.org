@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Provider-neutral multi-agent control plane with a 4-step loop (Scope, Route, Verify, Replay); turns goals into bounded DAGs with owned paths; evidence-gated completion prevents parallel agents from overwriting each other; keeps routing separate from execution contract"
+date_added: "2026-04-30"
 ---
 
 OMK is a provider-neutral coding-agent harness organized around four phases: scope goals into bounded DAGs, route work through a provider-neutral model registry, verify completion with evidence-gated build/test/audit gates, and replay with durable receipts. Sandbox isolation is on by default, with network-blocked OS sandboxing for shell commands. The project is unusually explicit about its limits, documenting a prior release's fabricated evidence and refusing to treat prompt agreement as a correctness verdict. It builds on Mario Zechner's pi harness via the oh-my-pi fork, with optional orchestration extensions on top of the default single-agent loop. Release notes are detailed and development is active, though the contributor base is a single author.

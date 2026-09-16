@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Docks the DeepSeek Harness agent web UI into an IDE tool window"
+date_added: "2026-08-17"
 ---
 
 DeepSeek Harness WebUI is a small JetBrains plugin by an indie developer (M39/Chocomintopia) that docks the DeepSeek Harness agent's web interface into an IDE tool window rendered by the bundled Chromium runtime. Everything the harness UI offers — reasoning streams, tool-call trajectories, session management, permission and preset switching — becomes available without leaving IntelliJ or PyCharm, hideable like the terminal panel. The plugin adds a pinned DeepSeek Chat tab, a hard-reload action that bypasses cache, and icons that follow the IDE theme. It is free, MIT-licensed, and recent (August 2026, with an unapproved pending update), with minimal downloads; the underlying agent runs in its own web UI and this plugin only hosts it.

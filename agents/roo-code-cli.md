@@ -35,6 +35,7 @@ sources:
   - "ishandutta"
   - "tiennm"
 what_makes_it_special: "An 'AI-Powered Dev Team, Right in Your Editor' VS Code extension with multiple specialized AI agent modes (Code, Architect, Ask, Debug, custom) and MCP server integration; originated as a fork of Cline."
+date_added: "2024-10-31"
 ---
 
 Roo Code began as a fork of Cline and differentiated itself by making mode-switching the core interaction: a Code mode for edits, an Architect mode for planning systems and migrations, Ask for explanations, Debug for root-causing, and custom modes teams defined for their own workflows. Modes could hand work to each other, which let a planning conversation hand off to an implementation session without losing context, and MCP servers plugged in external tools. The vendor discontinued the extension on May 15, 2026, archiving the 24k-star repository and directing billing questions to a shutdown address; the community continued as the ZooCode fork. Its user base was VS Code developers who wanted a configurable in-editor agent rather than autocomplete.

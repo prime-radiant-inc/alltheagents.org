@@ -32,6 +32,7 @@ maintained: null
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Coding agent for Android Studio with emulator and LSP access"
+date_added: "2026-08-19"
 ---
 
 Firebender targets the Android development workflow specifically, built by a team of ex-Google Android engineers and used by Android engineers at Instacart, Zillow, Airbnb, Slack, and Sentry. Its agents go beyond code generation: subagents interact with the running app and emulator autonomously, Heavy mode parallelizes massive change sets across a codebase while keeping the parent agent's context coherent, and agent.md files let teams define custom agents with their own prompts, tools, and workflows. Rules, slash commands, and skills encode team standards; voice mode allows dictating changes; and the vendor emphasizes enterprise posture — SOC 2 Type II, ISO 27001, zero data retention, and no model lock-in. Pricing details are not published on the public site.

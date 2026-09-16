@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Bring-your-own AI coding agent with edit-to-prompt tracing"
+date_added: "2026-08-26"
 ---
 
 AIVory Genie is a JetBrains Marketplace plugin (ID 32420, first released 2026-08-26) positioned as a bring-your-own-agent layer with edit-to-prompt tracing for compliance-minded teams. Public documentation is thin: the vendor's site (aivory.net) currently lists only the company's other products — Smart Inference, Guard, and Architect — and the plugin listing itself returned no readable content during research, so mechanics beyond the tracing pitch could not be verified. Installation is standard via the JetBrains Marketplace, with the vendor homepage at aivory.net. Given the listing's recency, treat the capability claims as vendor-stated and unverified.

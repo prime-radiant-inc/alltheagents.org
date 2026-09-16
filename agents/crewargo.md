@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "One conversation with a main Argo agent that delegates to specialist agents (Designer, Engineer, Analyst, Writer) in a single group chat thread. Multi-model orchestration with automatic best-model routing per task. Design-office metaphor with @ mentions. Local-first desktop workspace; runs on your machine."
+date_added: "2026-08-19"
 ---
 
 CrewArgo addresses the fragmentation of running several single-agent chat apps by putting a coordinating agent and its specialists in one local desktop thread. The user talks only to Argo, which decides which specialist agent handles a task and passes context between them as the work progresses. The app runs on Windows and macOS, keeping files local and sending only prompts to providers; users either bring their own Claude, GPT, Codex, or DeepSeek keys or buy credits for the managed routing tiers, which range from a free two-task plan to a $200/month tier. It targets individual professionals and small teams who want delegation across roles without managing separate tools.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Documentation page for GroqCloud API tool use functionality"
+date_added: "2026-08-19"
 ---
 
 This entry points at the GroqCloud API documentation for tool use rather than at a product. The census keeps it because that documentation describes the interface through which many listed harnesses call Groq-hosted models. No software ships with the entry, so it is categorized as other. Readers looking for a coding harness should treat it as reference material for one of the model backends.

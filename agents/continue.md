@@ -38,6 +38,7 @@ sources:
   - "ishandutta"
   - "tiennm"
 what_makes_it_special: "Pioneering open-source coding agent available as CLI, VS Code extension, and JetBrains plugin. The repository is no longer actively maintained and is read-only; a final 2.0.0 release was published as a foundation for others."
+date_added: "2023-05-24"
 ---
 
 Continue spent 2023-2026 as the default open-source answer to commercial coding assistants, letting developers point one interface at any model provider across a CLI, a VS Code extension, and a JetBrains plugin. Its agent loop handled multi-file edits, plan mode structured larger changes, and MCP support connected external tools. In 2026 the maintainers ended development: the repository became read-only, and a final 2.0.0 release removed anonymous telemetry, stripped out mandatory authentication, and fixed lingering bugs specifically so the Apache-2.0 codebase would be clean to fork. The team recommended the CLI as the most durable component for anyone continuing with the code. Teams that need an in-house agent base still fork it, and its extension ecosystem influenced the generation of open-source agents that followed.

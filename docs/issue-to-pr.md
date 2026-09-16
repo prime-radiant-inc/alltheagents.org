@@ -133,6 +133,7 @@ this section. `{o}/{r}` is the GitHub owner and repo from `source_code_url`.
 | `stars` | none | `gh api repos/{o}/{r} --jq .stargazers_count` | A snapshot at research time. Not on GitHub: `null`. The template calls it `github_stars`; every file uses `stars`. |
 | `sources` | none | fixed | `["github-issue"]`; the helper writes it. |
 | `last_verified` | none | today | The helper writes it. |
+| `date_added` | none | today | The helper writes it (the day the entry joins the catalog; drives `/updates/`). |
 | `what_makes_it_special` | What makes it special (`what_makes_it_special`) | The submission, checked against the sources | One or two sentences of plain text, no markdown links. Remove anything the sources do not support rather than softening it. |
 | the body | Narrative (`narrative`) | The submission, checked against the sources | About a paragraph: why it exists, how it works, who uses it. No sentence shared with `what_makes_it_special`. Remove unsupported claims. |
 | ignored | Anything else? (`notes`), Before submitting (`confirm`) | | Context for you, and often the submitter's own evidence. Never copied into the entry. |
@@ -255,7 +256,9 @@ file's own format: a string is `key: "value"` (a `"` inside becomes `\"`),
 unknown is `key: null`, a boolean is `"True"` or `"False"`, and a list is
 `key:` followed by one `  - "value"` line per item (`key: []` when empty).
 Replace the key's existing line or lines; add a missing key just above the
-closing `---`. Set `last_verified` to today. A new narrative replaces
+closing `---`. Set `last_verified` to today. Never touch `date_added` on a
+fix — it is the day the entry joined the catalog, written once at add time.
+A new narrative replaces
 everything after the closing `---`, as one blank line and the paragraph. When
 `category` changes, also edit that slug's row in `CATEGORIZATION_LEDGER.md`
 (`grep -n '^| `<slug>`' CATEGORIZATION_LEDGER.md`), new category and

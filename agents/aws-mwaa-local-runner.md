@@ -33,6 +33,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Not an agent harness — a CLI utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally via Docker, enabling local development/testing of DAGs, custom plugins, and dependencies before deploying to MWAA. Transitioning to legacy (production Docker image moved to amazon-mwaa-docker-images for Airflow 3.x)."
+date_added: "2021-04-27"
 ---
 
 This AWS repository has nothing to do with coding agents: it is a CLI utility that builds a Docker container replicating an Amazon MWAA (Managed Workflows for Apache Airflow) environment locally, so developers can test DAGs, custom plugins, and requirements.txt packages before deploying to the managed service. Commands cover building the image, starting the local environment, and testing requirements/startup scripts against the MWAA production configuration. The repository was archived by AWS in August 2026, read-only, with users directed to the amazon-mwaa-docker-images repository, which open-sources MWAA's actual production images and supports Airflow 2.9+ and future 3.x releases. It appears in this census only because keyword-driven gap sweeps can misclassify infrastructure tooling; the correct category is 'other'.

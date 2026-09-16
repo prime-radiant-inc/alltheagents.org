@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Single Rust binary CLI that lets coding agents message, watch, and spawn each other across terminals in real time; agents observe transcripts/file edits/terminal screens, subscribe to events, and spawn/fork/resume/kill each other, with MQTT relay and end-to-end encryption across machines"
+date_added: "2025-07-21"
 ---
 
 hcom solves the isolation problem when developers run several coding agents at once: agents cannot see each other's work, so they duplicate effort or conflict. hcom installs lightweight hooks into each supported CLI (Claude Code, Codex, Gemini CLI, Cursor, Kimi, and others) that write activity to a local SQLite database, which doubles as a message bus — agents send and receive threaded messages mid-turn, observe each other's transcripts and file edits, and get alerted when two agents touch the same file within 30 seconds. Beyond messaging, one agent can spawn, fork, or terminate another, including running different vendors' CLIs as each other's subagents, and workflow scripts coordinate patterns like debates. An optional end-to-end-encrypted MQTT relay extends the same mesh across machines. It ships as a single Rust binary with hooks that install into existing agent configs.

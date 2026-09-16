@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "A lightweight, minimal ReAct (Reasoning & Acting) AI agent framework described as 'like Eliza, but tinier, cleaner, and with way less clutter.' Emphasizes simplicity, easy setup, configurable personalities, and modular extensibility over feature-heavy frameworks."
+date_added: "2024-12-19"
 ---
 
 Tiny-Agent is a lightweight TypeScript agent framework built around the ReAct reasoning-and-acting loop, with configurable personalities, an extensible tool system, and multi-client support as its feature set; it markets itself against Eliza as 'tinier, cleaner, and with way less clutter.' Setup is a pnpm install with environment-based configuration, and the architecture is intentionally modular so tools and clients can be swapped. The project shows no visible traction — zero stars, 27 commits, no releases, no license file — and no evidence of updates after December 2024, so it appears abandoned. It is categorized as an agent framework rather than a coding harness: it is general-purpose and does not ship coding-specific tools, and the census records it primarily because earlier sweeps included it.

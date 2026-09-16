@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Agent-agnostic engineering governance and context layer that loads shared, versioned, layered (core/organization/project) instructions into every AI coding session. Discipline-encoded workflows (Prepare->Research->Plan->Act->Validate) with HITL approval gates, fresh-context review subagents, execution-backed validation, and Git-controlled instruction delivery by tag (not semantic search). No source code leaves your perimeter."
+date_added: "2026-02-10"
 ---
 
 Grid Dynamics built Rosetta to solve the consistency problem when dozens of engineers use different agents: each session starts from whatever context the individual remembered to paste. A workspace initialized with rosetta loads the layered instruction stack into every session, classifies the request into one of thirteen SDLC workflow types (coding, security, test generation, requirements authoring, and others), and executes each through a Prepare, Research, Plan, Act, Validate pattern with approval gates. Skills cover planning, orchestration of subagent teams, reverse engineering, and security review, while a MEMORY.md file lets sessions accumulate project-specific learning. Enforcement is structural — dangerous-action detection, PII and secrets handling rules, deviation control with fresh-context reviewers — rather than advisory. Enterprise platform teams adopt it to make agent behavior auditable and uniform across tools.

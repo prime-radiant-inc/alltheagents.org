@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Desktop AI coding harness (Tauri 2) where every tool is toggleable, every description editable, every provider pluggable; agent only sees the surface area you keep; Skills system compatible with Claude Agent Skills convention"
+date_added: "2026-05-13"
 ---
 
 Sinew starts from the observation that most harnesses fix the toolset and the prompt, then fights the model's failures; it instead exposes the harness itself for editing — toggle tools, rewrite their descriptions, swap providers per mode, per sub-agent, or per teammate. Three modes cover normal work (Act), hours-long autonomous runs (Goal), and interactive plan production (Plan), with a peer-to-peer swarm of two to eight agents sharing a task board and messaging. Skills use SKILL.md files compatible with Claude Agent Skills, MCP servers plug in via settings, and compaction plus clickable rollback checkpoints manage long sessions. It is a Tauri 2 desktop app in Rust and React, MIT-licensed, distributed through GitHub releases with self-update. The audience is developers who want Claude Code-class capability with total control over what the model is allowed to see and touch.

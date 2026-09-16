@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Privacy-first terminal coding assistant (VibeCoder) running entirely on local Ollama models with no data sent to external services; uses DuckDuckGo for untracked web searches and URL content extraction; partial file reading with line ranges for token efficiency; intelligent file editing with diff preview; safe command execution; AI thinking blocks (toggleable reasoning display); plan:/vibecode: mode breaks complex tasks into executable JSON-formatted steps with interactive confirmation at each step; persistent conversation history."
+date_added: "2025-03-06"
 ---
 
 PrivateCode exists for developers who want AI coding help without sending proprietary code to a cloud provider. It runs entirely against local Ollama models, with DuckDuckGo search and URL extraction as the only optional external calls, chosen because that engine does not track queries. Work happens through explicit commands — search:, edit:, run:, create:, plan: — and the vibecode mode decomposes a task into JSON steps that execute one at a time with user approval, so nothing runs without review. Edits produce .bak backups and colored diff previews, and dangerous command prefixes trigger warnings before execution. It is a single-file Python tool aimed at developers on offline machines or anyone unwilling to leak code to hosted models.

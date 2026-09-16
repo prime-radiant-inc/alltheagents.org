@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "flatlogic"
 what_makes_it_special: "AI developer agent that builds production-grade apps and deploys them to your own cloud. (Website is JS-rendered; could not verify detailed fields.)"
+date_added: "2026-08-19"
 ---
 
 Leap.new targets the gap between prototype generators that produce frontend demos and the work of standing up real backend systems with databases, APIs, and infrastructure. Describing the desired features yields a generated architecture built on Encore.ts — the Encore team's own open-source backend framework — so the output includes infrastructure-as-code, type-safe APIs, and built-in observability rather than glue code. Developers review the architecture and diffs, test in preview environments, and deploy into their own AWS or Google Cloud accounts, keeping ownership and avoiding vendor lock-in. Iteration continues through GitHub integration and normal IDE workflows, with new features added by AI or by hand.

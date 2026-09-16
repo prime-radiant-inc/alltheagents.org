@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "GUI for Claude Code and Codex with multi-agent orchestration and adversarial verification"
+date_added: "2026-05-11"
 ---
 
 Crispy gives developers a desktop GUI on top of the Claude Code and Codex CLIs instead of driving them through raw terminals. Sessions are organized for multi-agent orchestration, and the extension's distinguishing mechanism is adversarial verification: a 'superthink' pass that attacks the primary agent's output before it is accepted. Agent memory persists across sessions, and a Discord bridge exposes running agents remotely. Distributed as an MIT-licensed extension on Open VSX with over 13,000 downloads, it is used by developers who want visual supervision of multiple CLI agents, including from their phone.

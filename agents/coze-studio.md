@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "All-in-one visual AI agent development platform derived from ByteDance's Coze platform, offering no-code/low-code agent building with workflows, plugins, knowledge bases, and RAG in a microservice architecture built with DDD principles."
+date_added: "2025-06-26"
 ---
 
 Teams building LLM assistants for support, operations, or internal tools rarely want to write agent infrastructure themselves, and ByteDance's commercial Coze platform was closed. Coze Studio releases the platform's core engine under Apache-2.0 for self-hosting: agents are assembled visually from prompt-engineering surfaces, plugins, knowledge bases, RAG pipelines, databases, and drag-and-drop workflows, running on a Go microservice backend built on the Eino and FlowGram frameworks. Deployment runs through Docker Compose or Helm, and finished agents ship via OpenAPI or a Chat SDK embedded in other products. Model configuration covers OpenAI and Volcengine among others, and a commercial tier exists for features the open-source core excludes. Product and operations teams building conversational agents - not developers writing code with agents - are its users.

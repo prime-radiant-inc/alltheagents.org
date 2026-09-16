@@ -33,6 +33,7 @@ sources:
   - "jqueryscript"
   - "brad"
 what_makes_it_special: "DeepSeek-native AI coding agent engineered around prefix-cache stability for long-running sessions. Distributed as a self-contained static Go binary. Features plan mode, permissions, workspace sandbox, per-turn checkpoints, config-driven providers/tools/plugins, multi-model support (executor + planner), and Extension Protocol v1 sidecars."
+date_added: "2026-04-21"
 ---
 
 Reasonix is a DeepSeek-native coding agent built for long autonomous runs, with mechanics tuned to that goal: cache-aware context maintenance aligned with DeepSeek's prefix-cache pricing, a workspace sandbox, per-turn checkpoints with rewind, and a permission system for unattended operation. It runs as a single static Go binary in terminal/TUI, desktop, browser, or editor via ACP, with a config-driven setup (reasonix.toml), a planner/executor model split, and support for any OpenAI-compatible endpoint. Extensibility goes beyond MCP servers to an Extension Protocol with a Go SDK for sidecars that intercept events and add providers, and subagent profiles are first-class. The project is one of the most popular DeepSeek-focused harnesses (35k+ stars, very active development, bilingual docs, npm/Homebrew/desktop distribution).

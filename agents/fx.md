@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "user_reported"
 what_makes_it_special: "A coding agent harness written in Zig that behaves like a Unix shell rather than a terminal IDE: a ~6 MB binary with microsecond cold start, a shell-like UI that preserves scroll history, WebAssembly builds with a pluggable network stack, and a deliberately minimal system prompt for token efficiency."
+date_added: "2026-08-11"
 ---
 
 Most agent CLIs are Node or Python applications with heavy startup costs, which limits where they can run. Vercel Labs built fx in Zig as a ~6 MB static binary with near-instant cold start and a small memory footprint, intended to be embedded in sandboxes, CI, and larger systems rather than to replace an editor. The UI follows shell conventions and preserves scrollback, and the core stays small by pushing capability into skills, plugins, and MCP servers while remaining model- and provider-agnostic. Version 0.0.6 is explicitly experimental with frequent breaking changes expected, so adopters are largely tool builders evaluating embeddable agent runtimes.

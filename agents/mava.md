@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Research-friendly codebase for distributed multi-agent reinforcement learning (MARL) in JAX with single-file implementations built for rapid research iteration; end-to-end JIT compilation via Anakin architecture."
+date_added: "2021-03-30"
 ---
 
 Mava exists because multi-agent RL research moves faster when algorithms fit in single readable files that researchers clone and modify rather than install. InstaDeep's library provides exactly that for JAX: single-file implementations of IPPO, MAPPO, QMIX, IQL, MAT, Sable and newer methods, distributed architectures (Anakin/Sebulba) that JIT-compile the entire training loop, and wrappers for standard MARL environments such as Robot Warehouse, Level-based Foraging, and SMAC. Reinforcement-learning researchers at InstaDeep and in the wider MARL community are the users, with the codebase tracking recent papers (GPO/MagPO, Sable) through sustained maintenance. It is an RL research library with no coding-agent functionality.

@@ -32,6 +32,7 @@ maintained: null
 sources:
   - "jim"
 what_makes_it_special: "IvyCheck offers an API for real-time AI application safety checks, preventing prompt injection attacks, PII data leakage, and hallucinations"
+date_added: "2026-08-19"
 ---
 
 IvyCheck, built by YC company Midplane (founders ex-Amazon Core ML, Berlin), addresses the trust gap in production AI applications: user inputs that smuggle prompt injections, PII leaking to model providers, and RAG answers that contradict their retrieved context. It classifies and redacts text in real time with small specialized models deployed on the customer's own infrastructure, making it provider-agnostic and latency-tolerant enough for inline use. The census entry's slug ('announcement') reflects that the URL is the YC launch post rather than a product page; the tool is a monitoring/safety API consumed by AI applications, with no coding-agent functionality, and no public pricing surfaced in the launch material.

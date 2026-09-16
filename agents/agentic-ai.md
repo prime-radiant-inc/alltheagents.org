@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "NOTE: Not a coding agent harness. A rule-based (non-LLM) multi-agent pizza ordering system with two hardcoded agents (Order Agent and Inventory Agent) exposed as a FastAPI REST API. Tutorial-style demo with 4 commits."
+date_added: "2024-12-16"
 ---
 
 This repository is a small tutorial exercise demonstrating multi-agent thinking without any LLM: an Order Agent validates pizza orders and payment while an Inventory Agent tracks ingredient stock, coordinating through shared state behind a FastAPI REST API with a live demo deployed to AWS. The implementation is a single Python module (plus a compiled .pyc) with four commits, one star, and no license file. It was last updated in January 2025 and shows no signs of further development, and the live demo endpoint is unlikely to still be running. It is included in the census only as a classified non-coding-agent artifact.

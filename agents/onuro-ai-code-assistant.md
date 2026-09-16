@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI code assistant across all JetBrains IDEs"
+date_added: "2026-02-20"
 ---
 
 Onuro is an AI code assistant distributed through the JetBrains Marketplace for all IntelliJ-based IDEs. The free tier provides context-aware chat and inline edits, while a paid subscription unlocks an autonomous agent that can edit files, create files, run terminal commands, and search the codebase and the web. Model selection covers Anthropic, Google, and OpenAI providers. The vendor emphasizes a local-first privacy posture: no long-term code storage, environment variables stripped before transmission, and restricted provider connections. With over eight thousand Marketplace downloads it is one of the more-installed independent JetBrains AI plugins.

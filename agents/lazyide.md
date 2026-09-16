@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Lightweight terminal IDE built with Rust and ratatui, distributed as a single binary; full IDE experience in any terminal (ideal for SSH/remote environments); LSP integration (rust-analyzer completions, diagnostics, go-to-definition), syntax highlighting for many languages, code folding, bracket pair colorization, find & replace (regex + ripgrep); 32 themes with live preview, customizable keybindings, tabbed editing, file tree, command palette, autosave & crash recovery; git gutter markers and branch display. Designed to pair with agentic AI coding tools, not an AI tool itself."
+date_added: "2026-02-14"
 ---
 
 Developers working over SSH on remote servers lose their local IDE, and terminal editors with AI agent integration assume more machine context than a remote box offers. lazyide fills that gap as a deliberately agent-free editor: LSP completion and diagnostics via rust-analyzer, syntax highlighting for other languages, git gutter markers, crash-recovering autosave, and a command palette, all in a single ratatui binary that runs anywhere a terminal does. Its own positioning is to pair with an agentic coding tool running alongside it in the terminal. It installs via curl script, Homebrew, Scoop, or cargo, and is MIT-licensed.

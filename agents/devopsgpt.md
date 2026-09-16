@@ -32,6 +32,7 @@ sources:
   - "e2b"
   - "jim"
 what_makes_it_special: "Combines LLM with DevOps tools to automate the full software development lifecycle — clarifies natural-language requirements, generates interface docs, writes pseudocode, refines code, runs continuous integration, and releases software versions. Supports any development language and can extend existing code. Open-source self-hosted plus a cloud service (kuafuai.net) and Enterprise Edition."
+date_added: "2023-07-12"
 ---
 
 DevOpsGPT addresses the gap between a written requirement and a deployed service by automating the whole chain: it interviews the user to pin down requirements, produces interface documentation, drafts pseudocode, refines it into working code in the project's language, and hands the result to CI/CD. An enterprise edition adds analysis of existing codebases, stronger domain models, and more DevOps platform integrations, aimed at enterprise teams whose bottleneck is requirement hand-off rather than typing speed. The open-source edition demonstrated the full pipeline against Java SpringBoot projects. Upstream development stopped in 2024, leaving the enterprise product as the maintained line.

@@ -32,6 +32,7 @@ maintained: "dead"
 sources:
   - "jim"
 what_makes_it_special: "Associated link: an Open Interpreter demo tweet (twitter.com/OpenInterpreter/status/1770821439458840846); not a standalone agent harness"
+date_added: "2026-08-19"
 ---
 
 This entry exists only because a census crawl captured an Open Interpreter demo tweet as a URL. The tweet shows Open Interpreter executing code from natural-language prompts, but the tweet itself is content, not software. The harness it demonstrates is already tracked separately in this census under Open Interpreter.

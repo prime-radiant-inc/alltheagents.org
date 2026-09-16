@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "CodeBoundary: zero-trust AI co-development sandbox enforcing a compartment model where AI models operate in isolated ephemeral containers with strictly bounded data exposure via YAML/JSON 'data-boundary contracts'; 'diplomat's pouch' philosophy treats every AI interaction as a negotiated, auditable, ephemeral transaction; syntax-aware boundary checks (ASTs for 12+ languages), real-time secret redaction, hybrid routing (local models never see full context, frontier models never see credentials), immutable audit trail."
+date_added: "2026-06-28"
 ---
 
 The project proposes a zero-trust compartment model for AI-assisted development: models run in isolated ephemeral containers, their file and symbol access bounded by data-boundary contracts, with regex and ML redaction stripping secrets before prompts leave, and every exchange written to an immutable audit trail. The README describes syntax-aware boundary enforcement across a dozen languages, hybrid local/frontier-model routing by sensitivity, and staged outputs requiring explicit approval. What the repository does not contain is any implementation — no source, package, CLI, or license file accompanies the 798-commit README and GitHub Pages landing site, and claims of "Level IV Verified" status are unverifiable. Community engagement is limited to a single author with no forks or issues. It should be treated as a concept document for AI co-development governance, not working software.

@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "100% open-source, local-first desktop multi-agent cowork app built on CAMEL-AI's framework. Combines single-agent harness with multi-agent workforce coordination (parallel specialized agents that divide work & collaborate), MCP integration, skill integration, built-in browser & terminal toolkits, model agnosticism, and full data privacy."
+date_added: "2026-08-19"
 ---
 
 Eigent came out of the CAMEL-AI ecosystem to give people who cannot or will not route work through a cloud assistant a local alternative: a desktop app where a prompt is decomposed across an agent pool rather than answered by one model. Single-agent mode provides one CAMEL Agent with file, terminal, screenshot, and search toolkits; Workforce mode registers specialized agents that divide and execute tasks concurrently, with an execution context tracking which skills, MCP servers, and referenced files each task used. Model access is agnostic — cloud APIs, enterprise gateways, or local models via BYOK — and scheduled-task automation adds recurring workflows with trigger configuration, execution logs, and success-rate statistics. Non-technical operators use it for multi-step computer work, and enterprises can self-host the same stack on their own infrastructure.

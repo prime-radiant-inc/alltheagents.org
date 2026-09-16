@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "toolify"
 what_makes_it_special: "Domain (devle.ai) is for sale; product no longer operational. Originally described as an AI platform to build apps and websites via chat."
+date_added: "2026-08-19"
 ---
 
 Devle was one of many chat-to-app builders launched in the 2024 wave, promising app and website generation from conversational prompts. The domain now serves an empty page with no product, pricing, or company information, and no repository or archived docs could be located to verify its mechanics. It is retained in the census as a defunct entry.

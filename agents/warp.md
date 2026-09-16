@@ -36,6 +36,7 @@ sources:
   - "ishandutta"
   - "tiennm"
 what_makes_it_special: "Agentic development environment born from the terminal. Combines a modern terminal with AI-powered coding agent capabilities and support for external CLI agents (Claude Code, Codex, Gemini CLI). Client codebase is open source."
+date_added: "2021-07-08"
 ---
 
 Warp began as a modern terminal and grew into an agentic development environment for running fleets of coding agents across the software lifecycle. Work is defined as factories-as-code — factory.yaml plus agent files specifying triggers, agent types, models, permissions, and approval gates — and work flows in from Slack, Teams, Linear, Jira, and GitHub, with runs steerable from web, mobile, terminal, or IDE. A quality loop runs evals on a team's own work, cross-model benchmarks, and self-improvement in which observer agents open PRs against the factory config itself. Warp supports MCP servers in both local and cloud agents, exposes its own MCP server, and works with any MCP-capable harness including Claude Code and Codex. Pricing is credit-based per agent run across Free, Build ($20), Max, Business, and Enterprise tiers, with self-hosted-VPC options.

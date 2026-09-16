@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "5-phase autonomous loop (brainstorm->plan->execute->review+verify->backprop); state persisted on disk in .forge/ not conversation memory; crash-recoverable via lock file + checkpoints; per-task git worktrees with TDD and atomic squash-merge; hard token budgets; backpropagation turns runtime failures into new acceptance criteria + regression tests; multiplayer mode via distributed claim queue."
+date_added: "2026-03-21"
 ---
 
 Forge turns Claude Code into a brainstorm-to-commit pipeline built for long, token-hungry runs: an idea becomes an R-numbered spec with testable acceptance criteria, a dependency-ordered task DAG, TDD execution in per-task git worktrees, then review and four-level verification (existence, substantive, wired, runtime). Because state lives in .forge/ on disk instead of the context window, crashes and context resets resume from checkpoints, and a backprop phase converts runtime failures into new acceptance criteria plus regression tests that re-enter the loop. Seven hooks enforce token budgets, trim Bash output, cache reads, and compress tool output, which the project measures at roughly 29% real-token savings on filterable workloads. Approval-gated by default with a full mode for trusted runs, it appeals to Claude Code subscribers running multi-hour feature development.

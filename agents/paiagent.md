@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Dual-engine architecture (self-developed DAG + LangGraph4j state graph), zero-code visual drag-and-drop orchestration, Skills system with 3-level progressive loading to save tokens, Spring AI unified multi-model access"
+date_added: "2025-11-25"
 ---
 
 PaiAgent is a self-hosted, visual platform for composing AI workflows in the style of Dify or n8n, built as a public demonstration that a complete enterprise-grade system can be produced through AI-assisted 'vibe coding'. A ReactFlow drag-and-drop editor assembles flows from LLM nodes (OpenAI, DeepSeek, Qwen, ZhiPu, AIPing), TTS nodes, and input/output nodes, with LLM calls unified through Spring AI and Spring AI Alibaba (DashScope) and SSE streaming throughout. Its differentiator is the dual engine: a hand-built DAG engine using Kahn topological sorting with DFS cycle detection runs alongside a LangGraph4j StateGraph engine, switchable per workflow via an EngineSelector, while a Skills system loads YAML-defined prompts with three-level progressive loading to economize tokens. The stack is Java 21/Spring Boot 3.4 with MySQL 8 on the backend and React 18/TypeScript on the frontend, requiring local Java and Node setup rather than a packaged binary. Java developers studying or extending AI workflow platforms — and instructors demonstrating AI-built software — are the audience.

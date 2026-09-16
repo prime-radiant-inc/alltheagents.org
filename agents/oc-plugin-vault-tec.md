@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Personality matrix plugin for OpenCode that transforms it into a Fallout-themed RobCo terminal assistant with Vault-Tec branding. Features retro terminal aesthetics (scanlines, vignette effects), custom vault-tec theme, sidebar modifications, and all 122 vault experiment dossiers. Bugs become 'containment breaches' and deploys become 'surface excursions.'"
+date_added: "2026-03-28"
 ---
 
 oc-plugin-vault-tec is an OpenCode plugin that reskins the entire agent experience as a Fallout-themed RobCo terminal. Installation goes through OpenCode's plugin command or the in-editor palette, and configuration via opencode.json and tui.json controls prompt mode, theme, effects, sidebar, and tips. Beyond the personality prompt, the plugin ships a custom command set, a vault experiment dossier system, and retro CRT visual effects. It is primarily a demonstration of OpenCode's plugin surface — prompt injection plus TUI theming — packaged as an npm module. The project maintains an active repository with community stars and an npm release.

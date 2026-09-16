@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "NOTE: Not a coding agent harness. University course project that applies knowledge-based AI techniques to solve Raven's Progressive Matrices (visual and verbal psychometric intelligence tests). No LLM, no coding-agent features."
+date_added: "2015-08-05"
 ---
 
 The repository is coursework from Georgia Tech's OMSCS Knowledge-Based AI course, built against the university-provided Java framework for Raven's Progressive Matrices. It applies knowledge-based AI techniques — not language models — to visual and verbal analogy problems, reporting partial scores such as 9/12 on Basic D Visual and 7/12 on Raven's E Visual sets. The reflection PDF and problem folders are its whole output, and the project has been untouched since 2017. It entered the census only because its name matches agent-harness terminology.

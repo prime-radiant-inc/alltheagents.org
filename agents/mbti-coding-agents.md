@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Collection of 16 specialized AI coding agent personas mapped to Myers-Briggs (MBTI) personality types (Analysts, Diplomats, Sentinels, Explorers) to provide distinct cognitive styles; /squad for dynamic team selection, /battle arena where agents compete on tasks, /my-coding-mbti for personal coding MBTI detection; optional Text-to-Speech summaries."
+date_added: "2025-07-30"
 ---
 
 The project's thesis is that a persona encoded in the system prompt changes coding-agent behavior as much as the underlying model, so it packages sixteen agents spanning analysts, diplomats, sentinels, and explorers, each with distinct approaches to planning, risk, and communication. Teams can be composed dynamically with /squad for a given task, or run in a /battle arena where personas compete on the same task and a report compares their results; /my-coding-mbti turns the mapping back on the user. Agents run inside Claude Code and Gemini CLI, with an optional text-to-speech layer (MiniMax and Gemini) for spoken summaries, and documentation is bilingual with an eight-language README. It is a small solo-maintained persona collection (37 stars, no license file).

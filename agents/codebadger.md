@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Bridges Joern Code Property Graphs with LLMs via MCP - enables AI agents to run CPGQL queries, trace data flow/taint, slice programs, and hunt vulnerabilities across 13+ languages. Scales with per-CPG worker pools, memory-aware scheduling, Postgres/Redis backend. Accepted at ICSE 2026 Software Vulnerability Management Workshop."
+date_added: "2025-10-01"
 ---
 
 Codebadger, built at QCRI, gives LLM agents structured access to program analysis that plain code reading cannot provide. It constructs Joern Code Property Graphs from a git repository, local path, or pasted snippet, then exposes them over MCP so an external agent can run CPGQL queries, follow data-flow and taint paths, slice programs, and develop vulnerability proofs of concept across 13+ languages including Java, C/C++, Go, and Swift. The service scales through per-CPG worker pools with memory-aware scheduling on a Postgres and Redis backend, and documents an LLM workflow guide plus a security threat model for the analysis pipeline. It is a tools supplier rather than an agent: the repository is explicitly packaged as an MCP server (Dockerfile.mcp), with agents running externally, and it was published at the ICSE 2026 Software Vulnerability Management Workshop.

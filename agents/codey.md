@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "Local-first AI development OS with a multi-agent team (Prometheus, Athena, Scout, Iris, Matis, Hermes) working in parallel. Three modes: Co-Pilot (hands-on coding), Autopilot (full Next.js app builds), Workpilot (research, docs, spreadsheets, slides, automations). 70+ model providers with BYOK and no model usage fees to Codey. Code never touches Codey servers."
+date_added: "2026-08-19"
 ---
 
 Most coding assistants run one terminal session per task; Codey frames AI development as a small team of specialists that can work simultaneously. The local-first desktop application and terminal TUI connect to over seventy model providers, from Anthropic and OpenAI to OpenRouter and local models, with mid-task model switching. Co-Pilot mode keeps the developer hands-on while the agent team assists; Autopilot hands a single prompt to the Matis agent, which plans, codes, and delivers a complete Next.js application; Workpilot extends the same machinery to research, documents, and browser tasks. The application is free to download and use with any provider, while the $10/month Pro tier unlocks the autonomous modes. Developers who want an app-building agent on their own machine rather than in a hosted cloud are the target users.

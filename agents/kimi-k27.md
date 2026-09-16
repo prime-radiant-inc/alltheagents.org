@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "Desktop app (Kimi K2.7 Swarm Workstation) that turns your computer into a distributed AI command center, coordinating up to 300 parallel sub-agents powered by Moonshot AI's Kimi K2.7 Code (1T-param MoE, 32B active). Claims 81.1% MCPMark. Features hyper-parallel browser, live reasoning visualization (ThoughtStream), auto report generation, multimodal vision, custom agent-role tuning, and a Swarm Bridge providing an Anthropic/OpenAI-compatible API."
+date_added: "2026-06-12"
 ---
 
 The repository describes a desktop 'Swarm Workstation' that coordinates up to 300 parallel sub-agents running Moonshot's Kimi K2.7 Code model, with per-agent MCP toolsets and an Anthropic/OpenAI-compatible bridge. No application source accompanies the claims — only README text, a package.json, and .7z/.dmg download links — and the referenced benchmarks, model names, and hardware targets do not correspond to any released products. The distribution account is not Moonshot AI's GitHub organization, and the described free 'proxy pool' would route prompts and code through an anonymous third party. The census treats this entry as an unverifiable binary distribution rather than a working harness, and the files should not be downloaded.

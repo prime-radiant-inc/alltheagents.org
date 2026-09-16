@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Research demo implementing homomorphic encryption as a defense for AI agents, presented at RAIE'25 (ICSE 2025 workshop). Includes SSN agent and HE agent demos showing encryption-based protection of sensitive data. Paper-accompanying research artifact with only 23 commits."
+date_added: "2024-04-18"
 ---
 
 Agents that handle sensitive data leak it through prompts and context, and this repository explores one defensive idea: run the agent's reasoning over homomorphically encrypted values so the LLM never sees plaintext. The HE agent demo performs sum or product tasks on encrypted data through OpenAI models, with documented limits (results above 400 fail with the default encryptor) and a known indexing bug; a second demo shows encrypted protection of SSN data. The code accompanies 'Security of AI Agents' (arXiv:2406.08689) presented at the RAIE workshop at ICSE 2025 by UC Davis Security Lab researchers, with sandbox evaluation code maintained in a separate AgentBench fork. Its audience is security researchers evaluating encryption-based agent defenses, not developers choosing a coding tool.

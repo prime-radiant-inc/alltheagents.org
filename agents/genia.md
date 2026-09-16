@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "e2b"
 what_makes_it_special: "AI platform engineering team member that works alongside you in production environments via Slack integration; built on OpenAI function-calling; covers DevOps, SRE, SecOps, FinOps scenarios; 100% open source and expandable with custom tools"
+date_added: "2023-07-24"
 ---
 
 GeniA puts an LLM agent into the Slack channel a platform team already uses, so operational work — deployments to Kubernetes or Argo, incident troubleshooting, log summarization, FinOps and SecOps checks — happens by conversation in the channel rather than in a separate console. It is built on OpenAI and Azure function calling, predating the MCP ecosystem, and the tool layer is deliberately open: teams teach it new capabilities through a documented add-new-tool path. It installs with pip and a Streamlit front end or runs containerized against a Slack workspace, configured through a .env template with the team's OpenAI or Azure keys. Activity effectively stopped with its 2023 releases, leaving 409 stars and an MkDocs site as the record of what it did.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "AI coding assistant specifically for Xcode — tab-to-autocomplete and agentic chat directly within the iOS/macOS development workflow. Supports all major LLMs (OpenAI, Anthropic, Mistral, DeepSeek, Ollama, etc.) within Xcode. Image-to-code conversion. Custom Chat plugins for running Terminal commands/shortcuts in chat. Described as 'Cursor for Xcode' and 'Continue for Xcode'."
+date_added: "2026-08-19"
 ---
 
 CodeNext.ai serves iOS and macOS developers who want AI assistance inside Xcode itself rather than splitting work between an external editor and Xcode. It provides tab-to-autocomplete keyed to the Xcode buffer, agentic chat that writes code, fixes bugs, refactors, and explains code, conversion of design screenshots into code, and chat plugins that run terminal and git commands without leaving the conversation; Scopes narrow context for token-efficient answers. It connects to models from OpenAI, Azure OpenAI, Google AI, Mistral, Anthropic, DeepSeek, Ollama, and OpenRouter, either through included credits or the user's own keys. Distribution is a macOS application and Xcode extension from the website, with pricing from a free tier ($5 credits or BYOK unlimited) through Pro ($15/month) and Premium ($39/month) to enterprise terms.

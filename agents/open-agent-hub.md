@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Zero-dependency, single-command activation of Skills/Agents/Commands across 8+ AI coding assistants (Claude Code, Cursor, Trae, Gemini CLI, Codex, Antigravity, OpenCode, Kiro) with 83+ modular skills and upstream community sync."
+date_added: "2026-01-13"
 ---
 
 open-agent-hub addresses the fragmentation of agent configuration formats across coding assistants by maintaining one library of skills, agent role definitions, and slash commands that activate into any supported tool. The oah CLI symlinks rather than copies, so a single source of truth updates everywhere, and an upstream sync command pulls community skill updates. Agent definitions go beyond static prompts: the hub ships Orchestrator, Evaluator, and Optimizer roles with explicit handoff contracts, encoding an evaluator-optimizer loop. Installation ranges from Vercel's skills CLI for skill-only use to the full oah CLI from a cloned repository. Bilingual documentation serves both English and Chinese-speaking users.

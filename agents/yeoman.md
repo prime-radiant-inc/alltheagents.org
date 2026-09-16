@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Traditional development workflow and scaffolding tool (not an AI agent). Robust, opinionated workflow with a wide ecosystem of generators to quickly bootstrap and automate web application scaffolding. Supports custom generators across the organization's repositories."
+date_added: "2012-04-13"
 ---
 
 Yeoman is a long-established (pre-LLM) scaffolding ecosystem: a generator runner plus a workflow that bootstraps web applications from npm-published generator packages, with support for composing custom generators across an organization's repositories. It contains no AI or agent components; it is included in the census only as a boundary case marking what scaffolding looked like before agents. Its audience is web developers bootstrapping projects, and it remains mature but low-churn under the Google/BSD-licensed umbrella repo.

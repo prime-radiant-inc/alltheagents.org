@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Comprehensive curated survey repository of research papers, open-source projects, and company products related to AI code agents and foundation models, categorized for different technical roles (SWE, MLE, Data Scientists, Data Analysts)."
+date_added: "2024-07-07"
 ---
 
 The survey exists to orient different technical roles - software engineers, ML engineers, data scientists - in the code-agent literature and tooling landscape, which grew faster than any single team could track. Entries are organized into papers with code links, deployable projects and products, and code-specific foundation models, each annotated with year, venue, type, and intended audience. It is a reading list rather than software: the repository contains only a README, a license, and configuration files, with no runtime behavior. Its value is as a curated entry point for researchers, and it has not been updated since August 2024.

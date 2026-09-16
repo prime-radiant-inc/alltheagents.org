@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "user_reported"
 what_makes_it_special: "Collection of 28 plugins and MCP servers for Claude Code covering TDD, multi-agent orchestration, iterative refinement, binary reverse engineering, structured decisions, and more. Install any skill in one command via the Claude Code plugin marketplace."
+date_added: "2026-09-01"
 ---
 
 2389 Research's claude-plugins repo is a curated marketplace entry point for their Claude Code ecosystem: 28 plugins and MCP servers installable with a single `/plugin marketplace add` command. The collection spans TDD workflows, multi-agent orchestration, iterative refinement (Simmer), binary reverse engineering, structured decision-making, and specialized tools — each running inside Claude Code's existing agent loop rather than defining its own. Individual plugins like Thrifty, Simmer, and Binary RE have their own repos and census entries; this repo is the umbrella that makes them installable as a set. Developers browsing the marketplace pick the skills they need, and Claude Code's plugin system handles discovery, installation, and invocation.

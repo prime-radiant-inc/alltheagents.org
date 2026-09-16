@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "Web-based AI business-building platform with a marketplace to hire pre-assembled multi-agent AI teams (Engineering Team, Marketing Agency, etc.) with distinct roles. Extensible with any MCP server. Supports multiple model providers with Auto model selection. Build your business by chatting with AI for free."
+date_added: "2026-08-19"
 ---
 
 cto.new, built by Engine Labs, treats AI assistance as an org chart rather than a single chat window: users hire pre-assembled teams like an Engineering Team (tech lead, backend, frontend, QA) or a Marketing Agency from its Marketplace, and can publish their own teams there. The engineering agents plan architecture, build APIs and UI, and write and run tests, extending their capabilities through MCP servers and prebuilt integrations such as Linear, Sentry, Vercel, and Notion. The service is free and ad-supported with daily limits, requires no API keys, and routes across Anthropic, OpenAI, Gemini, Mistral, Grok, and DeepSeek models with an auto selector. Its intended users are non-technical founders and small teams who want outcome-delivering agent teams rather than IDE tooling.

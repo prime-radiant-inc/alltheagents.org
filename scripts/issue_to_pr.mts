@@ -19,7 +19,7 @@ const FIELD_ORDER = [
   "autonomy_level", "specialization", "language", "first_released", "current_release",
   "maintained", "mcp_support", "plugin_support", "claude_code_plugin", "subagents", "hooks",
   "plan_mode", "plugin_docs_url", "config_docs_url", "model_providers", "pricing", "stars",
-  "sources", "last_verified", "what_makes_it_special",
+  "sources", "last_verified", "date_added", "what_makes_it_special",
 ];
 const LIST_FIELDS = new Set(["platforms", "autonomy_level", "sources"]);
 const DEFAULTS = { layout: "agent.njk", specialization: "general", platforms: [], autonomy_level: [], sources: ["github-issue"] };
@@ -158,6 +158,7 @@ function cmdWrite(file: string) {
   const path = `agents/${slug}.md`;
   if (existsSync(join(ROOT, path))) fail(`entry already exists: ${path}`);
   const entry: Json = { ...DEFAULTS, ...v.entry, slug, last_verified: new Date().toISOString().slice(0, 10) };
+  if (entry.date_added == null) entry.date_added = entry.last_verified;
   const unknown = Object.keys(entry).filter((k) => !FIELD_ORDER.includes(k));
   if (unknown.length) fail(`unknown entry fields: ${unknown.join(", ")}`);
   for (const k of ["name", "category", "maker", "url"]) if (!entry[k]) fail(`entry.${k} is required`);

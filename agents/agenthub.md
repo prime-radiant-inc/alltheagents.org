@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Toolbar button launching any popular CLI coding agent"
+date_added: "2026-08-13"
 ---
 
 AI coding agents are mostly CLIs, and JetBrains users end up juggling terminal tabs, remembering install commands, and re-launching agents per project. AgentHub adds a toolbar button to every JetBrains IDE that launches any detected CLI coding agent in its own terminal window, auto-detects what is installed on startup, offers guided installs for missing agents, and flags outdated versions. More than 40 agents ship built in — Claude Code, Codex CLI, Grok Build, Antigravity CLI, Copilot CLI, Aider, Goose, OpenCode among them — plus custom entries defined by name, command, and URL, and Windows users can route everything through WSL. Settings manage agents per IDE, and optional companion tools (usage tracking, context packing) ship disabled by default.

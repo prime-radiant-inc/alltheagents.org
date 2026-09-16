@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Cline/RooCode/Kilo fork for AI-assisted coding, planning, and development"
+date_added: "2026-04-07"
 ---
 
 Kade takes the Cline lineage and rebuilds it around two bets: hierarchical multi-agent execution and aggressive context engineering. The main agent spawns sub-agents into their own tabs with isolated memory and independently chosen models, results flowing back up the tree. Tool calling moves past Cline's JSON/XML into proprietary Unified and Markdown protocols with multi-tool batching, and editing leans on fuzzy matching, whitespace normalization, and VS Code snapshots for exact undo/redo. The MCP Store advertises 25,000+ tools with security scanning. Distribution is concentrated on Open VSX (920k installs claimed), with a marketing-heavy README, only 7 commits of history, and a roadmap toward a full VS Code fork.

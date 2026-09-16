@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Collection of AI-powered prompts for software development workflows featuring AI Workflow Chains - structured sequences of connected prompts with input/output dependencies, verification points for chain integrity, and progress tracking. Language/framework-agnostic single-purpose prompts that chain together for complex tasks."
+date_added: "2024-10-26"
 ---
 
 The repository addresses a recurring failure in AI-assisted development: sessions lose structure across the phases of real projects, from requirements through architecture to testing. Its prompts are stored as pairs — an instruction file and a usage-metadata file — and grouped into workflow chains with defined inputs, outputs, dependencies, and verification points so work can move across separate assistant sessions without losing state. Coverage spans requirements generation, tech stack selection, architecture, scaffolding, code health analysis, unit test generation, and documentation. Nothing is installed: users share raw prompt URLs with whatever assistant they use. The most validated chain targets the aider workflow, and the library is explicitly a work in progress.

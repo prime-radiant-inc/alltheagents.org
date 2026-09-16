@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI-assisted development plugin powered by OpenCode"
+date_added: "2026-08-16"
 ---
 
 JetBrains users who adopted OpenCode in the terminal lacked IDE integration; Sigil supplies it by launching and managing a local opencode serve process and rendering its agent sessions inside the IDE, requiring the OpenCode CLI on PATH and any 2026.1+ JetBrains IDE. The plugin surfaces AI chat, sessions with per-session token and cost tracking, a context panel, slash commands, and tool permissions, with MCP support inherited from OpenCode. Because nothing leaves the local machine except the model API calls OpenCode itself makes, it fits developers with privacy constraints or self-hosted models. It is MIT-licensed, open source on GitHub, free on the Marketplace, and new — published mid-2026 with a few hundred downloads — so expect early-stage polish. Its audience is OpenCode users working primarily in JetBrains IDEs.

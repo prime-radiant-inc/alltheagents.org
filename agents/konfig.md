@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Official companion example repository for the Kusion platform, providing practical guided examples, shared application models, components, and a CI suite for GitOps workflows."
+date_added: "2022-05-05"
 ---
 
 Konfig exists as the companion examples repository for Kusion, KusionStack's intent-driven configuration and GitOps platform. Its example directory contains guided application models — nginx services, one-off and recurring jobs, multi-stack services, WordPress deployments against cloud or local databases — each mapped to a specific Kusion user guide so newcomers can copy a working configuration instead of assembling one. A shared CI suite exercises the GitOps workflows the examples demonstrate. Its audience is developers learning Kusion and teams copying a starting point for their own stack definitions; active development happens in the main KusionStack/kusion repository, not here.

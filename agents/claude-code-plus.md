@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Provides a rich GUI for Claude Code (and Codex/Gemini CLI) inside JetBrains IDEs with @-mention file context, tool call visualization, multi-session chat, permission dialogs, model switching, keyboard shortcuts, MCP support, and dark theme compatibility."
+date_added: "2025-06-13"
 ---
 
 Running CLI coding agents in a raw terminal forfeits IDE navigation, diff review, and permission UX. Claude Code Plus embeds the agents as a JetBrains tool window and translates their activity into structured UI: chat with multi-session support, tool-call cards for reads/writes/edits with diffs, permission dialogs before writes, clickable file navigation, and interrupt handling. It bundles Claude and Codex agent SDKs and an MCP transport, and supports @-mentions to attach files as context. Developers who live in IntelliJ-family IDEs use it to keep agent work visible next to the editor; it is MIT-licensed and free, requiring the user's own Claude subscription or API key.

@@ -31,6 +31,7 @@ maintained: "dead"
 sources:
   - "github_topic"
 what_makes_it_special: "AI Frontend Assistant that turns Figma designs, images, and prompts into production-ready code while maintaining design standards and coding style; Figma-to-Code, Image-to-Code, and Sketch-to-Code transformations."
+date_added: "2024-06-25"
 ---
 
 Superflex targeted the handoff gap between design and frontend implementation: developers pointed it at a Figma frame, a UI screenshot, or a hand-drawn sketch, and it produced component code matching the project's established design tokens and conventions rather than generic markup. It also supported codebase chat and refactoring grounded in selected files, positioning itself as a frontend-focused pair programmer rather than a general chat window. The extension was free to install, with the source under MPL-2.0, and it ran in both VS Code and Cursor. The repository was archived read-only in March 2026 after 540 commits, so it remains installable from the marketplace but unmaintained.

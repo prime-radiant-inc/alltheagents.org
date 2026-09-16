@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "Builds the evidence layer for agent systems: generate and quality-validate realistic scenarios, run any agent against them, grade transcripts from JSONL traces, and promote failures into regression suites gated in CI."
+date_added: "2025-11-21"
 ---
 
 Teams shipping agent features lack a systematic way to prove they work, so Bolt Foundry built Gambit around scenario generation, grading, and regression. Agents under test — whether Mastra, LangGraph, OpenAI Agents SDK, or custom stacks — are exercised through one-shot runs, a REPL, or a browser chat with full traces, while Gambit's own 'deck' agents are defined in Markdown or TypeScript with Zod schemas. Grading turns transcripts into pass/fail evidence, and a GitHub Actions example shows scenario grades acting as PR gates. Agents compose through child actions and ctx.spawnAndWait, OpenRouter is the default provider with Claude Code and Codex CLIs as alternative runtimes, and the repository has moved from bolt-foundry to the coworkerprotocol-org.

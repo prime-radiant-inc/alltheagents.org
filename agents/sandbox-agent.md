@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Server that runs inside sandboxes to remotely control coding agents (Claude Code, Codex, OpenCode, Cursor, Amp, Pi) over HTTP/SSE. Universal Agent API - one HTTP interface controls six different agents, swappable via config. Universal Session Schema normalizes all agent event formats for storage/replay (Postgres, ClickHouse, Rivet). Single Rust static binary, fast startup, runs anywhere (E2B, Daytona, Modal, Cloudflare Containers, Docker). Replaces fragile SSH/TTY piping that breaks streaming, permissions, and human-in-the-loop flows. Dual mode: HTTP server or embedded via TypeScript SDK. Built-in Inspector UI."
+date_added: "2026-01-25"
 ---
 
 Product teams embedding coding agents in their own apps hit the same wall six times: each harness has a proprietary API, event format, and permission model. Rivet's sandbox-agent runs as a static Rust binary inside a sandbox (E2B, Daytona, Modal, Cloudflare Containers, plain Docker) and translates all of them into one HTTP plus SSE interface covering streaming events, permission requests, and session management, with an embedded SDK mode for local subprocess use. An Inspector UI replays sessions for debugging, and a CLI mirrors the HTTP endpoints. It is Apache-2.0, ships a TypeScript SDK alongside the server, and is under active development at version 0.4.x with MCP configuration automation on the roadmap. The audience is platform engineers building agent-hosting products rather than end-user developers.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Intelligent development framework for Claude Code that adds project awareness via a Hooks system. Uses Ollama (local LLM) to auto-detect project type/framework, recommend 300+ expert Skills, perform intent analysis, and maintain docs automatically. Replaces Memory MCP with document-driven context injection to avoid context explosion."
+date_added: "2025-08-06"
 ---
 
 The framework addresses context amnesia in Claude Code: sessions start cold, conventions drift, and documentation rots. It works by cloning a dedicated workspace, placing the project inside, and wiring hooks so that every session start injects detected project context, relevant skills, and intent analysis from a locally running Ollama model, so no extra cloud calls are needed for the meta-layer. Recommended MCP tools and execution plans are surfaced per prompt, and predefined command workflows cover spec-driven development and git workflows. Solo developers, primarily in the Chinese-language community, use it; the repo has few commits and no releases beyond v1.0.0.

@@ -33,6 +33,7 @@ maintained: "dormant"
 sources:
   - "github_topic3"
 what_makes_it_special: "Provides a user-friendly SwiftUI graphical interface for the Apple App Clip Generator CLI tool, allowing easy customization and export of App Clip Codes on macOS"
+date_added: "2020-12-17"
 ---
 
 AppClipCodeGenerator gives Apple's command-line App Clip Code generator a native macOS interface: enter a URL, choose foreground/background colors or Apple templates, select NFC-only or camera-scan-only output, and export SVG or PNG. It requires macOS 11+, Apple's own CLI installed separately, and librsvg for export. The project is a hobby utility by Alfian Losari with exactly two commits, 101 stars, and no updates since May 2022, so it may not track current macOS or Apple CLI changes. Its presence in an AI harness census is purely incidental — there is no model, no agent, and no automation of any kind.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "JetBrains IDE plugin bridging AI coding agents to IntelliJ platform APIs through 120+ native MCP tools, letting agents call deterministic IntelliJ tools (PSI, VFS, refactoring engine, test runner, debugger) directly instead of relying on LLMs to approximate code intelligence from text. Supports 8 agents with one-click switching and cross-client session resume."
+date_added: "2026-02-28"
 ---
 
 When a coding agent edits through a terminal, it sees IntelliJ projects as text and misses what the compiler, index, and refactoring engine already know. agentbridge closes that gap by exposing the IntelliJ platform — PSI syntax trees, VFS, refactoring actions, test runner, build system — as 120-plus MCP tools over an HTTP bridge, so agents like Claude Code, Codex, Copilot, Kiro, Junie, or OpenCode call deterministic IDE operations instead of guessing. Per-agent tool permissions gate what each client may touch, sessions resume across clients, and a PWA exposes the chat over HTTPS from any device. Developers working in JetBrains IDEs who want agents to use the IDE's own code intelligence are the audience.

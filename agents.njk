@@ -1,23 +1,17 @@
 ---
 layout: base.njk
 eleventyComputed:
-  title: "All Entries — All the Agents"
+  title: "Agents — All the Agents"
   extraScripts: |
     <script src="{{ '/js/list-view.js' | url }}"></script>
 ---
 <div class="page-header">
-  <h1>All Entries</h1>
-  <p class="page-sub">{{ collections["all-entries"] | size | numFmt }} entries catalogued — agents, multiplexers, and SDKs. Filter and sort below.</p>
+  <h1>Agents</h1>
+  <p class="page-sub">{{ collections.agent | size | numFmt }} coding agent harnesses — systems that let an LLM write, modify, debug, or run code. Filter and sort below.</p>
 </div>
 
 <div class="filter-bar" data-filter-bar data-source="agents-only">
   <input type="search" class="filter-search" data-filter-search placeholder="Filter by name, maker, language…">
-  <select data-filter-select data-field="category">
-    <option value="">All categories</option>
-    <option value="agent">Agent</option>
-    <option value="multiplexer">Multiplexer</option>
-    <option value="agent-sdk">Agent SDK</option>
-  </select>
   <select data-filter-select data-field="license">
     <option value="">All licenses</option>
   </select>
@@ -33,8 +27,8 @@ eleventyComputed:
     <option value="">All platforms</option>
   </select>
   <select data-filter-sort>
-    <option value="name">Sort: Name</option>
     <option value="stars">Sort: Stars</option>
+    <option value="name">Sort: Name</option>
     <option value="released">Sort: Released</option>
   </select>
   <select data-filter-pagesize aria-label="Entries per page">
@@ -46,7 +40,7 @@ eleventyComputed:
 </div>
 
 <div class="card-grid" data-card-grid>
-  {% set sorted = collections["all-entries"] | sortByName %}
+  {% set sorted = collections.agent | sortByStars %}
   {% for agent in sorted %}
   <a class="agent-card" href="{{ ('/agents/' ~ agent.data.slug ~ '/') | url }}"
      data-category="{{ agent.data.category }}"
@@ -64,7 +58,6 @@ eleventyComputed:
     </div>
     <p class="card-desc">{% if agent.data.what_makes_it_special %}{{ agent.data.what_makes_it_special | truncate(160) }}{% endif %}</p>
     <div class="card-meta">
-      {% if agent.data.category and agent.data.category != "other" %}<span class="badge badge-cat badge-cat-{{ agent.data.category }}">{{ agent.data.category }}</span>{% endif %}
       {% if agent.data.maker and agent.data.maker != "null" %}<span>{{ agent.data.maker }}</span><span class="dot">·</span>{% endif %}
       {% if agent.data.license and agent.data.license != "null" %}<span>{{ agent.data.license }}</span><span class="dot">·</span>{% endif %}
       {% if agent.data.maintained and agent.data.maintained != "null" %}<span class="badge badge-status badge-status-{{ agent.data.maintained }}">{{ agent.data.maintained }}</span>{% endif %}
@@ -73,6 +66,6 @@ eleventyComputed:
   {% endfor %}
 </div>
 
-<div class="filter-empty" data-filter-empty hidden>No entries match your filters.</div>
+<div class="filter-empty" data-filter-empty hidden>No agents match your filters.</div>
 
 <div class="pagination" data-pagination></div>

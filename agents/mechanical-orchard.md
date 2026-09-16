@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI-driven mainframe rewrite platform (Imogen); Gartner Cool Vendor"
+date_added: "2024-06-01"
 ---
 
 Mechanical Orchard targets the risk that has stalled mainframe modernization for decades: rewritten systems whose behavior drifts from the original. Imogen rewrites legacy workloads into cloud-ready code while continuously verifying that outputs match the source system, so defects surface during the migration rather than in production; reported engagements include a manufacturing warranty system delivered in about five months against an eighteen-month original estimate, and a SulAmérica mainframe migration to Google Cloud. Customers span Fortune 20/100/500 automotive, healthcare, retail, and insurance firms, and a Summer 2026 release added AWS Transform integration. It is an enterprise modernization platform powered by agentic automation, not a developer-installable tool.

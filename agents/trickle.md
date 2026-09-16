@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI website/app builder with agent workflow"
+date_added: "2026-08-19"
 ---
 
 Trickle exists to let people without frontend workflows ship web applications: a plain-language description becomes a working app or website that is live immediately, rather than a codebase requiring separate hosting. The platform pairs the builder with a templates library, a community gallery of featured projects, and companion tools (FirstVersion, AI Screenshot), while positioning the companion product HappyCapy as the step up for agentic work beyond app building. Founders and non-technical makers use it to produce sites and simple web apps quickly; a free tier exists with paid plans above it. The underlying models and internal build mechanics are not disclosed on the public site.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Auditable sandbox for AI coding agents with multiple isolation tiers (workspace, process, supervised, container via rootless Podman, microvm via microsandbox). Includes isolated browser control, end-to-end encrypted P2P sharing, reviewable patches/logs, eBPF runtime detection, and self-hosted runners. Local-first, no SaaS."
+date_added: "2026-03-11"
 ---
 
 h5i gives AI agents a browser and execution environment they cannot quietly exceed. Its browser engine is written in Rust without Chromium or V8, acting as its own HTTP client so that each network request is logged as an allow/deny decision before bytes move, producing an audit receipt that distinguishes what the engine claims from what the host observed. The same project provides 'boxes' — sandboxed git worktrees holding code, toolchain, and agent — that can run at five isolation levels (plain workspace, Landlock-seccomp process sandbox, network-namespaced supervised mode, rootless Podman container, or microsandbox microVM), with mandatory escalation rather than silent downgrades. Sessions produce reviewable request logs and audit artifacts, and boxes support encrypted peer-to-peer sharing plus a multi-agent forum mode. It targets teams that need to let agents browse and execute with verifiable evidence of what they actually did.

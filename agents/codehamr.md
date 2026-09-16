@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Minimalist terminal coding agent for local LLMs: three slash commands, one embedded system prompt, no router/sub-agents/skills/MCP. Designed for local LLMs where the context window is precious; verifies its own work by running tests/compiling as a habit, not a gate."
+date_added: "2026-04-29"
 ---
 
 Codehamr is written for developers who run coding agents against local models, where the context window is the scarce resource. The design keeps everything out of the prompt that is not the user's work: three slash commands, a single embedded system prompt, and a plain tool loop over bash, file reading, writing, and editing, with verification by running tests or compiling treated as habit rather than enforcement. It targets roughly 30B-class models on hardware with 32GB or more of unified memory, seeded with qwen3 27B over Ollama, vLLM, or LM Studio, while also accepting any OpenAI-compatible cloud endpoint. There is no router, subagent system, skill loader, or MCP layer, and HamrPass — an optional waitlisted hosted endpoint — exists as an optional convenience rather than a requirement. The agent is written in Go and installs via curl scripts on Linux, macOS, and Windows (WSL2).

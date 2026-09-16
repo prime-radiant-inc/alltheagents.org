@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Scheduling center plus sandbox using Docker for safe, isolated Python code execution; stores generated image data in PostgreSQL with API access; designed to accelerate AI agent development by providing a reliable remote code-execution API."
+date_added: "2024-08-13"
 ---
 
 The service gives LLM applications a safe code-execution backend without exposing the host: each request runs in an isolated Docker container with configurable memory/CPU limits and timeouts, and generated images persist in PostgreSQL for retrieval through a REST endpoint. The scheduling center manages concurrency with queues and semaphores, and a hosted demo integrates with FastGPT, so agent platforms can add code execution without building sandbox infrastructure. It deliberately contains no LLM, planning, or agent logic - it is the tool, not the agent. Development activity ceased in early 2025.

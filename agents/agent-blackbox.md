@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic5"
 what_makes_it_special: "Local-first flight recorder and context-efficiency profiler for coding agents that turns every agent run into a live, replayable operational graph reconstructed from observed events (not agent self-summary). Scores runs on 11 context-efficiency metrics with task-tailored scoring, can write fixes back to CLAUDE.md/AGENTS.md, and offers an in-run optimizer cutting ~94-96% of re-read tokens. Host-agnostic (Claude Code, Codex, OpenCode)."
+date_added: "2026-06-16"
 ---
 
 When a coding agent wastes half its context re-reading files or repeating failed approaches, nothing in the transcript explains the pattern, so Agent-Blackbox records runs externally and reconstructs what actually happened from observed events — files read, edits, commands, subagent delegations. Each run gets scored on eleven context-efficiency metrics plus outcome, and the tool can write a reversible memory block into CLAUDE.md or AGENTS.md so future runs avoid the same waste; an in-run optimizer trims redundant reads by roughly 94–96%. It runs via npx against Claude Code, Codex, or OpenCode sessions, needs no API key, and keeps everything local. Developers tuning agent cost and reliability use it as a profiler rather than a harness.

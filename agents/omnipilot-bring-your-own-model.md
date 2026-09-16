@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Fully autonomous BYO-model AI coding assistant"
+date_added: "2026-08-08"
 ---
 
 OmniPilot embeds an agentic coding assistant into IntelliJ-family IDEs as a marketplace plugin. Agent Mode runs autonomously with granular permission controls over what the assistant may touch, while a chat mode handles conversational coding with markdown rendering. Because the plugin is BYO-model, it works against hosted APIs from OpenAI, Anthropic, or Groq as well as local LM Studio and Ollama endpoints, keeping code and prompts inside the developer's infrastructure. Context selection is automatic, and the plugin maintains persistent state across sessions. The plugin is free and GPL-3.0, distributed through the JetBrains Marketplace with source on GitHub.

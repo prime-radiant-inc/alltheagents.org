@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Python framework for interacting with LLMs — chat, function calling, structured output, RAG, and agentic chains with tools. Key differentiator is guided sampling via grammars and JSON schema generation, enabling most 7B LLMs (even those not fine-tuned for function calling) to perform structured output and function calling. Supports parallel function calling, RAG with ColBERT reranking, and predefined message formatters for many model families (Mistral, ChatML, Vicuna, Llama 2/3, Phi-3, DeepSeek Coder v2). NOTE: No longer maintained — author recommends using ToolAgents instead."
+date_added: "2023-12-29"
 ---
 
 The framework addressed a practical problem from the era before function calling was widespread: small local models frequently emitted malformed JSON, so agent chains built on them were unreliable. By constraining token sampling with grammars and JSON schemas during inference, it made structured output and tool invocation a decoding-time guarantee rather than a learned behavior. Developers building local assistants, RAG applications, and tool-using chains on llama.cpp-class hardware used it to add those capabilities without fine-tuning. The project has been abandoned; the author now points users to ToolAgents and other maintained Python agent frameworks.

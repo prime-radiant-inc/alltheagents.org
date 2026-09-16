@@ -37,6 +37,7 @@ sources:
   - "ishandutta"
   - "tiennm"
 what_makes_it_special: "Takes a GitHub issue and tries to automatically fix it using your LM of choice. State-of-the-art on SWE-bench among open-source projects (NeurIPS 2024). Configurable via a single YAML file. Development effort has shifted to mini-swe-agent which has superseded SWE-agent."
+date_added: "2024-04-02"
 ---
 
 SWE-agent was built to answer a research question: does the interface an LM uses to operate on a repository matter as much as the model behind it? Its answer was a custom Agent-Computer Interface — compact file viewers, search tools with bounded output, and guarded edit commands — which drove state-of-the-art SWE-bench results at publication and a NeurIPS 2024 paper. In operation the agent receives a GitHub issue, explores a sandboxed copy of the repository with its custom shell tools, edits files, and runs tests before emitting a patch; all behavior is configured through a single YAML file. Beyond issue fixing, the same scaffold powers cybersecurity research through its EnIGMA configuration. Development attention has moved to mini-swe-agent, which the README explicitly recommends as the successor, leaving SWE-agent in maintenance mode.

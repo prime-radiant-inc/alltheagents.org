@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Workshop materials for 'Optimizing Codebases for Agents' — a tangible before/after comparison of the same application (Version A = realistic mess with deliberate anti-patterns vs. Version B = agent-optimized), paired with an AI-readiness scorecard runnable against any repo via Claude Code, and a live agent race demo where two terminals run the same prompt against different codebases to visually demonstrate the impact of codebase optimization on AI agent performance."
+date_added: "2026-02-21"
 ---
 
 When coding agents produce poor results, teams usually blame the model or the prompt; this workshop argues the codebase is often the real constraint. Built for the 'Optimizing Codebases for Agents' session at the Coding Agents conference (March 2026, Computer History Museum) by Shrivu Shankar of Abnormal Security, the repository contains two complete implementations of the same ML experiment tracker - one deliberately full of anti-patterns, one restructured for agent navigation - plus a scoring rubric that audits any repository from 0 to 9 across three readiness dimensions. A ready-made Claude Code prompt runs the audit against any repo, and a scripted race demo shows the same prompt on both codebases side by side. Conference attendees and team leads use the materials to assess and restructure their own repositories for agent work.

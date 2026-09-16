@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "flatlogic"
 what_makes_it_special: "No-code/low-code platform (rebranded to Workshop AI by Atlas Futures, Inc.) for building websites, AI-powered apps, dashboards, and internal tools by chatting with AI; supports local models."
+date_added: "2026-08-19"
 ---
 
 Memex began as a browser-based app builder and was rebranded as Workshop AI under Atlas Futures, with memex.tech now redirecting to the new brand. The product ships as a hosted cloud service and as Workshop Desktop, a cross-platform app that runs open-source models like Qwen, GLM, and MiniMax entirely on the local machine with one-click model download and no API keys; the app grades the host hardware and reports whether it can sustain fully agentic coding or only chat-grade interaction. Hybrid threads run local and cloud models side by side, reserving local models for privacy-sensitive work and cloud models for heavier tasks. The chat-to-build workflow generates websites, dashboards, internal tools, and AI-powered apps, with task delegation for ad-hoc work. The audience spans roughly 30,000 users ranging from non-developers assembling dashboards to teams in regulated industries that need air-gapped operation.

@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "bing_ddg_chinese"
 what_makes_it_special: "A family of code LLMs (1B-33B) trained from scratch on 2T tokens (87% code, 13% NL) for code completion, insertion, chat, and repository-level completion. 16K context with fill-in-the-blank; 7B matches CodeLlama-34B; 33B instruct beats GPT-3.5-turbo on HumanEval; supports 87+ languages. A model, not an agent harness."
+date_added: "2026-08-19"
 ---
 
 DeepSeek Coder is a series of open-weight code language models from 1.3B to 33B parameters, trained from scratch on two trillion tokens dominated by source code in roughly 90 programming languages plus English and Chinese. The training mix includes a project-level repository corpus and a fill-in-the-blank objective, giving the models 16K-context completion and infilling behavior that made them useful for IDE-style completion as well as chat. Released as Base and Instruct checkpoints (the Instruct variants arrived January 2024), they set open-source records at the time on HumanEval and related benchmarks. The models are consumed through Hugging Face weights, the DeepSeek API, or local runtimes — by other harnesses rather than as one — and the repository's own activity wound down as DeepSeek moved to later model generations.

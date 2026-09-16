@@ -36,6 +36,7 @@ sources:
   - "jim"
   - "ishandutta"
 what_makes_it_special: "Self-improving architecture — Claude can autonomously identify capability gaps, design, and implement new tools during conversations, making the framework more powerful with continued use; available as both CLI and web interface."
+date_added: "2024-06-24"
 ---
 
 Claude Engineer was an early (2024) demonstration that an agent's toolset could be emergent rather than fixed: when a task exceeds the built-in tools (file operations, E2B code execution, web search), the model designs and implements a new tool during the conversation, and the runtime loads it without restart. Both a web UI and CLI expose the same agent, with image analysis and token-usage visualization. The approach trades reliability for extensibility, since self-written tools vary in quality. It attracted a large following (over 11k stars) as a reference design for self-improving agents, but the maintainer stopped committing in December 2024, leaving many pull requests unmerged.

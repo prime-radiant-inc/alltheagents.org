@@ -31,6 +31,7 @@ maintained: null
 sources:
   - "github_final"
 what_makes_it_special: "Natural language team builder plugin for Claude Code Agent Teams - describe what you want in one sentence and it assembles a purpose-driven AI team with validation loops (up to 3 rounds) and shared memory for cross-session persistence."
+date_added: "2026-02-28"
 ---
 
 Assembling a useful set of Claude Code subagents by hand is slow and error-prone, so kkirikkiri automates team construction: the user describes the goal in one sentence, the plugin interviews briefly, proposes members with strictly scoped roles, and delegates execution to a team leader that plans and validates but never writes code directly. Well-performing members can be saved back to .claude/agents/ for reuse, and shared state (plans, progress) persists in .kkirikkiri/teams/ across sessions. Validation loops of up to three rounds swap underperforming members or rebuild the team. It targets Claude Code users with the experimental Agent Teams flag enabled who want repeatable multi-agent setups without hand-editing agent definitions.

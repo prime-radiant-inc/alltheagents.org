@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "No-code platform for building generative AI agents, workflows, and chatbots by chaining multiple LLMs. Features multi-tenant support, data import/vectorization out-of-the-box, Slack/Discord triggers, and on-premise or cloud deployment — all without coding."
+date_added: "2023-08-06"
 ---
 
 LLMStack targets organizations that want production AI workflows without an engineering team maintaining inference plumbing: operators connect data sources (CSV, PDF, Google Drive, Notion, websites), chain multiple LLM providers into processing pipelines, and expose the result as APIs, chatbots, or Slack/Discord-triggered automations. Multi-tenant organization and user management make it viable for internal tooling across teams, and multimedia generation (text, images, video, audio) extends it beyond text chains. Deployment is self-hosted via pip or the vendor's Promptly cloud. Its PolyForm-style noncommercial license keeps the source visible while restricting commercial self-hosting.

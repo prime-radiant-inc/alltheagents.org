@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "GitHub Action for triggering other GitHub Actions workflows via the workflow_dispatch event; can wait for triggered workflow completion, poll run status, sync status, trigger workflows in other repos, and pass JSON inputs between workflows. (Not a coding agent harness — it's a CI/CD workflow chaining tool.)"
+date_added: "2020-07-10"
 ---
 
 workflow-dispatch addresses the lack of native workflow-to-workflow chaining in GitHub Actions: it triggers other workflows through the workflow_dispatch event, optionally waits for their completion, polls run status, triggers workflows in other repositories, and passes JSON inputs between chained workflows. It is a conventional CI/CD action with no AI or agent behavior, included in the census only as a boundary case. CI authors use it to chain pipelines across repositories with status polling and JSON input passing.

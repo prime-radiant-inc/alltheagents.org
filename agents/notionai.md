@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Integrated AI feature within Notion workspace for writing, summarization, translation, Q&A across workspace data, and document drafting. Not a coding agent — it is a productivity/writing assistant."
+date_added: "2026-08-19"
 ---
 
 Notion AI embeds an assistant and agent layer inside the Notion workspace, drawing context from pages, databases, and connected applications. Beyond inline writing help and database autofill, Notion Agent executes multi-step tasks across the workspace, and Custom Agents run on schedules or triggers to handle recurring team work such as answering Slack questions or routing tasks. Enterprise Search returns cited answers across connected tools, and AI Meeting Notes transcribe and summarize without a meeting bot. The feature set ships with Business and Enterprise plans, with agent automation metered separately through credits. Governance controls cover permissions over what agents can access and admin usage dashboards.

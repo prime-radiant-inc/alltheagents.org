@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Policy engine / EDR / signed audit chain for AI agents and OS-level events. Treats AI tool calls in the same taxonomy as kernel events (file access, process exec, network flow, etc.). Fail-closed defaults, Ed25519-signed causal graph, formally verified (Lean 4)."
+date_added: "2026-01-31"
 ---
 
 Clawdstrike exists because agent tool calls have OS-level blast radius but no OS-level enforcement: it applies the EDR model to AI agents, evaluating tool calls and OS events against a policy of guards (forbidden paths, egress allowlists, secret-leak detection, MCP tool gates, prompt-injection detection) that defaults to deny when configuration or evaluation fails. Every verdict produces an Ed25519-signed receipt hashed into a per-session causal graph, and enterprise deployments chain receipts over NATS into a tamper-evident audit log. Core decision logic carries Lean 4 formal verification differentially tested against the Rust implementation. Security teams deploying Claude Code, Cursor, or OpenClaw use it to fail closed rather than trust model behavior.

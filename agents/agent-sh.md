@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Composable agent runtime pairing any frontend (shell, TUI, GUI) with any agent backend over one shared extension layer. A pure kernel (typed event bus + handler registry + extension loader) sits at the center, knowing nothing about terminals, LLMs, shells, or rendering. The bundled frontend is a shell where typing > invokes an agent that already sees your cwd, last command, and its output. Frontends and backends are freely mix-and-matchable (swap ash for pi, claude-code, or opencode via in-the-box bridges)."
+date_added: "2026-04-08"
 ---
 
 Most terminal AI tools weld one frontend to one backend, so switching providers means switching tools; agent-sh instead separates the shell from the agent entirely. Its kernel is a typed event bus with a handler registry and extension loader that knows nothing about terminals, LLMs, or rendering, and the default frontend is a working bash/zsh/fish shell where a > prompt prefix hands the conversation to an agent that sees your current directory, last command, and its output. Built-in bridges let the same setup drive pi, claude-code, or opencode backends, and extensions add tools, slash commands, and themes over the event bus. It is MIT-licensed, installable via npm, and aimed at terminal-first developers who want their agent choice decoupled from their shell.

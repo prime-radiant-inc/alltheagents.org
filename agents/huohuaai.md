@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Chinese AI programming assistant with completion, debugging, project creation"
+date_added: "2025-01-07"
 ---
 
 HuoHuaAI targets Chinese-speaking developers who want a fully localized agentic assistant inside VS Code. Built on the Roo/Cline architecture, it breaks tasks into steps, applies edits as reviewable diffs, monitors linter and compiler output, and auto-fixes problems like missing imports; a terminal integration runs commands through VS Code shell integration and keeps long-running dev servers alive. The agent can also drive a headless browser with screenshots and console logs to verify and fix visual bugs. Context tools (@file, @folder, @url, @problems) and screenshot input support mockup-to-app workflows. All model costs flow through the user's own API keys, and the extension remains free with roughly 7,000 installs.

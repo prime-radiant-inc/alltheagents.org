@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "author_search"
 what_makes_it_special: "Local-first analytics tool (single Go binary) that browses, searches, and tracks costs across 20+ AI coding agents' session data. SQLite-indexed for 100x faster queries vs re-parsing raw files. Multi-backend (SQLite, PostgreSQL, DuckDB), full-text + semantic search, SSE live updates, privacy-focused (loopback binding, disableable telemetry), Tauri desktop wrapper."
+date_added: "2026-02-19"
 ---
 
 Session logs from coding agents pile up in vendor-specific formats, making cost tracking and history search a per-tool chore. AgentsView discovers sessions from a long list of agents (Claude Code, Codex, Copilot CLI, Gemini CLI, Cursor, Windsurf, OpenCode, Goose, Aider, Devin CLI, Zed, Warp, and dozens more), normalizes them into a local SQLite database with FTS5 search, and serves a local web UI with usage dashboards, activity heatmaps, and live SSE updates. Everything stays on the machine by default; optional PostgreSQL push supports team dashboards and DuckDB offers a read-only analytical mirror. Cost analytics are cache-aware with LiteLLM/OpenRouter pricing, positioned as a dramatically faster replacement for ccusage-style accounting. Distribution is a single binary via install script, Homebrew cask, GitHub releases, or Docker.

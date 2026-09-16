@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "github_topic4"
 what_makes_it_special: "Obsidian plugin that bridges Obsidian notes with Cursor (AI code editor), enabling one-click opening of notes/folders directly in Cursor for AI-powered coding from a knowledge base."
+date_added: "2024-10-20"
 ---
 
 cursor-bridge exists because some users maintain their project notes and plans in Obsidian while doing AI-assisted coding in Cursor, and switching between the two apps manually breaks the flow. The plugin adds commands, context-menu entries, and a sidebar action to open the current note or vault folder directly in Cursor, on Windows and macOS. It contains no AI logic of its own; all coding behavior belongs to Cursor. The TypeScript plugin gathered about 50 stars and 27 commits before activity tapered off, and its README claims MIT while the repository's LICENSE is AGPL-3.0, a discrepancy worth noting for anyone redistributing it.

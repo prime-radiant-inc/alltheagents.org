@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Training platform for Multi-Agent Connected Autonomous Driving built on the CARLA simulator; OpenAI Gym-compatible environments for Deep RL in homogeneous/heterogeneous, communicating/non-communicating multi-agent driving settings; JSON-like configuration; multi-GPU support. (Not a coding agent — it's an autonomous driving RL environment.)"
+date_added: "2019-05-14"
 ---
 
 MACAD-Gym packages the environment layer from a NeurIPS 2019 workshop paper on multi-agent connected autonomous driving, letting RL researchers train and evaluate driving policies in CARLA without writing simulator glue. Scenarios are configured declaratively, sensor and reward setups compose across homogeneous or heterogeneous agent populations, and the Gym-compatible interface means standard deep-RL training loops run unmodified. Autonomous-driving researchers reproducing or extending multi-agent RL experiments are the audience; the platform requires CARLA 0.9.x alongside the pip install. Development has been stable but inactive since 2023.

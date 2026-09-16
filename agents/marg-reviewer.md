@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "github_topic4"
 what_makes_it_special: "MARG (Multi-Agent Review Generation) — generates peer reviews for scientific papers using multiple AI agent strategies (SARG-B, LiZCa, MARG-S)"
+date_added: "2023-12-20"
 ---
 
 The repository accompanies Allen AI's study of whether multi-agent LLM pipelines can produce useful scientific peer reviews, providing the web interface used in the paper's user study alongside scripts that reproduce its alignment experiments on the ARIES dataset. A reviewer submits a paper through the Dockerized web interface, and the backend generates reviews through one of three agent strategies whose outputs the paper compares. It also includes the GPT request cache and configurations needed to replicate the paper's metrics. The artifact serves NLP researchers studying review generation; it has seen only seven commits and no maintenance since.

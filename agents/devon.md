@@ -38,6 +38,7 @@ sources:
   - "jim"
   - "ishandutta"
 what_makes_it_special: "Community-driven open-source coding agent that beat AutoCodeRover on SWE-Bench Lite; offers both terminal UI and Electron-based GUI; supports local models via Ollama; sandboxed to working directory; interactive and steerable during execution. Last commit July 2024."
+date_added: "2024-03-15"
 ---
 
 Devon was built by a volunteer team to prove an open-source agent could match commercial ones, publishing SWE-Bench Lite results above AutoCodeRover shortly after Devin's launch. The backend installs via pipx and drives an edit-test loop sandboxed to the working directory, while users choose between an Electron GUI and a terminal UI. Local models run through Ollama, making it usable without cloud API spend. The project was most active through early 2025 and has since gone quiet; it is preserved here as one of the earliest open Devin alternatives rather than a current daily-driver tool.

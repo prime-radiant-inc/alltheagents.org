@@ -29,6 +29,7 @@ maintained: "active"
 sources:
   - "user_reported"
 what_makes_it_special: "DSL and toolchain for authoring AI pipeline workflows with first-class syntax for prompts, shell scripts, model config, branching logic, and node types (agent, tool, human, parallel, subgraph, manager_loop). Ships a full toolchain: parser, validator/linter, formatter, DOT exporter, simulator, cost/coverage analyzers, LSP server, VS Code extension, .dipx packaging, and WASM playground."
+date_added: "2026-09-01"
 ---
 
 Dippin is a DSL and toolchain for authoring AI pipeline workflows, intended to replace hand-edited Graphviz DOT as the format people actually write and review. Its first-class syntax covers prompts, shell scripts, model config, and branching logic, and its node types — agent, tool, human, parallel, subgraph, and manager_loop — map directly onto the constructs a multi-agent pipeline needs, including human gates and manager loops. A full toolchain ships around the language: parser, validator and linter, formatter, DOT exporter, simulator, cost and coverage analyzers, an LSP server, a VS Code extension, .dipx packaging, and a WASM playground. Dippin describes pipelines; a separate runtime, such as Tracker, executes them. The audience is anyone designing reviewable, version-controlled AI workflows who wants a real language for the job instead of YAML or DOT.

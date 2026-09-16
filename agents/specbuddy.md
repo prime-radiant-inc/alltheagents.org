@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Structured plan-to-step control layer over AI coding agents"
+date_added: "2026-08-24"
 ---
 
 SpecBuddy exists because chat-driven coding only reveals an agent's misunderstanding after the diff exists. Its workflow starts with a Markdown spec in the editor — the agent can expand a short draft into a full specification — which becomes a step-by-step plan the developer edits and approves before any code is generated. Execution happens step by step in a dedicated git worktree via Claude Code or Codex running in the IDE terminal, with pre/post snapshots making rollback safe at every step, and inline comments can send a step back with feedback. Developers who prefer plain chat get the same diff-review-rollback wrapper without a spec. It is free, closed source under a vendor EULA, and entered the JetBrains Marketplace in August 2026.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Built for fast notebook generation; upload data files (.xlsx, .xls, .csv, .json - up to 5 files) to create an analysis and generate a Python notebook"
+date_added: "2026-08-19"
 ---
 
 Devra narrowed from a general AI coding assistant to a focused data-analysis tool: the product turns a drag-and-drop upload of spreadsheets or JSON into a ready-to-run Python notebook. The mechanics are deliberately shallow — no project trees, terminals, or git integration; the input contract is at most five data files and the output is notebook code an analyst can rerun and extend. That makes it useful for analysts who want a first-pass exploratory analysis without writing pandas boilerplate. Pricing, model choices, and any agentic iteration are behind login and not publicly documented.

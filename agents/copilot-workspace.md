@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "caramaschi"
 what_makes_it_special: "Task-centric AI flow from GitHub issue to plan to code to PR; understands repo context and lets developers iterate on AI-proposed plans before implementation. Technical preview / research project from GitHub Next."
+date_added: "2026-08-19"
 ---
 
 Moving from a GitHub issue to a pull request involved spec-writing, planning, and implementation steps that plain Copilot completions did not cover, and GitHub Next built Copilot Workspace to fill that gap. A task - an issue, a discussion, or a blank idea - produced a natural-language spec of current behavior and proposed design, then a file-by-file implementation plan, then code changes in an ephemeral environment, with every stage editable before a branch and pull request emerged. The experience was deliberately human-in-the-loop: the developer revised each artifact rather than watching an autonomous run. GitHub sunset the technical preview in 2025, folding its spec-and-plan mechanics into the Copilot coding agent and agent mode in VS Code. It is remembered as the design bridge between chat-based Copilot and GitHub's current agentic offerings.

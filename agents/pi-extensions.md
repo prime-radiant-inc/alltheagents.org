@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "A working collection of extensions for the pi terminal coding agent, ranging from core daily drivers to experimental utilities (e.g., pi-codex-subagents for session-scoped subagents, pi-goal for parallel worker agents, pi-model-thinking)."
+date_added: "2026-03-17"
 ---
 
 pi-extensions grew out of one developer's daily use of pi, and the collection's organization reflects that: packages are ranked by how often the author actually uses them, from a minimal footer with context and subscription gauges to experimental utilities that may disappear. Functionally the packages fill gaps in pi's core — searching past sessions, context-aware Bash permissions with automated guardian review, session-scoped Codex-shaped subagents, Codex-style remote compaction via pi's compaction lifecycle, and Herdr worktree management. Each package installs individually through pi's package manager, so users pick only what they need rather than adopting a bundle. The MIT-licensed repo is moderately active with 400+ stars, and its audience is pi users who want the ecosystem's extensions from one maintained source rather than hunting across npm.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Auto-remediation of code vulnerabilities in CI"
+date_added: "2026-08-19"
 ---
 
 Amplify Security builds Amplify Console for security engineering teams drowning in scanner findings: agents create custom detection rules, triage alerts from any source, run reachability analysis to filter out unexploitable vulnerabilities, and produce remediations that flow into existing CI pipelines and ticketing systems. It integrates with source control, CI/CD, cloud, and ticketing via a GitHub App and connectors, positioning one-click remediation as the differentiator against Snyk, Semgrep, and Checkmarx. The product is in early access with demo-gated onboarding, no published pricing, and no public source code; traction evidence is limited to an early-access program and a small (11-review) but high-rated G2 footprint.

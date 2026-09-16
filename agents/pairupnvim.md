@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Inline AI pair programming Neovim plugin using cc: markers in code that Claude edits directly; supports plan markers (ccp:) with CURRENT/PROPOSED conflict review and a peripheral Claude mode running a second autonomous instance in a sibling git worktree."
+date_added: "2025-09-04"
 ---
 
 Chat-panel AI plugins force a copy-paste loop between conversation and buffer, and the file under edit never contains the instruction that motivated the change. pairup.nvim embeds the instructions in the code itself: developers write cc: markers (or apply gC{motion} operators), save, and the Claude Code CLI edits the file in place and removes the marker. Variants extend the pattern — cc!: extracts a durable rule into CLAUDE.md as it edits, ccp: wraps proposed changes in CURRENT/PROPOSED conflict markers so acceptance is a deliberate merge rather than an overwrite, and uu: surfaces Claude's clarifying questions inline. A 'peripheral Claude' mode runs a second autonomous instance in a sibling git worktree that implements spec-file changes in parallel, with statusline todo tracking and proposal diff views keeping state visible. Version 4.0 stripped overlays, sessions, and RPC in favor of this simpler inline model, with the legacy design on a branch. Neovim 0.11+ users with a Claude Code subscription who prefer editor-embedded, marker-driven AI editing are the audience.

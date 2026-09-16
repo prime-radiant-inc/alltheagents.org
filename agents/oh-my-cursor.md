@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Avatar: The Last Airbender-themed 8-agent team; pure Markdown config with zero runtime/CLI wrapper; per-agent model routing; hooks that deterministically block destructive commands and bad commits; Cactus Juice swarm mode (up to 10 parallel workers); cross-tool support (Cursor/Claude Code/Codex)"
+date_added: "2026-02-07"
 ---
 
 oh-my-cursor turns Cursor's native subagent system into a themed eight-agent team using only Markdown configuration files, hooks, and slash commands — no plugin system or external runtime. Each specialist agent routes to a specific model chosen for its role, such as a multimodal model for image generation work. An orchestrator rule keeps the root thread dispatching while specialists execute, and cactus-juice swarm mode spawns up to ten parallel workers. Hooks deterministically block destructive shell commands and low-quality commits, while a permissions policy reduces approval prompts. The same files can also install for Claude Code and Codex, and a validation culture with per-build model-slug verification guards against Cursor's silent model downgrade behavior.

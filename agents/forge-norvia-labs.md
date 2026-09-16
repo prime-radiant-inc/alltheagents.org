@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Unifies AI agent, code editor, file explorer, shell, approvals, diffs, and durable sessions in one keyboard-driven TUI workspace. Every shell command runs inside an OS-level sandbox (macOS Seatbelt, Linux bubblewrap, WSL2) with network egress filtering via an allow-list proxy. Durable SQLite session journals allow resuming after interruption. Vim-style editing built in."
+date_added: "2026-07-22"
 ---
 
 Forge unifies what terminal-agent users normally stitch together — an AI agent, a Vim-style editor, a file explorer, and a shell — into one Rust-based TUI workspace. Its security model replaces the usual approve-every-command dance with OS-level confinement: commands run inside Seatbelt or bubblewrap with writes restricted to the workspace, network egress flows through a filtering proxy with an empty default allow-list, and the program refuses to start rather than run unsandboxed. Sessions journal durably to SQLite for crash-resilient resume, tools cover files, patches, Git, search, and web, and MCP servers extend capability with prompting. A forge bench headless mode supports automation and benchmarking. It remains alpha software with a small user base.

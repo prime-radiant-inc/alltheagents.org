@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Open-source AI agent for software testing. Uses an LLM via OpenRouter to automatically generate test plans, generate pytest test code for API endpoints, run tests, and iteratively refine based on natural-language feedback. Single LangChain agent with plan/generate/run/feedback tools. Only 1 commit, last activity ~2023."
+date_added: "2024-12-19"
 ---
 
 The agent generates a textual test plan, converts it into pytest code for REST API endpoints, executes the tests, and accepts free-form feedback to extend or correct them, overwriting generated_tests.py on each cycle. Mechanically, a LangChain chat agent invokes tools that spawn api_tester.py subprocesses; the LLM (via an OpenRouter API key) writes the test file, and pytest runs it against a configurable endpoint, with a bundled FastAPI demo app for local trials. It is a single-commit proof of concept: no license file, leftover copy files, 48 stars, and no activity since December 2024. Developers evaluating API test generation can run it by cloning the repo and setting OPENROUTER_API_KEY.

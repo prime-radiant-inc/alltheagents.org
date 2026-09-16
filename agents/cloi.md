@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Local-first terminal coding agent powered by Ollama; auto-selects models by measuring hardware (VRAM/RAM/cores); two-model system with escalation on failure; answer verification without model calls (line citations/quotes checked against workspace); named reusable results across sessions; session-long Python interpreter with stored results; history summarised instead of dropping tokens; guardrails (workspace path containment, permission prompts, secret redaction)."
+date_added: "2025-05-01"
 ---
 
 Cloi exists for developers who want agentic coding without any cloud dependency: it runs entirely through Ollama with no API key, and its model selection is measured rather than guessed - the installer benchmarks the hardware and proposes a VRAM-resident primary plus a larger RAM-resident fallback. Escalation is triggered by observed failure signals (repeated identical calls, malformed tool calls, narrated-but-skipped steps) rather than task classification, and the inheriting model receives everything already attempted. Verification checks citations and quotes against the real workspace before spending model calls, and named tool results persist across sessions. The README publishes its own limits, including zero for twelve on hard cross-file debugging with 8 GB-class models.

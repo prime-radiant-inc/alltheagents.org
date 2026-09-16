@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Full PTY emulation without tmux; observable TUI overlay where the user can take over control anytime; token-efficient; four modes (interactive, hands-free, dispatch, monitor) with event-driven triggers; structured spawn for multiple coding agents; headless background dispatch for parallel work"
+date_added: "2026-01-18"
 ---
 
 pi-interactive-shell solves a specific failure mode in coding agents: their shell tools time out on anything interactive, so vim, REPLs, SSH sessions, and long-running dev servers stay out of reach. The extension runs a full PTY stack — zigpty binaries plus headless terminal emulation — so subprocesses believe they have a real terminal, while a TUI overlay shows the user exactly what the agent sees and allows typing to take over at any moment. Four modes fit different workflows: interactive for back-and-forth editors, hands-free for servers the agent polls, dispatch for fire-and-forget work that wakes the agent on completion, and monitor for event-driven triggers like regex matches or file changes. Structured spawn parameters can launch entire coding agents (pi, codex, claude, cursor) as subagents, optionally in isolated worktrees, with output transferable back to the parent session. Pi users who want the agent handling interactive workflows rather than just one-shot commands are the audience.

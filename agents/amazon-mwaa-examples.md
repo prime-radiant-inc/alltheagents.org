@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Provides complete, end-to-end sample use cases (DAGs, requirements.txt, plugins, CloudFormation templates) specifically tested for Amazon MWAA, bridging open-source Apache Airflow and managed AWS service integrations."
+date_added: "2021-03-01"
 ---
 
 The repository bridges the gap between open-source Apache Airflow documentation and the managed Amazon MWAA service by providing complete, tested examples: DAGs for Secrets Manager migration, EMR jobs, and RBAC patterns; end-to-end usecases with CloudFormation (image processing pipelines, CodeArtifact-based dependency serving, environment start/stop); provider package requirements; and infrastructure templates. Most examples also run on self-managed Airflow since MWAA runs stock Airflow. AWS maintains it as an active samples repo (226 commits, community PRs accepted) under MIT-0, with the standard disclaimer that samples are educational and untested for production. Its census relevance is nominal — it is workflow automation infrastructure, not an AI agent.

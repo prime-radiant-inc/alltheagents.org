@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Scrolling terminal multiplexer that auto-detects and tracks AI coding agent sessions (Claude Code, Codex, Pi) live in the sidebar; surfaces permission requests and task completions as desktop notifications; fully scriptable via seance ctl over Unix domain socket with JSON output; GPU-accelerated rendering via libghostty"
+date_added: "2026-04-08"
 ---
 
 Long agent sessions scroll vertically for thousands of lines, which tiling multiplexers handle poorly; Séance arranges panes as a horizontal scrolling strip and adds agent awareness — sidebar status for working, waiting-on-permission, and idle, with desktop notifications for permission requests and completions. The agents themselves are unmodified external processes; detection is automatic and other agents integrate via a hook config, while non-hook agents still get ordinary multiplexer features. A Unix-socket CLI (`seance ctl`) lets scripts and agents create workspaces, open panes, and read output as JSON, effectively letting an agent manage its own terminal. It is written in Zig on libghostty, supports X11 and Wayland, and installs from AUR, Nix, or AppImage. It suits Linux developers running several agent sessions who want visibility without leaving the terminal.

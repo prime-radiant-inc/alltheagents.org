@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "A 'multiplayer agent harness for work': each employee gets an isolated workspace (own memory, files, keychain view, crons, durable sandbox) while collaborating through shared Slack channels and projects, with the agent loop itself pluggable across Pi, OpenCode, Codex, or Claude Code. Contributions are accepted as written ADRs, not code — maintainers implement proposals themselves."
+date_added: "2026-07-29"
 ---
 
 qm is built for companies that want one agent platform shared across employees rather than a personal CLI: each person gets an isolated workspace with their own memory, files, keychain view, permissions, and durable sandbox, while shared scopes cover Slack channels, group messages, and team projects. The headless TypeScript core runs an agent loop over a fixed tool surface — notably an execute tool confined to each scope's sandbox — with Postgres storing sessions, memory, and queue state, and the web UI, admin panel, and Slack integration all plugins over its HTTP API. Which underlying harness (Pi, OpenCode, Codex, or Claude Code) drives the loop is an org-level configuration, behind interfaces swapped through one wiring file. Security postures range from per-tool human approval to a classifier-screened auto mode, with hard denials for destructive commands in all postures and auditing throughout. Organizations self-host it in their own Fly or AWS accounts, and contribute architectural proposals as written ADRs that maintainers implement.

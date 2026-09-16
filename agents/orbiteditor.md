@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Open-source AI code editor (Cursor alternative) forked from Void Editor/VS Code; BYOK with any provider, local model support, subagents, plan mode, MCP integration, checkpoints and change visualization, no data retention."
+date_added: "2026-01-29"
 ---
 
 Closed AI editors retain code and prompts on vendor servers, which is a non-starter for some teams. Orbit Editor continues the Void Editor's approach — a VS Code fork that sends messages straight to the chosen provider with no data retention — and layers an agent system on top: subagents with tool policies, a documented plan mode, MCP integration for external tools, Skills for reusable workflows, and checkpoints with change visualization. Providers are BYOK across OpenAI, Anthropic, Google, and local models. It ships as a macOS beta (Apple Silicon and Intel) via a signed install script or DMG, with Windows and Linux marked as coming soon, and its VS Code base keeps the standard extensions directory. The codebase guide and plan-mode/subagent docs in-repo serve as documentation alongside a Discord community. It is a single-maintainer beta project (58 stars, 229 commits), so maturity is unproven, but it is one of the few fully open editor forks still actively carrying the agent stack forward.

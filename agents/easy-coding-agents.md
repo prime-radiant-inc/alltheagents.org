@@ -34,6 +34,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Evidence-gated memory system that preserves source refs across context wipe; autonomous terminal coding loop with plan/code/chat modes, custom agents, todo discipline, loop/budget guards, and final-answer quality gates; benchmarked against summary, long-context, FTS, and vector RAG memory baselines."
+date_added: "2026-02-02"
 ---
 
 easy-coding-agents is built around a failure mode common to autonomous loops: the model loses track of what it already established, repeats itself, or declares done without evidence. The engine's guards detect repeated tool calls, over-exploration of simple tasks, and empty responses, while a final-answer quality gate blocks DONE claims that lack verification evidence. The evidence-gated memory layer persists refs, tool logs, and task state across context wipes, and the repo publishes reproducible benchmark snapshots showing memory-subsystem recall after context wipe against summary, FTS, and vector baselines. It is a single-developer research project for people studying agent memory, not a production harness.

@@ -34,6 +34,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Local-first autonomous coding agent (v1.0.0) that plans, edits, runs commands, debugs failures, validates results, and continues until software tasks are finished end-to-end. Local-first: control plane, execution, session history, and checkpoints all stay local. Failure recovery via durable event ledger, checkpoints, and reverts. Demonstrated a 4h 33m autonomous run (16,393 events, 373 tool outcomes) reaching FINISHED with no additional user messages. Real LSP and DAP integrations."
+date_added: "2026-01-27"
 ---
 
 Grinta is a local-first coding agent that plans, edits files, runs commands, debugs failures, and validates its work until a task completes. Its control plane, session history, and checkpoints stay on the local machine while inference can point at hosted models (OpenAI, Anthropic, Google, OpenRouter) or local ones (Ollama, LM Studio). The architecture emphasizes surviving long runs: a durable event ledger records every step, checkpoints allow reverts, and completion quality gates reduce premature declarations of success, with recovery paths for provider outages, malformed tool calls, and context-window pressure. It integrates real LSP servers and DAP debuggers rather than inferring program state from text, and offers Chat, Plan, and Agent workflows in a terminal UI. The audience is developers who want autonomous execution without a cloud account, with optional policy gates and secret masking for safety.

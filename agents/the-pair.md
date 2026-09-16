@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Dual-agent cross-validation desktop app where a read-only Mentor agent plans and reviews everything a separate Executor agent produces, catching AI hallucinations before they reach the codebase. Model-agnostic: mix and match any providers (e.g., Claude as Mentor + Codex as Executor)."
+date_added: "2026-03-22"
 ---
 
 The Pair addresses a specific failure mode of single-agent coding tools: one model that both writes code and reviews it will often approve its own hallucinations. Its desktop app (Tauri 2, Rust + React) runs two roles on every task — a Mentor agent with read-only access that plans and reviews, and an Executor agent that writes code and runs commands — looping through mentoring, execution, and review cycles until work completes or a flat 20-iteration default triggers a pause for human inspection. Because the roles are CLI-backed, any combination of opencode, Claude Code, Codex, Gemini/Antigravity, Kimi, or local Ollama models can be assigned per role, letting users cross-validate with different model families; quality gates, stall detection, per-agent resource monitoring, and git-diff tracking round out the harness. It is free Apache-2.0 software for macOS, Windows, and Linux, with a pair-code CLI for terminal use, and users pay only their own provider costs. Developers burned by hallucinated single-agent edits are the intended users.

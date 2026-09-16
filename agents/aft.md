@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Gives coding agents a sensorimotor cortex — IDE-like code perception (tree-sitter parsing, symbol-aware edits, semantic search, call graphs) and OS-like environment management (background bash, output compression, PTY sessions, undo stack). Hoists host tools so agents keep calling familiar read/edit/bash but get structured, token-efficient operations. Ships as plugins for OpenCode and Pi harnesses."
+date_added: "2026-03-15"
 ---
 
 Coding agents treat code as raw text, so they re-read whole files, miss symbol boundaries, and burn context on noise — aft exists to fix that perception layer. Installed via npx @cortexkit/aft@latest setup as a plugin for OpenCode and Pi, it hoists the host's familiar read, edit, bash, and grep tools into tree-sitter-backed, symbol-aware versions and adds aft_ tools for outlines, semantic search, call graphs, and refactors, plus OS-level capabilities like background bash, output compression, PTY sessions, and an undo stack. Agents keep calling the same tool names, so no prompt or workflow changes are needed. It is MIT-licensed Rust, and its users are OpenCode and Pi harness owners optimizing for token efficiency.

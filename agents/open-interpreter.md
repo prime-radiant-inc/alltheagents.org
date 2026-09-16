@@ -33,6 +33,7 @@ sources:
   - "jqueryscript"
   - "ishandutta"
 what_makes_it_special: "Fork of OpenAI's Codex optimized for low-cost models. Features harness emulation (switch between native, claude-code, kimi-code, qwen-code, deepseek-tui, swe-agent harnesses via /harness), native sandboxing on all platforms, ACP agent mode, shared AGENTS.md and .agents/skills standards, and a QA skill for web/native app testing."
+date_added: "2023-07-14"
 ---
 
 Cheap and open-weight models underperform in agent harnesses tuned for frontier models, and the gap is often the harness rather than the model. Open Interpreter, a Rust rewrite of OpenAI's Codex with about 68,000 GitHub stars, addresses this by emulating provider-recommended harnesses: /harness switches between native, claude-code, kimi-code, qwen-code, deepseek-tui, swe-agent, and minimal modes, so a cheap model runs under the prompting and tool-calling conventions it was trained against. It supports MCP, skills, hooks, permissions, and AGENTS.md, remains compatible with the Codex SDK through a one-line binary override, and speaks ACP, while a built-in QA skill drives browsers and native applications for computer-use tasks. Installation is a curl script on macOS/Linux or PowerShell on Windows, and the tool is free with BYOK model access. Developers running low-cost models who want frontier-harness behavior without paying frontier prices are its audience.

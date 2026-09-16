@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Compound AI system: multiple models collaborate, each optimized for its role across 5 workflow slots (Normal, Thinking, Compact, Critique, VLM), each independently bindable to any model/provider. Parallel agent fleet via async Tokio tasks. Blazing fast (4.3 ms startup, 9.4 MB RAM, 18 MB single binary). Both TUI and Web UI with remote session support."
+date_added: "2026-03-04"
 ---
 
 Most coding agents lock a session to one model, which wastes frontier tokens on summarization and under-provisions hard reasoning. OpenDev, a Rust CLI, treats the agent as a compound AI system: five workflow slots — Normal for execution, Thinking for planning, Compact for context summarization, Critique for self-review, VLM for vision — each bind independently to any of nine providers (OpenAI, Anthropic, Fireworks, Google, Groq, Mistral, DeepInfra, OpenRouter, Azure) or to Ollama/LM Studio locally, with defined fallback chains when a slot's model is absent. An Agent Fleet runs parallel sub-agents, each with its own binding, and MCP integration connects external tools; a TUI and remote-accessible Web UI cover interaction. Distribution spans cargo, Homebrew, shell installers, and GitHub Release binaries for all three OSes. Its maintainers publish an arXiv technical report on the compound-AI design, and the performance pitch — 4.3 ms startup, 9.4 MB RAM — targets developers who find Node-based agents heavy.

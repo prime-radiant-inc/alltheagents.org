@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "NOTE: Not a coding agent harness. Domain-specific agent that translates natural language to Infrastructure as Code (IaC) deployments with multi-LLM provider support. Early stage (9 commits, 1 star)."
+date_added: "2024-05-07"
 ---
 
 nl2iac is a personal experiment converting natural-language requests into Terraform configuration and driving GCP deployments from a Streamlit interface. A configuration toggle switches between Google Gemini and OpenAI models, with optional LangSmith tracing. The pipeline is intentionally narrow: NL input in, Terraform out, applied against a configured GCP project and region. The repository shows nine commits, no releases, and no license file, marking it as a single-author experiment rather than a maintained tool. It demonstrates the NL-to-IaC pattern at toy scale rather than production use.

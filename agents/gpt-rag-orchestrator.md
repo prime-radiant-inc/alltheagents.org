@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "Multi-strategy agentic RAG orchestration with dynamic routing; MCP support (SSE + streamable HTTP); NL2SQL for structured data; Work IQ (Microsoft 365) knowledge source integration; Toolbox OAuth identity passthrough for Foundry hosted agents; versioned audit events with HMAC pseudonymization; optional admin dashboard with Entra ID auth; configurable retrieval backends with Foundry IQ generic MCP knowledge sources"
+date_added: "2023-06-27"
 ---
 
 Enterprises deploying GPT-RAG need a component that decides how each question is answered — which agent, which retrieval backend, which tools — and this orchestrator is that brain within the Azure GPT-RAG accelerator. Built on Azure AI Foundry Agent Service and the Microsoft Agent Framework, it selects among strategies including single-agent RAG, MCP tool orchestration over SSE or streamable HTTP, and NL2SQL against read-only SQL Server or Azure SQL sources, pulling knowledge from Azure AI Search, Blob, Foundry IQ, and Microsoft 365 Work IQ. Versioned audit events with HMAC pseudonymization, an optional Entra ID-gated dashboard, and Toolbox OAuth identity passthrough target regulated environments. It is MIT-licensed Python/TypeScript deployed via azd, and it orchestrates answers rather than code.

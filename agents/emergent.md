@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Transforms natural language prompts into fully functional, production-ready web and mobile apps without requiring coding experience or drag-and-drop interfaces. Users own the generated code. Y Combinator S24."
+date_added: "2026-08-19"
 ---
 
 Emergent serves founders and business users who need working software rather than prototypes: a chat description produces a deployed web or mobile application, with the platform's agents handling design, implementation, and deployment. Credit-based tiers (Free at 10 credits/month, Standard at $20, Pro at $200, Enterprise custom) gate throughput, and higher tiers add GitHub integration, private hosting, and custom agent definitions. A claimed differentiator is code ownership and portability — projects export to GitHub and can be hosted anywhere rather than being locked to the platform's runtime. Enterprise plans add SSO, RBAC, shared workspaces, VPC/self-hosted databases, and audit logs for organizations piloting internal tool generation.

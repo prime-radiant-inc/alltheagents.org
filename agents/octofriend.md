@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "Ships open-sourced, custom-trained autofix models (diff-apply and fix-json on Hugging Face) that repair mangled JSON tool calls and bad diffs from any coding model — plus zero telemetry and mid-conversation model switching."
+date_added: "2025-03-25"
 ---
 
 Octofriend is a terminal coding assistant built around tolerating weak or eccentric models rather than assuming a frontier provider. Two fine-tuned open-source models automatically repair the broken tool calls and malformed diffs that smaller models produce, so users can run cheaper or local models without the loop collapsing. It works with any OpenAI- or Anthropic-compatible API plus local runtimes, and models can be swapped mid-conversation when one gets stuck. Rules files, session resume, image attachments, Docker sandboxing, MCP servers, and automatic LSP integration round out the feature set. The project is MIT-licensed with a zero-telemetry privacy stance and recommends its own zero-data-retention Synthetic provider.

@@ -31,6 +31,7 @@ maintained: "dead"
 sources:
   - "github_deep"
 what_makes_it_special: "Intelligent coding assistant for Elixir that automatically recompiles/reloads modified files and runs the appropriate tests, with pluggable adapters for custom builds and a focus mode for filtering test runs."
+date_added: "2017-04-14"
 ---
 
 The cortex entry in this census is Urbint's Elixir development tool, whose 'intelligent coding assistant' description dates from 2017 and has nothing to do with LLMs. Running alongside `iex -S mix` as a dev dependency, it watched the filesystem, recompiled and hot-reloaded modified modules in the running session, and triggered the relevant tests automatically under MIX_ENV=test, removing the manual compile-test cycle from Elixir work. Pluggable adapters let teams wire custom build steps, and commands like Cortex.all and Cortex.focus scoped what reran. Development wound down years before Urbint archived the repository on November 25, 2025. It appears in the census as 'other': real developer automation whose name and tagline merely collide with the modern agent vocabulary.

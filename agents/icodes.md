@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "LLM-powered Git archeology tool (Intelligent Commit Ontology Distiller and Enhanced Search) that analyzes and indexes Git commit histories in context, summarizing commit intents and enabling semantic search. Suggests commit messages from staged changes and extracts insights/trends from code evolution history."
+date_added: "2024-03-31"
 ---
 
 iCODES addresses a narrow problem: Git histories record what changed but rarely why. The tool walks a repository's commit history, sends each commit to an LLM for intent summarization, and stores the results in an index that supports filtered and semantic search over authors, paths, dates, and meanings. Secondary commands suggest commit messages from staged changes and surface trends across code evolution. There is no agentic loop — the LLM performs one-shot analysis per commit — and the project is single-maintainer hobby code on OpenAI's API, last touched in May 2024.

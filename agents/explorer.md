@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "A tool for visualizing, exploring, testing, inspecting, and analyzing AI Agent traces."
+date_added: "2024-12-09"
 ---
 
 Explorer grew out of Invariant Labs' agent-safety research as the local companion to their analysis stack: a Python API (pip install invariant-ai) plus a web UI that ingests agent traces, exposes tool calls and state for inspection, and supports structured comparison across runs. Teams used it to debug agents — locating the exact tool call where a run went wrong, comparing trajectories across model versions, and turning failures into regression test cases. Deployment ran locally via Docker Compose or the pip package with data stored in ./data, keeping traces on the developer's machine. Invariant Labs was absorbed into Snyk's AI security efforts, the hosted version was shut down in January 2026, and development on the repository has ceased.

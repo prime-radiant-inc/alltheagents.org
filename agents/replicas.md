@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "Cloud orchestration layer for coding agents — delegate tasks from Slack, Linear, GitHub, or GitLab and Replicas spins up an isolated Linux VM preconfigured with your repo, dependencies, tools, and MCP servers. Warm hooks preinstall dependencies and images. Agents can drive a real browser/desktop, verify their own work, and return PRs, commits, or recordings. Every minute is fully attributable for analytics. YC P26."
+date_added: "2026-08-19"
 ---
 
 Replicas addresses the operational mess of running cloud coding agents: bare repos, missing dependencies, and credentials scattered across laptops. When a task arrives from Slack, Linear, a GitHub or GitLab comment, a schedule, or the REST API, the platform boots an isolated Linux VM with warm hooks that preinstall the repo's dependencies, tools, MCP servers, and secrets. The user picks the harness per task and can watch diffs, steer plans, or pair in the web dashboard while the agent works with a full desktop and browser. Output is whatever the workflow needs — PRs, commits, comments, or finished tasks — with usage billed per minute of workspace runtime. It targets engineering teams that want delegated agent work to show up in their existing trackers rather than in a separate tool.

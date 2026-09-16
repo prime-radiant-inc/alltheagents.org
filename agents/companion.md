@@ -32,6 +32,7 @@ maintained: "dead"
 sources:
   - "github_topic4"
 what_makes_it_special: "Backend API service that acts as an instantly-onboarded team member with knowledge of internal libraries and coding standards; provides code chat endpoint and REST API for guideline management, used via a VSCode extension."
+date_added: "2023-07-20"
 ---
 
 Quack AI's companion backend served the server side of a self-hosted, team-context alternative to GitHub Copilot. The FastAPI service sat in front of an Ollama inference container running OSS models such as Phi 3, Llama 3, CodeQwen, and Mistral, exposing a code-chat endpoint plus a REST API for storing and curating the team's coding guidelines and internal library knowledge, which were injected as context into chat responses. Docker Compose brought up the API, an APM dashboard, and a Gradio chat UI together, and the Quack Companion VS Code extension was its primary client. The premise was that a team's coding standards, not model scale, determine assistant quality. Development stopped and the repository was archived on October 11, 2024, remaining as a read-only archive.

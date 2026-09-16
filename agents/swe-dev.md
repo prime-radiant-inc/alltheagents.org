@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "SWE agent focused on training and inference scaling; pipeline to synthesize test cases and scale up agent trajectories for training data; ACL'25 Findings paper"
+date_added: "2025-03-21"
 ---
 
 SWE-Dev, from Tsinghua's THUDM lab, tackles the data bottleneck for open software-engineering agents. Its pipeline crawls top PyPI repositories, mines issues and PRs into tasks, generates Gherkin-style behavior descriptions, and synthesizes test cases with an optional revision pass driven by traceback errors, validating each case in Docker so that fail-to-pass tests prove the task is real. The same machinery scales inference: giving a single run a larger interaction budget lifted SWE-Dev-32B from 34.0% to 36.6% on SWE-bench Verified, with SWE-Dev-7B at 23.4%. Configuration is centralized in a YAML schema, and both trained models and trajectory datasets are published on Hugging Face. Agent-training researchers use it as a recipe for building test-verified training data without human annotation.

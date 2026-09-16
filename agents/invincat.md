@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Terminal-native AI coding assistant with hierarchical memory (user + project scopes, background memory agent), goal mode for long-running objectives, 4 built-in subagents (explorer, worker, researcher, document-worker), skills system (docx/pdf/pptx/xlsx), WeCom bot daemon for remote turns, scheduled tasks in natural language."
+date_added: "2026-04-16"
 ---
 
 invincat targets developers who want an agent that remembers and persists rather than restarting each session. Memory splits into user and project scopes, with a background agent distilling learnings after non-trivial turns and an optional dedicated memory model. Plan mode produces a read-only, approval-gated checklist before implementation; goal mode keeps the agent driving toward long-running objectives across turns, with state persisted per thread. Four built-in subagents split exploration, implementation, research, and office-document work, and a WeCom bridge lets enterprise-WeChat messages drive sessions remotely. Scheduled tasks accept natural-language timing, and skills handle PDF, DOCX, PPTX, and XLSX work.

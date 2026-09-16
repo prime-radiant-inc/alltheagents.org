@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Integration of the Coday AI agent orchestrator in IntelliJ"
+date_added: "2024-12-02"
 ---
 
 CodayInID brings the Coday orchestrator - an open-source agent framework that connects AI agents to code, Git, GitLab, and Jira - into the JetBrains IDE as a tool-window chat. Its purpose is to remove the context switch when agent work spans systems: a developer can ask for a refactor grounded in a merge request and its linked Jira ticket without leaving the editor, with Coday coordinating the underlying agents and integrations. The plugin itself contains no agent logic; it is a chat surface into the external Coday service. It is free, open source on GitLab, and small (a few hundred installs), serving teams already using Coday for cross-tool automation.

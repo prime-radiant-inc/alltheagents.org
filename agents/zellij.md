@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "user_reported"
 what_makes_it_special: "Terminal workspace/multiplexer aimed at developers with layouts, floating and stacked panes, multiplayer collaboration, a built-in web-client, and a WebAssembly plugin system (plugins can be written in any language compiling to WASM). Not a coding agent harness; a terminal multiplexer. ~35k stars."
+date_added: "2020-09-01"
 ---
 
 Zellij rebuilds the terminal multiplexer concept that tmux and GNU screen have held for decades around modern development habits. It ships friendly default keybindings with on-screen hints so new users are productive without reading documentation, supports layout files that recreate a multi-pane workspace on demand, and allows panes to float above or stack within the tiling grid. Its plugin system compiles to WebAssembly, so extensions written in Rust or any other WASM-targeting language run in a sandbox with a stable API instead of shelling out to arbitrary scripts. Two features go beyond what classic multiplexers offer: multiplayer sessions, where several people attach to the same workspace and interact collaboratively, and a built-in web client that exposes the session in a browser. Rust and Cargo-based build tooling keep the core self-contained, and distribution covers cargo install, prebuilt binaries, and OS packages. Developers running long-lived terminal sessions — including those hosting terminal coding agents — use it to organize panes, persist work across disconnects, and share sessions with teammates.

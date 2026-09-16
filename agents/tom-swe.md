@@ -31,6 +31,7 @@ maintained: "dead"
 sources:
   - "github_topic2"
 what_makes_it_special: "Theory of Mind package that enhances SWE agents with personalized user understanding via three-tier memory (cleaned sessions -> session analyses -> user profiles); LLM-powered psychological insights; TomCodeActAgent integrates with OpenHands; academic research project (ICLR 2026) bridging cognitive science with software engineering AI agents."
+date_added: "2025-06-30"
 ---
 
 ToM-SWE, an All Hands AI research project published toward ICLR 2026, applies theory of mind to software-engineering agents: instead of treating every request as context-free, it builds a model of the specific user over time. A three-tier memory pipeline distills raw sessions into cleaned sessions, then session analyses, then cumulative user profiles capturing preferences and working style; agents consult these profiles for personalized guidance, and an LLM layer generates the psychological insights that populate them. The package ships as pip-installable tom-swe, integrates with OpenHands through a TomCodeActAgent that automatically enriches instructions with user context, and works through LiteLLM so any provider can back the modeling. It is a research contribution (ICLR 2026) bridging cognitive science and SWE agents; the repository was archived in August 2026 and is read-only, so the project is complete rather than maintained.

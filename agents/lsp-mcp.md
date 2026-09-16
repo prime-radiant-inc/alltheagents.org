@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "MCP server bridging LSP to MCP, giving AI agents real language-aware code analysis (scope, types, shadowing, etc.) instead of relying on text parsing. Dynamically generates supported LSP methods from JSON schema and supports multiple language servers simultaneously; works with Claude Desktop, Cursor, and MCP CLI Client."
+date_added: "2025-02-23"
 ---
 
 AI coding agents working through text search miss the type information, scope analysis, and diagnostics that language servers already compute. lsp-mcp bridges that gap over MCP: agents call tools that proxy into real LSP servers, getting symbol-accurate answers about definitions, references, and errors instead of grep approximations. Because the tool definitions are generated from the LSP JSON Schema, supporting an additional language is configuration rather than new code, and multiple language servers can run side by side with lazy initialization. Claude Desktop, Cursor, and MCP CLI clients are the documented consumers. The author labels it a proof of concept, and development has been minimal since early 2025.

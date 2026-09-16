@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Native Android client for the OpenCode AI coding agent — combines SSE streaming AI chat, remote terminal (WebSocket), code editor with syntax highlighting, and file manager in a Material Design 3 dark theme. Thin-client architecture where all heavy lifting runs on the OpenCode server."
+date_added: "2026-01-31"
 ---
 
 The OpenCode agent lives in a desktop terminal, which leaves its sessions unreachable from a phone. This Kotlin app (Jetpack Compose, Material Design 3, MVVM) connects to a running OpenCode server and mirrors it on Android: SSE-streaming AI chat, a WebSocket terminal that executes on the server machine, a code editor with syntax highlighting, and a file manager, all in a dark Material 3 interface. The README is explicit about the architecture's limits — nothing works offline, the phone manages no API keys, terminal commands execute on the server host, and security hardening (certificate pinning, encrypted preferences) is only partially implemented. APKs ship via GitHub Releases for Android 7.0+, and a Termux guide documents running the server on-device. It is a small early-stage project (27 stars, 70 commits) marked for education and research use. Developers running OpenCode who want to monitor and steer sessions from Android are the audience.

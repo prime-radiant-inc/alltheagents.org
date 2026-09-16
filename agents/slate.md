@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "author_search"
 what_makes_it_special: "Placeholder/empty repository. The only file is a README.md containing just the title '# slate-plan-mode'. No code, no description, no documentation. 1 commit, 1 star. Name suggests an AI-powered development environment with plan mode, but no content exists to verify any features."
+date_added: "2026-02-09"
 ---
 
 The repository under the entropy-research organization contains a single README and nothing else: no source, no releases, no issues, and a one-sentence description calling it an AI-powered development environment. Its name suggests a planning-mode component for a coding agent, but nothing in the repository verifies a tool loop, a CLI, or any feature. With one commit and one star there is no user base to describe. It appears in this census only as a name-based find with no verifiable substance, and no software can be installed or evaluated from it.

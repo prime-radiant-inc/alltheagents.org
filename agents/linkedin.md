@@ -32,6 +32,7 @@ maintained: null
 sources:
   - "jim"
 what_makes_it_special: "LinkedIn company page for LlamaCloud/LlamaIndex"
+date_added: "2026-08-19"
 ---
 
 This entry is the LinkedIn company profile associated with LlamaCloud and LlamaIndex, the retrieval and managed-data platform built by the LlamaIndex team. The page carries company information — description, followers, updates — about the vendor rather than any software artifact, and there is no agent, harness, multiplexer, or tool-loop functionality at this URL. It was captured in the census as a source reference for the LlamaIndex ecosystem. Its category is 'other' because the URL itself is a social-media page, not software.

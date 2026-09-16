@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "CLI tool that captures and restores AI coding context (task, goal, approaches, decisions, state) scoped to repo and branch, enabling persistence across sessions, editors, and team members. Provides an MCP server for Claude Code & Windsurf with tools devctx_save, devctx_resume, devctx_log."
+date_added: "2026-02-14"
 ---
 
 Every AI coding session starts from zero context, and the problem compounds when a teammate or a different editor takes over. devctx treats the prompt itself as the interface: a .devctx/ directory in the repo stores task, goal, approaches tried, decisions, and stopping state, and `devctx resume` emits a formatted prompt that any assistant can ingest. Core commands run locally with no API key; optional AI commands (summarize, suggest, compress) use an OpenAI-compatible endpoint. An MCP server exposes the same context natively to Claude Code and Windsurf, and a VS Code extension auto-resumes context on project open. Teams commit the folder to git so intent history syncs alongside code.

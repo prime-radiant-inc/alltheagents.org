@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "General-purpose AI agent platform that can build websites, create slides, design graphics, create games, generate AI images and music, conduct research, and operate browsers. Compares itself to Replit and Lovable for web/app development. Has a Slack integration, API, and browser operator. Team plan available."
+date_added: "2026-08-19"
 ---
 
 Manus executes open-ended goals end to end: given a task through web, mobile/desktop apps, email, Slack, or Telegram, it plans, uses browser and code-execution tools, and produces finished artifacts such as deployed sites, decks, or datasets. Its differentiators are breadth and delegation - a browser operator for web tasks, Wide Research for parallelized multi-agent research, and task submission by email, Slack, or Telegram so the agent works while the user is elsewhere. Credit-based plans meter compute (a free daily-credit tier, Pro from $20/month, Team from $20/seat with SSO), and an API at open.manus.ai exposes the same agent to developers. It competes with Replit and Lovable on web/app delivery while covering research and office automation for a general audience.

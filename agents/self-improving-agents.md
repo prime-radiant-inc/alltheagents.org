@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "Research presenting 4 progressive levels of self-improving code agents; the Arena Loop (L4) uses adversarial co-evolution where code agents and test agents compete, demonstrating that agents scoring 90-100% on original tests dropped to 62-66% under adversarial suites. L3 agents rewrite their own source code with crash-recovery validation."
+date_added: "2026-04-04"
 ---
 
 The repository is a controlled comparison of self-improvement strategies for coding agents, built as four progressively more complex loops: an LLM improving a solution against a benchmark, the same loop with an explanatory reviewer, an agent rewriting its own source, and finally an arena where code agents and test agents co-evolve. Tasks ship as small self-contained problems (snake, support, email validation) with checkpoint and resume, and new tasks slot in via a config/benchmark folder, making the ladder reproducible by others. The experiment harness is Gemini-driven Python with CLI runners, and results are framed as research findings rather than product features. With 23 commits and a single contributor it is a personal research artifact, but a documented and runnable one. It suits researchers studying self-improvement dynamics and educators demonstrating the verifiable-rewards pattern.

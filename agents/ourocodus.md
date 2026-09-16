@@ -29,6 +29,7 @@ maintained: "active"
 sources:
   - "user_reported"
 what_makes_it_special: "Multi-agent orchestrator that spins up and coordinates multiple AI coding agents (Claude Code via claude-code-acp, OpenAI Codex, or other ACP-compatible agents) working concurrently on the same codebase. Manages git worktrees, session lifecycle, and a WebSocket relay with optional Docker container isolation and NATS event logging. The agent loop belongs to the underlying agents; Ourocodus multiplexes them."
+date_added: "2026-09-01"
 ---
 
 Ourocodus is an orchestrator and relay that runs several coding agents concurrently on one codebase and coordinates them, rather than being an agent itself. It speaks the Agent Client Protocol (ACP), so it can spin up Claude Code through claude-code-acp alongside OpenAI Codex or any other ACP-compatible agent, and route work between them over a WebSocket relay. Each agent gets its own git worktree and managed session lifecycle, with optional Docker container isolation and NATS event logging for observability. The agent loop stays with the underlying agents — Ourocodus multiplexes them, manages their worktrees, and relays their outputs. The project is early stage and aimed at users who want to experiment with multi-agent concurrency on shared code.

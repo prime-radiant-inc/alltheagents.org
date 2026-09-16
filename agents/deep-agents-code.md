@@ -33,6 +33,7 @@ sources:
   - "jqueryscript"
   - "brad"
 what_makes_it_special: "Batteries-included agent harness built on LangGraph. Provides planning, file system access, context management, sub-agents with isolated context windows, shell access, persistent memory, human-in-the-loop approval, skills, and tool calling. Designed for long-horizon, multi-step work. Also available as deepagents.js (TypeScript)."
+date_added: "2025-07-27"
 ---
 
 deepagents exists because teams kept rebuilding the same scaffolding around LLM agents: a planning step, file access, context compaction, and task delegation. The library ships those as defaults inspired by Claude Code — a built-in planning tool, pluggable filesystem (local, sandboxed, or remote backends), sub-agents with isolated context windows, shell access, persistent memory, and human-in-the-loop approval gates — while every component remains replaceable for teams with different needs. It runs on any tool-calling LLM through LangGraph's production features (streaming, checkpointing, persistence) and accepts any MCP server as a tool source. Python and JavaScript teams use it as the foundation for custom agents rather than as an end-user product, with LangSmith available for tracing and evaluation.

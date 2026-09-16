@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "Unified local-first workspace for AI coding agents with real-time cross-device sync across desktop, web, terminal, and mobile. Start a session on desktop, continue on phone, finish on web. Full dev environment (git, file editing, PR management) bundled with multi-agent orchestration in a single app."
+date_added: "2026-02-10"
 ---
 
 Agent sessions routinely outlast the machine that started them, and checking a Claude Code or Codex run from a phone today means SSH hacks or screenshot services. ADE is a local-first workspace that syncs agent session state in real time across desktop, web, terminal, and mobile clients, so a run can be started on the desktop, watched from a commute, and finished from a browser. The workspace itself carries the development environment — git operations, file editing, PR management — and treats Claude Code, Codex, Cursor, Factory Droid, and OpenCode as interchangeable agent backends. Distributed developers who review or steer agent work away from their desks are the target users.

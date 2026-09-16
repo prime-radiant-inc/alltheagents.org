@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic5"
 what_makes_it_special: "Reduces Vercel bills with one command. Scans Next.js codebases for patterns that inflate Vercel bills (long function duration, uncached routes, unoptimized images) and detects dead code, outputting actionable diagnostics. Supports coding agent skills for Cursor, Claude Code, Amp Code, Codex, Gemini CLI, OpenCode, Windsurf, and Antigravity. Generates AI-ready fix prompts for popular coding agents. Supports Next.js 15/16+."
+date_added: "2026-02-19"
 ---
 
 Vercel costs rise quietly: an uncached route, a sequentially-awaited function, or an unoptimized image shows up as invoice line items long after the code shipped. Vercel Doctor addresses that with a deterministic scanner — no LLM involved — that runs two passes over a Next.js codebase: one flags billing-relevant patterns (function duration, caching configuration, image optimization, prefetch behavior, edge functions, cron usage, build caching), the other finds dead code such as unused files, exports, and duplicates, then emits a scored report with file-level detail, version-aware Next.js 15/16 guidance, and JSON/markdown output for CI via a GitHub Action. For remediation it ships an installable skill and --ai-prompts output that feed ready-made fix prompts to Cursor, Claude Code, Codex, and other agents, which perform the actual edits. Next.js teams auditing cloud spend use it; it is MIT-licensed, unaffiliated with Vercel, and actively maintained on npm.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic5"
 what_makes_it_special: "Visual feedback/annotation tool for localhost web development; annotate page elements, make design tweaks, and share with AI coding agents or teammates to auto-implement fixes via MCP. Configures Claude Code, Cursor, Windsurf, Codex, OpenClaw, VS Code."
+date_added: "2025-07-16"
 ---
 
 Visual feedback in web development usually dies in screenshots: someone marks up a page, and the annotations become tickets or re-typed prompts. Vibe-annotations closes that loop for AI-driven development — the Chrome extension annotates elements directly on localhost pages across multiple pages per session, and a companion server (installed with a single npx command that also configures the coding agent) exposes those annotations over MCP so Claude Code, Cursor, Windsurf, Codex, or VS Code receive structured fix requests instead of screenshots. Annotations can also be copied to the clipboard or shared with teammates through file sharing and watch mode, making the same channel useful for human review. Front-end developers iterating on design with AI agents are the users; the project is under the PolyForm Shield license, actively maintained with CI and community health files.

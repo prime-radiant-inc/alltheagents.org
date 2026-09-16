@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "An AI agent specifically focused on software testing and debugging — a relatively niche use case for AI agents. The repository contains only a LICENSE and README with no source code, indicating very early-stage or abandoned development."
+date_added: "2024-01-29"
 ---
 
 DebugAI exists as a repository title and a one-sentence README describing an AI agent for testing and debugging; no source code, documentation, releases, or community activity ever followed. The repository contains exactly two files — the README and a GPL-3.0 LICENSE — in a single commit, with zero stars and no issues or pull requests. It is effectively vaporware or a name reservation. Anyone evaluating coding harnesses should exclude it: there is no evidence the described agent was ever built.

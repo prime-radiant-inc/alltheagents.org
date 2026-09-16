@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Associated link: a YouTube video about AutoGen (youtube.com/watch?v=DXhqhpHWRuM); not a standalone agent harness"
+date_added: "2026-08-19"
 ---
 
 This entry is a YouTube video about AutoGen rather than a piece of software. The census picked it up from aggregation lists that mixed tutorial links with projects. Since a video neither runs an agentic loop nor manages agents, it is categorized as other; the AutoGen framework itself has its own census entry.

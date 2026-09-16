@@ -33,6 +33,7 @@ sources:
   - "jqueryscript"
   - "brad"
 what_makes_it_special: "AWS's agentic terminal chat for building applications with natural language; succeeded by the closed-source Kiro CLI. README notes it is no longer actively maintained."
+date_added: "2024-09-23"
 ---
 
 Amazon Q Developer CLI brought agentic coding to the terminal for AWS developers: `q chat` provided an agentic experience with MCP support, built on a Rust codebase (crates/chat-cli) and authenticated through AWS login. It ran on macOS (brew cask or DMG) and Linux (deb/AppImage), with documentation in AWS's developer guide. The project accumulated roughly 2k stars and 1,100 commits before AWS announced it would receive only critical security fixes, directing users to Kiro CLI — the closed-source successor maintained at kiro.dev/cli, with issues tracked under kirodotdev/Kiro. Existing installs keep working, but feature development now happens in the proprietary successor, making this repo the last open-source artifact of that product line.

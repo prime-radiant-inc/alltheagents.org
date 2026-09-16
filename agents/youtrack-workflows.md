@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Repository of custom workflows for YouTrack (JetBrains issue tracker) written using the JavaScript-based API. Official JetBrains project."
+date_added: "2012-08-09"
 ---
 
 youtrack-workflows is JetBrains' official repository of sample custom workflow scripts for YouTrack, its issue tracker, written against YouTrack's JavaScript workflow API. The samples demonstrate workflow automation patterns — state changes, scheduled actions, notifications, and custom fields — and can be installed directly into a YouTrack instance. It is Apache-2.0 licensed and officially maintained by JetBrains, though activity is modest: 128 commits, no releases, and modest community traction. YouTrack administrators use it as a reference for writing custom workflow automation in JavaScript.

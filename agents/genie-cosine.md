@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "bing_ddg_chinese"
 what_makes_it_special: "Cosine ships the 'cos' CLI powered by its own Lumen models (Scout post-trained from Devstral 123B, Outpost from Kimi K2.6, Sovereign coming) with multi-agent orchestration and external tool access via MCP. The earlier 'Genie' product name no longer appears on the site."
+date_added: "2026-08-19"
 ---
 
 Cosine bets that code-specialist models beat frontier generalists on real production code, and it trains its own Lumen family — Scout post-trained from Devstral 123B for on-device speed, Outpost from Kimi K2.6 for everyday coding, with the frontier-scale Sovereign announced — to test that thesis. The cos CLI is terminal-native with a local-to-remote execution model, multi-agent orchestration, and external tool access over MCP, and Cosine Cloud adds parallel task execution across shared projects. Deployment ranges from public cloud to managed single-tenant to fully air-gapped installations, which is why buyers include the Alan Turing Institute, BAE, HSBC, and Fujitsu. The earlier Genie product name has disappeared from the site; the current surfaces are the CLI, Cosine Cloud, and a Red Team offering.

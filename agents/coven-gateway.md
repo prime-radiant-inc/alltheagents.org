@@ -30,6 +30,7 @@ maintained: "active"
 sources:
   - "user_reported"
 what_makes_it_special: "gRPC control plane for Coven agents that routes messages from frontends (TUI, web, Matrix bridge) to connected agents with sticky channel bindings, streams responses back via HTTP/SSE, persists threads and messages in SQLite, and includes an admin CLI (coven-admin), JWT auth, health checks, and Tailscale/tsnet integration."
+date_added: "2026-09-01"
 ---
 
 Coven Gateway is the gRPC control plane and message router for the Coven agent platform — infrastructure rather than an agent. Frontends (a TUI, a web client, a Matrix bridge) send messages in, and the gateway routes them to connected agents with sticky channel bindings so a conversation stays pinned to the right agent, then streams responses back over HTTP/SSE. Threads and messages persist in SQLite, and an admin CLI (coven-admin) handles operations alongside JWT auth, health checks, and Tailscale/tsnet integration for private networking. The agent loop lives in the Coven agents; the gateway only routes, stores, and authenticates. The audience is operators running a Coven deployment who need the routing and persistence layer as its own service.

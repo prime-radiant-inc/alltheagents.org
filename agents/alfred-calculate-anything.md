@@ -31,6 +31,7 @@ maintained: "dead"
 sources:
   - "jim"
 what_makes_it_special: "Natural language calculator for Alfred 5 supporting currency (168 currencies), cryptocurrency (5,000+), units, data storage, percentages, px/em/rem/pt, time, and VAT via natural language queries (English, Spanish, Swedish) with customizable keywords and translations"
+date_added: "2019-11-12"
 ---
 
 The workflow answers typed queries like '100 usd to eur' or '20% of 250' inside Alfred, using free fixer.io and CoinMarketCap API keys for currency and crypto rates and handling IEC-correct data units (MB vs MiB), VAT, and time/date math. Custom translations extend beyond the bundled English, Spanish, and Swedish. It requires PHP installed locally (brew install php), since Alfred does not manage the runtime. The repo was archived by its maintainer in July 2025 after 311 commits; it still works with Alfred 5 but receives no updates, and the maintained alternative is the community-published AlfredPkg listing.

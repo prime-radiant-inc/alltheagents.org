@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "First comprehensive Chinese adaptation of Stanford's CS146S 'Vibe Coding Together' course - bridges a high-demand Stanford AI-coding course to the Chinese-speaking community. Uniquely catalogs Chinese coding models (GLM, Kimi, Doubao, DeepSeek, Qwen) with pricing and CLI/IDE compatibility, enabling vibe coding without foreign APIs. 10 weeks of syllabus, slides (with CN translations), and weekly hands-on assignments. Sponsored by Atlas Cloud for community LLM API credits. Long-term maintenance commitment."
+date_added: "2025-11-30"
 ---
 
 CS146S_CN adapts Stanford's CS146S 'The Modern Software: Vibe Coding Together' course for Chinese-speaking learners, carrying lecture slides, translated readings, and weekly assignments across its Fall 2025 and Fall 2026 terms. Because the official course assumes English-only tooling, the maintainers catalog Chinese-ecosystem equivalents (MCP services, agent setups) for each exercise. The repository is explicitly unofficial, credits the original course's copyright, and is licensed MIT for its own contributions. Its audience is Chinese-speaking students and engineers learning spec-driven development, MCP, and agent skills; with roughly 1,500 stars it has become a reference point in that community, and it remains under active maintenance for the current term.

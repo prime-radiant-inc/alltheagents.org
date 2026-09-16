@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI coding assistant supporting Claude Agent SDK, Codex SDK, DeepSeek"
+date_added: "2026-08-27"
 ---
 
 DD Code GUI embeds a unified AI assistant panel in JetBrains IDEs and routes work to whichever backend is configured: Anthropic's Claude Agent SDK, OpenAI's Codex SDK, or DeepSeek and other Anthropic-compatible APIs. Around that core it adds dual-engine streaming chat with slash commands, a multi-agent mode, smart code completion, AI-generated commit messages, a built-in terminal, and MCP server integration via 22 prebuilt templates, plus a skill system and bilingual theming. The source lives on GitCode under the project name deepseek-film-plugin, and the plugin is free. With about 250 downloads and an unapproved pending status on the Marketplace as of August 2026, it is a very early-stage tool for JetBrains users who want multiple agent engines behind one UI.

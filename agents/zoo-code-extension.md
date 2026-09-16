@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "A whole dev team of AI agents in your editor (Roo fork)"
+date_added: "2026-08-23"
 ---
 
 This entry is the Open VSX registry listing for Zoo Code, the community-maintained continuation of Roo Code. Open VSX is the vendor-neutral extension registry used by editors that cannot or do not pull from Microsoft's marketplace — VSCodium, Gitpod, Eclipse-based IDEs — so this listing is the installation path for Zoo Code on those platforms. The extension itself is the work of former Roo Code contributors who forked the project when the original team wound down active development, and it carries the same architecture: a team of AI agents working in the editor, multiple modes including Architect for planning, MCP server integration, and approval-gated file edits. The listing tracks the upstream project's release cadence, with versions in the 3.8x range published through August 2026 and cumulative downloads exceeding 100,000. Users on standard Microsoft VS Code would typically install from the Visual Studio Marketplace instead; this channel serves the open-source editor ecosystem. Distinguishing the marketplace listing from the upstream project matters for census purposes — the code, features, and history are documented under the Zoo-Code GitHub entry, while this entry exists to record the Open VSX distribution point and its metadata.

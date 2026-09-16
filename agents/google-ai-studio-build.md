@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Full-stack vibe coding with Antigravity agent + built-in Firebase (AI Studio 2.0, 2026)"
+date_added: "2026-08-19"
 ---
 
 AI Studio's Build feature turns prompts into shareable prototypes: a natural-language description becomes a small working application powered by the Gemini API, which users then refine conversationally, edit by hand, and share or deploy. It is aimed at prototyping and API experimentation rather than the full agentic workspace that Google's separate Antigravity IDE and Firebase Studio provide, though Google has been converging the three surfaces. The builder itself is free; costs come from Gemini API usage under a free tier or pay-as-you-go billing. The aistudio.google.com page is an application shell that serves no crawlable content, so this entry leans on Google's published documentation rather than the live page.

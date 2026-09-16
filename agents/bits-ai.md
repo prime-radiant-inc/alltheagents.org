@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Datadog's AI agents for incident investigation and dev fixes"
+date_added: "2026-08-19"
 ---
 
 Bits AI is Datadog's umbrella for embedded AI agents across investigation, remediation, security, data analysis, and code. The coding component, Bits Code, exists because errors surface first in Datadog's observability data and someone still has to translate them into fixes: the agent triages the signal, locates the offending code using logs, traces, metrics, and runtime variables, writes a fix with unit tests, and opens a GitHub PR carrying the full investigative context. Engineers iterate by leaving PR comments, which the agent answers with updated code, and scheduled prompts or rule-based triggers can automate remediation across Error Tracking, Test Optimization, APM recommendations, and profiling insights. Enterprise controls include zero-retention agreements with model providers and RBAC. It is used by teams already running Datadog who want error triage to end in a reviewable pull request rather than a dashboard alert.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Production-grade methodology repository for building AI-native applications using iterative sprints where AI coding agents are primary implementors; provides traceable artifact chain (PRD -> SPEC -> ADR -> TASK -> CODE -> REVIEW -> DEPLOY); optimized for Claude Code with custom subagents in .claude/agents/"
+date_added: "2026-03-27"
 ---
 
 The BHIL toolkit's central claim is that the bottleneck in AI-assisted development is specification quality, not code generation, so it packages a complete methodology for spec-driven sprints where AI agents implement and humans architect and review. Every sprint produces artifacts in a chain from PRD through SPEC, ADR, TASK, CODE, REVIEW, and DEPLOY, linked by asymmetric traceability IDs in YAML frontmatter (PRD-NNN, SPEC-NNN, ADR-NNN, and so on) so any artifact traces back to its parent requirement. AI-native ADR extensions cover model selection benchmarks, prompt strategy versioning with eval thresholds, and orchestration patterns such as orchestrator-worker and swarm. The repository ships guides, templates, a worked end-to-end example, shell scripts for artifact validation, and a .claude directory with hooks, rules, and skills that wire the methodology into Claude Code. It targets solo practitioners building LLM-powered applications with Claude Code as the primary implementor.

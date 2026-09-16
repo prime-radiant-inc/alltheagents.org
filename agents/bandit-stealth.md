@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Local-first coding agent running Ollama models with tool use, diff approvals, and voice"
+date_added: "2026-08-27"
 ---
 
 Bandit Stealth is a coding agent extension for VS Code and OpenVSX-compatible editors that runs locally on any Ollama model - Gemma, Qwen, Devstral, or a custom fine-tune - keeping code entirely on the user's machine by default. The agent autonomously explores the codebase, reads and writes files, and runs shell commands, with every write gated behind a unified-diff approval and inline diffs streaming into the editor as it works. Distinctive mechanics include agent-authored skills, plan preview with go/no-go confirmation, session checkpoints with /rewind, hooks for CI guardrails, and pre-write language validation for TypeScript, Python, JSON, and C#. Voice is fully pluggable and provider-independent (Bandit cloud, Whisper-compatible servers, ElevenLabs, or a local Piper server), and the composer accepts queued input while the agent streams. A companion CLI ships on npm, and an optional hosted gateway offers managed inference. It targets developers who want a real agentic loop without cloud subscriptions or code leaving the device.

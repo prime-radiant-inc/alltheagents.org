@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Library and CLI that detects whether code is being executed by AI coding agents/editors (16+ tools: Aider, Bolt, Claude Code, Codex CLI, Cursor, Gemini CLI, Copilot, Jules, opencode, Pi, Replit, Warp, Windsurf, Zed, etc.) via environment variables and optional process-tree inspection, so tools can adapt output for agentic vs human consumption."
+date_added: "2025-07-17"
 ---
 
 Libraries and CLIs increasingly need to know whether their output is being read by a human or fed back into an agent, since error messages, logging verbosity, and formatting differ. am-i-vibing exposes detectAgenticEnvironment() plus quick checks (isAgent, isInteractive, isHybrid) and a CLI (npx am-i-vibing, exit-code based) that classify the current process against 16 known tools via environment variables, with optional process-tree inspection for tools like Octofriend that leave no env traces. Detection returns the tool id, name, and environment type, with documented caveats about false positives. Matt Kane maintains it actively (125 commits, changesets, Renovate) as MIT-licensed TypeScript on npm.

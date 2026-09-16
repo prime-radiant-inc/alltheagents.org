@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Floating traffic-light widget for AI coding agents. Always-on-top indicator shows green (idle), yellow (thinking/running tools), or red (writing/editing files) without switching windows. Cross-platform with Stream Deck integration, stealth mode (hidden from screen capture), multi-session state machine with priority-based color selection, themes, sounds, and i18n."
+date_added: "2026-06-26"
 ---
 
 The problem is mundane but constant: an agent has been running for ten minutes in a background window and the developer has no idea whether it is waiting for permission or editing files. Semaphore puts a traffic light on top of every workspace, colored by hooks that Cursor, Claude Code, Codex CLI, and Gemini CLI emit into a per-session state machine. The Rust core and Tauri widget are MIT-licensed, with theming, sounds, idle timeout, and a Node.js Stream Deck plugin as conveniences around the IPC protocol. It is cross-platform with signed builds from GitHub Releases and a semctl doctor command to verify hook wiring. The audience is solo developers and pairing sessions where a glanceable indicator beats alt-tabbing, and the project is a modestly maintained hobby-scale codebase with tagged releases.

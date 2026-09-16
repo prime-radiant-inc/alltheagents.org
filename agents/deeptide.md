@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Built specifically for DeepSeek models with three flavors (native macOS app, TypeScript/Bun CLI, Rust CLI+GUI) that share configuration, sessions, and tools via a shared interface contract (tide-spec). Includes a local DeepSeek inference runtime (Metal engine + OpenAI/Anthropic-compatible gateway). Hooks engine for pre/post tool, user-prompt, session, and compaction shell hooks."
+date_added: "2026-05-05"
 ---
 
 Deeptide exists because DeepSeek users otherwise have to run general-purpose harnesses tuned for other providers. The three form factors deliberately share one interface contract (tide-spec), so configuration, sessions, and tools carry across the native macOS app, the Bun-based CLI, and the Rust binary. The macOS build embeds a local DeepSeek V4 Flash Metal inference engine with an OpenAI/Anthropic-compatible gateway, which lets the agent run fully on-device. It is aimed at DeepSeek-centric developers who want an agent, REPL, and inference runtime from one project rather than assembling them separately.

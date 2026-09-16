@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "AI-powered chatbot generator for creating custom conversational agents for diverse industries using NLP and ML. Not a coding agent harness."
+date_added: "2024-07-04"
 ---
 
 The repository describes an AI-powered chatbot generator for building conversational agents tailored to different industries using NLP and ML. The implementation is a Python web application (main.py, random_responses.py, SQLite storage, template and static folders) that produces chatbots from configuration and packages them via zip.py. There is no code-generation loop, no shell or file tooling, and no agent framework — the 'agents' are conversational chatbots, not software-writing systems. Four commits between July 2024 snapshots and no subsequent activity make it a dormant student-style project.

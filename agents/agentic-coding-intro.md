@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Tutorial/handout introducing agentic coding principles and practice for developers (especially R/Python users) new to AI coding tools; uses Google Antigravity as primary example with four practice projects (Bioconductor repo exploration, messy text parsing, workflow auditing, foundation model survey)."
+date_added: "2026-04-21"
 ---
 
 Computational researchers in R and Python encounter coding-agent documentation written for web developers, so this handout teaches the same concepts through scientific-computing examples. It covers tokens and context windows, MCP servers, skills, and Markdown instruction files, then applies them in four practice projects: exploring a Bioconductor repository, parsing messy text files, auditing an existing workflow, and surveying foundation models. Google Antigravity serves as the primary demonstrated tool — free but rate-limited — with Claude Code and Gemini CLI covered alongside, including practical cost notes (Claude Pro at $20/month for Claude Code access). NIH U24 grant support and the Bioconductor focus point at biomedical research audiences new to AI coding tools.

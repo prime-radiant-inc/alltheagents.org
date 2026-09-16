@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI engineer in dbt for models, tests, docs"
+date_added: "2026-08-19"
 ---
 
 dbt Copilot is dbt Labs' AI assistant for analytics engineering, built into the dbt platform to draft SQL models, generate tests, and write documentation that conforms to the existing project structure rather than producing free-floating code. It is part of dbt Cloud (now under the Fivetran-merged dbt), where the advanced tier of Copilot is included in Enterprise and Enterprise+ plans rather than the free Developer or Starter tiers. The feature set positions it as an in-workflow accelerator for teams whose day-to-day output is governed data transformation code. Its users are analytics engineers maintaining dbt projects in dbt Studio or IDEs alongside Cursor, Claude Code, Windsurf, and VS Code integrations.

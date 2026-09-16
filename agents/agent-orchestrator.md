@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "Terminal-based multi-agent orchestrator wrapping Claude, Codex, and Gemini CLIs with automatic failover (next-man-up); agents share context via a knowledge base server; routes messages through configurable role chains"
+date_added: "2026-03-17"
 ---
 
 Three CLI subscriptions cover most frontier models, but each has separate quotas, and hitting one mid-task means losing momentum, so this orchestrator wraps the Claude, Codex, and Gemini CLIs and fails over automatically — when one agent hits a cap or errors, the next in the role chain continues the work. It is deliberately minimal: a single Python file (daniel.py, about 1,100 lines) with role-based routing chains (orchestrator, implementation, ui-docs, review), direct addressing like @claude or @codex, cooldown timers on exhausted agents, and an optional knowledge-base server for shared context. New agents are added by writing roughly 30-line wrapper functions. Solo developers running all three ~$20/month CLI subscriptions are the intended users.

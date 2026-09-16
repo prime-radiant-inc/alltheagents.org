@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "vinkius"
 what_makes_it_special: "No-code visual workflow builder for production-ready agentic workflows, RAG pipelines, and AI apps; turns prompt logic into visible execution paths; Marketplace plugin system for model providers, tools, and MCP integrations; apps publishable as MCP-compatible tools; deploy on cloud, VPC, or self-host."
+date_added: "2026-08-19"
 ---
 
 Dify condenses the pieces of an AI application stack — model access, prompt management, RAG ingestion, agent orchestration, deployment, and monitoring — into one visual workspace. Builders assemble workflows on a canvas or configure ReAct/function-calling agents over 50+ built-in tools, install model and tool providers from a Marketplace, and expose finished apps through Backend-as-a-Service APIs; apps can also act as MCP servers for other tools. The Community Edition self-hosts via Docker under an Apache-2.0-derived license with multi-tenant SaaS restrictions, while Cloud and Enterprise plans add compliance surfaces (SOC 2, ISO 27001). Its users are product and engineering teams shipping chatbots, RAG assistants, and agentic workflows without writing harness code.

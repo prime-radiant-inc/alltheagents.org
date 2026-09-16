@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Fully autonomous coding assistant for JetBrains"
+date_added: "2026-06-26"
 ---
 
 CrickCoder AI IDE brings autonomous task execution to IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains IDEs. The plugin plans a programming task, applies edits through the IDE's virtual file system and diff viewer, and runs tests or compilers in the integrated terminal without user intervention at each step. Model access is billed pay-as-you-go rather than through quotas, and the chat UI uses a deliberately stylized 'Neural Glass' theme. With 146 downloads since its June 2026 release, it is a very early-stage product aimed at JetBrains developers who want a Claude Code-style loop without leaving their IDE.

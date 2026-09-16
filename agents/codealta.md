@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Terminal workspace (TUI) for agentic coding — model-provider setup, project navigation, prompt attachments, durable sessions, delegated work, and trusted local plugins via the alta command. Supports source plugins, Agent Skills skill folders, and in-session alta live tool."
+date_added: "2026-02-25"
 ---
 
 CodeAlta organizes the workspace around agentic coding rather than adding another agent runtime: a keyboard-driven TUI holds provider configuration, a project sidebar, a prompt editor with @ file attachments and # GitHub issue search, and durable project-scoped session journals that support queuing, steering, and compaction. Sessions survive across restarts, and the interface tracks modified files, usage, and logs while remaining provider-neutral across Codex, Copilot, Grok, OpenAI/Azure, Anthropic, Gemini/Vertex, Alibaba, and custom endpoints. Extension points are local and trust-based: source plugins, Agent Skills-compatible skill folders, and an in-session alta live tool for automating the workspace itself. It is written in C# for .NET 10, installed as a dotnet global tool, requires a Nerd Fonts-patched terminal, and is explicitly marked pre-release by author Alexandre Mutel.

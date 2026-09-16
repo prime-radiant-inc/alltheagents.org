@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "AI-powered web platform for text generation (blogs, summaries, translations), data analysis, code generation (Python, R, JavaScript, Julia, MATLAB), and AI-assisted chart creation/visualization from custom data; not a coding agent harness"
+date_added: "2026-08-19"
 ---
 
 ChartGPT is a browser-based service that combines text generation, code generation for data-analysis languages, and AI chart creation under one credit-metered subscription. Users paste data or upload tables converted from Google Sheets or Excel, then prompt the system to produce visualizations, summaries, or analysis code in Python, R, JavaScript, Julia, or MATLAB; text generation covers blogs, summaries, and translations. There is no tool-using agent loop — no file system, shell, or iterative execution — so it functions as a multi-purpose generation site rather than a coding harness, despite including code output among its features. The platform targets students, analysts, and content creators (it markets adoption at employees of Cisco, Oracle, Microsoft, and Facebook) with subscription tiers from $2.99 to $14.99 per month plus pay-as-you-go credit packs. It remains an active commercial web product.

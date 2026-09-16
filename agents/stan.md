@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Text analysis tool that summarizes long texts and answers questions (What/When/Who) using a locally deployed LLM. Works fully offline — no internet required, ensuring data privacy and security. Uses Hugging Face Transformers with Chroma & LangChain. (Streamlit app; not a coding agent harness.)"
+date_added: "2023-09-27"
 ---
 
 Stan is a Streamlit application for environments without internet access: long documents are summarized and queried (what, when, who) using a locally deployed LLM, with retrieval via Chroma and orchestration via LangChain, so no text or data leaves the machine. The repository holds six commits, a Streamlit interface, and no license file, meaning the code is technically all-rights-reserved despite being public. Development stopped in late 2024 with no issues, releases, or ongoing maintenance. It appears in this census only as a mislabeled sweep result — there is no coding loop, file editing, or tool use of any kind.

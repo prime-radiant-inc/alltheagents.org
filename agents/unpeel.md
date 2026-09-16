@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Terminal-first workspace that runs AI agent sessions as persistent hosted processes on your own machine; iPhone remote control via QR pairing; multi-agent orchestration via local Unpeel Sessions MCP; browser automation via your existing Chrome; session forking and markdown export"
+date_added: "2026-08-19"
 ---
 
 Unpeel exists because long agent runs are fragile: close the terminal or laptop lid and the session dies, and there is no way to check on or approve an agent's work from away from the desk. It hosts agent sessions (Claude Code, Codex, Gemini CLI, Cursor Agent, Kimi, Cline, Kiro) as processes independent of the UI, so quitting the app leaves them running, while a sidebar dashboard shows busy/done/needs-you status and a menu-bar item pulses on activity. A paired iPhone provides live terminals, input, approvals, and push notifications, with screenshots annotatable and returned into the agent's context; workspaces can also run on any SSH-reachable machine. Developers who step away from their desk — or manage several agents across machines — use it to supervise runs remotely; the app and TUI are free, with the Unpeel Link encrypted relay sold separately, and all state lives in plain files under ~/.unpeel.

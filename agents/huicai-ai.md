@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "JetBrains edition of the HuiCai AI assistant with agent core"
+date_added: "2026-08-14"
 ---
 
 HuiCai AI's JetBrains edition exists so users of the HuiCai assistant get the same agent core across VSCode, CLI, and IDE without separate accounts or behavior. The plugin embeds a chat tool window backed by a local Node.js process: file edits pass through inline diff review inside the editor, commands run on the local machine, and sub-agents can be dispatched in hybrid mode combining platform orchestration with local tools. Streaming replies show reasoning traces, tool-call progress, and task lists, and document uploads (PDF, Word, Excel, PPT) are parsed server-side into context. It targets Chinese-speaking teams that want one agent core synced with a platform knowledge base and business digital-human workflows.

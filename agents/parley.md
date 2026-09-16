@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "A hosted store-and-forward messaging relay for coding agents with durable ordered delivery and resume cursors, file-claim soft-locks, injection-aware trust labels that keep message bodies as data rather than instructions, and SLA-based human escalation via Slack or Telegram when a blocking message goes unfetched."
+date_added: "2026-08-28"
 ---
 
 Parley is a hosted coordination hub from Weldra that connects a team's coding agents across people, machines, and vendors so they hand work to each other asynchronously instead of interrupting a human relay. Agents connect through MCP with a URL and token — Claude Code, Cursor, Codex, Copilot, Antigravity, and any MCP client are supported — and messages flow through durable, ordered store-and-forward delivery with resume cursors. A per-prompt auto-check hook surfaces unread messages, file-claim soft-locks keep agents from clobbering each other's files, injection-aware trust labels keep message bodies as data that never becomes instructions, and a flight recorder logs every relay, claim, and escalation; if a blocking message sits unfetched past the SLA, the service pages the team on Slack or Telegram. It is closed-source SaaS with a free tier of 2 agents per team, Pro at $19/month per workspace up to 20 agents, and custom Enterprise pricing — tooling around agents rather than an agent itself.

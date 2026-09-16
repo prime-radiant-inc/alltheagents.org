@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Series of large language models (GLM-5/5.1/5.2) targeting complex systems engineering and long-horizon agentic tasks. GLM-5.2 delivers a solid 1M-token context, 744B params (40B active), IndexShare architecture reducing per-token FLOPs 2.9x at 1M context, and DeepSeek Sparse Attention. Best-in-class open-source coding/agentic performance."
+date_added: "2026-02-09"
 ---
 
 The GLM-5 series (GLM-5, 5.1, 5.2, 5.3, 5.3-Flash) is Z.ai's open-weight model line aimed squarely at coding and long-horizon agentic workloads, with 28.5T pre-training tokens, DeepSeek Sparse Attention, and an IndexShare architecture that cuts per-token FLOPs 2.9x at million-token context. The repository ships weights (BF16 and FP8 variants on Hugging Face and ModelScope) plus serving and fine-tuning recipes for SGLang, vLLM, Transformers, and KTransformers, with hosted access via the Z.ai API platform. Benchmarks position it as the leading open-source model for coding and long-horizon agent tasks. In this census it is a model, not a harness: the agentic loops live in downstream tools that consume these weights.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "GitHub Action that uses an AI agent to write automated tests on pull requests. Built on the actions/typescript-action template. 153 commits, 1 star."
+date_added: "2024-12-27"
 ---
 
 TestAI-Agent packages an AI agent as a GitHub Action whose job is generating automated tests for pull requests, so review pipelines gain tests written by a model rather than relying on authors to supply coverage. The repository is built on the official actions/typescript-action template, with LangGraph noted in the source as the agent framework, and it publishes a marketplace action named testifyai-agent. Documentation is minimal — the README remains largely template boilerplate, inputs and model configuration are inferred from .env.example, and the repo is tiny (1 star, 153 commits). It runs on Node.js 20+ like any TypeScript action, and the MIT-licensed source is available for inspection. The practical audience is hobbyists and early experimenters wiring agent-generated tests into PR workflows; its immaturity is documented as part of the census record.

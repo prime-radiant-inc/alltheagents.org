@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic5"
 what_makes_it_special: "Open-source AI coding agent in Rust with native GUI, terminal mode, and MCP integration (both as MCP client and headless MCP server). Features transparent UI showing tool execution and context, format-on-save reconciliation, transparent file encoding/line endings, document support (Word, Excel, PowerPoint, PDF as Markdown), browser sessions for web app testing with human-in-the-loop login, and four interfaces (native GUI, TUI, headless MCP server, ACP agent for editors like Zed)."
+date_added: "2024-11-03"
 ---
 
 The project's differentiator is transparency and model tolerance: every tool invocation is visible as it happens, safety filters prevent editing a file before reading it, and the agent adapts its tool-call format to the model in use, so providers without reliable native function calling still work. It preserves file encodings and line endings, reconciles formatter output token-efficiently on save, reads Office and PDF files as Markdown, and runs browser sessions with human-in-the-loop logins for testing web apps. Nine providers are supported, including SAP AI Core for enterprise contexts, and reusable skills encode multi-step playbooks. Developers using Zed or editor-agnostic setups, and those who want a GUI without Electron, are the audience.

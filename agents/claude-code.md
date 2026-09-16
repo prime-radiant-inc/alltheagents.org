@@ -34,6 +34,7 @@ sources:
   - "brad"
   - "tiennm"
 what_makes_it_special: "Anthropic's official terminal-native agentic coding assistant that understands your codebase and operates through natural language; works across terminal, IDE (VS Code with @-mentions and plan review), and GitHub (via @claude mentions). Extensible plugin system for custom commands and agents; MCP server support for external data sources (Google Drive, Jira, Slack); hooks to run shell commands before/after actions (auto-format, lint); subagents via spawnable parallel Claude Code agents coordinated by a lead agent; dedicated Agent SDK for building custom agents. Major project (142k stars, 731 commits)."
+date_added: "2025-02-22"
 ---
 
 Claude Code established the pattern most entries in this census copy: an agent that receives an instruction, plans, and executes a tool loop against the real filesystem with permission prompts, rather than a chat window. It is distributed as a closed-source product governed by Anthropic's Commercial Terms, with the GitHub repo hosting issues, the plugin marketplace, and examples rather than the product source. The same agent core is reachable from interactive terminals, IDEs with @-mentions and diff review, desktop and web clients, and GitHub through @claude automation, sharing configuration like CLAUDE.md memory, hooks, and MCP servers. Teams use it for refactoring, test writing, git workflows, and CI automation; headless mode supports scripting.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "e2b"
 what_makes_it_special: "Multi-Agent collaborative scheduling (codefuse-muAgent framework); repository-level code analysis & generation; document RAG enhanced with knowledge graphs; DevOps-domain-specific knowledge base; sandbox environment for safe code execution; supports offline private deployment."
+date_added: "2023-09-28"
 ---
 
 CodeFuse-ChatBot, from Ant Group's CodeFuse team, targets DevOps work that spans design, coding, testing, deployment, and operations, replacing scattered platform-jumping with LLM-driven workflows. Its multi-agent scheduling core, later extracted as the standalone codefuse-muagent framework, orchestrates specialized agents over a shared memory; retrieval-augmented generation combines document knowledge bases with knowledge-graph enhancement, and a sandbox environment executes generated code safely. The system is designed for offline private deployment in enterprise settings, supporting OpenAI-compatible APIs and locally hosted models through FastChat, and it analyzes code at repository level rather than per-file. Documentation is bilingual (Chinese and English) on codefuse-ai.github.io, and development focus shifted to the separate muagent package after January 2024.

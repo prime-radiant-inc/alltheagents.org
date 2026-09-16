@@ -29,6 +29,7 @@ maintained: "active"
 sources:
   - "user_reported"
 what_makes_it_special: "Control plane / fleet management tool for AI coding agents running in tmux panes. A background daemon polls tmux sessions, captures pane scrollback, classifies each pane's status (running/idle/done), records session history to SQLite, and exposes a CLI, TUI dashboard, REST API over Unix socket, and MCP server so one agent can inspect, read conversations of, or send instructions to other agents."
+date_added: "2026-09-01"
 ---
 
 Fleet Control is a control plane for AI coding agents that live in tmux panes. A background daemon polls tmux sessions, captures each pane's scrollback, and classifies its status — running, idle, or done — so an operator can see the whole fleet at a glance from a TUI dashboard or a CLI. Session history is recorded to SQLite, and a REST API over a Unix socket exposes the same state programmatically. The notable piece is an MCP server: one agent can inspect another pane, read its conversation, or send it instructions, turning the fleet into something agents can drive themselves. Fleet Control owns no agent loop — the agents in the panes do — it just observes, classifies, and relays. The audience is anyone running many agent sessions side by side in tmux who wants visibility and inter-agent coordination without a heavier orchestrator.

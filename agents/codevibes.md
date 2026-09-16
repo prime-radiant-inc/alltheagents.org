@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Free, open-source AI code review alternative to CodeRabbit. Uses DeepSeek AI for security vulnerability detection, bug/performance analysis, and code quality review. Priority-based three-tier scanning system (P1 security → P2 core logic → P3 quality). Provides a quantifiable 0-100 Vibe Score. Real-time streaming analysis via SSE. Stores analysis history locally in SQLite."
+date_added: "2026-01-06"
 ---
 
 CodeVibes provides AI code review for developers who cannot justify a paid review service: a web dashboard where a GitHub repository URL yields security findings, bug and performance issues, and quality observations, condensed into a 0-100 score. Analysis runs on DeepSeek models (deepseek-chat or deepseek-reasoner) with a user-supplied free API key, organized as a priority pipeline — security first, then core-logic defects, then style and quality — with results streaming in real time over server-sent events. The application is a TypeScript monorepo: a React 18 and Vite frontend, an Express backend storing analysis history in SQLite via Better-SQLite3, and Octokit for GitHub access. It is a beta-stage single-author project with a dozen commits, self-described as an affordable CodeRabbit alternative.

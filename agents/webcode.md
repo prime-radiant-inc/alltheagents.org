@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Browser-based AI CLI work platform that wraps Claude Code, Codex, and OpenCode into a manageable, deployable, collaborative, remotely-accessible system with Web, mobile, and Feishu (Lark) unified session flow. Supports multi-user, permissions, external session import/recovery, Superpowers workflows, Codex /goal, and cc-switch as the sole provider authority."
+date_added: "2026-01-14"
 ---
 
 WebCode addresses the operational problem of running AI coding CLIs for a team or across machines: sessions are tied to local terminals and hard to share, secure, or reach remotely. It wraps Claude Code, Codex, and OpenCode into a self-hostable Blazor Server (.NET 10) platform where sessions can be created, restored from raw CLI transcripts, bound to workspaces, and accessed from web, mobile, or Feishu (Lark) chats with streaming card output. Multi-user support includes per-user CLI restrictions, directory whitelists, and Feishu bot bindings, with provider switching centralized through cc-switch. An office-assistant mode extends the same session infrastructure to planning, summaries, and document drafting. It is self-hosted via Docker or Windows installers under AGPLv3, aimed at teams wanting shared, remotely accessible agent sessions.

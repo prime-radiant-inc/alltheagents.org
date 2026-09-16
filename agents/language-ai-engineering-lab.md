@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic5"
 what_makes_it_special: "Structured educational repository for learning Language AI engineering covering NLP fundamentals through Transformers, LLMs, and production-ready systems; 17 numbered sections following a progressive learning path; includes hands-on notebooks and end-to-end projects spanning the entire Language AI engineering lifecycle"
+date_added: "2025-04-25"
 ---
 
 The repository organizes language-AI engineering into a self-study path: fundamentals of human language and NLP, transformer architecture, LLM fundamentals, prompt and context engineering, RAG pipelines, evaluation and benchmarks, hallucinations, MCP, orchestration, agentic systems, multimodality, MLOps, and production data engineering. Each numbered section combines concept explanations, diagrams, and runnable code, with Jupyter notebooks and projects for practice. Sections on harness engineering and the Model Context Protocol make it relevant reading for agent developers, though it is courseware rather than a tool. Learners moving from NLP fundamentals into production LLM engineering use it, and it is actively maintained under GPL-3.0.

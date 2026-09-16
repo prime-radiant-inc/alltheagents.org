@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "NOTE: Not a coding agent harness. Django backend for deploying an LLM research conversational AI agent (for testing purposes). Minimal project with 35 commits, 1 star."
+date_added: "2024-03-06"
 ---
 
 The repository provides the server side of a conversational AI research prototype: a Django project with a research app handling chat requests, a Dockerfile for reproducible test deployment, and little else. Its author describes it explicitly as a test deployment for LLM research, and the codebase reflects that scope with minimal structure and no license file. It functions as HTTP plumbing for a research chat prototype rather than as any kind of software-building tool, and it has been untouched since mid-2024.

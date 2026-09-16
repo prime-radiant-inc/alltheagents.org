@@ -37,6 +37,7 @@ sources:
   - "ishandutta"
   - "tiennm"
 what_makes_it_special: "Google's official open-source AI agent that brings Gemini models directly into the terminal; free generous tier with Google account; 1M token context window; built-in tools (Google Search grounding, file ops, shell, web fetch); terminal-first design; GitHub Action integration for PR reviews and issue triage; checkpointing for session save/resume; custom context via GEMINI.md files; MCP client and server support for custom tool integrations; custom extensions/commands. Major project (107k stars, 6,381 commits) with weekly stable/preview/nightly releases."
+date_added: "2025-04-17"
 ---
 
 Gemini CLI gives terminal users direct access to Gemini models under a free quota that no third-party harness matches: 60 requests per minute and 1,000 per day with a Google account, or via a Gemini API key and Vertex AI for paid use. The agent ships built-in tools for file operations, shell execution, and web fetching with Google Search grounding, keeps a 1M-token context window, and checkpoints sessions for save and resume. Extensibility runs through MCP servers, custom extensions and slash commands, and GEMINI.md context files, with GitHub Actions available for PR review and issue triage. Weekly stable, preview, and nightly releases plus 107k stars mark it as a major maintained project rather than an experiment.

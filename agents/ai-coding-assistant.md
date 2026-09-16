@@ -32,6 +32,7 @@ maintained: null
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Open-source IntelliJ AI coding assistant with code generation tools"
+date_added: "2025-10-14"
 ---
 
 JetBrains users who want AI code generation without a commercial subscription have limited options inside the IDE. This plugin adds code-generation tools to IntelliJ-platform IDEs, letting the assistant draft and apply code from within the editor. Its marketplace presence makes installation a one-click plugin install. Public documentation beyond the marketplace listing is limited, so specifics about supported models and configuration could not be verified from primary sources.

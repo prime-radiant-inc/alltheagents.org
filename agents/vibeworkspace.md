@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "Consolidates scattered developer tools (terminals, browser previews, DB clients, HTTP clients) into a single workspace for managing multiple AI coding agents simultaneously. Context sharing across tools and agents without copy-pasting. Channel Chat to orchestrate multiple AI agents via named channels. Ambient agent pet that alerts you when tasks finish. AI session continuity. Multi-project workspace with persistent state."
+date_added: "2026-08-19"
 ---
 
 VibeWorkspace exists because agent-driven development scatters across tools: agents run in terminal tabs while the developer context-switches to a browser, an API client, and a database GUI, re-typing everything the agents need to know. It consolidates those surfaces — multi-agent chat (Claude Code, Codex, Gemini CLI, Amp, OpenCode, Cline, or any CLI), browser preview, HTTP client, SQL/NoSQL/cache/vector DB clients, and visual git staging — into one workspace where observed context feeds agent prompts directly, one prompt can fan out to several agents, and one agent can be @mentioned to review another's output. Named channels organize human-agent communication, terminals persist across restarts with auto-restart, and everything stays local with no cloud tracking. Solo developers and small teams replacing tmux/VS Code/Postman/TablePlus combinations use it; it is a paid desktop app ($10 lifetime launch pricing) rather than open source.

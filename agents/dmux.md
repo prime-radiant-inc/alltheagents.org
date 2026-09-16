@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "tmux-based multiplexer for parallel AI coding agents in isolated git worktrees. Each agent gets its own tmux pane + worktree + branch, preventing file conflicts. Agent-agnostic with 12+ supported CLIs (Claude Code, Codex, OpenCode, Gemini CLI, etc.). Durable/resumeable terminals, smart merging with GitHub PR creation, AI-generated branch/commit names, multi-project sessions, and a built-in file browser."
+date_added: "2025-08-20"
 ---
 
 dmux treats a coding task as a tmux pane with an isolated worktree: press n, type the prompt, pick one or more agents, and it creates the branch, worktree, and agent launch, then merges or opens a GitHub PR when the work finishes. It stays agent-agnostic — Claude Code, Codex, OpenCode, Cline, Gemini, Qwen, Amp, Cursor CLI, Copilot CLI, Crush and more — and never intercepts the agent's protocol, so MCP servers and permission flows keep working. Durable terminals resume the tracked agent conversation when a pane is recreated, and lifecycle hooks run scripts around worktree creation and merges. Solo developers running several tasks at once are the target user.

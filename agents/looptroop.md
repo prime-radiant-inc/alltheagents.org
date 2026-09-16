@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Local GUI orchestrator for long-running, high-correctness AI software delivery; turns a coding ticket into a planned, reviewable, agent-executed PR through three stages (Planning with LLM Council interview/PRD/bead generation, Execution with isolated OpenCode worktrees and multi-loop automated testing, Shipping with final verification); cross-model councils with independent voting"
+date_added: "2026-03-03"
 ---
 
 LoopTroop is built for tickets too large for chat-style coding: an interactive interview (allowed to run over an hour) produces a PRD, which decomposes into beads - the smallest independently implementable units, each with acceptance criteria, target files, and validation steps. OpenCode implements each bead in an isolated git worktree, and because worktrees isolate code but not command execution, the project recommends running inside a disposable VM. State lives outside the model in SQLite, JSONL logs, and YAML artifacts, with the agent receiving only the context its current step needs to prevent context rot; runs are expected to take ten or more hours, unattended. Teams with long-horizon, correctness-sensitive feature work who already run OpenCode are the intended users.

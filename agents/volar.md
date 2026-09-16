@@ -32,6 +32,7 @@ maintained: null
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Plan, Review & Build with AI"
+date_added: "2025-05-01"
 ---
 
 Volar exists to give AI coding sessions an explicit planning and review layer before any code is written. The extension does not run AI itself; it manages a task list in a sidebar and communicates with the developer's coding tool through an MCP server (VolarTaskServer), so agents can read and update tasks from inside chat. Its Plan action prompts the connected AI to analyze the codebase and draft an implementation plan, Breakdown recursively splits complex tasks into sub-tasks, and Execute instructs the AI to implement only the approved plan. It auto-configures MCP for Cursor, Windsurf, and Claude Code, and supports any MCP-compatible tool such as Cline via a localhost URL. It targets VS Code users working with Cursor, Windsurf, or Claude Code who want approved-plan discipline.

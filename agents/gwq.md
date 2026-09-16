@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "CLI for managing Git worktrees with a fuzzy finder; enables parallel AI coding agent workflows by allowing multiple AI agents to work in isolated worktrees simultaneously without merge conflicts"
+date_added: "2025-05-26"
 ---
 
 gwq manages Git worktrees from the command line with a fuzzy-finder interface, letting a developer spin up isolated working copies per task in seconds. Its main use case is parallel AI coding: each agent runs in its own worktree, so several Claude Code or Codex sessions can proceed on separate branches without interfering, and gwq's status dashboard with watch mode tracks what each worktree contains. Beyond worktree CRUD it offers global cross-repository discovery, exec and cd helpers, tmux integration for long-running processes, JSON/CSV output for scripting, and shell completions. The tool itself contains no AI; it is the scaffolding that makes multi-agent workflows practical for a single developer.

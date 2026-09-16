@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Multi-Role AI Agent Runtime orchestrating multiple AI roles through a quality-gated pipeline (Brain -> Miranda -> Pappy -> Benson). Maestro manages a subagent pool (brain, strong_model, cheap_model, reviewer, narrator, planner_deep, debugger, reader, vision). MCP support, SQLite persistence, role routing between cheap and strong models, self-improving distillation loop, and training-data export for fine-tuning — all running locally."
+date_added: "2026-02-27"
 ---
 
 Single-model coding pipelines blur responsibility: the same context plans, codes, reviews, and talks to the user, so quality control becomes an afterthought. Orca assigns each function a named role in a fixed pipeline — Brain decomposes the request, Miranda runs a PLAN-ANSWER-CRITIQUE-REWRITE compliance loop, Pappy issues PASS/WARN/FAIL quality verdicts, and Benson handles intent parsing — with a Maestro router managing a nine-role subagent pool that includes strong and cheap model tiers, debugger, reviewer, and vision roles. Runs persist in SQLite, MCP connects external tools, and a distillation loop exports interactions as training data for fine-tuning. The runtime is a TypeScript pnpm monorepo with an Electron desktop app and a CLI runner keyed to OpenRouter or local Ollama, under a PolyForm Noncommercial license and aimed primarily at Windows. It is an early personal project (39 stars, 442 commits) exploring role-decomposed agent architectures.

@@ -34,6 +34,7 @@ pricing: "free"
 stars: "1"
 sources:
   - "github-issue"
+date_added: "2026-08-03"
 last_verified: "2026-09-16"
 what_makes_it_special: "A terminal coding agent built on the Pi harness that bundles goals, background jobs, and child agents in one session — plus Japanese-aware terminal layout, voice dictation via Shisa, and local TextGuard scanning of skills and web results."
 ---

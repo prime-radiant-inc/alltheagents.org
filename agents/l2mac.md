@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "e2b"
 what_makes_it_special: "First practical LLM-based von Neumann-architecture stored-program automatic computer; uses a self-bootstrapped prompt-program where each instruction step is loaded into a new LLM agent to execute, with persistent file-store memory, error correction, and unit test generation; 90.2% Pass@1 on HumanEval; accepted at ICLR 2024."
+date_added: "2024-03-08"
 ---
 
 L2MAC came out of research at the University of Cambridge on a recurring problem in 2024: a single LLM context window could not hold a whole codebase or book, so outputs degraded as they grew. Its control unit executes a stored prompt-program instruction by instruction, each step in a fresh agent context, with read/write tools against a persistent file store and self-generated unit tests to catch and fix errors. The code instantiation produced entire codebases (a playable Pygame game, a URL shortener) from one prompt, and the paper reported 90.2% Pass@1 on HumanEval. The project is cited for its architecture idea but has seen no meaningful development since mid-2024.

@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "jqueryscript"
 what_makes_it_special: "AI backend builder that generates 100% compilable NestJS+Prisma backends via a waterfall pipeline of 40+ specialized agents (Analyze, Database, Interface, Test, Realize)."
+date_added: "2025-04-28"
 ---
 
 AutoBE, by Wrtn Labs, generates complete TypeScript backends (NestJS + Prisma) from natural-language requirements, aiming at 100% compilable output rather than probabilistic code generation. Its waterfall pipeline moves through Analyze, Database, Interface, Test, and Realize phases, each handled by specialized agents and validated by AI-friendly compilers that check language-neutral ASTs against type schemas before any code is emitted, with the option to stop at any phase (spec-only, API design only, etc.). Generated backends include a type-safe client SDK, and a benchmark harness scores 13+ models across todo/reddit/shopping/ERP projects with live results at autobe.dev/benchmark. The system is TypeScript (AGPL-3.0 for the generator; generated applications can be relicensed freely), run via a WebSocket playground or the @autobe/agent library, and consumes 30M-250M+ tokens per project. It targets backend teams wanting spec-driven, compilation-guaranteed service generation.

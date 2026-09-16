@@ -33,6 +33,7 @@ maintained: "dead"
 sources:
   - "jim"
 what_makes_it_special: "Associated link: a Discord invite (discord.gg/VmEEUrc7dg); server could not be resolved from the invite page; not a standalone agent harness"
+date_added: "2026-08-19"
 ---
 
 This census entry records a Discord invite URL rather than a tool. The invite page exposed no server name, bot, or product; nothing about an agent harness can be verified from it. It is retained as an association link only.

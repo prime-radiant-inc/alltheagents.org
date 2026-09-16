@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "namphuong"
 what_makes_it_special: "Desktop orchestrator for parallel AI coding agents using isolated git worktrees; works with any CLI agent (Claude Code, Codex, GitHub Copilot, Gemini, OpenCode); Cloudflare Quick Tunnel remote/mobile coding, Whisper voice input, plan versioning, automated code review gates (build/test/lint/format)."
+date_added: "2026-04-15"
 ---
 
 Tendril is built by the Ivy-Interactive team (behind the Ivy framework) as an IDE replacement for the agentic era. The core mechanic is worktree isolation: each agent gets its own git worktree so parallel work never touches main, and humans review diffs, annotate plans (edits automatically revise agent goals), and approve merges through verification gates. GitHub webhooks convert issues and jam.dev bug reports into jobs automatically. Cloudflare Quick Tunnels expose running sessions to a phone for remote steering, and Whisper dictation feeds prompts by voice. It ships as installers or one-line scripts for macOS, Windows, and Linux under the Functional Source License, free today and Apache/MIT after the grace period.

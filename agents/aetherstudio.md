@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Native Windows code editor built with Rust + Win32 API using Direct2D rendering and a Piece Table text buffer. Features multi-cursor editing, Tree-sitter, LSP/DAP, SSH remote development, ConPTY terminal, and CJK IME support. Includes an aether-plugin crate for plugin extensions and AI-assisted coding via DeepSeek/Kimi."
+date_added: "2026-06-22"
 ---
 
 AetherStudio (牧羊人编辑器) starts from a performance complaint: Electron-based editors cost memory and input latency on Windows, so it renders with Direct2D/DirectWrite through the Win32 API in Rust, using a Piece Table buffer for multi-cursor editing at native speed. It is a complete editor rather than a demo — Tree-sitter highlighting, LSP and DAP clients, SSH remote development, ConPTY terminal, and CJK IME support for Chinese users. The AI layer integrates DeepSeek and Kimi presets for code explanation, rewriting, and inline suggestions, and can feed agent tool results back into the loop. Windows users who want native responsiveness with Chinese-market AI presets are the audience; the project is MIT-licensed and actively developed by Song Diyang.

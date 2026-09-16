@@ -33,6 +33,7 @@ sources:
   - "jqueryscript"
   - "brad"
 what_makes_it_special: "Dual-mode shell/agent (toggle with Ctrl-X without leaving CLI), ACP (Agent Client Protocol) support for IDE integration (Zed, JetBrains), VS Code extension, Zsh integration, comprehensive MCP support with OAuth, autonomous planning and adjustment during execution. Being wound down in favor of Kimi Code CLI."
+date_added: "2025-10-15"
 ---
 
 Kimi Code CLI is the continuation of Moonshot AI's terminal agent line, replacing the original Kimi CLI whose README points users here. It reads and edits code, executes shell commands, and searches the web while planning and revising its actions during execution; a Ctrl-X toggle switches between raw shell use and agentic operation without leaving the process. ACP support connects it to Zed and JetBrains IDEs, a VS Code extension covers that editor, and MCP servers can be attached over stdio or HTTP with OAuth. Installation via pip handles the migration from the older kimi-cli package automatically.

@@ -33,6 +33,7 @@ sources:
   - "brad"
   - "ishandutta"
 what_makes_it_special: "High-performance AI coding agent in Rust with rich terminal UI; cross-platform; extensible tool system; context export/restore persistence; OpenAI-compatible API support. MCP and plugin systems planned on roadmap. Positioned as a free alternative to Claude Code."
+date_added: "2025-08-13"
 ---
 
 Claude Code established the terminal-agent workflow, but it is proprietary and tied to one vendor's models, leaving room for an open, inspectable equivalent. Coro Code implements that workflow in Rust: a single cross-platform binary runs an agent loop with bash execution, file operations, and an extensible tool system, presented through a rich terminal UI with real-time streaming. Session state persists via JSON context export and restore, and token compression keeps long sessions within budget. The LLM layer targets OpenAI and OpenAI-compatible endpoints (DeepSeek among them), with Anthropic and Google support on the roadmap alongside permission systems, sandboxing, and MCP extension. Developers wanting a self-hosted terminal agent they can inspect and modify - particularly in Rust ecosystems - are the audience; the project is early but actively developed.

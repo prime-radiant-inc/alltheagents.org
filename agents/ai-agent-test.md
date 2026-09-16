@@ -31,6 +31,7 @@ maintained: "dead"
 sources:
   - "jim"
 what_makes_it_special: "A test repository for AI agent interactions, archived by the owner on Jun 12, 2026."
+date_added: "2024-12-07"
 ---
 
 This repository existed to exercise AI agent interactions against a real GitHub repository, containing only an index.html file. The owner archived it on June 12, 2026, making it read-only, with two open issues left as-is. There is no implementation, documentation, or community to evaluate. It functions in the census as an artifact of agent testing behavior rather than as a usable project.

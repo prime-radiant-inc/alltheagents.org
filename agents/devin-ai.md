@@ -35,6 +35,7 @@ sources:
   - "caramaschi"
   - "vinkius"
 what_makes_it_special: "Autonomous AI software engineer by Cognition with a workspace (shell, IDE, browser); accessible via web, CLI, Slack, Microsoft Teams, and API; features MCP and Plugin marketplaces."
+date_added: "2026-08-19"
 ---
 
 Devin operationalizes the autonomous-software-engineer idea as a hosted service: a session spins up a container with a shell, editor, and browser, works through a plan, opens PRs, and reports back. It is reachable wherever work happens — web app, CLI, Slack/Teams, Linear/Jira, or the API — and its MCP and plugin marketplaces extend the agent's tool surface without custom code. Playbooks and automations turn recurring tasks into repeatable runs, and the DeepWiki browser exposes how it understands a codebase. Pricing is usage-metered in ACUs across subscription tiers, aimed at engineering teams delegating well-scoped tickets rather than hobbyists.

@@ -33,6 +33,7 @@ sources:
   - "jqueryscript"
   - "brad"
 what_makes_it_special: "Extreme RAM efficiency (6-14x less than competitors), sub-15ms first frame, human-like agent memory system with semantic vector retrieval, multi-agent swarm collaboration in shared repos, self-dev mode for self-modification, built-in browser automation."
+date_added: "2026-01-05"
 ---
 
 JCode's engineering thesis is that agent harnesses are needlessly heavy: it holds one session in roughly 28 MB of RAM, adds about 10 MB per additional session, boots in about 14 ms, and renders at 1000+ fps with a custom Rust terminal and Mermaid renderer. On top of that sits a memory system that embeds each turn into a semantic graph, consolidates memories periodically, and retrieves by cosine similarity, with an optional verification sideagent. Swarms run multiple agents in one repository with conflict notifications and agent-to-agent messaging. Self-dev mode lets the agent modify its own source, and OAuth logins cover Claude, Codex, Gemini, and Copilot alongside 30+ API providers and local vLLM endpoints.

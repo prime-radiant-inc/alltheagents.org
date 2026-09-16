@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Associated link: the Microsoft Research project page for AutoGen, an open-source programming framework for building multi-agent AI applications with an asynchronous, event-driven architecture enabling scalable, distributed agentic workflows; supports MCP servers via McpWorkbench"
+date_added: "2026-08-19"
 ---
 
 AutoGen is Microsoft Research's framework for constructing multi-agent applications, and its project page catalogs the architecture rather than shipping an agent itself. Version 0.4 rebuilt the library around asynchronous, event-driven message passing so agents cooperate through request/response and event patterns, with pluggable agents, tools, memory, and models, OpenTelemetry tracing, and build-time type checking. Distributed agent networks can span organizational boundaries, which is the feature that distinguishes it from single-process agent libraries. Researchers and engineering teams use it as the substrate for their own agent applications rather than as a ready coding harness.

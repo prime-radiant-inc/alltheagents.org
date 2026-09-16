@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Agentic AI framework that autonomously modifies, analyzes, and tests codebases. Uses a multi-agent system (PlannerAgent, CoderAgent, Tester) to collaboratively generate, refactor, and test code through an iterative process. Features an extensible architecture for custom agents and tasks."
+date_added: "2024-06-25"
 ---
 
 Autonoma is a Python framework in which a multi-agent system autonomously modifies, analyzes, and tests codebases through an event-driven loop. A PlannerAgent splits a query into tasks (up to 10 by default), CoderAgent generates or refactors code with AST manipulation and static analysis, and a Tester generates and runs unittest suites, feeding failures back for revision. Agents operate asynchronously with Pydantic-validated data structures, and the LLM interface is pluggable: any provider with a generate(prompt) method works, so backend choice is fully decoupled. Tasks can specify file paths and complexity estimates, and the architecture supports custom agents and task types. The project is an early-stage MIT-licensed Python package installed via pip, best viewed as a reference design for plan-code-test loops rather than a production harness.

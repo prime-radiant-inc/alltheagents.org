@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Self-hosted AI coding workspace that orchestrates multiple AI coding agents (not just one) from one interface via ACP adapters, each in its own Docker/host sandbox. Multi-agent 'agent fleet' orchestration: a lead agent on a strong model decomposes work and routes tasks to specialized worker agents/models/personas running in parallel git worktrees. Ships as Docker web app, macOS Tauri desktop, and native iOS."
+date_added: "2025-12-15"
 ---
 
 Running several coding agents usually means juggling terminal windows, scattered config, and no shared history. Agentrove bundles chat, editor, terminal, diffs, secrets, and git tooling into one self-hosted web workspace, with each agent (Antigravity, Claude Code, Codex, Copilot, Cursor, Grok, OpenCode) connected through ACP adapters and each workspace isolated in its own Docker or host sandbox. A bundled MCP server exposes the instance as orchestrator tools, enabling sub-threads where a lead chat spawns worker chats in isolated worktrees, fans reviewer personas over diffs, and delegates accepted fixes back. Workers can run unattended in full-execution mode while the lead polls and evaluates results. It ships as a Docker Compose stack with a Tauri macOS desktop app and an iOS thin client, under Apache 2.0.

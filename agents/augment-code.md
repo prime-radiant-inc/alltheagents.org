@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "AI agent orchestration platform (Cosmos) running an 'always-on software factory' from ticket to code, review, verification, and deployment. Features reusable 'Experts' (subagent templates), MCP Registry, hooks/triggers for GitHub/GitLab/Slack/Jira, plan-before-execute via an 'Advisor', shared memory across agents, and a Context Engine for deep codebase understanding."
+date_added: "2026-08-19"
 ---
 
 Augment Code markets itself as an always-on software factory: an agent orchestration platform (Cosmos) that takes work from ticket to code, review, verification, and deployment with humans at quality gates. Reusable Experts - forkable agent templates with their own environment, capabilities, and memory - encode organizational judgment, so a tuned Deep Code Reviewer or Security Vulnerability Triager improves every future run. The platform runs on laptops, dev VMs, Augment's cloud, or customer cloud, and an MCP Registry plus integrations (Slack, GitHub, Jira, CI) connect agents to the toolchain. Prism auto-routes work across Claude Sonnet 4.6, Opus 4, and Gemini 2.5 Pro, with the loop covering ticket-to-PR, vulnerability remediation, and incident response. A CLI and status page round out the commercial offering, aimed at teams running continuous agent-driven delivery.

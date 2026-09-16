@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Teams-first multi-agent orchestration for Claude Code with zero learning curve, offering multiple orchestration modes (Team, Autopilot, Ralph, Ultrawork, UltraQA, Pipeline), smart model routing for cost savings, and cross-provider orchestration via tmux CLI workers."
+date_added: "2026-01-09"
 ---
 
 oh-my-claudecode extends Claude Code with a teams-first orchestration layer: a staged pipeline (plan, PRD, execute, verify, fix) using Claude Code's native agent teams, with autopilot and persistent verify-fix loops for autonomous runs. As a plugin plus companion CLI it also spawns tmux worker panes running Codex, Gemini, Antigravity, Grok, or Cursor CLIs, letting one model review another's output. Smart model routing downgrades cheap tasks to smaller models for token savings, and a skill-learning system extracts reusable procedures into project files. Natural-language shortcuts and zero-config defaults target users who do not want to study Claude Code's internals. Installation is via the Claude Code plugin marketplace or npm, with tmux required for team features.

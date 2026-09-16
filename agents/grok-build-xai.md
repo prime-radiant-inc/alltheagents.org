@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "caramaschi"
 what_makes_it_special: "Single unified API for all modalities (text, code, voice, images, video); trained on Colossus (150K GPUs); <200ms median latency; OpenAI SDK compatibility for easy migration; available via Amazon Bedrock and GitHub Copilot."
+date_added: "2026-08-19"
 ---
 
 x.ai is the developer-facing home for xAI's Grok models, offering a single API across text, code, voice, image, and video modalities with OpenAI SDK compatibility for migration. The service runs on the Colossus training cluster and advertises sub-200ms median API latency, usage-based self-serve access, and enterprise plans with custom rate limits, SSO, and data residency. The coding agent product, Grok Build, is listed separately on the site and tracked as its own census entry; this page functions as the model gateway and documentation entry point behind it. Developers reach it through console.x.ai for API keys and docs.x.ai for integration guides.

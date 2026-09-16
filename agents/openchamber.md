@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI coding assistant powered by OpenCode"
+date_added: "2026-08-26"
 ---
 
 OpenChamber appears on Open VSX as an extension whose published description is a single line: 'AI coding assistant powered by OpenCode.' Registry metadata confirms the substance — publisher FedaykinDev, version 1.21.0 published August 26, 2026, MIT license, roughly 214,000 downloads, and a repository at github.com/openchamber/openchamber — but the listing exposes no README, docs site, or feature table beyond that description. Its distribution channel implies the audience: VSCodium and other editors that use the Open VSX registry instead of Microsoft's marketplace, where users want an OpenCode-based coding assistant installable in two clicks. Because no public documentation verifies its mechanics beyond the OpenCode engine it embeds, evaluation currently means installing the extension or reading its repository directly.

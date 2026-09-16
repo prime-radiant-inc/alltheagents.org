@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "Reference implementation for multi-agent collaboration on Amazon Bedrock using a Supervisor Agent as central orchestrator routing queries to specialized sub-agents (Order Management, Product Recommendation, Troubleshooting, Personalization), each with its own knowledge base and action groups (text-2-SQL via Athena, vector search on S3)."
+date_added: "2025-03-23"
 ---
 
 This repository is an AWS Solutions Library guidance deployment demonstrating Amazon Bedrock's multi-agent collaboration feature in a customer-support scenario. A supervisor agent coordinates five specialized sub-agents — order management via text-to-SQL over Athena, product recommendation, troubleshooting through a knowledge base, and personalization — behind a React web app served from S3/CloudFront with Cognito authentication and a WebSocket API on API Gateway. The CDK project provisions the full stack and documents the cost profile, roughly $606–761 per month at 100,000 requests driven mostly by Bedrock Knowledge Bases. Its purpose is architectural demonstration for teams building Bedrock-based agent systems in retail support contexts, not software development, and it remains available as a maintained sample.

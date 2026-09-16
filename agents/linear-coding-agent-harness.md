@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Minimal harness demonstrating long-running autonomous coding with the Claude Agent SDK; two-agent pattern (initializer + coding agent) with Linear as the core project management system for tracking all work. Uses Linear MCP (HTTP) and Puppeteer MCP (stdio)."
+date_added: "2025-12-07"
 ---
 
 The harness demonstrates a specific architectural idea: put the agent's entire task state in Linear rather than local files, so any session — or a new machine — can resume work by querying the tracker. An initializer agent reads an app spec, creates the Linear project, issues, and a META issue; coding agents then pull Todo issues, implement with Claude, test through Puppeteer MCP, comment results, and close issues. Session handoff happens through Linear comments, making runs resumable and inspectable from anywhere Linear is. Colem00 published it as a minimal MIT-licensed reference (2 commits) that others fork to build Linear-integrated autonomous loops.

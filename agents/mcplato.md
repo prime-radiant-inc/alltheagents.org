@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Could not verify details from the website (returned empty content)."
+date_added: "2026-08-19"
 ---
 
 MCPlato's website was unreachable for content analysis on repeated attempts, returning empty page bodies that indicate a fully client-rendered site or a placeholder. The name suggests an MCP-related product, but nothing verifiable establishes what it does, who maintains it, or whether it involves an agentic coding loop. The census entry records an unverifiable web product; no functional claims or maintenance status can be stated from available evidence.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Lightweight semantic code indexing engine for AI coding assistants lacking native semantic search; real-time file watching, git commit tracking with LLM analysis, dual storage (SQLite-vec / Qdrant), tree-sitter parsing for 29+ languages, per-vector-store embedder configuration, and Claude Code integration via SessionStart hook."
+date_added: "2025-10-17"
 ---
 
 Codebase-index-cli exists because most coding assistants locate code through text matching, which fails on semantic queries like 'where is rate limiting enforced.' It watches a workspace continuously, parses files with tree-sitter across 29+ languages, and maintains vector indexes in either SQLite-vec for local single-user use or Qdrant for larger deployments, with embedders configurable per store (OpenAI, OpenAI-compatible endpoints such as LM Studio or Together, or Ollama). An experimental layer analyzes git commit history with an LLM, indexing the semantic meaning of changes including retroactive indexing of historical commits. Integration targets Claude Code specifically through a SessionStart hook that launches indexing at session start, and the author ships a companion MCP server so MCP-capable IDEs can query the indexes. The project is small and self-described as experimental, derived from Roo Code's indexer.

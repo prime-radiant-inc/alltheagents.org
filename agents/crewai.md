@@ -34,6 +34,7 @@ sources:
   - "jim"
   - "brandonhimpfen"
 what_makes_it_special: "Combines two complementary paradigms -- autonomous role-based Crews and event-driven deterministic Flows -- letting developers balance agent autonomy with precise control in Python-native code, bridging prototype-to-production."
+date_added: "2023-10-27"
 ---
 
 CrewAI emerged to give Python developers a native way to compose teams of LLM agents without stitching together orchestration glue by hand. Its two primitives cover opposite needs: Crews let role-defined agents with goals and tools collaborate autonomously, while Flows encode event-driven workflows where each step is explicit and testable. Agents declare tools, can interoperate through MCP and A2A, and the optional CrewAI AMP control plane adds enterprise deployment on top of the MIT-licensed core. With roughly 58,000 stars and a 100k+ certified-developer program, it is used both by teams building production automation and by the large ecosystem of tutorials and courses built around it.

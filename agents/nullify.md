@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI AppSec engineer for finding/fixing vulns"
+date_added: "2026-08-19"
 ---
 
 Nullify replaces the traditional AppSec toolchain — SAST, SCA, DAST, secret scanning, ASPM — with autonomous agents that carry findings through the full vulnerability lifecycle. Detection reasons over application intent, roles, and data ownership to surface access-control flaws that signature scanners miss, and validation proceeds by stepping through live attacks with reproducible evidence. A knowledge graph called Vault grounds impact scoring in the customer's actual code, cloud configuration, and tickets, suppressing most low-severity noise. Remediation is delivered as merge-ready pull requests, with the agent reading build logs and pushing follow-up commits until CI is green. Campaigns route findings to code owners and escalate SLA risk in Slack, with humans approving merges; pricing is based on work done rather than seats.

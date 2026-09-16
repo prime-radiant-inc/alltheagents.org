@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Automated Claude Code task management with queue processing and auto-resume"
+date_added: "2025-08-21"
 ---
 
 Claude Autopilot addresses the operational problem of running long batches of Claude Code tasks unattended: queued work stalls when usage limits reset, the machine sleeps, or the CLI process dies. The extension launches each queued prompt as a sequential Claude Code run, monitors process health, retries failures, detects rate-limit messages, and resumes automatically when the limit window resets, while keeping the machine awake. A local web server with password and QR-code login provides mobile monitoring. Developers use it for overnight batches such as refactoring, migrations, and documentation generation; it requires an existing Claude Code installation and subscription.

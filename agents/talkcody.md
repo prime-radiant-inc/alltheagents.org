@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Free, open-source AI coding agent with four-level parallelism (project, task, agent, tool), 100% local storage, offline capable, no vendor lock-in, with an agents & skills marketplace"
+date_added: "2025-11-07"
 ---
 
 TalkCody is an open-source desktop coding agent aimed at users who want agent capability without sending code to a hosted service or adopting a single vendor. Built on Rust/Tauri with a React frontend, it runs tasks with parallelism at four levels — multiple projects, multiple tasks per project, multiple agents per task, and concurrent tool calls — and keeps all sessions, indexes, and settings on local disk, which also enables offline use with Ollama or LM Studio. Agent behavior is extensible through an agents-and-skills marketplace where community agents and workflows are downloaded and shared, and MCP servers extend the tool surface. Model access is deliberately flexible: OpenAI, Anthropic, Google, GitHub Copilot, or existing ChatGPT subscriptions, plus local models for fully offline operation. The installers cover macOS (both architectures), Windows, and Linux, and the project documents itself through talkcody.com/docs. Privacy-conscious individual developers and small teams are the primary users.

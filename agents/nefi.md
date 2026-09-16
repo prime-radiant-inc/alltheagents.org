@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "AI agent that automates code management and feature integration in Next.js codebases (primarily the next-enterprise boilerplate) through natural language commands, handling tasks like git operations, package management, and file modifications. Eliminates manual boilerplate configuration (e.g., 'remove storybook from my project')."
+date_added: "2024-12-17"
 ---
 
 nefi grew out of Blazity's maintenance of its next-enterprise Next.js boilerplate, where routine customization tasks consumed disproportionate time. It exposes natural-language commands that the agent translates into git operations, package management, and file edits against the project. The tool runs from the command line in the target repository and is built on the Vercel AI SDK with Claude models. Its scope is deliberately narrow: Next.js 14/15 codebases, primarily the next-enterprise template, rather than general-purpose coding. The repository has had no releases and modest activity, positioning it as an early-stage companion to the boilerplate.

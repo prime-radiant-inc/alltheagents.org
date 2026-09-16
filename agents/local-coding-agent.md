@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Local-first MCP server with a live dashboard showing health metrics. Compact & Resume feature for context handoff across ChatGPT sessions. Named multi-root permission profiles with per-path rights. Optional Chrome Companion and Windows tray app with DPAPI-encrypted key storage. Works with any MCP client."
+date_added: "2026-06-28"
 ---
 
 The project addresses the trust gap that opens when cloud agents are allowed to operate on a real workstation. Every capability - file reads and patches, command execution, git inspection, bounded browser preview - is exposed as an MCP tool bounded by permission profiles, with a balanced policy that routes risky actions through a local approval request. A dashboard at localhost shows health scores, latency, tool calls, and git diffs in real time, and compact/resume prompts let ChatGPT sessions hand context across conversation boundaries. An Electron tray app supervises the server with secrets held in Windows DPAPI or macOS Keychain. Developers who want Claude Code, Codex, Cursor, or ChatGPT to work on their machine under explicit, revocable permissions are the target users.

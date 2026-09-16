@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "Multi-agent mission control plugin for OpenCode that coordinates AI-agent workflows (Commander, Planner, Worker, Reviewer roles) with autonomous verification and local-first memory. Install hook auto-registers in opencode.json."
+date_added: "2026-01-13"
 ---
 
 OpenCode handles interactive sessions well, but long objectives — multi-file refactors, feature builds — lose structure and verification discipline as context grows. This plugin overlays a mission loop: /task starts a persisted mission under .opencode/, where a Commander orchestrates, a Planner decomposes the objective into ordered file-level tasks, Workers implement with isolated context and TDD, and a Reviewer gates completion on verified test evidence and builds. Memory is local-first and deliberately low-tech — BM25 retrieval, tags, and a graph with Ebbinghaus-style decay replace any external vector database — and a Rust companion CLI provides an optional TCP shell listener for control. Per-role concurrency and per-agent model overrides are configured in opencode.json. Install is one npm command with an auto-registering plugin hook; missions persist across restarts. Solo OpenCode users running autonomous multi-step work with review gates are the audience.

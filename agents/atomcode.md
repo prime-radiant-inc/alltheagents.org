@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Open-source terminal AI coding agent written in Rust; 100% AI-generated codebase (human acts only as product manager). Includes MCP support, plugin marketplace, hooks, plan/build modes, Web UI, mobile remote access via QR code, code-graph tools, and multi-provider support - all terminal-native."
+date_added: "2026-04-18"
 ---
 
 atomcode is a terminal AI coding agent written in Rust, positioned as an open-source alternative to Claude Code and notable for being developed with 100% AI-generated code under human product management. It connects to any OpenAI-compatible API (Claude, OpenAI, DeepSeek, GLM, Qwen, SiliconFlow, Ollama), reads the codebase, edits files, runs commands, and verifies work autonomously with loop detection and step budgets. Plan mode separates read-only exploration from full execution, plus /goal autonomous looping, background sessions, an /undo file-history mechanism, a Web UI, and mobile access via QR code. MCP support, a plugin marketplace, hooks, and a skills system extend the agent, with project instructions via .atomcode.md or AGENTS.md. It is MIT-licensed, actively developed (v5.x), installable via npm, Homebrew, or install scripts, and targets developers wanting a self-hostable agent with any OpenAI-compatible provider.

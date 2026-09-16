@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "Web-based AI trading toolkit including an AI coding agent that generates trading code (Pine Script, MQL5, cTrader C#, NinjaScript, thinkScript) plus a finance research agent, AI stock picker, custom screener, market insights dashboard, chart analysis, trading journal, and no-code visual editor. Hosted MCP server connects ChatGPT, Claude, Codex, Cursor, Gemini to Pineify's financial tools (Expert plan only). One-time payment lifetime model (rare for SaaS)."
+date_added: "2026-08-19"
 ---
 
 Pineify exists because trading-platform scripting is a niche where general LLMs stumble: Pine Script, MQL5, NinjaScript, and thinkScript have version-specific syntax and platform quirks that generic models mishandle. The platform's AI coding agent turns natural-language prompts or chart screenshots into indicators, strategies, expert advisors, and bots for TradingView, MetaTrader, cTrader, NinjaTrader, and thinkorswim, with automatic syntax-error detection, a documentation knowledge base, and conversation memory, alongside a no-code visual editor. Surrounding tools cover a finance research agent (Perplexity-backed web search), stock and options pickers, chart analysis, a trading journal, and backtest reporting. A hosted MCP server (Expert plan) exposes read-only financial-data and code-validation tools to ChatGPT, Claude, Codex, and Cursor. One-time lifetime pricing ($99–$259) is transitioning to subscriptions, and the audience is retail traders rather than professional developers.

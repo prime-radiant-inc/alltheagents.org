@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "bing_ddg_chinese"
 what_makes_it_special: "AI coding agent for VS Code with BUILD (codegen, project setup, deployment), ASK (chat, code explanation, web search), and TEST (automated test generation/execution/debugging) capabilities; MCP-powered agents integrate 100+ tools across the SDLC; supports 25+ frameworks."
+date_added: "2026-08-19"
 ---
 
 GoCodeo packs three workflows into a VS Code extension: BUILD generates and structures projects across 25+ frameworks with one-click Supabase integration and Vercel deployment; ASK handles chat, explanation, and web-backed questions; and TEST generates and runs test suites in the IDE with AI-driven failure diagnosis. Its agents connect to 100+ tools through MCP, covering repo initialization, commits, and pull requests without leaving the editor. Model choice spans Claude Sonnet, Gemini 2.5 Pro, DeepSeek-R1, GPT-4o, and o3-mini, with users including engineers at Amazon, Cisco, and Salesforce. Development is active, distribution is via the VS Code Marketplace, and the product sits in the crowded IDE-agent field by leading with automated testing rather than chat.

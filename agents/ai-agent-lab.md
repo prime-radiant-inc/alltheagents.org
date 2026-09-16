@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "NOTE: Not a coding agent harness. Generic AI agent development toolkit with pre-built examples and modular components. Only 2 commits, no distinctive features."
+date_added: "2024-12-28"
 ---
 
 The README announces a Python toolkit for building, testing, and deploying AI agents with modular components and examples, but the repository itself contains only that README and a license file. There is no requirements.txt, no examples directory, and no code, despite README instructions that reference them. With two commits, one star, and no issues or releases, the project has not progressed past its initial scaffold. It is included in the census as an example of a declared-but-unimplemented agent project rather than a usable tool.

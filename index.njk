@@ -9,13 +9,8 @@ eleventyComputed:
   <p class="hero-links"><a href="https://github.com/prime-radiant-inc/alltheagents.org" target="_blank" rel="noopener">Help us catalog every agent →</a></p>
 </section>
 
-<section class="search-section">
-  <input type="text" id="search" placeholder="Search all {{ collections['all-entries'] | size | numFmt }} entries — try 'rust terminal agent' or 'aider'…" class="search-input" autocomplete="off">
-  <div id="search-results" class="search-results"></div>
-</section>
-
 <section class="stats">
-  <a class="stat-card cat-agent" href="{{ '/all/' | url }}">
+  <a class="stat-card cat-agent" href="{{ '/agents/' | url }}">
     <div class="stat-icon">🤖</div>
     <h3>{{ collections.agent | size | numFmt }}</h3>
     <p>Agents</p>
@@ -30,48 +25,4 @@ eleventyComputed:
     <h3>{{ collections["agent-sdk"] | size | numFmt }}</h3>
     <p>Agent SDKs</p>
   </a>
-  <a class="stat-card cat-total" href="{{ '/all/' | url }}">
-    <div class="stat-icon">📦</div>
-    <h3>{{ collections["all-entries"] | size | numFmt }}</h3>
-    <p>Total entries</p>
-  </a>
 </section>
-
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
-<script>
-fetch('{{ '/agents.json' | url }}')
-  .then(r => r.json())
-  .then(data => {
-    const fuse = new Fuse(data, {
-      keys: ['name', 'maker', 'description', 'license', 'language'],
-      threshold: 0.3,
-      includeScore: true,
-    });
-
-    const input = document.getElementById('search');
-    const results = document.getElementById('search-results');
-
-    const shownCats = ['agent', 'multiplexer', 'agent-sdk'];
-    const catBadge = c => shownCats.includes(c) ? `<span class="badge badge-cat badge-cat-${c}" style="margin-left:0.5rem">${c}</span>` : '';
-
-    input.addEventListener('input', (e) => {
-      const query = e.target.value.trim();
-      if (!query) {
-        results.innerHTML = '';
-        return;
-      }
-
-      const matches = fuse.search(query).slice(0, 12);
-      results.innerHTML = matches.map(m => `
-        <a class="search-result" style="display:block;color:inherit" href="{{ '/agents/' | url }}${m.item.slug}/">
-          <div>
-            <strong>${m.item.name}</strong>
-            ${catBadge(m.item.category)}
-            <span class="result-meta">${m.item.maker || ''} ${m.item.stars ? '· ★ ' + (m.item.stars >= 1000 ? (m.item.stars/1000).toFixed(1)+'k' : m.item.stars) : ''}</span>
-          </div>
-          <p class="result-desc">${(m.item.description || '').slice(0, 160)}</p>
-        </a>
-      `).join('');
-    });
-  });
-</script>

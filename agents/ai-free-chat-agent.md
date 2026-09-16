@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "DeepSeek, Qwen, ChatGPT chats and coding agents in PyCharm"
+date_added: "2026-08-21"
 ---
 
 The project exists because commercial API access is the main cost barrier for AI-assisted coding; it converts free web chat sessions into a programmatic backend by automating a Chromium session per provider. On top of that transport it runs a /code agent bound to a project folder: it reloads hierarchical AGENTS.md instructions before each task, executes commands through risk-tiered whitelists (rm -rf blocked, curl and bash denied by default), and keeps memory in SQLite FTS5 plus a Markdown vault linking tasks to files and fixes. The JetBrains plugin is the IDE-facing entry point, while the local API also lets tools like Kilo Code or Continue consume the same sessions. It is solo-maintained, releases frequently (v0.4.25), and is free under a personal-use-only custom license.

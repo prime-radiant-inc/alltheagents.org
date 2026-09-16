@@ -35,6 +35,7 @@ sources:
   - "e2b"
   - "jim"
 what_makes_it_special: "A data-centric, self-evolving autonomous language agent framework (Agents 2.0) that applies the connectionist learning procedure to agent training. Makes an analogy where the agent pipeline is a computational graph, nodes are layers, and prompts/tools are weights — implementing back-propagation and gradient-based weight update using 'language loss', 'language gradients', and 'language weights'. Can optimize multi-agent systems by treating nodes as different agents."
+date_added: "2023-07-18"
 ---
 
 Agent pipelines are usually hand-tuned, and the AIWaves team asked whether the training machinery of neural networks could be transplanted to prompts and tools. In Agents 2.0 the pipeline is treated as a computational graph: execution records trajectories per node, a prompt-based language loss scores outcomes, and backward propagation yields textual 'language gradients' used to rewrite each node's prompts and tools — and to add or remove nodes. Because nodes can themselves be agents, multi-agent systems are optimized as a unit. The framework is a Python library installed from source, accompanied by the arXiv paper 2406.18532. Activity has concentrated around the June 2024 Agents 2.0 release, with the codebase largely stable since.

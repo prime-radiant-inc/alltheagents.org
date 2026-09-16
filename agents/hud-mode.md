@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "A compact heads-up display that collapses a coding agent session into a live instrument deck — status flag, model, messages, elapsed time, tokens, cost, context size, subagents — plus an activity line showing READ/EDIT/EXEC, driving each CLI headless through its JSON event stream with zero dependencies and no forks or patches."
+date_added: "2026-08-05"
 ---
 
 HUD is a terminal front-end for coding agents built by adrida at tracer: rather than a scrolling wall of tool-call output, it renders the session as gauges — status, model, message count, elapsed time, tokens, cost, context size, subagents — with an activity line showing what the agent is currently doing. The prompt bar is always writable so you can queue a message mid-turn that fires when the agent finishes, escape interrupts without killing the session, and the completed answer renders as markdown with clickable OSC 8 hyperlinks. It drives Claude Code, Codex, and OpenCode headless via their JSON event streams, and a lossless /hud toggle switches back to each engine's full native TUI mid-session through its own resume mechanism. It targets developers who run agent sessions constantly and want telemetry over transcript noise.

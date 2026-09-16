@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Was described as an AI Agent Automation Platform for rapidly prototyping, testing, and deploying Multi-Agent Systems from the browser. GitHub repo (bonk1t/agentic-platform) is deleted -- account moved to github.com/nicko-ai."
+date_added: "2026-08-19"
 ---
 
 The project targeted the gap between prototype and deployment for multi-agent systems by letting developers build, test, and ship agent systems from a browser rather than local scaffolding. Its repository has since been deleted, so neither the code nor the documentation can be inspected anymore, and the account reportedly moved elsewhere. Any assessment of its current mechanics would be speculative; the entry survives as a record of a defunct platform. Teams looking for comparable capability would need to evaluate maintained alternatives.

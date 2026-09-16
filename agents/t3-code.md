@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "Agent harness control surface enabling control of AI coding agents via mobile, web, or desktop app. Unified, performant, remote-ready control surface to manage multiple existing AI coding agent subscriptions across mobile, web, and desktop, while remaining completely open-source and forkable. iOS/Android apps and web app at app.t3.codes."
+date_added: "2026-02-08"
 ---
 
 T3 Code came out of Theo Browne's ping.gg to solve a specific operational problem: people now pay for several AI coding agents and have no unified way to see, steer, and review what those agents are doing across machines. The product is a control surface, not an agent — it attaches to Claude Code, Codex, Cursor, Grok, and OpenCode using the user's own authenticated subscriptions rather than proxying tokens, and surfaces per-thread branches, diffs, and one-click commit/push/PR flows in a unified workspace. Native apps cover macOS, Windows, and Linux, with iOS, Android, and web clients for remote monitoring and intervention from a phone. The whole system is MIT-licensed and forkable, with GitHub Releases distributing desktop builds and app stores handling mobile. Its users are developers running multiple agent subscriptions who want one cross-device cockpit over them.

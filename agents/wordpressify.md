@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Docker-powered WordPress development boilerplate/workflow automation: no manual LAMP setup, cross-platform (macOS/Windows/Linux), modern build tooling (Gulp, ES6, Sass, PostCSS), with Nginx and Xdebug. Not a coding agent harness - it's a dev-workflow tool that happens to be in this batch."
+date_added: "2017-06-05"
 ---
 
 wordpressify exists to remove the manual LAMP-stack setup from WordPress theme development: one command starts a Dockerized environment with Nginx, PHP, and MariaDB, plus Gulp-based build tooling for ES6, Sass, and PostCSS, with Xdebug configured. It is cross-platform across macOS, Windows, and Linux and automates the watch-build-refresh workflow for theme development. It contains no AI or agent components; it is a conventional dev-workflow tool included in the census only as a workflow-automation boundary case. Front-end developers building WordPress themes are its audience.

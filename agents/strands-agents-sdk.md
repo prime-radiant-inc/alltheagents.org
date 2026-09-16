@@ -33,6 +33,7 @@ sources:
   - "jim"
   - "caramaschi"
 what_makes_it_special: "Model-driven SDK taking a minimal-code approach to building agents. Model-agnostic (any model, any cloud; swap backends without code changes). Agent loop traces every decision; hooks intercept any step to log/validate/redirect; guardrails catch mistakes before execution with self-correction via steering handlers. Built-in MCP, streaming, multi-agent patterns, and structured output. Dual Python and TypeScript SDKs."
+date_added: "2025-05-14"
 ---
 
 Strands takes a model-driven position: instead of orchestrating explicit workflows, the developer writes a few lines, the model chooses tools, and the SDK runs the loop with production controls around it — turn limits, token budgets, cancellation, stop-reason handling, structured output, streaming, session memory, and guardrails that catch mistakes before execution. Hooks intercept any step for logging, validation, or redirection, and steering handlers let an agent self-correct rather than fail; multi-agent patterns are first-class alongside a dedicated strands-mcp server package. First-class providers are Amazon Bedrock (default), Anthropic, OpenAI, and Gemini, with the SDK running entirely in-process and no hosted control plane. The Python and TypeScript SDKs share a monorepo with a docs site at strandsagents.com, and the project evolved from an internal AWS tool into a broadly used open-source framework.

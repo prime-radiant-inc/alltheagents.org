@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "caramaschi"
 what_makes_it_special: "OpenAI video generation model with narrative coherence and physics realism. Web/app experience discontinued Apr 26, 2026; API discontinuing Sept 24, 2026."
+date_added: "2026-08-19"
 ---
 
 Sora 2 was OpenAI's video generation model and companion app; it appears in this census only as a miscategorized sweep result. OpenAI announced its discontinuation: app experiences ended in April 2026, the API follows on September 24, 2026, and usage data will be deleted after a final export window at sora.chatgpt.com/sunset. Remaining purchased credits can still be applied to Codex, OpenAI's coding agent. There is no tool loop, repository integration, or code-modification capability to evaluate, so the entry functions only as a record that the name surfaced in agent-harness sweeps.

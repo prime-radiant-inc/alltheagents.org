@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Formerly DeepV Code; highly customizable AI coding assistant that understands entire project context, acts as an autonomous agent with Shell/File/Web tools, persistent session management, and serves as an ACP orchestrator that can delegate tasks to local Claude Code or Codex installations"
+date_added: "2025-09-24"
 ---
 
 EasyCode (OrionStar, formerly DeepV Code) is a Claude Code-style terminal agent built in the open: it plans before editing via /plan, executes through built-in shell, filesystem, and web tools, and keeps sessions that can be saved, restored, and compressed. MCP servers provide project context and third-party tool access, a hooks mechanism injects custom logic at workflow nodes, and a self-hostable server variant lets teams run the backend themselves. Any OpenAI-compatible or Anthropic-format model works, including local Ollama or LM Studio endpoints, with costs paid directly to providers. It targets developers — particularly in the Chinese ecosystem — who want a customizable, self-hostable alternative to Claude Code or Codex.

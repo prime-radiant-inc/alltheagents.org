@@ -32,6 +32,7 @@ maintained: "dead"
 sources:
   - "github_topic"
 what_makes_it_special: "Autonomous multi-agent AI engineer in VS Code; self-healing execution loop; provider failover with cooldowns; hybrid memory/search (vector + FTS4 + MMR); enterprise-grade security (credential proxy, permission profiles, access control, doctor diagnostics); Tree-sitter AST parsing for 7 languages; OpenTelemetry observability; 20+ built-in tools; 7 specialized subagents; 16 bundled skills; 17 pre-configured connectors."
+date_added: "2024-03-28"
 ---
 
 Codebuddy embeds an autonomous software engineer into VS Code, built on the LangGraph DeepAgents framework: a Developer Agent coordinates seven specialized subagents (analyzer, architect, debugger, reviewer, tester, doc writer, file organizer) while planning, editing, running terminal commands, and self-correcting until tasks complete. It supports ten model providers with automatic failover and cooldowns, MCP integration through Docker's MCP Gateway or direct SSE/stdio servers, and hybrid memory combining vector search with SQLite FTS4 and MMR reranking. Enterprise-oriented controls include a credential proxy, permission profiles, doctor diagnostics, OpenTelemetry tracing, and cost tracking across 25+ models, alongside 20+ built-in tools, 16 bundled skills, and 17 service connectors. The public repository was archived on August 28, 2026 and development continues in a private repository.

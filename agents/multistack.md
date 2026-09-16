@@ -33,6 +33,7 @@ pricing: "free"
 stars: "19"
 sources:
   - "github-issue"
+date_added: "2026-06-05"
 last_verified: "2026-09-16"
 what_makes_it_special: "A lightweight Rust TUI for running multiple zerostack agents side by side in the terminal, with live status glyphs, per-agent timers, and desktop notifications when an agent waits for input."
 ---

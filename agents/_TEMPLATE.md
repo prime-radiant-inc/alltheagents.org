@@ -72,6 +72,7 @@ github_stars: null            # latest snapshot (existing files use `stars`; ren
 # --- provenance ---
 sources: []                   # which discovery channel(s) surfaced this entry
 last_verified: null           # YYYY-MM-DD a human or agent last confirmed the facts above
+date_added: null              # YYYY-MM-DD the entry joined the catalog (helper writes today for adds)
 
 what_makes_it_special: null   # 1-2 sentences, frontmatter only — never repeated in the body
 ---

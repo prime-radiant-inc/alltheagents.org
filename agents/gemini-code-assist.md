@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "1M token context window, enterprise security and IP indemnification, code customization using private codebases, deep integration with Google Cloud services (Firebase, BigQuery, Apigee, Application Integration). Agent mode supports MCP integration. CLI is fully open source (Apache-2.0)."
+date_added: "2026-08-19"
 ---
 
 Gemini Code Assist is Google's business-facing coding assistant, spanning VS Code, JetBrains, Cloud Workstations, Cloud Shell, and the terminal through the Gemini CLI. Its agent mode moves past chat into multi-file edits with full project context, built-in tools, MCP ecosystem integration, and human-in-the-loop approval, grounded in Gemini 3 with a 1M-token context window and private-codebase customization. Pricing runs $19-22.80 per user per month on Standard and $45-54 on Enterprise, with a 30-day trial and a free CLI tier of 60 requests per minute and 1,000 per day. The individual free tier was folded into Antigravity in June 2026, leaving the paid product focused on enterprises that need Google Cloud integration and indemnification.

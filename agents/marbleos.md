@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "A workspace that surfaces an agent's files, tools, tasks, and outputs as visible, reviewable artifacts rather than chat threads — you tell it what you need, and it does the searching, browsing, and assembly, then hands you an editable artifact like a lead sheet, brief, deck, or workbook."
+date_added: "2026-08-28"
 ---
 
 MarbleOS is an AI workspace whose pitch is AI for the rest of us: instead of a conversation buried in chat threads, work appears as files, tools, tasks, and outputs you can inspect. You give it a task — finding leads on LinkedIn, preparing a client meeting brief, personalizing a pitch deck, reviewing candidates against a role, turning messy notes into a task list — and it handles the googling, browsing, and assembly, then hands you something to review and edit. Its demos skew toward business and research work rather than code, but its architecture is that of a workspace GUI managing an agent's activity rather than a single chat loop. It is available as a macOS download and as an in-browser demo with no install, launched via a Hacker News post that reached #4.

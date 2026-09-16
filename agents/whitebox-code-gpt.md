@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Open-source repository of instructions and knowledge files for creating programming-specific Custom GPT assistants on ChatGPT's GPT Builder; community-driven custodial model where domain experts maintain specialized GPT assistants; open-source knowledge files that counteract LLM blind spots through structured, domain-specific context."
+date_added: "2023-11-12"
 ---
 
 Whitebox-Code-GPT addresses the quality gap of generic chat assistants for programming by maintaining versioned, expert-owned instruction and knowledge files for ChatGPT Custom GPTs — Python GPT, Flutter GPT, Git Assistant, Regex Assistant, Firebase GPT, Node.js GPT, C++ GPT, and a DeltaV controls-engineering assistant. Its governance model is a custodial one: domain experts volunteer to maintain each assistant, training is disabled by policy, and an 'inventory assistant' GPT recommends the right assistant for a task. The knowledge files are MIT-licensed and can be copied into other LLMs by users without ChatGPT Plus, and the project publishes enterprise-safety guidance because training on knowledge files cannot be disabled. It is a documentation and prompt-library project rather than an agent. Volunteer custodians maintain it, with some assistants currently up for adoption.

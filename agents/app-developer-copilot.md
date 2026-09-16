@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "App developer agent for creating web and mobile apps"
+date_added: "2024-12-04"
 ---
 
 The extension targets developers who want app scaffolding without leaving VS Code: a /create command triggers prompt analysis, feature listing, design reference ingestion (images or Figma links), architecture generation, TypeScript code generation, and dependency installation, followed by /run to execute the result. It ships as two Copilot Chat participants — mobile (React Native + Expo) and web (React + Next.js, optional Supabase) — and works through GitHub Copilot's model picker (Claude 3.5, GPT-4o, Gemini 2.5 Pro recommended) or BYOK credentials. Independent publisher Sinduja Ramaraj maintains it open source (~9,300 installs, v2.0.9), with the honest caveat that generated apps may need manual TypeScript and dependency fixes.

@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "YC-backed platform that mirrors a local dev environment (env vars, MCP servers, CLIs) into cloud sandboxes and runs hundreds of coding agents concurrently, verifying every change with a recorded video walkthrough of the UI before and after — mergeable from a phone."
+date_added: "2026-08-19"
 ---
 
 Hoplite is a hosted platform for running coding agents at scale in the cloud. It replicates a local setup — environment variables, MCP servers, CLIs, dotfiles — into isolated cloud sandboxes so agents behave as they would on the developer's machine, then lets a team fan out an entire backlog across hundreds of concurrent agent runs. Every task produces a video walkthrough of the affected UI before and after the change, giving reviewers — including non-engineers — a concrete verification artifact, while approval gates can require human sign-off on file edits, shell commands, or PR actions. Integrations with GitHub, Linear, Slack, and Sentry turn issues and alerts into agent threads, and merges can be approved from a phone. Pricing is per-seat SaaS ($99 Pro, $299 Scale) with pooled sandboxes, and the company is SOC 2 certified in progress.

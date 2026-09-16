@@ -31,6 +31,7 @@ maintained: "dead"
 sources:
   - "github_topic3"
 what_makes_it_special: "Curated, automatically-updated list of 2024 software engineering new graduate positions (not an AI tool). Uses a custom job monitor vetting companies for growth and innovation; updates daily; serves as a funnel to the free Carbos job platform."
+date_added: "2023-06-06"
 ---
 
 The repository tracks entry-level software engineering positions for the 2024 new-grad cycle at companies like Netflix, Stripe, Scale AI, Lyft, and SpaceX, listing application links, open/closed status, and notable investors. A Python script (updaters.py) running on GitHub Actions refreshes the board daily by monitoring company career pages rather than relying on manual edits. Carbos, a free job-board platform, owns the project and describes the repo as roughly ten percent of its job data, so the list doubles as marketing for the platform. Computer science students hunting new-grad roles were its audience, and the repository was archived in October 2023.

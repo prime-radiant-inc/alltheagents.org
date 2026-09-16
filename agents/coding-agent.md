@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Headless coding agent built on the Embabel agent platform; aims to accelerate development with AI without using any commercial coding agents; explains code, creates projects, multi-file changes, writes docs, combines project code access with internet access for API research."
+date_added: "2025-05-15"
 ---
 
 The Embabel team wanted a coding agent for JVM codebases without adopting a commercial product, and built one on their own agent platform as both a tool and a demonstration of the platform. The headless agent discovers Maven projects under peer directories of its startup directory and handles code explanation, new project creation, multi-file edits, documentation writing, and combinations of local code access with internet research such as API investigation. Shell commands provide focus management - pointing the agent at a named project - and a chat mode exists without conversational memory yet. The project is early stage with a roadmap covering non-Maven builds, token reduction, and automated PR review. JVM developers who want an agent in their native ecosystem, and Embabel platform users, are the audience.

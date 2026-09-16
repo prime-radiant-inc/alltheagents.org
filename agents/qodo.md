@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "caramaschi"
 what_makes_it_special: "AI code review and governance platform with highest F1-score on AI code review benchmark; Context Engine pulls across rules, codebase, PR history; Cross-Repo Review across dependent repos and Git providers; Living Rules System auto-mines enforceable rules from PR history; SOC 2 Type II, zero data retention."
+date_added: "2026-08-19"
 ---
 
 Qodo targets the quality side of AI-assisted development: as coding agents produce more code, someone still has to verify it, and Qodo builds that verification layer. Its Git product runs multi-agent review on pull requests across GitHub, GitLab, Bitbucket, Azure DevOps, and Gerrit, with specialized agents checking bugs, rule violations, ticket compliance, and duplicated logic. A Context Engine indexes the codebase, PR history, rules, and business requirements so review reasons from the full system rather than the diff alone, enabling cross-repo and cross-provider review of interdependent services. A self-learning Rules Miner converts reviewer comments into enforceable standards, and a governance portal tracks risk and audit trails across the organization. The same context engine and rules power IDE plugins, Git review, and CLI surfaces, and the platform also governs third-party AI coding agents by enforcing skill review standards. Enterprise customers adopt it for SOC 2-aligned, zero-retention review with BYOK and on-premises deployment options.

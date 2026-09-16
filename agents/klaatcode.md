@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Terminal-native AI coding agent with per-request smart model routing across 6 cost tiers; real code knowledge graph (call graph, semantic search, blast-radius); no Continue button (free unlimited tool rounds); visible cost caps and burn-rate monitoring; compaction with self-check; reproducible benchmarks."
+date_added: "2026-07-17"
 ---
 
 klaatcode targets the cost problem of terminal coding agents: most tokens are spent re-reading files the agent has already seen. Indexing the project into a call graph with semantic search lets the agent query callers, callees, and blast radius directly, and routing each request through Klaatu-o1 escalates or de-escalates the model tier per task. Tool calls within a request are free; only user messages consume quota, and cost guards with burn-rate monitoring bound runaway sessions. Subagents, lifecycle hooks, plan mode, and MCP presets cover the standard harness surface, and the claimed $0.027-per-solved-task benchmark ships as a reproducible bun run bench script for verification.

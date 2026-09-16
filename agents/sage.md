@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Vendor-neutral orchestration layer (8+ runtimes, swap backends with one flag, vendor kill-switch fallback). Zero-dependency single bash script (no venv/node/npm). Unix-native (JSON out, stdin in, pipes like git/kubectl/jq). Bench-as-code for comparing agents. Works on local models with zero cloud. 53 commands, 928 tests."
+date_added: "2026-03-13"
 ---
 
 Teams running several agent CLIs accumulate incompatible invocation styles, session stores, and failure modes; Sage normalizes them behind one command surface with messages as files under ~/.sage and agents running in tmux windows. Its 53 commands cover multi-agent create/send/peek, parallel multi-runtime execution, headless CI mode, guardrails, shared memory, and token/cost tracking, and `sage bench` compares agents on real tasks as code. The acp runtime speaks JSON-RPC 2.0 over stdio so any Agent Client Protocol agent joins the fleet without a custom adapter, and local models via Ollama or llama.cpp are first-class runtimes. Being bash means it installs in seconds with no venv or node_modules, which suits CI and air-gapped environments. The project is MIT-licensed, actively developed through a documented roadmap, and so far a solo effort with small adoption.

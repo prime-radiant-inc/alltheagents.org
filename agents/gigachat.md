@@ -33,6 +33,7 @@ maintained: "dead"
 sources:
   - "bing_ddg_chinese"
 what_makes_it_special: "GigaChat is Sber's general-purpose LLM, not a coding agent harness. The site (gigachat.devices.sber.ru) did not resolve during enrichment (DNS lookup failed); fields could not be verified."
+date_added: "2026-08-19"
 ---
 
 The census URL for Sber's GigaChat did not resolve during enrichment, with DNS lookup failing on gigachat.devices.sber.ru, so no feature, pricing, or maintenance evidence could be gathered from the primary source. GigaChat is Sber's Russian-language large language model and chatbot family, which places it in the model gateway/chat category rather than among coding agent harnesses — there is no tool loop that creates or modifies software. The entry is marked dead with the URL unavailable, and its category reflects what the product is known to be rather than what could be verified from the page.
