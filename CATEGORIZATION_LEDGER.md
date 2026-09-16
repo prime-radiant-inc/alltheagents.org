@@ -879,6 +879,7 @@ Counts are not kept in this file. They are computed from the entry files at buil
 | `multiagent-debate` | Multiagent Debate | other | A research implementation of multiagent debate for LLM factuality on math/biography/MMLU benchmarks — no tools, no code modification, no software development. |
 | `multiagentworkflow` | Multiagentworkflow | other | The repository is completely empty (no code, README, or commits), so there is no tool to categorize. |
 | `multiplayer` | multiplayer | agent | An open-source debugging agent that runs its own loop — capturing production runtime data, triaging errors, prompting coding agents, and creating PRs. |
+| `multistack` | Multistack | multiplexer | A lightweight Rust TUI that runs and coordinates multiple zerostack agents side by side in the terminal; the zerostack agents do the coding while multistack manages PTYs, status signals, and the dashboard. |
 | `munder-difflin` | Munder Difflin | multiplexer | Desktop app that wraps 12 existing coding-agent CLIs as persistent clones with a monitoring UI; the agents code, it orchestrates. |
 | `murmell` | Murmell | multiplexer | A cloud canvas that runs existing coding agents (Claude Code, Codex, Kimi, OpenCode) side by side with file-reservation locking — it coordinates other agents and writes no code itself. |
 | `muse-code` | Muse Code | other | The cited repository (github.com/meta-ai/muse-code) returns 404 and no official Meta product named Muse Code is verifiable — nothing exists to classify as an agent or multiplexer. |
