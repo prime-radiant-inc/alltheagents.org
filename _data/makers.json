@@ -38,5 +38,13 @@
     "makes_models": false,
     "revenue_model": [],
     "website": "https://graphcode.app"
+  },
+  "tontinton": {
+    "name": "Tony Solomonik",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://tontinton.com"
   }
 }
