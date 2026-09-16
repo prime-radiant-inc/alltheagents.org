@@ -15,6 +15,14 @@
     "revenue_model": [],
     "website": "https://datasette.io/"
   },
+  "gi-dellav": {
+    "name": "Giuseppe Della Vedova",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://rocketup.pages.dev/"
+  },
   "microsoft": {
     "name": "Microsoft",
     "maker_type": "company",
@@ -46,5 +54,13 @@
     "makes_models": true,
     "revenue_model": [],
     "website": "https://shisa.ai"
+  },
+  "tontinton": {
+    "name": "Tony Solomonik",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://tontinton.com"
   }
 }
