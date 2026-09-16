@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI agentic coding assistant working with Anthropic, OpenAI, Azure and Ollama"
+date_added: "2024-01-09"
 ---
 
 Wingman-AI brings agentic coding into VS Code: given requirements or screenshots, it can autonomously implement complete features, execute commands, refactor, and generate documentation, alongside conventional chat, code completion, and branching conversation threads. It supports Anthropic, OpenAI, Azure OpenAI, and Ollama, letting developers run fully local models with Ollama or use cloud providers with their own keys. The extension is free; users supply provider keys except for Ollama's local models. The project is open source on GitHub (RussellCanfield/wingman-ai) with a companion website at getwingmanai.com. Its audience is VS Code users wanting agentic implementation and MCP tool use without leaving the editor.

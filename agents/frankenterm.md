@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Terminal hypervisor for AI agent swarms; provides real-time pane capture, state-machine pattern detection for agent state, and a JSON API for coordinating fleets of coding agents across WezTerm; turns a terminal multiplexer into a coordination layer for AI agent swarms."
+date_added: "2026-01-18"
 ---
 
 Running many CLI coding agents means manually watching terminals for the moments an agent goes idle, asks a question, or gets stuck. Frankenterm treats the terminal itself as the integration surface: it captures WezTerm pane content in real time, runs state-machine pattern detection to classify what each agent is doing, and publishes that state through a JSON API that scripts and other tools can query and act on. This lets operators build their own coordination logic on top of unmodified agents rather than adopting a vendor's orchestration format. It targets developers running agent swarms in WezTerm who want programmatic fleet control without changing how each agent is invoked.

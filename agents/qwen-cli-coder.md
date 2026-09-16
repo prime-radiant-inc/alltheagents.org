@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Community fork of Google's Gemini CLI modified to work with Qwen models from Alibaba Cloud; CLI AI workflow tool with dynamic MCP server management, multi-agent task coordination (spawn_sub_agent, delegate_task, aggregate_results; up to 5 concurrent agents), media generation (Wan models), and Assistant Mode web interface"
+date_added: "2025-06-29"
 ---
 
 qwen_cli_coder appeared within days of Google open-sourcing Gemini CLI in June 2025, adapting the codebase to run Qwen models through Alibaba Cloud's DashScope API. It preserved Gemini CLI's grounded-documentation and workflow machinery while adding dynamic MCP server management and multi-agent task coordination, including sub-agent spawning and delegation tools for splitting work across parallel agent instances. The fork documented Qwen-specific authentication and model configuration for developers who wanted Alibaba's models in a Gemini-CLI-style workflow. Active development lasted roughly a week in mid-2025; Alibaba's own Qwen Code fork, released the same month with an official team behind it, made the community fork redundant. It stands as an early example of the fork-and-retarget wave that followed Gemini CLI's open-sourcing.

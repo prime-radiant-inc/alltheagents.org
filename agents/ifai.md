@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "AI-native architecture with 9+ agents orchestrated via YAML DAG workflows, 120 FPS rendering with Rust core, local-first privacy with edge model support, shell-level agent autonomy, symbol-aware RAG via tree-sitter, declarative intent routing (O(1)), and Composer 2.0 for parallel multi-file AI editing"
+date_added: "2025-12-13"
 ---
 
 ifai (若爱) is built as an editor where agents, not humans, do most of the typing: a Rust/Tauri core hosts nine-plus agents — explore, review, refactor, test, plan, ReAct, git-commit, debug, doc — that can call each other to a depth of five and run in parallel through call_agent_parallel. Workflows are declared in YAML and scheduled by topological sort, with a React Flow view of node status. Composer 2.0 handles parallel multi-file edits with diff accept/reject and rollback, backed by tree-sitter symbol-aware RAG. Routing is a declarative O(1) lookup, and agents hold shell-level autonomy to configure and heal themselves. Five provider backends cover DeepSeek, Kimi, Qwen, NVIDIA NIM, and local models, keeping a local-first privacy posture.

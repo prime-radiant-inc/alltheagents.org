@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "An embedded agent SDK for B2B SaaS that lets your end customers build their own features and micro-apps on top of your product: agents execute through the host product's own API as the signed-in user, build live views from the host's components, remix the UI in place, and create standing automations — all without touching the host's source code."
+date_added: "2026-06-30"
 ---
 
 Vendo is a YC-backed open-source layer for B2B SaaS teams that want to give their customers in-product customization without shipping a plugin platform of their own. The embedded agent executes through the host product's own API as the signed-in user, so permissions and data boundaries come from the product itself: users ask questions and get live views composed from the host's components, hover a UI element and describe a change to remix it in place, and turn plain-language instructions into standing automations with per-tool approvals. Safety controls include policy enforcement, grants, circuit breakers, and audit logging, with generated UI running in a sandboxed iframe. For developers it is a TypeScript SDK compatible with any AI SDK LanguageModel, integrating with Claude Code, Cursor, Copilot, and MCP clients during development, self-hostable with PGlite or Postgres and optional Vendo Cloud features via API key.

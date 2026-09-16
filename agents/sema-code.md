@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI coding assistant / code copilot for JetBrains"
+date_added: "2026-08-26"
 ---
 
 Sema Code positions itself between autocomplete plugins and full standalone agents: inside IntelliJ IDEA, PyCharm, GoLand, WebStorm, and CLion it runs an agent that takes natural-language instructions, plans tasks in plan mode, and executes them through tools governed by per-action permissions. Subagents can be dispatched for parallel or specialized work, and MCP servers extend the tool surface. Multi-model support rides on Anthropic and OpenAI SDK compatibility, letting teams point the plugin at their approved endpoints. The JetBrains listing is free and MIT-licensed with a few hundred downloads since mid-2026, and the core engine's source is public on GitHub. Its users are JetBrains-centric developers who want agentic capability with explicit permission controls rather than vendor-locked assistants.

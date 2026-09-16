@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "NOTE: Not a coding agent harness. Research repository for developing an interactive dance AI agent focused on ML techniques and human movement interaction."
+date_added: "2024-04-01"
 ---
 
 This repository manages research toward an interactive dance AI agent, exploring machine-learning techniques for modeling and responding to human movement. The codebase holds Python analysis scripts, experiments, and written reports, with the usual research-project structure of source, reports, and CI workflows. It has no coding-agent functionality of any kind; the word 'agent' refers to the dance application being studied. With a single star and modest commit history, it is a small academic/personal project whose inclusion in a harness census is only definitional.

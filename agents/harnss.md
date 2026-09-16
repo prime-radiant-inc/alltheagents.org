@@ -35,6 +35,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Unified desktop interface for multiple AI coding agents built on the Agent Client Protocol (ACP), enabling simultaneous side-by-side agent sessions without context loss. Rich tool visualization transforms raw JSON into interactive cards with word-level diffs; all-in-one workspace with terminal, browser, git, MCP, and file panels scoped per project."
+date_added: "2026-02-19"
 ---
 
 harnss is a desktop application for running several AI coding agents side by side without losing context between them. It embeds Claude Code through the Anthropic Agent SDK, Codex through its JSON-RPC app-server, and any Agent Client Protocol-compatible agent such as Gemini CLI, Goose, or Docker cagent, keeping each session's state independent while allowing instant switching. The interface renders tool calls in detail — word-level diffs, syntax-highlighted code, inline command output, nested subagent trees — and layers on MCP server management per project, git operations with AI-generated commit messages, built-in terminal tabs, and a browser panel. Permission handling offers three levels from ask-first to full autonomy, with plan mode and background task agents for longer work. The project is early-stage and open about a pending rewrite, distributing unsigned binaries for macOS, Windows, and Linux.

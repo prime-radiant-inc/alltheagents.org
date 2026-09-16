@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "Git-native context control plane: treats agent memory as repo-level infrastructure (versioned, reviewed, merged, CI-checked, enforced). Single source of truth in .context/ compiles to multiple agent-native files (Claude Code, Cursor, Codex, Copilot, Gemini, Cline). Enforces constraints before risky actions via precheck gates. Human review queue for runtime-learned proposals. RepeatBench for failure-prevention benchmarking."
+date_added: "2026-07-05"
 ---
 
 Agent instruction files - CLAUDE.md, AGENTS.md, Cursor rules - multiply across tools, drift out of sync, and receive none of the review discipline applied to code. ContextVC makes that memory a git-native control plane: typed Markdown objects (constraints, decisions, failures, how-tos, code maps, preferences) live in a .context/ directory, and a render command compiles them into each tool's native format while preserving human-written text outside managed blocks. Enforcement goes beyond documentation - precheck hooks return warn, ask, or block before risky actions, CI health checks fail on drift or stale bindings, and runtime failures feed a review workflow where a human accepts proposals before they become formal memory. A local stdio MCP server exposes search and status tools to any MCP client, and context objects support log, blame, diff, and revert through normal Git semantics. Teams running multiple agents over one repository use it to keep context consistent and reviewed.

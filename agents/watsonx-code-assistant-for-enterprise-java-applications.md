@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Enterprise Java modernization with generative AI"
+date_added: "2024-11-22"
 ---
 
 watsonx Code Assistant for Enterprise Java Applications addresses the cost of upgrading large enterprise Java codebases across runtime and version boundaries. The extension analyzes an application's runtime, produces a prescriptive modernization plan with complexity and effort assessment, applies automated code and configuration changes, and uses generative AI to transform code for issues automation cannot fix mechanically. It is a client for IBM's watsonx Code Assistant service on IBM Cloud (Standard plan required), so the extension is free but the backing service is paid. Additional chat commands cover code explanation and unit test generation alongside standard completion. Its audience is enterprises modernizing Java runtimes, particularly toward Liberty, at scale.

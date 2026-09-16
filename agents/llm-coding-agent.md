@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "LLM plugin that adds an `llm code` command for interactive coding-agent sessions; works with any LLM-supported model (provider-agnostic) and leverages LLM's SQLite logging, conversation resume, and plugin architecture; fine-grained approval workflows (y once, a approve similar for session, --yolo auto-approve, --allow pre-approve patterns); security by confinement - all file access sandboxed to a root directory with path-traversal protection; dual CLI and Python API (CodingAgent/CodingTools classes); first alpha was built by Claude Code (Fable 5) via prompt-driven development."
+date_added: "2026-07-02"
 ---
 
 The plugin exists because Willison wanted a minimal, inspectable coding agent on top of the llm CLI's model-agnostic plugin system; the first alpha was itself written by prompting Claude Code through a spec-and-TDD workflow. Read-only tools (numbered read_file, gitignore-aware list_files, ripgrep-backed search) run freely, while write_file, edit_file, and execute_command require approval, with chain_limit bounding tool rounds per run and every session recorded for resume via -c or --cid. File access is confined to the session root, with traversal via .., absolute paths, or symlinks rejected as errors the model can correct. A Python API (CodingAgent, CodingTools) exposes the same loop programmatically, with a pause/resume approval protocol for non-terminal applications.

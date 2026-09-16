@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Open-source Claude Code alternative with hybrid architecture (Rust backend + React/Ink terminal UI), supporting both cloud and local LLMs with agentic capabilities (file search, edit, command execution). Early stage."
+date_added: "2025-02-11"
 ---
 
 oli is an open-source terminal coding assistant positioned as a Claude Code alternative, built around a Rust agent core and a React/Ink interface communicating over JSON RPC. The agentic loop covers file search, code editing, and shell execution, with function-calling support implemented across all four supported providers rather than only cloud APIs. Local operation through Ollama keeps the workflow private, matching the Open-Local-Intelligent name. The README is explicit that the project is early stage and bug-prone, and installation is from source rather than packaged binaries. A single maintainer drives development with a docs site and moderate community activity.

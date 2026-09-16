@@ -28,6 +28,45 @@ from fetch_stars import frontmatter, field, repo_from_url  # noqa: E402
 from generate_pages import parse_stars  # noqa: E402
 from sync_stars import apply_md, classify, load_snapshot, scan_entries  # noqa: E402
 
+import glob
+import re
+
+DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+
+
+class TestDateAdded(unittest.TestCase):
+    """Every entry carries a catalog-addition date driving /updates/."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.files = sorted(
+            p for p in glob.glob(os.path.join(ROOT, "agents", "*.md"))
+            if not p.endswith("_TEMPLATE.md"))
+
+    def test_every_entry_has_a_well_formed_date_added(self):
+        bad = []
+        for path in self.files:
+            v = field(frontmatter(path), "date_added")
+            if not v or not DATE_RE.match(v):
+                bad.append(f"{os.path.basename(path)}: {v!r}")
+        self.assertEqual(bad, [],
+                         f"{len(bad)} entries lack a YYYY-MM-DD date_added:\n"
+                         + "\n".join(bad[:20]))
+
+    def test_date_added_never_predates_first_released(self):
+        # date_added backfills from first_released when present, else from the
+        # earliest commit touching the file — so it can equal first_released
+        # but must never be earlier.
+        bad = []
+        for path in self.files:
+            fm = frontmatter(path)
+            added, released = field(fm, "date_added"), field(fm, "first_released")
+            if added and released and DATE_RE.match(added) and DATE_RE.match(released):
+                if added < released:
+                    bad.append(f"{os.path.basename(path)}: added {added} < released {released}")
+        self.assertEqual(bad, [],
+                         f"{len(bad)} entries added before release:\n" + "\n".join(bad[:20]))
+
 
 class TestFrontmatterBoundaries(unittest.TestCase):
     """The block ends at a `---` *line*, not at the first `---` substring.

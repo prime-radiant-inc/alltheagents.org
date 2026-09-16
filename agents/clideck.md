@@ -34,6 +34,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Local dashboard for running and coordinating multiple AI CLI coding agents (Claude Code, Codex, Gemini CLI, OpenCode, Pi) in one browser window with chat-style sidebar, live status detection, session resume, inter-agent communication, autopilot routing between agents, projects grouping, prompt library, and an E2E encrypted mobile relay - without sitting between agents rewriting prompts."
+date_added: "2026-03-03"
 ---
 
 CliDeck rethinks the tmux pane grid as a chat-style interface: agents keep running in their real terminals, but the dashboard groups them by project, shows live working/idle/waiting status, previews messages, and resumes sessions, all while explicitly not sitting in the middle of the conversation. The ask-another-session feature injects a message into a target agent's terminal and returns the response, giving lightweight cross-agent consultation without an orchestration layer. Everything is local with no data leaving the machine, and a plugin API covers voice input and autopilot. Developers who run several CLIs but dislike pane-based multiplexers are the audience.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jqueryscript"
 what_makes_it_special: "Terminal agentic coding assistant with team mode (multi-agent parallel collaboration), vulnerability hunting mode, Claude Code Skills compatibility, StatusLine plugins, and VSCode/JetBrains extensions."
+date_added: "2025-08-16"
 ---
 
 Snow CLI runs agentic coding sessions in the terminal against Claude, OpenAI, Gemini, or DeepSeek endpoints, including third-party relay configurations common among users in China. Its team mode coordinates multiple agents on parallel tasks, a dedicated vulnerability-hunting mode targets security review, and hooks under ~/.snow/hooks automate workflow steps such as context injection before subagent starts. The extension surface is broad: MCP service management, custom subagents, project Markdown agents, StatusLine and search-engine plugins, skills compatible with Claude Code, plus VS Code and JetBrains extensions. Headless and SSE service modes support embedding, and documentation, community groups, and release notes are maintained in both English and Chinese, which anchors its strongest adoption among Chinese-speaking developers.

@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "jqueryscript"
 what_makes_it_special: "Every chat message is automatically a git commit — enabling revert, branch, reset, and squash of AI conversations; watches changes in real-time like a pair programmer; integrates with compiler, terminal, debugger, Linear, and GitHub; first AI editor designed for big multi-file changes."
+date_added: "2024-09-02"
 ---
 
 Melty treated the AI coding session as a first-class git object: because each message landed as a commit, a bad suggestion could be reverted exactly like a bad merge, and multi-file changes could be squashed into clean history before leaving the editor. Built as a VS Code fork, it watched changes in real time like a pair programmer and integrated with the compiler, terminal, debugger, Linear, and GitHub, targeting the large cross-file refactors that chat-only assistants handled poorly. The MIT-licensed repository drew roughly five thousand stars and, by its own README, was writing about half of its own code. Development stopped in November 2024 after the team shifted toward a packaged early-access product that never broadly shipped; the commit-per-message idea remains its lasting contribution to editor design.

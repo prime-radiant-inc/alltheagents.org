@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Automated stock analysis and portfolio management system using AWS Bedrock Agents with Anthropic Claude 3. Analyzes stocks across S&P 500, Nasdaq 100, and EURO STOXX 50 using balance sheets, technical indicators, news, and market sentiment, then provides BUY/SELL recommendations and portfolio updates. Two modules: Stock Analyst and Portfolio Manager. Only 1 commit (one-time upload)."
+date_added: "2024-11-24"
 ---
 
 The repository wires Amazon Bedrock Agents into a financial workflow: a Stock Analyst module ranks equities across major indices using balance-sheet data, technical indicators, and news, while a Portfolio Manager module applies those recommendations to a simulated portfolio, with user prompts able to steer selection and weighting. Action groups run through Lambda, market data comes from Yahoo Finance, results persist in DynamoDB, and EventBridge schedules ECS tasks on a weekly cadence; no real trades are executed. Infrastructure is defined in AWS CDK with a Python script registering the agents in the Bedrock console. It is a single-commit demonstration with no follow-up development, and it appears in this census only as a misfiled entry — nothing in it creates or modifies code.

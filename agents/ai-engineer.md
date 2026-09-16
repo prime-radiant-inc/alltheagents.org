@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic5"
 what_makes_it_special: "Curated educational resource repository (knowledge hub) of PDFs, cheat sheets, guidebooks, and reference images covering AI Engineering topics (Agentic AI, Generative AI, RAG, LLMs, embeddings, vector databases, LangChain/LangGraph, prompt engineering, fine-tuning, multi-agent design patterns, MCP, interview prep); complements a YouTube channel (@aiDotEngineer)."
+date_added: "2026-01-07"
 ---
 
 The repository gathers cheat sheets, guides, and interview-preparation documents covering agentic AI, generative AI, RAG, LLM fine-tuning, MCP, and vector databases, aimed at learners preparing for AI engineering roles and linked to a YouTube channel. Nearly all content is third-party PDFs rather than original material, plus the ReAct paper source tarball. Its Apache-2.0 badge is misleading: redistributing the included copyrighted book and third-party PDFs is not permitted by that license, and the copy of 'AI Agents in Action' was sourced from Library Genesis. Users should treat it as a personal study index rather than a legitimately redistributable resource.

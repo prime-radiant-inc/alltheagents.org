@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Terminal-native AI coding agent connecting to 17+ LLM providers with beautiful terminal UI (themes, syntax highlighting, code diff previews, Mermaid diagram rendering). Supports MCP protocol (via /mcp), VSCode extension plugin, AGENTS.md project instructions, LSP diagnostics integration, smart context compaction, Skills system compatible with Claude Code, SkillHub integration (Tencent), approval modes for autonomy control. Dual Build and Plan modes."
+date_added: "2026-01-24"
 ---
 
 carrycode is a terminal-first coding agent built in Rust with a TypeScript layer, aimed at developers who live in the shell and want agent capability without leaving it. It renders a rich TUI with themes, syntax-highlighted diffs, and Mermaid diagrams rendered as ASCII, and supports MCP servers, a skills system compatible with Claude Code, AGENTS.md project rules, LSP diagnostics, and context compaction for long sessions. Agent autonomy is governed through explicit modes — a read-only Plan mode for analysis and a Build mode gated by approval levels — and a single-shot CLI mode supports scripting. Model access spans 17+ providers (OpenAI, Anthropic, Gemini, DeepSeek, Kimi, GLM, MiniMax, Qwen, xAI, SiliconFlow, Ollama, vLLM, and OpenAI-compatible endpoints). The project is source-available under a custom license, installs via curl or a VS Code extension, and is actively maintained with frequent releases; a VS Code extension extends the same engine into the editor.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "Local-first orchestrator that turns coding-agent CLIs into a coordinated crew of specialist agents (Partner, Engineer, Product Lead, Designer), each bound to its best model. Per-project memory so skills compound over time. Right-model-per-role cost optimization. Parallel specialists with context-light handovers. Verifiable Goals checked by an independent fresh-session verifier. Encrypted mobile pairing via Noise tunnel through a self-hostable relay. One shared skills folder across all providers. State in ~/.crew44/, no cloud/telemetry."
+date_added: "2026-08-19"
 ---
 
 Crew44 addresses the sprawl that appears when developers run several AI coding CLIs side by side with no shared state or division of labor. A local Go daemon binds each specialist role to the model best suited to it, coordinates handoffs between the underlying CLIs (Claude Code, Codex, Gemini CLI, Cursor Agent, OpenCode, and others), and runs agents in parallel in one workspace. Per-project memory and skills are stored as plain files, and a background Partner agent proposes new memories with evidence for the user to accept or dismiss. Everything stays on the machine: the daemon binds to localhost, state lives in ~/.crew44, and there is no account, subscription, or telemetry, which appeals to developers who want multi-agent workflows without cloud services.

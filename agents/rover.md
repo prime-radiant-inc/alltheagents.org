@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "bing_ddg_chinese"
 what_makes_it_special: "Code reliability platform that scans PRs for bugs/security/performance issues in the context of the entire system (not just the diff). Builds a live interactive code graph across repositories; 'Curio' AI agent lets you chat with your codebase to understand and diagnose issues."
+date_added: "2026-08-19"
 ---
 
 Documatic built Rover around the observation that most AI review tools reason over a patch and miss the blast radius: a change that is locally correct can still break a caller two repositories away. The platform constructs a live graph of the organization's services, APIs, and data stores from the repositories it is connected to, then scans each pull request in that context for bugs, security exposure, performance regressions, and reliability risks such as leaks. Findings land as actionable PR comments, and the Curio agent answers system-level questions like why an API is timing out by walking the graph. Onboarding is a two-click GitHub app install, a free tier covers whole teams, and self-hosting is available for regulated environments.

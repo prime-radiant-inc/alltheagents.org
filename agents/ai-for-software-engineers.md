@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic5"
 what_makes_it_special: "Not a coding agent harness — a curated, opinionated five-section AI learning roadmap for software engineers with prior programming experience. Curated by Logan Thorneloe (author of the AI for Software Engineers newsletter)."
+date_added: "2023-12-27"
 ---
 
 The repo exists to give working software engineers a sequential path into AI/ML without wading through marketing content. It contains only a README, an assets folder, and an MIT license file — the value is the curation, ordered from Hamming's classical lectures through Géron's ML texts, Raschka's build-an-LLM books, and Chip Huyen's AI Engineering. Each entry points at external material rather than reproducing it. The audience is working engineers with prior programming experience, and the same author maintains the associated newsletter and learn.aiforswes.com site.

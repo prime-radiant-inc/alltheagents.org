@@ -35,6 +35,7 @@ sources:
   - "brad"
   - "ishandutta"
 what_makes_it_special: "Small, fast, Lua-scriptable AI coding agent for the terminal (scriptable like Neovim). Custom terminal renderer (not ratatui). Built-in Vim editor (motions, text objects, registers, undo). Deterministic fuzzing with fixed clock and stubbed I/O for replayable crashes. No config needed. Mode cycle: Normal -> Plan -> Apply -> Yolo."
+date_added: "2026-02-25"
 ---
 
 Smelt exists because its author found mainstream coding agents bloated and wanted the extensibility model of Neovim applied to an agent: keymaps, commands, autocmds, custom tools, and modes are all defined in Lua, with bundled plugins for which-key, an LSP-backed semantic code toolset, and a local request inspector. The Rust core uses a custom grid renderer, ships a built-in Vim editor with motions, text objects, registers, and undo, and cycles through Normal, Plan, Apply, and Yolo modes. Development is tested with deterministic fuzzing — stubbed I/O, fixed clocks, replayable failures — rather than ad hoc integration tests. Authentication covers subscription providers (ChatGPT, GitHub Copilot, Kimi Code) alongside any OpenAI-compatible endpoint, and the README warns that interfaces shift between alpha releases.

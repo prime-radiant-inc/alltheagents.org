@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Intelligent coding assistant by Alibaba Cloud with an autonomous Programming Agent mode (self-planning, task decomposition, tool usage, terminal command execution, project context sensing), multi-file editing with Diff-Review, a TestAgent for auto-generating/running/fixing unit tests, and enterprise knowledge base retrieval-augmented coding. Supports 200+ languages. Recognized by Gartner and CAICT."
+date_added: "2026-08-19"
 ---
 
 Tongyi Lingma is Alibaba Cloud's AI coding assistant, which has expanded from inline completion into full agentic development. Its Programming Agent mode plans tasks, decomposes them, senses the project's framework and stack automatically, and executes multi-file edits with terminal commands — reviewing changes through a diff view before applying them — while a TestAgent generates unit tests, runs them, and repairs failures autonomously; enterprise deployments add retrieval over internal knowledge bases so suggestions conform to house style. The assistant runs inside VS Code, Visual Studio, and JetBrains IDEs, and Alibaba now also ships its own Lingma IDE in public beta, with 200+ language support and a free tier for individuals and enterprises. Gartner lists Alibaba in the AI Code Assistants Challenger Quadrant, and CAICT rated its models in the top evaluation band. Chinese enterprise developers and Alibaba Cloud customers are the core users.

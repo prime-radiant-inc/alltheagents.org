@@ -36,6 +36,7 @@ sources:
   - "ishandutta"
   - "tiennm"
 what_makes_it_special: "All-in-one agentic engineering platform for VS Code, JetBrains, or CLI. Features code generation across multiple files, inline autocomplete, self-checking agent that reviews and corrects its own work, terminal and browser control, MCP marketplace, 500+ models with mid-task switching, and specialized agents (Code, Plan, Ask, Debug, Review)."
+date_added: "2025-03-10"
 ---
 
 Kilo Code consolidates the pieces of an agentic engineering workflow that teams otherwise assemble from separate tools: a VS Code/JetBrains extension, an OpenCode-derived CLI, automated PR code reviews, and a hosted cloud agent. Its agent modes separate planning from coding, review their own output, and can run unattended via kilo run --auto in CI. Models from OpenAI, Anthropic, Google, and others are billed at the provider's rate with no markup, and no API key is required to start. It targets developers who want one install covering interactive IDE work, terminal sessions, and CI pipelines.

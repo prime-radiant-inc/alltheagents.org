@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Self-hosted, fully open-source autonomous SWE agent on AWS serverless infrastructure — offers a Devin/OpenAI Codex/Google Jules-like experience with no upfront or fixed costs (~$0 when idle). Features web UI, Slack bot, REST API, GitHub Actions integration, per-session isolated EC2 worker VMs, MCP client support, and pay-as-you-go pricing."
+date_added: "2025-04-01"
 ---
 
 The project exists for teams that want the cloud-agent workflow — delegate a task, get a pull request — without sending code to a hosted service or paying for idle capacity. Messages arrive through Slack or a REST API, flow via AppSync Events into DynamoDB, and a Worker Manager boots an isolated EC2 instance per session that clones the target repository, works with Bedrock models, and pushes branches or pull requests. MCP servers configured through mcp.json extend the agent's tools, and a Next.js dashboard adds session monitoring, cost analytics, and API-key management. Security is treated as a first-class concern: single-tenant deployments, least-privilege IAM with optional egress filtering, and Cognito-gated access. It fits AWS-centric teams and OSS maintainers who need cheap, isolated background agents.

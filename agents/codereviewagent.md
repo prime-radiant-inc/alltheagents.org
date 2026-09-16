@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Bito's AI Code Review Agent provides automated, context-aware code reviews in Git workflows (PR/MR) and IDEs, identifying bugs, code smells, and security vulnerabilities with fix suggestions. First agent built on Bito's AI Agent framework; powered by Anthropic Claude Sonnet 3.5; deep whole-codebase understanding; integrates static analysis tools (fbinfer, OWASP Dependency-Check) out of the box and 3rd-party tools (Snyk, Sonar); does not read/store customer code or use it for model training."
+date_added: "2024-01-19"
 ---
 
 Bito's CodeReviewAgent automates the review stage of pull and merge requests across GitHub, GitLab, and Bitbucket, reading the whole codebase rather than the diff alone so findings account for surrounding architecture. It flags bugs, code smells, and security vulnerabilities, proposes line-level fixes, and posts results directly as PR comments; the same review engine runs in VS Code and JetBrains IDEs for pre-commit feedback. The agent incorporates static-analysis tooling — fbinfer and OWASP Dependency-Check out of the box, with Snyk, Sonar, and Dependabot configurable — and estimates review effort per change. Bito offers it as a cloud service with a free signup tier, as a self-hosted deployment via CLI, webhooks, or GitHub Actions, and states that customer code is neither stored nor used for model training.

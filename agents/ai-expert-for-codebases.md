@@ -31,6 +31,7 @@ maintained: "dead"
 sources:
   - "toolify"
 what_makes_it_special: "Chat with any codebase in under two minutes; runs fully locally (Ollama + Marqo) or via third-party APIs; modular architecture with pluggable embeddings, LLMs, and vector stores; well-documented benchmark experiments comparing retrieval strategies."
+date_added: "2026-08-19"
 ---
 
 Sage targets the onboarding problem: understanding an unfamiliar codebase takes days, and generic chatbots lack repo-specific context. It indexes a repository into a vector store (Marqo or pluggable alternatives) and answers questions through either lightweight LLM retrieval or full RAG, with embeddings, LLMs, and vector stores all swappable via abstract classes. A fully local mode (Ollama for the LLM, Marqo for vectors) keeps proprietary code on the developer's machine, while a hosted app at sage.storia.ai serves open-source repositories. The project was archived on February 3, 2025 and is read-only.

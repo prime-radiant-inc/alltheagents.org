@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "github_topic4"
 what_makes_it_special: "Converts CodeRabbit GitHub PR reviews into clean, LLM-friendly text formatted for AI coding agents to automatically apply suggestions; prioritizes AI-actionable items and organizes feedback by file."
+date_added: "2025-09-06"
 ---
 
 CodeRabbit posts rich, structured review comments on pull requests, but their format — HTML, nested threads, interleaved nitpicks and substantive findings — is awkward for AI coding agents to consume. This script pulls a PR's CodeRabbit comments through the GitHub CLI, strips HTML, groups feedback by file, and reorders it so AI-actionable prompts come before informational diffs, emitting plain text suitable for piping into Claude, ChatGPT, or another agent. It is a single Python file depending only on beautifulsoup4 and an authenticated gh CLI, with no published package: users clone the repository and run the script directly. The project dates from September 2025 and has seen only light, occasional maintenance since.

@@ -32,6 +32,7 @@ maintained: null
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Local LLM-assisted code completion using llama.cpp"
+date_added: "2025-01-21"
 ---
 
 The extension started as a local FIM completion client: it auto-installs llama.cpp, streams fill-in-the-middle suggestions from models such as Qwen2.5-Coder, and reuses a ring context of open and edited files so completion stays viable on CPU-only hardware. A later Llama Agent mode added a chat UI with nine built-in tools, MCP server tool support, custom JavaScript tools, and configurable loop counts, letting local models actually read and modify project files. Models load from ggml's Hugging Face presets or any local GGUF, and a Telegram bot interface plus deep links extend access beyond the editor. It targets developers who want editor AI without sending code to a cloud service; a sibling llama.vim plugin covers Vim and Neovim.

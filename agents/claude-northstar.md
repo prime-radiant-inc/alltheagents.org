@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Goal-oriented development framework for CLI agents that shifts them from task-based to vision-based autonomous workflows; main agent acts as 'Tech Lead' coordinating sub-agents (Product Researcher, Strategist, Developer, QA, Reviewer) with persistent state across sessions (north-star.md, project-state.json), strategic-question-only interruptions, and a continuous Analyze -> Plan -> Execute -> Evaluate work loop. Very early stage (5 commits, 1 star)."
+date_added: "2026-01-06"
 ---
 
 The framework targets the failure mode where CLI agents complete individual tasks but lose sight of project intent: instead of issuing tasks, the developer writes a north-star vision document, and the agent plans milestones against it, executing through a develop-QA-review-merge pipeline and asking only strategic questions. State lives in project-state.json and a progress log so sessions resume coherently, and the quality pipeline gates merges behind review. It installs via npx claude-northstar init for Claude Code and OpenCode. The repository is minimal (five commits, a single star), so adoption is essentially nil, but the design documents a vision-driven alternative to task-by-task prompting.

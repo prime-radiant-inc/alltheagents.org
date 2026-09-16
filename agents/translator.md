@@ -29,6 +29,7 @@ maintained: "active"
 sources:
   - "user_reported"
 what_makes_it_special: "LLM-powered document translation CLI that uses a multi-stage pipeline (translate, edit, critique/revise) with special handling for markdown + YAML frontmatter. Uses OpenAI's API with tiktoken for token management and pycountry for language codes."
+date_added: "2026-09-01"
 ---
 
 Translator is an LLM-powered document translation CLI, not a coding agent. It runs documents through a multi-stage pipeline — translate, edit, then critique and revise — so a draft is not the final output, and it has special handling for markdown with YAML frontmatter so structured metadata survives translation intact. It talks to OpenAI's API, uses tiktoken for token management, and pycountry for language codes. The audience is anyone who needs high-quality, pipeline-driven document translation from the command line with their own OpenAI key, and it is listed here because it is a 2389-research tool that is not an agent and should not be mistaken for one.

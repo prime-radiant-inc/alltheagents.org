@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "github_topic3"
 what_makes_it_special: "Multi-agent task management and coordination using pure shell scripts and tmux sessions; manages agent rosters, task lifecycle (new -> dispatch -> pause -> continue -> done), inter-agent communication via tmux, and a kanban-style task board; worktree-based isolation per task. Only 2 commits, 36 stars - early/abandoned stage."
+date_added: "2026-03-18"
 ---
 
 Codex-multi-agents coordinates several Codex sessions working on the same repository through shell scripts rather than a dedicated application. A roster script registers named agents with roles and synchronized prompts, a task script manages each task's lifecycle — create, dispatch, pause, resume, complete — with worktree paths, acceptance criteria, and logs recorded in a shared TODO file, and a tmux script relays messages between agent sessions. Each task runs in its own git worktree so parallel agents do not conflict on the working tree. The tool is structured as an agent skill package with scripts under skills/, documentation in Chinese, and a recommended workflow of spec, implementation, review, merge, and sync confirmation; the repository holds only two commits and no license file, indicating an early personal project.

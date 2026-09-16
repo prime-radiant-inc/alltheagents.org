@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "The first open-source harness builder for AI coding; makes AI coding deterministic and repeatable by encoding development processes as YAML workflows with isolated git worktrees per run, parallel execution, human approval gates, and composable deterministic + AI nodes."
+date_added: "2025-02-07"
 ---
 
 Archon, by cole medin (coleam00), tackles the problem that AI coding agents behave nondeterministically: the same prompt can produce different results on different runs. It encodes development processes as YAML workflow definitions - planning, implementation, validation, review, and PR creation as reusable stages - so the same process runs deterministically each time, with isolated git worktrees per run enabling parallel execution. Runs can start from the CLI, web UI, Slack, Telegram, Discord, or GitHub webhooks, and 19 default workflows ship out of the box (fix-github-issue, idea-to-pr, plan-to-pr, comprehensive PR review). Claude Code is the primary assistant, with Codex and Pi also supported, and the MIT-licensed TypeScript (Bun) codebase is under very active development. Teams use it to standardize how coding agents execute repeatable engineering processes rather than hoping a prompt works.

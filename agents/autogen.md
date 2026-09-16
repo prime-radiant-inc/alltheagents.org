@@ -35,6 +35,7 @@ sources:
   - "brandonhimpfen"
   - "namphuong"
 what_makes_it_special: "Pioneered multi-agent orchestration patterns at Microsoft Research with a layered extensible architecture (Core -> AgentChat -> Extensions), cross-language support (Python + .NET), and a no-code GUI (AutoGen Studio)."
+date_added: "2023-08-18"
 ---
 
 AutoGen, from Microsoft Research, pioneered event-driven multi-agent orchestration with a layered architecture: a Core API for event-driven agents and distributed runtimes, an opinionated AgentChat API for group chats and two-agent conversations, and an Extensions API for OpenAI/Azure clients, code execution, and MCP interop (McpWorkbench). AutoGen Studio provides a no-code GUI for prototyping agent workflows, and Magentic-One demonstrates a generalist multi-agent team on top of the stack. Both Python and .NET implementations are supported. The project is now in maintenance mode - community-managed for bug fixes and security only - with Microsoft directing new development to the Microsoft Agent Framework, which reached production-ready 1.0. Existing Python and .NET users can migrate via the published guide.

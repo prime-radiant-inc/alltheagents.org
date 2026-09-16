@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Grammar-guided generation framework for LLMs ensuring outputs are syntactically valid per Context-Free Grammars (CFG) and Regex. Pre-computes masks for speed (~10% overhead), handles general-purpose languages including non-context-free fragments (Python indentation, Go end-of-scope), and reports 99% JSON accuracy with Gemma-2b."
+date_added: "2023-09-04"
 ---
 
 SynCode is a constrained-decoding library from UIUC that forces LLM output to conform to a Context-Free Grammar, with soundness and completeness guarantees — every produced token sequence satisfies the grammar. It works as a logit processor over HuggingFace models: an incremental LR(1)/LALR(1) parser tracks grammar state, and a pre-computed DFA mask store hides invalid tokens at each step, adding roughly 10% generation overhead while reporting 99% JSON validity with small models. Built-in grammars cover Python, Go, Java, SQL, and JSON, and the framework handles constructs beyond plain CFGs, such as Python's indentation-sensitivity and Go's brace-scoping. It ships as a pip package aimed at researchers generating structured or syntactically valid code, with the design published in an arXiv paper (2403.01632). It is not an agent: there is no tool loop, only constrained decoding.

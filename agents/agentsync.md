@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Fast portable CLI that synchronizes AI agent configurations and MCP servers across multiple AI coding assistants (Claude Code, Gemini CLI, Cursor, Copilot, Codex, OpenCode) using symlinks from a single source of truth in .agents/."
+date_added: "2026-01-15"
 ---
 
 Teams running several AI assistants must keep CLAUDE.md, .cursor/rules, copilot-instructions.md, and per-tool MCP configs in sync by hand. AgentSync makes .agents/ the single source of truth — agentsync.toml, AGENTS.md, commands, skills, and prompts — and generates each tool's native files from it, with MCP servers defined once and emitted as .mcp.json, .codex/config.toml, .gemini/settings.json, and equivalents. Symlink-based targets (symlink, symlink-contents, nested-glob for monorepos, module-map) mean edits take effect without re-running a copy step, and existing files are backed up before replacement. A Rust core ships as a single static binary behind an npm wrapper, with commands for init, apply, status, clean, doctor, and skill management. Cross-platform support includes a documented Windows symlink setup path.

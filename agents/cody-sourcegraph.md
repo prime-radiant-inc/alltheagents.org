@@ -35,6 +35,7 @@ sources:
   - "caramaschi"
   - "vinkius"
 what_makes_it_special: "AI code assistant that uses Sourcegraph's code search to pull context from local and remote codebases; available as IDE extensions (VS Code, JetBrains, Visual Studio), CLI, and web app; public source snapshot archived Aug 1, 2025 (development moved to a private repo)"
+date_added: "2026-08-19"
 ---
 
 Code answers usually live outside the file a developer has open, which is the gap Sourcegraph built its search business on and Cody extends into an assistant. Chat with @-mentions reaches into files, symbols, and whole remote repositories through Sourcegraph's search index, auto-edit proposes contextual changes from the cursor, and context filters let teams exclude repositories the assistant should not see. The assistant ships as extensions for VS Code, JetBrains, and Visual Studio, plus a web app, a CLI, and an Enterprise distribution integrated with Sourcegraph Code Search. Individuals use it through Sourcegraph.com while enterprises deploy it against their own Sourcegraph instance. Privacy terms state that customer code is not used to train models. Teams already running Sourcegraph are its natural users.

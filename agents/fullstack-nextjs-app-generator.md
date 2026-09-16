@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Fullstack Next.js app builder using Spark Engine AI's multi-agent system for interactive generation of pages, APIs, and database schemas, with automated deployment to Vercel + Supabase including database schema generation and serverless API creation through a guided multi-step UI."
+date_added: "2024-09-01"
 ---
 
 The project demonstrates Spark Engine AI's multi-agent generation applied to a concrete stack: Next.js pages, API routes, and Supabase schemas produced through a guided multi-step interface rather than a one-shot prompt. A backend deployer service, reached through an ngrok tunnel, executes the Vercel deployment and runs the generated SQL against Supabase, so the output is a deployed app with its schema rather than a folder of code. Generation goes through a Spark API key with OpenAI and Groq listed as underlying providers. Development stopped at 33 commits in late 2024, leaving it as a working demonstration of the Spark Engine workflow rather than a maintained product.

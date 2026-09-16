@@ -35,6 +35,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Self-hosted browser terminal manager for AI coding agents; persistent PTY-backed sessions live in a Rust broker (not the web server) so server restarts/upgrades don't kill running agents; fully self-hosted with direct private Tailnet access and no Wolfpack-hosted relay or account; multi-machine control room with handshake-verified peers; phone PWA, desktop terminal grid, and direct wolfpack attach; Agent Skills (wolfpack-tailnet-control) and Pi task-delegation integrations."
+date_added: "2026-01-30"
 ---
 
 Wolfpack gives developers a self-hosted control room for AI coding agents running on their own machines, reachable from a desktop browser or phone PWA over a private Tailscale network with no hosted relay or account. Its two-part design separates the web server from a Rust PTY broker that owns sessions, so restarting the web server or closing the browser does not kill running agents. The dashboard shows live session previews, needs-input states, and handshake-verified Wolfpack peers on the Tailnet, with harness choices including Claude Code, Codex, Gemini CLI, Cursor, and Pi. Parent and child agent spawning with a task gateway supports orchestration, and Agent Skills (wolfpack-tailnet-control, wolfpack-pi-task-delegation) extend external harnesses. It installs via a curl setup wizard with Tailscale-based private access and JWT/ACL options.

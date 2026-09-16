@@ -32,6 +32,7 @@ maintained: null
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Agentic coding assistant with local LLM via Ollama"
+date_added: "2026-06-06"
 ---
 
 Lean AI's stated philosophy is to plan well, give the LLM tools, and let it work, deliberately avoiding multi-agent orchestration in favor of one model following a deterministic workflow. Inside JetBrains IDEs it runs a plan-approve-execute cycle, a bug-fix mode with a separate investigation phase, open-ended request mode, FIM-based inline completions, and internet search tools for documentation lookups, with post-execution review steps. Models come from Ollama locally or from OpenAI, Anthropic, and Google in the cloud, which keeps costs at zero for local setups. The plugin is free on the JetBrains Marketplace and published by a small independent vendor.

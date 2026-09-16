@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Curated set of modern CLI/TUI tools and AI coding assistants packaged in a single Docker/Podman container with batteries included, one-line install, interactive first-run setup, and sensible defaults. Run the same box anywhere (desktop, VPS, Codespace) and SSH in from any device. Bundles Claude Code, Copilot CLI, Gemini CLI, Codex CLI, opencode, Pi, Oh My Pi."
+date_added: "2026-04-04"
 ---
 
 squarebox solves environment drift for people who work across laptops, servers, and cloud shells: a one-line installer pulls a digest-verified image, runs an interactive wizard to pick optional AI assistants (Claude Code, Copilot CLI, Gemini CLI, Codex, opencode, Pi), editors, TUIs, and mise-managed SDKs, then mounts host code from ~/squarebox/workspace with persistent state in a Docker volume. The box suspends on exit and resumes on start, SSH in from any device, and sqrbx-update upgrades in place while sqrbx-rebuild replaces the image wholesale. Security posture is explicit — checksum-pinned downloads, fail-closed digest verification, a documented trust model. It is MIT-licensed and designed to be forked as a personal base image; at roughly 900 MB plus optional toolchains it trades disk for reproducibility.

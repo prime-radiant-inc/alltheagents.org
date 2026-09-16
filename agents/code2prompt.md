@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "namphuong"
 what_makes_it_special: "Converts a codebase into a well-structured LLM prompt with source tree, Handlebars templating, token tracking, git integration, and .gitignore support. Complete ecosystem: Rust core + CLI + Python SDK + MCP server, with a TUI. Provider-agnostic — outputs prompts for any LLM."
+date_added: "2024-03-09"
 ---
 
 Code2Prompt automates the context-building step that precedes most LLM-assisted coding work. It walks a repository, respects .gitignore and glob filters, renders the file tree and selected sources through Handlebars templates, counts tokens against configurable model budgets, and can embed git diffs, logs, and branch comparisons in the output. The engine ships as a Rust CLI with an interactive TUI, a Python SDK (code2prompt-rs on PyPI), and an MCP server mode that lets MCP-capable agents query the codebase on demand instead of receiving one large dump. It calls no model itself — output is provider-agnostic text suitable for any LLM — and is installed via Cargo, Homebrew, pip, or prebuilt binaries.

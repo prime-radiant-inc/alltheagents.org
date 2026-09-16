@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_final"
 what_makes_it_special: "\"Educational course repository for 'AI Builders Bootcamp"
+date_added: "2024-10-29"
 ---
 
 The repository contains the example code for a Maven-taught bootcamp that walks learners from deterministic Python automation through classical ML pipelines to foundation-model applications. Sessions pair each concept with working notebooks: email automation and ETL pipelines for the pre-LLM tiers, then paper summarizers, RAG chatbots over blog posts, and fine-tuned models (BERT classifier, LinkedIn post writer) for the LLM tiers, closing with a non-technical AI project-management session. Everything is Jupyter notebooks plus supporting data, with no installable package or runtime. Learners use it alongside the paid course, though the Apache-2.0 license makes the material freely reusable.

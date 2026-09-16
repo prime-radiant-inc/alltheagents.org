@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Cross-repo agent-to-agent delegation via a single orchestrator that reaches into multiple repos and coordinates a delegation tree — unlike single-repo agent harnesses. Local-first, all state in ~/.relay/, no cloud/telemetry. Three dashboards (CLI, TUI, GUI) sharing one source of truth. MCP server exposes 19 tools. Classifier → planner → decomposer pipeline with user approval for complex tiers."
+date_added: "2026-03-30"
 ---
 
 Relay addresses the problem that coding agents operate inside one checkout at a time, while real work spans several repositories — a schema change in one repo breaks consumers in three others. A user hands the orchestrator a sentence, GitHub issue, or Linear ticket; it classifies complexity, produces a plan, decomposes it into a dependency DAG of tickets, and dispatches agents that verify their work and open PRs. State lives entirely in ~/.relay as atomic file writes, so there is no server and no telemetry, and sessions approaching context limits emit handoff briefs for their successors. It suits maintainers who already live in Claude Code or Codex CLI and want delegation across repos without adopting a hosted coordination service.

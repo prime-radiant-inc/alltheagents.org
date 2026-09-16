@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "bing_ddg_chinese"
 what_makes_it_special: "BYOK AI coding agent delivered as IDE extensions (VS Code, JetBrains) with Agent and Planning modes plus MCP for linking external APIs/docs/databases; model-agnostic using your own API keys for full data control."
+date_added: "2026-08-19"
 ---
 
 CodeGPT, built by Judini Inc., integrates into VS Code and JetBrains IDEs as an AI coding assistant organized around the user's own API keys. Its agent mode studies the codebase, proposes a plan for review, and then applies changes step by step with visibility before each modification, while a Rules feature encodes team coding standards and live context tracking shows what the model can see. The product is model-agnostic: users attach keys for Anthropic, OpenAI, Google, or other providers and swap models freely, with no usage metering by the vendor. Distribution is through the VS Code and JetBrains marketplaces, MCP connections link agents to external APIs, documentation sites, and databases, and the business also sells enterprise AI-transformation services under an AI-First Services banner.

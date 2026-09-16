@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Turns tmux into a local control plane for multi-agent software development; graph-aware work triage, Agent Mail coordination, file reservations, worktrees, safety policy with two-person approval workflows, durable checkpoints/timelines/audit trails, robot-mode CLI surfaces, and REST/SSE/WebSocket/OpenAPI APIs in one Go binary"
+date_added: "2025-12-10"
 ---
 
 ntm turns a local tmux setup into a control plane for running many coding agents across a codebase, launching labeled panes for Claude Code, Codex, Antigravity, Grok Build, and Gemini CLI. Work is assigned through graph-aware triage backed by the Beads issue system, with dependency-aware auto-assignment rather than broadcast prompting. Coordination primitives include Agent Mail messaging, file reservations to prevent conflicting edits, and git worktree isolation per agent. Safety is structural: policy rules gate destructive commands, with approval workflows and audit logs, and durable state supports checkpointing and pipeline resume. Automation surfaces include robot-mode CLI flags and a local REST/WebSocket API, and the project is maintained largely by the author's own agents.

@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "AI-powered creative token naming and automatic tokenomics generation using Gaia's AI Agent. Deploys secure ERC20 contracts with built-in anti-whale protections (max transaction limits, max wallet limits, CEX/DEX exclusions). Full deployment record saved to JSON. Built for Base Sepolia testnet. Only 3 commits — hackathon/proof-of-concept project."
+date_added: "2024-11-24"
 ---
 
 The tool automates the mechanical parts of launching a testnet meme token: a Gaia-hosted Llama 3B node proposes the branding and supply limits, and a fixed contract template with max-transaction, max-wallet, and exchange-exclusion guards is compiled and deployed to Base Sepolia. Configuration flows through environment variables for the Gaia endpoint, model, RPC node, and deployer key, and the full deployment record lands in a JSON file. Three commits, no releases, and a testnet-only disclaimer mark it as a November 2024 hackathon proof of concept demonstrating Gaia node integration rather than a maintained product.

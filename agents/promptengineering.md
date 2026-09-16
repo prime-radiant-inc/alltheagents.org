@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "NOTE: Not a coding agent harness. Personal collection of engineered Generative AI prompts. Minimal activity (2 commits, 1 star)."
+date_added: "2023-11-15"
 ---
 
 This repository is a personal collection of generative AI prompts that its author engineered for various tasks, with no harness, framework, or executable code attached. The README describes it simply as prompts the author engineered, organized in a single folder, and nothing in the repo suggests tooling beyond that. Activity consists of two commits in November 2023, with one star and no community engagement since. It is catalogued here as an example of the prompt-library category that the census explicitly distinguishes from agent harnesses.

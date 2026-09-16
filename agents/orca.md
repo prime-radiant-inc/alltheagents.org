@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "author_search"
 what_makes_it_special: "An AI Orchestrator / Agent IDE that runs multiple AI coding agents in parallel each in its own isolated git worktree, with a mobile companion app, Design Mode for clicking UI elements into prompts, and SSH worktrees for remote execution."
+date_added: "2026-03-17"
 ---
 
 Running several coding agents against one repository means juggling terminal tabs, merge conflicts, and no shared view of who is doing what. Orca, an Electron desktop app from YC-backed Stably AI, runs Claude Code, Codex, OpenCode, Pi, and 30-plus other CLI agents side by side, each in an isolated git worktree, and can fan a single prompt across all of them to compare and merge the best result. A Design Mode feeds clicked UI elements into agent prompts, mobile companion apps (iOS App Store and Android APK) extend control beyond the desk, and the terminal layer uses Ghostty-class WebGL rendering with SSH worktree support. GitHub and Linear integrations plus usage/account tracking round out the workflow, and signed builds ship via SignPath with headless orca serve for Linux servers. MIT-licensed with 56k stars and daily releases, it targets developers running agent fleets rather than a single session.

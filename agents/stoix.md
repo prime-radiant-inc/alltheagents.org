@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "NOTE: This is a distributed single-agent reinforcement learning library in JAX (not an AI coding agent harness). Fully end-to-end JAX compilation (jit + pmap for multi-device distribution); two system paradigms (Anakin for pure JAX, Sebulba for non-JAX environments); Hydra config system; statistically robust evaluation with RLiable plots"
+date_added: "2024-02-16"
 ---
 
 Stoix provides research-grade baselines for distributed single-agent reinforcement learning, compiled end-to-end in JAX so experiments run with jit/pmap across devices rather than through Python loops. It ships two architectures — Anakin for fully compiled JAX environments and Sebulba for separate acting and learning devices with non-JAX environments such as Envpool and Gymnasium — plus Hydra configuration, Optuna sweeps, logging to TensorBoard/WandB/Neptune in RLiable-compatible form, and a SLURM launcher. Algorithm implementations (DQN variants, PPO, SAC, TD3, IMPALA, AlphaZero, MuZero-style) are deliberately hackable single files descended from CleanRL, PureJaxRL, and InstaDeep's Mava. It appears in this census only as a name collision from the sweep; nothing in it builds or modifies software.

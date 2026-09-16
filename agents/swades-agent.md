@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Autonomous AI software engineering agent ReAct loop in IntelliJ terminal"
+date_added: "2026-07-24"
 ---
 
 Swades Agent brings a ReAct-pattern coding agent — interleaved reasoning and tool calls — into the IntelliJ built-in terminal, where it reads the codebase, edits files, runs shell commands, and searches code iteratively until a plain-text task is complete. The plugin is a thin wrapper: the agent itself is an open-source JavaScript project under the Xerv organization, and the plugin simply hosts the loop inside the IDE terminal, which keeps the tool surface ordinary shell commands and file operations. It is distributed free on the JetBrains Marketplace under an MIT license. Adoption is minimal so far (single-digit installs, one-star repo activity as of mid-2026), so it is best read as an early autonomous-agent experiment for JetBrains users rather than an established tool.

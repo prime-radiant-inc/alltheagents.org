@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "All-in-one coding agent orchestrating top-tier AI models; high SWE-bench Verified score"
+date_added: "2026-07-03"
 ---
 
 Verdent exists to bring autonomous task execution into IntelliJ-family IDEs for professional developers who need more than autocomplete: given a task, it analyzes the codebase, produces a structured plan for review, and then executes multi-step workflows with approval gates on every consequential action. A subagent architecture handles exploration, verification, and code review separately from the primary agent, and scoped checkpoints make every change reviewable — Review Changes diffs show exactly what a turn altered, with rollback available; bash approval dialogs guard dangerous commands, and temp-directory writes are handled carefully to avoid spurious prompts. Codebase context is gathered locally with bundled ripgrep and fd, so code does not leave the machine without explicit action. Professional developers in IntelliJ-family IDEs use it for refactoring, debugging, test generation, and documentation; it is distributed through the JetBrains Marketplace, requires a Verdent account, and updates every few weeks.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Turns a phone into a control center for AI coding assistant CLI sessions (Claude/Codex) on a computer, structuring high-frequency waiting states into actionable mobile workflows (buttons/cards) rather than mirroring a terminal. Supports LAN or encrypted Relay, diff approvals, Plan Mode advancement, and voice pre-communication."
+date_added: "2026-03-19"
 ---
 
 Agentic CLI sessions spend most of their wall-clock time waiting for a human — to approve a permission, advance a plan, accept a diff — and that waiting usually pins the developer to their desk. MobileVC turns the phone into the approval surface: a Go server wraps local Claude Code or Codex CLI sessions in a PTY with a WebSocket event stream, and a Flutter app renders pending decisions as buttons and diff cards rather than a tiny terminal. Sessions can be started, continued, and restored from history; files, logs, and run state are browsable; and plan-mode advancement plus voice pre-communication let a user brief the agent verbally before handing off. Connectivity runs over LAN with QR-scan token auth or through an encrypted relay whose server never sees plaintext, and an ADB/WebRTC bridge adds Android emulator debugging from the phone. Developers running long unattended agent sessions use it to keep work moving from anywhere.

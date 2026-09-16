@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "100% local observability dashboard for AI coding agents and autonomous agents: tracks token usage, LLM costs, tool calls, session traces, and reasoning steps. Zero-config (auto-detects agent logs), no signup, no SDK, no cloud - unlike Langfuse/LangSmith/Helicone. Includes a dedicated Hermes Agent autonomous-agent dashboard across 38 source platforms."
+date_added: "2026-04-24"
 ---
 
 tokentelemetry is a local-first observability dashboard for AI coding and autonomous agents, built on the observation that most agents already write detailed JSONL logs that nobody aggregates. It watches those files directly — Claude Code's session logs, Gemini CLI, Codex, Cursor, Copilot, OpenCode, and more — parsing token counts, tool calls, session traces, and reasoning steps without any SDK, instrumentation, or account, then renders dashboards for usage, per-project costs with provider-aware pricing, budgets, and traces; a dedicated Hermes Agent view covers that autonomous agent's 38 source platforms, skills, memory, and subagents. The stack is FastAPI plus Next.js, state lives in plain JSON under ~/.tokentelemetry, and everything binds to localhost with optional token-authed remote access; the only outbound calls are an update check and opt-in, content-free telemetry. It is MIT-licensed, installable via a curl script, and positioned against cloud APM tools like Langfuse and LangSmith for developers who want cost and behavior visibility without sending data anywhere.

@@ -31,6 +31,7 @@ maintained: "dead"
 sources:
   - "github_topic3"
 what_makes_it_special: "Not a coding agent harness — a curated, auto-updated list of Summer 2024 SWE internships. Part of the Carbos platform. Archived by owner Oct 2023."
+date_added: "2023-05-29"
 ---
 
 The repository automated a seasonal chore: scripts aggregated Summer 2024 software engineering internship postings and republished them as an auto-updated list, with the Carbos jobs site as the companion front end. It accumulated 1,300+ stars during the 2023-2024 application season, then the owner archived it in October 2023 once the cycle ended, freezing the data. Nothing in the repository generates, edits, or executes software, and it matched the census sweep only through keyword collision. It survives as a historical snapshot of the 2023-2024 internship market rather than a tool of any kind.

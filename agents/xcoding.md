@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Lightweight AI vibe-coding IDE supporting parallel multi-agent collaboration (Codex/Claude Code) and parallel multi-project development with VS Code-like editor, terminal, and preview in one window."
+date_added: "2026-01-05"
 ---
 
 XCoding is a lightweight vibe-coding IDE built for running several AI agents and several projects at once: one window hosts a VS Code-like editor, terminal, and app preview alongside agent collaboration from Codex and Claude Code, with projects switchable via Cmd/Ctrl+1-8. AI assistance can be invoked at any point, with changes applied or rolled back in one step, and task-driven workflows manage code changes across the session. The core is deliberately opinionated: no plugin marketplace, with built-ins covering the main path to keep the app light and fast. The codebase is TypeScript (Vite, tsup, Tailwind, pnpm) under MIT, distributed in English and Simplified Chinese. It is very early stage, with 18 commits and no published releases.

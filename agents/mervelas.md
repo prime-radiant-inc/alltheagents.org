@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "github_deep"
 what_makes_it_special: "Independent open-source AI coding CLI built for freedom and zero telemetry, local-first, built with Bun and rendered via a custom React Ink abstraction; supports custom local coding agents and MCP integration."
+date_added: "2026-04-02"
 ---
 
 Mervelas exists for developers who reject the telemetry and lock-in of mainstream assistants: it stores session history only in ~/.mervelas/projects/ as JSONL, ships with no analytics, and lets the user point it at OpenAI, OpenRouter, NVIDIA NIM, Qwen, DeepSeek, or locally hosted endpoints. The interface is a terminal UI rendered through a custom React Ink abstraction built on Bun, with commands for configuration, context inspection, agent switching, and MCP server attachment. Custom agents are defined and switched through /agents, letting one binary wrap different local coding agents under a single interface. Distribution is deliberately absent from npm: the README requires cloning, building with Bun, and running the bundle directly, and the repository holds exactly five commits with no releases. Its audience is developers who want provider sovereignty and zero telemetry and are comfortable building a CLI from source; the project is experimental and its trajectory depends on a single maintainer.

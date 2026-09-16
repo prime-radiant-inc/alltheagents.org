@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "It is a TypeScript-native agent framework from the Gatsby creators: graph-based workflows with durable human-in-the-loop suspend/resume, Observational Memory, a Harness subsystem (workspace, shell tools, task tracking) for building coding agents, and MCP support in both directions - exposing Mastra agents as MCP servers and consuming external MCP servers."
+date_added: "2024-08-06"
 ---
 
 Mastra gives TypeScript teams the primitives usually associated with Python agent frameworks: agents with tool calling and stopping conditions, workflows composed with .then()/.branch()/.parallel() that can suspend for human approval and resume with durable state, and memory that spans conversation history and retrieval. Model routing abstracts 40+ providers behind one interface, Mastra Studio provides a local UI for inspecting and testing agents, and evals integrate with deployment. A dedicated Harness subsystem packages workspace, shell tools, memory, and task tracking for building coding agents, and Mastracode skills integrate with Claude Code and Cursor. YC-backed and very actively maintained (27k+ stars), it targets product engineers embedding agents in applications.

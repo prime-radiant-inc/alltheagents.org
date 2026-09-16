@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Adds a Claude Subscription agent to JetBrains AI chat"
+date_added: "2026-07-26"
 ---
 
 JetBrains ships a bundled Claude agent, but it launches with --hide-claude-auth, which removes subscription login and rejects claude.ai credentials, pushing users toward API keys or JetBrains AI credits. This plugin packages the same official ACP adapter without that flag, so the standard claude.ai subscription login works directly in the IDE's AI chat with no configuration files or wrapper scripts. It targets developers who already pay for Claude Pro/Max and organizations that restrict API token creation. It is MIT-licensed, free, unmodified official-tooling under the hood, and published on the JetBrains Marketplace by Vanssa in July 2026.

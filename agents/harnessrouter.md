@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "The reference implementation of the Unified Harness Protocol (UHP), an open standard: it runs multiple agent harnesses through one OpenAI Responses-compatible API with sessions, streaming, cancellation, idempotency, and failure handling, so any harness is callable uniformly. Bring your own keys, no account, no cloud, no telemetry."
+date_added: "2026-08-09"
 ---
 
 HarnessRouter Community Edition is the self-hosted Apache-2.0 sibling of the hosted HarnessRouter Cloud, and its purpose is to make every agent CLI look identical to callers. The Docker container installs Codex, Claude Code, Hermes, Pi, DeepSeek Harness, and OpenCode on first run (each under its own upstream license — the CLIs are not redistributed), then exposes them through a single OpenAI Responses-compatible API at /v1/responses with harness CRUD, sessions, streaming, cancellation, idempotency, and failure handling, plus a thin web console over the same API. The project is also the reference implementation of the Unified Harness Protocol, an open standard (spec version 2026-08-11) that this repo passes at conformance class Full. Sessions run as real POSIX workspaces with bash and git, isolated per session, with state in SQLite on a Docker volume; it is built for teams that want to script or productize multiple harnesses behind one gateway on their own infrastructure.

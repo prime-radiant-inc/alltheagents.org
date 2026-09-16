@@ -31,6 +31,7 @@ maintained: "dead"
 sources:
   - "e2b"
 what_makes_it_special: "Text-to-SQL via Agentic Retrieval; user-aware permissions at every layer including row-level SQL security filtering per user; pre-built framework-agnostic <vanna-chat> web component with streaming rich UI (tables, charts, summaries); enterprise features (audit logs, rate limiting, lifecycle hooks)."
+date_added: "2026-08-19"
 ---
 
 Vanna exists because text-to-SQL fails in production when the model guesses: schemas are idiosyncratic, business terms are ambiguous, and permissions vary per user. Vanna's mechanism is a training corpus — DDL, documentation, and past validated queries — retrieved at question time so generated SQL reflects the organization's actual conventions, with each answered question feeding back into the store. The MIT-licensed Python framework (pip install vanna) works with any LLM (OpenAI, Anthropic, Gemini, Ollama, and others) and any major database, while the hosted cloud tier adds access control, observability, agent memory, and audit logging. Data teams and product builders embed it for natural-language analytics, and enterprise deployments use its per-user row-level security filtering; self-hosting is free, with paid cloud and enterprise tiers.

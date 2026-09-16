@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "github_deep"
 what_makes_it_special: "Shell script installer that sets up Cursor AI Code Editor as a desktop application on any Linux distribution (creates .desktop file, configures automatic updates via systemd). Deprecated: Cursor now ships an official .deb package; the repo is kept for historical/educational purposes."
+date_added: "2023-12-11"
 ---
 
 InstallCursorEditorLinux existed because Cursor initially shipped only as an AppImage with no Linux packaging. The script downloaded the AppImage, installed it under /opt/cursor, generated a .desktop entry, and wired a systemd unit for automatic updates across Debian, Arch, Fedora, OpenSUSE, Gentoo, and Solus. Once Cursor shipped an official .deb, the README added a deprecation notice directing users to cursor.com. The 160-star repo survives as an educational example of packaging AppImage software for multiple distributions.

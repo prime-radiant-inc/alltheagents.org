@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Multi-agent LLM-based RTL (Verilog) code generator; automates register transfer level code generation using multi-agent approach; runs against verilog_eval_v1/v2 benchmarks; arxiv paper available"
+date_added: "2024-11-22"
 ---
 
 MAGE brings the agentic generate-and-verify pattern to hardware description, where correctness is checked by simulation rather than unit tests. Orchestration code drives LLM agents (demonstrated with Claude and GPT-4o) through configurable runs against NVIDIA's verilog-eval benchmark, selecting instances by regex and scoring candidates through iverilog simulation, Verilator linting, and Pyverilog parsing, with optional golden testbenches. A companion notebook generates testbenches for new problems. The project accompanies a DAC-track paper and serves hardware-design researchers evaluating LLM code generation for Verilog; it is a research artifact with academic-repo-level activity rather than a production tool.

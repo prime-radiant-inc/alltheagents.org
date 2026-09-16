@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Lightweight bridge exposing the Codex app-server as a browser-accessible web UI; runs on Android via Termux; one-command launch (npx codexapp); Telegram bot bridge; voice dictation; project ZIP export/import with chat rewriting."
+date_added: "2026-02-21"
 ---
 
 Codex-mobile addresses a practical constraint: Codex's desktop experience runs on one machine, but operators often want to check on or steer sessions from a phone or another computer. The tool runs a local Express and Vue server that bridges HTTP and WebSocket traffic to the Codex app-server over RPC, making the Codex interface available in any browser on the network or, through an optional built-in Cloudflare tunnel, from anywhere with a QR-code pairing flow and password protection. Beyond remote access it adds voice dictation, a Telegram bot bridge for allowlisted users to interact with a mapped Codex thread, and project portability through ZIP export and import that rewrites chat history for a destination CODEX_HOME, project path, and provider. It runs on Linux, Windows, and Android via Termux, launched with npx codexapp, and is developed openly on GitHub.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "AI customer service platform for ecommerce brands on WhatsApp, Instagram, and Web Chat; resolves up to 95% of inquiries automatically with a unified inbox for live agent takeover, marketing campaigns, and analytics; not a coding agent harness"
+date_added: "2026-08-19"
 ---
 
 This census entry refers to meetcosmo.ai, a customer-service AI platform for online stores, which has no relationship to coding agents beyond sharing a generic first name. Its AI agent answers order-status questions, searches products with checkout links, and escalates complex conversations to humans through a unified inbox with intelligent routing across WhatsApp, Instagram, and web chat. Marketing tooling covers WhatsApp broadcast campaigns, abandoned-cart recovery, and Instagram comment automation, with an optional Commerce add-on adding Shopify integration and in-chat checkout. Pricing is per-contact monthly tiers starting at $19, and the vendor positions itself against Gorgias and Chatbase. Ecommerce support teams are its actual users; the entry stands in the census as a category mismatch.

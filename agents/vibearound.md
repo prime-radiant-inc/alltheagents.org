@@ -34,6 +34,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "All-in-one hub that launches multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI, Pi, OpenCode, etc.) from a single UI with an API bridge that translates between incompatible provider protocols (OpenAI Responses, Chat Completions, Anthropic Messages, Gemini Generate Content). Enables session continuity across desktop/CLI/web/mobile/IM channels (Feishu, Discord, Slack, Telegram)."
+date_added: "2026-02-23"
 ---
 
 VibeAround exists because the agent ecosystem fragmented: every CLI has its own config format and protocol, subscriptions overlap, and a session is trapped on the device where it started. The hub launches Claude Code, Codex, Gemini CLI, Pi, OpenCode, and desktop variants from one desktop/CLI/web surface with per-agent profiles, workspaces, and terminals, without modifying the agents' own configs. Its standalone API bridge translates between OpenAI Responses, Chat Completions, Anthropic Messages, and Gemini shapes — with model aliases, provider presets, and a live request recorder — and can expose local agents as OpenAI/Anthropic-compatible endpoints. Sessions continue across devices and IM channels (Feishu/Lark, Discord, Slack, Telegram, WeChat) via /pickup handover, with host-side web search injected when a provider lacks it. Individual developers running several agents — largely a single active maintainer's project — use it to keep subscriptions and sessions unified; it is MIT-licensed and local-first.

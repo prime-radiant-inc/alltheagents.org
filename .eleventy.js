@@ -113,6 +113,11 @@ module.exports = function(eleventyConfig) {
     return [...arr].sort((a, b) => (b.data.first_released || "").localeCompare(a.data.first_released || ""));
   });
 
+  // Filter: sort by catalog-addition date, newest first (for /updates/)
+  eleventyConfig.addFilter("sortByAdded", function(arr) {
+    return [...arr].sort((a, b) => (b.data.date_added || "").localeCompare(a.data.date_added || ""));
+  });
+
   // Filter: group by
   eleventyConfig.addFilter("groupBy", function(arr, key) {
     const groups = {};

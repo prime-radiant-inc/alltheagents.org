@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "Memory and learning extension for the Pi coding agent (ported from Hermes by Nous Research): persistent two-tier (global + per-project) memory, failure learning, correction detection, procedural skills saved as SKILL.md files, secret scanning to block API keys, and auto-consolidation. Hybrid Markdown + SQLite FTS5 storage."
+date_added: "2026-04-23"
 ---
 
 pi-hermes-memory addresses the core complaint about coding agents — that each session starts ignorant of everything learned before. Ported from Nous Research's Hermes agent, it maintains a two-tier memory of global preferences and per-project knowledge as Markdown files, mirrors them into a SQLite FTS5 index, and makes entire past sessions searchable. The system learns from failures and corrections explicitly, categorizing memories by type (failure, correction, insight, preference, convention, tool-quirk), and it saves procedural skills as SKILL.md files with structured verification steps and duplicate detection, exposed through pi's resource-discovery hook. Background review runs every ten turns, session flush happens on compaction or shutdown, and consolidation triggers automatically when stores overflow. Secret scanning blocks API keys from ever entering memory files. Pi users who run long-lived projects adopt it to keep institutional knowledge — conventions, past failures, working procedures — alive across sessions.

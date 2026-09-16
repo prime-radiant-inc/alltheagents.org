@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Turn-based Salesforce agent combining Claude Agent SDK or OpenAI Agents SDK"
+date_added: "2023-09-08"
 ---
 
 Agentforce Vibes is the current form of what began as Einstein for Developers in 2023: a VS Code extension for Salesforce platform development rebuilt in version 4.0 on the Agentforce SDK. Its agent plans before executing (with an approval-gated plan mode), streams agentic chat with inline diff review, and offers three autonomy settings — ask every time, run safe defaults, or bypass — backed by command allowlists, while MCP servers connect it to live org metadata and APIs. Inline completions cover Apex, JavaScript, HTML, CSS, and Lightning Web Components, and rules plus skills live in a .vibes/ directory that teams version-control and share. Roughly 895,000 installs make it one of the most-distributed Salesforce dev tools, and it serves Salesforce platform developers.

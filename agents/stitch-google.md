@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "bing_ddg_chinese"
 what_makes_it_special: "Google Labs experiment that generates UI designs from text prompts or images and can export them as frontend code. Not a coding agent harness."
+date_added: "2026-08-19"
 ---
 
 Stitch, announced at Google I/O 2025, occupies the gap between wireframing tools and code generators: a natural-language prompt or a screenshot produces editable UI designs for web and mobile, refined through follow-up prompts and rendered with Gemini models in a faster Flash mode for iteration. Output can be exported as HTML/CSS for frontend work or pasted into Figma for design handoff, which makes it useful for teams that start in design rather than in an editor. It does not plan tasks, edit repositories, run tools, or iterate on code — implementation happens elsewhere, in an editor or an agent. Its role in this census is as a recurring miscategorized result: design-to-code is adjacent to, but distinct from, a coding agent harness.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "View, manage, chat with, and create Devin AI sessions in the editor"
+date_added: "2025-12-01"
 ---
 
 Devin normally lives in a browser tab, which breaks the loop of reading code while directing the agent. Devin Sessions surfaces the agent inside VS Code and derivatives: the sidebar lists sessions with statuses, PR links, and ACU costs; the chat pane renders history with syntax highlighting and sends new instructions; and credentials ride in the editor's OS keychain. It is an unofficial third-party client built on Cognition's public API v3, not made by Cognition. Developers who delegate work to Devin but review diffs locally use it to keep sessions and context in one window.

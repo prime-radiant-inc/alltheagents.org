@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Gitpod rebranded 2025 into parallel cloud software engineering agents"
+date_added: "2026-08-19"
 ---
 
 Ona runs AI coding agents in cloud environments rather than on developer laptops, delegating tasks that return as reviewed pull requests. Each agent works in a full cloud development environment with the project's tools, network access, and permissions rather than a bare sandbox. Automations trigger agent fleets on pull requests, schedules, or webhooks for repeatable work such as dependency patching, CVE remediation, and framework migrations. The platform is agent-agnostic, standardizing execution of Codex, Claude Code, and other agents under one governance model with kernel-level enforcement and scoped credentials. Enterprise deployment runs in the customer's VPC, and the customer base includes Fortune 500 engineering organizations.

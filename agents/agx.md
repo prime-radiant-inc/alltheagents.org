@@ -34,6 +34,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Local workspace for running AI coding agents across tickets, repos, and PRs. Runs a ticket -> implementation -> PR -> review loop with human-in-the-loop gates at every step. Fully local execution (code never leaves your machine), checkpointed state that survives restarts with constant-cost resumption, unified workspace where tickets/code/PRs/reviews live in one window, and provider-agnostic switching (Claude <-> Codex <-> Gemini <-> Ollama) mid-thread. Integrates with Jira/Linear. Available as local web dashboard, CLI, and macOS desktop app."
+date_added: "2026-02-02"
 ---
 
 Running coding agents ad hoc means state lives in terminal scrollback and review discipline depends on memory. AGX gives every ticket a durable home — objectives, scheduled jobs, chat threads, and terminal sessions under a project, with SQLite (WAL) state that survives restarts — and connects it to Jira or Linear intake. Agents draft implementations in worktree isolation, a reviewer agent does first-pass PR review so humans judge only contested changes, and nothing irreversible proceeds without an explicit approve/reject gate. Agents can be switched mid-thread between Claude, Codex, Gemini, and Ollama, and role-grouped teams route work by tag. The tool ships as a CLI, a Next.js dashboard, and an Electron macOS app, and its own repository documents 167+ merged PRs authored by the agents it manages.

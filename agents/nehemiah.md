@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "On-demand Linux computers you can hand to an AI via real Firecracker microVMs that boot in milliseconds. Each machine is a full Linux desktop (VNC) or headless shell with coding agents preinstalled, driven by an AI that can browse the screen or write/run code. Real hardware-virtualized isolation (a kernel per machine, not a shared container), memory snapshot restoration in ~3ms, machine forking in ~35ms with exact live state, and network-isolated guests behind an egress firewall."
+date_added: "2026-06-30"
 ---
 
 Nehemiah addresses the problem that AI coding agents need isolated, disposable computers with real isolation guarantees rather than shared containers. Machines boot from signed release artifacts provisioned onto enrolled bare-metal hosts, boot in milliseconds from snapshots, and can be forked mid-run or backed by persistent S3 volumes. An agent drives each machine either through computer use over VNC or by writing and running code, with results exposed as live URLs and forwarded ports. Integration happens through an MCP server for desktop clients and an Effect-native TypeScript SDK. Deployment is deliberately not one-command: hosts are enrolled through a signed-artifact runbook on providers such as Latitude.sh, reflecting a self-host with your own keys philosophy.

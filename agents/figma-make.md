@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "AI-powered prompt-to-code prototyping within Figma. Uses design context (Make kits, npm packages, Figma frames, PDFs, attachments). Code-backed and visually editable canvas. Plan mode for structured planning before generation. MCP connectors for external tools. Backend support via Supabase. Publish as live website with dedicated URL. Make kits package design systems into reusable AI context. Copy as design layers converts Make previews into editable Figma Design layers."
+date_added: "2026-08-19"
 ---
 
 Figma built Make to close the gap between design mockups and working software: a prompt produces a code-backed prototype that stays visually editable on the canvas, so designers and engineers iterate on the same artifact instead of throwing work over a wall. Context comes from the design side — Make kits, npm packages, attached Figma frames, PDFs, and media — and MCP connectors pull documents and data from external tools into the build. Plan mode structures intent into an editable plan before generation starts, and point-and-edit, comments, and version history support the iterative polish loop. Product teams at companies like Airbnb, Netflix, and Affirm use it to compress the path from idea to testable feature, with local-codebase support in beta.

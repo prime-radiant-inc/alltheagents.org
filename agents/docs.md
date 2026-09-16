@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Associated link: documentation site for 01, an open-source voice interface platform for intelligent devices (desktop, mobile, ESP32) powered by Open Interpreter; assistants execute code, browse the web, manage files, and control software"
+date_added: "2026-08-19"
 ---
 
 The 01 project packages Open Interpreter as the server-side brain for voice-controlled devices: a Livekit-based server executes code and controls software, while clients — desktop, Android/iOS, ESP32 hardware — stream audio both ways. The docs cover building the companion hardware (01 Light, desktop, ESP32), running the server, and safety considerations for devices that execute code. Coding agents appear only insofar as Open Interpreter is the execution engine; the product's purpose is voice interfaces for devices, in the spirit of the Rabbit R1. Its audience is hardware hobbyists and voice-interface builders, not software teams.

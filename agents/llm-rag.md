@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Retrieval-Augmented Generation (RAG) system using FAISS for vector-based retrieval and GPT for generative responses. Gradio-powered UI for document uploading, searching, and CRUD operations on document chunks. Modular design to support other LLMs (e.g., HuggingFace)."
+date_added: "2024-11-24"
 ---
 
 Built as homework for an Advanced Database course, LLM_RAG demonstrates the standard RAG pipeline end to end: documents are chunked and embedded into a FAISS index, similarity search retrieves context for GPT, and a Gradio interface handles upload, search, and chunk-level CRUD. Both a CLI entry point and a web interface are provided, and the modular design leaves room for swapping in Hugging Face models alongside the default OpenAI backend. It serves as an educational reference for RAG mechanics rather than production software; the project has seen no meaningful activity since early 2025.

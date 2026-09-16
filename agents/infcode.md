@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic5"
 what_makes_it_special: "Adversarial multi-agent Code Agent System using dual-agent adversarial refinement (Test Patch Generator + Code Patch Generator) that iteratively improve; achieved 79.4% on SWE-Bench Verified (SOTA)"
+date_added: "2025-10-29"
 ---
 
 InfCode's thesis is that generation and verification should compete: a Test Patch Generator rewrites tests to expose remaining faults, and a Code Patch Generator must survive them, iterating until either side yields. Candidate patches are generated in parallel inside per-example Docker containers and ranked by a Patch Selector, with tools for file editing, ripgrep search, and bash execution. The system reports 79.4% on SWE-Bench Verified, which the team claims as SOTA at publication. Running it requires Docker for the image builder, Python 3.12, and API keys for OpenAI, OpenRouter, DeepSeek, or self-hosted endpoints. The repo is a small research artifact (17 commits) from Tokfinity's Code Research team and Beihang University.

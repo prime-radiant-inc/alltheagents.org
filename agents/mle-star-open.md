@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Google-free, local-friendly unofficial reimplementation of MLE-STAR. No API keys required for search (DuckDuckGo) and leverages free-tier LLMs via OpenRouter, making multi-agent AutoML experimentation accessible without enterprise infrastructure. Multi-agent pipeline stages: initialization, refinement, ensembling, submission."
+date_added: "2025-08-10"
 ---
 
 MLE-STAR demonstrated that search-and-refine loops make LLM agents competitive at machine-learning engineering, but the reference implementation depended on Google infrastructure. MLE-STAR-Open reimplements the pipeline for constrained setups: an initialization agent produces a first solution for a tabular task, refinement agents target specific components identified through web search (DuckDuckGo, no API key), an ensembling stage merges the best candidates, and a submission stage formats predictions.csv for Kaggle. Runs execute through OpenRouter's OpenAI-compatible API on free-tier models, with automated data-leakage and usage checks guarding the generated pipelines and a minimal low-token runner for cheap iteration. Each task gets a workspace directory holding init, refine, ensemble, predictions, and logs. Kaggle competitors and ML practitioners use it to experiment with agent-driven AutoML on a budget, accepting its constraints — roughly 50 free requests per day, an eight-commit codebase from a single maintainer, and an Ollama adapter still deferred.

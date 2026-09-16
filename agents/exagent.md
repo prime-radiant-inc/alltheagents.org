@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "Local desktop-first agent workbench with a Rust runtime and Tauri/React GUI; durable sessions, approval-gated tools, subagents, goal tracking, project memory, MCP tools, workflows, and live runtime inspection."
+date_added: "2026-06-16"
 ---
 
 ExAgent is built for running a personal coding agent entirely on one's own workstation with no hosted component. The Rust runtime normalizes provider APIs into unified conversation, tool-call, and streaming types, configured per-provider in the GUI with API-key or OAuth credentials stored locally; the Tauri/React shell adds projects, durable sessions, and a live inspector over the agent's event stream. Tool use is approval-gated by default, subagents and workflow runs (such as deep search) extend capability, SKILL.md files define reusable procedures, and event replay makes past runs auditable. The project explicitly targets personal use — no production sandbox isolation, hosted collaboration, or public SDK — and remains a single-author, early-stage effort.

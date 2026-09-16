@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Dedicated tool window bringing CLI coding agents into JetBrains"
+date_added: "2026-07-14"
 ---
 
 The plugin removes the alt-tab between IDE and terminal when working with CLI coding agents: each session opens in its own tab of a dedicated tool window, with the agent pre-launched in the project directory. A files-changed panel tracks what the agent modifies in real time with one-click diffs and jump-to-commit, and keyboard handling is tuned so Esc reaches the agent (to interrupt) while double-tap returns to the editor. Sessions are independent and closeable, so several agents can run at once. It is free on the JetBrains Marketplace from vendor Rwcoder, installs from the marketplace, and is under active development with a small user base.

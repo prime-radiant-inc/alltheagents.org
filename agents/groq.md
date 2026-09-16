@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "GroqCloud API endpoints support tool use for programmatic execution of specified operations through requests with explicitly defined operations"
+date_added: "2026-08-19"
 ---
 
 Groq operates an inference cloud built on its custom LPU processor, now paired with NVIDIA GPUs, selling low-latency model serving rather than any agent product of its own. Its API exposes tool-use endpoints so that external coding agents can execute function calls against models hosted on Groq's hardware, which is why the entry appears here: coding agents like Groq Code CLI consume its endpoints rather than Groq itself looping over tools. The company positions its capacity as infrastructure for agent workloads, with the developer console providing keys, usage dashboards, and documentation for tool-use requests. In a census of harnesses, Groq is the upstream gateway layer — closer to model provisioning than to software-building agents.

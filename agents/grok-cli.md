@@ -34,6 +34,7 @@ sources:
   - "brad"
   - "ishandutta"
 what_makes_it_special: "Deeply integrated with Grok API including X (Twitter) live search and web search, built-in computer sub-agent for host desktop automation (macOS), Telegram remote control with voice transcription, media generation (image/video), microVM sandboxing via Shuru, scheduling support, and OpenTUI React-based terminal UI."
+date_added: "2025-07-14"
 ---
 
 grok-cli is a community terminal coding agent built by Superagent on xAI's Grok API, using TypeScript, Bun, and OpenTUI for its interface. Beyond standard file and shell tools, it integrates Grok-specific capabilities: live search over X posts and the web, media generation, and a computer sub-agent that drives macOS applications through accessibility snapshots and scripted actions. Sessions persist and can be driven remotely through a paired Telegram bot, including voice notes transcribed via Grok's speech-to-text API, and a daemon supports scheduled tasks. MCP servers, hooks, AGENTS.md instructions, and an optional microVM sandbox round out the toolset, and a /verify command runs apps in isolation for verification. It targets developers already using Grok models who want those unique data sources and remote-control paths inside their agent loop.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "AI coding agent/workspace with durable governed memory (typed, versioned documents with provenance); four-graph unified store (code + knowledge + memory + docs); live steering during running tasks; three collaboration modes (Auto/Loop/Design); Expert Panel for high-risk decisions; LSP-based AI IDE with 38 language servers"
+date_added: "2026-06-23"
 ---
 
 deepagent-code targets work that spans more than one prompt: long-running tasks where the agent must remember decisions, constraints, and past failures across sessions. It builds on opencode and adds a control plane where project memory is stored as typed, versioned documents with provenance rather than prompt text, and where four graph stores (code symbols, knowledge, memory, documents) feed a shared context assembly with admission gates. During execution, users can steer live goals without aborting in-flight work, and subagents run in isolated worktrees under a generation-fenced lifecycle with review sessions; an Expert Panel mode runs bounded adversarial debate between specialist lenses. It is AGPL-3.0 with a separate enterprise distribution, BYO-model-keys across 75+ providers, and targets teams who need auditable, steerable agent behavior over codebases.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "All-in-one open-source backend platform designed specifically for agentic coding, providing AI coding agents with database, auth, storage, compute, hosting, and an AI gateway through MCP server and CLI+Skills interfaces, enabling agents to operate the backend like backend engineers."
+date_added: "2025-07-29"
 ---
 
 InsForge inverts the usual relationship between coding agents and backends: instead of the agent writing Supabase glue code, the backend exposes itself as MCP tools and CLI skills the agent calls directly — run migrations, deploy edge functions, create buckets, configure auth, fetch logs. Postgres with pgvector, OAuth-ready auth, S3-compatible storage, Deno edge functions, and an OpenAI-compatible model gateway cover the full-stack surface, and self-hosting is one curl script plus Docker Compose, with Railway, Zeabur, and Sealos templates for one-click deploys. Teams building with Claude Code or Codex use it to let the agent operate infrastructure like a backend engineer rather than generating boilerplate against a foreign API.

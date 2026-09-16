@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "The runtime layer that turns an LLM into a working agent — model calls, MCP tools, skills, sandboxing, approvals, context management, and session state — exposed three ways: a bundled chat UI, an HTTP API with a TypeScript SDK, and an embeddable UI SDK. Runs in local single-process mode with SQLite or hosted mode with Postgres and Redis."
+date_added: "2026-07-23"
 ---
 
 TrueForge is TrueFoundry's open-source agent harness: the execution loop behind an agent rather than an agent product itself. It handles model calls across OpenAI, Anthropic, Gemini, and OpenAI-compatible endpoints; remote MCP servers with OAuth; git-backed skills; sandboxing-as-a-tool via Daytona; human approval checkpoints; and context engineering including subagents, deferred tool loading, a Code Mode, and compaction. The same runtime is exposed as a bundled chat UI, an HTTP API with the @truefoundry/trueforge-sdk TypeScript package, and an embeddable @truefoundry/trueforge-ui component, so teams can ship an agent product on top without owning the loop. Local mode runs as a single process with SQLite for development, while hosted mode scales out with Postgres and Redis via Docker Compose or a Helm chart on Kubernetes. Its users are platform teams embedding agents into their own products rather than developers looking for a ready-made coding assistant.

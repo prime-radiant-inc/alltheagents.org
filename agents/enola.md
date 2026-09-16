@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Architectural regression testing tool that indexes a repo into a dependency graph, pins a baseline before a change, and reports deltas with an exit code that can gate builds; deterministic, no AI model/embeddings, fully local; 19 MCP tools and session-grading hooks for coding agents (Claude Code, Cursor, Copilot, Codex, Pi)."
+date_added: "2026-02-10"
 ---
 
 Enola addresses the gap between tests passing and architecture holding: builds and tests stay green while dependency cycles, layer violations, and scope creep accumulate. It parses source with tree-sitter into a typed fact graph across 23+ languages and formats (Go, TypeScript, Java, Python, Rust, Rails, .NET, Terraform, OpenAPI, gRPC), runs explainers that detect structural problems, and grades the change against the pinned baseline — one change, one verdict. The graph is exposed through 19 MCP tools so agents like Claude Code, Cursor, Copilot, and Codex read it before editing, and `enola install --hooks` grades each agent session afterward. Teams adopt it as a pre-commit hook, a CI gate via enola-action, or a plain CLI; everything runs locally with no LLM and no telemetry.

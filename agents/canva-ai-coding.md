@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Could not verify details — the Canva AI coding page returned HTTP 403. Canva is primarily a design platform; AI coding may be a feature within it."
+date_added: "2026-08-19"
 ---
 
 Canva's AI coding features center on Canva Code, a prompt-driven generator that produces interactive widgets and small applications — calculators, quizzes, games, simple sites — as HTML, CSS, and JavaScript inside Canva's editor. It is aimed at Canva's mainstream audience (educators, marketers, small businesses) rather than professional developers, and results refine through the standard visual editor rather than a code-review workflow; usage counts against Canva's AI allowance rather than a developer pricing model. The feature verifies as real and actively marketed, powered by Anthropic's Claude per Canva's announcements. Direct verification of canva.com pages was not possible during enrichment — canva.com returned HTTP 403 to automated fetches — so details here rest on Canva's own help documentation and secondary sources. Within this census it sits at the boundary of the definition: it generates code artifacts, but inside a design platform rather than an engineering harness.

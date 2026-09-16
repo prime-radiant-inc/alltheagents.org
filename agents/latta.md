@@ -31,6 +31,7 @@ maintained: null
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI bug-fixing agent from runtime error snapshots (Czechia)"
+date_added: "2026-08-19"
 ---
 
 Latta attacks the gap between an error occurring in production and a developer reproducing it locally: the service captures runtime error snapshots and feeds them to an agent that locates the responsible code and proposes fixes. The product is operated from Czechia and markets itself as an automatic bug-fixing agent for web applications. Its site was only reachable through an antibot challenge during census research, which limited verification of current feature details, pricing, and maintenance state; the domain remains live, so the entry is treated as active but under-documented.

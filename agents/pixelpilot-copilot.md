@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI agent for FiveM/GTA5 development writing production Lua and auto-fixing errors"
+date_added: "2026-08-20"
 ---
 
 PixelPilot Copilot targets the FiveM and GTA5 modding ecosystem, where general coding assistants fail because the Lua frameworks (ESX, QBCore, ox_lib) and FXServer runtime have conventions mainstream models rarely know. The extension generates production Lua, generates NUI/HTML interfaces, launches the game server with one click, and reads console output continuously to fix errors until the server comes up clean — closing the edit-run-fail loop specific to game-server scripting. Inline autocomplete and stub protection guard against invented APIs, and 500+ models (Claude, GPT, Gemini, DeepSeek, Grok) sit behind one key. The extension is distributed on Open VSX with 8,500+ downloads and releases as recent as August 2026 at version 3.2.22, indicating steady maintenance. Its users are FiveM server developers and scripters rather than general software engineers.

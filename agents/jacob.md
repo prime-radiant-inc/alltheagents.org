@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "Open-source AI coding bot that automates development tasks, transforms Figma designs into deployable code, and integrates into GitHub workflows via webhooks (Issues, PRs, reviews). Learns your coding style to generate project-aligned code. Figma-to-code via dedicated plugin. Customizable via JSON config (jacob.config). Privacy-focused (no codebase storage, no data training). Outperformed 7 top design-to-code tools in their JACoB Arena benchmark. Forked from adamloving/jacob."
+date_added: "2024-09-17"
 ---
 
 JACoB positions itself beyond autocomplete: assign it a GitHub issue or a Figma design and it produces a complete pull request, having mapped the repository to match existing patterns. A Figma plugin hands it design context, and webhooks let it respond to issues, PRs, and reviews without leaving GitHub. Behavior is tuned through a jacob.config JSON file in the repo, and the project emphasized privacy — no codebase storage, no training on user code — alongside a JACoB Arena benchmark where it compared itself against seven design-to-code tools. The site went dark around December 2025 (jacb.ai no longer resolves), so the entry now stands on the archived Apache-2.0 codebase.

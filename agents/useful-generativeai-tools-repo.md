@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Curated collection of GenAI prompts and resources (ChatGPT prompt cheat sheets, HR prompts, GenAI platform overviews, economic impact PDFs, and AI tool lists). Not a code project — contains PDFs, images, and README only."
+date_added: "2023-06-16"
 ---
 
 The entry is a curated GitHub collection of generative-AI prompts and reference material, including ChatGPT cheat sheets and tool overviews. Collections of this kind surfaced many of the entries in this census, but the collection itself runs no models and executes no tool loop, so it is categorized as other. It remains useful as a discovery source rather than as a harness.

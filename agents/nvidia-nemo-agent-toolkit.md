@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Open-source library for connecting and optimizing teams of AI agents across any framework. Supports MCP as both client and server (FastMCP), a public Plugin API, distributed agent teams via Agent-to-Agent (A2A) Protocol with authentication, and runtime telemetry hooks. Enterprise-grade instrumentation, observability, and continuous learning."
+date_added: "2026-08-19"
 ---
 
 NeMo Agent Toolkit connects teams of AI agents to data sources and tools without requiring replatforming onto NVIDIA's stack, wrapping existing frameworks rather than replacing them. Workflows are declared in a YAML file with pre-built agent types (ReAct, ReWOO, reasoning, router, parallel/sequential executors) and run via the nat CLI. Evaluation and profiling are first-class: workflow-level tracing down to individual tools with token and timing attribution, optimizers, and trajectory formats for evaluation runs. A public plugin API covers custom LLM providers, retrievers, evaluators, memory providers, and telemetry exporters, shareable as packages. The A2A protocol support allows distributed agent teams, and observability integrates with LangSmith, Phoenix, Langfuse, and OpenTelemetry.

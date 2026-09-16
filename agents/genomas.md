@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Multi-agent framework for scientific discovery via code-driven gene expression analysis; official implementation of arXiv paper; achieves 60.38% F1 on GenoTEX benchmark; role-specific model assignment (Code Reviewer, Domain Expert, Data Engineer, Statistician, Planning)"
+date_added: "2024-05-13"
 ---
 
 GenoMAS automates gene-expression analysis — the kind of multi-step statistical and bioinformatics work that normally takes a trained analyst — by having LLM agents write and run the analysis code themselves. Its generic framework prescribes typed messaging between role-specialized agents, each of which can plan, write code, execute it, debug failures, and backtrack through a notebook-style workflow, with different models assigned per role from OpenAI, Anthropic, Gemini, Ollama, or Novita. The headline implementation analyzes GEO/TCGA transcriptomic data for gene-trait associations while controlling confounders, and the official implementation reproduces the paper's 60.38% F1 on GenoTEX. Published as the arXiv 2507.21035 artifact from UIUC and UC San Diego, it targets computational biology researchers rather than software developers.

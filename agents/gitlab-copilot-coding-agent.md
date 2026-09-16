@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Bridges GitHub Copilot CLI with GitLab CI/CD for fully autonomous coding workflows. Issue assignment triggers automated implementation with MR creation, MR comments trigger code updates, and MR reviewer assignment triggers intelligent comprehensive code review — all without leaving GitLab. Flask webhook service captures GitLab events."
+date_added: "2025-11-20"
 ---
 
 GitHub's coding agent lives in GitHub's ecosystem, and this project grafts it onto GitLab. A Flask webhook service captures GitLab events — issue assignment, MR comments, reviewer assignment — and triggers CI pipelines in an orchestrator repo, where the Copilot CLI (running in a dedicated Docker image) plans, implements, pushes commits, and opens merge requests, or produces severity-categorized review reports. Setup requires a Copilot subscription with a fine-grained PAT, a dedicated bot GitLab user, and Docker or Kubernetes runners, with CI variables holding the credentials. It is a single-contributor Python project (58 commits, 41 stars) with multilingual docs and video walkthroughs, useful to GitLab shops that want Copilot's agent without leaving their platform.

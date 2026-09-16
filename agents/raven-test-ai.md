@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "AI agent that solves Raven's Progressive Matrices (visual IQ tests), a niche visual reasoning task unlike typical NLP/code agent projects."
+date_added: "2017-08-25"
 ---
 
 Raven-Test-AI is an implementation of the classic AI-course project that solves Raven's Progressive Matrices, the visual pattern-completion test used in intelligence assessment and in Georgia Tech's KBAI curriculum. The code follows the standard structure: an Agent that inspects problem figures and selects answers, data classes for problems and figures, and a grader that scores results into CSV logs. Its focus is analogical visual reasoning over geometric figures — generating candidate transformations and matching them against answer options — rather than natural language or code. The repository is a single commit from 2017 with compiled artifacts committed alongside source, indicating a one-off coursework upload rather than a maintained project. It is catalogued here only as an example of the pre-LLM 'AI agent' projects that predate modern coding harnesses.

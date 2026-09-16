@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Command line tool for common GraphQL development workflows with a modular plugin architecture where each command is a separate package; integrates with GraphQL Code Generator, Graphback, and GraphQL Inspector, and supports schema init from OpenAPI/Swagger endpoints."
+date_added: "2017-07-17"
 ---
 
 graphql-cli is a command-line toolkit from The Guild covering routine GraphQL development workflows: project scaffolding, code generation, schema diffing, coverage analysis, validation, and a local mock server. Its architecture makes each command an independently installable npm package configured through the extensions field of a project's graphql-config file, so teams install only the commands they use and can publish their own plugins against the same interface. Because it reads the standard graphql-config file, its behavior stays consistent between the CLI and editor integrations. The project has been maintained since 2017 with a v4 line that introduced breaking changes from 3.x, and it contains no AI features — its inclusion in an agent census rests solely on its plugin architecture.

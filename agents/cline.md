@@ -40,6 +40,7 @@ sources:
   - "ishandutta"
   - "tiennm"
 what_makes_it_special: "Autonomous coding agent available as SDK, IDE extension, or CLI. Features Plan/Act modes, multi-agent teams with coordinator delegating to specialist agents, kanban-style parallel agent task boards, scheduled agents, messaging integrations (Slack, Telegram, Discord), and headless CI/CD mode."
+date_added: "2024-07-06"
 ---
 
 Cline's design premise is that autonomy must remain inspectable: every edit appears as a diff, every command can require approval, and checkpoints allow undo, which separates it from fire-and-forget agents. Plan/Act separation lets users review strategy before execution, and the same core powers an IDE extension, a headless CLI for pipelines, and an SDK for building custom agents, all reading the same .clinerules. Multi-agent teams coordinate through a coordinator that delegates to specialists with their own tools, and scheduled agents run recurring jobs like dependency checks. Apache-2.0 and model-agnostic across all major providers plus local runtimes, it is one of the most widely adopted open-source agents in this census.

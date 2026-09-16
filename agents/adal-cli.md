@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Terminal-native and review-first: all tool calls, edits, diffs, and plans stay visible before you sign off; model freedom across many providers from a command palette; CLI to IDE handoff (open same session in AdaL's agentic IDE); self-evolving skills ecosystem with community-contributable markdown skills that install in one command; BYOAK (bring your own API key). Created by SylphAI, named after Ada Lovelace."
+date_added: "2025-11-26"
 ---
 
 AdaL CLI (SylphAI, named after Ada Lovelace) is a terminal coding agent built for developers who want to see and approve everything the agent does: tool calls, file edits, diffs, and plans all render in the terminal before execution is signed off. Sessions persist and resume, models switch mid-session across Claude, GPT, Gemini, GLM, Kimi, DeepSeek, MiniMax, and local models, and a session can be handed off to the companion AdaL IDE for graphical work. A headless/cron mode supports scheduled unattended runs, and the skills ecosystem accepts community-contributed markdown skills. Pricing follows model usage with a BYOAK option for people who supply their own API keys.

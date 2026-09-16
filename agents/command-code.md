@@ -33,6 +33,7 @@ sources:
   - "jqueryscript"
   - "brad"
 what_makes_it_special: "Meta neuro-symbolic AI model called taste-1 that continuously learns your coding preferences and style from interactions; learned taste profile is portable and can be shared with your team using npx taste push/pull."
+date_added: "2017-12-20"
 ---
 
 Coding agents apply generic conventions, so teams keep re-explaining their own style in rules files that drift out of date. Command Code treats those preferences as a learning problem: its taste-1 model observes accepted, rejected, and edited outputs, maintains a per-developer taste profile, and uses it to shape future generations. The profile is portable - developers push it to a registry and teammates pull it, so a new engineer inherits the team's taste without reading a rules document. Day to day it runs as a terminal agent with slash commands, bash mode, and file-path completion, capable of shipping full-stack projects, fixing bugs, writing tests, and refactoring. Solo developers use a free tier; paid plans bundle access to Anthropic, OpenAI, Google, DeepSeek, Kimi, and GLM models.

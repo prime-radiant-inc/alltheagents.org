@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Safety-first code-agent CLI: spoof-resistant approval previews (Unicode neutralization), folder-trust boundary (fail-closed), deterministic offline command policy (denies destructive git, credential access, path escape, device overwrite). Durable JSONL sessions with resume/compact/undo-redo. Headless-first JSON event stream for CI. Run summaries, scorecards, spend budgets. Self-developing via evidence-bound autonomous governance queue."
+date_added: "2026-07-13"
 ---
 
 oh-my-cli is a coding agent CLI built around the premise that safety guarantees must be structural rather than advisory. Approval previews are hardened against Unicode spoofing, untrusted workspaces fail closed on mutations, and a deterministic command policy denies destructive operations even in yolo mode. Sessions are durable JSONL records that can be resumed, compacted, and undone turn-by-turn with file-level checkpoints. Headless runs emit a versioned JSON event stream with spend budgets, tool-call caps, and signed evidence archives for audit. MCP servers are declared as versioned contracts resolved read-only, and leased git worktrees give each mutating agent an isolated workspace with idempotent lease semantics.

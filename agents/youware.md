@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Vibe-coding web app/site builder from Chinese team"
+date_added: "2026-08-19"
 ---
 
 Youware is a vibe-coding platform where chat prompts produce websites, apps, dashboards, games, and internal tools such as CRMs and inventory trackers, claiming over a million creators. Beyond site generation it covers dashboard generation from KPI descriptions, clickable prototypes from user stories, Figma-to-website conversion, and automatic error fixing with built-in testing. A built-in AI API removes key setup, databases are created automatically, and mobile apps add a voice-to-project agent, with credit refunds (Credit Care) on failed generations and a Rewind feature. The web platform requires no installation, with iOS and Android apps also available, and the service is actively maintained with a 2.0 roadmap extending into decks, spreadsheets, and research. Its audience is non-professional creators and small teams building sites, dashboards, and internal tools.

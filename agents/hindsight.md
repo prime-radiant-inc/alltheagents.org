@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "author_search"
 what_makes_it_special: "Agent memory system using biomimetic data structures (world facts, experiences, observations, mental models) to make agents genuinely learn over time rather than just recall conversation history. Achieves state-of-the-art on LongMemEval with a 2-line LLM wrapper for persistent memory."
+date_added: "2025-10-30"
 ---
 
 Hindsight is a memory service that lets AI agents accumulate durable knowledge instead of treating every session as isolated. It stores memories as world facts, experiences, evidence-backed observations, and auto-refreshing mental models organized into isolated memory banks, exposing three operations: retain (extracting canonical facts from interactions), recall (fusing semantic, BM25, graph, and temporal retrieval with reranking), and reflect (reasoning across memories to derive new connections). Every deployment exposes the same operations over REST, SDKs, an MCP endpoint for coding agents like Claude Code, and LLM wrapper functions, so existing agents pick it up without architectural change. Memory consolidation is evidence-based — observations carry quotes and proof counts and are refined rather than overwritten — and LongMemEval results have been reproduced by third parties. It is used as shared memory across coding agents, with per-repo memory built from git history, and runs self-hosted (PostgreSQL/pgvector) or as a managed cloud.

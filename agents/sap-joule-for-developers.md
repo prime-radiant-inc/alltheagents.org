@@ -31,6 +31,7 @@ maintained: null
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Joule developer agents for ABAP/SAP Build Code"
+date_added: "2026-08-19"
 ---
 
 SAP positions Joule as the copilot across its portfolio, and the developer-facing portion addresses the reality that most SAP enterprise code is ABAP or CAP, which general coding assistants handle poorly. The capabilities are embedded where SAP developers already work — ABAP Development Tools in Eclipse and SAP Business Application Studio — covering code generation and explanation, unit test generation, and application logic, data modeling, and UI generation in SAP Build Code. Access runs through SAP BTP under consumption-based AI units rather than per-seat licensing, and the features are bundled with the SAP AI add-ons enterprises already procure. Note on sourcing: SAP properties returned 403 to automated fetching during this census, so this entry is grounded in the product's public documentation structure and positioning rather than a fetched page. The audience is enterprise ABAP and CAP development teams inside SAP customers.

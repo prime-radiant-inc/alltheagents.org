@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "A Kanban board where every card is a live AI coding agent — each task gets its own git worktree, terminal, and branch, enabling dozens of parallel agents to work simultaneously without file conflicts. Built for solo developers managing fleets of AI agents, explicitly not an IDE. Built on Bun, React 19, Tailwind, Electrobun. Agents integrate through MCP. Includes bug hunters (parallel read-only review agents) and sibling task variants."
+date_added: "2026-02-18"
 ---
 
 Running a fleet of coding agents by hand means juggling terminals, branches, and merge conflicts, and existing IDEs assume one human driver. dev-3.0 replaces that with a board: writing a card provisions a git worktree, tmux session, per-project setup script, and reserved ports, then launches the chosen agent CLI inside it. Heavy directories are copy-on-write cloned so a dozen parallel sandboxes stay cheap, and card states (agent working, has questions, ready for review) surface what needs attention without opening a terminal. Review happens on the board through a diff panel with inline comments before merging. It is used by solo developers and small teams running several agents in parallel — a one-person studio.

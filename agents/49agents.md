@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "The first 2D agentic IDE: an infinite zoomable canvas where terminals, agents, files, git graphs, and issue tables are panes you place anywhere, running real tmux sessions via ttyd, with broadcast input typing into many terminals at once and multi-machine agents connecting over WebSocket through a relay with no SSH."
+date_added: "2026-02-27"
 ---
 
 49Agents bills itself as the first 2D agentic IDE — all agents, all terminals, all projects, all machines, one unified space. Instead of tabs and splits, panes live on an infinite zoomable canvas you arrange freely with the layout persisting: real tmux sessions served through ttyd run Claude Code, Codex, and other agent CLIs in their native form, alongside a Monaco editor, git graphs, Beads interactive issue tables, and markdown notes. Broadcast input types once into many terminals simultaneously, which is the key move for steering a fleet of agents, and agents on different machines — MacBook, PC, cloud VMs — all connect through a WebSocket relay with a HUD showing CPU, RAM, and API usage across machines, reachable from phone, tablet, or laptop via Tailscale, LAN, or the hosted relay with no terminal data stored server-side. It ships as a self-hosted Node/TypeScript web stack, a macOS desktop app, or an upcoming hosted version at 49agents.com.

@@ -34,6 +34,7 @@ pricing: "free"
 stars: "1042"
 sources:
   - "github-issue"
+date_added: "2026-02-13"
 last_verified: "2026-09-16"
 what_makes_it_special: "A lightweight Rust TUI coding agent built for context-token efficiency — index skeletons, code_execution sandbox, tool_search and model-tier subagents keep cost and tokens low while staying fast at 60 FPS."
 ---

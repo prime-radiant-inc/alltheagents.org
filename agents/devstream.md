@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Was described as an AI-powered web development agent for prompting, running, editing, and deploying full-stack applications. GitHub repo (RaheesAhmed/devstream) is deleted."
+date_added: "2026-08-19"
 ---
 
 Devstream appeared in the 2024-2025 wave of prompt-to-full-stack agents: describe an application, and the agent would generate the code, run it locally, accept iterative edits, and deploy the result. Its implementation lived in a personal GitHub repository that has since been deleted, and no fork, release archive, or documentation copy surfaced during research, so nothing about its architecture can be verified today. The census retains the entry to document that the project existed and is gone.

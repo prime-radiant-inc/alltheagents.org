@@ -31,6 +31,7 @@ maintained: "dead"
 sources:
   - "brad"
 what_makes_it_special: "Orchestrate parallel AI agents in isolated git worktrees with shared tmux visibility. Could not verify detailed fields — the GitHub repo (laris-co/multi-agent-workflow-kit) returns 404 (deleted, renamed, or made private)."
+date_added: "2026-08-19"
 ---
 
 This entry captures a pattern rather than a living project: running several AI agents in parallel on one codebase, each isolated in its own git worktree to prevent write conflicts, with a tmux session giving the operator simultaneous visibility into all running agents. That orchestration shape — worktree isolation plus pane-based monitoring — has since become a common pattern implemented in many tools, and this kit was one of the entries documenting it early. The repository itself is gone: laris-co/multi-agent-workflow-kit returns 404 as of August 2026, so the code cannot be inspected, installed, or verified, and whether the project was deleted, renamed, or made private is unknown. No license, language, or release information survives. The census retains the entry with the orphaned description as the only record of what the kit claimed to do.

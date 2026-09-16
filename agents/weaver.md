@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Local-only, serverless coordination layer for multiple AI coding agents in the same repo. Provides cross-agent presence, advisory file claims, durable notes that survive context compaction, recent activity tracking, and live views — all via a small CLI over local SQLite files (~/.weaver/). No telemetry, no account, no network calls. Git remains source of truth; claims are advisory, never blocking. Explicitly not an MCP server."
+date_added: "2026-06-01"
 ---
 
 Weaver solves the problem of multiple AI coding agents (Claude Code, Codex, OpenCode, Pi, or plain terminals) colliding in the same repository without any cloud service. It provides a coordination-lite loop — status, task, claim, done — where advisory, TTL-bound file claims detect overlap (exit 1 signals overlap) and git remains authoritative for code. State lives in a per-repo SQLite database under ~/.weaver/, supplemented by durable Repository Facts that survive context compaction, optional Markdown scratchpads, a loopback-only web dashboard, and a preflight command that verifies claims before commit or push. The CLI installs protocol blocks into CLAUDE.md/AGENTS.md and optional Claude Code hooks or OpenCode plugins. It targets developers running several agents in parallel on one repo, fully locally.

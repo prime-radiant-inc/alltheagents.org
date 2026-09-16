@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Educational repository to demonstrate and teach Git and GitHub collaboration workflows. Not a coding agent — a training sandbox for learning collaboration patterns. 270 forks, used widely for workshops."
+date_added: "2015-03-25"
 ---
 
 This repository exists to be forked and broken: it is a training sandbox for teaching Git and GitHub collaboration workflows, used in workshops where each participant forks the repo and opens pull requests against it. Its fork-to-star ratio (270 forks, 4 stars) is the signature of classroom use, and its contents — a README, a config file, sample images, and a countries folder — exist only to be edited during exercises. The last substantive commit dates to February 2024, consistent with an evolving course artifact rather than a maintained tool. It appears in the census only as a misclassification: it is neither an agent nor a multiplexer nor tooling of any kind.

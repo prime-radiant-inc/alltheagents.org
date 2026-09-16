@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Lightweight AI coding platform with agent, copilot, debugger, code generation across many models"
+date_added: "2025-01-31"
 ---
 
 Sixth AI targets developers who want delegation rather than line-by-line completion: a task is entered in the editor, the agent drafts a structured roadmap in its Deep Planning Mode, then executes file edits and terminal commands with diff approval gating every change. Parallel sub-agents research, write, and validate simultaneously with shared context, and an automatic self-correction pass catches missing imports, syntax errors, and type mismatches before results are presented. A timeline records each step with rollback. A Telegram companion lets the developer monitor, approve, and steer runs from a phone without port forwarding. It is aimed at individual developers working across common web and systems languages who want an autonomous agent inside VS Code rather than a line-completion copilot.

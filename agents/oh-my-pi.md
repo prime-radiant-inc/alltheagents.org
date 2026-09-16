@@ -34,6 +34,7 @@ sources:
   - "brad"
   - "ishandutta"
 what_makes_it_special: "Coding agent with the IDE wired in. Features 31 built-in tools including LSP-integrated edits, real debugger driving (lldb/dlv/debugpy), persistent Python/JS execution cells, in-process shell, browser and desktop control, 23 web search backends, GitHub as filesystem, memory/learning, code review with verdicts, hash-anchored edits, AST-based edits, collaboration sessions, and time-traveling stream rules for hooks."
+date_added: "2025-12-31"
 ---
 
 oh-my-pi is a fork of Mario Zechner's Pi rewritten as a coding-first agent with IDE-grade plumbing wired into a terminal interface. About 80,000 lines of Rust implement grep, shell, AST editing, and PTY handling in-process, eliminating fork/exec from the hot path. Every file write passes through LSP validation, and a debugger drives lldb, delve, and debugpy over DAP. A task tool fans out workspace-isolated subagents returning schema-validated results, and regex-triggered stream rules abort and retry mid-token for course correction. It inherits MCP servers, rules, and skills already on disk from eight other agent formats, so switching tools requires no migration. Ten model routing roles plus fallback chains cover sixty-plus providers.

@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Associated link: the npm package page for context-engine-ai (npmjs.com/package/context-engine-ai); the package itself is the context-engine project by Quinnod345"
+date_added: "2026-08-19"
 ---
 
 context-engine-ai gives AI agents short-term situational memory by ingesting structured events from arbitrary sources and answering natural-language queries over them with time-decayed ranking. Storage defaults to SQLite with local TF-IDF embeddings, requiring no external services, with PostgreSQL plus pgvector available for production deployments. It runs as a library, an Express HTTP server, a CLI, or an MCP server that tools like Claude Desktop and Cursor can call. The package is small, MIT-licensed, and usable without API keys, with an optional paid cloud tier. Adoption is minimal — seven versions and single-digit weekly downloads — and development has stalled since its early-2026 publish.

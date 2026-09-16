@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Adds an immersive audio layer to AI coding agents — 23 sound effects, ambient soundscapes, TTS speech, and ASR voice Q&A. 'Pipes, not brains' philosophy: the AI agent decides when and what to say; EchoCoding just provides the audio infrastructure (say / ask / sfx). Three audio layers: discrete SFX, continuous ambient soundscapes, and voice interaction. MCP Server (stdio) with 5 tools. Claude Code integration via 9-event hook injection. Multi-turn voice conversation with echo suppression (260ms anti-bleed gate)."
+date_added: "2026-04-14"
 ---
 
 Long agent sessions are easy to ignore: you switch windows and only find out a task finished — or failed — when you look back. EchoCoding gives the session an audio channel without touching the agent's logic: hooks fire sound effects for tool actions, an ambient layer signals editing/reading/thinking state, and TTS speaks at milestones while ASR listens for spoken replies through a floating HUD. The agent decides what to say; EchoCoding only handles the pipes, which is why it installs with one line and no API keys of its own. Developers who run hands-off sessions — or prefer audio over window-switching — are the intended users.

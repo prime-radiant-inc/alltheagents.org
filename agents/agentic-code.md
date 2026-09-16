@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Standardizes AI coding workflows via the open AGENTS.md standard with zero configuration, enforcing a test-first approach and progressive skill loading across multiple AI coding tools (Cursor, Codex, Gemini CLI). Provides pre-built workflows and quality gates (requirements analysis, architecture planning, test-first generation, implementation). Supports sub-agents-mcp for running isolated context reviews in Cursor."
+date_added: "2025-09-16"
 ---
 
 Teams using several AI coding tools end up maintaining separate instruction files and workflows per tool, so agentic-code standardizes on the open AGENTS.md format and generates the scaffolding in one npx command with zero configuration. Its workflows impose a test-first discipline with quality gates between phases — requirements analysis, architecture planning, test-first generation, implementation — and skills install into Cursor or Codex CLI from the shared .agents/skills directory. For deeper review isolation it supports sub-agents-mcp, running reviews in a separate context window. It is MIT-licensed, model-agnostic, and built for teams that run Cursor, Codex, and Gemini CLI against the same repository without wanting per-tool workflow drift.

@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "brad"
 what_makes_it_special: "AI Coding Agent for the Terminal by Fetch.ai. Binary releases repo only — no source code, just install script. Only 1 commit, minimal information available."
+date_added: "2025-10-03"
 ---
 
 Fetch.ai, the artificial intelligence company behind the ASI1 model family and the Agentverse platform, shipped FetchCoder as its terminal coding agent, presumably to give its ASI1 model a coding-native distribution channel. The public GitHub presence is a releases-only repository with a single commit holding prebuilt binaries and an install script; the npm package points at a source repository that is not publicly accessible, so the tool's internals cannot be inspected. npm metadata dates the package from October 2025, with the most recent publish in January 2026 and little activity since. Its intended users are developers in the Fetch.ai/ASI:1 ecosystem who want a terminal agent on that model stack.

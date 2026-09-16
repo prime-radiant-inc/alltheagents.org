@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "Desktop 'vibe coding' workstation that treats the parallel, ephemeral state created by AI-assisted development (running commands, multiple agents, branch experiments, uncommitted diffs) as the primary interface — keeping persistent terminals, Git visibility, and isolated worktree profiles together in one calm workspace."
+date_added: "2026-02-10"
 ---
 
 AI-assisted development produces a mess of parallel state: several terminals, experimental branches, uncommitted diffs, and agents that may or may not be waiting for input, none of which a conventional editor surfaces well. 2code is a Tauri 2 desktop app (React/TypeScript frontend, Rust backend, SQLite) that organizes that state into one workspace: persistent terminals, per-feature git worktree lanes, and status detection that infers whether an agent is running, waiting, or finished from terminal output and progress sequences. It is macOS-first with experimental Windows and Linux builds, installed via Homebrew cask. Its users are solo developers running one or two agents alongside manual terminal work.

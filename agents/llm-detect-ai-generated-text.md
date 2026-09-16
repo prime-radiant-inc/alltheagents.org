@@ -31,6 +31,7 @@ maintained: "dead"
 sources:
   - "jim"
 what_makes_it_special: "It bundles the Kaggle competition data with the DAIGT V2 training set and a modified test_essays.csv, so a baseline detection notebook can be debugged offline with more than the competition's three test rows."
+date_added: "2024-01-18"
 ---
 
 

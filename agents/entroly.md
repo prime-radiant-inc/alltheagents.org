@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "caramaschi"
 what_makes_it_special: "Drop-in context assurance / local-first Context OS for AI coding agents; content-addressed evidence with byte-exact recovery, auditable Context Receipts, local hallucination detection (WITNESS) without a second API call, cache-aware compression that preserves provider prompt-cache discounts, and panic-rescue for over-long sessions"
+date_added: "2026-03-07"
 ---
 
 Entroly was built on the observation that agent failures often trace to degraded context — truncated, lossy, or unverifiable — and that token cost scales with noisy context. It intercepts requests on routes it controls, selects the highest-value evidence, compresses it, and issues receipts that make every context decision auditable and recoverable byte-for-byte, with a local WITNESS detector flagging hallucination risk without cloud calls. Attachment paths include an MCP server (with a .mcpb bundle and Smithery config), a Claude Code plugin, an API-key proxy, and an SDK, so teams can adopt it incrementally across Claude Code, Codex, Cursor, Copilot, and Aider. The project is candid that savings are workload-dependent — its own benchmark shows accuracy dropping on some workloads — and `entroly simulate` estimates savings before adoption.

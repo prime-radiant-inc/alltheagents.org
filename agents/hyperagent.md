@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "github_topic"
 what_makes_it_special: "First generalist SE agent handling multiple task types (GitHub issue resolution, repo-level code generation, fault localization, program repair) across multiple programming languages (Python & Java). Multi-agent architecture (Planner, Navigator, Code Editor, Executor) mimicking human developer workflows with state-of-the-art results on SWE-Bench Verified (31.4%), RepoExec (53.3% Pass@5), and Defects4J (249 bugs fixed). Last commit November 2024."
+date_added: "2023-11-23"
 ---
 
 HyperAgent came out of FPT Software's AI4Code research group as a generalist alternative to single-purpose repair or localization systems: one four-agent pipeline switches between patch generation and fault-prediction modes depending on the task. A Planner decomposes the issue, a Navigator locates relevant code using Zoekt and universal-ctags indexes, a Code Editor writes changes, and an Executor runs them in a Jupyter kernel, with each agent configurable to a different LLM. It reported 31.4% on SWE-Bench Verified, 25% on Lite, 53.3% Pass@5 on RepoExec, and 249 fixed Defects4J bugs. The repo has seen no commits since November 2024 and functions as archived research code accompanying the arXiv paper.

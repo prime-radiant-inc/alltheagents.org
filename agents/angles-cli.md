@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Terminal agentic coding assistant compiled into a single 1.6MB static Rust binary (no runtime needed); drives 30+ built-in tools and supports switching between 11 model providers at will; includes a local HTTP gateway (angles serve) with web console and REST API."
+date_added: "2026-07-20"
 ---
 
 Angles targets minimal-footprint environments: one static binary, five prebuilt platforms, no Node or Python runtime, and a curated angles-* toolset spanning files, terminal, git, and web fetch/search. Reads are unrestricted, writes follow the configured approval policy, and deletions always prompt; the agent can emit operation plans before acting (`angles plan`) and serve a local HTTP gateway (angles serve) for browser chat and provider switching. Models are normalized across OpenAI Chat Completions, Anthropic Messages, and Gemini native protocols across OpenAI, Claude, Gemini, DeepSeek, Grok, MiniMax, OpenRouter, Qwen, GLM, Kimi, and custom endpoints. It is very early: 14 commits, 64 stars, no releases — promising on paper, immature in practice.

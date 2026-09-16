@@ -35,6 +35,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "macOS daemon that turns a Telegram chat into a remote control for local coding agent CLIs (Claude Code, Codex, Pi, Gemini). Kick off tasks, stream progress, approve/deny dangerous commands, and send follow-ups from your phone. Per-chat per-agent sessions, confirm gate, launchd auto-start, corporate TLS auto-detection. Spawns Claude Code with --permission-mode plan/bypassPermissions and injects a dangerous-command hook."
+date_added: "2026-05-13"
 ---
 
 The tool answers a specific gap: coding agents run unattended on a development machine, but the developer is away from the keyboard. A single Bun daemon bridges Telegram to up to four local agent CLIs, streaming responses into the chat, accepting images, and requiring explicit inline-keyboard taps before dangerous commands execute, with silence meaning denial and every decision appended to an audit log. Sensitive-path reads are denied, corporate TLS interception is auto-detected, and a launchd agent keeps it running across reboots. Developers who kick off long agent tasks and leave the desk are the users; it is MIT-licensed, on npm, and actively maintained.

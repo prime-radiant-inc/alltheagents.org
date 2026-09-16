@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "bing_ddg_chinese"
 what_makes_it_special: "AI tool for rapidly generating websites, landing pages, mini-programs, marketing H5 pages, PPTs, and data visualizations from natural language. Includes a Skills Market and Creative Community. Not a coding agent harness."
+date_added: "2026-08-19"
 ---
 
 Meoo (秒悟) serves Chinese businesses and individuals who need web artifacts — company sites, campaign pages, product prototypes, WeChat mini-programs — without a development team. The user describes the target in natural language and the platform produces the output, iterating through further prompts; output types span websites, marketing H5 pages, mini-programs for the WeChat ecosystem, presentations, and data visualizations. A Skills Market extends generation capability through packaged skills, and a Creative Community gallery lets users browse and reuse others' creations. The product is web-hosted and proprietary, with documentation at docs.meoo.com, and exposes no local harness, tool loop, or model-provider configuration to its users. Its audience is marketing, operations, and small-business users producing campaign pages and prototypes rather than engineers working in a codebase.

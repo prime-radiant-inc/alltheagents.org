@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "brandonhimpfen"
 what_makes_it_special: "Free AI-powered code acceleration toolkit (now Windsurf Plugin) with autocomplete, chat, and search in 70+ programming languages; 3.9M+ installs; IDE-integrated chat with no need to leave VS Code; also offers standalone Windsurf Editor with advanced Cascade and Windsurf Tab features."
+date_added: "2026-08-19"
 ---
 
 Codeium began as a free unlimited-autocomplete service and grew into a full product line: the IDE plugin (now the Windsurf Plugin) serves VS Code, JetBrains, Visual Studio, Vim, Neovim, Jupyter, Eclipse, Emacs, Xcode, and more, while the standalone Windsurf Editor hosts the full agent experience. The plugin layer covers autocomplete, chat, and inline Command edits, and the Cascade agent inside it adds Write/Chat modes, tool access, web and docs search, memories, rules, workflows, and MCP connections. Following Cognition's acquisition, the product line continues under the Windsurf name with a free individual tier and paid Pro, Teams, and Enterprise plans. Documentation lives at docs.windsurf.com under the Windsurf Plugins section, with enterprise deployment covering SSO, SCIM, and analytics.

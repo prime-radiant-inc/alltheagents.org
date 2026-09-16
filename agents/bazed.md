@@ -33,6 +33,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Sagentic.ai Agent Framework, a unified platform for building, running, and scaling autonomous agents. Features a dev server with hot reloading and spawning agents locally via an HTTP /spawn endpoint. Not specifically a coding agent harness; it's a general autonomous agent framework."
+date_added: "2023-12-31"
 ---
 
 Bazed, now the Sagentic.ai Agent Framework (the bazed-ai/bazed-af repo redirects to sagentic-ai/sagentic-af), is a platform for building and running autonomous agents as services. A scaffold command creates a project, a dev server with hot reloading lets agents be edited and re-run locally, and agents are spawned through a POST /spawn HTTP endpoint with a JSON payload, so the framework treats agents as addressable services rather than interactive chat sessions. It is TypeScript-based with typedoc, jest, and pnpm workspaces, installed via npx @sagentic-ai/sagentic-af init, and documented at sagentic.ai. Licensing is Business Source License 1.1 (not OSI open source) under Ahyve AI Inc. Activity is low and the project appears dormant, with modest stars and no releases. It fits the census as 'other': agent infrastructure rather than a coding harness.

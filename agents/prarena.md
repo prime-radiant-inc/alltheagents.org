@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Tracks opened and merged pull requests created by top SWE coding agents (Copilot, Codex, Cursor, Devin, Codegen, Jules) to provide analytics on PR volume versus success (merge) rates."
+date_added: "2025-05-22"
 ---
 
 PRarena answers a question benchmarks avoid: when real coding agents open pull requests against real GitHub repositories, how often do those PRs get merged? It runs GitHub search queries keyed on agent-specific identifiers — branch prefixes like head:codex/ or bot accounts such as devin-ai-integration[bot] — and tracks opened versus merged PRs per agent, updating a public dashboard and chart automatically. Comparisons use ready PRs only, since agents like Codex iterate privately before opening while Copilot and Codegen open drafts first, which would otherwise skew merge rates. The distinction between draft, ready, and merged states makes the comparison more honest than raw PR counts. Researchers and buyers of coding agents use it as one of the few population-scale measures of whether agent-authored work actually survives review.

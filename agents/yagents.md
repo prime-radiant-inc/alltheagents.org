@@ -34,6 +34,7 @@ maintained: "dormant"
 sources:
   - "e2b"
 what_makes_it_special: "First Langchain Agent creator designed to build, prototype, and deploy AI-powered agents with on-the-fly agent/tool creation, interactive CLI, session persistent memory, and full Langchain ecosystem integration. Project discontinued and re-emerged as 'subzeroclaw'."
+date_added: "2023-04-05"
 ---
 
 yAgents provided an interactive CLI for building, prototyping, and deploying Langchain-based agents, letting users create agents and tools on the fly within a session with persistent memory across sessions. It integrated with the broader Langchain ecosystem for tools, chains, and agents, and it targeted developers prototyping AI agents rather than writing application code. The project was discontinued and later re-emerged under the subzeroclaw name. Its original audience was developers wanting a quick CLI-based LangChain agent workbench.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "GenAI-native end-to-end software testing agent that plans, authors, runs, and self-heals tests using natural language across web, mobile, UI, API, database, network, and accessibility layers. Exports tests to Selenium, Playwright, Cypress, Appium (no lock-in). Self-healing tests. GitHub PR validation via @KaneAI. Human-in-the-loop with real-time pause/steer capability. TestMu AI MCP Server exists."
+date_added: "2026-08-19"
 ---
 
 KaneAI targets QA teams drowning in test maintenance: tests are authored in natural language (or generated from Jira tickets, PRDs, or screenshots), then executed across LambdaTest's cloud of real browsers and devices. Self-healing rewrites steps when locators or UI change, with versioning and rollback; the agent pauses mid-run for human steering and drafts bug tickets from failure traces. Generated tests export to Selenium, Playwright, Cypress, and Appium, so teams keep their existing runners. A Kane CLI (npm kane-cli) brings the same natural-language execution to local runs, and reported pilots claim up to 40% faster execution and 50% coverage gains. Enterprise features include SSO, RBAC, and audit logs.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Lightweight AI coding assistant connecting directly to LLM APIs"
+date_added: "2026-03-05"
 ---
 
 Most JetBrains AI plugins route through a vendor cloud; Rikki connects the IDE straight to whichever LLM API the developer configures, which suits users of self-hosted or regional models such as DeepSeek or Ollama. The chat agent works over the project — reading files, editing code, and executing terminal and Git commands, with high-risk actions gated behind approval. Inline completion runs in fill-in-the-middle mode for providers that support it and falls back to chat-format completion for those that do not. The plugin is free, MIT-licensed, and young, published in early 2026 with a few hundred downloads, so its audience is so far individual developers comfortable with early-stage tooling.

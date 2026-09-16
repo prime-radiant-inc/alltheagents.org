@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "zhouhao"
 what_makes_it_special: "Always-on agents triggered by schedules or events from Slack, Linear, GitHub, PagerDuty, and webhooks; spins up cloud sandbox on invocation using configured MCPs and models; memory tool enables agents to learn from past runs and improve with repetition."
+date_added: "2026-08-19"
 ---
 
 Introduced in Cursor's March 2026 changelog, Automations extend the Cursor agent beyond interactive sessions: each automation runs on a schedule or in response to events from Slack, Linear, GitHub, PagerDuty, or webhooks, at which point Cursor spins up a cloud sandbox carrying the MCP servers and models the user has configured. A memory tool lets the agent retain lessons from previous runs so repeated automations improve rather than repeat mistakes. Users create automations from a marketplace of templates or from scratch at cursor.com/automations. The feature targets teams who want repo-aware background work, such as incident triage or dependency follow-ups, without a human opening the IDE.

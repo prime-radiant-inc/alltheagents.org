@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Mimics Copilot Chat agent functionality using Perplexity Pro as backend"
+date_added: "2025-09-28"
 ---
 
 Perplexity Pro AI Chat exists for developers who subscribe to Perplexity and want its research-grounded answers inside VS Code rather than in a browser tab. The extension wraps the Perplexity API in a chat sidebar, using sonar-pro for quick questions and sonar-research for deeper multi-step investigations, and mimics Copilot Chat's layout rather than its infrastructure. An agent mode accepts natural-language file creation and edit requests, executing them only after user confirmation, and a /command syntax runs shell commands from the chat; codebase context comes from whatever the user pastes or selects. Everything runs against the user's own Perplexity subscription, stored in VS Code's secret storage. With roughly 8,500 installs, a five-star rating, and last updates in October 2025, it serves individual Perplexity subscribers who want editor integration without switching tools.

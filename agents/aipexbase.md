@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "AI-native Backend-as-a-Service (BaaS) that eliminates backend code writing — 'Frontend-as-Backend' architecture lets developers focus only on frontend/business logic. Native MCP compatibility for direct AI agent invocation of backend capabilities. Deep Chinese ecosystem support (Feishu, DingTalk, WeChat, HarmonyOS, mini-programs)."
+date_added: "2025-10-18"
 ---
 
 The premise is that AI coding tools make frontend work fast while backend plumbing remains the bottleneck, so the platform eliminates backend code: deploy the Spring Boot service via Docker Compose, connect your agent through SDK or MCP, and storage, authentication, and third-party AI calls are handled as infrastructure. A unified context and data layer gives agents long-term memory and traceable state across sessions. The companion CodeFlying hosted platform commercializes the same stack, while the open-source repo (Java Spring Boot backend, Vue 3 console, Apache-2.0) targets self-hosters, with docker-compose install and a Feishu wiki as documentation. Adopted largely in the Chinese ecosystem (1.3k stars), it positions itself as Supabase for the agent era.

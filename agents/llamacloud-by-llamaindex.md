@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "LlamaCloud streamlines AI development by enabling developers to minimize infrastructure management and parameter tuning"
+date_added: "2026-08-19"
 ---
 
 LlamaCloud is the commercial counterpart to LlamaIndex's open-source libraries, taking over the document infrastructure that production RAG systems need: LlamaParse converts PDFs, Office files, spreadsheets, and images across 130-plus formats into Markdown, JSON, or annotated output; LlamaExtract pulls structured JSON against user-defined schemas with citations and confidence scores; and LlamaCloud Index maintains managed indexes with external data sources, webhooks, and caching so re-parses cost nothing. An Agents Builder turns natural-language descriptions into deployable workflows with one-click GitHub deploys. Enterprise features cover SOC 2 Type II, HIPAA, SSO, and VPC or hybrid deployment through the AWS and Azure marketplaces. Data and platform teams building document-heavy AI applications consume it as infrastructure rather than as a coding tool.

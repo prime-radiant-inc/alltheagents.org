@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Plugin for AI coding agents adding compound engineering workflows and persistent memory; 30 specialized subagents across review/research/design/workflow/docs, structured planning with adversarial review, automatic git-tracked JSONL memory capture, and shipping automation (tests, PRs, secret scanning)."
+date_added: "2026-02-08"
 ---
 
 Compound engineering — where every unit of work passes through design, implementation, review, and ship stages with research in between — is hard to sustain manually across agent sessions. Lavra installs as a plugin into Claude Code (default), OpenCode, Gemini CLI, or Snowflake Cortex Code and provides pipeline commands (/lavra-design, /lavra-work, /lavra-qa, /lavra-ship) plus a persistent memory store recalled at each session start. Its 30 subagents run at lower model tiers for research and review work, cutting cost substantially relative to running everything on a frontier model. Task tracking delegates to the Beads CLI, and knowledge accumulates in .lavra/memory/knowledge.jsonl, git-tracked with the repo.

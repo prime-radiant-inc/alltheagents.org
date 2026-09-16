@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Orchestration layer that sits on top of coding agents (Claude Code, OpenAI Codex) to automate the full software development lifecycle using a pipeline of 69 specialist agents (architect, senior-dev, code-reviewer, QA, security, devops, etc.). User intervenes only at two approval gates: design and deploy. Ships as a Claude Code plugin (.claude-plugin), includes an mcp-servers directory, 60 known product archetypes across 15 industries, 6 reusable pipelines, per-agent cost tracking, DORA metrics, and a local board UI at localhost:3141."
+date_added: "2026-04-05"
 ---
 
 great_cto turns a single developer's coding agent into an assembly line for whole products. Installed as a plugin, it drives Claude Code or OpenAI Codex through a fixed sequence — architecture, data model, backend, frontend, tests, deployment — with 69 specialist agents whose scopes are enforced at write time so a stage's agent cannot modify files outside its brief. Each stage hands its output to a second model for verification, which returns a verified, rework, or unverifiable verdict before downstream work proceeds. A self-updating board on localhost:3141 shows pipeline state, pending gates, and per-session cost, and three human approval gates (product, plan, deploy) are configurable from product-only through fully automatic, with compliance gates never skipped. The developer stays in the loop at gates while the pipeline runs, and the project publishes cost benchmarks alongside its releases.

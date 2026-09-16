@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "China Telecom AI programming assistant"
+date_added: "2024-01-30"
 ---
 
 SRD CodeFree is the developer assistant for China Telecom's internal R&D cloud platform, distributed as the srdcloud.srd-copilot-vscode extension with roughly 25,000 installs. Beyond the usual completion, chat, explanation, and unit-test generation, it integrates enterprise workflow directly: commit messages link to platform work items, diff comments sync to SRDCloud code review, and work items can be viewed and updated from the IDE. Its agent mode supports user-configured MCP tools and an MCP marketplace, plus importable skills and project rule files. UX2Code generates frontend code from design mockups for React, Vue, and uniapp stacks against custom component libraries. The product is free and updated through the SRDCloud help center rather than public docs.

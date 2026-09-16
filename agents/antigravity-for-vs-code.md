@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Brings Google's Antigravity CLI agentic coding companion into VS Code"
+date_added: "2026-06-05"
 ---
 
 The extension embeds Google's Antigravity CLI (agy) into VS Code: a Material 3 Expressive chat panel, a navigator for 35 slash commands (/goal, /diff, /model), saved sessions, and 'Ask About Selection', each session backed by its own live interactive agy process to preserve full context across turns. The terminal mirror attaches to that same process, so what the agent does in the shell is visible and intervenable from the editor. It is explicitly unofficial — 'not affiliated with or endorsed by Google' — requires the agy binary and Google sign-in separately, and exposes configuration for CLI path, sandbox mode, and --dangerously-skip-permissions. With ~38,600 installs and August 2026 updates, it is the de facto community bridge for Antigravity users inside VS Code.

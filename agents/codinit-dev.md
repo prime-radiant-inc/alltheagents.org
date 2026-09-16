@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_final"
 what_makes_it_special: "Open-source, local-first AI full-stack app builder with hybrid web + desktop (Electron) support. Vendor-neutral architecture with dynamic switching between 19+ cloud and local AI providers. Production-ready Dockerization with presets for Vercel/Netlify/GitHub Pages. Integrated dev suite with semantic search, diff visualization, and file-locking. Native Supabase integration."
+date_added: "2025-10-04"
 ---
 
 Hosted app generators keep both the project and the model access inside a vendor's cloud, which conflicts with local development workflows and data-control requirements. CodinIT.dev is the open-source counterexample: a Bolt-style builder that runs as an Electron desktop app, a web app, or a Docker container, generating Node.js web and mobile applications with the edit loop happening on local files. Model access is vendor-neutral - nineteen-plus providers including OpenAI, Anthropic, Google, Groq, and OpenRouter, plus local runtimes via Ollama and LM Studio - switchable per task. Around the generation loop it adds project-management scaffolding: semantic code search, diff visualization, file locking for concurrent edits, voice commands, and deploy presets that push finished projects to Vercel, Netlify, or GitHub Pages. Supabase integration covers backend services. Developers and small teams wanting an open, local-first alternative to hosted app builders are its users.

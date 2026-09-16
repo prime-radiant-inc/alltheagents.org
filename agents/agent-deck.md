@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Terminal session manager / mission control for AI coding agents — manage multiple AI agent sessions (Claude Code, Gemini CLI, OpenCode, Codex, Copilot, Cursor, Crush, Hermes Agent) from a single TUI. AI-aware status detection, session forking with inherited context, Conductor orchestration (auto-respond, escalate to phone via Telegram/Slack), MCP socket pooling (85-90% memory reduction), git worktree integration, Docker sandboxing, cost tracking with budget limits, watchers (GitHub webhooks, ntfy, Slack), remote instances, web UI mode."
+date_added: "2025-12-03"
 ---
 
 agent-deck is for developers whose screen is a grid of agent terminals: it puts every Claude Code, Codex, OpenCode, Copilot, or Gemini CLI session into one Bubble Tea TUI with per-session status detection, forking with inherited context, and git worktree or Docker sandbox isolation. A Conductor layer runs supervisor sessions that monitor workers, auto-respond, and escalate to Telegram or Slack when a human is needed, and watchers consume GitHub webhooks or ntfy events. Operational features — MCP socket pooling that cuts server memory 85–90%, cost dashboards with budget caps, Docker sandboxing, remote SSH instances, a web UI mode — make it infrastructure for people running agents as a fleet. Solo developers and small teams on macOS, Linux, or WSL are the users.

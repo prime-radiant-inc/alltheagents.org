@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "~250-token structured index vs 50k-500k full-dump approaches (Repomix, code2prompt); committable JSON + Merkle diagram; interactive HTML visual map (4 views); works with any AI tool that reads files; no server/setup required"
+date_added: "2026-04-09"
 ---
 
 stacklit attacks the token cost of codebase orientation: where full-dump tools paste 50,000-500,000 tokens, it parses eleven languages with tree-sitter and writes a committable ~250-4,000 token index of modules, exports with signatures, dependencies, and hints such as where a feature belongs and what the test command is. A post-commit git hook regenerates the index using Merkle hashes to skip unchanged subtrees, taking roughly 50 ms on a 10k-line repo. stacklit serve exposes seven MCP tools that Claude Desktop and Cursor can call, and stacklit setup writes the navigation map into CLAUDE.md, .cursorrules, or aider config automatically. An optional --summary flag is the only network call; everything else runs locally. It targets teams whose agents waste context exploring rather than editing.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "NOTE: Not a coding agent harness. Monorepository of simple LLM-based AI tools serving as companion code/examples for the BuildOwn.AI book. Includes a chapter_summarizer tool. Very early stage (3 commits, 1 star)."
+date_added: "2024-10-28"
 ---
 
 The repository supports the BuildOwn.AI book by making its examples runnable: the book teaches building with LLMs, and this repo holds the corresponding simple tool implementations, organized by chapter for readers to follow along. Its only substantive tool, chapter_summarizer, sits alongside a shared utilities directory in a small TypeScript project managed with Bun and linted with Biome, with a purchase link back to the book itself. Readers of the book are the intended users; nobody installs it as software. With three commits, one star, and no releases, it is effectively a static companion artifact.

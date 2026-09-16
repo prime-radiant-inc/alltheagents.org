@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "github_deep"
 what_makes_it_special: "AI plugin for Vim that enables OpenAI Codex-powered code completion directly in the editor; provides CreateCompletion and CreateCompletionLine commands. Uses deprecated OpenAI Codex API."
+date_added: "2021-08-27"
 ---
 
 vim_codex comes from the first wave of API-based AI coding tools, when OpenAI's Codex models were the state of the art and editor integration meant one completion request per trigger. The plugin added two commands — CreateCompletion, which sends the current buffer context to the Codex API and inserts the result (optionally sized by a token-count argument), and CreateCompletionLine for completing the current line — with configuration in ~/.config/openaiapirc and installation through any Vim bundle manager. It served Vim users who wanted Codex completions without leaving the editor, before agentic tools existed. OpenAI deprecated and shut down the Codex models in March 2023, so the plugin no longer works; with no releases and no updates, it remains only as a historical example of early editor-AI integration.

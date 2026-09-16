@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "bing_ddg_chinese"
 what_makes_it_special: "The name JD.com used for its in-house LLM coding assistant — IDE plugin across JetBrains and VS Code with code prediction, comment-to-code, unit test generation for JUnit/Mockito/pytest, API doc generation, and one-click review — reportedly called over a million times by JD's internal developers before being externalized as the commercial JoyCode product at joycode.jd.com; joycoder.com itself is a parked domain for sale."
+date_added: "2026-08-19"
 ---
 
 JoyCoder began as JD.com's internal LLM programming assistant, integrated with the Xingyun DevOps platform for requirement viewing, code review, and deployment. It generated line- and function-level code, unit tests for JUnit/Mockito/pytest, and API documentation across a dozen languages, with JD citing over a million internal calls. The standalone joycoder.com domain is now a domain-for-sale listing, but the capability continued as JD Cloud's commercial JoyCode product at joycode.jd.com, which adds multi-agent specification programming and MCP ecosystem support. The census treats JoyCoder as the predecessor of the live JoyCode product.

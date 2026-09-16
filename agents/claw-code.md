@@ -32,6 +32,7 @@ sources:
   - "brad"
   - "ishandutta"
 what_makes_it_special: "An 'agent-managed museum exhibit' developed and maintained autonomously by agent harnesses (LazyCodex/Gajae-Code) with no human intervention; serves as a living demonstration of fully autonomous agent-managed software."
+date_added: "2026-03-31"
 ---
 
 The repository is a demonstration that agent harnesses can maintain software without humans: its README describes the project as an exhibit kept alive by the same class of harnesses that built it, and the commit stream is produced autonomously. The artifact itself is a working Rust claw CLI with doctor diagnostics, prompt mode, and multi-provider sessions, but the project explicitly disclaims production intent and redirects users to its successor harnesses, LazyCodex and Gajae-Code. Its census value is as evidence about autonomous maintenance workflows - agents planning, executing, verifying, and labeling their own work - rather than as a tool anyone should adopt.

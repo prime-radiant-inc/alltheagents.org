@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Lightweight (<20MB), fast native code editor with AI agents, tree-sitter based code intelligence, DAP debugging, extension marketplace, ripgrep-based fast search, vim mode — all in a compact, extensible Python-based editor."
+date_added: "2021-10-04"
 ---
 
 Biscuit targets developers who want a fast, hackable editor without the gigabyte-scale installs of Electron IDEs. Built in Python on Tk, it ships tree-sitter syntax parsing, completions, LSP integration via extensions, ripgrep-powered search, git operations with split diffs, and a DAP debugging client in a package under 20MB installed with pip. Its AI layer supports Gemini and Anthropic models with a planning agent that wields ReadFile, EditFile, Grep, and RunTerminalCmd tools, plus file-attach chat context and LLM calls directly in terminals. An extension marketplace, GUI and CLI-based, adds language servers, debuggers, and themes, and vim mode plus DAP debugging round out the editing core. It is MIT-licensed, actively maintained, and aimed at developers who want a lightweight, extensible editor with built-in agentic assistance.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic5"
 what_makes_it_special: "A curated directory/resource repository designed to help both software engineers and non-engineers build production-grade AI applications from scratch, featuring every popular framework, tool, and resource needed to ship AI projects."
+date_added: "2025-02-24"
 ---
 
 The AI engineering tool landscape changes faster than most engineers can track, and choosing a stack means cross-referencing pricing, maturity, and docs across dozens of vendors. This repository organizes that landscape into a single table covering model providers, prompt engineering frameworks, backend and frontend stacks, vector databases, fine-tuning, agent development, web data access, evaluation, monitoring, and deployment, with sandbox example projects and fundamentals guides for newcomers. It serves both engineers moving into AI and non-engineers building production applications, and doubles as the resource hub for a paid Maven bootcamp. The repo itself ships no code beyond the list and learning folders.

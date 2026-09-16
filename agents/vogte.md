@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Agentic TUI for existing Go codebases that uses AST parsing to extract compressed, relevant context for the LLM. Two-step context approach: first extracts structs/interfaces/methods/signatures, asks LLM which files it needs in full, then provides full content. Runs go vet as a sanity check after patching. Stateless design (each message is a new chat) for cost-effectiveness. Features local PR review and context generation for web-based LLMs."
+date_added: "2025-07-30"
 ---
 
 vix-like tools send whole repositories to the model; vogte exists to keep context small and Go-specific. It parses a codebase into abstract syntax trees, extracts structs, interfaces, methods, and signatures, and in a first step asks the LLM which files it needs in full before providing their complete contents, treating each request as a fresh one-shot chat rather than a retry-on-failure agentic loop. With the -agent flag it applies line-based patches directly to files and then runs go vet as a sanity check. It works with any OpenAI-compatible API and Anthropic models including via AWS Bedrock. The audience is Go developers maintaining existing codebases who want low-cost, one-shot context delivery rather than long interactive sessions.

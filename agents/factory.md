@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Enterprise-grade 'autonomy stack' for software development with a customizable harness supporting MCP, hooks, and subagents. Model independence as a platform capability. Trusted by Blackstone, Adyen, Wipro, Groq, and others."
+date_added: "2026-08-19"
 ---
 
 Factory targets enterprise engineering organizations that want autonomous software development without betting their toolchain on one model vendor: its harness supports MCP integrations, hooks, and subagents, and models are swappable as a platform capability rather than a per-seat configuration. Customers named publicly include Blackstone, Adyen, Wipro, Comarch, Groq, Chainguard, You.com, and Podium — a mix of global systems integrators, fintechs, and AI labs. Access runs through a cloud web app plus a downloadable CLI/desktop tool, with documentation covering enterprise deployment and security controls. The company has also extended the platform toward scientific and research workloads beyond conventional software development.

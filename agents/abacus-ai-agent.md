@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI-powered coding assistant/agent for VS Code"
+date_added: "2026-08-25"
 ---
 
 Abacus.AI, the company behind ChatLLM and CodeLLM, ships its coding assistant as an agent extension for VS Code-compatible editors, with the companion abacusai-desktop repository carrying the source. The extension provides AI-powered coding assistance in the editor, with MCP support for connecting external tool servers, and iterates on a near-daily release cadence — 41 published versions since appearing on Open VSX in late August 2026. Distribution through Open VSX rather than only the Microsoft Marketplace makes it usable in VSCodium, Cursor, and Gitpod environments. Its audience is developers inside Abacus.AI's subscription ecosystem who want agentic coding without VS Code Marketplace lock-in.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "VS Code extension for the pi coding agent"
+date_added: "2026-02-26"
 ---
 
 This extension is the pi project's own bridge into VS Code: it runs the pi CLI (a prerequisite, installed globally) in an integrated terminal with full PTY support, then bundles a pi extension that feeds the agent around 25 tools reflecting live editor state. The agent can query active editors, selections, diagnostics, symbols, and definitions, and apply workspace edits synchronized with open buffers, while a footer shows the active file, cursor position, and diagnostic counts inside the TUI. A @pi chat participant brings streamed RPC-backed replies into VS Code Chat, and a package-manager sidebar installs pi extensions, skills, prompts, and themes without leaving the editor. With about 7,800 installs, it serves pi users who want the CLI's autonomy without leaving VS Code, keeping the agent loop itself entirely in pi.

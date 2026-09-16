@@ -32,6 +32,7 @@ maintained: "dead"
 sources:
   - "github_topic2"
 what_makes_it_special: "Open-source alternative to Vercel's v0 agent, functioning as an AI background agent for your codebase"
+date_added: "2025-06-08"
 ---
 
 obby-dev reimplements Vercel's v0 as an open-source background agent that generates and builds applications in the user's codebase. It was built as a work-in-progress OSS v0 alternative using the Vercel Examples stack, with a Next.js monorepo, Turborepo, and pnpm workspaces. Users clone and run the project locally rather than installing a package. Development stopped when the repository was archived on March 6, 2026, leaving roughly 200 commits of code available read-only. Its value is as a reference implementation of the v0 pattern rather than a maintained product.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "AI-maintained wiki that lives in your repo as plain markdown, committed and reviewed like code, giving agents durable context the codebase can't encode. Auto-ingests from agent conversations (syncs local Codex/Claude transcripts). Garden mode schedules agent runs to prune stale pages, fix weak links, dedupe knowledge. Local-first, no cloud upload. Y Combinator S26-backed."
+date_added: "2026-04-16"
 ---
 
 Codealmanac gives coding agents durable project knowledge that the code itself cannot express — rationale, invariants, incident history, cross-file workflows — by maintaining a markdown wiki inside the repository that agents read as context and humans review as ordinary commits. The tool syncs local Codex and Claude Code transcripts on a schedule, extracting durable knowledge into the wiki, and runs scheduled garden passes in which agents prune outdated pages, fix weak links, and merge duplicates. Everything stays local: indexing, storage, and the scheduled launchd jobs run on the developer's machine, with changes committed through git for normal review. It runs lifecycle agents through a Yoke provider boundary supporting Codex and Claude Code, installs via uv from PyPI (the legacy npm package is retired), and requires macOS and Python 3.12 or later.

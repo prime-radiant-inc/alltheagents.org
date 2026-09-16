@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Perplexity-like answer engine returning sources, answers, images, videos, and follow-up questions. Combines web search (Brave/Serper) with LLMs (Groq/OpenAI/Ollama), function calling (maps, shopping, stocks, Spotify), semantic caching via Upstash, rate limiting, AI gateway support for 15+ providers, dynamic UI rendering, and dual deployment (Next.js or Express-only)."
+date_added: "2024-03-07"
 ---
 
 This repository emerged from the early-2024 wave of Perplexity clones as a teachable, single-repo implementation of an answer engine: Brave and Serper supply search results, the content gets scraped and embedded, and a hosted LLM synthesizes answers with sources, images, videos, and suggested follow-ups. Function calling extends it to maps, shopping, stock data, and Spotify, while a Portkey gateway route adds a dozen additional inference providers and an Upstash layer adds semantic caching and rate limits. Deployment paths cover Vercel, Docker, and a standalone Express API. The project's value is educational — it has 5,000+ stars and an accompanying YouTube walkthrough — but development stalled on a Next.js 14 stack with Groq's deprecated Mixtral model ID, and its issues and pull requests have gone unanswered. It is studied rather than operated.

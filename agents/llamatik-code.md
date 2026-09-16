@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Local-first AI coding assistant"
+date_added: "2026-07-10"
 ---
 
 Llamatik Code serves developers in air-gapped, compliance-bound, or privacy-sensitive environments who still want an agentic assistant rather than autocomplete. The plugin indexes the open project for context-aware chat, then drives a multi-task editing agent whose proposed changes appear as safe diff previews before application, with multi-file workflows and parallel chat sessions for separate threads of work. External knowledge comes from web and documentation search with citations, an MCP client connects local tool servers, and a Code Health Monitor tracks project quality signals. The freemium product (free tier plus a 30-day-trial Pro tier, about 1,000 downloads since mid-2026) is distributed by Llamatik AI through the JetBrains Marketplace.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Build mobile apps by chatting with AI; one-click publish to App Store, Play Store, and web from one codebase without opening Xcode/Android Studio; built-in monetization and analytics; Y Combinator backed"
+date_added: "2026-08-19"
 ---
 
 Most people who want an app cannot navigate Xcode, signing certificates, or store submission, so a0.dev removes the toolchain entirely: the user describes features in chat and an AI coding agent writes and edits the React Native code in real time. When the app is ready, one click handles builds, App Store Connect listings, and uploads to the App Store, Google Play, APK, and web from a single codebase. Monetization (payments and subscriptions), analytics, and built-in AI inference and image-generation APIs are included, with Convex or Supabase behind the data. The platform claims 200k+ users and 300k+ apps created, serving indie builders and non-traditional developers.

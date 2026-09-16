@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "Positions itself as the API for production-grade agents — durable agent state committed atomically to Postgres with auto-recovery, hot-add/remove machines mid-run, and direct SQL access to agent state for analytics when self-hosted."
+date_added: "2025-01-01"
 ---
 
 Omnara provides the execution and state layer for agents that teams define themselves, separating infrastructure from model choice, tooling, and user interface. Agent state commits atomically to Postgres so runs survive crashes and disconnects, and machines — cloud sandboxes or the operator's own hardware — can join or leave a run without restarts. Tools come from built-ins, custom code, skills, or MCP servers, and access control uses organization and project roles. Teams interact through a dashboard, a Slack connector, or the REST/TypeScript API rather than a chat product. The Apache-2.0 codebase self-hosts via Docker Compose, with a hosted cloud offering alongside it.

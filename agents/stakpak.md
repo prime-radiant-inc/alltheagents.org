@@ -31,6 +31,7 @@ maintained: "acquired"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI DevOps agent for infrastructure code"
+date_added: "2026-08-19"
 ---
 
 Stakpak runs as a single Rust binary installed as a system service on the machines it manages, addressing the gap between hosted PaaS convenience and the lock-in that comes with it. In autopilot mode it performs health checks, renews expiring certificates and secrets, flags deprecated APIs, and hunts idle RDS and EBS resources for cost savings, surfacing only the decisions that need a human. All agent network traffic passes through a Cedar-policy proxy, secrets are substituted with placeholders before reaching the model, and full session audit logs support rollback. A single TUI handles interactive work alongside the background service. The site announced the company is joining Vercel, so teams evaluating it should account for the transition.

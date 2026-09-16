@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "author_search"
 what_makes_it_special: "A native macOS terminal built on libghostty (not Electron) designed specifically for parallel AI coding agent workflows, with a notification system (blue rings around panes), vertical tabs showing git branch/PR status, a built-in scriptable browser, and agent orchestration as native splits."
+date_added: "2026-01-28"
 ---
 
 cmux argues that the right primitive for parallel agent work is a terminal that understands agents rather than another orchestrator: panes get attention rings when an agent needs input, tabs surface branch and PR metadata, and agent subagents appear as native panes. It embeds libghostty as a rendering library rather than forking Ghostty, so existing configs carry over, and a scriptable browser pane lets agents verify web UI changes they just made. Sessions restore across restarts, an iOS app allows monitoring from a phone, and a CLI/socket API makes it scriptable. With tens of thousands of stars it is the most prominent macOS-native agent terminal in this census.

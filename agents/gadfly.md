@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "A Socratic supervision layer for AI coding agents. Sits inside Claude Code's live tool-call loop, intercepting every PreToolUse hook before execution. Two independent supervisors (Architect on Opus, Code Reviewer on Sonnet) deliver one of four verdicts (allow/question/surface/block). Self-improving via append-only edit-ledger and idle-time extractor that distills corrections into durable memory. Enforces spec-driven development, catches drift and bugs pre-execution. Zero dependencies. Autonomy dial (autonomous/balanced/collaborative)."
+date_added: "2026-07-01"
 ---
 
 Coding agents drift from their specifications and commit subtle bugs mid-task, and post-hoc review catches these too late. Gadfly intercepts Claude Code's PreToolUse hook so each action is judged before execution, with a deterministic filter auto-approving safe commands and two read-only LLM supervisors handling the rest. It enforces spec-driven development through a required spec.md, an optional midwife pass asks clarifying questions before building, and an idle-time extractor distills out-of-band user corrections from an append-only edit ledger into durable rules. The autonomy dial (autonomous, balanced, collaborative) sets how often it interrupts, configuration lives in gadfly.toml, and it runs on an existing Claude Code subscription or the Anthropic API.

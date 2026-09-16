@@ -34,6 +34,7 @@ sources:
   - "brad"
   - "tiennm"
 what_makes_it_special: "Terminal-native synchronous AI agent powered by the same agentic harness as GitHub's Copilot coding agent; deep GitHub workflow integration (repos, issues, PRs via natural language); MCP extensibility; LSP support for code intelligence; full user control with action preview before execution; cross-platform."
+date_added: "2023-01-06"
 ---
 
 Copilot CLI moves GitHub's coding agent from github.com and IDEs into the terminal, where developers already work. It plans and executes tasks locally with explicit approval before each action, talks to repositories, issues, and pull requests in natural language, and ships the GitHub MCP server by default with custom MCP servers supported for extension. Language Server Protocol integration supplies go-to-definition, hover, and diagnostics beyond plain text, and model selection covers Claude Sonnet 4.5 (default), Sonnet 4, and GPT-5, with an experimental Autopilot mode that keeps working until a task completes. It requires an active Copilot subscription, with each prompt consuming a premium request from the monthly quota.

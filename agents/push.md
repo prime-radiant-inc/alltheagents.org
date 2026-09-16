@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "A full coding-agent harness in under 400 lines of shell and under 50KB with zero package dependencies — it runs on just sh, curl, and awk plus an API key, making the entire agent loop readable, auditable shell. Includes conversation compaction despite the minimal footprint."
+date_added: "2026-04-24"
 ---
 
 Pu.sh answers a question most harnesses never ask: how small can a working coding agent be? The entire implementation is a single POSIX shell script under 50KB that runs with sh, curl, and awk plus an API key — no npm, no Python, no Docker, no runtime beyond a Unix system. The script implements an agent loop where tool calls execute as shell commands the model requests, with conversation compaction built in to keep long sessions inside the context window. Because every line is readable shell, the mechanism is auditable in one sitting, which makes it useful as a reference implementation for anyone learning how agent loops actually work. Developers use it in constrained environments — containers, CI jobs, minimal servers — where installing a full harness is impractical, and as a starting point for building their own loop.

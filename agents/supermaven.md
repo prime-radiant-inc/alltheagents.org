@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "vinkius"
 what_makes_it_special: "Extremely fast response latency (250ms, 3X faster than competitors); first code completion tool with a 1 million token context window; contextual suggestions that find and use definitions across the entire codebase."
+date_added: "2026-08-19"
 ---
 
 Supermaven competed on inference speed and context reach rather than agency: its serving path delivered suggestions in roughly 250 milliseconds while pulling context from up to a million tokens, so suggestions could reflect definitions spread across an entire codebase. Alongside autocomplete it offered chat with GPT-4o and Claude 3.5 Sonnet, diff review, and one-click error fixes in VS Code, JetBrains IDEs, and Neovim. Anysphere, the company behind Cursor, acquired Supermaven in November 2024 and folded its technology into Cursor, while the standalone site and extensions remained available for a period. Retention on the free tier was limited to seven days, and the product is proprietary throughout — it is a completion utility, not a harness.

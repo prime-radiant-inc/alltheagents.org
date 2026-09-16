@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Integrates the Llmrix multi-agent AI platform into JetBrains"
+date_added: "2026-04-26"
 ---
 
 Llmrix's approach to IDE integration is to piggyback on JetBrains' built-in AI Assistant rather than ship a competing panel: the plugin launches a local agent server from the Llmrix multi-agent platform and wires it into the IDE's existing conversation interface. Developers get the platform's autonomous coding behavior without leaving their editor or learning a new UI. The plugin is MIT-licensed on the JetBrains Marketplace, but adoption is minimal (16 downloads) and the vendor's site does not render server-side content, so the platform's broader capabilities cannot be verified from public sources.

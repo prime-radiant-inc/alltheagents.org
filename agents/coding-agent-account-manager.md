@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Sub-100ms OAuth token file swapping to instantly switch between fixed-cost subscription accounts (Claude Max, GPT Pro, Gemini Ultra) when hitting rate limits without browser re-auth. Features smart rotation algorithms, cooldown tracking, isolated/shallow profiles for parallel sessions, and automatic failover via `caam run`."
+date_added: "2025-12-17"
 ---
 
 Subscription coding agents stop at usage ceilings, and the official recovery path is a slow browser re-authentication that breaks flow and parallel workflows. caam treats stored OAuth credential files as swappable state: it backs up each CLI's auth files (Claude Code, Codex, Gemini CLI, Antigravity, Grok Build) into a local vault and restores a different account's files on demand in under 100 milliseconds, with no browser round trip. A rotation engine tracks cooldowns and health per account, `caam run` wraps the underlying CLI and fails over automatically on rate limits, and isolated profiles let parallel sessions run against separate accounts. The Go CLI works offline with no daemons, exposes JSON output for use by other agents, and manages fixed-cost subscriptions rather than metered API keys. Individual developers and orchestrator operators running many parallel agent sessions are its users.

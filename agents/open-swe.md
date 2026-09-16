@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "jqueryscript"
 what_makes_it_special: "Open-source replica of the internal coding-agent architecture used by Stripe (Minions), Ramp (Inspect), and Coinbase (Cloudbot); built on LangGraph + Deep Agents; isolated cloud sandboxes, multi-channel invocation (Slack/Linear/GitHub), auto PR creation, server-side MCP for observability with security boundaries."
+date_added: "2025-05-21"
 ---
 
 Several frontier companies built internal coding agents — Stripe's Minions, Ramp's Inspect, Coinbase's Cloudbot — but published none of the architecture. Open SWE reconstructs that pattern as an open-source framework on LangGraph and Deep Agents: tasks arrive from Slack, Linear, or GitHub, run in isolated cloud sandboxes (Modal, Daytona, Runloop, E2B, or custom), spawn child agents through the Deep Agents task tool for parallel subtasks, and end in a pull request. Middleware hooks around the agent loop inject mid-run messages, alert Slack when step limits hit, and wrap tool errors, while optional server-side MCP integrations (Datadog, Corridor guardrails) keep observability credentials out of the sandbox. Sandboxes, models, triggers, and system prompts are all customizable per deployment, and per-user model settings live in the web dashboard. Engineering teams self-hosting an internal coding agent in the style of those proprietary systems are the intended users.

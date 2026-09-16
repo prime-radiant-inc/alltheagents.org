@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Governor is a model router that grounds each request in your codebase via a code-context engine and routes to the best-sized model, cutting token count and cost; speaks the Anthropic and OpenAI APIs so any coding agent can use it via one base URL. GitHub org (github.com/gitbito) exists but product open-source status not confirmed."
+date_added: "2026-08-19"
 ---
 
 Bito targets the economics of agentic coding: agents spend heavily on tokens and on flagship models that simple tasks don't require, and they burn tokens wandering codebases via grep-and-read loops. Governor addresses both. A code-context engine builds a live knowledge graph of the repository and attaches the relevant map of files, symbols, and dependencies to each request, so agents stop grepping and reading their way into context; the company reports steps per task dropping from 47 to 23. A model router then scores request complexity against that graph and routes to the smallest capable model, reserving frontier models for high-blast-radius work. Deployment is a single base-URL or environment-variable swap since the service speaks the Anthropic and OpenAI APIs, and it runs alongside existing gateways on the customer's own provider keys. Engineering teams adopt it to cut agent spend roughly in half while keeping observability over tokens, spend, and routing decisions per team and key.

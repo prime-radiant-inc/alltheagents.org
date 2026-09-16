@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Free, open-source code editor React component wrapping Monaco editor with unlimited AI autocomplete powered by Codeium. No account required. Supports multi-document context for smarter autocompletion (up to 10 documents)."
+date_added: "2023-12-11"
 ---
 
 This package exists for developers who need to embed a working code editor with AI completion into a web application without building the integration themselves. It wraps monaco-react — the React Monaco wrapper behind VS Code's editor — and adds Codeium's autocomplete service on top, requiring no user account and carrying no usage charge. Completions can reference up to ten additional documents through the otherDocuments prop, giving suggestions context beyond the visible file. The package exposes the underlying Monaco editor instance for direct API access and ships ESM and CommonJS builds, published as @codeium/react-code-editor on npm. It is a side utility from Exafunction, whose main product lines are the Windsurf plugin and editor, and its update cadence has been slow since 2024.

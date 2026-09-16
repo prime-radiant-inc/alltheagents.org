@@ -28,6 +28,7 @@ maintained: "active"
 sources:
   - "user_reported"
 what_makes_it_special: "Agent SDK / agentic infrastructure library for Rust providing tool execution with structured input/output, MCP client integration, permission-gated approval flows via a policy engine, and async-first architecture on tokio. Type-safe tool definitions using Rust's type system, with an FFI crate (mux-ffi) for cross-language use."
+date_added: "2026-09-01"
 ---
 
 Mux is an agentic infrastructure library for Rust, not a coding agent. It provides the building blocks — tool execution with structured input and output, MCP client integration to pull in external tools, and a permission-gated approval flow run through a policy engine — so that an agent built on top of it can ask a human before risky actions and stay async-first on tokio. Tool definitions are type-safe, expressed in Rust's type system rather than loose JSON, and an FFI crate (mux-ffi) exposes the same primitives to other languages. Mux ships no coding agent of its own; developers compose it into their own agent or harness. The audience is Rust developers who want a foundation for agent tooling and approval flows without reinventing the glue.

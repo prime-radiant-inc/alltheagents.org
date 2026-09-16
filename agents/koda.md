@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Russian AI service for developers (AI coding assistant)"
+date_added: "2025-05-15"
 ---
 
 Western AI coding assistants often require payment methods and network access that are awkward from Russia, so Koda packages the open-source Continue extension with Russian-language support, local payment-free access, and Telegram-based community support. It runs four modes: inline completion, context-aware chat in Russian or English, retrieval over project or custom data sources, and an agent mode that decomposes multi-step tasks and automates them. The extension lists about 39,600 installs on the VS Code Marketplace with a roughly 4.5-star rating. It targets Russian-speaking developers who want an assistant that works out of the box without a VPN.

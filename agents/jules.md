@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Async coding agent by Google that clones your repo to a Cloud VM, builds a plan using Gemini models, makes code edits, and opens pull requests for approval. GitHub-native workflow (assign via 'jules' label), plan-before-code, scales to massively parallel multi-agent development (up to 60 concurrent tasks on Ultra)."
+date_added: "2026-08-19"
 ---
 
 Jules moves coding work off the developer's machine entirely: tasks are assigned through GitHub (a 'jules' label or a repo/branch prompt), and the agent works asynchronously on a cloud VM. The workflow is plan-first — Gemini drafts the approach, the user approves or edits it, then diffs are reviewed before Jules opens a pull request. Concurrency is the product's lever: up to 60 parallel tasks on the Ultra tier, making it suited to batch chores like dependency bumps, test backfill, and small features across many repos. Pricing ties to Google One AI tiers: free at 15 tasks/day, Pro at 100/day, Ultra at 300/day with priority model access.

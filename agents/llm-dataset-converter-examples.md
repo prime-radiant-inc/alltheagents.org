@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Examples repository for the llm-dataset-converter libraries, deployed as MkDocs documentation site. Not a coding agent harness."
+date_added: "2024-06-06"
 ---
 
 The repository exists to document the Waikato llm-dataset-converter libraries by demonstration: its docs folder holds worked examples of converting datasets between the formats used by different LLM training and evaluation tools, and a GitHub Actions workflow republishes the site whenever the examples change. Researchers working with the converter libraries consult it as reference material for supported transformations rather than installing anything from it. The repo itself contains no software beyond site configuration, and its CC-BY-SA-4.0 content has been static since early 2025.

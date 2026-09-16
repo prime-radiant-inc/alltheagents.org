@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Hands-on micro apps to compare and evaluate agentic coding tools (Claude Code, Gemini CLI, Codex CLI) in a standardized way. Uses a custom /trees slash command to spin up parallel git worktrees."
+date_added: "2025-06-29"
 ---
 
 Choosing between Claude Code, Gemini CLI, and Codex CLI is usually based on demos and marketing, so this repository provides a controlled hands-on alternative: one small UI-component challenge that every candidate tool attempts under the same prompts. Each tool runs in an isolated git worktree so the attempts never interfere, and the /trees slash command creates those worktrees in one step. The tools are deliberately run in permissionless mode (claude --dangerously-skip-permissions, gemini --yolo, codex --dangerously-auto-approve-everything) so permission friction does not skew the comparison. It is aimed at developers who want to judge tool quality on a realistic task they can inspect themselves rather than on published benchmark numbers.

@@ -33,6 +33,7 @@ maintained: "dormant"
 sources:
   - "github_topic4"
 what_makes_it_special: "Free web-based BYOK AI code editor/generator using Monaco editor with LangGraph orchestration pipeline (plan->config->generate->finalize) for AI project generation and S3-compatible file storage."
+date_added: "2025-09-25"
 ---
 
 Lumnicode packages a self-hosted alternative to subscription AI editors: operators deploy it against PostgreSQL and any S3-compatible store (MinIO in development), and users bring their own provider keys, which the backend calls directly so costs track usage and no code or keys are pooled. Project generation runs through a LangGraph state machine - plan the file structure, generate configuration, write source files to S3, finalize - with per-node progress streamed over WebSocket into the editor. For existing code, a Cmd+K palette handles explain, refactor, completion, bug-finding, and test generation. Individual developers and small teams who want editor AI without per-seat pricing or vendor lock-in are the audience.

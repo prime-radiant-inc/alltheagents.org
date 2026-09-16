@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Bilingual (English and Korean) generative LLM with 7.8B parameters by LG AI Research, pre-trained on 8T tokens. Not a coding agent harness — it is a standalone language model. Competitive performance against Llama 3.1 8B, Gemma 2 9B, QWEN 2 7B, and others, particularly strong on Korean benchmarks."
+date_added: "2024-08-05"
 ---
 
 EXAONE 3.0 was LG AI Research's mid-size bilingual model, released in August 2024 in both pre-trained and instruction-tuned 7.8B forms after pre-training on 8 trillion tokens. Its instruction-tuned variant posted competitive results against larger models on Korean-language benchmarks, which made it a common base for Korean-language research and fine-tuning work. The EXAONE AI Model License 1.1 - NC restricted use to non-commercial purposes, and a license revision in August 2024 aimed at supporting the research ecosystem. The repository itself saw only a handful of commits around launch and has been inactive since August 2024, with LG's newer EXAONE releases superseding it under the same organization.

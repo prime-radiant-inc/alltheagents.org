@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Lightweight Vercel AI SDK-based coding agent library providing core primitives for building AI-powered coding assistants with tool support, session management, and context compaction; includes epi CLI as a full-featured coding agent with multi-provider support and skills"
+date_added: "2026-02-01"
 ---
 
 Building a coding assistant on the Claude Agent SDK locks the loop to Anthropic's runtime, and the Vercel AI SDK alone leaves you to write session handling, tool plumbing, and context compaction yourself. edge-pi supplies exactly those missing primitives on top of the Vercel AI SDK: tool execution, session management, and compaction, usable with any LLM provider. Its epi CLI is a compact, working agent — multi-provider, skills-aware — included to show the library end to end; the code descends from Mario Zechner's pi coding agent. It is aimed at developers who want an embeddable, provider-neutral agent kernel rather than a finished product.

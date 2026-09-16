@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Open-source AI coding assistant supporting local and cloud LLMs"
+date_added: "2026-08-26"
 ---
 
 DevoxxGenie started as a chat-with-your-code plugin for IntelliJ and grew into a full agent surface: the agent loop executes edits and shell work, a Spec Browser tracks tasks from Backlog.md, and the Agent Loop batch-runs dependent tasks in order. SKILL.md files dropped into project or user directories activate mid-conversation, the same files Claude Code and Codex read, and ACP/CLI runners let the plugin drive external agents like Kimi, Gemini CLI, or Claude Code. Local LLMs get first-class treatment with fill-in-the-middle completion via Ollama or LM Studio, and security scanning (Gitleaks, OpenGrep, Trivy) files findings as prioritized tasks. It suits Java-centric developers who want agentic workflows in IntelliJ without abandoning local models.

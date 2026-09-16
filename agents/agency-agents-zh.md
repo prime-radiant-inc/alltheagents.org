@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "A library of 268 plug-and-play AI expert agent personas across 20 departments, including 50+ China-specific agents (Xiaohongshu, Douyin, WeChat, Feishu, DingTalk), with one-click installation across 18 AI coding tools and a companion orchestrator for multi-agent DAG-based collaboration."
+date_added: "2026-03-06"
 ---
 
 English-language agent persona libraries dominate the ecosystem, and Chinese-speaking teams end up translating or improvising. agency-agents-zh, a localized fork of the msitarzewski/agency-agents library, ships 276 markdown persona files across 20 departments, adding 50+ agents for Chinese platforms — Xiaohongshu content, Douyin operations, WeChat, Feishu, DingTalk workflows. Conversion and install scripts (convert.sh, install.sh, lint-agents.sh) target 18 AI coding tools, with Claude Code support as a direct copy into ~/.claude/agents, and a companion orchestrator coordinates multi-agent DAG workflows across ten LLM providers (seven free). A web gallery at ao.aiolaola.com lets users browse and copy prompts without installing. Chinese-speaking marketing, operations, and engineering teams are the audience.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "The 'loving child of tmux and Claude Code': an agentic IDE that unifies coding agents, shells, editors, and browsers into a tabbed/paned workspace across desktop, laptop, and phone (VPN/Tailscale); cross-device session resumption ('speak with the dead' - resume any Claude/Codex/OpenCode session from any device); Freshclaude interactive alternative to Claude CLI with rich chat UI; Stream Deck hardware integration; extension system (client/server/CLI pane types); self-configuring workspace where agents can create tabs, panes, browsers, and subagents programmatically."
+date_added: "2026-01-29"
 ---
 
 Agent CLI sessions are normally trapped in one terminal on one machine, which breaks when work spans a desk machine, a laptop, and a phone. Freshell is a self-hosted web workspace (React front end over node-pty) that hosts Claude Code, Codex, OpenCode, Gemini, and Kimi sessions alongside shells, editors, and browser panes, indexes their session histories, and lets any device resume a session where it left off. Agents can configure the workspace themselves through an extension API that creates tabs, panes, browsers, and subagents programmatically, and a Freshclaude chat UI wraps the Claude CLI with a richer interface. It is MIT-licensed, installed from source with Node 18+, and used by developers who juggle several agent CLIs across devices.

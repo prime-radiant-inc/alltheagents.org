@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Full multi-agent AI system that reads, writes, executes"
+date_added: "2026-07-09"
 ---
 
 Celebrimbot is an IntelliJ plugin that embeds a multi-agent AI coding system directly in JetBrains IDEs. From a single chat panel the system reads project files, writes and modifies code, executes terminal commands, searches the web, and inspects git history, with an agentic loop that routes requests, executes tasks locally where possible, and escalates to cloud planning only when the task requires it, retrying failures automatically. Its architecture splits into three modules — a pure-Kotlin core, the IntelliJ plugin layer, and a standalone CLI/HTTP server — with a lazy model manager that loads the model on first use and unloads it after 60 seconds of inactivity to avoid taxing IDE memory. This targets JetBrains developers who want an agentic, tool-using assistant inside their IDE without the per-token subscription model of cloud-bound competitors. It is distributed free on the JetBrains Marketplace (created July 2026) under an Apache-2.0 license, with source available on GitHub.

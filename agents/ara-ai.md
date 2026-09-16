@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "Self-driving AI IDE for proactive, autonomous product development. Marketed as 'Your own coding agent, anywhere.' Website is minimal with only a hero section and login link; detailed information not publicly available."
+date_added: "2026-08-19"
 ---
 
 Ara (ara.so) positions itself as 'the cloud coding agent for software engineers', built on the premise that agents with full computer access — not editor-embedded assistants — unlock real autonomous development. Beyond that positioning the public surface is minimal: a hero section, an early-beta login, and no documentation of how its agents run, what they can access, or what they cost. The product is cloud-hosted (no self-hosting path), closed-source, and gated behind beta signup, so claims about its autonomy cannot be evaluated from outside. Engineers evaluating it today can only request beta access; everything else is undocumented.

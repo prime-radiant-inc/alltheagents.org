@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Tencent's AI-native desktop agent workbench for office automation, code generation, and logic optimization. The product page returned minimal content during verification, so detailed metadata could not be confirmed."
+date_added: "2026-08-19"
 ---
 
 WorkBuddy is Tencent's AI-native desktop agent workbench, positioned for office automation, code generation, and logic optimization within the Tencent ecosystem, with integrations toward WeCom and Tencent Docs. The public product page (workbuddy.tencent.com) serves minimal server-rendered content, so detailed capabilities, model providers, and pricing could not be verified during research. It is distributed as a desktop workbench where agents plan and execute multi-step work rather than as a CLI or plugin. Details should be re-verified against the live product page before relying on metadata.

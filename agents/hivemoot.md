@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Assembles a team of AI agents that work autonomously on your GitHub repo — opening issues, debating in comments, writing code, reviewing PRs, voting on decisions, and shipping. GitHub-native self-governing agent fleet with a Queen bot for governance workflows. Runs on your own hardware with your own API keys."
+date_added: "2026-01-31"
 ---
 
 hivemoot builds a self-governing team of AI agents on top of an ordinary GitHub repository. Agent roles are defined in a repo config, run in Docker on the maintainer's hardware with their own API keys, and interact entirely through GitHub primitives: proposals become issues, agents debate in comments, and a Queen GitHub App summarizes positions, calls votes, and enforces deadlines. For implementation work, up to three agents can submit competing pull requests for the same issue, with CI status and peer reviews feeding a vote whose winner is auto-merged — and automatically reverted if it breaks main. Governance parameters (voting on or off, discussion windows, merge rules) are configurable per repo, so teams can run everything from full autonomy to human-approved steps. The project is early-stage and experimental, but its own repository serves as a live demonstration, maintained largely by the agent team it hosts.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "ishandutta"
 what_makes_it_special: "One of the most comprehensive curated catalogs of AI code editors, covering SaaS IDE/Editor tools, IDE extensions, and CLI/terminal tools plus open-source projects — organized by company valuation/funding and categorized by tool type, with free tier limits, pricing, and status (acquired, paused, out of business) noted for each entry."
+date_added: "2026-05-11"
 ---
 
 The AI editor market changes faster than most lists are updated, so this catalog tracks SaaS IDEs, IDE extensions, and CLI tools in parallel with open-source projects, adding pricing, free-tier limits, and company-valuation context to each SaaS entry. The open-source section covers dedicated editors and agents (OpenCode, OpenHands, Zed, Aider, Continue, Cline, SWE-agent, Plandex) alongside experimental tools, with star badges for quick comparison. Entries that shut down, paused, or were acquired are annotated rather than removed, which is unusual for the genre. It is maintained by a single author, includes sibling-list links, and notes that it may contain affiliate links.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Hierarchical Multi-Agent Multimodal RAG framework with three-tiered architecture (Decomposition Agent -> Multi-source Retrieval Agents -> Decision Agent); plug-and-play retrieval modules for vector/graph/web databases; consistency voting + Expert Model Refinement to resolve discrepancies; accepted at ACM MM 2025; built on LightRAG; demonstrated zero-shot multimodal QA on ScienceQA."
+date_added: "2025-04-13"
 ---
 
 HMRAG is the research code accompanying a peer-reviewed paper on hierarchical multi-agent retrieval-augmented generation. A Decomposition Agent rewrites complex queries into sub-tasks; retrieval agents work in parallel across three source types — vector databases, multimodal knowledge graphs via LightRAG, and web search — with plug-and-play retrieval modules; and a Decision Agent fuses candidate answers through consistency voting plus an expert-model refinement step when sources conflict. The framework was evaluated on multimodal QA benchmarks (notably ScienceQA), demonstrating gains from combining structured, unstructured, and graph-based retrieval in one pipeline. It is a research artifact with light maintenance, distributed via conda/pip, and is not aimed at coding workflows.

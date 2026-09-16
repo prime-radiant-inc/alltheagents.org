@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "github_topic4"
 what_makes_it_special: "Multi-agent code generation framework for competitive programming using four LLM agents (retrieval, planning, coding, debugging) with an adaptive agent traversal schema that dynamically cascades; achieved SOTA pass@1 on 8 benchmarks (HumanEval 93.9%, MBPP 83.1%, CodeContests 28.5%); accepted at ACL 2024. Repo explicitly states it will no longer be maintained (successor is CodeSIM)."
+date_added: "2024-04-29"
 ---
 
 MapCoder replicated the human competitive-programming cycle across four LLM agents: a retrieval agent recalls similar solved problems from the model's own memory (no external retriever), a planner produces step-by-step solutions conditioned on those examples, a coding agent translates plans into code tested against sample I/O, and a debugging agent fixes failures using the plan as context. The adaptive traversal scheme lets agents cascade and retry dynamically rather than follow a fixed flow, which drove state-of-the-art pass@1 on eight benchmarks at publication (93.9% HumanEval, 83.1% MBPP with GPT-4). The ACL 2024 paper documents the method, and the authors have ended maintenance in favor of their successor, CodeSIM.

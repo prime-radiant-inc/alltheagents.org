@@ -33,6 +33,7 @@ sources:
   - "jqueryscript"
   - "brad"
 what_makes_it_special: "SpaceXAI's terminal-based AI coding agent running as a full-screen TUI. Understands codebases, edits files, executes shell commands, searches the web, and manages long-running tasks. Can run interactively, headlessly for scripting/CI, or embedded in editors via Agent Client Protocol (ACP). Source synced periodically from the SpaceXAI monorepo."
+date_added: "2026-07-14"
 ---
 
 Grok Build is xAI's official coding agent, distributed as the grok binary and maintained as a periodically synced public mirror of the company's internal monorepo. It presents a full-screen, mouse-interactive terminal UI that reads the codebase, edits files, executes shell commands, performs web searches, and manages long-running tasks, with checkpoints and workspace awareness for safety. The same binary runs interactively, headlessly over stdio for scripts and CI, or embedded in editors through the Agent Client Protocol. The user guide documents MCP servers, plugins, hooks, skills, slash commands, and sandboxing, while authentication is by browser login to an xAI account with no third-party provider support. External contributions are not accepted, and the repository records the internal source revision it was built from.

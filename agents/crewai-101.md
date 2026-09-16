@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "A beginner-level experiment demonstrating multi-agent orchestration using the CrewAI framework. Provides 5 detailed methods for setting the OpenAI API key on Windows (Control Panel, Command Prompt, PowerShell, .env file, Registry), making it a handy guide for Windows users new to CrewAI."
+date_added: "2024-05-26"
 ---
 
 CrewAI-101 is a personal learning project that experiments with the CrewAI multi-agent framework rather than a tool anyone would adopt. The repository contains a single demo script, a helper for API-key setup, and a README dominated by Windows environment-variable instructions. With five commits, zero stars, and no activity since mid-2024, it functions as an artifact of one developer's framework evaluation. It has no users and no development roadmap.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Native chat GUI for AI coding agents inside JetBrains"
+date_added: "2026-03-03"
 ---
 
 Running Claude Code next to IntelliJ means context lives in two places: the IDE knows the project, the terminal knows the agent. Agent GUI embeds the agent as a native JetBrains tool window built with Compose for IDE, streaming responses with markdown rendering, visualizing tool calls and sub-agent tasks inline, and routing file-edit permissions through approve/deny prompts inside the IDE. Sessions persist across IDE restarts, files attach to prompts, and the UI follows the editor's light/dark theme. It currently drives Claude Code (CLI on PATH with an Anthropic API key or Claude Max plan), with Codex support planned. JetBrains-centric developers who want their agent conversation co-located with their code are the audience.

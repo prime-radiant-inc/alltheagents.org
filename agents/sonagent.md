@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Self-repairing autonomous agent for digital-consciousness backup that can debug, edit, and compile its own source code under human approval; uses a unique belief-based thinking system for autonomous decision-making and continuous learning from human feedback."
+date_added: "2023-12-01"
 ---
 
 SonAgent started as an experiment in 'digital consciousness backup' — an autonomous process that monitors and archives a person's digital presence — and evolved into a self-referential system that can debug, patch, and recompile its own source code, with each modification gated by human approval. Its decision layer is built around a belief store the agent updates over time, rather than a static system prompt, with human feedback shaping future decisions. Skills such as network training, web search, and file writing load into user_data/skills on first run, and the stack installs via pip or docker-compose with a Read the Docs site for reference. It remains a solo-maintained experiment of interest to people studying self-modifying agent architectures, not a production coding tool.

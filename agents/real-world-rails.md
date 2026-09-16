@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Aggregates 200+ production open source Rails apps and engines as git submodules in one repo, enabling AI coding agents to search and cross-reference real-world codebases to research architectural patterns (multi-tenancy, auth, background jobs, soft deletes, etc.)."
+date_added: "2026-02-23"
 ---
 
 Real World Rails aggregates more than two hundred open-source, production-grade Rails applications and engines as git submodules in a single repository, giving an AI coding agent — or a human — a corpus of real architectural decisions to search across. A companion agent skill, installable through the skills CLI, teaches an agent how to navigate the corpus and answer cross-cutting questions: how different apps handle multi-tenancy, background job retries, soft deletes, or authorization. The collection descends from a pre-AI-era resource for learning Rails by reading production code, reframed here for agentic research with a weekly GitHub Action keeping submodules current. Inclusion criteria require open-source licensing, real-world provenance rather than tutorials, and active maintenance. Rails developers and anyone building AI coding tools use it as reference material that grounds agent answers in real codebase patterns rather than generic advice.

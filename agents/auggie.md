@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Augment's agentic coding CLI for the terminal. Understands your codebase and helps ship faster by analyzing code, making safe edits, and automating routine tasks via natural language."
+date_added: "2025-09-08"
 ---
 
 Auggie is the command-line counterpart to Augment Code's IDE extensions, bringing the company's codebase-aware agent to the terminal. It builds a persistent codebase understanding (Augment's context engine) so edits and refactors respect project structure rather than isolated files, driven by natural language from any terminal. Custom slash commands live as markdown files with frontmatter in .augment/commands, shared per repository like dotfiles. Headless flags (-p, --quiet) and official GitHub Actions (augment-agent, review-pr, describe-pr) make it usable in CI for PR review and description generation. It requires Node.js 22+, installs via npm, and is actively maintained, targeting developers who already use Augment's context engine and want the same agent in terminals and CI.

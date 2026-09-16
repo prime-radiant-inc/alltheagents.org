@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "hackernews"
 what_makes_it_special: "A native desktop app for all your coding agents, built in Rust with GPUI (the GPU-accelerated framework behind Zed, explicitly not Electron): it connects to each agent via its strongest native interface (stream-json, JSON-RPC, live events), normalizes sessions into a provider-neutral model, and snapshots the working tree under a hidden git ref at every prompt so code and conversation rewind together."
+date_added: "2026-07-31"
 ---
 
 Waku is a native macOS app from EGOIST that aggregates the coding agent CLIs you already run into a single window it calls graphite. It connects to each agent through its strongest native protocol and normalizes sessions, transcripts, tool activity, and checkpoints into a provider-neutral model, so the interface stays the same regardless of which agent is underneath. Every prompt snapshots your working tree under a hidden git ref, which lets you roll back the code and the provider conversation together — the checkpoint is tied to the turn, not just the filesystem. It is local-first with no account, no telemetry, and no cloud service, requires no new API keys, and its keyboard-first interactions (cmd+N for a new session, return to queue follow-ups, cmd+return to steer mid-turn) target developers who live in these loops all day. The app is signed and notarized with Sparkle auto-updates, and the site notes it is not YC-backed.

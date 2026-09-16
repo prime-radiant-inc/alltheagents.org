@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "e2b"
 what_makes_it_special: "AI agent that bumps npm dependencies and automatically fixes breaking code changes using AST analysis (ts-morph) and a plan graph DAG (based on Microsoft's codeplan paper) to propagate fixes across the codebase. Roadmap includes Java, Go, C#, Python support."
+date_added: "2024-04-09"
 ---
 
 bumpgen exists because dependency upgrades break code in ways that simple 'bump and pray' tools ignore: the version change succeeds but the build fails, and someone must trace every downstream use of the changed API. The agent builds the project to detect what breaks, uses ts-morph to analyze the AST and pull type definitions for the new package version, and consults an LLM for fixes; its distinctive piece is a plan-graph DAG adapted from Microsoft's CodePlan research, which lets it chain fixes so that a repair's own second-order breakage also gets addressed. Scope is deliberately narrow — npm/TypeScript only, build-error breakage only — and the tool ships both as a CLI and a GitHub Action intended to run on Dependabot or Renovate pull requests, committing fixes to the PR branch. xeol-io, the supply-chain security company behind it, used it to demonstrate AI-assisted upgrades; the repository has not seen commits since 2024 and the roadmap items (more languages, test oracles, GitHub App) were never completed.

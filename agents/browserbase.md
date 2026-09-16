@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Associated link: the Twitter/X account for Browserbase (twitter.com/browserbasehq), a cloud browser infrastructure provider; not a standalone coding agent harness"
+date_added: "2026-08-19"
 ---
 
 Browserbase sells browser infrastructure: on-demand, isolated browser sessions in the cloud that agents and automations can drive, alongside SDKs (the open-source Stagehand framework), a Fetch API for URL-to-markdown extraction, session replays for observability, and identity management for authenticated flows. Coding agents consume it as a tool — a Browserbase MCP server lets Claude Code or similar harnesses call live web browsing as a tool, and templates exist specifically for wiring Claude Code to the service — but Browserbase itself performs no coding and has no agent loop of its own. Its customers are AI product teams and agent developers (Anthropic, Vercel, and thousands of others) who need reliable web access at scale without managing browser fleets. The entry sits in the census as ecosystem infrastructure rather than a harness, which is why the category is 'other'.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "Mistral Vibe CLI is a native terminal-based coding agent with MCP server support (HTTP, streamable-HTTP, stdio), a Skills plugin system with custom slash commands, subagents via task delegation with built-in explore agent, lifecycle hooks (pre_tool, post_tool, post_agent), and plan mode. Devstral 2 model achieves 72.2% on SWE-bench Verified with only 123B parameters, 256K context window, and up to 7x more cost-efficient than Claude Sonnet. Devstral Small 2 runs locally on consumer hardware. 4.9k stars on GitHub."
+date_added: "2026-08-19"
 ---
 
 Mistral built Vibe CLI as the reference client for Devstral 2 and as an open counterweight to proprietary terminal agents: it scans the project and git state for context, exposes @-file and !-shell references, and orchestrates multi-file edits with architecture-level reasoning. The extension points mirror the Claude Code model — MCP servers over stdio or HTTP, an Agent Skills spec directory tree that doubles as slash commands, TOML-declared hooks, and custom subagents declared in config with a read-only plan agent built in. It runs against the Mistral API or any compatible endpoint and integrates into IDEs through ACP. Teams already standardized on Devstral use it to keep both model and harness under their own control.

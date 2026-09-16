@@ -36,6 +36,7 @@ sources:
   - "ishandutta"
   - "tiennm"
 what_makes_it_special: "OpenAI's official coding agent that runs in the terminal with native sandboxing; can also integrate into VS Code, Cursor, and Windsurf. Supports MCP, plugins, hooks, subagents, and multiple execution modes."
+date_added: "2025-04-13"
 ---
 
 Codex CLI is OpenAI's terminal coding agent, distributed as open source under Apache-2.0 with the core written in Rust. It runs locally with sandboxing around command execution and file edits, and offers approval modes from read-only through full autonomy. Authentication uses either a ChatGPT account (Plus, Pro, Business, Edu, or Enterprise) or an OpenAI API key, and the CLI connects to the same Codex ecosystem as the IDE extension and the cloud-based Codex Web at chatgpt.com/codex. The agent supports MCP servers, plugins, hooks, and subagents, with configuration documented at developers.openai.com/codex. It is installed via a curl script, npm (@openai/codex), Homebrew, or GitHub release binaries.

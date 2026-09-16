@@ -34,6 +34,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Terminal IDE enhancement for Claude Code with 9-terminal grid for running multiple CLI coding agents simultaneously; full computer control (drives mouse/keyboard) and embedded per-terminal Chrome browsers using existing AI subscription (zero extra API costs); 100% local Whisper voice dictation; zero-setup LAN remote control; organizes projects by folders rather than chats."
+date_added: "2026-08-19"
 ---
 
 PATAPIM grew from a solo developer's setup into a terminal manager for people running multiple CLI coding agents, wrapping Claude Code, Codex, Antigravity, Gemini, or any custom CLI in a nine-terminal grid organized by project folder rather than chat history. Beyond window management it adds capabilities the underlying CLIs lack: a local Whisper dictation layer for voice input, an embedded Chrome instance per terminal that agents can see and drive, full mouse/keyboard computer control, and zero-configuration LAN remote access from a phone or second desktop. An isolated plugin system registers MCP tools that automatically appear in every Claude Code session, adds UI panels and scheduled tasks, and is extensible through a TypeScript SDK with a marketplace. Because it wraps the user's own subscriptions, there are no per-token charges beyond the app's own tiers. Its users are solo developers and small teams running several agent sessions at once.

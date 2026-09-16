@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Runtime failure resolution for coding agents with zero latency, running locally. 30 built-in policies activate immediately (blocks pushes to main, force pushes, recursive deletion, API key leaks). Custom policy system with allow/deny/instruct decisions. Local dashboard for session visibility — every tool call logged. Hooks into 12+ agent CLIs (Claude Code, Codex, Cursor, etc.). MIT with Commons Clause — free for internal/personal use, commercial resale requires separate agreement."
+date_added: "2026-04-06"
 ---
 
 FailproofAI was built on the observation that agent harnesses ship powerful tools with permissive defaults, and teams adopt them faster than they write guardrails. It instruments harnesses through their hook systems (PreToolUse and equivalents) across a dozen agents including Claude Code, Codex, Cursor, Copilot CLI, OpenCode, and Devin CLI, plus gateways via a Python SDK for custom agents. Policies return allow, deny with a message, or instruct with guidance, so enforcement is a call-level gate rather than a prompt-level hope; every run is recorded and viewable in a local dashboard on port 8020, with an optional hosted observability tier. Custom policies are TypeScript files in .failproofai/policies/, making it straightforward for platform teams to encode their own rules without forking each harness's configuration.

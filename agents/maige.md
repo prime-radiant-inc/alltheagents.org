@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "e2b"
 what_makes_it_special: "Open-source infrastructure by Rubric Labs for running natural language workflows on your codebase; auto-labels, assigns, comments on, and reviews issues/PRs via a GitHub App. Currently in alpha."
+date_added: "2024-05-01"
 ---
 
 Maige automates the triage and review labor that consumes maintainer time on active repositories: plain-language rules replace webhooks-plus-scripts, so instructions like 'review any PR touching auth for security issues' or 'label new issues by component' become standing agent behavior. Runs execute in a sandbox against codebase embeddings, letting the agent label, assign, comment, review, and propose code changes through the GitHub API. The hosted service costs $30/month after 30 free issues, and the AGPL-licensed source supports self-hosting for teams that want their own deployment. Repositories such as Documenso, Nuxt, Highlight.io, and Cal.com have used it; the product remains in alpha under Rubric Labs.

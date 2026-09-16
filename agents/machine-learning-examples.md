@@ -31,6 +31,7 @@ maintained: "dead"
 sources:
   - "jim"
 what_makes_it_special: "A collection of machine learning workflow examples (e.g., imdb-sentiment-analysis). Not a coding agent harness."
+date_added: "2018-07-25"
 ---
 
 The repository holds a handful of worked machine-learning examples, with the IMDB sentiment classifier as its main artifact, each implemented as a self-contained notebook or script. Learners use it as reference material for standard workflows rather than as software, and the repository carries no license and has seen only three commits, making it a static, archival example collection.

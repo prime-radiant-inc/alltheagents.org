@@ -32,6 +32,7 @@ maintained: null
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "AI app builder for creating web applications from natural language"
+date_added: "2026-08-19"
 ---
 
 The census listing describes Rocket as an AI builder that produces web applications from natural-language descriptions, placing it in the same prompt-to-product family as v0, Bolt, and Lovable. Verification could not confirm this from primary sources: the site refused automated access with a payment-required response, and searches surfaced several unrelated products with similar names (Rocket.new, RocketWebAI) but no independent coverage of rocketai.app itself. Its mechanics, pricing, model providers, and maintenance state therefore remain unverified, and the entry should be treated as provisional pending manual review. Readers should not conflate it with the better-indexed Rocket.new, which is a distinct product.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "namphuong"
 what_makes_it_special: "Provides curated, versioned API documentation as open markdown that coding agents can fetch via CLI, reducing API hallucinations. Enables self-improving agents through local annotations that persist across sessions and community feedback (up/down ratings) that flows back to doc authors."
+date_added: "2025-10-30"
 ---
 
 Coding agents hallucinate APIs because their training data lags current library versions, and pasting entire documentation sites into context wastes tokens. Context Hub maintains curated, versioned API documentation as plain markdown in a git repository: an agent searches the catalog, fetches exactly the pages needed for its language and version, and writes correct calls against current APIs. Two feedback mechanisms make the corpus self-improving - agents leave local annotations that persist across sessions and are re-injected into later fetches, and users vote pages up or down so authors see which content needs fixing. Installation is a global npm package, and a SKILL.md lets Claude Code load it as a skill. Developers wiring agents to third-party APIs are the users, and the corpus grows through community pull requests.

@@ -33,6 +33,7 @@ sources:
   - "e2b"
   - "jim"
 what_makes_it_special: "A zero-code multi-agent orchestration platform with visual workflow canvas and drag-and-drop agent orchestration; evolved from a 'Virtual Software Company' into a general-purpose platform for data visualization, 3D generation, game development, and deep research."
+date_added: "2023-08-28"
 ---
 
 ChatDev began as a research project from Tsinghua NLP and ModelBest simulating a virtual software company: LLM agents take on roles like CEO, CTO, and programmer, collaborating through a chain-shaped 'ChatChain' topology to move a one-line idea through design, coding, testing, and documentation. The project has since broadened beyond software into a general multi-agent platform, releasing ChatDev 2.0 with a drag-and-drop visual workflow canvas where agents are configured via YAML and composed through a web UI, targeting applications from 3D generation and game development to deep research. Under the hood it evolved from chain topologies to DAG-based multi-agent collaboration networks (MacNet) that scale to thousands of agents, backed by a series of research papers and an active OpenBMB community. Researchers in multi-agent collaboration and developers exploring agent-based software automation are its primary users; it is open source under Apache-2.0, installable via pip or Docker, with an MCP example directory included.

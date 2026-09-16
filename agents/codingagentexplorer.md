@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Real-time .NET proxy and dashboard for inspecting Claude Code API calls. Transparent proxy architecture using YARP and SignalR. Captures MCP tool calls between Claude Code and HTTP-based MCP servers (port 9999). HookAgent CLI bridges Claude Code's hook system with 15 hook events. API keys automatically redacted for security. Note: this is an inspection/observability tool, not a coding agent harness itself."
+date_added: "2026-02-08"
 ---
 
 Claude Code hides its API traffic in the terminal, which makes it hard to debug hook behavior, MCP server interactions, or unexpected token usage, and it gives instructors nothing to show students. Coding Agent Explorer inserts itself as a localhost reverse proxy: Claude Code is pointed at it via ANTHROPIC_BASE_URL, the proxy forwards to the Anthropic API, and a SignalR dashboard renders every request, response, streaming event, and MCP JSON-RPC call as a live chat-style timeline with token usage and latency per request. A companion HookAgent CLI captures all fifteen Claude Code hook event types and posts them to the same dashboard. Storage is in-memory (capped at 1,000 requests), API keys are redacted, and everything stays on localhost. It is used by developers debugging MCP servers and hooks, and by .NET instructor Tore Nestenius in his AI agent workshops.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "One tiny script with zero setup runs every major coding agent simultaneously in read-only mode to cross-review your diff and deliver a unified ship/no-ship verdict; no server, no MCP, uses your own provider logins. Antigravity (which lacks a read-only switch) enforces read-only via plan mode."
+date_added: "2026-06-15"
 ---
 
 Postmortemthis starts from the observation that the agent which wrote your code is the worst judge of it, so a diff deserves review by models that had no hand in producing it. Piping one prompt into its small Rust launcher fans the review out to Claude Code, Codex, Antigravity, Qwen, Vibe, and Grok in parallel, each forced read-only through its own CLI flags so the working tree cannot change mid-run. There is deliberately no server, no MCP, and no resold access: agents you are logged into review directly, and OpenRouter covers the rest through a setup subcommand. Results aggregate into a single ship or no-ship call before a real postmortem happens. It is aimed at developers who already run several agent CLIs and want cross-model second opinions with zero setup.

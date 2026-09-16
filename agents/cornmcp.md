@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "MCP server + analytics dashboard giving AI coding agents surgical, token-saving access to codebases via 18 tools: semantic memory, AST-based code intelligence, quality gates, session tracking, analytics"
+date_added: "2026-03-26"
 ---
 
 Coding agents waste tokens re-reading code, re-deriving call graphs, and repeating lessons from prior sessions, and nothing checks the quality of what they produce before it lands. CornMCP runs locally as a three-service stack - an MCP server exposing 18 tools, a Hono REST API with a native TypeScript AST engine, and a Next.js analytics dashboard - giving agents surgical codebase access instead of repeated full-file reads. Semantic memory stores persist lessons across sessions, impact analysis traces the blast radius of a proposed change, and quality gates reject agent plans scoring below a threshold before execution proceeds. Session tracking and tool-usage analytics surface in the dashboard for tuning. Developers running Claude Code, Cursor, Codex, or Windsurf against large codebases attach it to cut token spend and enforce standards.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_final"
 what_makes_it_special: "Community-sourced tips directly from Threads with attribution to each contributor, organized into 8 practical categories (Skills design, token saving, CLAUDE.md config, Vibe Coding/UI, tool integration, Obsidian/knowledge management, workflow cases, learning resources), each tip includes a relatable analogy and real-world application"
+date_added: "2026-04-13"
 ---
 
 The document gathers practical Claude Code and vibe-coding tips posted on Threads, organized into eight sections: skill design, token and session saving, CLAUDE.md configuration, UI work, tool integrations, Obsidian-based knowledge management, workflow case studies, and learning resources. Each tip links back to the contributing author's original post. It is a README-only repository — no code, license file, or install — compiled from posts collected between April 5 and April 13, 2026. The audience is Chinese-reading Claude Code users mining workflow advice, and although the author invites submissions, only two commits exist.

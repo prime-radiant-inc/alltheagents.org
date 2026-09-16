@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "flatlogic"
 what_makes_it_special: "OpenAI's coding agent available in ChatGPT, as an IDE extension, and as a CLI; completes engineering tasks end-to-end (features, refactors, migrations, reviews, issue triage, CI/CD)."
+date_added: "2026-08-19"
 ---
 
 Codex is OpenAI's engineering agent, accessible from ChatGPT as a command center, as an IDE extension, and as a terminal CLI, all linked to one ChatGPT account. Tasks — building features, refactoring, migrations, code review, issue triage — run against OpenAI's frontier coding models either locally or in cloud environments, with parallel agents working across isolated worktrees. The product supports skills that encode a team's standards and workflows, and background automation schedules recurring jobs such as issue triage, alert monitoring, and CI/CD tasks. It is positioned as completing engineering work end to end: design, implementation, testing, and review, with results surfacing as pull requests.

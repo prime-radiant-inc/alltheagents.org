@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Terminal coding agent running entirely on your own Cloudflare account via Workers AI; 262k context window, AI Gateway-confirmed cost tracking, local SQLite+embeddings memory, image understanding, OS-aware shell (Windows support), headless SDK + RPC mode; 5 hook events (PreToolUse, PostToolUse, UserPromptSubmit, Stop, PreCompact)."
+date_added: "2026-04-21"
 ---
 
 Kimiflare addresses token-cost opacity by running inference on the user's own Cloudflare Workers AI account and routing traffic through Cloudflare AI Gateway, which returns authoritative per-turn costs, cache-hit ratios, and per-feature breakdowns instead of estimates. The agent ships 262k-context models, image understanding, MCP tool extension, LSP integration, local SQLite memory, and veto-capable hooks at five lifecycle points managed through a /hooks catalog. Modes cycle between plan (read-only research), edit (approval per mutation), and auto. Individual developers and small teams use it to keep coding-agent spend inside a Cloudflare bill they already control.

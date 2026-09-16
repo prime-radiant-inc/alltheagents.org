@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Bridges AI coding assistants with the IDE via a local server"
+date_added: "2026-04-11"
 ---
 
 betool addresses a specific gap: AI coding agents that propose edits outside the IDE have no native way to surface those changes inside JetBrains IDEs for review. The plugin runs a local server that receives code modification proposals from the betool CLI and presents them as interactive red/green diffs in a modal dialog, where each change is accepted or rejected with one click before being applied, with files backed up beforehand. It works across IntelliJ IDEA, WebStorm, PyCharm, GoLand, and other JetBrains IDEs, starts automatically with the project, requires no configuration, and falls back to terminal mode when IntelliJ is not running. The plugin is free; usage requires a betool.fr account and payment is by AI tokens consumed. It is aimed at JetBrains developers who want agent-proposed changes surfaced as in-IDE reviewable diffs.

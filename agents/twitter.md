@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Associated link: the Twitter/X account for Nurgo Software (twitter.com/Nurgo), a French company making Windows utilities including BrainSoup, an AI/LLM agent application; not a standalone agent harness"
+date_added: "2026-08-19"
 ---
 
 This entry is the Twitter/X account of Nurgo Software, the French developer of BrainSoup, rather than a product page. BrainSoup itself is a separate census entry; the account mostly posts Windows utility and AI tooling updates. The census retained the link for completeness, and it is categorized as other because an account page is neither an agent nor a multiplexer.

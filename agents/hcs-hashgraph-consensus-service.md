@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "caramaschi"
 what_makes_it_special: "Open standards (HCS-1 through HCS-28) for AI-agent infrastructure on Hedera's Hashgraph Consensus Service; neutral coordination layer covering registries, identity, payments, privacy/security, and inter-agent communication; 30+ founding partners; includes live Registry Broker and MCP plugins for Claude, Codex, Cursor."
+date_added: "2026-08-19"
 ---
 
 Hashgraph Online maintains the Hiero Consensus Standards (HCS-1 through HCS-28), a suite of open specifications for AI-agent infrastructure built on the Hedera network under the Linux Foundation's Decentralized Trust umbrella. The standards cover the pieces an agent ecosystem needs beyond the model: on-chain file storage and registries (HCS-1/2/3), identity profiles and Universal Agent IDs (HCS-11/14), agent-to-agent communication (HCS-10), trust scores, privacy compliance, transparency logging, and agentic payment flows. Alongside the specifications, the ecosystem ships SDKs for TypeScript and Python, a Registry Broker that indexes agents across protocols such as A2A, MCP, and ERC-8004, and developer surfaces including registry skills for coding assistants and a Codex plugin. Its audience is developers building agent infrastructure — identity, payments, discovery — rather than coding harnesses themselves.

@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "Multi-agent orchestration framework (also called 'Agent Gateway') with native Snowflake services support. Routes requests to appropriate tools (Cortex Search for RAG, Cortex Analyst for Text2SQL, Python for custom operations, SQL for custom pipelines) instead of requiring users to choose between them. Uses LLM Compiler architecture from Berkeley AI Research, supports parallel function calling, Trulens tracing, and runs in SPCS/Snowflake Notebooks with a Streamlit UI demo. Not a coding agent harness."
+date_added: "2024-09-18"
 ---
 
 Snowflake shops face a forced choice when serving AI features: Cortex Search for unstructured RAG or Cortex Analyst for Text2SQL, with no client-side layer that combines them in one request. Snowflake Labs' Agent Gateway fills that gap as a pip-installable Python framework built on Snowpark: a planner LLM decomposes a request into an execution graph of tasks with parallel function calling, following Berkeley's LLM Compiler architecture, and routes each step to Cortex Search, Cortex Analyst, Python tools, or custom SQL tools. Multi-step, multi-tool, multi-hop workflows run client-side with an optional TruLens observability extra, and a Quickstart notebook plus Streamlit demo cover onboarding. The FAQ points teams wanting in-Snowflake orchestration to the managed Cortex Agent API instead, positioning this as the client-side alternative. It is Apache-2.0 Python for Snowpark users, with moderate activity (132 commits).

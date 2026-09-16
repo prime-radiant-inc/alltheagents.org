@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Local-first terminal TUI and report generator for AI coding-agent session history; reads logs from Claude Code, Codex CLI, Gemini CLI, Qwen Code, Cline, Aider, Cursor, and more; provides cost, token, and time analysis with baseline comparison; MCP governance inspection; all processing local"
+date_added: "2026-05-01"
 ---
 
 After a week of agent work, developers have no easy answer to basic questions: what did the runs cost, which sessions hung, why was that task slow. AgentTrace parses local logs from Claude Code, Codex CLI, Gemini CLI, Qwen Code, Cline, Aider, Cursor exports, OpenCode, OpenClaw, Kimi CLI, and generic JSONL traces, then produces spend breakdowns by agent and model, slow-task diagnosis (retry loops, hanging sessions, context pressure), and governance reports with Git delivery correlation. Reports export as JSON, Markdown, or self-contained HTML and can be compared against a local baseline to catch regressions. Reports label their own data completeness as Detailed, Aggregate, or Limited rather than overstating coverage. It is distributed as a Rust binary via brew, npm, winget, and cargo.

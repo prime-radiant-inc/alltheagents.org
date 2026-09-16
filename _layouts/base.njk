@@ -8,15 +8,11 @@
 </head>
 <body>
   {% set navLinks = [
-    { url: "/about/", label: "About" },
-    { url: "/all/", label: "All Entries" },
-    { url: "/by-license/", label: "By License" },
-    { url: "/by-platform/", label: "By Platform" },
-    { url: "/by-maker/", label: "By Maker" },
-    { url: "/stars/", label: "By Stars" },
-    { url: "/newest/", label: "Newest" },
+    { url: "/agents/", label: "Agents" },
+    { url: "/agent-sdks/", label: "Agent SDKs" },
     { url: "/multiplexers/", label: "Multiplexers" },
-    { url: "/agent-sdks/", label: "Agent SDKs" }
+    { url: "/updates/", label: "Updates" },
+    { url: "/about/", label: "About" }
   ] %}
   <nav class="nav">
     <a href="{{ '/' | url }}" class="nav-logo">All the Agents</a>
@@ -24,6 +20,10 @@
     {% set isActive = page.url == link.url %}
     <a href="{{ link.url | url }}" class="nav-link{% if isActive %} active{% endif %}"{% if isActive %} aria-current="page"{% endif %}>{{ link.label }}</a>
     {% endfor %}
+    <div class="nav-search" data-index-url="{{ '/agents.json' | url }}" data-agent-base="{{ '/agents/' | url }}">
+      <input type="search" id="nav-search" placeholder="Search the catalog…" autocomplete="off" aria-label="Search the catalog">
+      <div class="nav-search-results" id="nav-search-results"></div>
+    </div>
   </nav>
   <main class="container">
     {{ content | safe }}
@@ -35,5 +35,7 @@
     {% endif %}
   </footer>
   {{ extraScripts | safe }}
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+  <script src="{{ '/js/nav-search.js' | url }}"></script>
 </body>
 </html>

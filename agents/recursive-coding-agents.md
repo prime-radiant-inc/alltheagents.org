@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Public talk website, RLM rubric, and calibration examples for the 'Recursive Coding Agents' talk at AI Engineer World's Fair 2026. Provides a concrete seven-gate RLM rubric with judging methodology and verdict-shaped calibration examples to distinguish true Recursive Language Model systems from imposters."
+date_added: "2026-06-16"
 ---
 
 Recursive Coding Agents is the companion artifact to Raymond Weitekamp's AI Engineer World's Fair 2026 talk on recursive language models — systems where the model manages its own context programmatically rather than holding everything in the window. The repository publishes the RLM definition, a seven-gate rubric for judging whether a system qualifies, and a judging methodology that scores by the shape of an agent's run rather than by product label. Its most distinctive content is the calibration sets: paired examples of runs that satisfy the rubric and near-miss counterexamples — drawn from Claude dynamic workflows and OpenProse — that show how close a system can get while still failing a gate. The site itself is a SvelteKit slide deck deployed on Cloudflare Workers, with all-rights-reserved licensing and no contribution path. Agent researchers use it as shared vocabulary for evaluating whether a harness genuinely implements the RLM pattern.

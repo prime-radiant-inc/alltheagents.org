@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Free repo-aware autonomous coding agent (DeepSeek) that edits files and runs commands"
+date_added: "2026-07-31"
 ---
 
 The extension targets developers who want Copilot-style autonomous editing without a subscription, using DeepSeek V4 Flash (default, 1M context) or V4 Pro models behind a user-supplied API key, with any OpenAI-compatible provider configurable as a fallback. It indexes the repository and injects relevant files into answers, applies edits across files with Keep/Undo inline controls, and runs shell commands behind an approval gate. After editing, it runs typecheck or build and repairs errors before declaring a task done, and it keeps project context in a memory.md file plus a generated codebase brief. Vision input routes through a free Gemini endpoint by default, and one-click MCP plugins add GitHub, web search, Postgres, Playwright, and filesystem tools.

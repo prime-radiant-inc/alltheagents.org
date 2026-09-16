@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Platform to run a team of coding agents in the cloud inside isolated microVM sandboxes with multiplayer workspaces; runs first-party Claude Code, Codex, Cursor, and OpenCode agents under the hood (BYO subscriptions/keys); macOS desktop app by Melty Labs."
+date_added: "2026-08-19"
 ---
 
 Coding agents stop when laptops sleep, and individual developers' agent runs are invisible to the rest of a team. Conductor moves the agent runtime into cloud sandboxes - Firecracker microVMs preloaded with the repository and its dependencies - that start in seconds and keep agents running for hours unattended. The macOS desktop app manages parallel agent workspaces, and users connect their existing subscriptions and API keys for Claude Code, Codex, Cursor, and OpenCode rather than buying model access through Conductor. Its multiplayer workspaces let teammates watch and prompt the same agent session simultaneously, and an API exposes the same infrastructure to custom tooling. Product and engineering teams at companies including Linear, Vercel, and Notion use it to run more agent work than a laptop allows.

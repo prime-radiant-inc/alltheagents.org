@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Self-hosted browser workspace for running multiple coding agents in parallel (up to 4 split panes), steering work mid-turn, reviewing real diffs with line-level staging, managing Git/PRs, forking sessions across agents/models, mobile access, Telegram alerts, CLI delegation, and scheduled prompts."
+date_added: "2026-02-23"
 ---
 
 Garcon gives a developer running several CLI coding agents a single self-hosted web UI instead of a pile of terminal windows. It runs Claude Code, Codex, Cursor Agent, OpenCode, Amp, Factory Droid, and Pi side by side in up to four resizable panes, lets the operator queue prompts, redirect active turns, and answer agent questions, and records transcripts that can be exported or handed to another agent as a token-budgeted artifact. A Git workbench shows real diffs with line-, hunk-, and file-level staging, and companion tooling covers session forking across agents or models, mobile access, Telegram alerts, and scheduled prompts. It is GPL-3.0 and installed from source with Bun, targeting solo developers who keep their code and their agents on one machine.

@@ -35,6 +35,7 @@ sources:
   - "brad"
   - "ishandutta"
 what_makes_it_special: "Agent-native development platform spanning CLI, Web, Slack/Teams, Linear/Jira, and Mobile. Top-performing 'Droid' agent in terminal benchmarks. IDE integrations (VS Code, JetBrains, Zed) and GitHub Actions for automated code reviews/PR descriptions. Plugins marketplace available. Proprietary (not open source)."
+date_added: "2026-07-29"
 ---
 
 Droid is Factory's bet that development work should be distributed across surfaces: the same agent runs in a terminal CLI, in Slack or Teams, against Linear/Jira tickets, in GitHub Actions for automated PR review and security scans, and from mobile. Inside the CLI, MCP servers extend tools, custom Droids act as specialized subagents, Missions orchestrate multi-agent runs, and hooks automate tool lifecycle; Specification Mode writes a plan before implementation. Model selection is per-session (/model), and TypeScript/Python SDKs expose the same agent to application code. Factory's repo is a thin front door — the product is closed-source with commercial subscription pricing.

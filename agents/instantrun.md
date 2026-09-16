@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "AI-powered agent that autonomously deploys any GitHub repository on a user's local machine. Uses LangGraph workflow to clone, set up, and run repos with intelligent error handling and Dockerized environment for isolated execution. Only 6 commits."
+date_added: "2024-12-26"
 ---
 
 InstantRun automates the 'clone it and get it running' chore that costs every developer time on unfamiliar repositories. A LangGraph workflow extracts key files and README setup instructions, drafts a Dockerized build-and-run plan, executes it, and loops failures back through an LLM that edits the Dockerfile or commands before retrying. Output streams through an Alacritty terminal, and execution stays isolated inside a container. It is a solo experiment — six commits, Arch Linux oriented, gpt-4o-mini only — and has been dormant since January 2025, but it documents a complete agentic deploy loop.

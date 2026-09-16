@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "vinkius"
 what_makes_it_special: "Graph index of entire codebase; swarm of parallel agents reviewing beyond the diff; learns team coding standards from PR comments over time; TREX autonomously writes and runs tests per PR; central validation layer across all coding agents; Greptile MCP connects to any AI agent."
+date_added: "2026-08-19"
 ---
 
 Greptile is a hosted code-review platform that indexes a repository as a graph of files, functions, and dependencies, then runs parallel review agents over every pull request with that full-repo context rather than the diff alone, which lets it catch multi-file logic regressions that diff-only reviewers miss. Beyond review, its TREX agent writes and runs tests for each PR in a sandbox, and the platform accumulates team coding standards from PR comments and plain-English custom rules over time. It integrates as a validation layer for whichever agent produced the change: an MCP server, a Claude Code plugin that reads and resolves comments, a /greploop command that lets Claude Code, Cursor, Codex, or Devin iterate with Greptile until issues clear, and a CLI. It is delivered as SaaS with self-hosting for enterprises, used by over 22,000 teams including Brex, NVIDIA, PostHog, and Zapier.

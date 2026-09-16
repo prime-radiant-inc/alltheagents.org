@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "author_search"
 what_makes_it_special: "Issue tracker built for coding agents and humans; native stdio MCP server with 13 section loaders; stable short refs; --json/--agent output; idempotent creates; semantic-aware search; claim flow; evidence-based closes; local-first single Go binary with SQLite; human TUI + browser UI over same data; optional remote daemon/federation/Postgres."
+date_added: "2026-04-30"
 ---
 
 Coding agents lose track of work when state lives in chat transcripts or ad-hoc TODO files, so kata provides a durable task ledger the agent can query and update through the same CLI humans use. It runs as a local SQLite-backed binary with an MCP server (stdio or Streamable HTTP) exposing fourteen progressive section loaders, plus --json/--agent output modes, idempotent creates, and a claim flow that prevents two agents from taking the same issue. Optional remote daemons, federation, and Postgres back it for shared deployments. It is used by developers running Claude Code, Codex, and similar agents who want auditable, agent-writable project tracking without a SaaS tracker.

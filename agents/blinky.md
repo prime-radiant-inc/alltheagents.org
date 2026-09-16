@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "e2b"
 what_makes_it_special: "Open-source AI debugging agent for VSCode inspired by SWE-agent; embeds a debugging loop directly inside VSCode for real-time developer feedback mid-run; LSP-based navigation tools (GoToDefinition, GetAllReferences, GetFilesRelevantToEndpoint); match-and-replace file editing technique (generating original text with line numbers) to reduce LLM hallucination and indentation errors; Verify tool runs user-specified repro steps and uses execution feedback to iteratively debug until tests pass; focused on backend systems. Early stage."
+date_added: "2024-05-22"
 ---
 
 Blinky brings the SWE-agent debugging loop into the editor rather than the terminal, targeting backend developers who want an agent that fixes bugs in place. A user describes a bug plus optional reproduction steps; the agent iterates — reading code through LSP-derived tools like GoToDefinition and GetAllReferences, editing via a match-and-replace scheme that forces the model to re-emit the original text to catch hallucinations — until a user-specified Verify step passes. Because it runs in VS Code, feedback can arrive mid-run, and the developer watches the loop rather than waiting for a batch result. The project is small and early-stage: seven commits, an MIT-licensed TypeScript extension on the marketplace, OpenAI as the only provider, and a roadmap (more models, broader codebase support) that has not progressed since mid-2024. It remains a reference implementation of editor-embedded debugging loops more than a daily-driver tool.

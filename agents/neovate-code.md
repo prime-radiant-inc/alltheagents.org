@@ -34,6 +34,7 @@ sources:
   - "brad"
   - "ishandutta"
 what_makes_it_special: "Coding agent for generating code, fixing bugs, reviewing code, and adding tests, with both interactive and headless modes and a VSCode extension."
+date_added: "2025-03-11"
 ---
 
 Neovate Code is a terminal coding agent that proposes edits and tool calls for approval before applying them. Developers pick a provider and model through slash commands, and API keys are read from standard environment variables for every supported provider, avoiding lock-in to one vendor. Work spans code generation, bug fixing, code review, test writing, refactoring, and query optimization. The same npm package covers macOS, Linux, and Windows, and the pnpm monorepo includes an e-commerce-grade test suite with end-to-end tests and a bundled ripgrep. A VS Code extension in the repository brings the agent into the editor alongside the CLI.

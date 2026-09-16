@@ -31,6 +31,7 @@ maintained: "dormant"
 sources:
   - "toolify"
 what_makes_it_special: "A GUI that manages parallel Claude Code agents through a structured plan-code-verify document: Tonkotsu drafts a plan for human sign-off, delegates dozens of coding tasks at once across multiple repos with task dependencies, and runs test plans and code review in one place — with no commits until the human approves. Codes in isolated repo clones on the developer's own machine; free during early access, SOC 2 Type I audited."
+date_added: "2026-08-19"
 ---
 
 Tonkotsu addresses the monitoring burden of running many Claude Code agents at once: unattended terminals stall, merge into each other, and require constant babysitting. Its workflow moves planning into a shareable document — the human approves or edits the plan, then Tonkotsu delegates the resulting tasks to parallel Claude Code sessions across multiple repositories, respecting declared dependencies and running test plans before review. Nothing is committed until the developer approves, and all execution happens in isolated clones on the local machine rather than a hosted environment. Developers managing concurrent features use it to run agent work with intermediate-level-team turnaround; the site is currently returning 503, with the last archived captures in April 2026.

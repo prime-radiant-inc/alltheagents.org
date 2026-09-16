@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Coding agent with configurable LLM endpoint"
+date_added: "2025-03-25"
 ---
 
 Naixt integrates a coding agent into JetBrains IDEs as a tool window. The plugin expects SYS_LLM_ENDPOINT and SYS_LLM_APIKEY environment variables, with an optional provider selector covering litellm, Azure, and azure-inference deployments. The agent server is configured and run locally, and the plugin auto-downloads the agent package from a companion GitHub repository if needed. Conversation happens in the tool window after pressing Start, with the agent operating on the open project. The vendor is an unverified JetBrains Marketplace organization, and the plugin shows only 449 downloads since March 2025, so it is best treated as a low-adoption niche tool.

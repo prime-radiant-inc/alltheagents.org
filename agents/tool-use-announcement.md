@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Twitter announcement of GroqCloud tool use support"
+date_added: "2026-08-19"
 ---
 
 This entry is a Twitter announcement by Groq announcing tool-use support in GroqCloud, kept in the census because it documents a milestone for one of the model providers powering many coding agents. It carries no product of its own: the underlying capability belongs to Groq's API, so the entry is classified as other rather than agent or multiplexer. Its value is provenance — it dates when Groq's API gained tool-use, which several harnesses in this census depend on.

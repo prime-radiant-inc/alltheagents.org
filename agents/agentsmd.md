@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Acts as a 'README for agents' -- a dedicated, predictable file format designed to provide context, environment tips, testing instructions, and PR rules to help guide AI coding agents working within a project."
+date_added: "2025-08-19"
 ---
 
 As coding agents spread, every tool proposed its own instruction file, leaving repositories with fragmented per-tool configuration. AGENTS.md defines a predictable, plain-Markdown convention: a single file where a project documents environment setup, testing commands, and pull-request rules, with no schema or tooling required. The repository hosts both the specification and the agents.md website, and dogfoods the format with its own AGENTS.md. Adoption spread across major tools and thousands of repositories, making it the reference point against which alternatives like AGENT.md position themselves. Its audience is any team whose repositories are worked on by AI coding agents.

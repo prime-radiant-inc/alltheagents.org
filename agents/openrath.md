@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "agent_infra"
 what_makes_it_special: "PyTorch-like runtime for dynamic multi-agent and multi-session workflows — Session as the central flowing value (like a Tensor); composable agents like nn.Linear; durable execution with checkpointing, leases, effect ledgers, and human-in-the-loop interrupts."
+date_added: "2026-05-04"
 ---
 
 Multi-agent frameworks typically ask developers to express workflows in graphs or YAML, which hides control flow behind DSLs and makes state hard to inspect. OpenRath instead imports PyTorch's vocabulary: a Session is the value that flows between components the way a Tensor does, agents compose like nn.Linear layers, workflows nest like nn.Module, memories persist like Parameters, and tools are plain callables — while if/while remain ordinary Python, with an LLM-backed Selector handling only genuine routing decisions. Version 2.0 adds production machinery: checkpoints, leases, an effect ledger, human interrupts, and an Agent Server mode backed by PostgreSQL, Redis, and S3. It installs from PyPI (pip install openrath) with optional sandbox and server extras, documents itself at docs.openrath.com, and publishes an arXiv paper. Python engineers building durable multi-session agent applications, rather than terminal coding users, are the audience.

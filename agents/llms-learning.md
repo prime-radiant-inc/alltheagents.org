@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Comprehensive, well-organized taxonomy of LLM literature covering modeling (Transformer, SSM, KAN, multi-modal), inference (serving, quantization, pruning, RAG), training (pre-training, fine-tuning, parallelism strategies), and applications; includes hands-on tutorials (Triton GPU kernels, Flash Attention 2 derivation) and open-source LLMs intro course with assignments"
+date_added: "2023-11-06"
 ---
 
 The repository serves as a structured reading path through LLM research, organizing hundreds of papers by area - transformer variants, state space models, multimodal modeling, serving and quantization, parallel training strategies, and applications including agents and code. What separates it from a plain paper list is the tutorial layer: worked Triton kernel examples with Flash Attention 2 derivations, and a free introductory LLM course with graded assignments, both aimed at learners who want implementation practice alongside theory. Chinese- and English-speaking graduate students and engineers are the primary audience. Updates tapered off after mid-2025.

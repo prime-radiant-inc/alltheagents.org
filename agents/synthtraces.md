@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Generates synthetic coding agent session traces by pairing two models: a remote open model as the coding agent and a local llama.cpp model as the user, across 20 codebases x 20 starting questions = 24,000 total sessions."
+date_added: "2026-06-03"
 ---
 
 Synthtraces exists to supply realistic multi-turn interaction data for coding-agent research without proprietary logs. Each generated session boots the Pi coding agent with read, write, edit, and bash tools inside one of twenty real codebases (transformers, diffusers, lerobot, candle, and others), pairs it with a remotely hosted open model, and has a local llama.cpp model play the user starting from one of twenty seed questions such as 'How is CI set up in this repo?'. The released dataset is the cross product of 20 agent models, 3 local user models, 20 codebases, and 20 questions — 24,000 sessions — published on Hugging Face alongside this small TypeScript generator. Because both sides are models, the traces capture authentic tool-use dynamics (edits, shell runs, follow-up questions) without any human transcription effort. Researchers studying agent behavior across model families or training interaction models are the intended consumers.

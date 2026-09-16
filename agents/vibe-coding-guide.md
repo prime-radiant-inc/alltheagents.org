@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Open-source guide teaching 'Vibe Coding' (a paradigm coined by Andrej Karpathy) covering concepts, workflows, tools, tutorials, and best practices for AI-assisted programming. Written by an author with no coding background who shipped 6 iOS apps to the App Store using ChatGPT and Cursor over three months. Documentation/guide repository, not a software agent harness."
+date_added: "2025-07-14"
 ---
 
 The guide exists to make AI-assisted programming reachable for people who do not write code: it explains the workflow Karpathy named vibe coding — describe the requirement, let the AI generate, test, and feed results back — and grounds it in the author's documented experience of shipping six iOS apps and two websites without a programming background. Beyond the core loop it surveys the tool landscape (Cursor, Copilot, Claude Code, Cline, Lovable, Bolt, v0), explains the underlying LLM mechanics in plain language, and collects prompt-engineering practices, community resources, and academic references. Beginners deciding whether and how to start with AI-built software are the audience, with parallel Chinese and English editions. It is Apache-2.0 licensed documentation with a short commit history, not a maintained tool.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Agent-native platform ('Agent Runners') to build/deploy web apps from prompts"
+date_added: "2026-08-19"
 ---
 
 Netlify embeds AI agents into its hosting dashboard so that a described task — a bug fix, new page, or config change — can be dispatched to an agent that already sees the project's code, build configuration, and deployment pipeline. Agents run in isolated environments that never touch secrets, and role-based access separates who can propose changes from who can deploy them. Output flows through the standard review flow: a Deploy Preview that a human approves, iterates, or rolls back. Agent runs consume platform credits, with model inference metered separately through the Netlify AI Gateway, which also removes the need for users to manage API keys. The feature is available on the free tier and targets teams already building on Netlify.

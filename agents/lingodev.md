@@ -31,6 +31,7 @@ maintained: null
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "AI localization engineer that ships translated code (YC)"
+date_added: "2026-08-19"
 ---
 
 Lingo.dev solves continuous localization for software teams: instead of shipping translation files to a vendor, developers provision localization engines that persist glossaries, brand voice, locale rules, and a ranked model chain, then call them from an HTTP API, CLI, GitHub Action, or MCP server. Its Retrieval Augmented Localization injects matched glossary terms at inference time and re-processes only changed content, with published research showing 17-45% fewer terminology errors across 42,000+ GEMBA-MQM judgments. A fixed six-stage pipeline (refinement, context enrichment, translation, optional human post-editing, review, delivery) replaces the source rather than an autonomous loop. Mistral AI, Cal.com, and Supabase use it; the platform is SOC 2 Type II with EU/US data residency.

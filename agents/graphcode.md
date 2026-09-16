@@ -35,6 +35,7 @@ pricing: "free"
 stars: "121"
 sources:
   - "github-issue"
+date_added: "2026-07-26"
 last_verified: "2026-09-11"
 what_makes_it_special: "Agent sessions are nodes on a graph and the edges do the coordinating: a hand-off, message, or spawn edge fires when one loop resolves, so a chain of work runs unattended while every node stays a live terminal you can attach to and correct mid-run."
 ---

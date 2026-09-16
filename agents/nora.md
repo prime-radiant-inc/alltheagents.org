@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "toolify"
 what_makes_it_special: "Harness/control layer for AI consumer devices (wearables, companions, health devices, smart toys, edge AI). Turns AI output into structured product behavior and manages reliability/operations across device fleets - state, edge cases, failure recovery, fleet-wide behavior updates/rollbacks. Early access / design partners only."
+date_added: "2026-08-19"
 ---
 
 Nora targets consumer device companies shipping agentic experiences in hardware such as wearables, AI companions, health devices, and smart toys, where raw LLM output cannot be tolerated in a shipped product. The layer sits between the model and the product stack, converting AI output into structured device behavior while managing state, failure recovery, and edge cases. Operations tooling covers rolling out and rolling back agent behavior across deployed device fleets. The company is early stage and works through selected design partners rather than a self-serve product.

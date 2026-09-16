@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "web_search_multilingual"
 what_makes_it_special: "Proactive personal AI assistant that lives in text messages (Apple Messages, WhatsApp, Telegram). Integrates with Gmail, Notion, Google Calendar, GitHub, Linear, Todoist, and more. Uses 'Recipes' for integrations and automations, with 'Poke Kitchen' for developers to create custom recipes. Not a coding agent — it is a life/productivity assistant."
+date_added: "2026-08-19"
 ---
 
 Poke, built by Interaction, puts a personal assistant where people already are: their text-message threads. Users text it requests and it operates connected services — Gmail, Google Calendar, Outlook, Notion, GitHub, Linear, Todoist, Strava, Oura, Sentry, Vercel — and it messages proactively rather than only answering, surfacing calendar conflicts or follow-ups unprompted. Integrations and automations are packaged as Recipes, prebuilt or authored through Poke Kitchen, the developer-facing tool for custom automations. Pricing runs from a free tier to $19/month Pro and $199/month Ultra with pay-as-you-go beyond credits. The company is based in Palo Alto and has announced it is joining Cognition, the maker of Devin. Its users are consumers and professionals automating personal workflows, not developers building software — it sits in the census as an adjacent agent, not a coding harness.

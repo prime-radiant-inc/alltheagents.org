@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Full-stack AI-powered SWE agent platform: Next.js dashboard, MDX docs site, terminal web client, and installable CLI coding agent ('supercode' on npm), plus a parallel project fine-tuning its own coding-focused LLMs (Qwen3-8B, GLM-4-9B) via dual-track training (Tinker + Modal/Axolotl). Includes a 'skills' system shared across apps."
+date_added: "2026-01-04"
 ---
 
 Supercode is developed as a Bun/Turborepo monorepo spanning the agent CLI published on npm as supercode, a Next.js dashboard for repo management and analytics, an MDX docs site, and a browser terminal client that mirrors the CLI. The agent runs on AI SDK v6 against Anthropic (default), OpenRouter, Gemini, and Minimax providers with file, execution, and search tools, and a shared @super/skills package provides reusable capabilities across apps. A parallel track, supercode-openmodel, fine-tunes Qwen3-8B through Tinker and GLM-4-9B through Modal/Axolotl to produce open coding-tuned weights for the platform. The project is MIT-licensed, Vercel-sponsored, and actively developed with no GitHub releases — distribution is the npm package. It fits developers who want an open, self-hostable agent plus the surrounding product surface.

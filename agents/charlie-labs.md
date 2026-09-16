@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Charlie: GitHub-native AI engineer for issues-to-PRs"
+date_added: "2026-08-19"
 ---
 
 Charlie Labs builds Charlie, an AI engineer platform organized around 'daemons': persistent agents that watch repositories and proactively perform recurring engineering work without being prompted each time. A daemon is declared in a markdown file in the repository with frontmatter specifying its watch triggers (events like a merged PR or a new Linear issue), scheduled routines, and deny rules that bound what it may do — never merging PRs, never overriding human decisions — alongside markdown policy sections defining its role. This addresses a gap between one-shot AI coding tools and human maintainer attention: dependency upgrades, PR hygiene, issue triage, and changelog upkeep happen continuously without a developer initiating each task. Daemons wake on events (new issues, merges, security advisories) and run scheduled sweeps, opening reviewable PRs and building compounding organizational memory. Engineering teams adopt Charlie by installing its GitHub integration and committing daemon definitions to their repos, with pricing based on shared team token usage.

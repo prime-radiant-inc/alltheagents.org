@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Semantic code intelligence across multiple repositories simultaneously (cross-repo analysis) exposed via MCP, with daily updated indexes of popular OSS libraries and vector embeddings. Provides get_context (semantic code search), deep_research (architecture/implementation analysis), and ask (coding questions) tools."
+date_added: "2025-07-16"
 ---
 
 Coding agents frequently misanswer questions about third-party libraries because their training data is stale and the repositories involved are too large to clone on demand. Qodo's Open Aware closes that gap by maintaining daily-updated indexes of popular open-source repositories and exposing them over a public MCP endpoint with three tools: get_context for semantic code search across multiple repositories at once, deep_research for architecture analysis and implementation planning, and ask for direct coding questions. Clients connect via Streamable HTTP or an mcp-remote proxy with no local indexing, and a Gemini CLI extension exists for that ecosystem. The free tier is rate-limited to roughly ten calls per minute and covers only the pre-indexed public repositories; private repos and custom indexing require the commercial Qodo Aware product. It suits developers whose agents need ground truth about dependencies and cross-repository architecture rather than another local search tool.

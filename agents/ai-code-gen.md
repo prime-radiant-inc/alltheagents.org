@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "An AI agent designed to generate Python unit tests automatically."
+date_added: "2024-07-28"
 ---
 
 The README states the ambition — an AI agent that generates Python unit tests — but the repository contains no code, no license, and no releases beyond that file. With a single commit and no community activity, the project never progressed to an implementable state. Nothing about its mechanics, providers, or usage can be established from the primary source. It is recorded here as an unimplemented declaration rather than a working tool.

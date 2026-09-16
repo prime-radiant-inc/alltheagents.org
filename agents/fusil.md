@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Revived Python fuzzing framework focused on finding crashes in CPython, C-extension modules, the CPython Tier-2 JIT, and OOM error paths. Multi-agent async-message-based fuzzing architecture with adaptive aggressivity driven by per-session scoring. Generates standalone test scripts run as sandboxed child processes. NOTE: This is a fuzzing framework, not a coding agent harness."
+date_added: "2024-11-08"
 ---
 
 The original fusil fuzzing framework by Victor Stinner was dormant for years; this revival concentrates it on hunting crashes in CPython, C-extension modules, the Tier-2 JIT, and allocation-failure error paths. Sessions compose agents that exchange asynchronous messages, with per-session scores driving adaptive aggressivity, and each fuzzing session emits a standalone test script executed as a sandboxed child process with memory, CPU, and process limits plus privilege dropping. Only the Python fuzzing path (fusil-python-threaded, fusil.python, fusil.python.jit) is actively developed and tested, while historical fuzzers for Firefox, PHP, and mplayer sit in notworking/ directories. It serves CPython contributors looking for JIT and OOM-edge crashes, not application developers.

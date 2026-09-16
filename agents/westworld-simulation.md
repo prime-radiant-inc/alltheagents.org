@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "e2b"
 what_makes_it_special: "Multi-agent simulation library inspired by Unity ML Agents for simulating and optimizing systems with interacting agents (logistics, retail, epidemiology); includes grid/non-grid environments, automatic maze generation, image-to-obstacle layer, simulation visualization with replay and GIF/video export."
+date_added: "2026-08-19"
 ---
 
 westworld adapts the Unity ML-Agents style of multi-agent simulation to Python for people modeling interacting-agent systems in logistics, retail, or epidemiology, including optimization via heuristics and reinforcement learning. It provides grid and non-grid environments, subclassable agents, obstacles, collectibles, and triggers, behaviors such as pathfinding, wandering, and fleeing, plus automatic maze generation and image-to-obstacle conversion. Visualizations support replay and GIF/video export through PyGame. The project is an alpha release by a single contributor, with docs that may lag the code, and it is explicitly not a coding agent. It is used for teaching and prototyping multi-agent simulations, with RL integration on the roadmap.

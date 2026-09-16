@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "SQLite-backed issue tracker for coordinating AI coding agents on a single machine. Atomic claims (racing agents get different issues), dependency graphs with cascading cancel, bulk graph instantiation via clu batch, context inheritance for agents, workflow templates with human-approval gates, and an in-process local Web UI. No daemon, no server, no network. Includes an integration pattern using Claude Code's Monitor tool (clu ready --watch)."
+date_added: "2026-05-26"
 ---
 
 clu fills the gap between having several agent processes and having anywhere durable for them to pick up work: issues live in one SQLite file with no daemon or network, claims are atomic SQL updates so two agents never take the same task, and cancel cascades walk the dependency graph so downstream work never runs on cancelled premises. Workflow templates encode human-approval checkpoints for risky steps, a mailbox lets agents communicate, and a local web dashboard exposes kanban, graph, and approval views. It deliberately excludes an agent runtime, positioning itself as the coordination substrate beneath any harness, and its design favors single-machine, local-first setups over distributed orchestration.

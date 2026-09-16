@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Semi-autonomous conversational CLI coding assistant using OpenAI function calling (no LangChain); AI proposes commands, developer approves, then auto-execution; can also serve as a general bash helper."
+date_added: "2023-05-25"
 ---
 
 DuetGPT is a deliberately minimal take on the AI pair programmer: a conversation where the model's proposed shell commands and file edits are shown for approval and then executed verbatim, with no LangChain layer and no guardrails beyond the developer's own judgment. It ships as one npm package, asks for an OpenAI key on first run, and works equally well as a general bash helper — writing scripts, grepping trees, drafting PR descriptions from commit logs. The warning in its own README about the absence of guardrails is the design statement: approval is the only safety mechanism. It found its audience among developers experimenting with GPT-4 function calling in 2023; the repo has not been updated since June 2023.

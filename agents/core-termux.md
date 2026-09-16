@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Turns Android/Termux into a complete dev workstation with 30+ AI coding agents, modular install/update/uninstall, project scaffolding, voice-to-agent, second-brain memory system, and local LLM inference — all from one `core` CLI."
+date_added: "2023-12-06"
 ---
 
 Coding agents assume a laptop, which leaves phone-first developers and tinkerers without a path to use them. core-termux is a modular package manager for Termux that closes that gap: a single `core` CLI installs and updates language toolchains, databases, editors, and - through its `ai` module - 35-plus coding agent CLIs including Claude Code, Codex, Gemini CLI, OpenCode, Kimi Code, and Hermes Agent, each selectable with install flags. Beyond packaging, it adds a small built-in agent backed by a local OpenAI-compatible endpoint (Gemma via the Cactus Engine) with plan and build modes, voice-to-agent input, and a `core brain` markdown store for cross-session memory. Modules cover languages, databases, Neovim, shell tooling, and project scaffolding for common frameworks. It runs only on Termux and serves Android users building a mobile development environment.

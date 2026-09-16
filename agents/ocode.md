@@ -34,6 +34,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Terminal-native AI coding assistant powered by local Ollama models; 19+ specialized tools; full MCP server support (resources, tools, prompts); agent tool delegates complex tasks to specialized agents; fully offline and self-hosted"
+date_added: "2025-05-27"
 ---
 
 ocode is a terminal-native coding assistant that streams from a local Ollama instance, requiring no API keys or cloud proxies. It ships nineteen specialized tools covering file operations, grep and diff, git, shell execution, Jupyter notebooks, and architecture analysis, with a smart tool-selection layer that detects multi-action requests. An agent tool delegates complex tasks to specialized subagents for multi-step work. Full MCP support lets it expose resources, tools, and prompts as a server as well as consume them. The permission system is whitelist-first with sandboxed shell execution and blocked paths by default, reflecting a security-first posture rare in solo hobby agents.

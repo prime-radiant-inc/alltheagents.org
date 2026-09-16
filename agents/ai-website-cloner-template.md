@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_final"
 what_makes_it_special: "Clones any website with a single command (/clone-website <url>) using AI coding agents, producing a clean Next.js codebase via a multi-phase pipeline (Reconnaissance -> Foundation -> Component Specs -> Parallel Build -> Assembly & QA) that dispatches parallel builder agents in git worktrees."
+date_added: "2026-03-13"
 ---
 
 Users generate a repo from the template, run npm install, and invoke /clone-website <url> inside their preferred agent (Claude Code with Chrome, Codex, Cursor, Gemini CLI, and ten others via synced .claude/.codex/.cursor/ rule directories). The pipeline screenshots and probes the target, extracts fonts, colors, and computed styles into spec files, dispatches builder agents into per-section git worktrees, then merges and visually diffs the result against the original. The stack is Next.js 16, React 19, TypeScript strict mode, and Tailwind v4, with Docker support. It is MIT-licensed, sponsored, and explicitly prohibits phishing and impersonation use.

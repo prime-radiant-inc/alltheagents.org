@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Open-source AI orchestration app for advanced agent orchestration. Bring Your Own Agent (BYOA) to use existing subscriptions without paying twice. Unified context to instantly switch models within the same agent with seamlessly shared memory. Agent-to-agent communication for tasks like debates or code reviews. Integrated team collaboration features."
+date_added: "2024-05-11"
 ---
 
 The open-source Traycer app exists so developers can orchestrate the agents they already pay for instead of duplicating spend on a new inference subscription. It connects existing agent CLIs under one desktop workspace where the context window is shared across providers, enabling mid-task model switches, and automates agent-to-agent loops such as architecture debates and peer code review. Team collaboration features add shared boards, real-time editing, and ticket assignment, while Privacy Mode (default on for Team plans) keeps code in memory only. Developers and small teams running several agent subscriptions install the free desktop app on macOS, Linux, or Windows; the codebase is an active TypeScript/Bun monorepo with nearly a thousand commits, and optional Traycer-side inference exists for users who prefer not to BYO.

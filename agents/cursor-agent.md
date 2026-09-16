@@ -32,6 +32,7 @@ sources:
   - "brad"
   - "ishandutta"
 what_makes_it_special: "Python-based AI agent replicating Cursor's coding assistant capabilities; function calling with registered tools; codebase semantic search, grep, fuzzy file search, web search; image analysis via LLM vision; terminal command execution with permission system (YOLO mode, allowlists/denylists)"
+date_added: "2025-03-22"
 ---
 
 cursor-agent packages the mechanics of Cursor's coding assistant into a pip-installable Python library: a function-calling loop with registered tools for reading and editing files, semantic and regex codebase search, web search, image analysis, and terminal commands gated by a permission system. It supports Anthropic, OpenAI, and locally hosted Ollama models, and developers can extend it by registering custom tools in code. The project, authored by the founder of CIVAI Technologies, reached about 130 stars but shows no recent commits or releases and one stale pull request, so it now serves mainly as a reference implementation of an agentic coding loop in Python.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "An agent meta-harness providing the execution layer around Claude Code and Codex with a GOAP A* planner, self-learning architecture (SONA neural patterns, ReasoningBank), and zero-trust Agent Federation ('Slack for Agents')."
+date_added: "2025-06-02"
 ---
 
 Claude Flow treats the model-plus-harness split literally: Claude Code or Codex remains the coding surface, while Ruflo supplies swarm coordination (hierarchical, mesh, adaptive topologies with consensus mechanisms), 27 hooks for task routing, persistent learning memory (ReasoningBank, trajectory learning), and a GOAP planner that re-plans adaptively rather than restarting on failure. It installs as a Claude Code plugin or npx scaffold, an MCP server exposes its toolset, and a zero-trust federation layer lets agent clusters collaborate across machines with mTLS and PII stripping. The project is among the most-starred in this census (roughly 70k stars), is MIT-licensed, and was renamed Ruflo with active v3 development.

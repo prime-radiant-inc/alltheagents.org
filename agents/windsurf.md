@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "flatlogic"
 what_makes_it_special: "AI IDE (VS Code fork, now branded Devin Desktop by Cognition) with the Cascade agent panel, Devin Local Agent, context awareness, app deploys, workflows, and MCP server support."
+date_added: "2024-11-13"
 ---
 
 Windsurf, a VS Code fork rebranded Devin Desktop by Cognition, centers development on its built-in agent: the Cascade panel hosts the Devin Local agent, which chats, edits code, runs commands, generates projects, and deploys apps in one click. Workflows capture and replay repetitive trajectories, while memories and rules persist team conventions, and MCP servers extend the agent with external tools. Context awareness gives the agent immediate codebase understanding, with Codemaps, DeepWiki, and Quick Review layered on. Models include Cognition's in-house SWE-1.x family, Claude, and GPT (with GPT-5.6 variants restricted to Devin Local), routed by an Adaptive default. It is available for Mac, Windows, and Linux via devin.ai/download, with Free, Pro, Max, Teams, and Enterprise plans.

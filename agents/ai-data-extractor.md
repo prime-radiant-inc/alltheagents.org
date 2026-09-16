@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Extracts local chat history from 10 AI coding assistants (Claude Code, Cursor, Windsurf, Trae, Continue, Gemini CLI, OpenCode, Cline/Roo Code, Aider, Codex CLI) into a single normalized JSONL format for fine-tuning/analytics/backup; auto-discovers data across OSes; zero dependencies; extensible two-function interface."
+date_added: "2026-08-16"
 ---
 
 Local assistant databases are scattered across platform-specific paths and formats, and they get cleared or lost when apps update. This toolkit auto-discovers storage on macOS, Linux, and Windows, and extracts messages, code context, diffs, tool calls, timestamps, and model names into timestamped JSONL files with a shared schema (guaranteed fields: messages, source, session_id). It handles ten assistants — Claude Code, Codex CLI, Cursor, Windsurf, Trae, Continue, Gemini CLI, OpenCode, Cline/Roo Code, and Aider — using line-by-line JSON parsing and read-only SQLite connections so running apps are not disturbed, and corrupt files yield partial results instead of failures. A --merge flag produces a single HuggingFace-datasets-ready file for fine-tuning or analytics. It runs on the Python standard library alone, with per-assistant extractors that also run standalone.

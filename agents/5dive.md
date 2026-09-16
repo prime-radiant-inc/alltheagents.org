@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Runs a 'company of AI agents' on a Linux server you own - each agent is its own Linux user running an official agentic AI CLI as a systemd service, coordinating through a shared bash CLI and SQLite task queue; pings your phone via Telegram only when a human decision is needed."
+date_added: "2026-05-15"
 ---
 
 5dive exists for people who want a fleet of coding agents working unattended on hardware they control, without adopting a proprietary platform. Installation is a curl script plus 5dive init on any systemd Linux box; each named agent becomes its own Linux user running an official agent CLI (claude, codex, antigravity, grok, devin, hermes, opencode, pi, and others) as a systemd service, coordinating through a shared bash CLI and SQLite task queue. Agents sit on an org chart, hand off tasks through a shared backlog, and hit human approval gates when work needs a decision — the only moment a Telegram ping reaches the owner. Self-hosting engineers and small teams running long-lived autonomous agents are the users, with a managed option at 5dive.ai.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "Lightweight multi-agent TUI that coordinates Codex, Claude, Gemini and other CLI agents in visible, controllable collaboration workflows with a background daemon, mobile remote control, and installable Role Packs."
+date_added: "2025-10-25"
 ---
 
 The project gives multi-agent workflows the infrastructure single terminals lack: each agent runs in a visible native pane you can take over directly, while /ask lets agents delegate to each other in defined graphs (A->B, A,B->C) and a shared memory file keeps coordination durable across sessions. A background daemon preserves project state, mailboxes, and jobs when the UI closes, with diagnostics and bounded recovery of stuck panes. An Android companion app adds voice input and file transfer for agents running on servers. It is Python-based, free to use under a custom LICENSE, fast-moving (v8.6.10 with thousands of commits), and used by developers who mix model families on one project.

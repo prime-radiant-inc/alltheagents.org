@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Bridges Claude Code and Codex into GitHub workflows via slash commands (/claude, /codex) in issue/PR comments; automatically creates PRs or commits from AI-suggested changes and posts AI output as a comment when no code changes; checks user permissions and masks sensitive information in outputs."
+date_added: "2025-03-17"
 ---
 
 The action turns GitHub issues into an interface for coding agents: a maintainer comments /claude fix the failing test, and the agent's work arrives as a commit or pull request with its reasoning posted as a comment, removing the local checkout from the loop entirely. Permission gating prevents unprivileged commenters from triggering runs, and secrets live in repository settings rather than the conversation. It is a thin TypeScript wrapper around the official CLIs in a Docker action, so agent behavior is exactly upstream Claude Code or Codex. Repository maintainers who want asynchronous, issue-driven agent automation rather than interactive sessions are the audience.

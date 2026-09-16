@@ -37,6 +37,7 @@ sources:
   - "ishandutta"
   - "tiennm"
 what_makes_it_special: "Self-hosted developer control center for coding agents and automations. Runs OpenHands, Claude Code, Codex, Gemini, or any ACP-compatible agent across local, remote, and cloud backends. Supports webhook-triggered automations integrating with Slack, GitHub, Linear, Notion."
+date_added: "2024-03-13"
 ---
 
 The OpenHands project repositioned from a single coding agent to Agent Canvas, a self-hosted control center for running whichever agents an organization already uses. It connects to Agent Server backends — a laptop, Docker host, VM, or cloud instance — and runs OpenHands, Claude Code, Codex, Gemini, or any ACP-compatible agent against them from one web UI, so teams mix agent engines without changing tooling. Automations extend the pool beyond interactive sessions: scheduled Slack reports, GitHub issues that auto-decompose into agent tasks, and webhook-triggered runs, all self-hosted under MIT with the commercial offering being OpenHands Cloud. The stack pairs a TypeScript/React frontend with Python Agent Servers over the software-agent-sdk, installable via npm, Docker (ghcr.io/openhands/agent-canvas), or source, with the UI on localhost:8000. Teams building an internal agent platform on open infrastructure are the audience, and the project remains in beta with very high activity (8,115 commits, 85k stars).

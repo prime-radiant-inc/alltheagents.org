@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "End-to-end natural language interface for querying databases by integrating Amazon Bedrock for AI-powered text-to-SQL conversion, AWS Lambda for database operations, and Streamlit for UI, all deployed via AWS CloudFormation. Sample/reference project with only 4 commits."
+date_added: "2024-10-06"
 ---
 
 The repo demonstrates the full path from a natural-language question to governed SQL execution on Amazon Redshift Serverless: a Bedrock agent backed by Claude 3 Sonnet translates the question, a Lambda action group executes the SQL, and a Streamlit UI hosted on EC2 presents results, all provisioned by a CloudFormation template. The nine-step README covers Redshift setup, sample data, S3 staging, deployment, and an unusually thorough troubleshooting section spanning IAM, CloudWatch, and connectivity. It is a small AWS Samples artifact — four commits, a handful of stars — published as a learning pattern under MIT-0 rather than maintained software. Its audience is AWS architects evaluating Bedrock agents for analytics access, and the security posture (row-level control illustration, EC2-hosted frontend) marks it as a starting point requiring hardening.

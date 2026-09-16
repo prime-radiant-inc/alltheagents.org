@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic"
 what_makes_it_special: "OpenCode plugin that turns one AI coding session into an architect-led team of 20 specialized agents with a gated pipeline (code never ships without reviewer + test engineer approval), shell write detection, scope enforcement, resumable sessions, built-in security scanning, and context budget guard"
+date_added: "2026-01-27"
 ---
 
 A single coding agent grades its own homework: it writes the code, decides the work is done, and moves on. opencode-swarm restructures the session into a hub-and-spoke swarm where an architect plans, a coder implements, and dedicated reviewer, test-engineer, critic, security, and documentation agents gate the result through a pipeline that blocks shipping until every required approval lands. State persists in .swarm/ so interrupted sessions resume, shell writes are detected and policed against scope, and SAST plus secrets scanning run before completion; thirteen language profiles tune behavior per stack. Installation is one command (bunx opencode-swarm install) and it works with OpenCode Zen's free model roster without an API key, or with any BYO provider. With 4,300 commits, 6,000+ tests, and an active release cadence, it is one of the heavier OpenCode plugins. Teams that want enforceable multi-agent review discipline on top of OpenCode are the audience.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "github_topic4"
 what_makes_it_special: "Modular, type-safe agent runtime for building LLM-powered applications ('LangChain + LangGraph for OCaml'). Written in OCaml 5.4 using Eio structured concurrency (no callback hell, compile-time type safety), usable from both OCaml and Python. Features type-safe shell commands (ADT-based, injection-free), structured concurrency with no orphan fibers, 23 built-in tools, and 9 middleware."
+date_added: "2026-05-28"
 ---
 
 PAR positions itself as the agent plumbing layer that OCaml's ecosystem lacked, handling the ReAct loop, tool dispatch, multi-provider LLM calls, persistence, and an event bus so developers write only tools and workflows. Its OCaml 5.4 core uses effects and Eio structured concurrency, eliminating orphan fibers and callback nesting, and compiles shell commands into a type-safe ADT that rules out injection at compile time. Nine built-in middleware cover logging, retry, rate limiting, timeouts, argument and output validation, PII masking, and sanitization at every model and tool boundary, while SQLite persistence and an audit log make runs reproducible. Python bindings on PyPI open the runtime to the larger ecosystem, and a companion project, par-code, builds a CLI coding agent on top. Its audience is OCaml developers and Python teams that want a verified, concurrency-safe agent substrate.

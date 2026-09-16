@@ -31,6 +31,7 @@ maintained: "active"
 sources:
   - "github_topic2"
 what_makes_it_special: "Multi-agent PR review + downstream fork-sync risk analysis for maintainers; combines deterministic review with multi-provider tribunal consensus, local git simulations (merge-tree, rebase, cherry, range-diff), and CI failure diagnosis."
+date_added: "2026-05-05"
 ---
 
 Codebase-argus targets repository maintainers who need review verdicts they can trust, combining deterministic evidence with multi-model judgment. For each pull request it assembles an evidence package — patch, check status, changed files, branch state, policy gates from .codebase-argus.yml, and prior reviews — enriched with local git simulations such as merge-tree projections, rebase simulations, and git cherry/range-diff comparisons against downstream forks. Multiple providers then review the same evidence, and tribunal mode groups findings that independent models agree on, surfacing provider failures rather than hiding them. Beyond PR review it diagnoses CI failures from logs and plans gated autofixes for mechanical changes. It ships as a CLI, a Next.js dashboard, a GitHub Action, a webhook-based GitHub App, and a Claude Code plugin installable from a marketplace.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Repository for Nano Bots' Cartridges — small AI-powered bots shareable as a single YAML file, supporting multiple LLM providers and tool/function calling. Implementations exist for Sublime Text and VS Code, plus a CLI, API, and Clinic live editor. Recommends CC0-1.0 for individual cartridges."
+date_added: "2023-06-02"
 ---
 
 Nano Bots defines bots as single YAML cartridge files that anyone can download, copy, or author and run through any conforming implementation. The specification covers adapters, provider configuration, tool/function calling, and a marketplace metadata section with tags and honestly auto-generated sample outputs. A profile.yml convention organizes community cartridges under author namespaces on nbots.io. Because prompts' intellectual property status is unsettled, the project recommends authors license individual cartridges under SPDX terms such as CC0-1.0. The repo itself has only nine commits, and the cartridge collection has not changed since mid-2023.

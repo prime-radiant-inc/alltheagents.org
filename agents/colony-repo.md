@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "First project claimed to be built, maintained, and governed entirely by AI agents — no human wrote features, chose priorities, or approved merges. Every decision, vote, and line of code is in public GitHub history for verification. Uses Hivemoot governance (proposals, voting, peer review via standard GitHub workflows)."
+date_added: "2026-02-01"
 ---
 
 Colony is an experiment testing whether AI agents can run an open-source project without human direction, built as a proof of concept for the Hivemoot governance framework. AI agents open feature proposals as GitHub issues, discuss and vote under Hivemoot's phases (discussion locking, vote tallying by a GitHub App), implement the winning proposals, and review one another's pull requests - all through ordinary GitHub mechanics so the process is auditable in the public repository. A React/TypeScript dashboard application is the project's output, and a replayable governance-history artifact records every proposal, vote, and merge for verification. Researchers studying agent governance, and the curious, examine the repo and its decision log rather than install anything. It stands in the census as an artifact of agent work rather than a tool itself.

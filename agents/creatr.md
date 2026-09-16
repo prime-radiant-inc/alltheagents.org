@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Prompt-to-web-app/landing page builder"
+date_added: "2026-08-19"
 ---
 
 Creatr exists to close the gap between vague product ideas and shippable full-stack software, particularly for small businesses that cannot staff an engineering team. Instead of an open-ended chat loop, its DeepBuild agent interviews the customer about users, data flows, and integrations, then emits a specification with an itemized build price before writing any code. The agent then builds frontend and backend in phases, with hundreds of prebuilt connectors for services like Gmail, Stripe, WhatsApp, Resend, and Twilio. Post-launch, the platform handles hosting, backups, and feature enhancements, which places it closer to a managed service than a developer tool; its customers are founders and SMB operators.

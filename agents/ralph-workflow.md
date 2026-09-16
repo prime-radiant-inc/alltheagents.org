@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Independent reference implementation of the Ralph Loop pattern (attributed to Geoffrey Huntley). Multi-agent orchestrator supporting 9 coding agent backends. Local-first. Ralph loop workflow: plan → build → verify → fix. 5,923 commits with CI via Woodpecker."
+date_added: "2026-01-13"
 ---
 
 Ralph Workflow turns the Ralph loop — popularized as a blog technique for running coding agents in iterative cycles — into an installable orchestrator with operator-grade documentation. You hand it one well-specified task and it runs a plan, build, verify, fix loop against an agent backend of your choice: Claude Code, Codex, OpenCode, Nanocoder, AGY, Pi, Cursor, or Kimi Code, authenticated once locally. The tool ships an opinionated default workflow built around spec-driven development, intended to be adopted as-is and extended later, rather than a bare loop script. Install hygiene matters to the design: a separate rdev launcher avoids shadowing an existing global ralph installation, and the project ships Sphinx documentation, CI configs, and Docker support unusual for scripts in this genre. Developers who want the Ralph pattern without hand-rolling bash loops use it for coding tasks too large to babysit and too risky to run unattended without verification.

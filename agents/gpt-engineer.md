@@ -34,6 +34,7 @@ sources:
   - "brandonhimpfen"
   - "tiennm"
 what_makes_it_special: "Self-described as 'The OG code generation experimentation platform'; an early tool for specifying software in natural language and having AI write/execute code, a precursor to lovable.dev and gptengineer.app."
+date_added: "2023-04-29"
 ---
 
 GPT Engineer was one of the first tools to demonstrate specifying software in natural language and having an LLM write, execute, and improve the resulting code, spawning the wave of prompt-to-app products and directly preceding lovable.dev and gptengineer.app. Its design was deliberately hackable: a preprompts folder let users customize the agent's identity and memory, vision models accepted UX or architecture diagrams, and a bench CLI ran custom agents against APPS and MBPP benchmarks. It supported OpenAI, Azure, Anthropic, and local open-source models, with an improve-existing-code mode and Docker support. The repository was archived by its owner on April 22, 2026, with the README redirecting CLI users to aider and the commercial line continuing as gptengineer.app and lovable.dev.

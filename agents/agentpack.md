@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "brad"
 what_makes_it_special: "Local, agent-neutral reliability layer for AI software development — no repository upload required, everything stored locally under .agentpack/. Provides evidence-backed context selection with receipts, cited PR review artifacts, structured handoffs across sessions/agents, and a four-command workflow (work, learn, finish, doctor). Connects project evidence across multiple coding agents without replacing them."
+date_added: "2026-04-28"
 ---
 
 Coding agents lose time rediscovering project structure, ownership rules, and prior decisions on every task, and context injected by generic retrieval is rarely auditable. AgentPack keeps task state, repository rules, prior decisions, and review evidence under .agentpack/ and exposes them through a four-command loop (work, learn, finish, doctor) plus an MCP server that surfaces readiness, related files, and cited PR evidence to agents like Claude Code, Codex, and Cursor. Every context selection is recorded with a receipt explaining inclusion or omission, and a trust order keeps source files, diffs, and test results above any summary it produces. The project publishes measured numbers for what it can prove (file-selection recall and token precision) and explicitly declines to claim improvements it has not benchmarked. Python and JavaScript/TypeScript repositories get the strongest semantic mapping; coordination remains advisory by design.

@@ -32,6 +32,7 @@ maintained: "active"
 sources:
   - "gap-2026-08-20"
 what_makes_it_special: "Context-native coding agent with memory, model routing, and reviewable output"
+date_added: "2026-08-26"
 ---
 
 AI coding sessions forget what earlier sessions decided, so teams re-explain architecture, re-apply fixed bugs, and re-litigate choices. ContextCode (ContextStream) attaches to agents over MCP as a persistent memory layer: as work happens it records decisions, fixes, and guardrails into a Knowledge Stream ledger and maps them to the files they affect, so the next session starts with relevant project memory loaded before its first edit. Sharing happens through ContextCapsules - scoped, revocable, expiring links that hand a slice of context to a teammate or another agent without exposing the whole store. The vendor publishes audited benchmark results for memory quality and code-search recall, and reports improved agent task success with memory connected. Pricing is tiered from a free Starter plan to Team at $79 per user per month.

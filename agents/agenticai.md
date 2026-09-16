@@ -32,6 +32,7 @@ maintained: "dormant"
 sources:
   - "jim"
 what_makes_it_special: "Was described as a framework for building autonomous decision-making agents integrating reinforcement learning, NLP, and multi-agent systems. GitHub repo (YasinOnline/AgenticAI) is deleted."
+date_added: "2026-08-19"
 ---
 
 The project set out to integrate reinforcement learning, natural language processing, and multi-agent coordination into a single framework for autonomous decision-making. The repository has been deleted, so there is no longer any code, documentation, or commit history to verify what was actually implemented versus described. Nothing about its mechanics, adopters, or maturity can be verified from primary sources. The entry is retained only as a record that the project existed and is now gone.

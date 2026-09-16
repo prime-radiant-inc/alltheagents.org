@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_topic3"
 what_makes_it_special: "Multi-provider AI coding interface with real-time usage tracking, multiple accounts per provider (personal + work), switch models mid-conversation, imports existing Claude Code and OpenCode config (custom commands, agents, MCP servers)."
+date_added: "2025-12-25"
 ---
 
 Arctic's premise is that heavy agent users juggle subscriptions: Claude here, Codex there, a work Copilot account, and no single view of what is left. The interface aggregates coding plans from ten providers (Claude Code, Codex, Gemini CLI, Antigravity, Copilot, Z.AI, Kimi, Amp, Qwen, MiniMax) alongside BYOK APIs (OpenAI, Anthropic, Google, Perplexity, OpenRouter, Ollama), tracking usage in real time and letting you switch models mid-conversation. Existing Claude Code and OpenCode setups import directly, so agents, slash commands, and MCP servers carry over without reconfiguration. Local-first storage keeps conversations on-device; an anonymous telemetry phase is opt-out. It targets developers juggling personal and work AI accounts across several agent subscriptions.

@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "github_deep"
 what_makes_it_special: "Open-source, terminal-native coding agent (IDE) keeping you in the terminal. NeoLens built-in local codebase explorer visualizes TypeScript dependency graphs, offers read-only file previews, and replays agent activity timelines (tokens, durations, costs) without sending source to cloud. PLAN mode (read-only investigation) and BUILD mode (implementation). MCP integrations via project-local .neocode/mcp.json (stdio and Streamable HTTP transports). Switchable plan/build agents via /agents command."
+date_added: "2026-06-04"
 ---
 
 NeoCode targets developers who want an agentic coding loop without leaving the terminal. Sessions run through an OpenTUI interface with streaming responses, persistent re-openable sessions, and a strict separation between read-only PLAN mode and implementation BUILD mode. MCP servers are configured per project and denied by default: each tool gets an explicit read/write/disabled policy, and secrets are passed through environment references without leaving the server process. File contents never leave the machine — the hosted API receives only session activity, never code. The project is a Bun monorepo shipped as self-contained binaries bundling the Bun runtime, with Homebrew and installer-script distribution.

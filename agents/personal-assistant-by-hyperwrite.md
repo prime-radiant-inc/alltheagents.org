@@ -33,6 +33,7 @@ maintained: "active"
 sources:
   - "jim"
 what_makes_it_special: "Personal Assistant AI agent for everyday tasks, seamlessly integrating into workflows to automate browser-based activities"
+date_added: "2026-08-19"
 ---
 
 HyperWrite's Personal Assistant extends a writing-assistant product into one that executes tasks: the agent drives the user's own browser to organize an inbox, draft and send replies, book flights, pay bills, or research candidates, rather than merely suggesting text. A Chrome extension adds on-page writing help and TypeAhead autocomplete across any website, while the web app covers research with cited scholarly sources and scheduling workflows. The product operates on a subscription with a free trial tier and is aimed at professionals drowning in routine web work rather than developers; nothing about it generates or modifies code. It matters to this census only as context for HyperWrite's agent platform, since the assistant's browser-control loop is the same primitive that coding agents apply to terminals and editors. Its users are individual knowledge workers and small teams automating everyday web tasks.

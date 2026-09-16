@@ -37,6 +37,7 @@ sources:
   - "jim"
   - "brandonhimpfen"
 what_makes_it_special: "First open-source implementation of an agentic software engineer; open-source alternative to Devin (Cognition AI). README banner now directs users to its successor, Opcode."
+date_added: "2024-03-21"
 ---
 
 Devika demonstrated in March 2024 that a Devin-style software engineer could be assembled from open components: high-level objectives are decomposed into steps, each step gets focused web research via extracted keywords, and code is written against the plan while agent state is visualized in a chat UI. It supported Claude 3, GPT-4, Gemini, Mistral, Groq, and local Ollama models, and organized work into browser-managed projects. The project was always labeled experimental, and its maintainers eventually moved to a successor called Opcode. It remains historically important as the template many later open-source agents copied, but the codebase itself is no longer developed.
