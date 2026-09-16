@@ -67,14 +67,21 @@ def repo_from_url(url):
 
 
 def frontmatter(path):
+    """Return the YAML frontmatter block, or None when the file has none.
+
+    The block ends at the first *line* that is exactly `---`, which is not the
+    same as the first `---` substring: a URL can contain three hyphens
+    (github.com/pinskyrobin/LLM---Detect-AI-Generated-Text), and splitting on the
+    substring truncates the block there, silently hiding every field after it.
+    """
     with open(path, encoding="utf-8") as f:
-        text = f.read()
-    if not text.startswith("---"):
+        lines = f.read().split("\n")
+    if not lines or lines[0].strip() != "---":
         return None
-    parts = text.split("---", 2)
-    if len(parts) < 3:
-        return None
-    return parts[1]
+    for i in range(1, len(lines)):
+        if lines[i].strip() == "---":
+            return "\n".join(lines[1:i])
+    return None
 
 
 def field(fm, key):

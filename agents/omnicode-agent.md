@@ -6,13 +6,13 @@ category: "agent"
 maker: "OmniCode"
 license: "Apache-2.0"
 url: "https://plugins.jetbrains.com/plugin/33002-omnicode-agent"
-source_code_url: null
+source_code_url: "https://github.com/wuke123222/omnicode-agent"
 source_available: "yes"
 platforms:
   - "IDE"
 first_released: "2026-08-27"
 current_release: "2026-08-27"
-stars: null
+stars: "1"
 language: "Kotlin/Java (JetBrains plugin)"
 homepage: "https://github.com/wuke123222/omnicode-agent"
 mcp_support: "True"

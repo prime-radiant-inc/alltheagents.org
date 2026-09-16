@@ -5,15 +5,15 @@ layout: "agent.njk"
 category: "other"
 maker: "Meta AI"
 license: "Llama 2 Community License"
-url: "https://github.com/meta-ai/codellama"
-source_code_url: "https://github.com/meta-ai/codellama"
+url: "https://github.com/facebookresearch/codellama"
+source_code_url: "https://github.com/facebookresearch/codellama"
 source_available: "True"
 platforms:
   - "CLI"
   - "API"
 first_released: "2023-08-24"
 current_release: null
-stars: null
+stars: "16255"
 language: "Python"
 homepage: null
 mcp_support: null

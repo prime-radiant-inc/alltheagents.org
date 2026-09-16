@@ -11,7 +11,7 @@ source_available: "Source-visible (no OSS license)"
 platforms: []
 first_released: "2024-01-18"
 current_release: "2024-01-18"
-stars: null
+stars: "0"
 language: "Jupyter Notebook"
 homepage: null
 mcp_support: "no"

@@ -5,9 +5,9 @@ layout: "agent.njk"
 category: "multiplexer"
 maker: "ofekron"
 license: "Source-available (non-commercial)"
-url: "https://github.com/ofekron/better-agent"
-source_code_url: "https://github.com/ofekron/better-agent"
-source_available: "True"
+url: null
+source_code_url: null
+source_available: "False"
 platforms:
   - "CLI"
   - "Web"

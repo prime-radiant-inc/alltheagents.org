@@ -35,7 +35,6 @@ as warnings instead, so the check stays a real signal rather than permanent red.
 import argparse
 import json
 import os
-import re
 import sys
 
 SRCDIR = os.path.dirname(os.path.abspath(__file__))
@@ -47,9 +46,6 @@ from fetch_stars import repo_from_url, frontmatter, field  # noqa: E402  (shared
 SNAPSHOT = os.path.join(ROOT, "sources", "gh_stars.json")
 AGENTS_JSON = os.path.join(ROOT, "_data", "agents.json")
 TSV = os.path.join(ROOT, "coding_agent_harnesses.tsv")
-
-STARS_LINE = re.compile(r"^stars:.*$", re.M)
-
 
 def load_snapshot(path):
     with open(path, encoding="utf-8") as f:
@@ -115,19 +111,24 @@ def classify(entries, snapshot):
 def apply_md(path, count):
     """Rewrite only the `stars:` line inside frontmatter. Returns True if changed."""
     with open(path, encoding="utf-8") as f:
-        text = f.read()
-    parts = text.split("---", 2)
-    if len(parts) < 3:
+        lines = f.read().split("\n")
+    # Split on delimiter lines, not on the "---" substring: a frontmatter value
+    # may itself contain three hyphens (see fetch_stars.frontmatter).
+    if not lines or lines[0].strip() != "---":
         raise ValueError(f"{path}: no frontmatter")
-    head, fm, rest = parts
-    new_fm, n = STARS_LINE.subn(f'stars: "{count}"', fm, count=1)
-    if n != 1:
-        raise ValueError(f"{path}: expected exactly one stars line, found {n}")
-    new_text = "---".join([head, new_fm, rest])
-    if new_text == text:
+    try:
+        end = next(i for i in range(1, len(lines)) if lines[i].strip() == "---")
+    except StopIteration:
+        raise ValueError(f"{path}: no closing frontmatter delimiter")
+    hits = [i for i in range(1, end) if lines[i].startswith("stars:")]
+    if len(hits) != 1:
+        raise ValueError(f"{path}: expected exactly one stars line, found {len(hits)}")
+    new_line = f'stars: "{count}"'
+    if lines[hits[0]] == new_line:
         return False
+    lines[hits[0]] = new_line
     with open(path, "w", encoding="utf-8") as f:
-        f.write(new_text)
+        f.write("\n".join(lines))
     return True
 
 

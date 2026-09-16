@@ -5,9 +5,9 @@ layout: "agent.njk"
 category: "multiplexer"
 maker: "saadnvd1"
 license: "MIT"
-url: "https://github.com/saadnvd1/agent-os"
-source_code_url: "https://github.com/saadnvd1/agent-os"
-source_available: "True"
+url: null
+source_code_url: null
+source_available: "False"
 platforms:
   - "CLI"
   - "IDE"

@@ -6,13 +6,13 @@ category: "agent"
 maker: "Tejas Soni"
 license: "GPL-3.0"
 url: "https://plugins.jetbrains.com/plugin/32760-omnipilot--bring-your-own-model"
-source_code_url: null
+source_code_url: "https://github.com/tejas-soni/OmniPilot"
 source_available: "yes"
 platforms:
   - "IDE"
 first_released: "2026-08-08"
 current_release: "2026-08-08"
-stars: null
+stars: "0"
 language: "Kotlin/Java (JetBrains plugin)"
 homepage: "https://github.com/tejas-soni/OmniPilot"
 mcp_support: "no"

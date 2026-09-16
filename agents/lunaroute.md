@@ -5,9 +5,9 @@ layout: "agent.njk"
 category: "other"
 maker: "erans"
 license: "Apache-2.0"
-url: "https://github.com/erans/lunaroute"
-source_code_url: "https://github.com/erans/lunaroute"
-source_available: "True"
+url: null
+source_code_url: null
+source_available: "False"
 platforms:
   - "CLI"
 first_released: "2025-10-07"

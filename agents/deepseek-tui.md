@@ -5,9 +5,9 @@ layout: "agent.njk"
 category: "agent"
 maker: "Independent"
 license: "MIT"
-url: "https://github.com/deepseek-tui/deepseek-tui"
-source_code_url: "https://github.com/deepseek-tui/deepseek-tui"
-source_available: "True"
+url: null
+source_code_url: null
+source_available: "False"
 platforms:
   - "CLI"
 first_released: "2025"

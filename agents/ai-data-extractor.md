@@ -5,9 +5,9 @@ layout: "agent.njk"
 category: "other"
 maker: "bawadou"
 license: "MIT"
-url: "https://github.com/bawadou/ai-data-extractor"
-source_code_url: "https://github.com/bawadou/ai-data-extractor"
-source_available: "True"
+url: null
+source_code_url: null
+source_available: "False"
 platforms:
   - "CLI"
   - "IDE"

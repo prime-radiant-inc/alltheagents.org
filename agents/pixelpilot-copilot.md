@@ -5,9 +5,9 @@ layout: "agent.njk"
 category: "agent"
 maker: "PixelPilotAILabs"
 license: "MIT"
-url: "https://open-vsx.org/extension/PixelPilotAILabs/PixelPilot-copilot"
-source_code_url: "https://github.com/PixelPilotAILabs/PixelPilot-copilot.git"
-source_available: "True"
+url: null
+source_code_url: null
+source_available: "False"
 platforms:
   - "IDE"
 first_released: "2026-08-20"

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T14:58:02+00:00",
+  "fetched_at": "2026-09-16T15:05:22+00:00",
   "repos": {
     "0xpayne/gpt-migrate": {
       "archived": false,
@@ -1172,6 +1172,12 @@
       "full_name": "clarisseIO/python-agents",
       "stargazers_count": 0
     },
+    "clawdotnet/sharpclawcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "clawdotnet/SharpClawCode",
+      "stargazers_count": 92
+    },
     "clawplays/ospec": {
       "archived": false,
       "error": null,
@@ -1740,6 +1746,12 @@
       "full_name": "dudufcb1/codebase-index-cli",
       "stargazers_count": 59
     },
+    "duggasco/yoyo-evolve-clean": {
+      "archived": false,
+      "error": null,
+      "full_name": "duggasco/yoyo-evolve-clean",
+      "stargazers_count": 0
+    },
     "dyad-sh/dyad": {
       "archived": false,
       "error": null,
@@ -1882,6 +1894,12 @@
       "error": null,
       "full_name": "exqqstar/ExAgent",
       "stargazers_count": 54
+    },
+    "facebookresearch/codellama": {
+      "archived": true,
+      "error": null,
+      "full_name": "meta-llama/codellama",
+      "stargazers_count": 16255
     },
     "factory-ai/factory": {
       "archived": false,
@@ -3410,6 +3428,12 @@
       "full_name": "math-ai-org/mathcode",
       "stargazers_count": 741
     },
+    "matsumo0922/agent-gui-plugin": {
+      "archived": false,
+      "error": null,
+      "full_name": "matsumo0922/agent-gui-plugin",
+      "stargazers_count": 1
+    },
     "matteraiorg/orbital-extension": {
       "archived": false,
       "error": null,
@@ -3646,6 +3670,12 @@
       "error": "gh: Not Found (HTTP 404)",
       "full_name": "moonbitlang/moonbit-doc",
       "stargazers_count": null
+    },
+    "moonbitlang/moonbit-docs": {
+      "archived": false,
+      "error": null,
+      "full_name": "moonbitlang/moonbit-docs",
+      "stargazers_count": 2416
     },
     "moonshotai/kimi-cli": {
       "archived": false,
@@ -4266,6 +4296,12 @@
       "error": "gh: Not Found (HTTP 404)",
       "full_name": "pinskyrobin/llm",
       "stargazers_count": null
+    },
+    "pinskyrobin/llm---detect-ai-generated-text": {
+      "archived": false,
+      "error": null,
+      "full_name": "pinskyrobin/LLM---Detect-AI-Generated-Text",
+      "stargazers_count": 0
     },
     "piotr1215/pairup.nvim": {
       "archived": false,
@@ -5006,6 +5042,12 @@
       "full_name": "stagewise-io/stagewise",
       "stargazers_count": 6815
     },
+    "staks-sor/ai-free": {
+      "archived": false,
+      "error": null,
+      "full_name": "Staks-sor/ai-free",
+      "stargazers_count": 210
+    },
     "standardagents/dmux": {
       "archived": false,
       "error": null,
@@ -5286,6 +5328,12 @@
       "error": null,
       "full_name": "tegridydev/multi-agent-secops-llm",
       "stargazers_count": 10
+    },
+    "tejas-soni/omnipilot": {
+      "archived": false,
+      "error": null,
+      "full_name": "tejas-soni/OmniPilot",
+      "stargazers_count": 0
     },
     "teldridge11/rpm-ai-agent": {
       "archived": false,
@@ -5820,6 +5868,12 @@
       "full_name": "wrtnlabs/autobe",
       "stargazers_count": 1360
     },
+    "wuke123222/omnicode-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "wuke123222/omnicode-agent",
+      "stargazers_count": 1
+    },
     "xai-org/grok-build": {
       "archived": false,
       "error": null,
@@ -5837,6 +5891,12 @@
       "error": null,
       "full_name": "xeol-io/bumpgen",
       "stargazers_count": 146
+    },
+    "xerv-org/swades-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "Xerv-Org/Swades-Agent",
+      "stargazers_count": 1
     },
     "xiaomimimo/mimo-code": {
       "archived": false,

@@ -17,15 +17,56 @@ Run with:  python3 -m unittest discover -s tests
 
 import os
 import sys
+import tempfile
 import unittest
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "sources"))
 sys.path.insert(0, os.path.join(ROOT, "scripts"))
 
-from fetch_stars import repo_from_url  # noqa: E402
+from fetch_stars import frontmatter, field, repo_from_url  # noqa: E402
 from generate_pages import parse_stars  # noqa: E402
-from sync_stars import classify, load_snapshot, scan_entries  # noqa: E402
+from sync_stars import apply_md, classify, load_snapshot, scan_entries  # noqa: E402
+
+
+class TestFrontmatterBoundaries(unittest.TestCase):
+    """The block ends at a `---` *line*, not at the first `---` substring.
+
+    github.com/pinskyrobin/LLM---Detect-AI-Generated-Text contains three hyphens.
+    Splitting on the substring truncated the block at the URL and hid every field
+    after it, which made that entry look like it pointed at a dead repo.
+    """
+
+    def test_value_containing_triple_dash_does_not_truncate_the_block(self):
+        path = os.path.join(ROOT, "agents", "llm-detect-ai-generated-text.md")
+        fm = frontmatter(path)
+        self.assertIsNotNone(fm)
+        self.assertEqual(repo_from_url(field(fm, "url")),
+                         "pinskyrobin/LLM---Detect-AI-Generated-Text")
+        # A field that appears *after* the URL must still be visible.
+        self.assertEqual(field(fm, "maintained"), "dead")
+
+    def test_apply_md_rewrites_stars_without_touching_the_url(self):
+        text = ('---\nname: "X"\nurl: "https://github.com/o/a---b"\n'
+                'stars: null\n---\n\nbody text\n')
+        with tempfile.NamedTemporaryFile("w", suffix=".md", delete=False, encoding="utf-8") as f:
+            f.write(text)
+            path = f.name
+        self.addCleanup(os.unlink, path)
+
+        self.assertTrue(apply_md(path, 42))
+        out = open(path, encoding="utf-8").read()
+        self.assertIn('stars: "42"', out)
+        self.assertIn("https://github.com/o/a---b", out)
+        self.assertTrue(out.endswith("body text\n"), out)
+
+    def test_apply_md_raises_when_there_is_no_stars_line(self):
+        with tempfile.NamedTemporaryFile("w", suffix=".md", delete=False, encoding="utf-8") as f:
+            f.write('---\nname: "X"\n---\n\nbody\n')
+            path = f.name
+        self.addCleanup(os.unlink, path)
+        with self.assertRaises(ValueError):
+            apply_md(path, 42)
 
 
 class TestRepoFromUrl(unittest.TestCase):

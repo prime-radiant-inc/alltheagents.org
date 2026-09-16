@@ -6,13 +6,13 @@ category: "multiplexer"
 maker: "matsumo0922"
 license: "MIT"
 url: "https://plugins.jetbrains.com/plugin/30428-agent-gui"
-source_code_url: null
+source_code_url: "https://github.com/matsumo0922/agent-gui-plugin"
 source_available: True
 platforms:
   - "IDE"
 first_released: "2026-03-03"
 current_release: null
-stars: null
+stars: "1"
 language: "Kotlin"
 homepage: "https://github.com/matsumo0922/agent-gui-plugin"
 mcp_support: null

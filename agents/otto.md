@@ -5,8 +5,8 @@ layout: "agent.njk"
 category: "agent"
 maker: "Otto"
 license: "Open-source"
-url: "https://github.com/otto-ai/otto"
-source_code_url: "https://github.com/otto-ai/otto"
+url: null
+source_code_url: null
 source_available: "False"
 platforms:
   - "Web"
@@ -14,7 +14,7 @@ first_released: "2024"
 current_release: "2026"
 stars: null
 language: null
-homepage: "https://github.com/otto-ai/otto"
+homepage: null
 mcp_support: null
 plugin_support: null
 claude_code_plugin: null

@@ -5,9 +5,9 @@ layout: "agent.njk"
 category: "multiplexer"
 maker: null
 license: null
-url: "https://github.com/laris-co/multi-agent-workflow-kit"
-source_code_url: "https://github.com/laris-co/multi-agent-workflow-kit"
-source_available: "Source-visible (no OSS license)"
+url: null
+source_code_url: null
+source_available: "False"
 platforms: []
 first_released: null
 current_release: null

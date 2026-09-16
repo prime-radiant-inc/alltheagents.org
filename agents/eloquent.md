@@ -5,16 +5,16 @@ layout: "agent.njk"
 category: "agent"
 maker: "boneylizard"
 license: "AGPL-3.0"
-url: "https://github.com/boneylizard/Eloquent"
-source_code_url: "https://github.com/boneylizard/Eloquent"
-source_available: "True"
+url: null
+source_code_url: null
+source_available: "False"
 platforms:
   - "IDE"
 first_released: "2025-06-30"
 current_release: "2026-07-28"
 stars: "66"
 language: "Python"
-homepage: "https://github.com/boneylizard/Eloquent"
+homepage: null
 mcp_support: "False"
 plugin_support: "True"
 claude_code_plugin: "False"
