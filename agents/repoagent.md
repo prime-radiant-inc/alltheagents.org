@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-11-28"
 current_release: "2024-12-23"
-stars: "1029"
+stars: "1046"
 language: "Python"
 homepage: "https://github.com/OpenBMB/RepoAgent"
 mcp_support: "no"

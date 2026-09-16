@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-01-13"
 current_release: "2026-08-18"
-stars: "225"
+stars: "251"
 language: "TypeScript, Rust"
 homepage: "https://github.com/agnusdei1207/opencode-orchestrator/issues"
 mcp_support: "no"

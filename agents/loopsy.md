@@ -13,7 +13,7 @@ platforms:
   - "Mobile"
 first_released: "2026-02-21"
 current_release: "2026-07-28"
-stars: "139"
+stars: "140"
 language: "TypeScript"
 homepage: null
 mcp_support: "yes"

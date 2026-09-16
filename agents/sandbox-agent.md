@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-01-25"
 current_release: "2026-06-19"
-stars: "1538"
+stars: "1565"
 language: "Rust (server) + TypeScript (SDK)"
 homepage: "https://sandboxagent.dev"
 mcp_support: "partial - planned (roadmap: automatic MCP/skill/hook configuration)"

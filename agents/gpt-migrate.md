@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-06-24"
 current_release: "2024-09-17"
-stars: "6979"
+stars: "6977"
 language: "Python"
 homepage: "https://gpt-migrate.com"
 mcp_support: "no"

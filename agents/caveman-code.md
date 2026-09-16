@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-08"
 current_release: "2026-08-14"
-stars: "922"
+stars: "937"
 language: "TypeScript"
 homepage: "https://caveman.so/"
 mcp_support: "yes — full, Claude Code-compatible superset; transports: stdio, Streamable HTTP, in-process; OAuth 2.1 + PKCE"

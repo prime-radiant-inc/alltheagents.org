@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-01-14"
 current_release: "2026-03-06"
-stars: "5610"
+stars: "5598"
 language: "TypeScript"
 homepage: "https://1code.dev"
 mcp_support: "yes"

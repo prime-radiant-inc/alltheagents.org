@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2024-10-31"
 current_release: "2026-05-15"
-stars: "24331"
+stars: "24304"
 language: "TypeScript"
 homepage: "https://roocode.com"
 mcp_support: "yes"

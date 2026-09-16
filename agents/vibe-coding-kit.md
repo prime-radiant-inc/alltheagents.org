@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-16"
 current_release: "2026-06-30"
-stars: "167"
+stars: "109"
 language: null
 homepage: null
 mcp_support: "no"

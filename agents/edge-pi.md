@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-01"
 current_release: "2026-02-23"
-stars: "62"
+stars: "63"
 language: "TypeScript"
 homepage: "https://edge-pi-beta.vercel.app/"
 mcp_support: "no"

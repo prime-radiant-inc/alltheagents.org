@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-01-29"
 current_release: "2026-08-20"
-stars: "93"
+stars: "98"
 language: "TypeScript, Rust"
 homepage: "https://freshell.net/"
 mcp_support: "no"

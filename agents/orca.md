@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-03-17"
 current_release: "2026-08-20"
-stars: "49120"
+stars: "70021"
 language: "TypeScript"
 homepage: "https://onOrca.dev"
 mcp_support: "no"

@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2025-02-07"
 current_release: "2026-08-19"
-stars: "23231"
+stars: "23482"
 language: "TypeScript"
 homepage: "https://archon.diy"
 mcp_support: "yes"

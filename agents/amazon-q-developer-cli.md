@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2024-09-23"
 current_release: "2026-08-17"
-stars: null
+stars: "1983"
 language: "Rust"
 homepage: "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html"
 mcp_support: "True"

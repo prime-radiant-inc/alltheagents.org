@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-08-27"
 current_release: null
-stars: null
+stars: "4"
 language: null
 homepage: "https://burtson.ai/stealth"
 mcp_support: null

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-07-30"
 current_release: "2025-12-19"
-stars: "742"
+stars: "739"
 language: "TypeScript"
 homepage: null
 mcp_support: "no"

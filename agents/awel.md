@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-01-31"
 current_release: "2026-02-07"
-stars: "38"
+stars: "39"
 language: "TypeScript, JavaScript (Node.js)"
 homepage: "https://awel.sh/"
 mcp_support: "no"

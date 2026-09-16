@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2021-03-01"
 current_release: "2026-05-28"
-stars: "119"
+stars: "120"
 language: "Python"
 homepage: null
 mcp_support: "False"

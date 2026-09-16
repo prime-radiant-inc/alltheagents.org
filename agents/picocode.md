@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-01-16"
 current_release: "2026-01-30"
-stars: "58"
+stars: "61"
 language: "Rust"
 homepage: "https://github.com/jondot/picocode"
 mcp_support: "False"

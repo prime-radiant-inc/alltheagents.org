@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2025-01-02"
 current_release: "2025-01-02"
-stars: null
+stars: "0"
 language: null
 homepage: null
 mcp_support: null

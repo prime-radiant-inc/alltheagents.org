@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2021-06-14"
 current_release: "2026-07-19"
-stars: "1619"
+stars: "1627"
 language: "Markdown"
 homepage: "https://benthecoder.github.io/yt-channels-DS-AI-ML-CS/"
 mcp_support: "n/a"

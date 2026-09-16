@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-06-18"
 current_release: "2026-08-20"
-stars: "11304"
+stars: "14860"
 language: "TypeScript"
 homepage: "https://opencodex.me/"
 mcp_support: "no"

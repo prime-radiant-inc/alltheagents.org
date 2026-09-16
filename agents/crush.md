@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-05-21"
 current_release: "2026-08-20"
-stars: null
+stars: "28126"
 language: "Go"
 homepage: "https://charm.land"
 mcp_support: "True"

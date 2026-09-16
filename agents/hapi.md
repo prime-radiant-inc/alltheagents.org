@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-12-24"
 current_release: "2026-08-20"
-stars: "4834"
+stars: "5073"
 language: "TypeScript"
 homepage: "https://hapi.run"
 mcp_support: "no"

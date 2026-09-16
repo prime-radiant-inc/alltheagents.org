@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2025-06-26"
 current_release: "2026-07-29"
-stars: "21475"
+stars: "21597"
 language: "Go (backend), TypeScript (frontend)"
 homepage: null
 mcp_support: "partial (.mcp.json file present; transport not documented)"

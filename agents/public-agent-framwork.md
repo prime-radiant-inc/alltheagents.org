@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2024-12-30"
 current_release: "2024-12-31"
-stars: null
+stars: "0"
 language: "TypeScript"
 homepage: null
 mcp_support: "no"

@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-05-16"
 current_release: "2026-08-14"
-stars: "769"
+stars: "833"
 language: "Go"
 homepage: null
 mcp_support: "no"

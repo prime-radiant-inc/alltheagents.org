@@ -13,7 +13,7 @@ platforms:
   - "CLI"
 first_released: "2026-08-09"
 current_release: "2026-08-28"
-stars: 634
+stars: "1440"
 language: "Python"
 homepage: "https://harnessrouter.ai/"
 mcp_support: null

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-09-24"
 current_release: "2026-06-17"
-stars: "423"
+stars: "420"
 language: "TypeScript"
 homepage: "https://easycode.bot"
 mcp_support: "True"

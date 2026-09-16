@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-05-15"
 current_release: "2026-05-28"
-stars: "581"
+stars: "534"
 language: "TypeScript"
 homepage: "https://loom.vegamo.cn"
 mcp_support: "no"

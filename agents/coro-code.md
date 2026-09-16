@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-08-13"
 current_release: "2025-10-30"
-stars: "368"
+stars: "369"
 language: "Rust"
 homepage: "https://sofast.fun"
 mcp_support: "False"

@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-03-27"
 current_release: "2026-08-20"
-stars: "30767"
+stars: "38928"
 language: "Rust"
 homepage: "https://herdr.dev"
 mcp_support: "no"

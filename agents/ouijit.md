@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-02-03"
 current_release: "2026-08-20"
-stars: "154"
+stars: "169"
 language: "TypeScript"
 homepage: "https://ouijit.com/"
 mcp_support: "no"

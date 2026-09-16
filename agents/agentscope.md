@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2024-01-12"
 current_release: "2026-08-19"
-stars: "29062"
+stars: "31805"
 language: "Python"
 homepage: "https://docs.agentscope.io/"
 mcp_support: "yes (MCP servers, GitHub MCP Registry & ClawHub)"

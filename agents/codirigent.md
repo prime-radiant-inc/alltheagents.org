@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-02-02"
 current_release: "2026-07-09"
-stars: "104"
+stars: "108"
 language: "Rust"
 homepage: "https://codirigent.dev/"
 mcp_support: null

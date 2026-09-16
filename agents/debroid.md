@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-08-02"
 current_release: "2026-08-09"
-stars: "184"
+stars: "263"
 language: "Kotlin"
 homepage: "https://github.com/PatilShreyas/debroid"
 mcp_support: "False"

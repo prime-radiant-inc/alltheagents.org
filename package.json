@@ -4,7 +4,7 @@
   "description": "Comprehensive census of coding agent harnesses \u2014 systems that let an LLM autonomously write, modify, debug, or run code.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "python3 -m unittest discover -s tests && python3 scripts/sync_stars.py --check",
     "build": "eleventy",
     "serve": "eleventy --serve"
   },

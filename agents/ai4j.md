@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2024-08-17"
 current_release: "2026-08-19"
-stars: "423"
+stars: "429"
 language: "Java"
 homepage: "https://lnyo-cly.github.io/ai4j/"
 mcp_support: "True"

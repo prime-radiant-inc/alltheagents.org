@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-19"
 current_release: "2026-08-19"
-stars: "568"
+stars: "596"
 language: "Go"
 homepage: "https://juggler.studio"
 mcp_support: "yes"

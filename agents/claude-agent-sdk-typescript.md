@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-09-27"
 current_release: "2026-08-20"
-stars: "1706"
+stars: "1758"
 language: "TypeScript / Node.js"
 homepage: "https://docs.claude.com/en/api/agent-sdk/overview"
 mcp_support: "yes (SDK MCP servers for custom tools)"

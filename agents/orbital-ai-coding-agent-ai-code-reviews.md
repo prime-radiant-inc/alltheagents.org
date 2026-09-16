@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-08-21"
 current_release: "2026-08-28"
-stars: null
+stars: "3"
 language: "TypeScript"
 homepage: "https://matterai.so"
 mcp_support: null

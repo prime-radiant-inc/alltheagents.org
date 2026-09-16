@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-16"
 current_release: "2026-08-15"
-stars: "900"
+stars: "991"
 language: "Python"
 homepage: "https://coral.compounding-intelligence.ai"
 mcp_support: "no — explicitly described as a skills-first bundle (no MCP)"

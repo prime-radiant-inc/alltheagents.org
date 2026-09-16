@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-13"
 current_release: "2026-03-13"
-stars: "117"
+stars: "116"
 language: "Python"
 homepage: "https://locoremind.com/blog/locotrainer"
 mcp_support: "no"

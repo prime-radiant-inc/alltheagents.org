@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-19"
 current_release: "2026-04-07"
-stars: "44"
+stars: "72"
 language: "TypeScript / JavaScript"
 homepage: "https://vercel-doctor.com"
 mcp_support: "no"

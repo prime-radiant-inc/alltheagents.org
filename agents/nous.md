@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2024-04-10"
 current_release: "2025-12-22"
-stars: "1193"
+stars: "1195"
 language: "TypeScript"
 homepage: "https://typedai.dev"
 mcp_support: "no"

@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-08-25"
 current_release: null
-stars: null
+stars: "3"
 language: null
 homepage: "https://github.com/abacusai/abacusai-desktop#readme"
 mcp_support: "True"

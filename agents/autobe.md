@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-04-28"
 current_release: "2026-06-24"
-stars: null
+stars: "1360"
 language: "TypeScript"
 homepage: "https://autobe.dev"
 mcp_support: "False"

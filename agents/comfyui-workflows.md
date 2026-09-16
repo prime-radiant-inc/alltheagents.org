@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-08-21"
 current_release: "2024-01-10"
-stars: "856"
+stars: "882"
 language: "JSON"
 homepage: null
 mcp_support: "no"

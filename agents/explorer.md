@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-12-09"
 current_release: "2026-01-12"
-stars: "58"
+stars: "62"
 language: "Python"
 homepage: "https://invariantlabs.ai/blog/explorer"
 mcp_support: "False"

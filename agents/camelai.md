@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-07-24"
 current_release: "2026-08-19"
-stars: "352"
+stars: "370"
 language: "TypeScript"
 homepage: "https://camelai.com"
 mcp_support: "True"

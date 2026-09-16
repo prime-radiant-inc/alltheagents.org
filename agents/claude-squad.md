@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2025-03-09"
 current_release: "2026-07-30"
-stars: "8341"
+stars: "8484"
 language: "Go"
 homepage: "https://smtg-ai.github.io/claude-squad/"
 mcp_support: "no"

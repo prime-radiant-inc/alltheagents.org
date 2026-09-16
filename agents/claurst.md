@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-31"
 current_release: "2026-07-31"
-stars: "10250"
+stars: "10304"
 language: "Rust"
 homepage: "https://claurst.kuber.studio/"
 mcp_support: "no"

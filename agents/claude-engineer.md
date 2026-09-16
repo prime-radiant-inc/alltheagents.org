@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2024-06-24"
 current_release: "2024-12-12"
-stars: null
+stars: "11217"
 language: "Python"
 homepage: "https://github.com/Doriandarko/claude-engineer"
 mcp_support: "no"

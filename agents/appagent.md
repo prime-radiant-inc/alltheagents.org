@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2023-12-20"
 current_release: "2025-03-19"
-stars: "6847"
+stars: "6883"
 language: "Python"
 homepage: "https://appagent-official.github.io/"
 mcp_support: "no"

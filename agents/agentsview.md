@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-02-19"
 current_release: "2026-08-20"
-stars: "5146"
+stars: "5920"
 language: "Go"
 homepage: "https://agentsview.io"
 mcp_support: "no"

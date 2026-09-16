@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-04-05"
 current_release: "2026-08-19"
-stars: "78"
+stars: "93"
 language: "JavaScript"
 homepage: "https://greatcto.systems"
 mcp_support: "True"

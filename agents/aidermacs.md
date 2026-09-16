@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-02-11"
 current_release: "2026-08-16"
-stars: "922"
+stars: "930"
 language: "Emacs Lisp"
 homepage: null
 mcp_support: "no"

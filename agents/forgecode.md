@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2024-12-08"
 current_release: "2026-08-19"
-stars: null
+stars: "7633"
 language: "Rust"
 homepage: "https://forgecode.dev"
 mcp_support: "True"

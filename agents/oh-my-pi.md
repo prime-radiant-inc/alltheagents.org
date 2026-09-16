@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-12-31"
 current_release: "2026-08-19"
-stars: null
+stars: "31383"
 language: "TypeScript, Rust"
 homepage: "https://omp.sh"
 mcp_support: "True"

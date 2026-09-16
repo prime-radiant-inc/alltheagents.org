@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-17"
 current_release: "2026-07-23"
-stars: "109"
+stars: "110"
 language: "TypeScript"
 homepage: "https://www.theapiary.sh"
 mcp_support: "True"

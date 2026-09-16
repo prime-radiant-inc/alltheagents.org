@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-04-25"
 current_release: "2026-08-03"
-stars: "222"
+stars: "229"
 language: "Rust"
 homepage: "https://albatross.sh"
 mcp_support: "True"

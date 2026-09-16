@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-19"
 current_release: "2026-08-07"
-stars: "250"
+stars: "257"
 language: "Rust"
 homepage: "https://umadev.goder.ai"
 mcp_support: "True"

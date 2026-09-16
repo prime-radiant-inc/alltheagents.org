@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-11-22"
 current_release: "2025-04-11"
-stars: "133"
+stars: "136"
 language: "Python"
 homepage: "https://stable-lab.github.io/MAGE/"
 mcp_support: "no"

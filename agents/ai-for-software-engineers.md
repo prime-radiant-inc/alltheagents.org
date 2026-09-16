@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-12-27"
 current_release: "2026-08-05"
-stars: "1361"
+stars: "1369"
 language: null
 homepage: "http://learn.aiforswes.com"
 mcp_support: "no"

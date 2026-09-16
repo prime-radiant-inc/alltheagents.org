@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2026-02-01"
 current_release: "2026-06-11"
-stars: "1643"
+stars: "1656"
 language: "TypeScript"
 homepage: "https://denchclaw.com"
 mcp_support: null

@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-04"
 current_release: "2026-08-19"
-stars: "675"
+stars: "736"
 language: "JavaScript"
 homepage: "https://www.aeon.fun/"
 mcp_support: "yes"

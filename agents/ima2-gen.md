@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-04-21"
 current_release: "2026-08-19"
-stars: "703"
+stars: "767"
 language: "TypeScript"
 homepage: "https://lidge-jun.github.io/ima2-gen/"
 mcp_support: "yes"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-31"
 current_release: "2026-08-19"
-stars: "6795"
+stars: "6932"
 language: "TypeScript"
 homepage: "https://open-multi-agent.com"
 mcp_support: "partial"

@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-05-14"
 current_release: "2026-08-11"
-stars: "221"
+stars: "241"
 language: "TypeScript/JavaScript (VS Code fork)"
 homepage: "https://cloud.neuralinverse.com"
 mcp_support: "yes"

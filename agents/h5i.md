@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-03-11"
 current_release: "2026-08-19"
-stars: "535"
+stars: "646"
 language: "Rust"
 homepage: "https://h5i.dev"
 mcp_support: "no"

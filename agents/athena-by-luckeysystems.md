@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-05-12"
 current_release: "2026-08-10"
-stars: "30"
+stars: "31"
 language: "TypeScript"
 homepage: "https://github.com/luckeyfaraday/Athena"
 mcp_support: "True"

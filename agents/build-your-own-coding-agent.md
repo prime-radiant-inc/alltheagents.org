@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-07-26"
 current_release: "2026-08-07"
-stars: "33"
+stars: "42"
 language: "TypeScript/Node.js"
 homepage: "https://github.com/yanhua1010/build-your-own-coding-agent"
 mcp_support: "False"

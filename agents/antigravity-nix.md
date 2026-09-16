@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-11-18"
 current_release: "2026-08-19"
-stars: "160"
+stars: "164"
 language: "Nix"
 homepage: "https://antigravity.google"
 mcp_support: null

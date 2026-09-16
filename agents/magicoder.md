@@ -13,7 +13,7 @@ platforms:
   - "API"
 first_released: "2023-11-01"
 current_release: null
-stars: null
+stars: "2095"
 language: "Python"
 homepage: null
 mcp_support: "no"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-11-12"
 current_release: "2023-11-16"
-stars: "206"
+stars: "205"
 language: "Markdown (instruction/knowledge files)"
 homepage: "https://chat.openai.com/g/g-cwigWCh11-code-gpt-gpt"
 mcp_support: "False"

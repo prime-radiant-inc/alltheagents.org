@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2024-03-21"
 current_release: "2025-09-25"
-stars: null
+stars: "19569"
 language: "Python"
 homepage: "https://winfunc.com"
 mcp_support: "no"

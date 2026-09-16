@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-04-22"
 current_release: "2026-06-26"
-stars: "1154"
+stars: "1174"
 language: "TypeScript"
 homepage: "http://ref.tools"
 mcp_support: "yes (Streamable-HTTP recommended, stdio legacy)"

@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2023-07-20"
 current_release: "2024-10-09"
-stars: "53"
+stars: "52"
 language: "Python"
 homepage: "https://docs.quackai.com"
 mcp_support: "False"

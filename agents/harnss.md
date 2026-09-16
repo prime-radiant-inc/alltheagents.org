@@ -15,7 +15,7 @@ platforms:
   - "Desktop"
 first_released: "2026-02-19"
 current_release: "2026-08-10"
-stars: "352"
+stars: "374"
 language: "TypeScript"
 homepage: "https://harnss.app"
 mcp_support: "True"

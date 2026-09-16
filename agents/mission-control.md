@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-13"
 current_release: "2026-08-18"
-stars: "6034"
+stars: "6227"
 language: "TypeScript"
 homepage: "https://mc.builderz.dev"
 mcp_support: "yes"

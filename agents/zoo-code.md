@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-04-23"
 current_release: "2026-08-19"
-stars: "1660"
+stars: "1857"
 language: "TypeScript (VS Code extension)"
 homepage: "https://www.zoocode.dev"
 mcp_support: "yes - per-mode MCP restrictions"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-05-15"
 current_release: "2026-08-06"
-stars: "1439"
+stars: "1684"
 language: "TypeScript, Go, Python, JavaScript, Rust (task corpus); Python (harness)"
 homepage: "https://deepswe.datacurve.ai/"
 mcp_support: "no"

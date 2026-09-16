@@ -14,7 +14,7 @@ platforms:
   - "Web"
 first_released: "2026-02-23"
 current_release: "2026-08-18"
-stars: "520"
+stars: "524"
 language: "Rust, TypeScript"
 homepage: "https://vibearound.ai/"
 mcp_support: "no"

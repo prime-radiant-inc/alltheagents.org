@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-05-06"
 current_release: "2026-07-13"
-stars: "29"
+stars: "32"
 language: "TypeScript/Node.js"
 homepage: null
 mcp_support: "False"

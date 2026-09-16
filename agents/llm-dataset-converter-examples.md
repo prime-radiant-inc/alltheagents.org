@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-06-06"
 current_release: "2025-01-06"
-stars: null
+stars: "0"
 language: null
 homepage: "https://waikato-llm.github.io/llm-dataset-converter-examples/"
 mcp_support: "False"

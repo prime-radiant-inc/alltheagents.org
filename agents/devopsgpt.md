@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-07-12"
 current_release: "2024-08-14"
-stars: "5965"
+stars: "5964"
 language: "Python"
 homepage: "https://www.kuafuai.net"
 mcp_support: "no"

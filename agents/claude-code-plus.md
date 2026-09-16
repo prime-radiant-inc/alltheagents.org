@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2025-06-13"
 current_release: "2026-04-15"
-stars: "147"
+stars: "144"
 language: "Kotlin"
 homepage: "https://plugins.jetbrains.com/plugin/28343-claude-code-plus"
 mcp_support: "True"

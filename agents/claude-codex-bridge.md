@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-10-25"
 current_release: "2026-08-18"
-stars: "3429"
+stars: "3504"
 language: "Python"
 homepage: "https://github.com/SeemSeam/claude_codex_bridge"
 mcp_support: "no"

@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-04-24"
 current_release: "2026-08-18"
-stars: "315"
+stars: "357"
 language: "Python, TypeScript"
 homepage: "https://tokentelemetry.com/docs/"
 mcp_support: "no"

@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-04-11"
 current_release: "2026-08-17"
-stars: "106"
+stars: "122"
 language: "Go"
 homepage: null
 mcp_support: "no"

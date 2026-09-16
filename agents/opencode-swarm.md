@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-01-27"
 current_release: "2026-08-20"
-stars: "447"
+stars: "473"
 language: "TypeScript"
 homepage: "https://swarmai.site/"
 mcp_support: "no"

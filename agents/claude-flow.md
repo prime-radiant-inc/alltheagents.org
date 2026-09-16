@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-06-02"
 current_release: "2026-08-19"
-stars: "68365"
+stars: "72606"
 language: "TypeScript"
 homepage: "https://Cognitum.One"
 mcp_support: "yes (MCP server via stdio, ~210 MCP tools)"

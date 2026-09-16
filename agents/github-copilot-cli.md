@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2023-01-06"
 current_release: "2026-08-19"
-stars: null
+stars: "11175"
 language: "Shell"
 homepage: "https://github.com/features/copilot/cli"
 mcp_support: "True"

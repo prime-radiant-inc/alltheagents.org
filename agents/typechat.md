@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-06-20"
 current_release: "2026-08-19"
-stars: "8680"
+stars: "8685"
 language: "TypeScript, Python, C#"
 homepage: "https://microsoft.github.io/TypeChat/"
 mcp_support: "no"

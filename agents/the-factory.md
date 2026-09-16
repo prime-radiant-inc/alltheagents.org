@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-04-11"
 current_release: "2026-08-20"
-stars: "61"
+stars: "70"
 language: "Python"
 homepage: "https://akashgit.github.io/remote-factory/"
 mcp_support: "no"

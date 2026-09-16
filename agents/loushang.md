@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-05-29"
 current_release: "2026-08-16"
-stars: "1186"
+stars: "1469"
 language: "Python"
 homepage: null
 mcp_support: "no"

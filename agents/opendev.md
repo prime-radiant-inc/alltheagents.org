@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-03-04"
 current_release: "2026-08-08"
-stars: "820"
+stars: "835"
 language: "Rust"
 homepage: null
 mcp_support: "yes (dynamic tool discovery; opendev mcp add/list/enable/disable)"

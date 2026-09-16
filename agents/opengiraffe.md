@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-03"
 current_release: "2026-05-08"
-stars: "104"
+stars: "106"
 language: "Python"
 homepage: "https://github.com/zclllyybb/OpenGiraffe"
 mcp_support: "no"

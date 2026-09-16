@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-10-18"
 current_release: "2026-08-13"
-stars: "1281"
+stars: "1282"
 language: "Java, Vue 3"
 homepage: "https://www.codeflying.app"
 mcp_support: "yes"

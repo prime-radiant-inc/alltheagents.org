@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2024-11-03"
 current_release: "2026-08-16"
-stars: "179"
+stars: "181"
 language: "Rust"
 homepage: null
 mcp_support: "True"

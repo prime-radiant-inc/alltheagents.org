@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-03-10"
 current_release: "2026-08-20"
-stars: "174"
+stars: "173"
 language: "Swift"
 homepage: "https://supaterm.com"
 mcp_support: "False"

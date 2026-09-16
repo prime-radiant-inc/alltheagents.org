@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-08"
 current_release: "2026-08-20"
-stars: "19621"
+stars: "22858"
 language: "TypeScript"
 homepage: "https://t3.codes"
 mcp_support: "True"

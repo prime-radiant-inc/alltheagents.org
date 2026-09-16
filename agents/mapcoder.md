@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-04-29"
 current_release: "2025-02-12"
-stars: "194"
+stars: "197"
 language: "Python"
 homepage: null
 mcp_support: "False"

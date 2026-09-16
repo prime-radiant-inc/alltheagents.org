@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-01-06"
 current_release: "2026-01-12"
-stars: "255"
+stars: "262"
 language: "TypeScript"
 homepage: "https://codevibes.akadanish.dev"
 mcp_support: "False"

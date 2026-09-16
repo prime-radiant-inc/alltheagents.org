@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-31"
 current_release: "2026-04-27"
-stars: "967"
+stars: "968"
 language: "Shell (Bash)"
 homepage: "https://github.com/iamfakeguru/agent-md"
 mcp_support: "no"

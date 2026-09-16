@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-04-01"
 current_release: "2026-04-10"
-stars: "1488"
+stars: "1502"
 language: "Chinese (Markdown book)"
 homepage: "https://zhanghandong.github.io/harness-engineering-from-cc-to-ai-coding/"
 mcp_support: "n/a - covered as a book topic, not a feature"

@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2024-03-19"
 current_release: "2026-08-19"
-stars: "8925"
+stars: "9060"
 language: "Python"
 homepage: "https://praison.ai/docs"
 mcp_support: "yes"

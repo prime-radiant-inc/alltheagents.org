@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-11-27"
 current_release: "2026-03-20"
-stars: "628"
+stars: "630"
 language: "TypeScript"
 homepage: "https://demo2apk.lasuo.ai"
 mcp_support: "no"

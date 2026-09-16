@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-07-10"
 current_release: "2026-08-19"
-stars: "135"
+stars: "149"
 language: "Bash"
 homepage: "https://github.com/alexgreensh/outsourcerer"
 mcp_support: "True"

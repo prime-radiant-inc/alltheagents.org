@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2022-06-01"
 current_release: "2026-08-14"
-stars: "10329"
+stars: "10362"
 language: "Elixir, TypeScript"
 homepage: "https://electric.ax"
 mcp_support: "no"

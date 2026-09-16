@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2025-05-14"
 current_release: "2026-08-19"
-stars: "6956"
+stars: "7272"
 language: "Python, TypeScript"
 homepage: "http://strandsagents.com/"
 mcp_support: "yes"

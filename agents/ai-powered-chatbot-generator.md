@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-07-04"
 current_release: "2024-07-24"
-stars: null
+stars: "0"
 language: "CSS"
 homepage: "https://github.com/Rushi-code1"
 mcp_support: "False"

@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2024"
 current_release: "2026"
-stars: null
+stars: "15297"
 language: "TypeScript, Python"
 homepage: "https://eigent.ai"
 mcp_support: "True"

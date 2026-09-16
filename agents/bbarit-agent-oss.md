@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-07-16"
 current_release: "2026-07-21"
-stars: "160"
+stars: "148"
 language: "Rust"
 homepage: "https://bbarit.com"
 mcp_support: "True"

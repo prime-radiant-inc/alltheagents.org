@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2022-01-31"
 current_release: "2023-10-03"
-stars: "2201"
+stars: "2202"
 language: "C++"
 homepage: null
 mcp_support: "no"

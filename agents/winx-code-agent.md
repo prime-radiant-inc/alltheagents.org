@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-04-17"
 current_release: "2026-08-20"
-stars: "33"
+stars: "34"
 language: "Rust"
 homepage: "https://crates.io/crates/winx-code-agent"
 mcp_support: "True"

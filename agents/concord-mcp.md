@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-07-14"
 current_release: "2026-08-25"
-stars: 283
+stars: "331"
 language: "TypeScript"
 homepage: "https://getconcord.ai"
 mcp_support: "yes"

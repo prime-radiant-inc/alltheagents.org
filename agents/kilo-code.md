@@ -13,7 +13,7 @@ platforms:
   - "CLI"
 first_released: "2025-03-10"
 current_release: "2026-08-20"
-stars: null
+stars: "27326"
 language: "TypeScript"
 homepage: "https://kilo.ai/"
 mcp_support: "True"

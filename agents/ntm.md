@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-12-10"
 current_release: "2026-08-20"
-stars: "429"
+stars: "446"
 language: "Go"
 homepage: null
 mcp_support: "no"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-08-05"
 current_release: "2026-06-19"
-stars: "11296"
+stars: "11552"
 language: "TypeScript"
 homepage: "https://humanlayer.dev/code"
 mcp_support: null

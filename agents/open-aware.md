@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-07-16"
 current_release: "2025-10-29"
-stars: "502"
+stars: "503"
 language: "TypeScript"
 homepage: "https://www.qodo.ai/products/qodo-aware/"
 mcp_support: "True"

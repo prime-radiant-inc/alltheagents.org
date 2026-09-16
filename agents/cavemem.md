@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-04-18"
 current_release: "2026-08-14"
-stars: "674"
+stars: "680"
 language: "TypeScript"
 homepage: "https://caveman.so/"
 mcp_support: "yes (stdio)"

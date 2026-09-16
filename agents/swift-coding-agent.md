@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-10"
 current_release: "2026-06-26"
-stars: "178"
+stars: "180"
 language: "Swift"
 homepage: "https://ivanmagda.dev/posts/s00-bootstrapping-the-project/"
 mcp_support: "False"

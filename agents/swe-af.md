@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-02-04"
 current_release: "2026-08-19"
-stars: "978"
+stars: "1002"
 language: "Python, Go"
 homepage: "https://agentfield.ai/"
 mcp_support: "no"

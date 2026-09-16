@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-02-24"
 current_release: "2026-08-20"
-stars: "2394"
+stars: "3701"
 language: "TypeScript"
 homepage: "https://getbb.app"
 mcp_support: null

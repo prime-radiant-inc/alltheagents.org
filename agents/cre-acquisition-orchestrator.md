@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-16"
 current_release: "2026-07-28"
-stars: "104"
+stars: "112"
 language: "TypeScript, React, Node.js, Python"
 homepage: "https://www.theaiconsultingnetwork.com/"
 mcp_support: null

@@ -14,7 +14,7 @@ platforms:
   - "Desktop"
 first_released: "2026-02-02"
 current_release: "2026-05-06"
-stars: "27"
+stars: "28"
 language: "TypeScript/JavaScript (Node.js); Next.js + Tailwind dashboard; Electron desktop app"
 homepage: "https://www.runagx.com"
 mcp_support: "False"

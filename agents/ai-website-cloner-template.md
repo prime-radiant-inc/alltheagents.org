@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-03-13"
 current_release: "2026-08-14"
-stars: "32477"
+stars: "34486"
 language: "TypeScript"
 homepage: "https://dsc.gg/jcodesmore"
 mcp_support: null

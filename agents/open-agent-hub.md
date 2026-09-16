@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-01-13"
 current_release: "2026-08-19"
-stars: "952"
+stars: "969"
 language: "JavaScript"
 homepage: null
 mcp_support: "no"

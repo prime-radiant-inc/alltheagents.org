@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2025-09-27"
 current_release: "2026-02-08"
-stars: "2006"
+stars: "2044"
 language: "Python"
 homepage: "https://agentflow.stanford.edu"
 mcp_support: "no"

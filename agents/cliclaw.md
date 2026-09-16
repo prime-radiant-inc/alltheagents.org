@@ -15,7 +15,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-05-13"
 current_release: "2026-08-19"
-stars: "7"
+stars: "8"
 language: "TypeScript"
 homepage: "https://www.npmjs.com/package/@younggichoi/cliclaw"
 mcp_support: "no"

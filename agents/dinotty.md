@@ -14,7 +14,7 @@ platforms:
   - "Web"
 first_released: "2026-05-12"
 current_release: "2026-08-18"
-stars: "537"
+stars: "704"
 language: "Rust, TypeScript, Vue"
 homepage: "https://xichan96.github.io/dinotty/"
 mcp_support: "True"

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-07-10"
 current_release: "2026-08-24"
-stars: 124
+stars: "125"
 language: "TypeScript"
 homepage: "https://www.npmjs.com/package/claude-code-merge-queue"
 mcp_support: "no"

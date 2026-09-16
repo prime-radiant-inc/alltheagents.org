@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-20"
 current_release: "2026-07-28"
-stars: "854"
+stars: "949"
 language: "TypeScript"
 homepage: "https://www.pi-gui.com/"
 mcp_support: "no"

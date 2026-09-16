@@ -13,7 +13,7 @@ platforms:
   - "CLI"
 first_released: "2023-05-24"
 current_release: "2026-08-19"
-stars: null
+stars: "35931"
 language: "TypeScript"
 homepage: "https://continue.dev"
 mcp_support: "True"

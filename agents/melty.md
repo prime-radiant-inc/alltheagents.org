@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2024-09-02"
 current_release: "2024-11-14"
-stars: null
+stars: "5440"
 language: "TypeScript"
 homepage: "https://docs.google.com/forms/d/e/1FAIpQLSc6uBe0ea26q7Iq0Co_q5fjW2nypUl8G_Is5M_6t8n7wZHuPA/viewform"
 mcp_support: "no"

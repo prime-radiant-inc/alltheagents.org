@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-07-13"
 current_release: "2026-08-20"
-stars: "9980"
+stars: "10740"
 language: "TypeScript"
 homepage: "https://developers.openai.com/codex/security"
 mcp_support: "no"

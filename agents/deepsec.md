@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-04-30"
 current_release: "2026-08-18"
-stars: "7757"
+stars: "7976"
 language: "TypeScript"
 homepage: "https://deepsec.sh/"
 mcp_support: "no"

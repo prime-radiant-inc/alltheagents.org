@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-05-04"
 current_release: "2026-07-31"
-stars: "930"
+stars: "1136"
 language: "Python"
 homepage: "https://www.openrath.com/"
 mcp_support: "yes — stdio MCP tools adapted into the loop as FlowToolCall instances"

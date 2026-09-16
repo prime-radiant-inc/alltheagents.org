@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-05-17"
 current_release: "2025-06-07"
-stars: "59"
+stars: "58"
 language: "Python"
 homepage: "https://verbalcode.xyz/"
 mcp_support: "True"

@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2024-11-29"
 current_release: "2026-08-15"
-stars: "15322"
+stars: "15468"
 language: "Python"
 homepage: "https://gitingest.com"
 mcp_support: "no"

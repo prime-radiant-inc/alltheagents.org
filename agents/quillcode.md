@@ -13,7 +13,7 @@ platforms:
   - "CLI"
 first_released: "2026-06-20"
 current_release: null
-stars: 17
+stars: "18"
 language: "Swift"
 homepage: "https://github.com/Lore-Hex/QuillCode/releases/tag/tester-latest"
 mcp_support: "yes"

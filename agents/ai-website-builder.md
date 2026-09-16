@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2025-07-16"
 current_release: "2026-04-20"
-stars: "76"
+stars: "83"
 language: "JavaScript"
 homepage: "https://oss.v.ee/ai-website-builder/"
 mcp_support: null

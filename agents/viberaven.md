@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-09"
 current_release: "2026-07-12"
-stars: "31"
+stars: "58"
 language: "TypeScript/JavaScript"
 homepage: "https://viberaven.dev"
 mcp_support: "True"

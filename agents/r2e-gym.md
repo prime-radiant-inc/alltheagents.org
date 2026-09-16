@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-04-06"
 current_release: "2025-07-13"
-stars: "321"
+stars: "334"
 language: "Python"
 homepage: "https://r2e-gym.github.io/"
 mcp_support: "False"

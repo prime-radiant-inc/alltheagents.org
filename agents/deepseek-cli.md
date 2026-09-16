@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-06-25"
 current_release: "2026-07-23"
-stars: "299"
+stars: "308"
 language: "TypeScript"
 homepage: "https://deepseek-cli.vercel.app/"
 mcp_support: "no"

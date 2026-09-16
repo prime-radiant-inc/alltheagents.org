@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-05-29"
 current_release: "2023-09-15"
-stars: "1364"
+stars: "1357"
 language: "Python"
 homepage: "https://www.carbosjobs.com/"
 mcp_support: null

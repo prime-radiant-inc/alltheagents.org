@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2025-05-14"
 current_release: "2025-07-02"
-stars: "270"
+stars: "267"
 language: "TypeScript"
 homepage: "https://file.wen.bar"
 mcp_support: "False"

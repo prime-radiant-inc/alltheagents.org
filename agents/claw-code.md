@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2026-03-31"
 current_release: "2026-08-16"
-stars: "195085"
+stars: "195257"
 language: "Rust"
 homepage: null
 mcp_support: "no"

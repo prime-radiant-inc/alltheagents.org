@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-08-09"
 current_release: "2026-08-19"
-stars: null
+stars: "106193"
 language: "TypeScript"
 homepage: "https://pi.dev"
 mcp_support: "yes"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-21"
 current_release: "2026-03-03"
-stars: "29"
+stars: "30"
 language: "Python"
 homepage: "https://html-preview.github.io/?url=https://github.com/sshh12/coding-agents-workshop/blob/main/slides.html"
 mcp_support: "False"

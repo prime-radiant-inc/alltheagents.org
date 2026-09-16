@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: null
 current_release: null
-stars: null
+stars: "51860"
 language: "TypeScript (Electron)"
 homepage: "https://github.com/CherryHQ/cherry-studio"
 mcp_support: "True"

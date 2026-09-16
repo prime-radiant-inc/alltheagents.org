@@ -125,14 +125,43 @@ def load_jqueryscript():
         repo = mr.group(1) if mr else ""
         out[repo.lower() if repo else url.lower()] = {
             "name":name,"url":url,"license":license_,"platforms":";".join(platforms),
-            "stars":clean(m.group(3)),"what_makes_it_special":desc,"source_list":"jqueryscript","github_repo":repo
+            # The `**193k stars**` text this list carries is a hand-typed
+            # approximation, so it is deliberately dropped here (m.group(3) is
+            # intentionally unused). Star counts are filled from the GitHub API
+            # in the enrichment pass below, which is the only authority for them.
+            "stars":"","what_makes_it_special":desc,"source_list":"jqueryscript","github_repo":repo
         }
     return out
 
 def load_cache():
-    if os.path.exists(os.path.join(SRCDIR,"gh_cache.json")):
-        return json.load(open(os.path.join(SRCDIR,"gh_cache.json")))
-    return {}
+    """GitHub metadata for enrichment, with star counts from the freshest source.
+    gh_cache.json is the wide metadata cache collected during the census;
+    gh_stars.json is the catalog-scoped snapshot written by fetch_stars.py and
+    is authoritative for stargazers_count whenever it has a value.
+    """
+    def read(name):
+        path = os.path.join(SRCDIR, name)
+        if not os.path.exists(path):
+            return {}
+        with open(path) as f:
+            data = json.load(f)
+        # gh_stars.json nests its records under "repos"; gh_cache.json is flat.
+        return data.get("repos", data)
+
+    cache = {k.lower(): dict(v) for k, v in read("gh_cache.json").items() if isinstance(v, dict)}
+    for repo, rec in read("gh_stars.json").items():
+        if not isinstance(rec, dict):
+            continue
+        merged = cache.setdefault(repo.lower(), {})
+        if rec.get("stargazers_count") is not None:
+            # A fresh successful fetch supersedes an older error or count.
+            merged["stargazers_count"] = rec["stargazers_count"]
+            merged.pop("error", None)
+        for k in ("full_name", "archived"):
+            if rec.get(k) is not None:
+                merged[k] = rec[k]
+    return cache
+
 
 def main():
     jq = load_jqueryscript()
@@ -147,7 +176,7 @@ def main():
         key = repo.lower() if repo else e.get("url","").lower().rstrip("/").split("?")[0]
         if key in entries:
             # merge missing fields
-            for f in ["license","platforms","stars","what_makes_it_special","category","web","source_list"]:
+            for f in ["license","platforms","what_makes_it_special","category","web","source_list"]:
                 if not entries[key].get(f) and e.get(f):
                     entries[key][f]=e[f]
             entries[key]["source_list"] = entries[key].get("source_list","")+","+e.get("source_list","")
@@ -172,8 +201,8 @@ def main():
             if d.get("error"): continue
             if not e.get("license") and d.get("license"):
                 e["license"]=d["license"]
-            if not e.get("stars") and d.get("stargazers_count"):
-                e["stars"]=str(d["stargazers_count"])
+            # API value wins unconditionally: no hand-typed number survives.
+            e["stars"]=str(d["stargazers_count"]) if d.get("stargazers_count") is not None else ""
             e["maker"]=d.get("owner","")
             e["first_released"]=d.get("created_at","")[:10] if d.get("created_at") else ""
             e["current_release"]=d.get("pushed_at","")[:10] if d.get("pushed_at") else ""
@@ -184,6 +213,7 @@ def main():
             e["language"]=d.get("language","") or ""
         else:
             e["maker"]=e.get("maker","")
+            e["stars"]=""
             e["first_released"]=""; e["current_release"]=""
             e["gh_description"]=""; e["topics"]=[]; e["archived"]=False
             e["homepage"]=""; e["language"]=""

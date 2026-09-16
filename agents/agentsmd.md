@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2025-08-19"
 current_release: "2026-03-12"
-stars: "23732"
+stars: "24408"
 language: "TypeScript"
 homepage: "https://agents.md"
 mcp_support: "no"

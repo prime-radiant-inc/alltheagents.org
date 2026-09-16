@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-02-27"
 current_release: "2026-08-18"
-stars: 408
+stars: "607"
 language: "JavaScript"
 homepage: "https://49agents.com"
 mcp_support: null

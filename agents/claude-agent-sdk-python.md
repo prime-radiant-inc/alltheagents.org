@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-06-11"
 current_release: "2026-08-20"
-stars: "7935"
+stars: "8110"
 language: "Python"
 homepage: "https://platform.claude.com/docs/en/agent-sdk/python"
 mcp_support: "yes"

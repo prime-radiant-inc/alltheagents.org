@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-01-27"
 current_release: "2026-08-19"
-stars: "73"
+stars: "77"
 language: "TypeScript"
 homepage: "https://agentplane.org"
 mcp_support: null

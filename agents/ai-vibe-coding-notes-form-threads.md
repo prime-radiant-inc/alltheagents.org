@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-04-13"
 current_release: "2026-04-13"
-stars: "98"
+stars: "99"
 language: "Traditional Chinese (Markdown content collection)"
 homepage: null
 mcp_support: "True"

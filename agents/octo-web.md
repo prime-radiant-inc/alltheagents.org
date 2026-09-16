@@ -14,7 +14,7 @@ platforms:
   - "Desktop"
 first_released: "2026-05-11"
 current_release: "2026-08-19"
-stars: "808"
+stars: "1137"
 language: "TypeScript"
 homepage: "https://github.com/Mininglamp-OSS"
 mcp_support: "no"

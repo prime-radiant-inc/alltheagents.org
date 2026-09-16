@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-06-12"
 current_release: "2026-06-12"
-stars: "9"
+stars: "10"
 language: "TypeScript"
 homepage: "https://github.com/Kimi-K2-7/kimi-K2.7/releases/tag/kimi-K2.7"
 mcp_support: "True"

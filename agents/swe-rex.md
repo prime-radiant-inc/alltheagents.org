@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2024-10-14"
 current_release: "2026-08-17"
-stars: "576"
+stars: "592"
 language: "Python"
 homepage: "https://swe-rex.com/"
 mcp_support: "no"

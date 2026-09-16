@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-27"
 current_release: "2026-08-17"
-stars: "221"
+stars: "230"
 language: "Go (gateway/services), Python (AI agents), TypeScript/Angular (frontend)"
 homepage: "https://developers.google.com/solutions/learn/race-condition"
 mcp_support: "True"

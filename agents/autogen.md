@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2023-08-18"
 current_release: "2026-04-15"
-stars: "60525"
+stars: "61004"
 language: "Python"
 homepage: "https://microsoft.github.io/autogen/"
 mcp_support: "yes (StdioServerParams, McpWorkbench)"

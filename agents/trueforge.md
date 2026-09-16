@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-07-23"
 current_release: "2026-08-27"
-stars: 4821
+stars: "5698"
 language: "TypeScript"
 homepage: "https://trueforge.dev"
 mcp_support: "yes"

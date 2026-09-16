@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2023-06-14"
 current_release: "2025-09-18"
-stars: "7700"
+stars: "7712"
 language: "Python"
 homepage: "https://sweep.dev"
 mcp_support: "no"

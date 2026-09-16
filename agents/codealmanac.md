@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-04-16"
 current_release: "2026-07-25"
-stars: "800"
+stars: "1006"
 language: "Python"
 homepage: "https://codealmanac.com"
 mcp_support: "no"

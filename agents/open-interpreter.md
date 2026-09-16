@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2023-07-14"
 current_release: "2026-08-20"
-stars: null
+stars: "68346"
 language: "Rust"
 homepage: "http://openinterpreter.com/"
 mcp_support: "True"

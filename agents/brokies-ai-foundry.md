@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-28"
 current_release: "2026-08-20"
-stars: "117"
+stars: "120"
 language: "Python"
 homepage: "https://caplet1989.github.io/Brokies-AI-Foundry/"
 mcp_support: "no"

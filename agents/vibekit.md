@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-05-14"
 current_release: "2026-01-13"
-stars: "1847"
+stars: "1857"
 language: "TypeScript"
 homepage: "https://vibekit.sh"
 mcp_support: "no"

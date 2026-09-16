@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-07-20"
 current_release: "2026-08-07"
-stars: "53"
+stars: "69"
 language: "Rust"
 homepage: "https://zsj305.github.io/angles-cli/"
 mcp_support: null

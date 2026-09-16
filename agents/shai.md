@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-07-16"
 current_release: "2025-12-18"
-stars: "615"
+stars: "625"
 language: "Rust"
 homepage: null
 mcp_support: "yes"

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-03-09"
 current_release: "2026-04-11"
-stars: "151"
+stars: "145"
 language: "TypeScript"
 homepage: "https://www.npmjs.com/package/iosm-cli"
 mcp_support: "True"

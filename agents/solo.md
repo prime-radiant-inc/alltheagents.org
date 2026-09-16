@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-12"
 current_release: "2026-08-16"
-stars: "531"
+stars: "604"
 language: "Go, TypeScript"
 homepage: "https://soloagent.team"
 mcp_support: null

@@ -14,7 +14,7 @@ platforms:
   - "Autonomous"
 first_released: "2024-03-18"
 current_release: "2024-04-29"
-stars: null
+stars: "2476"
 language: "Go"
 homepage: "https://discord.gg/uMaGSHNjzc"
 mcp_support: null

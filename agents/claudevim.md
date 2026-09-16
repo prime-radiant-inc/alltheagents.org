@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-06-27"
 current_release: "2025-05-22"
-stars: "471"
+stars: "472"
 language: "Vim script"
 homepage: null
 mcp_support: "no"

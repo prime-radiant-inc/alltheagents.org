@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2023-08-17"
 current_release: "2026-05-07"
-stars: "972"
+stars: "974"
 language: "TypeScript"
 homepage: "https://use-fireproof.com"
 mcp_support: "no"

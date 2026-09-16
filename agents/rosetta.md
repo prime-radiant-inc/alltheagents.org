@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-10"
 current_release: "2026-08-19"
-stars: "335"
+stars: "347"
 language: "Python"
 homepage: "https://griddynamics.github.io/rosetta/"
 mcp_support: "True"

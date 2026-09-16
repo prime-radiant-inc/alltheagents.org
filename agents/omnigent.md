@@ -14,7 +14,7 @@ platforms:
   - "Web"
 first_released: "2026-06-11"
 current_release: "2026-08-20"
-stars: "9065"
+stars: "10001"
 language: "Python"
 homepage: "https://omnigent.ai"
 mcp_support: "yes"

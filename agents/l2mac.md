@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-03-08"
 current_release: "2024-12-27"
-stars: "158"
+stars: "160"
 language: "Python"
 homepage: "https://samholt.github.io/L2MAC/"
 mcp_support: null

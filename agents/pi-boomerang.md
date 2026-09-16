@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-02"
 current_release: "2026-08-03"
-stars: "296"
+stars: "305"
 language: "TypeScript"
 homepage: "https://github.com/nicobailon/pi-boomerang"
 mcp_support: "no"

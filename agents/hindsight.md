@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-10-30"
 current_release: "2026-08-20"
-stars: "20288"
+stars: "23786"
 language: "Python"
 homepage: null
 mcp_support: "yes (HTTP transport — http://localhost:8888/mcp/{bank_id}/)"

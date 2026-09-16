@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2024-04-05"
 current_release: "2026-08-09"
-stars: "1572"
+stars: "1575"
 language: "Python"
 homepage: "https://patched.codes"
 mcp_support: "no"

@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2026-07-03"
 current_release: "2026-08-19"
-stars: "3773"
+stars: "8209"
 language: "TypeScript"
 homepage: "https://graft.nanonets.ai"
 mcp_support: "yes (MCP server with 6 tools: graft_find_code, graft_file_api, graft_trace_calls, graft_find_all, graft_repo_map, graft_check_freshness; auto-registered via graft init)"

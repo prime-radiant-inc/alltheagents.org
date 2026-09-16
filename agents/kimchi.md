@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-07"
 current_release: "2026-08-19"
-stars: "2185"
+stars: "2224"
 language: "TypeScript"
 homepage: "https://kimchi.dev"
 mcp_support: "yes (mcp-adapter extension; can migrate MCP servers from Claude Code, OpenCode, and Cursor)"

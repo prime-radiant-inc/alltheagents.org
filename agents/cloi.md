@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-05-01"
 current_release: "2026-08-11"
-stars: "408"
+stars: "407"
 language: "JavaScript"
 homepage: "http://www.cloi-ai.com"
 mcp_support: "False"

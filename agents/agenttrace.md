@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-05-01"
 current_release: "2026-08-17"
-stars: "121"
+stars: "134"
 language: "Rust"
 homepage: "https://github.com/luoyuctl/agenttrace"
 mcp_support: "True"

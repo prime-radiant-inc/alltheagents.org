@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-07-12"
 current_release: "2026-08-13"
-stars: "862"
+stars: "867"
 language: "TypeScript"
 homepage: "https://ide.clodex.xyz"
 mcp_support: "yes — user-configured stdio and remote MCP servers, HTTP/SSE transports, OAuth flows, tools, resources, prompts, approval-aware execution"

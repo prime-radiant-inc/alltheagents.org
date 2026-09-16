@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-27"
 current_release: "2026-03-28"
-stars: "130"
+stars: "131"
 language: "Markdown, Bash"
 homepage: null
 mcp_support: null

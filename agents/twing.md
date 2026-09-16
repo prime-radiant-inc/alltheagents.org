@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-08-09"
 current_release: "2026-08-27"
-stars: 3
+stars: "10"
 language: "TypeScript"
 homepage: "https://twing.dev/"
 mcp_support: "no"

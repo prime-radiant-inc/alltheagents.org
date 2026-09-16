@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2025-09-11"
 current_release: "2026-08-19"
-stars: "868"
+stars: "879"
 language: "Python"
 homepage: "https://cuga.dev"
 mcp_support: "yes — full MCP support; wire MCP servers via mcp_servers.yaml; CUGA can also act as an MCP server itself (CUGA-as-MCP)"

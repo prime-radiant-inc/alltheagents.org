@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-09-18"
 current_release: "2025-07-02"
-stars: "74"
+stars: "76"
 language: "Python"
 homepage: "https://github.com/Snowflake-Labs/orchestration-framework"
 mcp_support: "no"

@@ -11,7 +11,7 @@ source_available: "Source-visible (no OSS license)"
 platforms: []
 first_released: "2018-08-15"
 current_release: "2026-08-19"
-stars: "18314"
+stars: "18347"
 language: "Go"
 homepage: "https://sealos.io"
 mcp_support: null

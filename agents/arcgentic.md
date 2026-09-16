@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-05-12"
 current_release: "2026-08-12"
-stars: "302"
+stars: "286"
 language: "Python, JavaScript"
 homepage: "https://pypi.org/project/arcgentic/"
 mcp_support: "True"

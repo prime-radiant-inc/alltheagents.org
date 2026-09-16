@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2026-03-22"
 current_release: "2026-08-11"
-stars: "354"
+stars: "361"
 language: "TypeScript, Rust"
 homepage: "https://apps.timwuhaotian.dev/"
 mcp_support: "no"

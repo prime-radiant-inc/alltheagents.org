@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-03-19"
 current_release: "2026-06-30"
-stars: "209"
+stars: "211"
 language: "Go, Dart (Flutter)"
 homepage: "https://www.mobilevc.top"
 mcp_support: null

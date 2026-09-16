@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2025-04-11"
 current_release: "2026-08-20"
-stars: null
+stars: "21561"
 language: "TypeScript, React, Next.js"
 homepage: "https://dyad.sh"
 mcp_support: "no"

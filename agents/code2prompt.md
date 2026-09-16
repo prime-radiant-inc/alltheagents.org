@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2024-03-09"
 current_release: "2026-06-29"
-stars: "7604"
+stars: "7656"
 language: "Rust"
 homepage: "https://code2prompt.dev"
 mcp_support: "yes"

@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2025-12-25"
 current_release: "2026-06-23"
-stars: "145"
+stars: "152"
 language: "TypeScript"
 homepage: "https://usearctic.sh"
 mcp_support: "True"

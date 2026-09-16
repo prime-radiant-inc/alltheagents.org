@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-03-19"
 current_release: "2026-07-27"
-stars: "1352"
+stars: "1375"
 language: "TypeScript"
 homepage: "https://github.com/elirantutia/vibeyard"
 mcp_support: "no"

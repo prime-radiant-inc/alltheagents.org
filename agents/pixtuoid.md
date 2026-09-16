@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-05-21"
 current_release: "2026-08-19"
-stars: "449"
+stars: "481"
 language: "Rust"
 homepage: "https://pixtuoid.dev"
 mcp_support: "no"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-10-12"
 current_release: "2026-01-29"
-stars: "420"
+stars: "423"
 language: "Python"
 homepage: "https://project-codeguard.org"
 mcp_support: "no"

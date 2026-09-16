@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2025-01-13"
 current_release: "2026-08-20"
-stars: "17331"
+stars: "17593"
 language: "TypeScript"
 homepage: "https://www.rowboatlabs.com"
 mcp_support: "yes"

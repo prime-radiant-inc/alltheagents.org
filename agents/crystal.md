@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2025-06-05"
 current_release: "2026-02-26"
-stars: "3108"
+stars: "3120"
 language: "TypeScript"
 homepage: "https://nimbalyst.com/"
 mcp_support: null

@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-03-22"
 current_release: "2026-08-19"
-stars: "66"
+stars: "67"
 language: "Rust"
 homepage: "https://getdux.app/"
 mcp_support: "True"

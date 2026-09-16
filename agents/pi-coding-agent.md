@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-12-30"
 current_release: "2026-08-09"
-stars: "258"
+stars: "289"
 language: "Emacs Lisp"
 homepage: "https://github.com/dnouri/pi-coding-agent"
 mcp_support: "False"

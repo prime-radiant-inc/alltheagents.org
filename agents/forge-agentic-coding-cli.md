@@ -14,7 +14,7 @@ platforms:
   - "Web"
 first_released: "2026-04-20"
 current_release: "2026-08-16"
-stars: "22"
+stars: "23"
 language: "TypeScript"
 homepage: "https://hoangsonww.github.io/Forge-Agentic-Coding-CLI/"
 mcp_support: "True"

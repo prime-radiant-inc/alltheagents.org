@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-05-31"
 current_release: "2026-08-08"
-stars: "36"
+stars: "38"
 language: "TypeScript (CLI), Go (gateway), NestJS (backend), Next.js (web)"
 homepage: "https://rayucode.com"
 mcp_support: "True"

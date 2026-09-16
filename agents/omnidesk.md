@@ -14,7 +14,7 @@ platforms:
   - "Desktop"
 first_released: "2026-01-27"
 current_release: "2026-07-27"
-stars: "109"
+stars: "112"
 language: "TypeScript"
 homepage: null
 mcp_support: "no"

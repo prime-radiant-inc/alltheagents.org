@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2025-07-29"
 current_release: "2026-08-20"
-stars: "12751"
+stars: "12993"
 language: "TypeScript/JavaScript (Next.js, Deno for edge functions)"
 homepage: "https://insforge.dev"
 mcp_support: "yes (MCP server, both self-hosted and cloud; likely stdio)"

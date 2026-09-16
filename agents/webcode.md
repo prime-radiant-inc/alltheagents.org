@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-01-14"
 current_release: "2026-06-20"
-stars: "284"
+stars: "286"
 language: "C#"
 homepage: "https://wc.tree456.com/"
 mcp_support: "no"

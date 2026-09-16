@@ -14,7 +14,7 @@ platforms:
   - "Desktop"
 first_released: null
 current_release: null
-stars: "30700"
+stars: "30780"
 language: "TypeScript"
 homepage: null
 mcp_support: "no"

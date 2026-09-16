@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-08-02"
 current_release: "2026-08-16"
-stars: "112"
+stars: "305"
 language: "TypeScript"
 homepage: "https://github.com/AlgoNoRhythm/Flare"
 mcp_support: "True"

@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-02-25"
 current_release: "2026-08-17"
-stars: "27"
+stars: "28"
 language: "TypeScript"
 homepage: "https://agents.anipotts.com"
 mcp_support: "no"

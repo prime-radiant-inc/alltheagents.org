@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2023-04-03"
 current_release: "2026-08-20"
-stars: "1722"
+stars: "1724"
 language: "Python (Poetry)"
 homepage: "https://www.gpteamai.com/"
 mcp_support: "no"

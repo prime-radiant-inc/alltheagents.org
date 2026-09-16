@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-02-10"
 current_release: "2026-08-20"
-stars: "103"
+stars: "145"
 language: "Go"
 homepage: "https://github.com/prime-radiant-inc/evener"
 mcp_support: "yes"

@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-03-22"
 current_release: "2026-08-19"
-stars: "936"
+stars: "1184"
 language: "Python"
 homepage: "https://bernstein.run"
 mcp_support: "yes — MCP server mode, .mcp.json present"

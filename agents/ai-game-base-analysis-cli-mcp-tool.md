@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-22"
 current_release: "2026-04-12"
-stars: "63"
+stars: "66"
 language: "Python, C#"
 homepage: null
 mcp_support: "True"

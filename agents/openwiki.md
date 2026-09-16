@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-06-22"
 current_release: "2026-08-20"
-stars: "15364"
+stars: "16558"
 language: "TypeScript"
 homepage: "https://github.com/langchain-ai/openwiki"
 mcp_support: "yes (custom MCP connector — point at any MCP server and pull tools into a run; transport not specified)"

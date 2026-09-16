@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-06-19"
 current_release: "2025-10-16"
-stars: "22382"
+stars: "22403"
 language: "Rust"
 homepage: "https://opcode.sh"
 mcp_support: "yes (dedicated MCP Server Management with registry, config UI, Claude Desktop import)"

@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-11-30"
 current_release: "2026-04-01"
-stars: "41"
+stars: "42"
 language: "JavaScript"
 homepage: null
 mcp_support: "True"

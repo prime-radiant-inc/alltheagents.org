@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-05-12"
 current_release: "2026-08-03"
-stars: "367"
+stars: "402"
 language: "TypeScript"
 homepage: "https://agent-box.sh"
 mcp_support: "no"

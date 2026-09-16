@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-21"
 current_release: "2026-07-15"
-stars: "55"
+stars: "56"
 language: "JavaScript"
 homepage: "https://lucasduys.github.io/forge/"
 mcp_support: "False"

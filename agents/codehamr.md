@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-29"
 current_release: "2026-08-16"
-stars: "207"
+stars: "217"
 language: "Go"
 homepage: "https://codehamr.com"
 mcp_support: "False"

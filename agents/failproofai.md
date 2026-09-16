@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-04-06"
 current_release: "2026-08-19"
-stars: "1179"
+stars: "3527"
 language: "TypeScript, Rust"
 homepage: "https://befailproof.ai"
 mcp_support: "no"

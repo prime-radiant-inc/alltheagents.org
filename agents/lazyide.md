@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-02-14"
 current_release: "2026-02-28"
-stars: "89"
+stars: "92"
 language: "Rust"
 homepage: "https://tysonlabs.dev"
 mcp_support: null

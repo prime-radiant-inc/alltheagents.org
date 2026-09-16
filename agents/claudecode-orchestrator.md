@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-06-28"
 current_release: "2026-04-21"
-stars: "38"
+stars: "37"
 language: "TypeScript, JavaScript (shell script entry point)"
 homepage: null
 mcp_support: "no"

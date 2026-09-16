@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-05-27"
 current_release: "2026-06-13"
-stars: "300"
+stars: "302"
 language: "Swift"
 homepage: "https://harnesscli.dev"
 mcp_support: "no"

@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-01-14"
 current_release: "2026-05-11"
-stars: "286"
+stars: "296"
 language: "Bash, PowerShell"
 homepage: null
 mcp_support: null

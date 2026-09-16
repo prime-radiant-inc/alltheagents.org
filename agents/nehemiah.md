@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2026-06-30"
 current_release: "2026-08-11"
-stars: "305"
+stars: "329"
 language: "Go, TypeScript"
 homepage: "https://boringcomputers.com"
 mcp_support: "True"

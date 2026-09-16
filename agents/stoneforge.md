@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-02-14"
 current_release: "2026-05-05"
-stars: "175"
+stars: "186"
 language: "TypeScript"
 homepage: "https://stoneforge.ai"
 mcp_support: "False"

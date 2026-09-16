@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-06-27"
 current_release: "2026-08-17"
-stars: "100"
+stars: "102"
 language: "Python, TypeScript"
 homepage: "https://azure.github.io/GPT-RAG/"
 mcp_support: "True"

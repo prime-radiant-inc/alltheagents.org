@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2017-07-17"
 current_release: "2026-06-02"
-stars: "2019"
+stars: "2018"
 language: "TypeScript"
 homepage: "https://graphql-cli.com"
 mcp_support: "no"

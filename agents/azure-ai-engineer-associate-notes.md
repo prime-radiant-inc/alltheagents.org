@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-04-10"
 current_release: "2025-04-11"
-stars: "97"
+stars: "98"
 language: "Markdown"
 homepage: null
 mcp_support: null

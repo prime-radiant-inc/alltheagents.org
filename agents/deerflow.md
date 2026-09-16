@@ -15,7 +15,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-05-07"
 current_release: "2026-08-20"
-stars: "80339"
+stars: "82531"
 language: "Python"
 homepage: "https://deerflow.tech"
 mcp_support: "yes (HTTP/SSE with OAuth, stdio with per-tool timeouts)"

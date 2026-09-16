@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-23"
 current_release: "2026-04-07"
-stars: "71"
+stars: "73"
 language: "Rust"
 homepage: "https://github.com/bahdotsh/indxr"
 mcp_support: "True"

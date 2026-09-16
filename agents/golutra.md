@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-15"
 current_release: "2026-08-06"
-stars: "3825"
+stars: "3843"
 language: "TypeScript, Rust"
 homepage: "https://www.golutra.com"
 mcp_support: "yes"

@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-04-01"
 current_release: "2026-08-04"
-stars: "241"
+stars: "243"
 language: "TypeScript"
 homepage: "https://github.com/aws-samples/remote-swe-agents"
 mcp_support: "True"

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-08-11"
 current_release: "2026-08-20"
-stars: "1271"
+stars: "3006"
 language: "Zig"
 homepage: "https://fx.sh"
 mcp_support: "yes"

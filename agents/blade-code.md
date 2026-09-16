@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2025-05-30"
 current_release: "2026-08-19"
-stars: "175"
+stars: "180"
 language: "TypeScript"
 homepage: "https://echovic.github.io/blade-code/"
 mcp_support: "True"

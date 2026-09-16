@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-04-12"
 current_release: "2026-07-01"
-stars: "21136"
+stars: "24967"
 language: "Python"
 homepage: "https://github.com/browser-use/video-use"
 mcp_support: "no"

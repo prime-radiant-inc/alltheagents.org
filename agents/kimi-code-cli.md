@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-10-15"
 current_release: "2026-08-03"
-stars: null
+stars: "11382"
 language: "Python"
 homepage: "https://moonshotai.github.io/kimi-cli/"
 mcp_support: "True"

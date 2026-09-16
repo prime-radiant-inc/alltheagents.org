@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-12-17"
 current_release: "2026-08-13"
-stars: "1856"
+stars: "1903"
 language: "Python"
 homepage: null
 mcp_support: "yes (standalone databricks-mcp-server exposing 40+ Databricks tools; builder app also serves as MCP server at /mcp)"

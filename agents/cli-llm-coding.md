@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-11-19"
 current_release: "2026-07-13"
-stars: "48"
+stars: "50"
 language: "Markdown"
 homepage: "https://codeinput.com"
 mcp_support: "no"

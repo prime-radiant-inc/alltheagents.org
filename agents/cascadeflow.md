@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2025-10-24"
 current_release: "2026-08-06"
-stars: "3996"
+stars: "3950"
 language: "Python, TypeScript"
 homepage: "https://cascadeflow.ai"
 mcp_support: "no"

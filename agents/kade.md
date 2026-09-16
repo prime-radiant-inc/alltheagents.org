@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-04-07"
 current_release: null
-stars: null
+stars: "29"
 language: null
 homepage: "https://kadei.org"
 mcp_support: "yes"

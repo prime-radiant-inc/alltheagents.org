@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-03-03"
 current_release: "2026-08-16"
-stars: "13"
+stars: "14"
 language: "Bash, YAML"
 homepage: null
 mcp_support: "True"

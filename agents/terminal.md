@@ -14,7 +14,7 @@ platforms:
   - "Desktop"
 first_released: "2026-04-15"
 current_release: "2026-08-02"
-stars: "33"
+stars: "36"
 language: "Rust (backend), TypeScript/React 19 (frontend); Tauri v2"
 homepage: "https://bbarit.com"
 mcp_support: "True"

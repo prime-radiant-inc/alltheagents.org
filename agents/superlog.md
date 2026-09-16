@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-02"
 current_release: "2026-08-20"
-stars: "1358"
+stars: "1449"
 language: "TypeScript"
 homepage: "https://superlog.sh"
 mcp_support: "True"

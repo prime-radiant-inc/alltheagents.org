@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-07-21"
 current_release: "2026-08-09"
-stars: "457"
+stars: "500"
 language: "Rust"
 homepage: "https://pypi.org/project/hcom/"
 mcp_support: "no"

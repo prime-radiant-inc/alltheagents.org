@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2019-05-14"
 current_release: "2023-05-20"
-stars: "373"
+stars: "372"
 language: "Python"
 homepage: "https://arxiv.org/abs/1911.04175"
 mcp_support: "no"

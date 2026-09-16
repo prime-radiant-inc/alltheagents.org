@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-07-01"
 current_release: "2026-08-18"
-stars: "693"
+stars: "727"
 language: "Python"
 homepage: "https://github.com/plasma-ai/fractal"
 mcp_support: "no"

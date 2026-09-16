@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2026-03-30"
 current_release: "2026-05-19"
-stars: "476"
+stars: "478"
 language: "TypeScript, React, Electron"
 homepage: null
 mcp_support: "True"

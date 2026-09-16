@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2023-12-06"
 current_release: "2026-08-19"
-stars: "399"
+stars: "454"
 language: "Shell (Bash)"
 homepage: "https://devcorex-web.vercel.app/core-termux"
 mcp_support: null

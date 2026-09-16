@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2025-09-25"
 current_release: "2026-04-16"
-stars: "55"
+stars: "49"
 language: "Python, TypeScript"
 homepage: "https://lumnicode.ufazien.com"
 mcp_support: "False"

@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-06-12"
 current_release: "2026-08-18"
-stars: "45"
+stars: "52"
 language: "JavaScript / Node.js (requires Node.js 18+) and Bash"
 homepage: "https://docs.fireworks.ai/ecosystem/fireconnect/overview"
 mcp_support: "True"

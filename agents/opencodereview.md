@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-05-18"
 current_release: "2026-08-19"
-stars: "20868"
+stars: "30797"
 language: "Go"
 homepage: "https://open-codereview.ai"
 mcp_support: "yes (transport not documented; MCP server at open-codereview.ai/docs/mcp)"

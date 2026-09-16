@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-03-14"
 current_release: "2026-07-21"
-stars: "24"
+stars: "39"
 language: "TypeScript"
 homepage: "https://doable.me"
 mcp_support: "True"

@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2026-02-21"
 current_release: "2026-05-26"
-stars: "871"
+stars: "927"
 language: "TypeScript"
 homepage: "https://friuns2.github.io/codex-mobile/"
 mcp_support: "no"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-03-20"
 current_release: "2025-11-18"
-stars: "388"
+stars: "390"
 language: "Python"
 homepage: "https://github.com/huangd1999/AgentCoder"
 mcp_support: "no"

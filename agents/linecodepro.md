@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-03"
 current_release: "2026-08-18"
-stars: "84"
+stars: "100"
 language: "Java"
 homepage: null
 mcp_support: "True"

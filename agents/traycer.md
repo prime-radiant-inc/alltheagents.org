@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2024-05-11"
 current_release: "2026-08-20"
-stars: "1207"
+stars: "1488"
 language: "TypeScript"
 homepage: "https://traycer.ai"
 mcp_support: "no"

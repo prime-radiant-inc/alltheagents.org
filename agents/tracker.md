@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: null
 current_release: null
-stars: "19"
+stars: "20"
 language: "Go"
 homepage: null
 mcp_support: "no"

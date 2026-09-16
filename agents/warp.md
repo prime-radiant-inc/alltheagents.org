@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2021-07-08"
 current_release: "2026-08-20"
-stars: null
+stars: "65044"
 language: "Rust"
 homepage: "https://warp.dev"
 mcp_support: "True"

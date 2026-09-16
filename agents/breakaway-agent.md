@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: null
 current_release: null
-stars: "2"
+stars: "4"
 language: "TypeScript"
 homepage: null
 mcp_support: "no"

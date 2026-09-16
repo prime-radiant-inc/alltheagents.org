@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-29"
 current_release: "2026-06-30"
-stars: "24"
+stars: "28"
 language: "Shell"
 homepage: null
 mcp_support: "False"

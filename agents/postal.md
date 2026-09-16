@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-06-26"
 current_release: "2026-08-17"
-stars: "104"
+stars: "123"
 language: "Python"
 homepage: "https://postalcli.vercel.app"
 mcp_support: "True"

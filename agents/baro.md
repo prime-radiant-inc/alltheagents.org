@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-03-22"
 current_release: "2026-08-18"
-stars: "111"
+stars: "121"
 language: "TypeScript,Rust"
 homepage: "https://baro.rs"
 mcp_support: null

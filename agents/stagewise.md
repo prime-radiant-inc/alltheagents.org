@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2025-04-26"
 current_release: "2026-08-17"
-stars: null
+stars: "6815"
 language: "TypeScript"
 homepage: "https://stagewise.io"
 mcp_support: null

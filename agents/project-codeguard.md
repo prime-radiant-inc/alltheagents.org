@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-01-22"
 current_release: "2026-08-18"
-stars: "313"
+stars: "337"
 language: "Python, Markdown"
 homepage: "https://project-codeguard.org/"
 mcp_support: "True"

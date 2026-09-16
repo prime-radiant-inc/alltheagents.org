@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-04-08"
 current_release: "2026-08-03"
-stars: "5930"
+stars: "6002"
 language: "Python"
 homepage: "https://microsoft.github.io/Webwright"
 mcp_support: "no"

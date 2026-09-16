@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-04-17"
 current_release: "2026-08-19"
-stars: null
+stars: "107015"
 language: "TypeScript (Node.js)"
 homepage: "https://geminicli.com"
 mcp_support: "True"

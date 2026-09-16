@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-03-29"
 current_release: "2026-08-20"
-stars: "4"
+stars: "5"
 language: "JavaScript"
 homepage: "https://joinwell52-ai.github.io/joinwell52/"
 mcp_support: "True"

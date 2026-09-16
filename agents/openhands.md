@@ -14,7 +14,7 @@ platforms:
   - "Autonomous"
 first_released: "2024-03-13"
 current_release: "2026-08-20"
-stars: null
+stars: "88139"
 language: "TypeScript, Python"
 homepage: "https://openhands.dev"
 mcp_support: "True"

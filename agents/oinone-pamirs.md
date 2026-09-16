@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2025-05-10"
 current_release: "2026-08-06"
-stars: "2351"
+stars: "2350"
 language: "Java"
 homepage: "https://oinone.ai"
 mcp_support: "no"

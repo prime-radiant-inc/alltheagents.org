@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-05-15"
 current_release: "2026-08-20"
-stars: "52"
+stars: "57"
 language: "Bash"
 homepage: "https://5dive.ai"
 mcp_support: "no"

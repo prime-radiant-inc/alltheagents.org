@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2023-03-24"
 current_release: "2026-08-20"
-stars: "4390"
+stars: "4415"
 language: "Python"
 homepage: "https://gptme.org"
 mcp_support: "yes"

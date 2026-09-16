@@ -1,0 +1,6105 @@
+{
+  "fetched_at": "2026-09-16T14:54:58+00:00",
+  "repos": {
+    "0xpayne/gpt-migrate": {
+      "archived": false,
+      "error": null,
+      "full_name": "joshpxyne/gpt-migrate",
+      "stargazers_count": 6977
+    },
+    "101dotxyz/gpteam": {
+      "archived": false,
+      "error": null,
+      "full_name": "101dotxyz/GPTeam",
+      "stargazers_count": 1724
+    },
+    "1jehuang/jcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "1jehuang/jcode",
+      "stargazers_count": 19768
+    },
+    "21st-dev/1code": {
+      "archived": true,
+      "error": null,
+      "full_name": "21st-dev/1code",
+      "stargazers_count": 5598
+    },
+    "233i/ore-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "233i/ore-code",
+      "stargazers_count": 104
+    },
+    "2389-research/2389-agent-rust": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/2389-agent-rust",
+      "stargazers_count": 2
+    },
+    "2389-research/binary-re": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/binary-re",
+      "stargazers_count": 15
+    },
+    "2389-research/breakaway-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/breakaway-agent",
+      "stargazers_count": 4
+    },
+    "2389-research/claude-plugins": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/claude-plugins",
+      "stargazers_count": 93
+    },
+    "2389-research/coven": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/coven",
+      "stargazers_count": 4
+    },
+    "2389-research/coven-gateway": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/coven-gateway",
+      "stargazers_count": 2
+    },
+    "2389-research/dippin-lang": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/dippin-lang",
+      "stargazers_count": 25
+    },
+    "2389-research/fleet-control": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/fleet-control",
+      "stargazers_count": 0
+    },
+    "2389-research/gossip": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/gossip",
+      "stargazers_count": 1
+    },
+    "2389-research/hex": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/hex",
+      "stargazers_count": 1
+    },
+    "2389-research/mux-rs": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/mux-rs",
+      "stargazers_count": 0
+    },
+    "2389-research/ourocodus": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/ourocodus",
+      "stargazers_count": 0
+    },
+    "2389-research/packnplay": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/packnplay",
+      "stargazers_count": 0
+    },
+    "2389-research/sift": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/sift",
+      "stargazers_count": 0
+    },
+    "2389-research/simmer": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/simmer",
+      "stargazers_count": 14
+    },
+    "2389-research/thrifty": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/thrifty",
+      "stargazers_count": 16
+    },
+    "2389-research/tracker": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/tracker",
+      "stargazers_count": 20
+    },
+    "2389-research/translator": {
+      "archived": false,
+      "error": null,
+      "full_name": "2389-research/translator",
+      "stargazers_count": 8
+    },
+    "5dive-ai/5dive": {
+      "archived": false,
+      "error": null,
+      "full_name": "5dive-ai/5dive",
+      "stargazers_count": 57
+    },
+    "777genius/agent-teams-ai": {
+      "archived": false,
+      "error": null,
+      "full_name": "777genius/agent-teams-ai",
+      "stargazers_count": 2128
+    },
+    "a115/icodes": {
+      "archived": false,
+      "error": null,
+      "full_name": "a115/iCODES",
+      "stargazers_count": 6
+    },
+    "aaif-goose/goose": {
+      "archived": false,
+      "error": null,
+      "full_name": "aaif-goose/goose",
+      "stargazers_count": 54352
+    },
+    "aannoo/hcom": {
+      "archived": false,
+      "error": null,
+      "full_name": "aannoo/hcom",
+      "stargazers_count": 500
+    },
+    "aaronkub/machine-learning-examples": {
+      "archived": false,
+      "error": null,
+      "full_name": "aaronkub/machine-learning-examples",
+      "stargazers_count": 86
+    },
+    "aaronz345/codebase-argus": {
+      "archived": false,
+      "error": null,
+      "full_name": "AaronZ345/codebase-argus",
+      "stargazers_count": 58
+    },
+    "aattaran/deepclaude": {
+      "archived": false,
+      "error": null,
+      "full_name": "aattaran/deepclaude",
+      "stargazers_count": 2259
+    },
+    "aavetis/prarena": {
+      "archived": false,
+      "error": null,
+      "full_name": "aavetis/PRarena",
+      "stargazers_count": 299
+    },
+    "abacusai/abacusai-desktop": {
+      "archived": false,
+      "error": null,
+      "full_name": "abacusai/abacusai-desktop",
+      "stargazers_count": 3
+    },
+    "abcwyc/pi-agent-desktop": {
+      "archived": false,
+      "error": null,
+      "full_name": "abcwyc/pi-agent-desktop",
+      "stargazers_count": 403
+    },
+    "abhikt48/java-ai-sbus-test": {
+      "archived": false,
+      "error": null,
+      "full_name": "abhikt48/java-ai-sbus-test",
+      "stargazers_count": 0
+    },
+    "abhinaykrupa/cowork-to-code-bridge": {
+      "archived": false,
+      "error": null,
+      "full_name": "abhinaykrupa/cowork-to-code-bridge",
+      "stargazers_count": 13
+    },
+    "adrida/hud-mode": {
+      "archived": false,
+      "error": null,
+      "full_name": "adrida/hud-mode",
+      "stargazers_count": 28
+    },
+    "adshao/flounder": {
+      "archived": false,
+      "error": null,
+      "full_name": "adshao/flounder",
+      "stargazers_count": 512
+    },
+    "aduermael/herm": {
+      "archived": false,
+      "error": null,
+      "full_name": "aduermael/herm",
+      "stargazers_count": 232
+    },
+    "aeonfun/aeon": {
+      "archived": false,
+      "error": null,
+      "full_name": "aeonfun/aeon",
+      "stargazers_count": 736
+    },
+    "aestheticsuraj234/vibecode-playground": {
+      "archived": false,
+      "error": null,
+      "full_name": "Aestheticsuraj234/vibecode-playground",
+      "stargazers_count": 145
+    },
+    "aetherstudio-cn/aetherstudio": {
+      "archived": false,
+      "error": null,
+      "full_name": "aetherstudio-cn/AetherStudio",
+      "stargazers_count": 87
+    },
+    "affaan-m/claude-swarm": {
+      "archived": false,
+      "error": null,
+      "full_name": "affaan-m/claude-swarm",
+      "stargazers_count": 368
+    },
+    "agent-field/swe-af": {
+      "archived": false,
+      "error": null,
+      "full_name": "Agent-Field/SWE-AF",
+      "stargazers_count": 1002
+    },
+    "agentforce314/clawcodex": {
+      "archived": false,
+      "error": null,
+      "full_name": "agentforce314/clawcodex",
+      "stargazers_count": 899
+    },
+    "agenticailabs/ai-engineering-roadmap": {
+      "archived": false,
+      "error": null,
+      "full_name": "AgenticAiLabs/Ai-Engineering-Roadmap",
+      "stargazers_count": 1135
+    },
+    "agentlas-ai/agentlas-os": {
+      "archived": false,
+      "error": null,
+      "full_name": "agentlas-ai/Agentlas-OS",
+      "stargazers_count": 1113
+    },
+    "agentmd/agent.md": {
+      "archived": false,
+      "error": null,
+      "full_name": "agentmd/agent.md",
+      "stargazers_count": 100
+    },
+    "agentscope-ai/agentteams": {
+      "archived": false,
+      "error": null,
+      "full_name": "agentscope-ai/AgentTeams",
+      "stargazers_count": 5629
+    },
+    "agentsmd/agents.md": {
+      "archived": false,
+      "error": null,
+      "full_name": "agentsmd/agents.md",
+      "stargazers_count": 24408
+    },
+    "agentsmesh/agentsmesh": {
+      "archived": false,
+      "error": null,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "stargazers_count": 2350
+    },
+    "agi-is-going-to-arrive/ahadiff": {
+      "archived": false,
+      "error": null,
+      "full_name": "AGI-is-going-to-arrive/ahadiff",
+      "stargazers_count": 232
+    },
+    "agnusdei1207/opencode-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "agnusdei1207/opencode-orchestrator",
+      "stargazers_count": 251
+    },
+    "ahacker-1/cre-acquisition-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "ahacker-1/cre-acquisition-orchestrator",
+      "stargazers_count": 112
+    },
+    "ai-genie/chatgpt-vscode": {
+      "archived": false,
+      "error": null,
+      "full_name": "ai-genie/chatgpt-vscode",
+      "stargazers_count": 1276
+    },
+    "ai-maker-space/interactive-dev-environment-for-ai-engineers": {
+      "archived": false,
+      "error": null,
+      "full_name": "AI-Maker-Space/Interactive-Dev-Environment-for-AI-Engineers",
+      "stargazers_count": 86
+    },
+    "ai4finance-foundation/finrobot": {
+      "archived": false,
+      "error": null,
+      "full_name": "AI4Finance-Foundation/FinRobot",
+      "stargazers_count": 8013
+    },
+    "aider-ai/aider": {
+      "archived": false,
+      "error": null,
+      "full_name": "Aider-AI/aider",
+      "stargazers_count": 48995
+    },
+    "airtai/fastagency": {
+      "archived": false,
+      "error": null,
+      "full_name": "ag2ai/fastagency",
+      "stargazers_count": 549
+    },
+    "aiwaves-cn/agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "aiwaves-cn/agents",
+      "stargazers_count": 5964
+    },
+    "aizen-stack/aizen": {
+      "archived": false,
+      "error": null,
+      "full_name": "talmetis-labs/aizen",
+      "stargazers_count": 114
+    },
+    "aizenvoltprime/damocles": {
+      "archived": false,
+      "error": null,
+      "full_name": "AizenvoltPrime/damocles",
+      "stargazers_count": 74
+    },
+    "akarachen/2code": {
+      "archived": false,
+      "error": null,
+      "full_name": "AkaraChen/2code",
+      "stargazers_count": 26
+    },
+    "akashgit/remote-factory": {
+      "archived": false,
+      "error": null,
+      "full_name": "akashgit/remote-factory",
+      "stargazers_count": 70
+    },
+    "alanchen4/2024-swe-new-grad": {
+      "archived": true,
+      "error": null,
+      "full_name": "AlanChen4/2024-SWE-New-Grad",
+      "stargazers_count": 344
+    },
+    "alanchen4/summer-2024-swe-internships": {
+      "archived": true,
+      "error": null,
+      "full_name": "AlanChen4/Summer-2024-SWE-Internships",
+      "stargazers_count": 1357
+    },
+    "alchaincyf/fanbox": {
+      "archived": false,
+      "error": null,
+      "full_name": "alchaincyf/fanbox",
+      "stargazers_count": 1015
+    },
+    "alex-reysa/singular-lite": {
+      "archived": false,
+      "error": null,
+      "full_name": "alex-reysa/singular-lite",
+      "stargazers_count": 39
+    },
+    "alexdevassy/ai-powered-vulnerability-impact-analyzer": {
+      "archived": false,
+      "error": null,
+      "full_name": "alexdevassy/AI-Powered-Vulnerability-Impact-Analyzer",
+      "stargazers_count": 66
+    },
+    "alexgreensh/outsourcerer": {
+      "archived": false,
+      "error": null,
+      "full_name": "alexgreensh/outsourcerer",
+      "stargazers_count": 149
+    },
+    "alexmoses/o1_agent_test": {
+      "archived": false,
+      "error": null,
+      "full_name": "alexmoses/o1_Agent_Test",
+      "stargazers_count": 0
+    },
+    "alfianlosari/appclipcodegenerator": {
+      "archived": false,
+      "error": null,
+      "full_name": "alfianlosari/AppClipCodeGenerator",
+      "stargazers_count": 101
+    },
+    "algonorhythm/flare": {
+      "archived": false,
+      "error": null,
+      "full_name": "AlgoNoRhythm/Flare",
+      "stargazers_count": 305
+    },
+    "alibaba/open-code-review": {
+      "archived": false,
+      "error": null,
+      "full_name": "alibaba/open-code-review",
+      "stargazers_count": 30797
+    },
+    "alicheg/gpt-coder": {
+      "archived": false,
+      "error": null,
+      "full_name": "alicheg/gpt-coder",
+      "stargazers_count": 26
+    },
+    "alihamzaazam/repomon": {
+      "archived": false,
+      "error": null,
+      "full_name": "AliHamzaAzam/repomon",
+      "stargazers_count": 21
+    },
+    "allenai/marg-reviewer": {
+      "archived": false,
+      "error": null,
+      "full_name": "allenai/marg-reviewer",
+      "stargazers_count": 64
+    },
+    "almanaccode/codealmanac": {
+      "archived": false,
+      "error": null,
+      "full_name": "AlmanacCode/codealmanac",
+      "stargazers_count": 1006
+    },
+    "almogdepaz/wolfpack": {
+      "archived": false,
+      "error": null,
+      "full_name": "almogdepaz/wolfpack",
+      "stargazers_count": 39
+    },
+    "alpbahadur/49agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "alpbahadur/49-IDE",
+      "stargazers_count": 607
+    },
+    "amal-david/pagecast": {
+      "archived": false,
+      "error": null,
+      "full_name": "Amal-David/pagecast",
+      "stargazers_count": 189
+    },
+    "amersarhan/darce-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "AmerSarhan/darce-cli",
+      "stargazers_count": 10
+    },
+    "amix/dunk": {
+      "archived": false,
+      "error": null,
+      "full_name": "amix/dunk",
+      "stargazers_count": 30
+    },
+    "amrit110/oli": {
+      "archived": false,
+      "error": null,
+      "full_name": "amrit110/oli",
+      "stargazers_count": 244
+    },
+    "amsilf/sc-helm-app": {
+      "archived": false,
+      "error": null,
+      "full_name": "amsilf/sc-helm-app",
+      "stargazers_count": 0
+    },
+    "anaconda-labs/building-intelligent-apps-with-anaconda": {
+      "archived": false,
+      "error": null,
+      "full_name": "Anaconda-Labs/building-intelligent-apps-with-anaconda",
+      "stargazers_count": 228
+    },
+    "andrefetch/postal": {
+      "archived": false,
+      "error": null,
+      "full_name": "andrefetch/postal",
+      "stargazers_count": 123
+    },
+    "andrewyng/context-hub": {
+      "archived": false,
+      "error": null,
+      "full_name": "andrewyng/context-hub",
+      "stargazers_count": 13981
+    },
+    "andymik90/aperant": {
+      "archived": false,
+      "error": null,
+      "full_name": "AndyMik90/Aperant",
+      "stargazers_count": 14563
+    },
+    "andyrewlee/amux": {
+      "archived": false,
+      "error": null,
+      "full_name": "andyrewlee/amux",
+      "stargazers_count": 160
+    },
+    "aniket-508/vercel-doctor": {
+      "archived": false,
+      "error": null,
+      "full_name": "Aniket-508/vercel-doctor",
+      "stargazers_count": 72
+    },
+    "anipotts/coding-agent-tips": {
+      "archived": false,
+      "error": null,
+      "full_name": "anipotts/coding-agent-tips",
+      "stargazers_count": 28
+    },
+    "anishsingh20/useful-generativeai-tools-repo": {
+      "archived": false,
+      "error": null,
+      "full_name": "anishsingh20/Useful-GenerativeAI-Tools-Repo",
+      "stargazers_count": 4
+    },
+    "anomalyco/opencode": {
+      "archived": false,
+      "error": null,
+      "full_name": "anomalyco/opencode",
+      "stargazers_count": 207847
+    },
+    "anthropics/claude-agent-sdk-python": {
+      "archived": false,
+      "error": null,
+      "full_name": "anthropics/claude-agent-sdk-python",
+      "stargazers_count": 8110
+    },
+    "anthropics/claude-agent-sdk-typescript": {
+      "archived": false,
+      "error": null,
+      "full_name": "anthropics/claude-agent-sdk-typescript",
+      "stargazers_count": 1758
+    },
+    "anthropics/claude-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "anthropics/claude-code",
+      "stargazers_count": 145301
+    },
+    "antigmalabs/ante": {
+      "archived": false,
+      "error": null,
+      "full_name": "AntigmaLabs/ante",
+      "stargazers_count": 1956
+    },
+    "antonosika/gpt-engineer": {
+      "archived": true,
+      "error": null,
+      "full_name": "AntonOsika/gpt-engineer",
+      "stargazers_count": 55097
+    },
+    "aozyildirim/agena": {
+      "archived": false,
+      "error": null,
+      "full_name": "aozyildirim/Agena",
+      "stargazers_count": 99
+    },
+    "appgram/agentnotch": {
+      "archived": false,
+      "error": null,
+      "full_name": "AppGram/agentnotch",
+      "stargazers_count": 216
+    },
+    "apvcode/termux-dev": {
+      "archived": false,
+      "error": null,
+      "full_name": "apvcode/Termux-Dev",
+      "stargazers_count": 22
+    },
+    "aquila-lab/superflex-vscode": {
+      "archived": true,
+      "error": null,
+      "full_name": "aquila-lab/superflex-vscode",
+      "stargazers_count": 393
+    },
+    "arch1esun/arcgentic": {
+      "archived": false,
+      "error": null,
+      "full_name": "Arch1eSUN/Arcgentic",
+      "stargazers_count": 286
+    },
+    "arctic-cli/interface": {
+      "archived": false,
+      "error": null,
+      "full_name": "arctic-cli/interface",
+      "stargazers_count": 152
+    },
+    "arfo-du-blo/cursor-in-browser": {
+      "archived": false,
+      "error": null,
+      "full_name": "Arfo-du-blo/cursor-in-browser",
+      "stargazers_count": 65
+    },
+    "arjia-labs/clu": {
+      "archived": false,
+      "error": null,
+      "full_name": "Arjia-Labs/clu",
+      "stargazers_count": 8
+    },
+    "arjunhw97/msn-flocking-formation-control": {
+      "archived": false,
+      "error": null,
+      "full_name": "arjunhw97/MSN-Flocking-Formation-Control",
+      "stargazers_count": 44
+    },
+    "arphanetx/monocle": {
+      "archived": false,
+      "error": null,
+      "full_name": "arphanetx/Monocle",
+      "stargazers_count": 165
+    },
+    "arul28/ade": {
+      "archived": false,
+      "error": null,
+      "full_name": "arul28/ADE",
+      "stargazers_count": 106
+    },
+    "ascorbic/am-i-vibing": {
+      "archived": false,
+      "error": null,
+      "full_name": "ascorbic/am-i-vibing",
+      "stargazers_count": 349
+    },
+    "asheshgoplani/agent-deck": {
+      "archived": false,
+      "error": null,
+      "full_name": "asheshgoplani/agent-deck",
+      "stargazers_count": 906
+    },
+    "ashish200729/orbiteditor": {
+      "archived": false,
+      "error": null,
+      "full_name": "ashish200729/orbiteditor",
+      "stargazers_count": 60
+    },
+    "athasdev/athas": {
+      "archived": false,
+      "error": null,
+      "full_name": "athasdev/athas",
+      "stargazers_count": 3056
+    },
+    "atmosphere/atmosphere": {
+      "archived": false,
+      "error": null,
+      "full_name": "Atmosphere/atmosphere",
+      "stargazers_count": 3812
+    },
+    "atomgit-atomcode/atomcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "atomgit-atomcode/atomcode",
+      "stargazers_count": 195
+    },
+    "atrayee-dev/secure-ai-agent-boundary": {
+      "archived": false,
+      "error": null,
+      "full_name": "Atrayee-dev/secure-ai-agent-boundary",
+      "stargazers_count": 115
+    },
+    "augmentcode/auggie": {
+      "archived": false,
+      "error": null,
+      "full_name": "augmentcode/auggie",
+      "stargazers_count": 280
+    },
+    "aurasgit/public-agent-framwork": {
+      "archived": false,
+      "error": null,
+      "full_name": "aurasgit/public-agent-framwork",
+      "stargazers_count": 0
+    },
+    "autohandai/code-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "autohandai/code-cli",
+      "stargazers_count": 192
+    },
+    "automazeio/vibeproxy": {
+      "archived": false,
+      "error": null,
+      "full_name": "automazeio/vibeproxy",
+      "stargazers_count": 3357
+    },
+    "autoresearch-factory/agon": {
+      "archived": false,
+      "error": null,
+      "full_name": "AutoResearch-Factory/Agon",
+      "stargazers_count": 48
+    },
+    "avelikiy/great_cto": {
+      "archived": false,
+      "error": null,
+      "full_name": "avelikiy/great_cto",
+      "stargazers_count": 93
+    },
+    "aws-samples/amazon-mwaa-examples": {
+      "archived": false,
+      "error": null,
+      "full_name": "aws-samples/amazon-mwaa-examples",
+      "stargazers_count": 120
+    },
+    "aws-samples/remote-swe-agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "aws-samples/remote-swe-agents",
+      "stargazers_count": 243
+    },
+    "aws-samples/sample-multi-agent-orchestration-chat-on-agentcore": {
+      "archived": false,
+      "error": null,
+      "full_name": "aws-samples/sample-multi-agent-orchestration-chat-on-agentcore",
+      "stargazers_count": 128
+    },
+    "aws-samples/setup-amazon-bedrock-agent-for-text2sql-using-amazon-redshift-serverless-with-streamlit": {
+      "archived": false,
+      "error": null,
+      "full_name": "aws-samples/Setup-Amazon-Bedrock-Agent-for-Text2SQL-Using-Amazon-Redshift-Serverless-with-Streamlit",
+      "stargazers_count": 6
+    },
+    "aws-solutions-library-samples/guidance-for-multi-agent-orchestration-on-aws": {
+      "archived": false,
+      "error": null,
+      "full_name": "aws-solutions-library-samples/guidance-for-multi-agent-orchestration-on-aws",
+      "stargazers_count": 74
+    },
+    "aws/amazon-q-developer-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "aws/amazon-q-developer-cli",
+      "stargazers_count": 1983
+    },
+    "aws/aws-mwaa-local-runner": {
+      "archived": true,
+      "error": null,
+      "full_name": "aws/aws-mwaa-local-runner",
+      "stargazers_count": 809
+    },
+    "awslabs/cli-agent-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "awslabs/cli-agent-orchestrator",
+      "stargazers_count": 1296
+    },
+    "axflow/axflow": {
+      "archived": false,
+      "error": null,
+      "full_name": "axflow/axflow",
+      "stargazers_count": 1121
+    },
+    "aydinfer/ai-agents-tool-dev": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "aydinfer/ai-agents-tool-dev",
+      "stargazers_count": null
+    },
+    "azure/gpt-rag-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "Azure/gpt-rag-orchestrator",
+      "stargazers_count": 102
+    },
+    "backbay-labs/clawdstrike": {
+      "archived": false,
+      "error": null,
+      "full_name": "backbay-labs/clawdstrike",
+      "stargazers_count": 288
+    },
+    "bahdotsh/indxr": {
+      "archived": false,
+      "error": null,
+      "full_name": "bahdotsh/indxr",
+      "stargazers_count": 73
+    },
+    "balaaagi/intelligent-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "balaaagi/Intelligent-Agent",
+      "stargazers_count": 2
+    },
+    "basilisk-labs/agentplane": {
+      "archived": false,
+      "error": null,
+      "full_name": "basilisk-labs/agentplane",
+      "stargazers_count": 77
+    },
+    "bastani-inc/atomic": {
+      "archived": false,
+      "error": null,
+      "full_name": "bastani-inc/atomic",
+      "stargazers_count": 800
+    },
+    "bauer-jan/stock-analysis-with-llm": {
+      "archived": false,
+      "error": null,
+      "full_name": "bauer-jan/stock-analysis-with-llm",
+      "stargazers_count": 70
+    },
+    "bawadou/ai-data-extractor": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "bawadou/ai-data-extractor",
+      "stargazers_count": null
+    },
+    "bazed-ai/bazed-af": {
+      "archived": false,
+      "error": null,
+      "full_name": "sagentic-ai/sagentic-af",
+      "stargazers_count": 78
+    },
+    "bbarit/bbarit-agent-oss": {
+      "archived": false,
+      "error": null,
+      "full_name": "bbarit/bbarit-agent-oss",
+      "stargazers_count": 148
+    },
+    "bbarit/terminal": {
+      "archived": false,
+      "error": null,
+      "full_name": "bbarit/terminal",
+      "stargazers_count": 36
+    },
+    "benbasha/claude-autopilot": {
+      "archived": false,
+      "error": null,
+      "full_name": "benbasha/Claude-Autopilot",
+      "stargazers_count": 249
+    },
+    "benc-uk/workflow-dispatch": {
+      "archived": false,
+      "error": null,
+      "full_name": "benc-uk/workflow-dispatch",
+      "stargazers_count": 391
+    },
+    "benthecoder/yt-channels-ds-ai-ml-cs": {
+      "archived": false,
+      "error": null,
+      "full_name": "benthecoder/yt-channels-DS-AI-ML-CS",
+      "stargazers_count": 1627
+    },
+    "betterforall/self-improving-agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "BetterForAll/self-improving-agents",
+      "stargazers_count": 183
+    },
+    "bhouston/mycoder": {
+      "archived": false,
+      "error": null,
+      "full_name": "bhouston/mycoder",
+      "stargazers_count": 568
+    },
+    "biati-digital/alfred-calculate-anything": {
+      "archived": true,
+      "error": null,
+      "full_name": "biati-digital/alfred-calculate-anything",
+      "stargazers_count": 600
+    },
+    "big-pony/pocketshell": {
+      "archived": false,
+      "error": null,
+      "full_name": "Big-Pony/pocketshell",
+      "stargazers_count": 198
+    },
+    "bigcode-project/starcoder": {
+      "archived": false,
+      "error": null,
+      "full_name": "bigcode-project/starcoder",
+      "stargazers_count": 7500
+    },
+    "blaine/fantastty": {
+      "archived": false,
+      "error": null,
+      "full_name": "blaine/fantastty",
+      "stargazers_count": 48
+    },
+    "blazity/nefi": {
+      "archived": false,
+      "error": null,
+      "full_name": "Blazity/nefi",
+      "stargazers_count": 66
+    },
+    "blushyes/coro-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "Blushyes/coro-code",
+      "stargazers_count": 369
+    },
+    "bmad-code-org/bmad-method": {
+      "archived": false,
+      "error": null,
+      "full_name": "bmad-code-org/BMAD-METHOD",
+      "stargazers_count": 53096
+    },
+    "bmdavis419/.better-coding-agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "bmdavis419/.better-coding-agents",
+      "stargazers_count": 169
+    },
+    "bolt-foundry/gambit": {
+      "archived": false,
+      "error": null,
+      "full_name": "getworkloop/gambit",
+      "stargazers_count": 242
+    },
+    "bombap/tiny-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "bombap/tiny-agent",
+      "stargazers_count": 0
+    },
+    "boneylizard/eloquent": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "boneylizard/eloquent",
+      "stargazers_count": null
+    },
+    "bonk1t/agentic-platform": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "bonk1t/agentic-platform",
+      "stargazers_count": null
+    },
+    "boringcomputers/nehemiah": {
+      "archived": false,
+      "error": null,
+      "full_name": "boringcomputers/nehemiah",
+      "stargazers_count": 329
+    },
+    "break-into-data/ai-engineer-toolkit": {
+      "archived": false,
+      "error": null,
+      "full_name": "break-into-data/ai-engineer-toolkit",
+      "stargazers_count": 2189
+    },
+    "browser-use/video-use": {
+      "archived": false,
+      "error": null,
+      "full_name": "browser-use/video-use",
+      "stargazers_count": 24967
+    },
+    "browseroperator/browser-operator-core": {
+      "archived": false,
+      "error": null,
+      "full_name": "BrowserOperator/browser-operator-core",
+      "stargazers_count": 507
+    },
+    "brutusin/instrumentation": {
+      "archived": false,
+      "error": null,
+      "full_name": "brutusin/instrumentation",
+      "stargazers_count": 48
+    },
+    "build-with-groq/groq-code-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "build-with-groq/groq-code-cli",
+      "stargazers_count": 739
+    },
+    "builderz-labs/mission-control": {
+      "archived": false,
+      "error": null,
+      "full_name": "builderz-labs/mission-control",
+      "stargazers_count": 6227
+    },
+    "buildownai/tools": {
+      "archived": false,
+      "error": null,
+      "full_name": "buildownai/tools",
+      "stargazers_count": 1
+    },
+    "builtbyv/ai-website-builder": {
+      "archived": false,
+      "error": null,
+      "full_name": "builtbyV/ai-website-builder",
+      "stargazers_count": 83
+    },
+    "burtson-labs/bandit-agent-framework": {
+      "archived": false,
+      "error": null,
+      "full_name": "Burtson-Labs/bandit-agent-framework",
+      "stargazers_count": 4
+    },
+    "butttons/dora": {
+      "archived": false,
+      "error": null,
+      "full_name": "butttons/dora",
+      "stargazers_count": 109
+    },
+    "bytedance/deer-flow": {
+      "archived": false,
+      "error": null,
+      "full_name": "bytedance/deer-flow",
+      "stargazers_count": 82531
+    },
+    "bytedance/trae-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "bytedance/trae-agent",
+      "stargazers_count": 12098
+    },
+    "c0sogi/llmchat": {
+      "archived": false,
+      "error": null,
+      "full_name": "c0sogi/LLMChat",
+      "stargazers_count": 290
+    },
+    "cactus-compute/needle": {
+      "archived": false,
+      "error": null,
+      "full_name": "cactus-compute/needle",
+      "stargazers_count": 11059
+    },
+    "can1357/oh-my-pi": {
+      "archived": false,
+      "error": null,
+      "full_name": "can1357/oh-my-pi",
+      "stargazers_count": 31383
+    },
+    "caplet1989/brokies-ai-foundry": {
+      "archived": false,
+      "error": null,
+      "full_name": "Caplet1989/Brokies-AI-Foundry",
+      "stargazers_count": 120
+    },
+    "carloluisito/omnidesk": {
+      "archived": false,
+      "error": null,
+      "full_name": "carloluisito/omnidesk",
+      "stargazers_count": 112
+    },
+    "catatafishen/agentbridge": {
+      "archived": false,
+      "error": null,
+      "full_name": "catatafishen/agentbridge",
+      "stargazers_count": 78
+    },
+    "catpaw-ai/catpaw": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "catpaw-ai/catpaw",
+      "stargazers_count": null
+    },
+    "cfal/garcon": {
+      "archived": false,
+      "error": null,
+      "full_name": "cfal/garcon",
+      "stargazers_count": 84
+    },
+    "chaitanyagiri/munder-difflin": {
+      "archived": false,
+      "error": null,
+      "full_name": "chaitanyagiri/munder-difflin",
+      "stargazers_count": 7341
+    },
+    "chaitin/monkeycode": {
+      "archived": false,
+      "error": null,
+      "full_name": "chaitin/MonkeyCode",
+      "stargazers_count": 4713
+    },
+    "chakkaradeep/pycodeagi": {
+      "archived": false,
+      "error": null,
+      "full_name": "chakkaradeep/pyCodeAGI",
+      "stargazers_count": 184
+    },
+    "chandra447/pi-hermes-memory": {
+      "archived": false,
+      "error": null,
+      "full_name": "chandra447/pi-hermes-memory",
+      "stargazers_count": 438
+    },
+    "changkun/wallfacer": {
+      "archived": false,
+      "error": null,
+      "full_name": "changkun/wallfacer",
+      "stargazers_count": 107
+    },
+    "charmbracelet/crush": {
+      "archived": false,
+      "error": null,
+      "full_name": "charmbracelet/crush",
+      "stargazers_count": 28126
+    },
+    "charmbracelet/fantasy": {
+      "archived": false,
+      "error": null,
+      "full_name": "charmbracelet/fantasy",
+      "stargazers_count": 992
+    },
+    "chaterm/chaterm": {
+      "archived": false,
+      "error": null,
+      "full_name": "chaterm/Chaterm",
+      "stargazers_count": 3079
+    },
+    "chernistry/bernstein": {
+      "archived": false,
+      "error": null,
+      "full_name": "sipyourdrink-ltd/bernstein",
+      "stargazers_count": 1184
+    },
+    "cherryhq/cherry-studio": {
+      "archived": false,
+      "error": null,
+      "full_name": "CherryHQ/cherry-studio",
+      "stargazers_count": 51860
+    },
+    "choeng-rayu/rayu-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "Choeng-Rayu/rayu-cli",
+      "stargazers_count": 38
+    },
+    "choiyounggi/cliclaw": {
+      "archived": false,
+      "error": null,
+      "full_name": "choiyounggi/cliclaw",
+      "stargazers_count": 8
+    },
+    "civai-technologies/cursor-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "civai-technologies/cursor-agent",
+      "stargazers_count": 135
+    },
+    "clarisseio/python-agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "clarisseIO/python-agents",
+      "stargazers_count": 0
+    },
+    "clawplays/ospec": {
+      "archived": false,
+      "error": null,
+      "full_name": "clawplays/ospec",
+      "stargazers_count": 487
+    },
+    "cline/cline": {
+      "archived": false,
+      "error": null,
+      "full_name": "cline/cline",
+      "stargazers_count": 68200
+    },
+    "cloudflare/vibesdk": {
+      "archived": false,
+      "error": null,
+      "full_name": "cloudflare/vibesdk",
+      "stargazers_count": 5361
+    },
+    "code4delphi/delphi-ai-developer": {
+      "archived": false,
+      "error": null,
+      "full_name": "Code4Delphi/Delphi-AI-Developer",
+      "stargazers_count": 311
+    },
+    "codeaholicguy/ai-devkit": {
+      "archived": false,
+      "error": null,
+      "full_name": "codeaholicguy/ai-devkit",
+      "stargazers_count": 1629
+    },
+    "codealta/codealta": {
+      "archived": false,
+      "error": null,
+      "full_name": "CodeAlta/CodeAlta",
+      "stargazers_count": 227
+    },
+    "codeany-ai/codeany": {
+      "archived": false,
+      "error": null,
+      "full_name": "codeany-ai/codeany",
+      "stargazers_count": 183
+    },
+    "codebuffai/codebuff": {
+      "archived": false,
+      "error": null,
+      "full_name": "CodebuffAI/freebuff",
+      "stargazers_count": 12198
+    },
+    "codeflash-ai/codeflash": {
+      "archived": false,
+      "error": null,
+      "full_name": "codeflash-ai/codeflash",
+      "stargazers_count": 247
+    },
+    "codefox-lab/codefox-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "codefox-lab/CodeFox-CLI",
+      "stargazers_count": 43
+    },
+    "codefuse-ai/codefuse-chatbot": {
+      "archived": false,
+      "error": null,
+      "full_name": "codefuse-ai/codefuse-chatbot",
+      "stargazers_count": 1292
+    },
+    "codefuse-ai/codefuse-muagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "codefuse-ai/CodeFuse-muAgent",
+      "stargazers_count": 773
+    },
+    "codehamr/codehamr": {
+      "archived": false,
+      "error": null,
+      "full_name": "codehamr/codehamr",
+      "stargazers_count": 217
+    },
+    "codeintegrity-ai/mutahunter": {
+      "archived": false,
+      "error": null,
+      "full_name": "codeintegrity-ai/mutahunter",
+      "stargazers_count": 300
+    },
+    "coder/mux": {
+      "archived": false,
+      "error": null,
+      "full_name": "coder/xum",
+      "stargazers_count": 2022
+    },
+    "coderamp-labs/gitingest": {
+      "archived": false,
+      "error": null,
+      "full_name": "coderamp-labs/gitingest",
+      "stargazers_count": 15468
+    },
+    "coderluii/holyclaude": {
+      "archived": false,
+      "error": null,
+      "full_name": "CoderLuii/HolyClaude",
+      "stargazers_count": 2566
+    },
+    "codingmoh/open-codex": {
+      "archived": false,
+      "error": null,
+      "full_name": "codingmoh/open-codex",
+      "stargazers_count": 696
+    },
+    "codingthefuturewithai/software-dev-prompt-library": {
+      "archived": false,
+      "error": null,
+      "full_name": "codingthefuturewithai/software-dev-prompt-library",
+      "stargazers_count": 195
+    },
+    "codinit-dev/codinit-dev": {
+      "archived": false,
+      "error": null,
+      "full_name": "codinit-dev/codinit-dev",
+      "stargazers_count": 266
+    },
+    "codium-ai/pr-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "The-PR-Agent/pr-agent",
+      "stargazers_count": 13021
+    },
+    "cogitatortech/binharic-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "CogitatorTech/binharic-cli",
+      "stargazers_count": 19
+    },
+    "coleam00/archon": {
+      "archived": false,
+      "error": null,
+      "full_name": "coleam00/Archon",
+      "stargazers_count": 23482
+    },
+    "coleam00/claude-memory-compiler": {
+      "archived": false,
+      "error": null,
+      "full_name": "coleam00/claude-memory-compiler",
+      "stargazers_count": 1291
+    },
+    "coleam00/context-engineering-intro": {
+      "archived": false,
+      "error": null,
+      "full_name": "coleam00/context-engineering-intro",
+      "stargazers_count": 13835
+    },
+    "coleam00/linear-coding-agent-harness": {
+      "archived": false,
+      "error": null,
+      "full_name": "coleam00/Linear-Coding-Agent-Harness",
+      "stargazers_count": 229
+    },
+    "coleam00/mcp-crawl4ai-rag": {
+      "archived": false,
+      "error": null,
+      "full_name": "coleam00/mcp-crawl4ai-rag",
+      "stargazers_count": 2258
+    },
+    "commandcodeai/command-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "CommandCodeAI/command-code",
+      "stargazers_count": 3959
+    },
+    "composable-models/llm_multiagent_debate": {
+      "archived": false,
+      "error": null,
+      "full_name": "composable-models/llm_multiagent_debate",
+      "stargazers_count": 552
+    },
+    "construct-worlds/construct": {
+      "archived": false,
+      "error": null,
+      "full_name": "construct-worlds/construct",
+      "stargazers_count": 16
+    },
+    "context-labs/halo": {
+      "archived": false,
+      "error": null,
+      "full_name": "context-labs/HALO",
+      "stargazers_count": 1172
+    },
+    "continous-ai/continous": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "continous-ai/continous",
+      "stargazers_count": null
+    },
+    "continuedev/continue": {
+      "archived": false,
+      "error": null,
+      "full_name": "continuedev/continue",
+      "stargazers_count": 35931
+    },
+    "cortexkit/aft": {
+      "archived": false,
+      "error": null,
+      "full_name": "cortexkit/aft",
+      "stargazers_count": 292
+    },
+    "cosai-oasis/project-codeguard": {
+      "archived": false,
+      "error": null,
+      "full_name": "cosai-oasis/project-codeguard",
+      "stargazers_count": 337
+    },
+    "cosmtrek/mindwalk": {
+      "archived": false,
+      "error": null,
+      "full_name": "cosmtrek/mindwalk",
+      "stargazers_count": 1343
+    },
+    "coze-dev/coze-studio": {
+      "archived": false,
+      "error": null,
+      "full_name": "coze-dev/coze-studio",
+      "stargazers_count": 21597
+    },
+    "cpoile/claudemacs": {
+      "archived": false,
+      "error": null,
+      "full_name": "cpoile/claudemacs",
+      "stargazers_count": 179
+    },
+    "crewplaneai/crewplane": {
+      "archived": false,
+      "error": null,
+      "full_name": "crewplaneai/crewplane",
+      "stargazers_count": 38
+    },
+    "crustocean/conch": {
+      "archived": false,
+      "error": null,
+      "full_name": "Crustocean/conch",
+      "stargazers_count": 34
+    },
+    "cubiq/comfyui_workflows": {
+      "archived": false,
+      "error": null,
+      "full_name": "cubiq/ComfyUI_Workflows",
+      "stargazers_count": 882
+    },
+    "cuga-project/cuga-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "cuga-project/cuga-agent",
+      "stargazers_count": 879
+    },
+    "cursor/cursor": {
+      "archived": false,
+      "error": null,
+      "full_name": "cursor/cursor",
+      "stargazers_count": 33245
+    },
+    "d-kimuson/claude-code-viewer": {
+      "archived": false,
+      "error": null,
+      "full_name": "d-kimuson/claude-code-viewer",
+      "stargazers_count": 1286
+    },
+    "d-kuro/gwq": {
+      "archived": false,
+      "error": null,
+      "full_name": "d-kuro/gwq",
+      "stargazers_count": 471
+    },
+    "dagger/dagger": {
+      "archived": false,
+      "error": null,
+      "full_name": "dagger/dagger",
+      "stargazers_count": 16255
+    },
+    "dalestewart/promptengineering": {
+      "archived": false,
+      "error": null,
+      "full_name": "DaleStewart/PromptEngineering",
+      "stargazers_count": 1
+    },
+    "dallay/agentsync": {
+      "archived": false,
+      "error": null,
+      "full_name": "dallay/agentsync",
+      "stargazers_count": 57
+    },
+    "danau5tin/tbench-agentic-data-pipeline": {
+      "archived": false,
+      "error": null,
+      "full_name": "Danau5tin/tbench-agentic-data-pipeline",
+      "stargazers_count": 74
+    },
+    "danilofalcao/jarvis": {
+      "archived": false,
+      "error": null,
+      "full_name": "danilofalcao/jarvis",
+      "stargazers_count": 650
+    },
+    "danish296/codevibes": {
+      "archived": false,
+      "error": null,
+      "full_name": "danish296/codevibes",
+      "stargazers_count": 262
+    },
+    "danshapiro/freshell": {
+      "archived": false,
+      "error": null,
+      "full_name": "danshapiro/freshell",
+      "stargazers_count": 98
+    },
+    "dansiegel/codegenhelpers": {
+      "archived": false,
+      "error": null,
+      "full_name": "dansiegel/CodeGenHelpers",
+      "stargazers_count": 107
+    },
+    "darrenapfel/claudecode-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "darrenapfel/claudecode-orchestrator",
+      "stargazers_count": 37
+    },
+    "databricks-solutions/ai-dev-kit": {
+      "archived": false,
+      "error": null,
+      "full_name": "databricks-solutions/ai-dev-kit",
+      "stargazers_count": 1903
+    },
+    "datacurve-ai/deep-swe": {
+      "archived": false,
+      "error": null,
+      "full_name": "datacurve-ai/deep-swe",
+      "stargazers_count": 1684
+    },
+    "datasciencemonkey/coding-agents-databricks-apps": {
+      "archived": false,
+      "error": null,
+      "full_name": "datasciencemonkey/coding-agents-databricks-apps",
+      "stargazers_count": 28
+    },
+    "datasette/datasette-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "datasette/datasette-agent",
+      "stargazers_count": 117
+    },
+    "dazuiba/handoff": {
+      "archived": false,
+      "error": null,
+      "full_name": "dazuiba/handoff",
+      "stargazers_count": 89
+    },
+    "dcouple/pane": {
+      "archived": false,
+      "error": null,
+      "full_name": "dcouple/Pane",
+      "stargazers_count": 466
+    },
+    "deadwavewave/demo2apk": {
+      "archived": false,
+      "error": null,
+      "full_name": "DeadWaveWave/demo2apk",
+      "stargazers_count": 630
+    },
+    "decolua/9remote": {
+      "archived": false,
+      "error": null,
+      "full_name": "decolua/9remote",
+      "stargazers_count": 570
+    },
+    "decron/whitebox-code-gpt": {
+      "archived": false,
+      "error": null,
+      "full_name": "Decron/Whitebox-Code-GPT",
+      "stargazers_count": 205
+    },
+    "deep-copilot/deepcopilot": {
+      "archived": false,
+      "error": null,
+      "full_name": "deep-copilot/DeepCopilot",
+      "stargazers_count": 78
+    },
+    "deepagent-ltd/deepagent-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "deepagent-ltd/deepagent-code",
+      "stargazers_count": 434
+    },
+    "deepseek-ai/deepseek-coder": {
+      "archived": false,
+      "error": null,
+      "full_name": "deepseek-ai/DeepSeek-Coder",
+      "stargazers_count": 24267
+    },
+    "deepseek-tui/deepseek-tui": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "deepseek-tui/deepseek-tui",
+      "stargazers_count": null
+    },
+    "denchhq/denchclaw": {
+      "archived": false,
+      "error": null,
+      "full_name": "DenchHQ/DenchClaw",
+      "stargazers_count": 1656
+    },
+    "devcorexofficial/core-termux": {
+      "archived": false,
+      "error": null,
+      "full_name": "DevCoreXOfficial/core-termux",
+      "stargazers_count": 454
+    },
+    "devdanzin/fusil": {
+      "archived": false,
+      "error": null,
+      "full_name": "devdanzin/fusil",
+      "stargazers_count": 40
+    },
+    "developersdigest/llm-answer-engine": {
+      "archived": false,
+      "error": null,
+      "full_name": "developersdigest/llm-answer-engine",
+      "stargazers_count": 5037
+    },
+    "devill/refakts": {
+      "archived": false,
+      "error": null,
+      "full_name": "devill/refakts",
+      "stargazers_count": 73
+    },
+    "dharllc/speech-to-code": {
+      "archived": true,
+      "error": null,
+      "full_name": "dharllc/speech-to-code",
+      "stargazers_count": 1
+    },
+    "dhurng/raven-test-ai": {
+      "archived": false,
+      "error": null,
+      "full_name": "dhurng/Raven-Test-AI",
+      "stargazers_count": 0
+    },
+    "dicklesworthstone/coding_agent_account_manager": {
+      "archived": false,
+      "error": null,
+      "full_name": "Dicklesworthstone/coding_agent_account_manager",
+      "stargazers_count": 201
+    },
+    "dicklesworthstone/coding_agent_session_search": {
+      "archived": false,
+      "error": null,
+      "full_name": "Dicklesworthstone/coding_agent_session_search",
+      "stargazers_count": 1137
+    },
+    "dicklesworthstone/frankenterm": {
+      "archived": false,
+      "error": null,
+      "full_name": "Dicklesworthstone/frankenterm",
+      "stargazers_count": 116
+    },
+    "dicklesworthstone/ntm": {
+      "archived": false,
+      "error": null,
+      "full_name": "Dicklesworthstone/ntm",
+      "stargazers_count": 446
+    },
+    "dimitrigeelen/agentic-engineering-framework": {
+      "archived": false,
+      "error": null,
+      "full_name": "DimitriGeelen/agentic-engineering-framework",
+      "stargazers_count": 14
+    },
+    "dimits-ts/ai_gdpr": {
+      "archived": false,
+      "error": null,
+      "full_name": "dimits-ts/ai_gdpr",
+      "stargazers_count": 1
+    },
+    "dinoanderson/qwen_cli_coder": {
+      "archived": false,
+      "error": null,
+      "full_name": "dinoanderson/qwen_cli_coder",
+      "stargazers_count": 61
+    },
+    "disler/agentic-coding-tool-eval": {
+      "archived": false,
+      "error": null,
+      "full_name": "disler/agentic-coding-tool-eval",
+      "stargazers_count": 41
+    },
+    "divar-ir/ai-doc-gen": {
+      "archived": false,
+      "error": null,
+      "full_name": "divar-ir/ai-doc-gen",
+      "stargazers_count": 759
+    },
+    "dmae97/open-multi-agent-kit": {
+      "archived": false,
+      "error": null,
+      "full_name": "dmae97/omk",
+      "stargazers_count": 143
+    },
+    "dnouri/pi-coding-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "dnouri/pilish",
+      "stargazers_count": 289
+    },
+    "doable-me/doable": {
+      "archived": false,
+      "error": null,
+      "full_name": "doable-me/Doable",
+      "stargazers_count": 39
+    },
+    "dog-qiuqiu/invincat": {
+      "archived": false,
+      "error": null,
+      "full_name": "dog-qiuqiu/invincat",
+      "stargazers_count": 155
+    },
+    "dongdongunique/llm_rag": {
+      "archived": false,
+      "error": null,
+      "full_name": "dongdongunique/LLM_RAG",
+      "stargazers_count": 9
+    },
+    "doriandarko/claude-engineer": {
+      "archived": false,
+      "error": null,
+      "full_name": "Doriandarko/claude-engineer",
+      "stargazers_count": 11217
+    },
+    "doriandarko/deepseek-engineer": {
+      "archived": false,
+      "error": null,
+      "full_name": "Doriandarko/deepseek-engineer",
+      "stargazers_count": 2235
+    },
+    "doucs91/hivelore": {
+      "archived": false,
+      "error": null,
+      "full_name": "Doucs91/hivelore",
+      "stargazers_count": 2
+    },
+    "dreamide/dream": {
+      "archived": false,
+      "error": null,
+      "full_name": "dreamide/dream",
+      "stargazers_count": 42
+    },
+    "duckdb/extension-ci-tools": {
+      "archived": false,
+      "error": null,
+      "full_name": "duckdb/extension-ci-tools",
+      "stargazers_count": 53
+    },
+    "ducksss/codex-profiles": {
+      "archived": false,
+      "error": null,
+      "full_name": "Ducksss/codex-profiles",
+      "stargazers_count": 157
+    },
+    "dudufcb1/codebase-index-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "dudufcb1/codebase-index-cli",
+      "stargazers_count": 59
+    },
+    "dyad-sh/dyad": {
+      "archived": false,
+      "error": null,
+      "full_name": "dyad-sh/dyad",
+      "stargazers_count": 21561
+    },
+    "earendil-works/pi": {
+      "archived": false,
+      "error": null,
+      "full_name": "earendil-works/pi",
+      "stargazers_count": 106193
+    },
+    "echovic/blade-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "echoVic/blade-code",
+      "stargazers_count": 180
+    },
+    "edantoledo/stoix": {
+      "archived": false,
+      "error": null,
+      "full_name": "EdanToledo/Stoix",
+      "stargazers_count": 422
+    },
+    "editor-code-assistant/eca": {
+      "archived": false,
+      "error": null,
+      "full_name": "editor-code-assistant/eca",
+      "stargazers_count": 996
+    },
+    "egoist/waku": {
+      "archived": false,
+      "error": null,
+      "full_name": "egoist/waku",
+      "stargazers_count": 1494
+    },
+    "eigent-ai/eigent": {
+      "archived": false,
+      "error": null,
+      "full_name": "eigent-ai/eigent",
+      "stargazers_count": 15297
+    },
+    "electric-sql/electric": {
+      "archived": false,
+      "error": null,
+      "full_name": "electric-sql/electric",
+      "stargazers_count": 10362
+    },
+    "elirantutia/vibeyard": {
+      "archived": false,
+      "error": null,
+      "full_name": "elirantutia/vibeyard",
+      "stargazers_count": 1375
+    },
+    "elpsykongloo/paperbanana-pro": {
+      "archived": false,
+      "error": null,
+      "full_name": "elpsykongloo/PaperBanana-Pro",
+      "stargazers_count": 100
+    },
+    "embabel/coding-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "embabel/coding-agent",
+      "stargazers_count": 58
+    },
+    "emilianomusso/entwinellm": {
+      "archived": false,
+      "error": null,
+      "full_name": "EmilianoMusso/EntwineLLM",
+      "stargazers_count": 37
+    },
+    "emrgnt-cmplxty/automata": {
+      "archived": true,
+      "error": null,
+      "full_name": "emrgnt-cmplxty/automata",
+      "stargazers_count": 680
+    },
+    "eneskirca/nodeterm": {
+      "archived": false,
+      "error": null,
+      "full_name": "eneskirca/nodeterm",
+      "stargazers_count": 1857
+    },
+    "enola-labs/enola": {
+      "archived": false,
+      "error": null,
+      "full_name": "enola-labs/enola",
+      "stargazers_count": 235
+    },
+    "entropy-research/devon": {
+      "archived": false,
+      "error": null,
+      "full_name": "entropy-research/Devon",
+      "stargazers_count": 3457
+    },
+    "entropy-research/slate-plan-mode": {
+      "archived": false,
+      "error": null,
+      "full_name": "entropy-research/slate-plan-mode",
+      "stargazers_count": 1
+    },
+    "erans/lunaroute": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "erans/lunaroute",
+      "stargazers_count": null
+    },
+    "erikbjare/are-copilots-local-yet": {
+      "archived": false,
+      "error": null,
+      "full_name": "ErikBjare/are-copilots-local-yet",
+      "stargazers_count": 600
+    },
+    "esengine/deepseek-reasonix": {
+      "archived": false,
+      "error": null,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "stargazers_count": 35572
+    },
+    "euniai/prometheus": {
+      "archived": false,
+      "error": null,
+      "full_name": "EuniAI/Prometheus",
+      "stargazers_count": 1128
+    },
+    "eventstubsol/ai-dev-agent-test": {
+      "archived": false,
+      "error": null,
+      "full_name": "eventstubsol/ai-dev-agent-test",
+      "stargazers_count": 0
+    },
+    "exafunction/codeium-react-code-editor": {
+      "archived": false,
+      "error": null,
+      "full_name": "Exafunction/codeium-react-code-editor",
+      "stargazers_count": 273
+    },
+    "exqqstar/exagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "exqqstar/ExAgent",
+      "stargazers_count": 54
+    },
+    "factory-ai/factory": {
+      "archived": false,
+      "error": null,
+      "full_name": "Factory-AI/factory",
+      "stargazers_count": 23
+    },
+    "failproofai/failproofai": {
+      "archived": false,
+      "error": null,
+      "full_name": "FailproofAI/failproofai",
+      "stargazers_count": 3527
+    },
+    "fareedkhan-dev/multi-agent-ai-system": {
+      "archived": false,
+      "error": null,
+      "full_name": "FareedKhan-dev/Multi-Agent-AI-System",
+      "stargazers_count": 379
+    },
+    "fareedkhan-dev/multi-agent-training-grpo": {
+      "archived": false,
+      "error": null,
+      "full_name": "FareedKhan-dev/multi-agent-training-grpo",
+      "stargazers_count": 63
+    },
+    "farelart/ai-code-gen": {
+      "archived": false,
+      "error": null,
+      "full_name": "Farelart/Ai-code-gen",
+      "stargazers_count": 0
+    },
+    "feiskyer/koder": {
+      "archived": false,
+      "error": null,
+      "full_name": "feiskyer/koder",
+      "stargazers_count": 94
+    },
+    "ferroxlabs/agents-md": {
+      "archived": false,
+      "error": null,
+      "full_name": "FerroxLabs/agents-md",
+      "stargazers_count": 694
+    },
+    "fetchai/fetchcoder-releases": {
+      "archived": false,
+      "error": null,
+      "full_name": "fetchai/fetchcoder-releases",
+      "stargazers_count": 2
+    },
+    "fireproof-storage/fireproof": {
+      "archived": false,
+      "error": null,
+      "full_name": "fireproof-storage/fireproof",
+      "stargazers_count": 974
+    },
+    "firetix/vibe-coding-penetration-tester": {
+      "archived": false,
+      "error": null,
+      "full_name": "firetix/vibe-coding-penetration-tester",
+      "stargazers_count": 178
+    },
+    "fission-ai/openspec": {
+      "archived": false,
+      "error": null,
+      "full_name": "Fission-AI/OpenSpec",
+      "stargazers_count": 68500
+    },
+    "fivetaku/kkirikkiri": {
+      "archived": false,
+      "error": null,
+      "full_name": "fivetaku/kkirikkiri",
+      "stargazers_count": 58
+    },
+    "flexigpt/agent-repoguardian": {
+      "archived": true,
+      "error": null,
+      "full_name": "ppipada/agent-repoguardian",
+      "stargazers_count": 1
+    },
+    "flexpilot-ai/vscode-extension": {
+      "archived": false,
+      "error": null,
+      "full_name": "flexpilot-ai/vscode-extension",
+      "stargazers_count": 810
+    },
+    "foundationagents/recode": {
+      "archived": false,
+      "error": null,
+      "full_name": "FoundationAgents/ReCode",
+      "stargazers_count": 567
+    },
+    "fredericvan/pku_mdagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "FredericVAN/PKU_MDAgent",
+      "stargazers_count": 40
+    },
+    "friuns2/codex-mobile": {
+      "archived": false,
+      "error": null,
+      "full_name": "friuns2/codex-mobile",
+      "stargazers_count": 927
+    },
+    "fsoft-ai4code/hyperagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "FSoft-AI4Code/HyperAgent",
+      "stargazers_count": 254
+    },
+    "fstandhartinger/ralph-wiggum": {
+      "archived": false,
+      "error": null,
+      "full_name": "fstandhartinger/ralph-wiggum",
+      "stargazers_count": 296
+    },
+    "fullive-ai/anima": {
+      "archived": false,
+      "error": null,
+      "full_name": "Fullive-AI/Anima",
+      "stargazers_count": 1038
+    },
+    "funador/claude-code-merge-queue": {
+      "archived": false,
+      "error": null,
+      "full_name": "funador/claude-code-merge-queue",
+      "stargazers_count": 125
+    },
+    "furudo-erika/ai-testing-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "furudo-erika/ai-testing-agent",
+      "stargazers_count": 49
+    },
+    "fuxicodex/fuxi": {
+      "archived": false,
+      "error": null,
+      "full_name": "fuxicodex/Fuxi",
+      "stargazers_count": 3347
+    },
+    "fw-ai/fireconnect": {
+      "archived": false,
+      "error": null,
+      "full_name": "fw-ai/fireconnect",
+      "stargazers_count": 52
+    },
+    "fy0/codekanban": {
+      "archived": false,
+      "error": null,
+      "full_name": "fy0/CodeKanban",
+      "stargazers_count": 225
+    },
+    "gabrielchasukjin/cloi": {
+      "archived": false,
+      "error": null,
+      "full_name": "gabrielchasukjin/cloi",
+      "stargazers_count": 407
+    },
+    "gabrielmaialva33/winx-code-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "gabrielmaialva33/winx-code-agent",
+      "stargazers_count": 34
+    },
+    "gary95271/xuanji-landing": {
+      "archived": false,
+      "error": null,
+      "full_name": "gary95271/xuanji-landing",
+      "stargazers_count": 86
+    },
+    "gcwing/bitfun": {
+      "archived": false,
+      "error": null,
+      "full_name": "GCWing/OpenBitFun",
+      "stargazers_count": 2250
+    },
+    "geekan/metagpt": {
+      "archived": false,
+      "error": null,
+      "full_name": "FoundationAgents/MetaGPT",
+      "stargazers_count": 70426
+    },
+    "gemini-cli-extensions/code-review": {
+      "archived": false,
+      "error": null,
+      "full_name": "gemini-cli-extensions/code-review",
+      "stargazers_count": 533
+    },
+    "generalaction/emdash": {
+      "archived": false,
+      "error": null,
+      "full_name": "generalaction/emdash",
+      "stargazers_count": 5754
+    },
+    "genia-dev/genia": {
+      "archived": false,
+      "error": null,
+      "full_name": "genia-dev/GeniA",
+      "stargazers_count": 409
+    },
+    "gensi-thuair/flex": {
+      "archived": false,
+      "error": null,
+      "full_name": "GenSI-THUAIR/FLEX",
+      "stargazers_count": 86
+    },
+    "gensyn-ai/codeassist": {
+      "archived": false,
+      "error": null,
+      "full_name": "gensyn-ai/codeassist",
+      "stargazers_count": 698
+    },
+    "gerome-elassaad/codingit": {
+      "archived": false,
+      "error": null,
+      "full_name": "Gerome-Elassaad/CodingIT",
+      "stargazers_count": 174
+    },
+    "get-bb/bb": {
+      "archived": false,
+      "error": null,
+      "full_name": "get-bb/bb",
+      "stargazers_count": 3701
+    },
+    "get-concord-ai/concord-mcp": {
+      "archived": false,
+      "error": null,
+      "full_name": "Get-Concord-AI/concord-mcp",
+      "stargazers_count": 331
+    },
+    "get-convex/chef": {
+      "archived": false,
+      "error": null,
+      "full_name": "get-convex/chef",
+      "stargazers_count": 4609
+    },
+    "get-vix/vix": {
+      "archived": false,
+      "error": null,
+      "full_name": "get-vix/vix",
+      "stargazers_count": 277
+    },
+    "getkimchi/kimchi": {
+      "archived": false,
+      "error": null,
+      "full_name": "getkimchi/kimchi",
+      "stargazers_count": 2224
+    },
+    "getpaseo/paseo": {
+      "archived": false,
+      "error": null,
+      "full_name": "getpaseo/paseo",
+      "stargazers_count": 17461
+    },
+    "ghuntley/groundhog": {
+      "archived": false,
+      "error": null,
+      "full_name": "ghuntley/groundhog",
+      "stargazers_count": 405
+    },
+    "gi-dellav/zerostack": {
+      "archived": false,
+      "error": null,
+      "full_name": "gi-dellav/zerostack",
+      "stargazers_count": 1673
+    },
+    "gil-son/language-ai-engineering-lab": {
+      "archived": false,
+      "error": null,
+      "full_name": "gil-son/language-ai-engineering-lab",
+      "stargazers_count": 127
+    },
+    "giselles-ai/giselle": {
+      "archived": false,
+      "error": null,
+      "full_name": "giselles-ai/giselle",
+      "stargazers_count": 556
+    },
+    "gitbito/codereviewagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "gitbito/CodeReviewAgent",
+      "stargazers_count": 67
+    },
+    "githpriyanshu23/clawde_code": {
+      "archived": false,
+      "error": null,
+      "full_name": "GitHpriyanshu23/Clawde_Code",
+      "stargazers_count": 169
+    },
+    "github/copilot-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "github/copilot-cli",
+      "stargazers_count": 11175
+    },
+    "gitlawb/zero": {
+      "archived": false,
+      "error": null,
+      "full_name": "Gitlawb/zero",
+      "stargazers_count": 1671
+    },
+    "gkorepanov/llm-tools": {
+      "archived": false,
+      "error": null,
+      "full_name": "gkorepanov/llm-tools",
+      "stargazers_count": 5
+    },
+    "glincker/stacklit": {
+      "archived": false,
+      "error": null,
+      "full_name": "glincker/stacklit",
+      "stargazers_count": 106
+    },
+    "goldmar/openclaw-code-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "goldmar/openclaw-code-agent",
+      "stargazers_count": 45
+    },
+    "golutra/golutra": {
+      "archived": false,
+      "error": null,
+      "full_name": "golutra/golutra",
+      "stargazers_count": 3843
+    },
+    "google-deepmind/code_contests": {
+      "archived": true,
+      "error": null,
+      "full_name": "google-deepmind/code_contests",
+      "stargazers_count": 2202
+    },
+    "google-gemini/gemini-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "google-gemini/gemini-cli",
+      "stargazers_count": 107015
+    },
+    "googlecloudplatform/race-condition": {
+      "archived": false,
+      "error": null,
+      "full_name": "GoogleCloudPlatform/race-condition",
+      "stargazers_count": 230
+    },
+    "googlecloudplatform/workflows-samples": {
+      "archived": false,
+      "error": null,
+      "full_name": "GoogleCloudPlatform/workflows-samples",
+      "stargazers_count": 88
+    },
+    "gptme/gptme": {
+      "archived": false,
+      "error": null,
+      "full_name": "gptme/gptme",
+      "stargazers_count": 4415
+    },
+    "graphql/graphql-playground": {
+      "archived": true,
+      "error": null,
+      "full_name": "graphql/graphql-playground",
+      "stargazers_count": 8826
+    },
+    "greydgl/pentestgpt": {
+      "archived": false,
+      "error": null,
+      "full_name": "GreyDGL/PentestGPT",
+      "stargazers_count": 15491
+    },
+    "griddynamics/rosetta": {
+      "archived": false,
+      "error": null,
+      "full_name": "griddynamics/rosetta",
+      "stargazers_count": 347
+    },
+    "grik-ai/ricochet": {
+      "archived": false,
+      "error": null,
+      "full_name": "Grik-ai/ricochet",
+      "stargazers_count": 55
+    },
+    "groupzer0/vs-code-agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "groupzer0/vs-code-agents",
+      "stargazers_count": 285
+    },
+    "gsa-tts/agentic-coding-quickstart": {
+      "archived": false,
+      "error": null,
+      "full_name": "GSA-TTS/agentic-coding-quickstart",
+      "stargazers_count": 35
+    },
+    "gszhangwei/open-spdd": {
+      "archived": false,
+      "error": null,
+      "full_name": "gszhangwei/open-spdd",
+      "stargazers_count": 785
+    },
+    "guanyang/open-agent-hub": {
+      "archived": false,
+      "error": null,
+      "full_name": "guanyang/open-agent-hub",
+      "stargazers_count": 969
+    },
+    "guanyilun/agent-sh": {
+      "archived": false,
+      "error": null,
+      "full_name": "guanyilun/agent-sh",
+      "stargazers_count": 68
+    },
+    "h0x91b/dev-3.0": {
+      "archived": false,
+      "error": null,
+      "full_name": "h0x91b/dev-3.0",
+      "stargazers_count": 260
+    },
+    "h5i-dev/h5i": {
+      "archived": false,
+      "error": null,
+      "full_name": "h5i-dev/h5i",
+      "stargazers_count": 646
+    },
+    "haasonsaas/ocode": {
+      "archived": false,
+      "error": null,
+      "full_name": "haasonsaas/ocode",
+      "stargazers_count": 128
+    },
+    "haervwe/open-webui-tools": {
+      "archived": false,
+      "error": null,
+      "full_name": "Haervwe/open-webui-tools",
+      "stargazers_count": 811
+    },
+    "haleclipse/codex-jetbrains": {
+      "archived": false,
+      "error": null,
+      "full_name": "Haleclipse/Codex-JetBrains",
+      "stargazers_count": 125
+    },
+    "halfwhey/claudraband": {
+      "archived": false,
+      "error": null,
+      "full_name": "halfwhey/claudraband",
+      "stargazers_count": 286
+    },
+    "hams-ollo/project-s.o.c.r.a.t.e.s.": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "hams-ollo/project-s.o.c.r.a.t.e.s.",
+      "stargazers_count": null
+    },
+    "hanshuaikang/nezha": {
+      "archived": false,
+      "error": null,
+      "full_name": "hanshuaikang/nezha",
+      "stargazers_count": 1901
+    },
+    "haochenglu/contextvc": {
+      "archived": false,
+      "error": null,
+      "full_name": "HaochengLu/contextvc",
+      "stargazers_count": 143
+    },
+    "harbars1234/spacecreateai": {
+      "archived": false,
+      "error": null,
+      "full_name": "Harbars1234/SpaceCreateAI",
+      "stargazers_count": 1
+    },
+    "hardik180704/neocode": {
+      "archived": false,
+      "error": null,
+      "full_name": "Hardik180704/NeoCode",
+      "stargazers_count": 45
+    },
+    "harishkotra/gaia-meme-coin-generator": {
+      "archived": false,
+      "error": null,
+      "full_name": "harishkotra/gaia-meme-coin-generator",
+      "stargazers_count": 2
+    },
+    "harnesslab/claw-code-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "HarnessLab/claw-code-agent",
+      "stargazers_count": 544
+    },
+    "harnessrouter/harnessrouter": {
+      "archived": false,
+      "error": null,
+      "full_name": "HarnessRouter/harnessrouter",
+      "stargazers_count": 1440
+    },
+    "harnessworks/harness-starter-kit": {
+      "archived": false,
+      "error": null,
+      "full_name": "harnessworks/harness-starter-kit",
+      "stargazers_count": 113
+    },
+    "haseeb-heaven/code-interpreter": {
+      "archived": false,
+      "error": null,
+      "full_name": "haseeb-heaven/open-agent",
+      "stargazers_count": 279
+    },
+    "havingautism/codemini-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "havingautism/Codemini-CLI",
+      "stargazers_count": 192
+    },
+    "he-yufeng/corecoder": {
+      "archived": false,
+      "error": null,
+      "full_name": "he-yufeng/CoreCoder",
+      "stargazers_count": 1746
+    },
+    "herdrdev/herdr": {
+      "archived": false,
+      "error": null,
+      "full_name": "herdrdev/herdr",
+      "stargazers_count": 38928
+    },
+    "herry2059/project-os-for-codex": {
+      "archived": false,
+      "error": null,
+      "full_name": "herry2059/project-os-for-codex",
+      "stargazers_count": 101
+    },
+    "hesamjafarian/aimultiagents": {
+      "archived": false,
+      "error": null,
+      "full_name": "hesamjafarian/AiMultiAgents",
+      "stargazers_count": 0
+    },
+    "hexmammamia74/cursor-ai-pro-download-2026": {
+      "archived": false,
+      "error": null,
+      "full_name": "hexmammamia74/Cursor-AI-Pro-Download-2026",
+      "stargazers_count": 88
+    },
+    "hhw-zhou/llm4mol": {
+      "archived": false,
+      "error": null,
+      "full_name": "HHW-zhou/LLM4Mol",
+      "stargazers_count": 46
+    },
+    "hivemoot/colony": {
+      "archived": false,
+      "error": null,
+      "full_name": "hivemoot/colony",
+      "stargazers_count": 4
+    },
+    "hivemoot/hivemoot": {
+      "archived": false,
+      "error": null,
+      "full_name": "hivemoot/hivemoot",
+      "stargazers_count": 16
+    },
+    "hkuds/deepcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "HKUDS/DeepCode",
+      "stargazers_count": 16544
+    },
+    "hoangsonww/forge-agentic-coding-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "hoangsonww/Forge-Agentic-Coding-CLI",
+      "stargazers_count": 23
+    },
+    "hofstadter-io/hof": {
+      "archived": false,
+      "error": null,
+      "full_name": "hofstadter-io/hof",
+      "stargazers_count": 613
+    },
+    "holasoymalva/deepseek-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "holasoymalva/deepseek-cli",
+      "stargazers_count": 308
+    },
+    "honeydew-ai/honeydew-ai-coding-agents-plugins": {
+      "archived": false,
+      "error": null,
+      "full_name": "honeydew-ai/honeydew-ai-coding-agents-plugins",
+      "stargazers_count": 40
+    },
+    "hotovo/aider-desk": {
+      "archived": false,
+      "error": null,
+      "full_name": "hotovo/aider-desk",
+      "stargazers_count": 1428
+    },
+    "huangd1999/agentcoder": {
+      "archived": false,
+      "error": null,
+      "full_name": "huangd1999/AgentCoder",
+      "stargazers_count": 390
+    },
+    "huggingface/tau": {
+      "archived": false,
+      "error": null,
+      "full_name": "huggingface/tau",
+      "stargazers_count": 2776
+    },
+    "human-agent-society/coral": {
+      "archived": false,
+      "error": null,
+      "full_name": "Human-Agent-Society/CORAL",
+      "stargazers_count": 991
+    },
+    "humanlayer/humanlayer": {
+      "archived": false,
+      "error": null,
+      "full_name": "humanlayer/humanlayer",
+      "stargazers_count": 11552
+    },
+    "humanstack/vibe-coding-template": {
+      "archived": false,
+      "error": null,
+      "full_name": "humanstack/vibe-coding-template",
+      "stargazers_count": 250
+    },
+    "husnainpk/symdex": {
+      "archived": false,
+      "error": null,
+      "full_name": "husnainpk/SymDex",
+      "stargazers_count": 209
+    },
+    "husu/loom": {
+      "archived": false,
+      "error": null,
+      "full_name": "husu/loom",
+      "stargazers_count": 534
+    },
+    "hyperaiteam/clitrigger": {
+      "archived": false,
+      "error": null,
+      "full_name": "HyperAITeam/CLITrigger",
+      "stargazers_count": 14
+    },
+    "iamfakeguru/agent-md": {
+      "archived": false,
+      "error": null,
+      "full_name": "iamfakeguru/agent-md",
+      "stargazers_count": 968
+    },
+    "iamunbounded/devctx": {
+      "archived": false,
+      "error": null,
+      "full_name": "IAmUnbounded/devctx",
+      "stargazers_count": 234
+    },
+    "ibm/ibm-bob-java": {
+      "archived": false,
+      "error": null,
+      "full_name": "IBM/ibm-bob-java",
+      "stargazers_count": 1
+    },
+    "icebaker/nano-bots": {
+      "archived": false,
+      "error": null,
+      "full_name": "icebaker/nano-bots",
+      "stargazers_count": 7
+    },
+    "icebear0828/clio": {
+      "archived": false,
+      "error": null,
+      "full_name": "icebear0828/clio",
+      "stargazers_count": 182
+    },
+    "ikamensh/kodo": {
+      "archived": false,
+      "error": null,
+      "full_name": "ikamensh/kodo",
+      "stargazers_count": 132
+    },
+    "incredibledevhq/incredible.dev": {
+      "archived": false,
+      "error": null,
+      "full_name": "IncredibleDevHQ/Incredible.dev",
+      "stargazers_count": 34
+    },
+    "inmve/free-ai-coding": {
+      "archived": false,
+      "error": null,
+      "full_name": "inmve/free-ai-coding",
+      "stargazers_count": 770
+    },
+    "insforge/insforge": {
+      "archived": false,
+      "error": null,
+      "full_name": "InsForge/InsForge",
+      "stargazers_count": 12993
+    },
+    "instadeepai/mava": {
+      "archived": false,
+      "error": null,
+      "full_name": "instadeepai/Mava",
+      "stargazers_count": 935
+    },
+    "intellegix/intellegix-code-agent-toolkit": {
+      "archived": false,
+      "error": null,
+      "full_name": "intellegix/intellegix-code-agent-toolkit",
+      "stargazers_count": 57
+    },
+    "invariantlabs-ai/explorer": {
+      "archived": false,
+      "error": null,
+      "full_name": "invariantlabs-ai/explorer",
+      "stargazers_count": 62
+    },
+    "irgolic/autopr": {
+      "archived": true,
+      "error": null,
+      "full_name": "irgolic/AutoPR",
+      "stargazers_count": 1371
+    },
+    "ise-uiuc/magicoder": {
+      "archived": false,
+      "error": null,
+      "full_name": "ise-uiuc/magicoder",
+      "stargazers_count": 2095
+    },
+    "ishandutta2007/awesome-ai-code-editor": {
+      "archived": false,
+      "error": null,
+      "full_name": "ishandutta2007/Awesome-AI-Code-Editor",
+      "stargazers_count": 19
+    },
+    "ismorphism/deepgame": {
+      "archived": false,
+      "error": null,
+      "full_name": "ismorphism/DeepGame",
+      "stargazers_count": 43
+    },
+    "isrengel/installcursoreditorlinux": {
+      "archived": false,
+      "error": null,
+      "full_name": "IsRengel/InstallCursorEditorLinux",
+      "stargazers_count": 159
+    },
+    "itayinbarr/little-coder": {
+      "archived": false,
+      "error": null,
+      "full_name": "itayinbarr/little-coder",
+      "stargazers_count": 2597
+    },
+    "its-maestro-baby/maestro": {
+      "archived": false,
+      "error": null,
+      "full_name": "its-maestro-baby/maestro",
+      "stargazers_count": 1174
+    },
+    "itspecialist111/hass-ai-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "ITSpecialist111/HASS-AI-Orchestrator",
+      "stargazers_count": 58
+    },
+    "itwanger/paiagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "itwanger/PaiAgent",
+      "stargazers_count": 678
+    },
+    "ivan-magda/swift-coding-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "ivan-magda/swift-coding-agent",
+      "stargazers_count": 180
+    },
+    "ivanwng97/pixtuoid": {
+      "archived": false,
+      "error": null,
+      "full_name": "IvanWng97/pixtuoid",
+      "stargazers_count": 481
+    },
+    "ivy-interactive/ivy-tendril": {
+      "archived": false,
+      "error": null,
+      "full_name": "Ivy-Interactive/Ivy-Tendril",
+      "stargazers_count": 194
+    },
+    "iwangjian/coding-tutor": {
+      "archived": false,
+      "error": null,
+      "full_name": "iwangjian/Coding-Tutor",
+      "stargazers_count": 91
+    },
+    "jacopone/antigravity-nix": {
+      "archived": false,
+      "error": null,
+      "full_name": "jacopone/antigravity-nix",
+      "stargazers_count": 164
+    },
+    "jalalx/httpclientcodegenerator": {
+      "archived": false,
+      "error": null,
+      "full_name": "Jalalx/HttpClientCodeGenerator",
+      "stargazers_count": 47
+    },
+    "jawerty/autostartup": {
+      "archived": false,
+      "error": null,
+      "full_name": "jawerty/AutoStartup",
+      "stargazers_count": 60
+    },
+    "jaycrl/mobilevc": {
+      "archived": false,
+      "error": null,
+      "full_name": "JayCRL/MobileVC",
+      "stargazers_count": 211
+    },
+    "jazzenchen/vibearound": {
+      "archived": false,
+      "error": null,
+      "full_name": "jazzenchen/VibeAround",
+      "stargazers_count": 524
+    },
+    "jcast90/relay": {
+      "archived": false,
+      "error": null,
+      "full_name": "jcast90/relay",
+      "stargazers_count": 5
+    },
+    "jcodesmore/ai-website-cloner-template": {
+      "archived": false,
+      "error": null,
+      "full_name": "JCodesMore/ai-website-cloner-template",
+      "stargazers_count": 34486
+    },
+    "jcz2020/par": {
+      "archived": false,
+      "error": null,
+      "full_name": "jcz2020/par",
+      "stargazers_count": 64
+    },
+    "jduckles/git-collaboration": {
+      "archived": false,
+      "error": null,
+      "full_name": "jduckles/git-collaboration",
+      "stargazers_count": 4
+    },
+    "jetbrains/junie": {
+      "archived": false,
+      "error": null,
+      "full_name": "JetBrains/junie",
+      "stargazers_count": 437
+    },
+    "jetbrains/youtrack-workflows": {
+      "archived": false,
+      "error": null,
+      "full_name": "JetBrains/youtrack-workflows",
+      "stargazers_count": 229
+    },
+    "jhutchings1/create-actionsprs": {
+      "archived": false,
+      "error": null,
+      "full_name": "jhutchings1/Create-ActionsPRs",
+      "stargazers_count": 45
+    },
+    "jigjoy-ai/baro": {
+      "archived": false,
+      "error": null,
+      "full_name": "jigjoy-ai/baro",
+      "stargazers_count": 121
+    },
+    "jina-ai/dev-gpt": {
+      "archived": false,
+      "error": null,
+      "full_name": "jina-ai/dev-gpt",
+      "stargazers_count": 1867
+    },
+    "jmfederico/pi-web": {
+      "archived": false,
+      "error": null,
+      "full_name": "jmfederico/pi-web",
+      "stargazers_count": 771
+    },
+    "jnmetacode/agency-agents-zh": {
+      "archived": false,
+      "error": null,
+      "full_name": "jnMetaCode/agency-agents-zh",
+      "stargazers_count": 20721
+    },
+    "jo-inc/pi-mem": {
+      "archived": false,
+      "error": null,
+      "full_name": "jo-inc/pi-mem",
+      "stargazers_count": 77
+    },
+    "jo-inc/pi-reflect": {
+      "archived": false,
+      "error": null,
+      "full_name": "jo-inc/pi-reflect",
+      "stargazers_count": 47
+    },
+    "joaomdmoura/crewai": {
+      "archived": false,
+      "error": null,
+      "full_name": "crewAIInc/crewAI",
+      "stargazers_count": 58655
+    },
+    "jogendrasingh1879/agentic-ai-": {
+      "archived": false,
+      "error": null,
+      "full_name": "JogendraSingh1879/Agentic-AI-",
+      "stargazers_count": 2
+    },
+    "johannesjo/parallel-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "johannesjo/parallel-code",
+      "stargazers_count": 1011
+    },
+    "joinwell52-ai/joinwell52": {
+      "archived": false,
+      "error": null,
+      "full_name": "joinwell52-AI/joinwell52",
+      "stargazers_count": 5
+    },
+    "jondot/picocode": {
+      "archived": false,
+      "error": null,
+      "full_name": "jondot/picocode",
+      "stargazers_count": 61
+    },
+    "jonkrohn/nlp-with-llms": {
+      "archived": false,
+      "error": null,
+      "full_name": "jonkrohn/NLP-with-LLMs",
+      "stargazers_count": 115
+    },
+    "jonrad/lsp-mcp": {
+      "archived": false,
+      "error": null,
+      "full_name": "jonrad/lsp-mcp",
+      "stargazers_count": 191
+    },
+    "josephsenior/grinta-coding-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "josephsenior/Grinta-Coding-Agent",
+      "stargazers_count": 31
+    },
+    "juggler-ai/juggler": {
+      "archived": false,
+      "error": null,
+      "full_name": "juggler-ai/juggler",
+      "stargazers_count": 596
+    },
+    "julien-c/synthtraces": {
+      "archived": false,
+      "error": null,
+      "full_name": "julien-c/synthtraces",
+      "stargazers_count": 59
+    },
+    "juliusbrussee/caveman-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "JuliusBrussee/caveman-code",
+      "stargazers_count": 937
+    },
+    "juliusbrussee/cavemem": {
+      "archived": false,
+      "error": null,
+      "full_name": "JuliusBrussee/cavemem",
+      "stargazers_count": 680
+    },
+    "junkyard22/orca": {
+      "archived": false,
+      "error": null,
+      "full_name": "junkyard22/Orca",
+      "stargazers_count": 41
+    },
+    "junliu1066/vibe-coding-kit": {
+      "archived": false,
+      "error": null,
+      "full_name": "Junliu1066/vibe-coding-kit",
+      "stargazers_count": 109
+    },
+    "juyongjiang/codellmsurvey": {
+      "archived": false,
+      "error": null,
+      "full_name": "juyongjiang/CodeLLMSurvey",
+      "stargazers_count": 204
+    },
+    "juyterman1000/entroly": {
+      "archived": false,
+      "error": null,
+      "full_name": "juyterman1000/entroly",
+      "stargazers_count": 445
+    },
+    "jzho987/dance-ai-research-project": {
+      "archived": false,
+      "error": null,
+      "full_name": "jzho987/dance-ai-research-project",
+      "stargazers_count": 1
+    },
+    "kadeai/kade": {
+      "archived": false,
+      "error": null,
+      "full_name": "KADEAI/Kade",
+      "stargazers_count": 29
+    },
+    "kaifcoder/stan": {
+      "archived": false,
+      "error": null,
+      "full_name": "kaifcoder/Stan",
+      "stargazers_count": 8
+    },
+    "kenn-io/agentsview": {
+      "archived": false,
+      "error": null,
+      "full_name": "kenn-io/agentsview",
+      "stargazers_count": 5920
+    },
+    "kenn-io/kata": {
+      "archived": false,
+      "error": null,
+      "full_name": "kenn-io/kata",
+      "stargazers_count": 439
+    },
+    "kennethleungty/azure-ai-engineer-associate-notes": {
+      "archived": false,
+      "error": null,
+      "full_name": "kennethleungty/Azure-AI-Engineer-Associate-Notes",
+      "stargazers_count": 98
+    },
+    "khanzzirfan/testai-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "khanzzirfan/TestAI-Agent",
+      "stargazers_count": 1
+    },
+    "kilo-org/kilocode": {
+      "archived": false,
+      "error": null,
+      "full_name": "Kilo-Org/kilocode",
+      "stargazers_count": 27326
+    },
+    "kimi-k2-7/kimi-k2.7": {
+      "archived": false,
+      "error": null,
+      "full_name": "Kimi-K2-7/kimi-K2.7",
+      "stargazers_count": 10
+    },
+    "kingbootoshi/rgr": {
+      "archived": false,
+      "error": null,
+      "full_name": "kingbootoshi/rgr",
+      "stargazers_count": 24
+    },
+    "kirill-markin/repo-to-text": {
+      "archived": false,
+      "error": null,
+      "full_name": "kirill-markin/repo-to-text",
+      "stargazers_count": 211
+    },
+    "kirodotdev/kiro": {
+      "archived": false,
+      "error": null,
+      "full_name": "kirodotdev/Kiro",
+      "stargazers_count": 4302
+    },
+    "klaatai/klaatcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "KlaatAI/klaatcode",
+      "stargazers_count": 359
+    },
+    "kleneway/next-ai-starter": {
+      "archived": false,
+      "error": null,
+      "full_name": "kleneway/next-ai-starter",
+      "stargazers_count": 512
+    },
+    "kodu-ai/claude-coder": {
+      "archived": false,
+      "error": null,
+      "full_name": "kodu-ai/claude-coder",
+      "stargazers_count": 5222
+    },
+    "kommander/oc-plugin-vault-tec": {
+      "archived": false,
+      "error": null,
+      "full_name": "kommander/oc-plugin-vault-tec",
+      "stargazers_count": 183
+    },
+    "kreneskyp/ix": {
+      "archived": false,
+      "error": null,
+      "full_name": "kreneskyp/ix",
+      "stargazers_count": 1046
+    },
+    "kristoferlund/duet-gpt": {
+      "archived": false,
+      "error": null,
+      "full_name": "kristoferlund/duet-gpt",
+      "stargazers_count": 168
+    },
+    "kuafuai/aipexbase": {
+      "archived": false,
+      "error": null,
+      "full_name": "kuafuai/aipexbase",
+      "stargazers_count": 1282
+    },
+    "kuafuai/devopsgpt": {
+      "archived": false,
+      "error": null,
+      "full_name": "kuafuai/DevOpsGPT",
+      "stargazers_count": 5964
+    },
+    "kuberwastaken/claurst": {
+      "archived": false,
+      "error": null,
+      "full_name": "Kuberwastaken/claurst",
+      "stargazers_count": 10304
+    },
+    "kunagent/kun": {
+      "archived": false,
+      "error": null,
+      "full_name": "KunAgent/Kun",
+      "stargazers_count": 6311
+    },
+    "kunal12203/graperoot": {
+      "archived": false,
+      "error": null,
+      "full_name": "kunal12203/GrapeRoot",
+      "stargazers_count": 1036
+    },
+    "kusionstack/konfig": {
+      "archived": false,
+      "error": null,
+      "full_name": "KusionStack/konfig",
+      "stargazers_count": 27
+    },
+    "kyaukyuai/gpt-all-star": {
+      "archived": false,
+      "error": null,
+      "full_name": "kyaukyuai/gpt-all-star",
+      "stargazers_count": 240
+    },
+    "kyegomez/swarms": {
+      "archived": false,
+      "error": null,
+      "full_name": "kyegomez/swarms",
+      "stargazers_count": 7175
+    },
+    "l3yx/intentlang": {
+      "archived": false,
+      "error": null,
+      "full_name": "l3yx/intentlang",
+      "stargazers_count": 94
+    },
+    "labring/sealos": {
+      "archived": false,
+      "error": null,
+      "full_name": "labring/sealos",
+      "stargazers_count": 18347
+    },
+    "laizhou/opencode_ui": {
+      "archived": false,
+      "error": null,
+      "full_name": "LaiZhou/OpenCode_UI",
+      "stargazers_count": 49
+    },
+    "lajosdeme/mole": {
+      "archived": false,
+      "error": null,
+      "full_name": "lajosdeme/mole",
+      "stargazers_count": 310
+    },
+    "landing-ai/ade-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "landing-ai/ade-cli",
+      "stargazers_count": 2417
+    },
+    "langchain-ai/deepagents": {
+      "archived": false,
+      "error": null,
+      "full_name": "langchain-ai/deepagents",
+      "stargazers_count": 29476
+    },
+    "langchain-ai/langchainjs": {
+      "archived": false,
+      "error": null,
+      "full_name": "langchain-ai/langchainjs",
+      "stargazers_count": 18193
+    },
+    "langchain-ai/open-swe": {
+      "archived": false,
+      "error": null,
+      "full_name": "langchain-ai/open-swe",
+      "stargazers_count": 10729
+    },
+    "langchain-ai/openwiki": {
+      "archived": false,
+      "error": null,
+      "full_name": "langchain-ai/openwiki",
+      "stargazers_count": 16558
+    },
+    "langlang03/linecodepro": {
+      "archived": false,
+      "error": null,
+      "full_name": "LangLang03/LineCodePro",
+      "stargazers_count": 100
+    },
+    "langroid/langroid": {
+      "archived": false,
+      "error": null,
+      "full_name": "langroid/langroid",
+      "stargazers_count": 4104
+    },
+    "langwatch/scenario": {
+      "archived": false,
+      "error": null,
+      "full_name": "langwatch/scenario",
+      "stargazers_count": 965
+    },
+    "larens94/codedna": {
+      "archived": false,
+      "error": null,
+      "full_name": "Larens94/codedna",
+      "stargazers_count": 149
+    },
+    "laris-co/multi-agent-workflow-kit": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "laris-co/multi-agent-workflow-kit",
+      "stargazers_count": null
+    },
+    "launsion-boop/echocoding": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "launsion-boop/echocoding",
+      "stargazers_count": null
+    },
+    "leezhuuuuu/code-interpreter-api": {
+      "archived": false,
+      "error": null,
+      "full_name": "leezhuuuuu/Code-Interpreter-Api",
+      "stargazers_count": 165
+    },
+    "legioncodeinc/honeycomb": {
+      "archived": false,
+      "error": null,
+      "full_name": "legioncodeinc/honeycomb",
+      "stargazers_count": 110
+    },
+    "legorobotdude/privatecode": {
+      "archived": false,
+      "error": null,
+      "full_name": "Legorobotdude/PrivateCode",
+      "stargazers_count": 36
+    },
+    "lekssays/codebadger": {
+      "archived": false,
+      "error": null,
+      "full_name": "qcri/codebadger",
+      "stargazers_count": 168
+    },
+    "lemony-ai/cascadeflow": {
+      "archived": false,
+      "error": null,
+      "full_name": "lemony-ai/cascadeflow",
+      "stargazers_count": 3950
+    },
+    "lengff123/cursor-bridge": {
+      "archived": false,
+      "error": null,
+      "full_name": "lengff123/cursor-bridge",
+      "stargazers_count": 54
+    },
+    "leonardcser/smelt": {
+      "archived": false,
+      "error": null,
+      "full_name": "leonardcser/smelt",
+      "stargazers_count": 45
+    },
+    "leox255/loopsy": {
+      "archived": false,
+      "error": null,
+      "full_name": "leox255/loopsy",
+      "stargazers_count": 140
+    },
+    "letstri/druk": {
+      "archived": false,
+      "error": null,
+      "full_name": "letstri/druk",
+      "stargazers_count": 690
+    },
+    "letta-ai/letta-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "letta-ai/letta-code",
+      "stargazers_count": 3355
+    },
+    "lg-ai-exaone/exaone-3.0": {
+      "archived": false,
+      "error": null,
+      "full_name": "LG-AI-EXAONE/EXAONE-3.0",
+      "stargazers_count": 181
+    },
+    "lidangzzz/ai-coding-style-guides": {
+      "archived": false,
+      "error": null,
+      "full_name": "lidangzzz/AI-Coding-Style-Guides",
+      "stargazers_count": 494
+    },
+    "lidge-jun/ima2-gen": {
+      "archived": false,
+      "error": null,
+      "full_name": "lidge-jun/ima2-gen",
+      "stargazers_count": 767
+    },
+    "lidge-jun/opencodex": {
+      "archived": false,
+      "error": null,
+      "full_name": "lidge-jun/opencodex",
+      "stargazers_count": 14860
+    },
+    "limecloud/lime": {
+      "archived": false,
+      "error": null,
+      "full_name": "limecloud/lime",
+      "stargazers_count": 1471
+    },
+    "linghungegeg/linghun": {
+      "archived": false,
+      "error": null,
+      "full_name": "linghungegeg/Linghun",
+      "stargazers_count": 446
+    },
+    "littlebearapps/untether": {
+      "archived": false,
+      "error": null,
+      "full_name": "littlebearapps/untether",
+      "stargazers_count": 67
+    },
+    "liu-hy/genomas": {
+      "archived": false,
+      "error": null,
+      "full_name": "Liu-Hy/GenoMAS",
+      "stargazers_count": 134
+    },
+    "liumengxuan04/minicode": {
+      "archived": false,
+      "error": null,
+      "full_name": "LiuMengxuan04/MiniCode",
+      "stargazers_count": 1112
+    },
+    "lnxpy/hey": {
+      "archived": false,
+      "error": null,
+      "full_name": "lnxpy/hey",
+      "stargazers_count": 235
+    },
+    "lnyo-cly/ai4j": {
+      "archived": false,
+      "error": null,
+      "full_name": "LnYo-Cly/ai4j",
+      "stargazers_count": 429
+    },
+    "locoremind/locooperator": {
+      "archived": false,
+      "error": null,
+      "full_name": "LocoreMind/LocoOperator",
+      "stargazers_count": 159
+    },
+    "locoremind/locotrainer": {
+      "archived": false,
+      "error": null,
+      "full_name": "LocoreMind/LocoTrainer",
+      "stargazers_count": 116
+    },
+    "loganthorneloe/ai-for-software-engineers": {
+      "archived": false,
+      "error": null,
+      "full_name": "loganthorneloe/ai-for-software-engineers",
+      "stargazers_count": 1369
+    },
+    "longngn204/local-coding-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "LongNgn204/local-coding-agent",
+      "stargazers_count": 53
+    },
+    "looptroop-ai/looptroop": {
+      "archived": false,
+      "error": null,
+      "full_name": "looptroop-ai/LoopTroop",
+      "stargazers_count": 146
+    },
+    "lore-hex/quillcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "Lore-Hex/QuillCode",
+      "stargazers_count": 18
+    },
+    "lostintangent/conduit-release": {
+      "archived": false,
+      "error": null,
+      "full_name": "lostintangent/conduit-release",
+      "stargazers_count": 233
+    },
+    "luangjokaj/wordpressify": {
+      "archived": false,
+      "error": null,
+      "full_name": "luangjokaj/wordpressify",
+      "stargazers_count": 1641
+    },
+    "lucagazzola/forgeo": {
+      "archived": false,
+      "error": null,
+      "full_name": "lucaGazzola/forgeo",
+      "stargazers_count": 31
+    },
+    "lucasduys/forge": {
+      "archived": false,
+      "error": null,
+      "full_name": "LucasDuys/forge",
+      "stargazers_count": 56
+    },
+    "lucianodiisouza/semaphore": {
+      "archived": false,
+      "error": null,
+      "full_name": "lucianodiisouza/semaphore",
+      "stargazers_count": 46
+    },
+    "luckeyfaraday/athena": {
+      "archived": false,
+      "error": null,
+      "full_name": "luckeyfaraday/Athena",
+      "stargazers_count": 31
+    },
+    "luoyuctl/agenttrace": {
+      "archived": false,
+      "error": null,
+      "full_name": "luoyuctl/agenttrace",
+      "stargazers_count": 134
+    },
+    "lupantech/agentflow": {
+      "archived": false,
+      "error": null,
+      "full_name": "lupantech/AgentFlow",
+      "stargazers_count": 2044
+    },
+    "mac999/bim_llm_code_agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "mac999/BIM_LLM_code_agent",
+      "stargazers_count": 33
+    },
+    "madarco/agentbox": {
+      "archived": false,
+      "error": null,
+      "full_name": "madarco/agentbox",
+      "stargazers_count": 402
+    },
+    "magiccube/helixent": {
+      "archived": false,
+      "error": null,
+      "full_name": "MagicCube/helixent",
+      "stargazers_count": 666
+    },
+    "mahawi1992/letta-deepseek": {
+      "archived": false,
+      "error": null,
+      "full_name": "mahawi1992/letta-deepseek",
+      "stargazers_count": 11
+    },
+    "manaflow-ai/cmux": {
+      "archived": false,
+      "error": null,
+      "full_name": "manaflow-ai/cmux",
+      "stargazers_count": 27153
+    },
+    "marcusschiesser/edge-pi": {
+      "archived": false,
+      "error": null,
+      "full_name": "marcusschiesser/edge-pi",
+      "stargazers_count": 63
+    },
+    "markshust/hcf": {
+      "archived": false,
+      "error": null,
+      "full_name": "markshust/hcf",
+      "stargazers_count": 72
+    },
+    "marsz42/awel": {
+      "archived": false,
+      "error": null,
+      "full_name": "MarsZ42/Awel",
+      "stargazers_count": 39
+    },
+    "martian56/lumnicode": {
+      "archived": false,
+      "error": null,
+      "full_name": "martian56/lumnicode",
+      "stargazers_count": 49
+    },
+    "maruakshay/miii-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "maruakshay/miii-cli",
+      "stargazers_count": 32
+    },
+    "mason131928/hashagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "mason131928/hashagent",
+      "stargazers_count": 10
+    },
+    "mastra-ai/mastra": {
+      "archived": false,
+      "error": null,
+      "full_name": "mastra-ai/mastra",
+      "stargazers_count": 28103
+    },
+    "math-ai-org/mathcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "math-ai-org/mathcode",
+      "stargazers_count": 741
+    },
+    "matteraiorg/orbital-extension": {
+      "archived": false,
+      "error": null,
+      "full_name": "MatterAIOrg/Orbital-Extension",
+      "stargazers_count": 3
+    },
+    "matthewzmd/aidermacs": {
+      "archived": false,
+      "error": null,
+      "full_name": "MatthewZMD/aidermacs",
+      "stargazers_count": 930
+    },
+    "mattolson/agent-sandbox": {
+      "archived": false,
+      "error": null,
+      "full_name": "mattolson/agent-sandbox",
+      "stargazers_count": 205
+    },
+    "maximerobeyns/self_improving_coding_agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "MaximeRobeyns/self_improving_coding_agent",
+      "stargazers_count": 397
+    },
+    "maximilian-winter/llama-cpp-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "Maximilian-Winter/llama-cpp-agent",
+      "stargazers_count": 659
+    },
+    "maxkle1nz/m1nd": {
+      "archived": false,
+      "error": null,
+      "full_name": "maxkle1nz/m1nd",
+      "stargazers_count": 21
+    },
+    "maxktz/hitch": {
+      "archived": false,
+      "error": null,
+      "full_name": "maxktz/hitch",
+      "stargazers_count": 177
+    },
+    "mayday-wpf/snow-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "MayDay-wpf/snow-cli",
+      "stargazers_count": 1062
+    },
+    "mbruhler/claude-orchestration": {
+      "archived": false,
+      "error": null,
+      "full_name": "mbruhler/claude-orchestration",
+      "stargazers_count": 219
+    },
+    "mckaywrigley/buildware-ai": {
+      "archived": false,
+      "error": null,
+      "full_name": "mckaywrigley/buildware-ai",
+      "stargazers_count": 567
+    },
+    "md-ashraful-pramanik/mapcoder": {
+      "archived": false,
+      "error": null,
+      "full_name": "Md-Ashraful-Pramanik/MapCoder",
+      "stargazers_count": 197
+    },
+    "meltylabs/melty": {
+      "archived": false,
+      "error": null,
+      "full_name": "meltylabs/melty",
+      "stargazers_count": 5440
+    },
+    "memorax-ai/memorax-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "memorax-ai/memorax-code",
+      "stargazers_count": 1298
+    },
+    "mereyabdenbekuly-ctrl/clodex-ide": {
+      "archived": false,
+      "error": null,
+      "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "stargazers_count": 867
+    },
+    "mervinpraison/praisonai": {
+      "archived": false,
+      "error": null,
+      "full_name": "MervinPraison/PraisonAI",
+      "stargazers_count": 9060
+    },
+    "meta-ai/codellama": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "meta-ai/codellama",
+      "stargazers_count": null
+    },
+    "meta-ai/muse-code": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "meta-ai/muse-code",
+      "stargazers_count": null
+    },
+    "meysamhadeli/codai": {
+      "archived": false,
+      "error": null,
+      "full_name": "meysamhadeli/codai",
+      "stargazers_count": 377
+    },
+    "micro-agent/micro-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "micro-agent/micro-agent",
+      "stargazers_count": 0
+    },
+    "microsoft/amplifier": {
+      "archived": false,
+      "error": null,
+      "full_name": "microsoft/amplifier",
+      "stargazers_count": 3125
+    },
+    "microsoft/autogen": {
+      "archived": false,
+      "error": null,
+      "full_name": "microsoft/autogen",
+      "stargazers_count": 61004
+    },
+    "microsoft/taskweaver": {
+      "archived": true,
+      "error": null,
+      "full_name": "microsoft/TaskWeaver",
+      "stargazers_count": 6172
+    },
+    "microsoft/typechat": {
+      "archived": false,
+      "error": null,
+      "full_name": "microsoft/TypeChat",
+      "stargazers_count": 8685
+    },
+    "microsoft/vision-ai-developer-kit": {
+      "archived": true,
+      "error": null,
+      "full_name": "microsoft/vision-ai-developer-kit",
+      "stargazers_count": 131
+    },
+    "microsoft/webwright": {
+      "archived": false,
+      "error": null,
+      "full_name": "microsoft/Webwright",
+      "stargazers_count": 6002
+    },
+    "mikotokawaii25/local-ai-code-assistant": {
+      "archived": false,
+      "error": null,
+      "full_name": "MIKOTOKAWAII25/local-ai-code-assistant",
+      "stargazers_count": 123
+    },
+    "minghinmatthewlam/pi-gui": {
+      "archived": false,
+      "error": null,
+      "full_name": "minghinmatthewlam/pi-gui",
+      "stargazers_count": 949
+    },
+    "mininglamp-oss/octo-web": {
+      "archived": false,
+      "error": null,
+      "full_name": "Mininglamp-OSS/octo-web",
+      "stargazers_count": 1137
+    },
+    "minmaxflow/mini-kode": {
+      "archived": false,
+      "error": null,
+      "full_name": "minmaxflow/mini-kode",
+      "stargazers_count": 306
+    },
+    "missuo/herdrm": {
+      "archived": false,
+      "error": null,
+      "full_name": "missuo/herdrm",
+      "stargazers_count": 691
+    },
+    "mistralai/mistral-vibe": {
+      "archived": false,
+      "error": null,
+      "full_name": "mistralai/mistral-vibe",
+      "stargazers_count": 4955
+    },
+    "mlsysops/code-agent-survey": {
+      "archived": false,
+      "error": null,
+      "full_name": "MLSysOps/Code-Agent-Survey",
+      "stargazers_count": 22
+    },
+    "mng-dev-ai/agentrove": {
+      "archived": false,
+      "error": null,
+      "full_name": "Mng-dev-ai/agentrove",
+      "stargazers_count": 327
+    },
+    "mnotgod96/appagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "TencentQQGYLab/AppAgent",
+      "stargazers_count": 6883
+    },
+    "mnr/codeclinicr": {
+      "archived": false,
+      "error": null,
+      "full_name": "mnr/CodeClinicR",
+      "stargazers_count": 36
+    },
+    "moazbuilds/codemachine-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "moazbuilds/CodeMachine-CLI",
+      "stargazers_count": 2510
+    },
+    "modelscope/agentscope": {
+      "archived": false,
+      "error": null,
+      "full_name": "agentscope-ai/agentscope",
+      "stargazers_count": 31805
+    },
+    "momozi1996/momo-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "momozi1996/momo-code",
+      "stargazers_count": 633
+    },
+    "monkilabs/opencastle": {
+      "archived": false,
+      "error": null,
+      "full_name": "monkilabs/opencastle",
+      "stargazers_count": 62
+    },
+    "moonbitlang/moonbit-doc": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "moonbitlang/moonbit-doc",
+      "stargazers_count": null
+    },
+    "moonshotai/kimi-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "MoonshotAI/kimi-cli",
+      "stargazers_count": 11382
+    },
+    "morganlinton/albatross": {
+      "archived": false,
+      "error": null,
+      "full_name": "morganlinton/Albatross",
+      "stargazers_count": 229
+    },
+    "mufeedvh/code2prompt": {
+      "archived": false,
+      "error": null,
+      "full_name": "mufeedvh/code2prompt",
+      "stargazers_count": 7656
+    },
+    "muhammadnasif/llm-research-backend-django": {
+      "archived": false,
+      "error": null,
+      "full_name": "muhammadnasif/llm-research-backend-django",
+      "stargazers_count": 1
+    },
+    "mulkymalikuldhrs/opencode-android": {
+      "archived": false,
+      "error": null,
+      "full_name": "mulkymalikuldhrs/opencode-android",
+      "stargazers_count": 28
+    },
+    "multiplayer-app/multiplayer": {
+      "archived": false,
+      "error": null,
+      "full_name": "multiplayer-app/multiplayer",
+      "stargazers_count": 42
+    },
+    "mutyai/mutyai": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "mutyai/mutyai",
+      "stargazers_count": null
+    },
+    "mvanhorn/agentcookie": {
+      "archived": false,
+      "error": null,
+      "full_name": "mvanhorn/agentcookie",
+      "stargazers_count": 833
+    },
+    "mybono/ai-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "Mybono/ai-orchestrator",
+      "stargazers_count": 100
+    },
+    "nadinelipeiyu-jpg/ai-vibe-coding-notes-form-threads": {
+      "archived": false,
+      "error": null,
+      "full_name": "nadinelipeiyu-jpg/ai-vibe-coding-notes-form-threads",
+      "stargazers_count": 99
+    },
+    "nahimnasser/pu": {
+      "archived": false,
+      "error": null,
+      "full_name": "NahimNasser/pu",
+      "stargazers_count": 229
+    },
+    "nam271212/strategic-advisor-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "nam271212/strategic-advisor-orchestrator",
+      "stargazers_count": 117
+    },
+    "nano-collective/nanocoder": {
+      "archived": false,
+      "error": null,
+      "full_name": "Nano-Collective/nanocoder",
+      "stargazers_count": 2477
+    },
+    "nanocoai/nanoclaw": {
+      "archived": false,
+      "error": null,
+      "full_name": "nanocoai/nanoclaw",
+      "stargazers_count": 30780
+    },
+    "nanonets/graft": {
+      "archived": false,
+      "error": null,
+      "full_name": "trailhq/Graft",
+      "stargazers_count": 8209
+    },
+    "narcooo/inkos": {
+      "archived": false,
+      "error": null,
+      "full_name": "Narcooo/inkos",
+      "stargazers_count": 9913
+    },
+    "narenmanoharan/gpt-code-assistant": {
+      "archived": false,
+      "error": null,
+      "full_name": "narenmanoharan/gpt-code-assistant",
+      "stargazers_count": 208
+    },
+    "nasiko-labs/nasiko": {
+      "archived": false,
+      "error": null,
+      "full_name": "Nasiko-Labs/nasiko",
+      "stargazers_count": 6608
+    },
+    "neovateai/neovate-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "neovateai/neovate-code",
+      "stargazers_count": 1558
+    },
+    "neuralinverse/neuralinverse": {
+      "archived": false,
+      "error": null,
+      "full_name": "NeuralInverse/neuralinverse",
+      "stargazers_count": 241
+    },
+    "nexu-io/looper": {
+      "archived": false,
+      "error": null,
+      "full_name": "nexu-io/looper",
+      "stargazers_count": 122
+    },
+    "nicepkg/auto-company": {
+      "archived": false,
+      "error": null,
+      "full_name": "nicepkg/auto-company",
+      "stargazers_count": 190
+    },
+    "nickshengy/chamberlain_multimodal_multiagent_chatbot": {
+      "archived": false,
+      "error": null,
+      "full_name": "nickShengY/chamberlain_multimodal_multiagent_chatbot",
+      "stargazers_count": 3
+    },
+    "nicobailon/pi-boomerang": {
+      "archived": false,
+      "error": null,
+      "full_name": "nicobailon/pi-boomerang",
+      "stargazers_count": 305
+    },
+    "nicobailon/pi-interactive-shell": {
+      "archived": false,
+      "error": null,
+      "full_name": "nicobailon/pi-interactive-shell",
+      "stargazers_count": 584
+    },
+    "nikitadmitrieff/auto-co-meta": {
+      "archived": false,
+      "error": null,
+      "full_name": "NikitaDmitrieff/auto-co-meta",
+      "stargazers_count": 43
+    },
+    "nimbalyst/nimbalyst": {
+      "archived": false,
+      "error": null,
+      "full_name": "nimbalyst/nimbalyst",
+      "stargazers_count": 1722
+    },
+    "nisarg38/claude-northstar": {
+      "archived": false,
+      "error": null,
+      "full_name": "Nisarg38/claude-northstar",
+      "stargazers_count": 1
+    },
+    "njbrake/agent-of-empires": {
+      "archived": false,
+      "error": null,
+      "full_name": "agent-of-empires/agent-of-empires",
+      "stargazers_count": 3256
+    },
+    "no1msd/seance": {
+      "archived": false,
+      "error": null,
+      "full_name": "no1msd/seance",
+      "stargazers_count": 133
+    },
+    "norvialabs/forge": {
+      "archived": false,
+      "error": null,
+      "full_name": "NorviaLabs/forge",
+      "stargazers_count": 8
+    },
+    "notasithlord/peerd": {
+      "archived": false,
+      "error": null,
+      "full_name": "NotASithLord/peerd",
+      "stargazers_count": 408
+    },
+    "ntegrals/10x": {
+      "archived": false,
+      "error": null,
+      "full_name": "ntegrals/10x",
+      "stargazers_count": 1365
+    },
+    "nvidia/nemo": {
+      "archived": false,
+      "error": null,
+      "full_name": "NVIDIA-NeMo/Speech",
+      "stargazers_count": 18463
+    },
+    "obbylabs/obby-dev": {
+      "archived": true,
+      "error": null,
+      "full_name": "obbylabs/obby-dev",
+      "stargazers_count": 98
+    },
+    "obra/coderabbit-review-helper": {
+      "archived": false,
+      "error": null,
+      "full_name": "obra/coderabbit-review-helper",
+      "stargazers_count": 57
+    },
+    "obra/smallest-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "obra/smallest-agent",
+      "stargazers_count": 125
+    },
+    "ocean-luna/hmrag": {
+      "archived": false,
+      "error": null,
+      "full_name": "ocean-luna/HMRAG",
+      "stargazers_count": 113
+    },
+    "ochyai/vibe-local": {
+      "archived": false,
+      "error": null,
+      "full_name": "ochyai/vibe-local",
+      "stargazers_count": 803
+    },
+    "ofekron/better-agent": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "ofekron/better-agent",
+      "stargazers_count": null
+    },
+    "ogulcancelik/pi-extensions": {
+      "archived": false,
+      "error": null,
+      "full_name": "ogulcancelik/pi-extensions",
+      "stargazers_count": 540
+    },
+    "ohad6k/viberaven": {
+      "archived": false,
+      "error": null,
+      "full_name": "ohad6k/VibeRaven",
+      "stargazers_count": 58
+    },
+    "oi-overide/oi": {
+      "archived": false,
+      "error": null,
+      "full_name": "oi-overide/oi",
+      "stargazers_count": 192
+    },
+    "oinone/oinone-pamirs": {
+      "archived": false,
+      "error": null,
+      "full_name": "oinone/oinone-pamirs",
+      "stargazers_count": 2350
+    },
+    "olasunkanmi-se/codebuddy": {
+      "archived": true,
+      "error": null,
+      "full_name": "olasunkanmi-SE/codebuddy",
+      "stargazers_count": 139
+    },
+    "oldjs/web-code-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "oldjs/web-code-agent",
+      "stargazers_count": 267
+    },
+    "oleksandrchekhovskyi/hax": {
+      "archived": false,
+      "error": null,
+      "full_name": "OleksandrChekhovskyi/hax",
+      "stargazers_count": 790
+    },
+    "omarabid/cli-llm-coding": {
+      "archived": false,
+      "error": null,
+      "full_name": "omarabid/cli-llm-coding",
+      "stargazers_count": 50
+    },
+    "omnara-ai/omnara": {
+      "archived": false,
+      "error": null,
+      "full_name": "omnara-ai/omnara",
+      "stargazers_count": 2852
+    },
+    "omnigent-ai/omnigent": {
+      "archived": false,
+      "error": null,
+      "full_name": "omnigent-ai/omnigent",
+      "stargazers_count": 10001
+    },
+    "ondateta/teta": {
+      "archived": false,
+      "error": null,
+      "full_name": "ondateta/teta",
+      "stargazers_count": 43
+    },
+    "onecli/onecli": {
+      "archived": false,
+      "error": null,
+      "full_name": "onecli/onecli",
+      "stargazers_count": 3485
+    },
+    "onllm-dev/onui": {
+      "archived": false,
+      "error": null,
+      "full_name": "onllm-dev/onUI",
+      "stargazers_count": 99
+    },
+    "oooscoos/benzi": {
+      "archived": false,
+      "error": null,
+      "full_name": "oooscoos/Benzi",
+      "stargazers_count": 71
+    },
+    "open-ide/debugai": {
+      "archived": false,
+      "error": null,
+      "full_name": "UniIDE/DebugAI",
+      "stargazers_count": 0
+    },
+    "open-multi-agent/open-multi-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "open-multi-agent/open-multi-agent",
+      "stargazers_count": 6932
+    },
+    "openai/codex": {
+      "archived": false,
+      "error": null,
+      "full_name": "openai/codex",
+      "stargazers_count": 124693
+    },
+    "openai/codex-security": {
+      "archived": false,
+      "error": null,
+      "full_name": "openai/codex-security",
+      "stargazers_count": 10740
+    },
+    "openai/multi-agent-emergence-environments": {
+      "archived": true,
+      "error": null,
+      "full_name": "openai/multi-agent-emergence-environments",
+      "stargazers_count": 1815
+    },
+    "openautocoder/agentless": {
+      "archived": false,
+      "error": null,
+      "full_name": "OpenAutoCoder/Agentless",
+      "stargazers_count": 2110
+    },
+    "openautocoder/live-swe-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "OpenAutoCoder/live-swe-agent",
+      "stargazers_count": 460
+    },
+    "openbmb/chatdev": {
+      "archived": false,
+      "error": null,
+      "full_name": "OpenBMB/ChatDev",
+      "stargazers_count": 34319
+    },
+    "openbmb/pilotdeck": {
+      "archived": false,
+      "error": null,
+      "full_name": "OpenBMB/PilotDeck",
+      "stargazers_count": 4006
+    },
+    "openbmb/repoagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "OpenBMB/RepoAgent",
+      "stargazers_count": 1046
+    },
+    "openchamber/openchamber": {
+      "archived": false,
+      "error": null,
+      "full_name": "openchamber/openchamber",
+      "stargazers_count": 9924
+    },
+    "opendev-to/opendev": {
+      "archived": false,
+      "error": null,
+      "full_name": "opendev-to/opendev",
+      "stargazers_count": 835
+    },
+    "openhands/openhands": {
+      "archived": false,
+      "error": null,
+      "full_name": "OpenHands/OpenHands",
+      "stargazers_count": 88139
+    },
+    "openhands/tom-swe": {
+      "archived": true,
+      "error": null,
+      "full_name": "OpenHands/ToM-SWE",
+      "stargazers_count": 120
+    },
+    "openinterpreter/openinterpreter": {
+      "archived": false,
+      "error": null,
+      "full_name": "openinterpreter/openinterpreter",
+      "stargazers_count": 68346
+    },
+    "openmainframeproject/zorow": {
+      "archived": false,
+      "error": null,
+      "full_name": "openmainframeproject/zorow",
+      "stargazers_count": 43
+    },
+    "opensource03/harnss": {
+      "archived": false,
+      "error": null,
+      "full_name": "OpenSource03/harnss",
+      "stargazers_count": 374
+    },
+    "oracle-devrel/oracle-ai-developer-hub": {
+      "archived": false,
+      "error": null,
+      "full_name": "oracle-devrel/oracle-ai-developer-hub",
+      "stargazers_count": 4376
+    },
+    "orionstarai/easycode": {
+      "archived": false,
+      "error": null,
+      "full_name": "OrionStarAI/EasyCode",
+      "stargazers_count": 420
+    },
+    "oso95/codirigent": {
+      "archived": false,
+      "error": null,
+      "full_name": "oso95/Codirigent",
+      "stargazers_count": 108
+    },
+    "otto-ai/otto": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "otto-ai/otto",
+      "stargazers_count": null
+    },
+    "ouijit/ouijit": {
+      "archived": false,
+      "error": null,
+      "full_name": "ouijit/ouijit",
+      "stargazers_count": 169
+    },
+    "ovh/shai": {
+      "archived": false,
+      "error": null,
+      "full_name": "ovh/shai",
+      "stargazers_count": 625
+    },
+    "oxgeneral/orch": {
+      "archived": false,
+      "error": null,
+      "full_name": "oxgeneral/ORCH",
+      "stargazers_count": 163
+    },
+    "pablopunk/pi.nvim": {
+      "archived": false,
+      "error": null,
+      "full_name": "pablopunk/pi.nvim",
+      "stargazers_count": 269
+    },
+    "pacifio/cersei": {
+      "archived": false,
+      "error": null,
+      "full_name": "pacifio/cersei",
+      "stargazers_count": 457
+    },
+    "packtpublishing/30-agents-every-ai-engineer-must-build": {
+      "archived": false,
+      "error": null,
+      "full_name": "PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build",
+      "stargazers_count": 840
+    },
+    "packtpublishing/agentic-coding-with-claude-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "PacktPublishing/Agentic-Coding-with-Claude-Code",
+      "stargazers_count": 189
+    },
+    "paean-ai/deeptide": {
+      "archived": false,
+      "error": null,
+      "full_name": "paean-ai/deeptide",
+      "stargazers_count": 1102
+    },
+    "palm1r/qodeassist": {
+      "archived": true,
+      "error": null,
+      "full_name": "Palm1r/QodeAssist",
+      "stargazers_count": 439
+    },
+    "paoloanzn/microcodex": {
+      "archived": false,
+      "error": null,
+      "full_name": "paoloanzn/microcodex",
+      "stargazers_count": 40
+    },
+    "pardesco/hypernovum": {
+      "archived": false,
+      "error": null,
+      "full_name": "Pardesco/hypernovum",
+      "stargazers_count": 93
+    },
+    "parthsareen/ducky": {
+      "archived": false,
+      "error": null,
+      "full_name": "ParthSareen/ducky",
+      "stargazers_count": 27
+    },
+    "paseru/sinew": {
+      "archived": false,
+      "error": null,
+      "full_name": "Paseru/sinew",
+      "stargazers_count": 64
+    },
+    "pasky/claude.vim": {
+      "archived": false,
+      "error": null,
+      "full_name": "pasky/claude.vim",
+      "stargazers_count": 472
+    },
+    "patched-codes/patchwork": {
+      "archived": false,
+      "error": null,
+      "full_name": "patched-codes/patchwork",
+      "stargazers_count": 1575
+    },
+    "patilshreyas/debroid": {
+      "archived": false,
+      "error": null,
+      "full_name": "PatilShreyas/debroid",
+      "stargazers_count": 263
+    },
+    "patriceckhart/zot": {
+      "archived": false,
+      "error": null,
+      "full_name": "patriceckhart/zot",
+      "stargazers_count": 342
+    },
+    "patrickdappollonio/dux": {
+      "archived": false,
+      "error": null,
+      "full_name": "patrickdappollonio/dux",
+      "stargazers_count": 67
+    },
+    "pawanosman/opencursor": {
+      "archived": false,
+      "error": null,
+      "full_name": "PawanOsman/OpenCursor",
+      "stargazers_count": 6021
+    },
+    "pchalasani/claude-code-tools": {
+      "archived": false,
+      "error": null,
+      "full_name": "pchalasani/claude-code-tools",
+      "stargazers_count": 2001
+    },
+    "penso/arbor": {
+      "archived": false,
+      "error": null,
+      "full_name": "penso/arbor",
+      "stargazers_count": 814
+    },
+    "perrypixel/10x-tool-calls": {
+      "archived": false,
+      "error": null,
+      "full_name": "perrypixel/10x-Tool-Calls",
+      "stargazers_count": 856
+    },
+    "peterfei/ifai": {
+      "archived": false,
+      "error": null,
+      "full_name": "peterfei/ifai",
+      "stargazers_count": 99
+    },
+    "phnx-labs/agents-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "phnx-labs/agi-cli",
+      "stargazers_count": 21
+    },
+    "phodal/auto-dev": {
+      "archived": false,
+      "error": null,
+      "full_name": "phodal/auto-dev",
+      "stargazers_count": 4544
+    },
+    "phodal/routa": {
+      "archived": false,
+      "error": null,
+      "full_name": "phodal/routa",
+      "stargazers_count": 1816
+    },
+    "pingdotgg/t3code": {
+      "archived": false,
+      "error": null,
+      "full_name": "pingdotgg/t3code",
+      "stargazers_count": 22858
+    },
+    "pinskyrobin/llm": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "pinskyrobin/llm",
+      "stargazers_count": null
+    },
+    "piotr1215/pairup.nvim": {
+      "archived": false,
+      "error": null,
+      "full_name": "Piotr1215/pairup.nvim",
+      "stargazers_count": 53
+    },
+    "piqoni/vogte": {
+      "archived": false,
+      "error": null,
+      "full_name": "piqoni/vogte",
+      "stargazers_count": 183
+    },
+    "pirua-game/ai_game_base_analysis_cli_mcp_tool": {
+      "archived": false,
+      "error": null,
+      "full_name": "pirua-game/ai_game_base_analysis_cli_mcp_tool",
+      "stargazers_count": 66
+    },
+    "pixelpilotailabs/pixelpilot-copilot": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "pixelpilotailabs/pixelpilot-copilot",
+      "stargazers_count": null
+    },
+    "plandex-ai/plandex": {
+      "archived": false,
+      "error": null,
+      "full_name": "plandex-ai/plandex",
+      "stargazers_count": 15639
+    },
+    "plasma-ai/fractal": {
+      "archived": false,
+      "error": null,
+      "full_name": "plasma-ai/fractal",
+      "stargazers_count": 727
+    },
+    "podiom/podiom": {
+      "archived": false,
+      "error": null,
+      "full_name": "Podiom/Podiom",
+      "stargazers_count": 13
+    },
+    "polymathwizard/bhil-ai-first-development-toolkit": {
+      "archived": false,
+      "error": null,
+      "full_name": "PolymathWizard/BHIL-AI-First-Development-Toolkit",
+      "stargazers_count": 131
+    },
+    "potproject/code-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "potproject/code-agent",
+      "stargazers_count": 38
+    },
+    "prasenjeet-symon/ogcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "prasenjeet-symon/ogcode",
+      "stargazers_count": 136
+    },
+    "praveen-palanisamy/macad-gym": {
+      "archived": false,
+      "error": null,
+      "full_name": "praveen-palanisamy/macad-gym",
+      "stargazers_count": 372
+    },
+    "presstab/jrdev": {
+      "archived": false,
+      "error": null,
+      "full_name": "presstab/jrdev",
+      "stargazers_count": 67
+    },
+    "prime-radiant-inc/evener": {
+      "archived": false,
+      "error": null,
+      "full_name": "prime-radiant-inc/evener",
+      "stargazers_count": 145
+    },
+    "primeintellect-ai/prime-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "PrimeIntellect-ai/prime-agent",
+      "stargazers_count": 20904
+    },
+    "project-codeguard/rules": {
+      "archived": false,
+      "error": null,
+      "full_name": "project-codeguard/rules",
+      "stargazers_count": 423
+    },
+    "proliferate-ai/proliferate": {
+      "archived": false,
+      "error": null,
+      "full_name": "proliferate-ai/proliferate",
+      "stargazers_count": 503
+    },
+    "prorise-cool/claude-code-multi-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "Prorise-cool/Claude-Code-Multi-Agent",
+      "stargazers_count": 304
+    },
+    "proxysoul/empryo": {
+      "archived": false,
+      "error": null,
+      "full_name": "proxysoul/Empryo",
+      "stargazers_count": 1233
+    },
+    "pythagora-io/gpt-pilot": {
+      "archived": false,
+      "error": null,
+      "full_name": "Pythagora-io/gpt-pilot",
+      "stargazers_count": 33679
+    },
+    "qaml-ai/camelai": {
+      "archived": false,
+      "error": null,
+      "full_name": "qaml-ai/camelAI",
+      "stargazers_count": 370
+    },
+    "qoder-cli/qoder-cli": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "qoder-cli/qoder-cli",
+      "stargazers_count": null
+    },
+    "qodo-ai/open-aware": {
+      "archived": false,
+      "error": null,
+      "full_name": "qodo-ai/open-aware",
+      "stargazers_count": 503
+    },
+    "quack-ai/companion": {
+      "archived": true,
+      "error": null,
+      "full_name": "quack-ai/companion",
+      "stargazers_count": 52
+    },
+    "quack-ai/companion-vscode": {
+      "archived": true,
+      "error": null,
+      "full_name": "quack-ai/companion-vscode",
+      "stargazers_count": 234
+    },
+    "quinnod345/context-engine": {
+      "archived": false,
+      "error": null,
+      "full_name": "Quinnod345/context-engine",
+      "stargazers_count": 0
+    },
+    "qwen-code-dev-bot/oh-my-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "qwen-code-dev-bot/oh-my-cli",
+      "stargazers_count": 821
+    },
+    "qwenlm/qwen-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "QwenLM/Qwen-Agent",
+      "stargazers_count": 17102
+    },
+    "qwenlm/qwen-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "QwenLM/qwen-code",
+      "stargazers_count": 27894
+    },
+    "r1n7aro/locus": {
+      "archived": false,
+      "error": null,
+      "full_name": "r1n7aro/Locus",
+      "stargazers_count": 736
+    },
+    "r2e-gym/r2e-gym": {
+      "archived": false,
+      "error": null,
+      "full_name": "R2E-Gym/R2E-Gym",
+      "stargazers_count": 334
+    },
+    "raheesahmed/devstream": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "raheesahmed/devstream",
+      "stargazers_count": null
+    },
+    "raizamartin/gemini-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "raizamartin/gemini-code",
+      "stargazers_count": 545
+    },
+    "ralph-workflow/ralph-workflow": {
+      "archived": false,
+      "error": null,
+      "full_name": "Ralph-Workflow/Ralph-Workflow",
+      "stargazers_count": 5
+    },
+    "ramarlina/agx": {
+      "archived": false,
+      "error": null,
+      "full_name": "ramarlina/agx",
+      "stargazers_count": 28
+    },
+    "ramonbgc/nl2iac": {
+      "archived": false,
+      "error": null,
+      "full_name": "ramonbgc/nl2iac",
+      "stargazers_count": 1
+    },
+    "raphaelregnier/vibe-annotations": {
+      "archived": false,
+      "error": null,
+      "full_name": "RaphaelRegnier/vibe-annotations",
+      "stargazers_count": 163
+    },
+    "rasbt/mini-coding-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "rasbt/mini-coding-agent",
+      "stargazers_count": 1165
+    },
+    "rath-team/openrath": {
+      "archived": false,
+      "error": null,
+      "full_name": "Rath-Team/OpenRath",
+      "stargazers_count": 1136
+    },
+    "ratnesh-181998/ai-engineer": {
+      "archived": false,
+      "error": null,
+      "full_name": "Ratnesh-181998/AI-Engineer",
+      "stargazers_count": 115
+    },
+    "rawwerks/recursive-coding-agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "rawwerks/recursive-coding-agents",
+      "stargazers_count": 22
+    },
+    "razzant/claudexor": {
+      "archived": false,
+      "error": null,
+      "full_name": "razzant/claudexor",
+      "stargazers_count": 468
+    },
+    "rcarmo/piclaw": {
+      "archived": false,
+      "error": null,
+      "full_name": "rcarmo/piclaw",
+      "stargazers_count": 861
+    },
+    "ref-tools/ref-tools-mcp": {
+      "archived": false,
+      "error": null,
+      "full_name": "ref-tools/ref-tools-mcp",
+      "stargazers_count": 1174
+    },
+    "renaissance-innovation-labs/jacob-ai": {
+      "archived": false,
+      "error": null,
+      "full_name": "Renaissance-Innovation-Labs/jacob-ai",
+      "stargazers_count": 1
+    },
+    "respeak-io/episko": {
+      "archived": false,
+      "error": null,
+      "full_name": "respeak-io/episko",
+      "stargazers_count": 20
+    },
+    "reyzenello/crewai-101": {
+      "archived": false,
+      "error": null,
+      "full_name": "Reyzenello/CrewAI-101",
+      "stargazers_count": 0
+    },
+    "rivet-dev/sandbox-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "rivet-dev/sandbox-agent",
+      "stargazers_count": 1565
+    },
+    "rizwan3d/stemcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "rizwan3d/StemCode",
+      "stargazers_count": 32
+    },
+    "roberto-mello/lavra": {
+      "archived": false,
+      "error": null,
+      "full_name": "roberto-mello/lavra",
+      "stargazers_count": 51
+    },
+    "robzilla1738/harness-terminal": {
+      "archived": false,
+      "error": null,
+      "full_name": "robzilla1738/harness-terminal",
+      "stargazers_count": 302
+    },
+    "rokoss21/iosm-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "rokoss21/iosm-cli",
+      "stargazers_count": 145
+    },
+    "roocodeinc/roo-code": {
+      "archived": true,
+      "error": null,
+      "full_name": "RooCodeInc/Roo-Code",
+      "stargazers_count": 24304
+    },
+    "roocodeinc/roo-code-docs": {
+      "archived": false,
+      "error": null,
+      "full_name": "RooCodeInc/Roo-Code-Docs",
+      "stargazers_count": 160
+    },
+    "rookedsysc/kanvibe": {
+      "archived": false,
+      "error": null,
+      "full_name": "rookedsysc/kanvibe",
+      "stargazers_count": 142
+    },
+    "rowboatlabs/rowboat": {
+      "archived": false,
+      "error": null,
+      "full_name": "rowboatlabs/rowboat",
+      "stargazers_count": 17593
+    },
+    "rsrohan99/tig": {
+      "archived": false,
+      "error": null,
+      "full_name": "rsrohan99/tig",
+      "stargazers_count": 153
+    },
+    "runvendo/vendo": {
+      "archived": false,
+      "error": null,
+      "full_name": "runvendo/vendo",
+      "stargazers_count": 620
+    },
+    "rushi-code1/ai-powered-chatbot-generator": {
+      "archived": false,
+      "error": null,
+      "full_name": "Rushi-code1/AI-Powered-Chatbot-Generator",
+      "stargazers_count": 0
+    },
+    "rustykuntz/clideck": {
+      "archived": false,
+      "error": null,
+      "full_name": "rustykuntz/clideck",
+      "stargazers_count": 157
+    },
+    "ruvnet/claude-flow": {
+      "archived": false,
+      "error": null,
+      "full_name": "ruvnet/ruflo",
+      "stargazers_count": 72606
+    },
+    "rylaa/fable5-opus5-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "Rylaa/fable5-opus5-orchestrator",
+      "stargazers_count": 72
+    },
+    "sa4hnd/vibra-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "sa4hnd/vibra-code",
+      "stargazers_count": 130
+    },
+    "saadnvd1/agent-os": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "saadnvd1/agent-os",
+      "stargazers_count": null
+    },
+    "sagiyaacoby/teamhero": {
+      "archived": false,
+      "error": null,
+      "full_name": "sagiyaacoby/TeamHero",
+      "stargazers_count": 36
+    },
+    "sahil87/fab-kit": {
+      "archived": false,
+      "error": null,
+      "full_name": "sahil87/fab-kit",
+      "stargazers_count": 31
+    },
+    "sahil87/run-kit": {
+      "archived": false,
+      "error": null,
+      "full_name": "sahil87/run-kit",
+      "stargazers_count": 59
+    },
+    "sahithvibudhi/vibe-tree": {
+      "archived": false,
+      "error": null,
+      "full_name": "sahithvibudhi/vibe-tree",
+      "stargazers_count": 268
+    },
+    "salt-nlp/swe-chat": {
+      "archived": false,
+      "error": null,
+      "full_name": "SALT-NLP/SWE-chat",
+      "stargazers_count": 35
+    },
+    "samholt/l2mac": {
+      "archived": false,
+      "error": null,
+      "full_name": "samholt/L2MAC",
+      "stargazers_count": 160
+    },
+    "sammwyy/singulary": {
+      "archived": false,
+      "error": null,
+      "full_name": "sammwyy/singulary",
+      "stargazers_count": 59
+    },
+    "sanbuphy/learn-coding-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "sanbuphy/learn-coding-agent",
+      "stargazers_count": 12273
+    },
+    "satomic/gitlab-copilot-coding-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "satomic/gitlab-copilot-coding-agent",
+      "stargazers_count": 42
+    },
+    "scaleapi/swe-interact": {
+      "archived": false,
+      "error": null,
+      "full_name": "scaleapi/SWE-Interact",
+      "stargazers_count": 28
+    },
+    "scarmonit/antigravity-jules-orchestration": {
+      "archived": false,
+      "error": null,
+      "full_name": "Scarmonit/antigravity-jules-orchestration",
+      "stargazers_count": 42
+    },
+    "scgopi/graphcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "scgopi/GraphCode",
+      "stargazers_count": 121
+    },
+    "seahyinghang8/blinky": {
+      "archived": false,
+      "error": null,
+      "full_name": "seahyinghang8/blinky",
+      "stargazers_count": 90
+    },
+    "sean35mm/weaver": {
+      "archived": false,
+      "error": null,
+      "full_name": "sean35mm/weaver",
+      "stargazers_count": 3
+    },
+    "seandavi/agentic-coding-intro": {
+      "archived": false,
+      "error": null,
+      "full_name": "seandavi/agentic-coding-intro",
+      "stargazers_count": 48
+    },
+    "sebasbo/autonoma": {
+      "archived": false,
+      "error": null,
+      "full_name": "Sebasbo/Autonoma",
+      "stargazers_count": 11
+    },
+    "securitylab-ucd/ai-agent-security": {
+      "archived": false,
+      "error": null,
+      "full_name": "SecurityLab-UCD/ai-agent-security",
+      "stargazers_count": 7
+    },
+    "seemseam/claude_codex_bridge": {
+      "archived": false,
+      "error": null,
+      "full_name": "SeemSeam/claude_codex_bridge",
+      "stargazers_count": 3504
+    },
+    "semanser/codel": {
+      "archived": false,
+      "error": null,
+      "full_name": "semanser/codel",
+      "stargazers_count": 2476
+    },
+    "sfarpak/alifullstack": {
+      "archived": false,
+      "error": null,
+      "full_name": "SFARPak/AliFullStack",
+      "stargazers_count": 79
+    },
+    "sfelkner/ai-agent-test": {
+      "archived": true,
+      "error": null,
+      "full_name": "sfelkner/ai-agent-test",
+      "stargazers_count": 0
+    },
+    "shaftoe/pi-coding-agent-action": {
+      "archived": false,
+      "error": null,
+      "full_name": "shaftoe/pi-coding-agent-action",
+      "stargazers_count": 69
+    },
+    "shangyankeji/super-dev": {
+      "archived": false,
+      "error": null,
+      "full_name": "shangyankeji/super-dev",
+      "stargazers_count": 273
+    },
+    "sharpclaw/sharpclawcode": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "sharpclaw/sharpclawcode",
+      "stargazers_count": null
+    },
+    "shawhint/ai-builders-bootcamp-1": {
+      "archived": false,
+      "error": null,
+      "full_name": "ShawhinT/AI-Builders-Bootcamp-1",
+      "stargazers_count": 71
+    },
+    "shawhint/ai-builders-bootcamp-2": {
+      "archived": false,
+      "error": null,
+      "full_name": "ShawhinT/AI-Builders-Bootcamp-2",
+      "stargazers_count": 48
+    },
+    "shinpr/agentic-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "shinpr/agentic-code",
+      "stargazers_count": 49
+    },
+    "shinpr/galley": {
+      "archived": false,
+      "error": null,
+      "full_name": "shinpr/galley",
+      "stargazers_count": 18
+    },
+    "shotgun-sh/shotgun": {
+      "archived": false,
+      "error": null,
+      "full_name": "shotgun-sh/shotgun",
+      "stargazers_count": 684
+    },
+    "shouzhengai/cs146s_cn": {
+      "archived": false,
+      "error": null,
+      "full_name": "ShouZhengAI/CS146S_CN",
+      "stargazers_count": 1587
+    },
+    "shoyann/thrush-swe-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "shoyann/thrush-swe-agent",
+      "stargazers_count": 63
+    },
+    "shrijayan/itwillsync": {
+      "archived": false,
+      "error": null,
+      "full_name": "shrijayan/itwillsync",
+      "stargazers_count": 99
+    },
+    "shurutech/mql": {
+      "archived": false,
+      "error": null,
+      "full_name": "shurutech/mql",
+      "stargazers_count": 213
+    },
+    "shuyu-labs/webcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "shuyu-labs/WebCode",
+      "stargazers_count": 286
+    },
+    "shyamsaktawat/openalpha_evolve": {
+      "archived": false,
+      "error": null,
+      "full_name": "shyamsaktawat/OpenAlpha_Evolve",
+      "stargazers_count": 1054
+    },
+    "simonw/llm-coding-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "simonw/llm-coding-agent",
+      "stargazers_count": 37
+    },
+    "sinameraji/kimiflare": {
+      "archived": false,
+      "error": null,
+      "full_name": "sinameraji/kimiflare",
+      "stargazers_count": 173
+    },
+    "sivaramadi/claude-html-test": {
+      "archived": false,
+      "error": null,
+      "full_name": "SivaramAdi/claude-html-test",
+      "stargazers_count": 0
+    },
+    "smirk-dev/codereview-ai-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "smirk-dev/CodeReview-AI-Agent",
+      "stargazers_count": 37
+    },
+    "smol-ai/developer": {
+      "archived": false,
+      "error": null,
+      "full_name": "smol-ai/developer",
+      "stargazers_count": 12192
+    },
+    "smtg-ai/claude-squad": {
+      "archived": false,
+      "error": null,
+      "full_name": "smtg-ai/claude-squad",
+      "stargazers_count": 8484
+    },
+    "smythos/sre": {
+      "archived": false,
+      "error": null,
+      "full_name": "SmythOS/sre",
+      "stargazers_count": 1292
+    },
+    "snarktank/ai-dev-tasks": {
+      "archived": false,
+      "error": null,
+      "full_name": "snarktank/ai-dev-tasks",
+      "stargazers_count": 7787
+    },
+    "snarktank/ralph": {
+      "archived": false,
+      "error": null,
+      "full_name": "snarktank/ralph",
+      "stargazers_count": 21798
+    },
+    "snowflake-labs/orchestration-framework": {
+      "archived": false,
+      "error": null,
+      "full_name": "Snowflake-Labs/orchestration-framework",
+      "stargazers_count": 76
+    },
+    "softeria/postmortemthis": {
+      "archived": false,
+      "error": null,
+      "full_name": "Softeria/postmortemthis",
+      "stargazers_count": 1
+    },
+    "soldatov-ss/django-completion": {
+      "archived": false,
+      "error": null,
+      "full_name": "soldatov-ss/django-completion",
+      "stargazers_count": 40
+    },
+    "solo-agent/solo": {
+      "archived": false,
+      "error": null,
+      "full_name": "solo-agent/solo",
+      "stargazers_count": 604
+    },
+    "sondera-ai/sondera-coding-agent-hooks": {
+      "archived": false,
+      "error": null,
+      "full_name": "sondera-ai/sondera-coding-agent-hooks",
+      "stargazers_count": 224
+    },
+    "sonnhfit/sonagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "sonnhfit/SonAgent",
+      "stargazers_count": 38
+    },
+    "sourcebot-dev/sourcebot": {
+      "archived": false,
+      "error": null,
+      "full_name": "sourcebot-dev/sourcebot",
+      "stargazers_count": 3938
+    },
+    "sourcegraph/cody-public-snapshot": {
+      "archived": true,
+      "error": null,
+      "full_name": "sourcegraph/cody-public-snapshot",
+      "stargazers_count": 3806
+    },
+    "spark-engine-opensource-projects/fullstack-nextjs-app-generator": {
+      "archived": false,
+      "error": null,
+      "full_name": "spark-engine-opensource-projects/fullstack-nextjs-app-generator",
+      "stargazers_count": 24
+    },
+    "spikonado/sprocket": {
+      "archived": false,
+      "error": null,
+      "full_name": "spikonado/sprocket",
+      "stargazers_count": 19
+    },
+    "squarewavesystems/squarebox": {
+      "archived": false,
+      "error": null,
+      "full_name": "SquareWaveSystems/squarebox",
+      "stargazers_count": 71
+    },
+    "sr5434/codegebragpt": {
+      "archived": false,
+      "error": null,
+      "full_name": "sr5434/CodegebraGPT",
+      "stargazers_count": 0
+    },
+    "sshh12/coding-agents-workshop": {
+      "archived": false,
+      "error": null,
+      "full_name": "sshh12/coding-agents-workshop",
+      "stargazers_count": 30
+    },
+    "stable-lab/mage": {
+      "archived": false,
+      "error": null,
+      "full_name": "stable-lab/MAGE",
+      "stargazers_count": 136
+    },
+    "stablyai/orca": {
+      "archived": false,
+      "error": null,
+      "full_name": "stablyai/orca",
+      "stargazers_count": 70021
+    },
+    "stacklok/brood-box": {
+      "archived": false,
+      "error": null,
+      "full_name": "stacklok/brood-box",
+      "stargazers_count": 67
+    },
+    "stagewise-io/stagewise": {
+      "archived": false,
+      "error": null,
+      "full_name": "stagewise-io/stagewise",
+      "stargazers_count": 6815
+    },
+    "standardagents/dmux": {
+      "archived": false,
+      "error": null,
+      "full_name": "standardagents/dmux",
+      "stargazers_count": 1773
+    },
+    "startuphakk/openmonoagent.ai": {
+      "archived": false,
+      "error": null,
+      "full_name": "StartupHakk/OpenMonoAgent.ai",
+      "stargazers_count": 1832
+    },
+    "steamship-core/python-client": {
+      "archived": false,
+      "error": null,
+      "full_name": "steamship-core/python-client",
+      "stargazers_count": 322
+    },
+    "stepfenshawn/kota": {
+      "archived": false,
+      "error": null,
+      "full_name": "StepfenShawn/kota",
+      "stargazers_count": 100
+    },
+    "steveclarke/real-world-rails": {
+      "archived": false,
+      "error": null,
+      "full_name": "steveclarke/real-world-rails",
+      "stargazers_count": 539
+    },
+    "steveyegge/gastown": {
+      "archived": false,
+      "error": null,
+      "full_name": "gastownhall/gastown",
+      "stargazers_count": 18081
+    },
+    "stippi/code-assistant": {
+      "archived": false,
+      "error": null,
+      "full_name": "stippi/code-assistant",
+      "stargazers_count": 181
+    },
+    "stitionai/devika": {
+      "archived": false,
+      "error": null,
+      "full_name": "stitionai/devika",
+      "stargazers_count": 19569
+    },
+    "stoneforge-ai/stoneforge": {
+      "archived": false,
+      "error": null,
+      "full_name": "stoneforge-ai/stoneforge",
+      "stargazers_count": 186
+    },
+    "storozhenko98/beehive": {
+      "archived": false,
+      "error": null,
+      "full_name": "storozhenko98/beehive",
+      "stargazers_count": 61
+    },
+    "strands-agents/sdk-python": {
+      "archived": false,
+      "error": null,
+      "full_name": "strands-agents/harness-sdk",
+      "stargazers_count": 7272
+    },
+    "strategic-automation/dspy-compounding-engineering": {
+      "archived": false,
+      "error": null,
+      "full_name": "Strategic-Automation/dspy-compounding-engineering",
+      "stargazers_count": 70
+    },
+    "stravu/crystal": {
+      "archived": false,
+      "error": null,
+      "full_name": "stravu/crystal",
+      "stargazers_count": 3120
+    },
+    "strivin0311/llms-learning": {
+      "archived": false,
+      "error": null,
+      "full_name": "Strivin0311/llms-learning",
+      "stargazers_count": 101
+    },
+    "styro13/synnex_symphony": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "styro13/synnex_symphony",
+      "stargazers_count": null
+    },
+    "sublayerapp/blueprints": {
+      "archived": false,
+      "error": null,
+      "full_name": "sublayerapp/blueprints",
+      "stargazers_count": 62
+    },
+    "sudo-tee/opencode.nvim": {
+      "archived": false,
+      "error": null,
+      "full_name": "sudo-tee/opencode.nvim",
+      "stargazers_count": 941
+    },
+    "sudoprivacy/sudocode": {
+      "archived": false,
+      "error": null,
+      "full_name": "sudoprivacy/sudocode",
+      "stargazers_count": 396
+    },
+    "sumanth077/ai-engineering-toolkit": {
+      "archived": false,
+      "error": null,
+      "full_name": "Sumanth077/ai-engineering-toolkit",
+      "stargazers_count": 3388
+    },
+    "sumitsingh4411/repo-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "sumitsingh4411/repo-agent",
+      "stargazers_count": 9
+    },
+    "supabitapp/supacode": {
+      "archived": false,
+      "error": null,
+      "full_name": "supabitapp/supacode",
+      "stargazers_count": 2372
+    },
+    "supabitapp/supaterm": {
+      "archived": false,
+      "error": null,
+      "full_name": "supabitapp/supaterm",
+      "stargazers_count": 173
+    },
+    "superagent-ai/grok-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "superagent-ai/grok-cli",
+      "stargazers_count": 3476
+    },
+    "superagent-ai/vibekit": {
+      "archived": false,
+      "error": null,
+      "full_name": "superagent-ai/vibekit",
+      "stargazers_count": 1857
+    },
+    "superloglabs/superlog": {
+      "archived": false,
+      "error": null,
+      "full_name": "superloglabs/superlog",
+      "stargazers_count": 1449
+    },
+    "superset-sh/superset": {
+      "archived": false,
+      "error": null,
+      "full_name": "superset-sh/superset",
+      "stargazers_count": 14295
+    },
+    "swadhinbiswas/mervelas": {
+      "archived": false,
+      "error": null,
+      "full_name": "swadhinbiswas/Mervelas",
+      "stargazers_count": 51
+    },
+    "swapperfinance/swapper-toolkit": {
+      "archived": false,
+      "error": null,
+      "full_name": "swapperfinance/swapper-toolkit",
+      "stargazers_count": 850
+    },
+    "swe-agent/swe-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "SWE-agent/SWE-agent",
+      "stargazers_count": 20339
+    },
+    "swe-agent/swe-rex": {
+      "archived": false,
+      "error": null,
+      "full_name": "SWE-agent/SWE-ReX",
+      "stargazers_count": 592
+    },
+    "swe-bench/swe-smith": {
+      "archived": false,
+      "error": null,
+      "full_name": "SWE-bench/SWE-smith",
+      "stargazers_count": 770
+    },
+    "swe-gym/swe-gym": {
+      "archived": false,
+      "error": null,
+      "full_name": "SWE-Gym/SWE-Gym",
+      "stargazers_count": 739
+    },
+    "sweepai/sweep": {
+      "archived": false,
+      "error": null,
+      "full_name": "sweepai/sweep",
+      "stargazers_count": 7712
+    },
+    "swival/swival": {
+      "archived": false,
+      "error": null,
+      "full_name": "Swival/swival",
+      "stargazers_count": 338
+    },
+    "sylphai-inc/adal-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "SylphAI-Inc/adal-cli",
+      "stargazers_count": 104
+    },
+    "syncora-ai/synthetic-ai-developer-productivity-dataset": {
+      "archived": false,
+      "error": null,
+      "full_name": "syncora-ai/Synthetic-AI-Developer-Productivity-Dataset",
+      "stargazers_count": 657
+    },
+    "synthetic-lab/octofriend": {
+      "archived": false,
+      "error": null,
+      "full_name": "synthetic-lab/octofriend",
+      "stargazers_count": 1011
+    },
+    "syscalldev/llmcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "syscalldev/LLMCode",
+      "stargazers_count": 64
+    },
+    "taewooopark/agent-blackbox": {
+      "archived": false,
+      "error": null,
+      "full_name": "TaewoooPark/Agent-Blackbox",
+      "stargazers_count": 75
+    },
+    "tailcallhq/forgecode": {
+      "archived": false,
+      "error": null,
+      "full_name": "tailcallhq/forgecode",
+      "stargazers_count": 7633
+    },
+    "talha-ali-5365/instantrun": {
+      "archived": false,
+      "error": null,
+      "full_name": "Talha-Ali-5365/InstantRun",
+      "stargazers_count": 4
+    },
+    "talkcody/talkcody": {
+      "archived": false,
+      "error": null,
+      "full_name": "talkcody/talkcody",
+      "stargazers_count": 478
+    },
+    "tartarus-ai/tartarusai-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "Tartarus-AI/tartarusai-cli",
+      "stargazers_count": 80
+    },
+    "tarunms7/forge-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "tarunms7/forge-orchestrator",
+      "stargazers_count": 42
+    },
+    "tastyeffectco/sandboxd": {
+      "archived": false,
+      "error": null,
+      "full_name": "tastyeffectco/sandboxd",
+      "stargazers_count": 943
+    },
+    "team-openpm/workgpt": {
+      "archived": false,
+      "error": null,
+      "full_name": "team-openpm/workgpt",
+      "stargazers_count": 731
+    },
+    "tegridydev/multi-agent-secops-llm": {
+      "archived": false,
+      "error": null,
+      "full_name": "tegridydev/multi-agent-secops-llm",
+      "stargazers_count": 10
+    },
+    "teldridge11/rpm-ai-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "teldridge11/RPM-AI-Agent",
+      "stargazers_count": 0
+    },
+    "tempont/small-opencode-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "tempont/small-opencode-orchestrator",
+      "stargazers_count": 33
+    },
+    "terragon-labs/terragon-oss": {
+      "archived": false,
+      "error": null,
+      "full_name": "terragon-labs/terragon-oss",
+      "stargazers_count": 259
+    },
+    "the-creator-ai/the-creator-ai": {
+      "archived": false,
+      "error": null,
+      "full_name": "The-Creator-AI/The-Creator-AI",
+      "stargazers_count": 158
+    },
+    "the-nexus-guard/aip": {
+      "archived": false,
+      "error": null,
+      "full_name": "The-Nexus-Guard/aip",
+      "stargazers_count": 15
+    },
+    "the-open-agent/openagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "the-open-agent/openagent",
+      "stargazers_count": 5626
+    },
+    "the-open-engine/zeroshot": {
+      "archived": false,
+      "error": null,
+      "full_name": "the-open-engine/zeroshot",
+      "stargazers_count": 1835
+    },
+    "thefalc/multi-agent-ai-sdr-flink-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "thefalc/multi-agent-ai-sdr-flink-orchestrator",
+      "stargazers_count": 45
+    },
+    "thelinkapi/vibe-coding": {
+      "archived": false,
+      "error": null,
+      "full_name": "thelinkapi/vibe-coding",
+      "stargazers_count": 66
+    },
+    "theneo-inc/cartlis": {
+      "archived": false,
+      "error": null,
+      "full_name": "Theneo-Inc/Cartlis",
+      "stargazers_count": 6
+    },
+    "thesylvester/crispy": {
+      "archived": false,
+      "error": null,
+      "full_name": "TheSylvester/crispy",
+      "stargazers_count": 28
+    },
+    "thixpin/agentic-coding-basic": {
+      "archived": false,
+      "error": null,
+      "full_name": "thixpin/agentic-coding-basic",
+      "stargazers_count": 62
+    },
+    "thudm/scenegenagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "THUDM/SceneGenAgent",
+      "stargazers_count": 37
+    },
+    "thudm/swe-dev": {
+      "archived": false,
+      "error": null,
+      "full_name": "THUDM/SWE-Dev",
+      "stargazers_count": 66
+    },
+    "tiann/hapi": {
+      "archived": false,
+      "error": null,
+      "full_name": "tiann/hapi",
+      "stargazers_count": 5073
+    },
+    "timvw/tmux-assistant-resurrect": {
+      "archived": false,
+      "error": null,
+      "full_name": "timvw/tmux-assistant-resurrect",
+      "stargazers_count": 93
+    },
+    "timwuhaotian/the-pair": {
+      "archived": false,
+      "error": null,
+      "full_name": "timwuhaotian/the-pair",
+      "stargazers_count": 361
+    },
+    "tlbx-ai/tlbx": {
+      "archived": false,
+      "error": null,
+      "full_name": "tlbx-ai/tlbx",
+      "stargazers_count": 110
+    },
+    "tmcfarlane/oh-my-cursor": {
+      "archived": false,
+      "error": null,
+      "full_name": "tmcfarlane/oh-my-cursor",
+      "stargazers_count": 109
+    },
+    "tmux/tmux": {
+      "archived": false,
+      "error": null,
+      "full_name": "tmux/tmux",
+      "stargazers_count": 49292
+    },
+    "tndata/codingagentexplorer": {
+      "archived": false,
+      "error": null,
+      "full_name": "tndata/CodingAgentExplorer",
+      "stargazers_count": 49
+    },
+    "tokfinity/infcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "Tokfinity/InfCode",
+      "stargazers_count": 63
+    },
+    "tom-doerr/vim_codex": {
+      "archived": false,
+      "error": null,
+      "full_name": "tom-doerr/vim_codex",
+      "stargazers_count": 286
+    },
+    "tomlin7/biscuit": {
+      "archived": false,
+      "error": null,
+      "full_name": "tomlin7/biscuit",
+      "stargazers_count": 268
+    },
+    "touchpoint-labs/gadfly": {
+      "archived": false,
+      "error": null,
+      "full_name": "Touchpoint-Labs/Gadfly",
+      "stargazers_count": 47
+    },
+    "touwaeriol/claude-code-plus": {
+      "archived": false,
+      "error": null,
+      "full_name": "touwaeriol/claude-code-plus",
+      "stargazers_count": 144
+    },
+    "tractorjuice/arc-kit": {
+      "archived": false,
+      "error": null,
+      "full_name": "tractorjuice/arc-kit",
+      "stargazers_count": 2235
+    },
+    "trafficguard/nous": {
+      "archived": false,
+      "error": null,
+      "full_name": "TrafficGuard/typedai",
+      "stargazers_count": 1195
+    },
+    "traycerai/traycer": {
+      "archived": false,
+      "error": null,
+      "full_name": "traycerai/traycer",
+      "stargazers_count": 1488
+    },
+    "truefoundry/trueforge": {
+      "archived": false,
+      "error": null,
+      "full_name": "truefoundry/trueforge",
+      "stargazers_count": 5698
+    },
+    "truffle-ai/dexto": {
+      "archived": false,
+      "error": null,
+      "full_name": "truffle-ai/dexto",
+      "stargazers_count": 650
+    },
+    "trypear/pear-landing-page": {
+      "archived": false,
+      "error": null,
+      "full_name": "trypear/pear-landing-page",
+      "stargazers_count": 117
+    },
+    "trypear/pearai-app": {
+      "archived": false,
+      "error": null,
+      "full_name": "trypear/pearai-app",
+      "stargazers_count": 713
+    },
+    "trypromptly/llmstack": {
+      "archived": false,
+      "error": null,
+      "full_name": "trypromptly/LLMStack",
+      "stargazers_count": 2310
+    },
+    "tt-a1i/hive": {
+      "archived": false,
+      "error": null,
+      "full_name": "tt-a1i/hive",
+      "stargazers_count": 547
+    },
+    "tuo-lei/vibe-replay": {
+      "archived": false,
+      "error": null,
+      "full_name": "tuo-lei/vibe-replay",
+      "stargazers_count": 37
+    },
+    "tutti-os/tutti": {
+      "archived": false,
+      "error": null,
+      "full_name": "tutti-os/tutti",
+      "stargazers_count": 3752
+    },
+    "tw93/kaku": {
+      "archived": false,
+      "error": null,
+      "full_name": "tw93/Kaku",
+      "stargazers_count": 5913
+    },
+    "twing-dev/twing-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "Twing-dev/twing-cli",
+      "stargazers_count": 10
+    },
+    "tysonlabs/lazyide": {
+      "archived": false,
+      "error": null,
+      "full_name": "TysonLabs/lazyide",
+      "stargazers_count": 92
+    },
+    "ui5/plugins-coding-agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "UI5/plugins-coding-agents",
+      "stargazers_count": 35
+    },
+    "uiuc-focal-lab/syncode": {
+      "archived": false,
+      "error": null,
+      "full_name": "structuredllm/syncode",
+      "stargazers_count": 339
+    },
+    "ultraworkers/claw-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "ultraworkers/claw-code",
+      "stargazers_count": 195257
+    },
+    "umacloud/umadev": {
+      "archived": false,
+      "error": null,
+      "full_name": "umacloud/umadev",
+      "stargazers_count": 257
+    },
+    "unit-mesh/auto-dev": {
+      "archived": false,
+      "error": null,
+      "full_name": "phodal/auto-dev",
+      "stargazers_count": 4544
+    },
+    "unodetechxyz/unodeai": {
+      "archived": false,
+      "error": null,
+      "full_name": "UnodeTechxyz/unodeai",
+      "stargazers_count": 0
+    },
+    "untrivial-ai/agent-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "Untrivial-ai/agent-orchestrator",
+      "stargazers_count": 12103
+    },
+    "urbint/cortex": {
+      "archived": true,
+      "error": null,
+      "full_name": "urbint/cortex",
+      "stargazers_count": 383
+    },
+    "urigo/graphql-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "Urigo/graphql-cli",
+      "stargazers_count": 2018
+    },
+    "usagi-org/ai-code-review-helper": {
+      "archived": false,
+      "error": null,
+      "full_name": "Usagi-org/ai-code-review-helper",
+      "stargazers_count": 90
+    },
+    "valuecell-ai/valuecell": {
+      "archived": false,
+      "error": null,
+      "full_name": "ValueCell-ai/valuecell",
+      "stargazers_count": 11009
+    },
+    "varie-ai/workstation": {
+      "archived": false,
+      "error": null,
+      "full_name": "varie-ai/workstation",
+      "stargazers_count": 10
+    },
+    "vasihemanth/tokentelemetry": {
+      "archived": false,
+      "error": null,
+      "full_name": "VasiHemanth/tokentelemetry",
+      "stargazers_count": 357
+    },
+    "vectorize-io/hindsight": {
+      "archived": false,
+      "error": null,
+      "full_name": "vectorize-io/hindsight",
+      "stargazers_count": 23786
+    },
+    "vercel-labs/deepsec": {
+      "archived": false,
+      "error": null,
+      "full_name": "vercel-labs/deepsec",
+      "stargazers_count": 7976
+    },
+    "vercel-labs/fx": {
+      "archived": false,
+      "error": null,
+      "full_name": "vercel-labs/fx",
+      "stargazers_count": 3006
+    },
+    "vibe-cy/cycode": {
+      "archived": false,
+      "error": null,
+      "full_name": "vibe-cy/CyCode",
+      "stargazers_count": 45
+    },
+    "vibe-stack/ggez": {
+      "archived": false,
+      "error": null,
+      "full_name": "vibe-stack/ggez",
+      "stargazers_count": 235
+    },
+    "vibepod/vibepod-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "VibePod/vibepod-cli",
+      "stargazers_count": 163
+    },
+    "vibheksoni/verbalcodeai": {
+      "archived": false,
+      "error": null,
+      "full_name": "vibheksoni/VerbalCodeAi",
+      "stargazers_count": 58
+    },
+    "video-db/call.md": {
+      "archived": false,
+      "error": null,
+      "full_name": "video-db/call.md",
+      "stargazers_count": 1146
+    },
+    "vincentkoc/tokenjuice": {
+      "archived": false,
+      "error": null,
+      "full_name": "vincentkoc/tokenjuice",
+      "stargazers_count": 519
+    },
+    "vinhnx/vtcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "vinhnx/VTCode",
+      "stargazers_count": 846
+    },
+    "vinta/hal-9000": {
+      "archived": false,
+      "error": null,
+      "full_name": "vinta/hal-9000",
+      "stargazers_count": 135
+    },
+    "violetdelia/codex-multi-agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "violetDelia/codex-multi-agents",
+      "stargazers_count": 36
+    },
+    "vishal2612200/agentpack": {
+      "archived": false,
+      "error": null,
+      "full_name": "vishal2612200/agentpack",
+      "stargazers_count": 25
+    },
+    "vivekhaldar/seed": {
+      "archived": false,
+      "error": null,
+      "full_name": "vivekhaldar/seed",
+      "stargazers_count": 109
+    },
+    "vocodedev/vocode-python": {
+      "archived": false,
+      "error": null,
+      "full_name": "vocodedev/vocode-core",
+      "stargazers_count": 3793
+    },
+    "waikato-llm/llm-dataset-converter-examples": {
+      "archived": false,
+      "error": null,
+      "full_name": "waikato-llm/llm-dataset-converter-examples",
+      "stargazers_count": 0
+    },
+    "walkingdevflag/mle-star-open": {
+      "archived": false,
+      "error": null,
+      "full_name": "WalkingDevFlag/MLE-STAR-Open",
+      "stargazers_count": 34
+    },
+    "wandb/catnip": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "wandb/catnip",
+      "stargazers_count": null
+    },
+    "warpdotdev/warp": {
+      "archived": false,
+      "error": null,
+      "full_name": "warpdotdev/warp",
+      "stargazers_count": 65044
+    },
+    "we0-dev/we0": {
+      "archived": false,
+      "error": null,
+      "full_name": "we0-dev/we0",
+      "stargazers_count": 925
+    },
+    "wecode-ai/runvsagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "wecode-ai/RunVSAgent",
+      "stargazers_count": 718
+    },
+    "wei1024/ai-agent-playground": {
+      "archived": false,
+      "error": null,
+      "full_name": "Wei1024/AI-Agent-Playground",
+      "stargazers_count": 0
+    },
+    "weilin0723/purrcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "Weilin0723/PurrCode",
+      "stargazers_count": 168
+    },
+    "weiyangzen/mbti-coding-agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "weiyangzen/mbti-coding-agents",
+      "stargazers_count": 37
+    },
+    "wellingfeng/ultragamestudio": {
+      "archived": false,
+      "error": null,
+      "full_name": "wellingfeng/UltraGameStudio",
+      "stargazers_count": 303
+    },
+    "wendy7756/vibe-coding-guide": {
+      "archived": false,
+      "error": null,
+      "full_name": "wendy7756/vibe-coding-guide",
+      "stargazers_count": 72
+    },
+    "whut09/opencode-plusplus": {
+      "archived": false,
+      "error": null,
+      "full_name": "whut09/opencode-plusplus",
+      "stargazers_count": 110
+    },
+    "wienerdog-ai/wienerdog": {
+      "archived": false,
+      "error": null,
+      "full_name": "wienerdog-ai/wienerdog",
+      "stargazers_count": 14
+    },
+    "willynikes2/agent-orchestrator": {
+      "archived": false,
+      "error": null,
+      "full_name": "willynikes2/agent-orchestrator",
+      "stargazers_count": 65
+    },
+    "winfunc/opcode": {
+      "archived": false,
+      "error": null,
+      "full_name": "winfunc/opcode",
+      "stargazers_count": 22403
+    },
+    "wisdomshell/codeshell-vscode": {
+      "archived": false,
+      "error": null,
+      "full_name": "WisdomShell/codeshell-vscode",
+      "stargazers_count": 575
+    },
+    "with-geun/alive-analysis": {
+      "archived": false,
+      "error": null,
+      "full_name": "with-geun/alive-analysis",
+      "stargazers_count": 41
+    },
+    "withastro/flue": {
+      "archived": false,
+      "error": null,
+      "full_name": "withastro/flue",
+      "stargazers_count": 8247
+    },
+    "workstream-labs/workstreams": {
+      "archived": false,
+      "error": null,
+      "full_name": "workstream-labs/workstreams",
+      "stargazers_count": 77
+    },
+    "wrongstack/wrongstack": {
+      "archived": false,
+      "error": null,
+      "full_name": "WrongStack/WrongStack",
+      "stargazers_count": 323
+    },
+    "wrtnlabs/autobe": {
+      "archived": false,
+      "error": null,
+      "full_name": "wrtnlabs/autobe",
+      "stargazers_count": 1360
+    },
+    "xai-org/grok-build": {
+      "archived": false,
+      "error": null,
+      "full_name": "xai-org/grok-build",
+      "stargazers_count": 26788
+    },
+    "xcodinglab/xcoding": {
+      "archived": false,
+      "error": null,
+      "full_name": "XCodingLab/XCoding",
+      "stargazers_count": 55
+    },
+    "xeol-io/bumpgen": {
+      "archived": false,
+      "error": null,
+      "full_name": "xeol-io/bumpgen",
+      "stargazers_count": 146
+    },
+    "xiaomimimo/mimo-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "XiaomiMiMo/MiMo-Code",
+      "stargazers_count": 13135
+    },
+    "xichan96/dinotty": {
+      "archived": false,
+      "error": null,
+      "full_name": "xichan96/dinotty",
+      "stargazers_count": 704
+    },
+    "xingyaoww/code-act": {
+      "archived": false,
+      "error": null,
+      "full_name": "xingyaoww/code-act",
+      "stargazers_count": 1702
+    },
+    "xmudeeplit/legalgraphrag": {
+      "archived": false,
+      "error": null,
+      "full_name": "XMUDeepLIT/LegalGraphRAG",
+      "stargazers_count": 56
+    },
+    "yanhua1010/build-your-own-coding-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "yanhua1010/build-your-own-coding-agent",
+      "stargazers_count": 42
+    },
+    "yaoapp/yao": {
+      "archived": false,
+      "error": null,
+      "full_name": "YaoApp/yao",
+      "stargazers_count": 7962
+    },
+    "yasasbanukaofficial/claude-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "yasasbanukaofficial/claude-code",
+      "stargazers_count": 7
+    },
+    "yashdev9274/supercli": {
+      "archived": false,
+      "error": null,
+      "full_name": "yashdev9274/supercli",
+      "stargazers_count": 214
+    },
+    "yasinonline/agenticai": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "yasinonline/agenticai",
+      "stargazers_count": null
+    },
+    "yc-software/qm": {
+      "archived": false,
+      "error": null,
+      "full_name": "yc-software/qm",
+      "stargazers_count": 15091
+    },
+    "yeachan-heo/oh-my-claudecode": {
+      "archived": false,
+      "error": null,
+      "full_name": "Yeachan-Heo/oh-my-claudecode",
+      "stargazers_count": 39196
+    },
+    "yeagerai/yeagerai-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "genlayerlabs/yeagerai-agent",
+      "stargazers_count": 592
+    },
+    "yeoman/yeoman": {
+      "archived": false,
+      "error": null,
+      "full_name": "yeoman/yeoman",
+      "stargazers_count": 10107
+    },
+    "yerbapage/swe-debate": {
+      "archived": false,
+      "error": null,
+      "full_name": "YerbaPage/SWE-Debate",
+      "stargazers_count": 34
+    },
+    "yoanwai/agent-manager": {
+      "archived": false,
+      "error": null,
+      "full_name": "YoanWai/agent-manager",
+      "stargazers_count": 469
+    },
+    "youssefvdel/qwengate": {
+      "archived": false,
+      "error": null,
+      "full_name": "youssefvdel/qwengate",
+      "stargazers_count": 196
+    },
+    "youwangd/sagecli": {
+      "archived": false,
+      "error": null,
+      "full_name": "youwangd/SageCLI",
+      "stargazers_count": 5
+    },
+    "yoyolab/yoyo": {
+      "error": "gh: Not Found (HTTP 404)",
+      "full_name": "yoyolab/yoyo",
+      "stargazers_count": null
+    },
+    "yuki-20/cornmcp": {
+      "archived": false,
+      "error": null,
+      "full_name": "yuki-20/CornMCP",
+      "stargazers_count": 68
+    },
+    "yushui2022/easy-coding-agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "yushui2022/easy-coding-agents",
+      "stargazers_count": 57
+    },
+    "yusifeng/formax": {
+      "archived": false,
+      "error": null,
+      "full_name": "yusifeng/formax",
+      "stargazers_count": 194
+    },
+    "yuuichieguchi/calyx": {
+      "archived": false,
+      "error": null,
+      "full_name": "yuuichieguchi/Calyx",
+      "stargazers_count": 318
+    },
+    "yzyydev/claude_code_sub_agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "yzyydev/claude_code_sub_agents",
+      "stargazers_count": 42
+    },
+    "zachblume/autospec": {
+      "archived": false,
+      "error": null,
+      "full_name": "zachblume/autospec",
+      "stargazers_count": 62
+    },
+    "zachnoel/multiagentworkflow": {
+      "archived": false,
+      "error": null,
+      "full_name": "zachnoel/multiAgentWorkflow",
+      "stargazers_count": 0
+    },
+    "zai-org/glm-5": {
+      "archived": false,
+      "error": null,
+      "full_name": "zai-org/GLM-5",
+      "stargazers_count": 7192
+    },
+    "zap-coding-agent/zap-coding-agent": {
+      "archived": false,
+      "error": null,
+      "full_name": "zap-coding-agent/zap-coding-agent",
+      "stargazers_count": 33
+    },
+    "zaxbyhub/opencode-swarm": {
+      "archived": false,
+      "error": null,
+      "full_name": "ZaxbyHub/opencode-swarm",
+      "stargazers_count": 473
+    },
+    "zclllyybb/opengiraffe": {
+      "archived": false,
+      "error": null,
+      "full_name": "zclllyybb/OpenGiraffe",
+      "stargazers_count": 106
+    },
+    "zeeshan138063/ai-agent-lab": {
+      "archived": false,
+      "error": null,
+      "full_name": "Zeeshan138063/ai-agent-lab",
+      "stargazers_count": 1
+    },
+    "zellij-org/zellij": {
+      "archived": false,
+      "error": null,
+      "full_name": "zellij-org/zellij",
+      "stargazers_count": 35429
+    },
+    "zencoderai/coding-the-coding-agents": {
+      "archived": false,
+      "error": null,
+      "full_name": "zencoderai/coding-the-coding-agents",
+      "stargazers_count": 94
+    },
+    "zentar-ai/zentara-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "Zentar-Ai/Zentara-Code",
+      "stargazers_count": 84
+    },
+    "zhanghandong/harness-engineering-from-cc-to-ai-coding": {
+      "archived": false,
+      "error": null,
+      "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+      "stargazers_count": 1502
+    },
+    "zhangliang605/carrycode": {
+      "archived": false,
+      "error": null,
+      "full_name": "zhangliang605/carrycode",
+      "stargazers_count": 44
+    },
+    "zhijiewong/openharness": {
+      "archived": false,
+      "error": null,
+      "full_name": "zhijiewong/openharness",
+      "stargazers_count": 97
+    },
+    "zhikunqingtao/zhikuncode": {
+      "archived": false,
+      "error": null,
+      "full_name": "zhikunqingtao/zhikuncode",
+      "stargazers_count": 494
+    },
+    "zhinjs/zhin": {
+      "archived": false,
+      "error": null,
+      "full_name": "zhinjs/zhin",
+      "stargazers_count": 135
+    },
+    "zhixiangluo/10xproductivity": {
+      "archived": false,
+      "error": null,
+      "full_name": "ZhixiangLuo/10xProductivity",
+      "stargazers_count": 474
+    },
+    "zhnt/loushang": {
+      "archived": false,
+      "error": null,
+      "full_name": "zhnt/loushang",
+      "stargazers_count": 1469
+    },
+    "zhulinsen/miniagent": {
+      "archived": false,
+      "error": null,
+      "full_name": "ZhuLinsen/MiniAgent",
+      "stargazers_count": 204
+    },
+    "zjrosen/perles": {
+      "archived": false,
+      "error": null,
+      "full_name": "zjrosen/perles",
+      "stargazers_count": 186
+    },
+    "zoo-code-org/zoo-code": {
+      "archived": false,
+      "error": null,
+      "full_name": "Zoo-Code-Org/Zoo-Code",
+      "stargazers_count": 1857
+    },
+    "zsj305/angles-cli": {
+      "archived": false,
+      "error": null,
+      "full_name": "angleschina/angles-cli",
+      "stargazers_count": 69
+    },
+    "zykjshadow/async": {
+      "archived": false,
+      "error": null,
+      "full_name": "ZYKJShadow/Async",
+      "stargazers_count": 478
+    }
+  },
+  "source": "GitHub REST API via gh"
+}

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-05-31"
 current_release: "2025-05-31"
-stars: "373"
+stars: "379"
 language: "Python"
 homepage: "https://medium.com/@fareedkhandev/6cb70487cd81"
 mcp_support: null

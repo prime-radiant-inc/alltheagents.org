@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2026-02-27"
 current_release: "2026-08-19"
-stars: "39"
+stars: "41"
 language: "TypeScript"
 homepage: "https://github.com/junkyard22/Orca"
 mcp_support: "True"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2024-07-17"
 current_release: "2026-02-23"
-stars: "547"
+stars: "549"
 language: "Python"
 homepage: "https://fastagency.ai/latest"
 mcp_support: "no"

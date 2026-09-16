@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2025-12-30"
 current_release: "2026-07-24"
-stars: "191"
+stars: "194"
 language: "TypeScript"
 homepage: "https://github.com/yusifeng/formax"
 mcp_support: "False"

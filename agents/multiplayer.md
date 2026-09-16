@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-17"
 current_release: "2026-08-18"
-stars: "38"
+stars: "42"
 language: "JavaScript, TypeScript (Node.js, pnpm/Turborepo monorepo)"
 homepage: "https://www.multiplayer.app/"
 mcp_support: "True"

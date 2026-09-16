@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-10"
 current_release: "2026-08-18"
-stars: "168"
+stars: "235"
 language: "Go"
 homepage: "https://enola.tech"
 mcp_support: "True"

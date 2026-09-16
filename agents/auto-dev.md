@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-04-14"
 current_release: "2026-08-04"
-stars: "4534"
+stars: "4544"
 language: "Kotlin"
 homepage: "https://ide.unitmesh.cc/"
 mcp_support: "yes"

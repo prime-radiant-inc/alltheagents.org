@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-21"
 current_release: "2026-08-19"
-stars: "44"
+stars: "45"
 language: "TypeScript (with shell scripts)"
 homepage: "https://www.npmjs.com/package/openclaw-code-agent"
 mcp_support: "no"

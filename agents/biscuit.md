@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2021-10-04"
 current_release: "2026-08-05"
-stars: "264"
+stars: "268"
 language: "Python"
 homepage: "https://biscuit.tomlin7.com"
 mcp_support: "False"

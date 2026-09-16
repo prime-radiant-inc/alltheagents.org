@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-02-28"
 current_release: "2026-08-19"
-stars: "71"
+stars: "78"
 language: "Java"
 homepage: "https://plugins.jetbrains.com/plugin/30415-agentbridge"
 mcp_support: "True"

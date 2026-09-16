@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2024-06-07"
 current_release: "2026-07-14"
-stars: "307"
+stars: "311"
 language: "Delphi / Object Pascal"
 homepage: "https://code4delphi.com.br/blog/"
 mcp_support: "False"

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2015-06-03"
 current_release: "2026-08-19"
-stars: "48734"
+stars: "49292"
 language: "C"
 homepage: null
 mcp_support: "no"

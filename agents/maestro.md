@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-01-07"
 current_release: "2026-04-19"
-stars: "1167"
+stars: "1174"
 language: "Rust, TypeScript"
 homepage: null
 mcp_support: "yes (stdio)"

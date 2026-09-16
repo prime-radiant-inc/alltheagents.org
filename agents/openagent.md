@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2020-05-29"
 current_release: "2026-08-18"
-stars: "5536"
+stars: "5626"
 language: "Go"
 homepage: "https://www.openagentai.org/"
 mcp_support: "yes"

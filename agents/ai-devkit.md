@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-10-14"
 current_release: "2026-08-19"
-stars: "1584"
+stars: "1629"
 language: "TypeScript / Node.js"
 homepage: "https://ai-devkit.com"
 mcp_support: "yes - memory exposed through MCP; init wires up MCP servers per agent"

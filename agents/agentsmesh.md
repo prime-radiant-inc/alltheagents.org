@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-02-28"
 current_release: "2026-08-03"
-stars: "2324"
+stars: "2350"
 language: "Go"
 homepage: "https://agentsmesh.ai"
 mcp_support: "partial (.mcp.json and mcp-e2e tests present in repo; not detailed in README)"

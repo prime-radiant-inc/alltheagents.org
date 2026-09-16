@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2023-12-17"
 current_release: "2023-12-29"
-stars: null
+stars: "0"
 language: "Jupyter Notebook"
 homepage: null
 mcp_support: "False"

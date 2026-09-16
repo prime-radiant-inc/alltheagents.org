@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2025-03-19"
 current_release: "2026-06-08"
-stars: "175"
+stars: "178"
 language: "Python"
 homepage: "https://www.vibehack.io/"
 mcp_support: "False"

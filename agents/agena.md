@@ -12,7 +12,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-03-21"
 current_release: "2026-08-02"
-stars: "97"
+stars: "99"
 language: "Python, TypeScript"
 homepage: "https://agena.dev"
 mcp_support: "no"

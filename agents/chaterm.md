@@ -13,7 +13,7 @@ platforms:
   - "Web"
 first_released: "2025-04-14"
 current_release: "2026-08-20"
-stars: "3017"
+stars: "3079"
 language: "TypeScript"
 homepage: "https://chaterm.ai"
 mcp_support: "no"

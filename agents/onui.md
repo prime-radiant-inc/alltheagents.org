@@ -12,7 +12,7 @@ platforms:
   - "Web"
 first_released: "2026-02-12"
 current_release: "2026-04-28"
-stars: "94"
+stars: "99"
 language: "TypeScript"
 homepage: "https://onui.onllm.dev"
 mcp_support: "True"

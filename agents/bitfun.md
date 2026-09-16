@@ -12,7 +12,7 @@ platforms:
   - "Desktop"
 first_released: "2026-02-02"
 current_release: "2026-08-20"
-stars: "1798"
+stars: "2250"
 language: "Rust"
 homepage: "https://openbitfun.com/"
 mcp_support: "yes (L2 customization tier includes MCP for connecting external tools)"

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-02-26"
 current_release: "2026-08-10"
-stars: "61"
+stars: "62"
 language: "TypeScript"
 homepage: "http://www.opencastle.dev/"
 mcp_support: "True"

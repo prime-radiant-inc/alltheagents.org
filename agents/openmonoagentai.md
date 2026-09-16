@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-30"
 current_release: "2026-08-20"
-stars: "1775"
+stars: "1832"
 language: "C# / .NET 10"
 homepage: "https://github.com/StartupHakk/OpenMonoAgent.ai"
 mcp_support: "yes - stdio; auto-detects code-review-graph MCP server, configurable in settings.json"

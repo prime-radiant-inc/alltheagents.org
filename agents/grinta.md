@@ -14,7 +14,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-01-27"
 current_release: "2026-08-19"
-stars: "29"
+stars: "31"
 language: "Python"
 homepage: "https://josephsenior.github.io/Grinta-Coding-Agent/"
 mcp_support: "True"

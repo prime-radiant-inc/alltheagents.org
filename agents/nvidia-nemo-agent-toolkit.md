@@ -13,7 +13,7 @@ platforms:
   - "Library"
 first_released: "2024"
 current_release: "2026"
-stars: null
+stars: "18463"
 language: "Python"
 homepage: "https://developer.nvidia.com/nemo-agent-toolkit"
 mcp_support: "True"

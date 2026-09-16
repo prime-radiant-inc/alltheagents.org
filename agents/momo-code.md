@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-06-16"
 current_release: "2026-08-14"
-stars: "309"
+stars: "633"
 language: "TypeScript"
 homepage: "https://momozi.cc"
 mcp_support: "True"

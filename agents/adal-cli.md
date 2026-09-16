@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-11-26"
 current_release: "2026-08-16"
-stars: "96"
+stars: "104"
 language: "HTML"
 homepage: "https://docs.sylph.ai/"
 mcp_support: "True"

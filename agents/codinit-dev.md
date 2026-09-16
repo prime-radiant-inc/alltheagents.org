@@ -13,7 +13,7 @@ platforms:
   - "Desktop"
 first_released: "2025-10-04"
 current_release: "2026-04-10"
-stars: "260"
+stars: "266"
 language: "TypeScript"
 homepage: "https://codinit.dev/download"
 mcp_support: "False"

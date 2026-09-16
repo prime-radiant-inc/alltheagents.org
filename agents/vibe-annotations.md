@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-07-16"
 current_release: "2026-08-17"
-stars: "141"
+stars: "163"
 language: "JavaScript"
 homepage: "https://www.vibe-annotations.com"
 mcp_support: "True"

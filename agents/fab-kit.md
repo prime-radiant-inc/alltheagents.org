@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2026-02-05"
 current_release: "2026-08-19"
-stars: "29"
+stars: "31"
 language: "Go"
 homepage: "https://shll.ai/fab-kit"
 mcp_support: "False"

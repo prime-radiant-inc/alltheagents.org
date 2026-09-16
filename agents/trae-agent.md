@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2025-06-13"
 current_release: "2026-02-05"
-stars: null
+stars: "12098"
 language: "Python"
 homepage: "https://www.trae.ai/"
 mcp_support: "True"

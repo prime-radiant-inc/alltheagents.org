@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-23"
 current_release: "2026-04-07"
-stars: "846"
+stars: "850"
 language: "JavaScript/TypeScript"
 homepage: "https://swapper.finance"
 mcp_support: "no"

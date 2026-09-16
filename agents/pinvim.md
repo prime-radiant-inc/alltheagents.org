@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-06"
 current_release: "2026-07-06"
-stars: "240"
+stars: "269"
 language: "Lua"
 homepage: "https://github.com/pablopunk/pi.nvim"
 mcp_support: "False"

@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2025-11-21"
 current_release: "2026-08-19"
-stars: "1071"
+stars: "1137"
 language: "Rust"
 homepage: null
 mcp_support: "yes (HTTP)"

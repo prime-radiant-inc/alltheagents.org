@@ -13,7 +13,7 @@ platforms:
   - "Autonomous"
 first_released: "2023-06-20"
 current_release: "2023-09-05"
-stars: "681"
+stars: "680"
 language: "Python"
 homepage: "https://github.com/emrgnt-cmplxty/automata"
 mcp_support: "no"

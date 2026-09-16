@@ -13,7 +13,7 @@ platforms:
   - "IDE"
 first_released: "2026-01-05"
 current_release: "2026-02-02"
-stars: "54"
+stars: "55"
 language: "TypeScript"
 homepage: "https://github.com/XCodingLab/XCoding"
 mcp_support: "no"

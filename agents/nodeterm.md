@@ -14,7 +14,7 @@ platforms:
   - "Desktop"
 first_released: "2026-06-15"
 current_release: "2026-08-20"
-stars: "956"
+stars: "1857"
 language: "TypeScript"
 homepage: "https://nodeterm.dev"
 mcp_support: "no"

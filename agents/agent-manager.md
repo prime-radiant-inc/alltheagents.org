@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-07-15"
 current_release: "2026-08-27"
-stars: 372
+stars: "469"
 language: "Go"
 homepage: "https://agent-manager.dev"
 mcp_support: "yes"

@@ -13,7 +13,7 @@ platforms:
   - "API"
 first_released: "2023-11"
 current_release: "DeepSeek-Coder-Instruct (January 2024)"
-stars: null
+stars: "24267"
 language: "Python"
 homepage: "https://www.deepseek.com/"
 mcp_support: null

@@ -14,7 +14,7 @@ platforms:
   - "Autonomous"
 first_released: "2026-05-08"
 current_release: "2026-08-20"
-stars: "17385"
+stars: "20904"
 language: "TypeScript (TUI), Python (agent runtime)"
 homepage: null
 mcp_support: "no"

@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-05-16"
 current_release: "2026-08-19"
-stars: "15"
+stars: "16"
 language: "Rust"
 homepage: "https://discord.gg/89fPgTKsRF"
 mcp_support: "True"

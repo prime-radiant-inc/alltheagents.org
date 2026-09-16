@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-07-31"
 current_release: "2026-08-19"
-stars: "36"
+stars: "31"
 language: "Python 3.11+"
 homepage: "https://forgeo.org"
 mcp_support: null

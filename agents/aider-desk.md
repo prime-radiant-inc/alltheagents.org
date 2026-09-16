@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2025-01-07"
 current_release: "2026-08-19"
-stars: "1395"
+stars: "1428"
 language: "TypeScript/JavaScript (Electron + React 19 + Tailwind)"
 homepage: "https://aiderdesk.hotovo.com"
 mcp_support: "yes - both MCP client (connect to any MCP server) and MCP server (expose itself to Claude Desktop, Cursor)"

@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-03-26"
 current_release: "2026-04-14"
-stars: "64"
+stars: "68"
 language: "TypeScript"
 homepage: null
 mcp_support: "True"

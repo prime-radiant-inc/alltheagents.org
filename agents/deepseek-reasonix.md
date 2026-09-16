@@ -12,7 +12,7 @@ platforms:
   - "CLI"
 first_released: "2026-04-21"
 current_release: "2026-08-20"
-stars: null
+stars: "35572"
 language: "Go, TypeScript"
 homepage: "http://reasonix.io/"
 mcp_support: "True"

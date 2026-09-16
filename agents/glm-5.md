@@ -11,7 +11,7 @@ source_available: "True"
 platforms: []
 first_released: "2026-02-09"
 current_release: "2026-08-11"
-stars: "7007"
+stars: "7192"
 language: "Python"
 homepage: "https://z.ai/blog/glm-5.2"
 mcp_support: "no"

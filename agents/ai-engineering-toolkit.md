@@ -11,7 +11,7 @@ source_available: "Yes"
 platforms: []
 first_released: "2025-08-06"
 current_release: "2026-05-11"
-stars: "3376"
+stars: "3388"
 language: null
 homepage: "https://aiengineering.beehiiv.com"
 mcp_support: "no"

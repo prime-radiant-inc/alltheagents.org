@@ -12,7 +12,7 @@ platforms:
   - "IDE"
 first_released: "2023-12-11"
 current_release: "2024-04-24"
-stars: "274"
+stars: "273"
 language: "TypeScript"
 homepage: null
 mcp_support: null
