@@ -905,6 +905,7 @@ Counts are not kept in this file. They are computed from the entry files at buil
 | `next-ai-starter` | next-ai-starter | other | A Next.js application template with agent-friendly conventions; the agent is the external AI tool, and the repo contains no harness or tool loop. |
 | `nezha` | nezha | multiplexer | An agent-first lightweight IDE that hosts and manages multiple Claude Code/Codex sessions across projects; the embedded agents do the coding, nezha supervises them. |
 | `nimbalyst` | Nimbalyst | multiplexer | A visual desktop workspace that hosts, reviews, and steers external coding agents (Claude Code, Codex, OpenCode, Copilot) via diffs and kanban; it does not code itself. |
+| `niteshift` | Niteshift | multiplexer | A hosted cloud that runs other coding agents — Claude Code, Codex, Cursor, OpenCode, and Pi — in isolated full-stack environments it configures itself, dispatching tasks from the web, Slack, Linear, GitHub, and webhooks rather than coding on its own. |
 | `nl2iac` | Nl2Iac | agent | A small domain-specific LLM agent that generates Terraform and assists GCP deployments; not a general coding harness but an agentic tool. |
 | `nlp-with-llms` | Nlp-With-Llms | other | Educational course repository of NLP/LLM training notebooks, not a tool or agent. |
 | `no-fate-ai` | No Fate AI | other | The domain no longer resolves and archived snapshots show only an uncustomized Next.js placeholder, so no product exists to classify; treated as dead/other. |
