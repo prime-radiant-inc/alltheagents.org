@@ -31,6 +31,14 @@
     "revenue_model": ["subscriptions"],
     "website": "https://www.microsoft.com"
   },
+  "prime-radiant-inc": {
+    "name": "Prime Radiant",
+    "maker_type": "company",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://www.primeradiant.com"
+  },
   "saoudrizwan": {
     "name": "Saoud Rizwan (Cline)",
     "maker_type": "individual",
