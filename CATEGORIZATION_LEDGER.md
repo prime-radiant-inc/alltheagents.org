@@ -1170,6 +1170,7 @@ Counts are not kept in this file. They are computed from the entry files at buil
 | `specbuddy` | SpecBuddy | multiplexer | A control layer that drives external agents (Claude Code, Codex) through spec-plan-step-review cycles rather than coding itself. |
 | `speech-to-code` | Speech-To-Code | other | A one-shot speech-to-LLM prompt composer displaying code for copy-out; no agentic tool loop. |
 | `sprocket` | Sprocket | agent | An agent that develops both hardware and software — schematics, BOMs, assembly instructions, and code — using web tools in a loop. |
+| `sprout` | Sprout | agent | A recursive terminal agent that owns its own loop end to end — the root plans, delegates, and verifies through its own subagents and leaf primitives rather than wrapping another agent's session. |
 | `squarebox` | squarebox | other | A containerized dev environment bundling existing CLI tools and coding assistants — neither an agent nor an orchestrator. |
 | `srd-codefree` | SRD CodeFree | agent | A VS Code AI programming assistant whose agent mode reads/edits files, runs terminal commands, and accepts MCP tools. |
 | `sre` | sre | agent | A runtime and SDK that executes the agent loop for developer-built agents with model/tool/resource orchestration. |
