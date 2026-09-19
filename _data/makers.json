@@ -15,6 +15,14 @@
     "revenue_model": [],
     "website": "https://datasette.io/"
   },
+  "ed3d": {
+    "name": "Ed Ropple",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://ed3d.net/"
+  },
   "gi-dellav": {
     "name": "Giuseppe Della Vedova",
     "maker_type": "individual",
