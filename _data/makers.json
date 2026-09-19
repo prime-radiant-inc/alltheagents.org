@@ -1,4 +1,12 @@
 {
+  "Niteshift": {
+    "name": "Niteshift Inc.",
+    "maker_type": "company",
+    "country": "US",
+    "makes_models": false,
+    "revenue_model": ["subscriptions"],
+    "website": "https://niteshift.dev/"
+  },
   "anthropic": {
     "name": "Anthropic",
     "maker_type": "company",
