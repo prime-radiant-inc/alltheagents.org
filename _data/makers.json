@@ -95,6 +95,14 @@
     "revenue_model": [],
     "website": "https://shisa.ai"
   },
+  "tecadrise-ai": {
+    "name": "TecAdRise",
+    "maker_type": "company",
+    "country": "PL",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://tecadrise.ai"
+  },
   "tontinton": {
     "name": "Tony Solomonik",
     "maker_type": "individual",
