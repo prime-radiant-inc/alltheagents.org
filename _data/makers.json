@@ -86,5 +86,13 @@
     "makes_models": false,
     "revenue_model": [],
     "website": "https://tontinton.com"
+  },
+  "yylo-dev": {
+    "name": "Juno AI INC.",
+    "maker_type": "company",
+    "country": "CA",
+    "makes_models": false,
+    "revenue_model": ["subscriptions"],
+    "website": "https://yylo.dev"
   }
 }
