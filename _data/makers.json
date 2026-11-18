@@ -7,6 +7,14 @@
     "revenue_model": ["subscriptions"],
     "website": "https://niteshift.dev/"
   },
+  "NousResearch": {
+    "name": "Nous Research",
+    "maker_type": "company",
+    "country": "US",
+    "makes_models": true,
+    "revenue_model": ["tokens", "subscriptions"],
+    "website": "https://nousresearch.com"
+  },
   "anthropic": {
     "name": "Anthropic",
     "maker_type": "company",
