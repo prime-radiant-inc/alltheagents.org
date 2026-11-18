@@ -423,6 +423,7 @@ Counts are not kept in this file. They are computed from the entry files at buil
 | `cortex` | cortex | other | An Elixir file-watcher/test-runner with zero AI - the 'intelligent coding assistant' tagline predates LLMs; archived November 2025. |
 | `cortex-code-cli` | Cortex Code CLI | agent | Snowflake's first-party terminal coding agent (CoCo) that orchestrates 55+ data-platform skills and MCP tools in a plan-confirmed loop. |
 | `cosmo` | Cosmo | other | An ecommerce customer-service AI (WhatsApp/Instagram/web support) that creates no software - a name collision with a coding agent, not a borderline case. |
+| `counselors` | counselors | multiplexer | A CLI that fans one prompt out to installed coding agents (Claude Code, Codex, Gemini CLI, Amp, or custom CLIs) and collects their independent responses; the consulted CLIs do the coding. |
 | `cowork-to-code-bridge` | cowork-to-code-bridge | other | A file-based transport bridge between Claude Cowork's sandbox and a local Claude Code - the coding loop belongs to Claude Code; the bridge just moves tasks. |
 | `coze-studio` | coze-studio | other | ByteDance's open-sourced visual platform for building conversational agents (RAG, plugins, workflows) - an agent-building platform, not a coding agent that writes software. |
 | `cre-acquisition-orchestrator` | cre-acquisition-orchestrator | other | A 31-role multi-agent framework for commercial real-estate deal analysis running on Codex as runtime - domain workflow orchestration, not software development. |
