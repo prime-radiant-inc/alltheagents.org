@@ -15,6 +15,14 @@
     "revenue_model": ["tokens", "subscriptions"],
     "website": "https://nousresearch.com"
   },
+  "ZHangZHengEric": {
+    "name": "Eric ZZ",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/ZHangZHengEric/Sage"
+  },
   "aarondfrancis": {
     "name": "Aaron Francis",
     "maker_type": "individual",
