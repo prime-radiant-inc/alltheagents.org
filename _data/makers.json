@@ -15,6 +15,14 @@
     "revenue_model": ["tokens", "subscriptions"],
     "website": "https://nousresearch.com"
   },
+  "aarondfrancis": {
+    "name": "Aaron Francis",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://aaronfrancis.com"
+  },
   "anthropic": {
     "name": "Anthropic",
     "maker_type": "company",
