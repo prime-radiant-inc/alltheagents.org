@@ -1357,6 +1357,7 @@ Counts are not kept in this file. They are computed from the entry files at buil
 | `youware` | Youware | agent | Youware is a hosted chat-based app builder whose AI generates and iterates on web apps; the harness is the platform itself. |
 | `yoyo` | yoyo | agent | A self-evolving Rust coding-agent CLI that modifies its own source under a GitHub Actions loop; the build-test-revert cycle is the agentic loop. |
 | `yt-channels-ds-ai-ml-cs` | yt-channels-DS-AI-ML-CS | other | A curated awesome list of YouTube channels; it is a resource list with no code or agent behavior. |
+| `yylo` | YYLO | multiplexer | A CLI orchestrator that prepares per-task worktrees, runs external coding-agent CLIs (Pi, Claude Code, Codex, Gemini) as subagents, and owns the task, validation, and merge boundaries around their work — the coding loop lives in the hosted agents, not in YYLO itself. |
 | `zai-code` | Z.ai Code | other | Z.ai Code is the GLM model family and coding-plan API from Zhipu's international brand — a model provider that powers agents, not an agent itself. |
 | `zap` | Zap | agent | A Rust terminal coding agent with its own AST index and skill system; an agent in the direct sense. |
 | `zapier-ai` | Zapier AI | other | Automation/integration platform exposing MCP and SDK tool access to AI agents; it does not itself run a coding tool loop, so it is 'other' (tool supplier for agents). |
