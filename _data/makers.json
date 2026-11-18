@@ -31,6 +31,14 @@
     "revenue_model": [],
     "website": "https://datasette.io/"
   },
+  "docker": {
+    "name": "Docker, Inc.",
+    "maker_type": "company",
+    "country": "US",
+    "makes_models": false,
+    "revenue_model": ["subscriptions"],
+    "website": "https://www.docker.com"
+  },
   "ed3d": {
     "name": "Ed Ropple",
     "maker_type": "individual",
