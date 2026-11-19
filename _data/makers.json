@@ -1,4 +1,20 @@
 {
+  "CoderBaba-si": {
+    "name": "CoderBaba.si",
+    "maker_type": "company",
+    "country": "US",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://coderbaba.si"
+  },
+  "Mingbird": {
+    "name": "Mingbird",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/Mingbird/Mingbird-agent"
+  },
   "Niteshift": {
     "name": "Niteshift Inc.",
     "maker_type": "company",
@@ -14,6 +30,54 @@
     "makes_models": true,
     "revenue_model": ["tokens", "subscriptions"],
     "website": "https://nousresearch.com"
+  },
+  "Scronkfinkle": {
+    "name": "Jesse Roland",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/Scronkfinkle"
+  },
+  "See-Sol-Lab": {
+    "name": "See-Sol-Lab",
+    "maker_type": "individual",
+    "country": "CN",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://www.ailover-atlas.com/deepseekgui/"
+  },
+  "SeeRay11": {
+    "name": "SeeRay11",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/SeeRay11/OpenFlow"
+  },
+  "Thurbeen": {
+    "name": "Thurbeen",
+    "maker_type": "community",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://thurbox.thurbeen.eu/"
+  },
+  "Varinomics": {
+    "name": "Varinomics Ltd",
+    "maker_type": "company",
+    "country": "CY",
+    "makes_models": false,
+    "revenue_model": ["subscriptions"],
+    "website": "https://varinomics.com"
+  },
+  "Wholiver": {
+    "name": "Chenrui HU",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://metisagent.tech/"
   },
   "ZHangZHengEric": {
     "name": "Eric ZZ",
@@ -31,6 +95,38 @@
     "revenue_model": [],
     "website": "https://aaronfrancis.com"
   },
+  "agent37": {
+    "name": "Agent 37",
+    "maker_type": "company",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": ["usage"],
+    "website": "https://agent37.com"
+  },
+  "aidreamy": {
+    "name": "Diego Zaluski",
+    "maker_type": "individual",
+    "country": "BR",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://www.co-sh.com"
+  },
+  "andrewboldi": {
+    "name": "Andrew Boldi",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/andrewboldi"
+  },
+  "andreylukin": {
+    "name": "Andrey Lukin",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/andreylukin"
+  },
   "anthropic": {
     "name": "Anthropic",
     "maker_type": "company",
@@ -39,6 +135,22 @@
     "revenue_model": ["tokens", "subscriptions"],
     "website": "https://www.anthropic.com"
   },
+  "appstudio26": {
+    "name": "Appstudio26",
+    "maker_type": "company",
+    "country": "US",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://trypalomino.com"
+  },
+  "daneb": {
+    "name": "Dane Balia",
+    "maker_type": "individual",
+    "country": "ZA",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://www.danebalia.com"
+  },
   "datasette": {
     "name": "Datasette",
     "maker_type": "community",
@@ -46,6 +158,14 @@
     "makes_models": false,
     "revenue_model": [],
     "website": "https://datasette.io/"
+  },
+  "deepseek-ai": {
+    "name": "DeepSeek",
+    "maker_type": "company",
+    "country": "CN",
+    "makes_models": true,
+    "revenue_model": ["subscriptions", "tokens"],
+    "website": "https://www.deepseek.com"
   },
   "docker": {
     "name": "Docker, Inc.",
@@ -63,6 +183,22 @@
     "revenue_model": [],
     "website": "https://ed3d.net/"
   },
+  "fabledruns": {
+    "name": "FabledRuns",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/fabledruns"
+  },
+  "founderly-inc": {
+    "name": "Founderly, Inc.",
+    "maker_type": "company",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://offrun.dev"
+  },
   "gi-dellav": {
     "name": "Giuseppe Della Vedova",
     "maker_type": "individual",
@@ -70,6 +206,94 @@
     "makes_models": false,
     "revenue_model": [],
     "website": "https://rocketup.pages.dev/"
+  },
+  "google": {
+    "name": "Google",
+    "maker_type": "company",
+    "country": "US",
+    "makes_models": true,
+    "revenue_model": ["tokens", "subscriptions"],
+    "website": "https://opensource.google"
+  },
+  "google-research": {
+    "name": "Google Research",
+    "maker_type": "company",
+    "country": "US",
+    "makes_models": true,
+    "revenue_model": ["tokens", "subscriptions"],
+    "website": "https://research.google"
+  },
+  "gszr": {
+    "name": "Guilherme Salazar",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/gszr"
+  },
+  "gvergnaud": {
+    "name": "Gabriel Vergnaud",
+    "maker_type": "individual",
+    "country": "FR",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/gvergnaud"
+  },
+  "halv-ai": {
+    "name": "Halv AI",
+    "maker_type": "company",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": ["subscriptions"],
+    "website": "https://halv.ai"
+  },
+  "infusius": {
+    "name": "Infusius",
+    "maker_type": "company",
+    "country": "SG",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/infusius"
+  },
+  "jolexxa": {
+    "name": "Joanna May",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/jolexxa"
+  },
+  "lambda-symbolics": {
+    "name": "Lambda Symbolics",
+    "maker_type": "company",
+    "country": "CZ",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://lambda-symbolics.com"
+  },
+  "lanes-sh": {
+    "name": "lanes.sh",
+    "maker_type": "company",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": ["subscriptions"],
+    "website": "https://lanes.sh"
+  },
+  "longsurf-ai": {
+    "name": "longsurf.ai",
+    "maker_type": "company",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://longsurf.ai"
+  },
+  "mezmo": {
+    "name": "Mezmo",
+    "maker_type": "company",
+    "country": "US",
+    "makes_models": false,
+    "revenue_model": ["subscriptions"],
+    "website": "https://www.mezmo.com"
   },
   "microsoft": {
     "name": "Microsoft",
@@ -79,6 +303,86 @@
     "revenue_model": ["subscriptions"],
     "website": "https://www.microsoft.com"
   },
+  "mukundzha": {
+    "name": "Mukund Jha",
+    "maker_type": "individual",
+    "country": "NP",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://agenthazzel.vercel.app"
+  },
+  "nagisanzenin": {
+    "name": "INIT Labs",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://initlabs.si"
+  },
+  "nano-muse": {
+    "name": "nanoMuse",
+    "maker_type": "community",
+    "country": "CN",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://nanomuse.cn/"
+  },
+  "nodecode-ai": {
+    "name": "Foresight Labs",
+    "maker_type": "company",
+    "country": "NL",
+    "makes_models": true,
+    "revenue_model": ["tokens"],
+    "website": "https://nodecode.ai"
+  },
+  "ordewell": {
+    "name": "Ordewell",
+    "maker_type": "company",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://ordewell.ai"
+  },
+  "phpclaw-php": {
+    "name": "phpClaw",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://phpclaw.ai"
+  },
+  "pi-pod": {
+    "name": "pi pod",
+    "maker_type": "community",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://pipod.dev"
+  },
+  "pizza-agent": {
+    "name": "pizza-agent",
+    "maker_type": "community",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://pizza.hertzbeat.com/"
+  },
+  "plasma-ai": {
+    "name": "Plasma AI",
+    "maker_type": "company",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://plasma.ai"
+  },
+  "prapaa-ai": {
+    "name": "agav",
+    "maker_type": "company",
+    "country": "IN",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://agav.dev"
+  },
   "prime-radiant-inc": {
     "name": "Prime Radiant",
     "maker_type": "company",
@@ -86,6 +390,22 @@
     "makes_models": false,
     "revenue_model": [],
     "website": "https://www.primeradiant.com"
+  },
+  "ringlochid": {
+    "name": "Leo Zhang",
+    "maker_type": "individual",
+    "country": "AU",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://ringlochid.me"
+  },
+  "rsi-gear": {
+    "name": "GEAR",
+    "maker_type": "company",
+    "country": "US",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://rsigear.xyz"
   },
   "saoudrizwan": {
     "name": "Saoud Rizwan (Cline)",
@@ -95,6 +415,14 @@
     "revenue_model": [],
     "website": "https://cline.bot"
   },
+  "saranyan": {
+    "name": "Saranyan",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/saranyan"
+  },
   "scgopi": {
     "name": "Srinivasa Chaitanya Gopireddy",
     "maker_type": "individual",
@@ -102,6 +430,14 @@
     "makes_models": false,
     "revenue_model": [],
     "website": "https://graphcode.app"
+  },
+  "seoes": {
+    "name": "dowonseo",
+    "maker_type": "individual",
+    "country": "KR",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/seoes"
   },
   "shisa-ai": {
     "name": "shisa.ai",
@@ -111,6 +447,38 @@
     "revenue_model": [],
     "website": "https://shisa.ai"
   },
+  "siraben": {
+    "name": "Ben Siraphob",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://psicode.ai"
+  },
+  "standing-desks": {
+    "name": "Standing Desks",
+    "maker_type": "company",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://standing-desks.github.io/handshake/"
+  },
+  "talos-kernel": {
+    "name": "Talos",
+    "maker_type": "company",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://talos-agent.ch"
+  },
+  "tals": {
+    "name": "Tal Shiri",
+    "maker_type": "individual",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://corgi.computer"
+  },
   "tecadrise-ai": {
     "name": "TecAdRise",
     "maker_type": "company",
@@ -119,6 +487,22 @@
     "revenue_model": [],
     "website": "https://tecadrise.ai"
   },
+  "telepath-computer": {
+    "name": "Telepath (Unternet PBC)",
+    "maker_type": "company",
+    "country": "US",
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://telepath.computer"
+  },
+  "ticketry-hq": {
+    "name": "Ticketry HQ",
+    "maker_type": "company",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://github.com/ticketry-hq"
+  },
   "tontinton": {
     "name": "Tony Solomonik",
     "maker_type": "individual",
@@ -126,6 +510,22 @@
     "makes_models": false,
     "revenue_model": [],
     "website": "https://tontinton.com"
+  },
+  "tribgames": {
+    "name": "Tribgames",
+    "maker_type": "community",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://mixdog.ai/"
+  },
+  "turri-oss": {
+    "name": "turri",
+    "maker_type": "community",
+    "country": null,
+    "makes_models": false,
+    "revenue_model": [],
+    "website": "https://turri.dev"
   },
   "yylo-dev": {
     "name": "Juno AI INC.",
